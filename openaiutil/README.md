@@ -8,6 +8,7 @@ The following utilities rely on openai API
 
 
 =========================== To run a simple json generator =======
+
 3. Run: 
         python simple_json_gen.py
 
