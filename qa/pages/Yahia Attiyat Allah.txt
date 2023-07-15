@@ -1,0 +1,76 @@
+{{No significant coverage (sports)|find=football|date=December 2022}}
+{{Use dmy dates|date=November 2022}}
+{{short description|Moroccan footballer (born 1995)}}
+{{Infobox football biography
+| name = Yahia Attiyat Allah
+| fullname = Yahia Attiyat Allah El Idrissi<ref name="FIFA 2022">{{cite web |url=https://fdp.fifa.org/assetspublic/ce44/pdf/SquadLists-English.pdf |title=FIFA World Cup Qatar 2022 – Squad list: Morocco (MAR) |publisher=[[FIFA]] |page=19 |date=15 November 2022 |access-date=15 November 2022}}</ref>
+| birth_date = {{Birth date and age|1995|3|2|df=yes}}
+| birth_place = [[Safi, Morocco|Safi]], Morocco
+| height = 1.76 m 
+| currentclub = [[Wydad AC]]
+| clubnumber = 14
+| position = [[Left-back]], [[left winger]]
+| years1 = 2014–2019
+| clubs1 = [[Olympic Club de Safi|Olympic Safi]]
+| caps1 = 115
+| goals1 = 11
+| years2 = 2019
+| clubs2 = [[Volos FC|Volos]]
+| caps2 = 8
+| goals2 = 1
+| years3 = 2020–
+| clubs3 = [[Wydad AC]]
+| caps3 = 71
+| goals3 = 4
+| nationalyears1 = 2022–
+| nationalteam1 = [[Morocco national football team|Morocco]]
+| nationalcaps1 = 10
+| nationalgoals1 = 0
+| club-update = 5 March 2022
+| nationalteam-update = 17 December 2022
+}}
+'''Yahia Attiyat Allah El Idrissi''' ({{lang-ar|يحيى عطية الله الإدريسي}}; born 2 March 1995) is a Moroccan professional [[association football|footballer]] who plays as a [[left-back]] or [[left winger]] for [[Botola]] club [[Wydad AC]] and the [[Morocco national football team|Morocco national team]].<ref>[https://www.slgr.gr/en/player/3461/ Profile at Super League Greece], slgr.gr</ref><ref>[https://www.sofascore.com/player/yahia-attiyat-allah/919677 Profile at Sofascore], sofascore.com</ref>
+
+== International career ==
+On 10 November 2022, he was named in Morocco's 26-man squad for the [[2022 FIFA World Cup]] in [[Qatar]].<ref>{{Cite web |title=Morocco World Cup 2022 squad: Who's in and who's out? {{!}} Goal.com |url=https://www.goal.com/en-bh/lists/morocco-2022-world-cup-squad-hakimi-ziyech-mazraoui-qatar/blta36257fc4feeb66a |access-date=10 November 2022 |website=www.goal.com}}</ref><ref>{{Cite web |date=10 November 2022 |title=Moroccan coach unveils list of 26 Atlas Lions in 2022 World Cup |url=https://en.hespress.com/52697-moroccan-coach-unveils-list-of-26-atlas-lions-in-2022-world-cup.html |access-date=10 November 2022 |website=HESPRESS English - Morocco News |language=en-US}}</ref>
+
+==Honours==
+'''Wydad AC'''
+*[[Botola|Moroccan League]] : 2020–21, 2021–22
+*[[CAF Champions League]] : [[2021–22 CAF Champions League | 2021-22]]
+
+'''Individual'''
+*[[Wydad AC]] Player of the Year: 2021–22
+'''Orders'''
+
+* [[Order of the Throne]]: 2022<ref>{{Cite web |date=2022-12-20 |title=King receives members of national soccer team, decorates them with Royal wissams |url=https://en.hespress.com/55519-king-receives-members-of-national-soccer-team-decorates-them-with-royal-wissams.html |access-date=2023-06-10 |website=HESPRESS English - Morocco News |language=en-US}}</ref>
+
+==References==
+{{reflist}}
+
+==External links==
+* {{Soccerway|616724}}
+* {{FootballDatabase.eu|219476-yehia-attiatallah}}
+
+{{Morocco squad 2022 FIFA World Cup}}
+
+{{DEFAULTSORT:Attiyat Allah, Yahia}}
+[[Category:1995 births]]
+[[Category:Living people]]
+[[Category:People from Safi, Morocco]]
+[[Category:Moroccan men's footballers]]
+[[Category:Men's association football fullbacks]]
+[[Category:Men's association football wingers]]
+[[Category:Olympic Club de Safi players]]
+[[Category:Volos F.C. players]]
+[[Category:Wydad AC players]]
+[[Category:Super League Greece players]]
+[[Category:Botola players]]
+[[Category:2022 FIFA World Cup players]]
+[[Category:Morocco men's international footballers]]
+[[Category:Moroccan expatriate men's footballers]]
+[[Category:Moroccan expatriate sportspeople in Greece]]
+[[Category:Expatriate men's footballers in Greece]]
+
+
+{{Morocco-footy-defender-stub}}

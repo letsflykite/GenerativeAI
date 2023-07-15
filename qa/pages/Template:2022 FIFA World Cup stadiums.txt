@@ -1,0 +1,27 @@
+{{ navbox
+| name  = 2022 FIFA World Cup stadiums
+| title = [[2022 FIFA World Cup]] stadiums
+| state = {{{state|autocollapse}}}
+|listclass = hlist
+| group1 = [[Doha]]
+| list1 =
+* [[Al Thumama Stadium]]
+* [[Stadium 974]]
+| group2 = [[Al Rayyan]]
+| list2 =
+* [[Ahmad bin Ali Stadium]] 
+* [[Education City Stadium]]
+* [[Khalifa International Stadium]]
+| group3 = Others
+| list3 =
+* [[Al Bayt Stadium]] ([[Al Khor (city)|Al Khor]])
+* [[Al Janoub Stadium]] ([[Al Wakrah]])
+* [[Lusail Stadium]] ([[Lusail]])
+}}<noinclude>
+{{Squad maintenance}}
+{{collapsible option}}
+
+[[Category:2022 FIFA World Cup templates|Stadiums]]
+[[Category:FIFA World Cup venues navigational boxes|2022]]
+
+</noinclude>

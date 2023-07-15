@@ -1,0 +1,42 @@
+{{National squad
+ | name        = Canada squad 2022 FIFA World Cup
+ | bg          = #E00000
+ | fg          = white
+ | bordercolor = white
+ | country     = Canada
+ | team link   = Canada men's national soccer team
+ | comp link   = 2022 FIFA World Cup
+ | comp        = 2022 FIFA World Cup
+ | p1          = [[Dayne St. Clair|St. Clair]]
+ | p2          = [[Alistair Johnston|Johnston]]
+ | p3          = [[Sam Adekugbe|Adekugbe]]
+ | p4          = [[Kamal Miller|Miller]]
+ | p5          = [[Steven Vitória|Vitória]]
+ | p6          = [[Samuel Piette|Piette]]
+ | p7          = [[Stephen Eustáquio|Eustáquio]]
+ | p8          = [[Liam Fraser|Fraser]]
+ | p9          = [[Lucas Cavallini|Cavallini]]
+ | p10         = [[Junior Hoilett|Hoilett]]
+ | p11         = [[Tajon Buchanan|Buchanan]]
+ | p12         = [[Iké Ugbo|Ugbo]]
+ | p13         = [[Atiba Hutchinson|Hutchinson]]&nbsp;([[Captain (association football)|c]])
+ | p14         = [[Mark-Anthony Kaye|Kaye]]
+ | p15         = [[Ismaël Koné|Koné]]
+ | p16         = [[James Pantemis|Pantemis]]
+ | p17         = [[Cyle Larin|Larin]]
+ | p18         = [[Milan Borjan|Borjan]]
+ | p19         = [[Alphonso Davies|Davies]]
+ | p20         = [[Jonathan David|David]]
+ | p21         = [[Jonathan Osorio|Osorio]]
+ | p22         = [[Richie Laryea|Laryea]]
+ | p23         = [[Liam Millar|Millar]]
+ | p24         = [[David Wotherspoon (footballer, born 1990)|Wotherspoon]]
+ | p25         = [[Derek Cornelius|Cornelius]]
+ | p26         = [[Joel Waterman|Waterman]]
+ | coach       = [[John Herdman|Herdman]]
+}}<noinclude>
+{{Squad maintenance}}
+[[Category:2022 FIFA World Cup squad navigational boxes|Canada]]
+[[Category:Canada FIFA World Cup squad navigational boxes|2022]]
+[[Category:Canada at the 2022 FIFA World Cup|squad]]
+</noinclude>

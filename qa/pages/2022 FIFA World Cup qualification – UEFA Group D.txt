@@ -1,0 +1,466 @@
+{{short description|none}}
+{{Use dmy dates|date=December 2020}}
+The '''2022 FIFA World Cup qualification UEFA Group D''' was one of the ten [[2022 FIFA World Cup qualification (UEFA)|UEFA groups]] in the [[2022 FIFA World Cup qualification|World Cup qualification]] tournament to decide which teams would qualify for the [[2022 FIFA World Cup]] finals tournament in Qatar.<ref>{{cite news |url=https://digitalhub.fifa.com/m/58b8109657d40e3d/original/ijoruwm3ly5kgz9wbu6j-pdf.pdf |title=UEFA preliminary competition for the FIFA World Cup 2022: Draw procedures |work=[[FIFA]] |format=PDF |date=22 October 2020 |access-date=22 October 2020}}</ref> Group D consisted of five teams: [[Bosnia and Herzegovina national football team|Bosnia and Herzegovina]], [[Finland national football team|Finland]], [[France national football team|France]] (the [[2018 FIFA World Cup|title holders]]), [[Kazakhstan national football team|Kazakhstan]] and [[Ukraine national football team|Ukraine]].<ref>{{cite web |url=https://editorial.uefa.com/resources/0264-1108c702e548-758110ebe57c-1000/draw_result_sheet.pdf |title=FIFA World Cup Preliminary Competition – Draw Results |work=UEFA |format=PDF |date=7 December 2020 |access-date=7 December 2020}}</ref> The teams played against each other home-and-away in a [[round-robin tournament|round-robin format]].<ref>{{cite web |url=https://digitalhub.fifa.com/m/271202c2bf80db17/original/adjlwts3o6c57g0skqor-pdf.pdf |title=UEFA preliminary competition format for the FIFA World Cup 2022 |work=FIFA |format=PDF |date=4 December 2020 |access-date=7 December 2020}}</ref>
+
+The group winners, France, qualified directly for the World Cup finals, while the runners-up, Ukraine, advanced to the [[2022 FIFA World Cup qualification – UEFA second round|second round (play-offs)]].
+
+==Standings==
+<onlyinclude>{{#invoke:Sports table|main|style=WDL
+|show_matches=y
+|class_rules=[[2022 FIFA World Cup qualification#Tiebreakers|Tiebreakers]]
+|source=[https://www.fifa.com/tournaments/mens/worldcup/qatar2022/qualifiers/uefa FIFA], [https://www.uefa.com/european-qualifiers/standings/#grp-2007931 UEFA]
+
+<!--Update team positions below (check tiebreakers)-->
+|team_order=FRA, UKR, FIN, BIH, KAZ
+
+<!--Update team results below (including date)-->
+|update=complete
+|win_FRA=5 |draw_FRA=3 |loss_FRA=0 |gf_FRA=18|ga_FRA=3
+|win_UKR=2 |draw_UKR=6 |loss_UKR=0 |gf_UKR=11|ga_UKR=8
+|win_FIN=3 |draw_FIN=2 |loss_FIN=3 |gf_FIN=10|ga_FIN=10
+|win_BIH=1 |draw_BIH=4 |loss_BIH=3 |gf_BIH=9 |ga_BIH=12
+|win_KAZ=0 |draw_KAZ=3 |loss_KAZ=5 |gf_KAZ=5 |ga_KAZ=20
+
+<!--Update match results below-->
+|match_FRA_UKR=[[2022 FIFA World Cup qualification – UEFA Group D#France v Ukraine|1–1]]
+|match_FRA_FIN=[[2022 FIFA World Cup qualification – UEFA Group D#France v Finland|2–0]]
+|match_FRA_BIH=[[2022 FIFA World Cup qualification – UEFA Group D#France v Bosnia and Herzegovina|1–1]]
+|match_FRA_KAZ=[[2022 FIFA World Cup qualification – UEFA Group D#France v Kazakhstan|8–0]]
+
+|match_UKR_FRA=[[2022 FIFA World Cup qualification – UEFA Group D#Ukraine v France|1–1]]
+|match_UKR_FIN=[[2022 FIFA World Cup qualification – UEFA Group D#Ukraine v Finland|1–1]]
+|match_UKR_BIH=[[2022 FIFA World Cup qualification – UEFA Group D#Ukraine v Bosnia and Herzegovina|1–1]]
+|match_UKR_KAZ=[[2022 FIFA World Cup qualification – UEFA Group D#Ukraine v Kazakhstan|1–1]]
+
+|match_FIN_FRA=[[2022 FIFA World Cup qualification – UEFA Group D#Finland v France|0–2]]
+|match_FIN_UKR=[[2022 FIFA World Cup qualification – UEFA Group D#Finland v Ukraine|1–2]]
+|match_FIN_BIH=[[2022 FIFA World Cup qualification – UEFA Group D#Finland v Bosnia and Herzegovina|2–2]]
+|match_FIN_KAZ=[[2022 FIFA World Cup qualification – UEFA Group D#Finland v Kazakhstan|1–0]]
+
+|match_BIH_FRA=[[2022 FIFA World Cup qualification – UEFA Group D#Bosnia and Herzegovina v France|0–1]]
+|match_BIH_UKR=[[2022 FIFA World Cup qualification – UEFA Group D#Bosnia and Herzegovina v Ukraine|0–2]]
+|match_BIH_FIN=[[2022 FIFA World Cup qualification – UEFA Group D#Bosnia and Herzegovina v Finland|1–3]]
+|match_BIH_KAZ=[[2022 FIFA World Cup qualification – UEFA Group D#Bosnia and Herzegovina v Kazakhstan|2–2]]
+
+|match_KAZ_FRA=[[2022 FIFA World Cup qualification – UEFA Group D#Kazakhstan v France|0–2]]
+|match_KAZ_UKR=[[2022 FIFA World Cup qualification – UEFA Group D#Kazakhstan v Ukraine|2–2]]
+|match_KAZ_FIN=[[2022 FIFA World Cup qualification – UEFA Group D#Kazakhstan v Finland|0–2]]
+|match_KAZ_BIH=[[2022 FIFA World Cup qualification – UEFA Group D#Kazakhstan v Bosnia and Herzegovina|0–2]]
+
+<!--Team definitions-->
+|name_FRA={{fb|FRA}} |short_FRA={{flagdeco|FRA}}
+|name_UKR={{fb|UKR}} |short_UKR={{flagdeco|UKR}}
+|name_FIN={{fb|FIN}} |short_FIN={{flagdeco|FIN}}
+|name_BIH={{fb|BIH}} |short_BIH={{flagdeco|BIH}}
+|name_KAZ={{fb|KAZ}} |short_KAZ={{flagdeco|KAZ}}
+
+<!--Qualification column definitions-->
+|res_col_header=Q
+|result1=WC |result2=PO
+|col_WC=green1 |text_WC=Qualification for [[2022 FIFA World Cup]]
+|col_PO=blue1  |text_PO=Advance to [[2022 FIFA World Cup qualification – UEFA second round|play-offs]]
+}}</onlyinclude>
+
+==Matches==
+The fixture list was confirmed by UEFA on 8 December 2020, the day following the draw.<ref>{{cite web |url=https://www.uefa.com/european-qualifiers/news/0264-110cbe0bf3c8-20065adb8f46-1000/ |title=European Qualifiers for 2022 World Cup: all the fixtures |work=UEFA |date=9 December 2020 |access-date=12 December 2020}}</ref><ref>{{cite web |url=https://editorial.uefa.com/resources/0264-110ace207077-148a7a2a0834-1000/worldcupfixtures.pdf |title=Fixture List – European Qualifiers 2020–2022: FIFA World Cup Preliminary Competition |work=UEFA |date=8 December 2020 |access-date=8 December 2020}}</ref><ref>{{cite web |url=https://editorial.uefa.com/resources/0264-110ad8d233bb-8b2abff6c4d7-1000/eq_2020-22_-_fixtures_list_by_groups.pdf |title=Fixture List by Group – European Qualifiers 2020–2022: FIFA World Cup Preliminary Competition |work=UEFA |date=8 December 2020 |access-date=8 December 2020}}</ref> Times are [[Central European Time|CET]]/[[Central European Summer Time|CEST]],{{refn|group=note|[[Central European Time|CET]] ([[UTC+01:00|UTC+1]]) for matches until 27 March and from 31 October (matchday 1 and 9–10), and [[Central European Summer Time|CEST]] ([[UTC+02:00|UTC+2]]) for matches from 28 March to 30 October 2021 (matchday 2–8).}} as listed by UEFA (local times, if different, are in parentheses).
+
+{{Football box
+|id=Finland v Bosnia and Herzegovina
+|date={{Start date|2021|3|24|df=y}}
+|time=20:45 {{small|(21:45 [[UTC+02:00|UTC+2]])}}
+|team1={{fb-rt|FIN}}
+|score=2–2
+|report=[https://www.fifa.com/tournaments/mens/worldcup/qatar2022/qualifiers/uefa/match-center/400155613 Report (FIFA)]<br />[https://www.uefa.com/european-qualifiers/match/2030766/ Report (UEFA)]
+|team2={{fb|BIH}}
+|goals1=[[Teemu Pukki|Pukki]] {{goal|58||77}}
+|goals2=
+*[[Miralem Pjanić|Pjanić]] {{goal|55}}
+*[[Miroslav Stevanović|Stevanović]] {{goal|84}}
+|stadium=[[Helsinki Olympic Stadium]], [[Helsinki]]
+|attendance=0<ref>{{UEFA match attendance|2030766|Finland vs. Bosnia and Herzegovina |date=24 March 2021|access-date=1 April 2021}}</ref>{{refn|group=note|name=Behind closed doors|Due to the [[COVID-19 pandemic in Europe]], the match was played [[Behind closed doors (sport)|behind closed doors]].}}
+|referee= [[Anastasios Sidiropoulos]] ([[Hellenic Football Federation|Greece]])
+}}
+{{Football box
+|id=France v Ukraine
+|date={{Start date|2021|3|24|df=y}}
+|time=20:45
+|team1={{fb-rt|FRA}}
+|score=1–1
+|report=[https://www.fifa.com/tournaments/mens/worldcup/qatar2022/qualifiers/uefa/match-center/400155619 Report (FIFA)]<br />[https://www.uefa.com/european-qualifiers/match/2030762/ Report (UEFA)]
+|team2={{fb|UKR}}
+|goals1=[[Antoine Griezmann|Griezmann]] {{goal|19}}
+|goals2=[[Serhiy Sydorchuk|Sydorchuk]] {{goal|57}}
+|stadium=[[Stade de France]], [[Saint-Denis, Seine-Saint-Denis|Saint-Denis]]
+|attendance=0<ref>{{UEFA match attendance|2030762|France vs. Ukraine |date=24 March 2021|access-date=1 April 2021}}</ref>{{refn|group=note|name=Behind closed doors}}
+|referee=[[Tobias Stieler]] ([[German Football Association|Germany]])
+}}
+----
+{{Football box
+|id=Kazakhstan v France
+|date={{Start date|2021|3|28|df=y}}
+|time=15:00 {{small|(19:00 [[UTC+06:00|UTC+6]])}}
+|team1={{fb-rt|KAZ}}
+|score=0–2
+|report=[https://www.fifa.com/tournaments/mens/worldcup/qatar2022/qualifiers/uefa/match-center/400155626 Report (FIFA)]<br />[https://www.uefa.com/european-qualifiers/match/2030791/ Report (UEFA)]
+|team2={{fb|FRA}}
+|goals1=
+|goals2=
+*[[Ousmane Dembélé|Dembélé]] {{goal|19}}
+*[[Serhiy Malyi|Malyi]] {{goal|44|o.g.}}
+|stadium=[[Astana Arena]], [[Nur-Sultan]]
+|attendance=0<ref>{{UEFA match attendance|2030791|Kazakhstan vs. France |date=28 March 2021|access-date=1 April 2021}}</ref>{{refn|group=note|name=Behind closed doors}}
+|referee=[[Aleksei Kulbakov]] ([[Football Federation of Belarus|Belarus]])
+}}
+{{Football box
+|id=Ukraine v Finland
+|date={{Start date|2021|3|28|df=y}}
+|time=20:45 {{small|(21:45 [[UTC+03:00|UTC+3]])}}
+|team1={{fb-rt|UKR}}
+|score=1–1
+|report=[https://www.fifa.com/tournaments/mens/worldcup/qatar2022/qualifiers/uefa/match-center/400155614 Report (FIFA)]<br />[https://www.uefa.com/european-qualifiers/match/2030795/ Report (UEFA)]
+|team2={{fb|FIN}}
+|goals1=
+*[[Júnior Moraes|Moraes]] {{goal|80}}
+|goals2=
+*[[Teemu Pukki|Pukki]] {{goal|89|pen.}}
+|stadium=[[Olimpiyskiy National Sports Complex|NSK Olimpiyskiy]], [[Kyiv]]
+|attendance=0<ref>{{UEFA match attendance|2030795|Ukraine vs. Finland |date=28 March 2021|access-date=1 April 2021}}</ref>{{refn|group=note|name=Behind closed doors}}
+|referee=[[István Kovács (referee)|István Kovács]] ([[Romanian Football Federation|Romania]])
+}}
+----
+{{Football box
+|id=Bosnia and Herzegovina v France
+|date={{Start date|2021|3|31|df=y}}
+|time=20:45
+|team1={{fb-rt|BIH}}
+|score=0–1
+|report=[https://www.fifa.com/tournaments/mens/worldcup/qatar2022/qualifiers/uefa/match-center/400155620 Report (FIFA)]<br />[https://www.uefa.com/european-qualifiers/match/2030818/ Report (UEFA)]
+|team2={{fb|FRA}}
+|goals1=
+|goals2=
+*[[Antoine Griezmann|Griezmann]] {{goal|60}}
+|stadium=[[Stadion Grbavica]], [[Sarajevo]]
+|attendance=0<ref>{{UEFA match attendance|2030818|Bosnia and Herzegovina vs. France |date=31 March 2021|access-date=1 April 2021}}</ref>{{refn|group=note|name=Behind closed doors}}
+|referee=[[Daniele Orsato]] ([[Italian Football Federation|Italy]])
+}}
+{{Football box
+|id=Ukraine v Kazakhstan
+|date={{Start date|2021|3|31|df=y}}
+|time=20:45 {{small|(21:45 [[UTC+03:00|UTC+3]])}}
+|team1={{fb-rt|UKR}}
+|score=1–1
+|report=[https://www.fifa.com/tournaments/mens/worldcup/qatar2022/qualifiers/uefa/match-center/400155628 Report (FIFA)]<br />[https://www.uefa.com/european-qualifiers/match/2030816/ Report (UEFA)]
+|team2={{fb|KAZ}}
+|goals1=
+*[[Roman Yaremchuk|Yaremchuk]] {{goal|20}}
+|goals2=
+*[[Serikzhan Muzhikov|Muzhikov]] {{goal|59}}
+|stadium=[[Olimpiyskiy National Sports Complex|NSK Olimpiyskiy]], [[Kyiv]]
+|attendance=0<ref>{{UEFA match attendance|2030816|Ukraine vs. Kazakhstan |date=31 March 2021|access-date=1 April 2021}}</ref>{{refn|group=note|name=Behind closed doors}}
+|referee=[[Matej Jug]] ([[Football Association of Slovenia|Slovenia]])
+}}
+----
+{{Football box
+|id=Kazakhstan v Ukraine
+|date={{Start date|2021|9|1|df=y}}
+|time=16:00 {{small|(20:00 [[UTC+06:00|UTC+6]])}}
+|team1={{fb-rt|KAZ}}
+|score=2–2
+|report=[https://www.fifa.com/tournaments/mens/worldcup/qatar2022/qualifiers/uefa/match-center/400155616 Report (FIFA)]<br />[https://www.uefa.com/european-qualifiers/match/2030837/ Report (UEFA)]
+|team2={{fb|UKR}}
+|goals1=
+*[[Ruslan Valiullin|Valiullin]] {{goal|74||90+6}}
+|goals2=
+*[[Roman Yaremchuk|Yaremchuk]] {{goal|2}}
+*[[Danylo Sikan|Sikan]] {{goal|90+3}}
+|stadium=[[Astana Arena]], [[Nur-Sultan]]
+|attendance=6,274<ref>{{UEFA match attendance|2030837|Kazakhstan vs. Ukraine |date=1 September 2021|access-date=2 September 2021}}</ref>
+|referee=[[Donatas Rumšas]] ([[Lithuanian Football Federation|Lithuania]])
+}}
+{{Football box
+|id=France v Bosnia and Herzegovina
+|date={{Start date|2021|9|1|df=y}}
+|time=20:45
+|team1={{fb-rt|FRA}}
+|score=1–1
+|report=[https://www.fifa.com/tournaments/mens/worldcup/qatar2022/qualifiers/uefa/match-center/400155618 Report (FIFA)]<br />[https://www.uefa.com/european-qualifiers/match/2030838/ Report (UEFA)]
+|team2={{fb|BIH}}
+|goals1=
+*[[Antoine Griezmann|Griezmann]] {{goal|40}}
+|goals2=
+*[[Edin Džeko|Džeko]] {{goal|36}}
+|stadium=[[Stade de la Meinau]], [[Strasbourg]]
+|attendance=21,754<ref>{{UEFA match attendance|2030838|France vs. Bosnia and Herzegovina |date=1 September 2021|access-date=2 September 2021}}</ref>
+|referee=[[Sandro Schärer]] ([[Swiss Football Association|Switzerland]])
+}}
+----
+{{Football box
+|id=Finland v Kazakhstan
+|date={{Start date|2021|9|4|df=y}}
+|time=15:00 {{small|(16:00 [[UTC+03:00|UTC+3]])}}
+|team1={{fb-rt|FIN}}
+|score=1–0
+|report=[https://www.fifa.com/tournaments/mens/worldcup/qatar2022/qualifiers/uefa/match-center/400155631 Report (FIFA)]<br />[https://www.uefa.com/european-qualifiers/match/2030865/ Report (UEFA)]
+|team2={{fb|KAZ}}
+|goals1=
+*[[Joel Pohjanpalo|Pohjanpalo]] {{goal|60}}
+|goals2=
+|stadium=[[Helsinki Olympic Stadium]], [[Helsinki]]
+|attendance=10,167<ref>{{UEFA match attendance|2030865|Finland vs. Kazakhstan |date=4 September 2021|access-date=5 September 2021}}</ref>
+|referee=[[Sergei Ivanov (referee)|Sergei Ivanov]] ([[Russian Football Union|Russia]])
+}}
+{{Football box
+|id=Ukraine v France
+|date={{Start date|2021|9|4|df=y}}
+|time=20:45 {{small|(21:45 [[UTC+03:00|UTC+3]])}}
+|team1={{fb-rt|UKR}}
+|score=1–1
+|report=[https://www.fifa.com/tournaments/mens/worldcup/qatar2022/qualifiers/uefa/match-center/400155612 Report (FIFA)]<br />[https://www.uefa.com/european-qualifiers/match/2030870/ Report (UEFA)]
+|team2={{fb|FRA}}
+|goals1=
+*[[Mykola Shaparenko|Shaparenko]] {{goal|44}}
+|goals2=
+*[[Anthony Martial|Martial]] {{goal|50}}
+|stadium=[[Olimpiyskiy National Sports Complex|NSK Olimpiyskiy]], [[Kyiv]]
+|attendance=48,000<ref>{{UEFA match attendance|2030870|Ukraine vs. France |date=4 September 2021|access-date=5 September 2021}}</ref>
+|referee=[[Slavko Vinčić]] ([[Football Association of Slovenia|Slovenia]])
+}}
+----
+{{Football box
+|id=Bosnia and Herzegovina v Kazakhstan
+|date={{Start date|2021|9|7|df=y}}
+|time=20:45
+|team1={{fb-rt|BIH}}
+|score=2–2
+|report=[https://www.fifa.com/tournaments/mens/worldcup/qatar2022/qualifiers/uefa/match-center/400155625 Report (FIFA)]<br />[https://www.uefa.com/european-qualifiers/match/2030894/ Report (UEFA)]
+|team2={{fb|KAZ}}
+|goals1=
+*[[Miralem Pjanić|Pjanić]] {{goal|74|pen.}}
+*[[Luka Menalo|Menalo]] {{goal|86}}
+|goals2=
+*[[Islambek Kuat|Kuat]] {{goal|52}}
+*[[Bakhtiyar Zaynutdinov|Zaynutdinov]] {{goal|90+5}}
+|stadium=[[Bilino Polje Stadium]], [[Zenica]]
+|attendance=3,980<ref>{{UEFA match attendance|2030894|Bosnia and Herzegovina vs. Kazakhstan |date=7 September 2021|access-date=7 September 2021}}</ref>
+|referee=[[Yigal Frid]] ([[Israel Football Association|Israel]])
+}}
+{{Football box
+|id=France v Finland
+|date={{Start date|2021|9|7|df=y}}
+|time=20:45
+|team1={{fb-rt|FRA}}
+|score=2–0
+|report=[https://www.fifa.com/tournaments/mens/worldcup/qatar2022/qualifiers/uefa/match-center/400155627 Report (FIFA)]<br />[https://www.uefa.com/european-qualifiers/match/2030888/ Report (UEFA)]
+|team2={{fb|FIN}}
+|goals1=
+*[[Antoine Griezmann|Griezmann]] {{goal|25||53}}
+|goals2=
+|stadium=[[Parc Olympique Lyonnais]], [[Lyon]]
+|attendance=57,057<ref>{{UEFA match attendance|2030888|France vs. Finland |date=7 September 2021|access-date=7 September 2021}}</ref>
+|referee=[[Deniz Aytekin]] ([[German Football Association|Germany]])
+}}
+----
+{{Football box
+|id=Kazakhstan v Bosnia and Herzegovina
+|date={{Start date|2021|10|9|df=y}}
+|time=15:00 {{small|(19:00 [[UTC+06:00|UTC+6]])}}
+|team1={{fb-rt|KAZ}}
+|score=0–2
+|report=[https://www.fifa.com/tournaments/mens/worldcup/qatar2022/qualifiers/uefa/match-center/400155615 Report (FIFA)]<br />[https://www.uefa.com/european-qualifiers/match/2030928/ Report (UEFA)]
+|team2={{fb|BIH}}
+|goals1=
+|goals2=
+*[[Smail Prevljak|Prevljak]] {{goal|25||66}}
+|stadium=[[Astana Arena]], [[Nur-Sultan]]
+|attendance=12,897<ref>{{UEFA match attendance|2030928|Kazakhstan vs. Bosnia and Herzegovina |date=9 October 2021|access-date=9 October 2021}}</ref>
+|referee=[[Davide Massa]] ([[Italian Football Federation|Italy]])
+}}
+{{Football box
+|id=Finland v Ukraine
+|date={{Start date|2021|10|9|df=y}}
+|time=18:00 {{small|(19:00 [[UTC+03:00|UTC+3]])}}
+|team1={{fb-rt|FIN}}
+|score=1–2
+|report=[https://www.fifa.com/tournaments/mens/worldcup/qatar2022/qualifiers/uefa/match-center/400155622 Report (FIFA)]<br />[https://www.uefa.com/european-qualifiers/match/2030926/ Report (UEFA)]
+|team2={{fb|UKR}}
+|goals1=
+*[[Teemu Pukki|Pukki]] {{goal|29}}
+|goals2=
+*[[Andriy Yarmolenko|Yarmolenko]] {{goal|4}}
+*[[Roman Yaremchuk|Yaremchuk]] {{goal|34}}
+|stadium=[[Helsinki Olympic Stadium]], [[Helsinki]]
+|attendance=29,485<ref>{{UEFA match attendance|2030926|Finland vs. Ukraine |date=9 October 2021|access-date=9 October 2021}}</ref>
+|referee=[[Jesús Gil Manzano]] ([[Royal Spanish Football Federation|Spain]])
+}}
+----
+{{Football box
+|id=Kazakhstan v Finland
+|date={{Start date|2021|10|12|df=y}}
+|time=16:00 {{small|(20:00 [[UTC+06:00|UTC+6]])}}
+|team1={{fb-rt|KAZ}}
+|score=0–2
+|report=[https://www.fifa.com/tournaments/mens/worldcup/qatar2022/qualifiers/uefa/match-center/400155630 Report (FIFA)]<br />[https://www.uefa.com/european-qualifiers/match/2030948/ Report (UEFA)]
+|team2={{fb|FIN}}
+|goals1=
+|goals2=
+*[[Teemu Pukki|Pukki]] {{goal|45||48}}
+|stadium=[[Astana Arena]], [[Nur-Sultan]]
+|attendance=8,365<ref>{{UEFA match attendance|2030948|Kazakhstan vs. Finland |date=12 October 2021|access-date=12 October 2021}}</ref>
+|referee=[[Halis Özkahya]] ([[Turkish Football Federation|Turkey]])
+}}
+{{Football box
+|id=Ukraine v Bosnia and Herzegovina
+|date={{Start date|2021|10|12|df=y}}
+|time=20:45 {{small|(21:45 [[UTC+03:00|UTC+3]])}}
+|team1={{fb-rt|UKR}}
+|score=1–1
+|report=[https://www.fifa.com/tournaments/mens/worldcup/qatar2022/qualifiers/uefa/match-center/400155617 Report (FIFA)]<br />[https://www.uefa.com/european-qualifiers/match/2030951/ Report (UEFA)]
+|team2={{fb|BIH}}
+|goals1=
+*[[Andriy Yarmolenko|Yarmolenko]] {{goal|15}}
+|goals2=
+*[[Anel Ahmedhodžić|Ahmedhodžić]] {{goal|77}}
+|stadium=[[Arena Lviv]], [[Lviv]]
+|attendance=23,810<ref>{{UEFA match attendance|2030951|Ukraine vs. Bosnia and Herzegovina |date=12 October 2021|access-date=12 October 2021}}</ref>
+|referee=[[Felix Zwayer]] ([[German Football Association|Germany]])
+}}
+----
+{{Football box
+|id=Bosnia and Herzegovina v Finland
+|date={{Start date|2021|11|13|df=y}}
+|time=15:00
+|team1={{fb-rt|BIH}}
+|score=1–3
+|report=[https://www.fifa.com/tournaments/mens/worldcup/qatar2022/qualifiers/uefa/match-center/400155624 Report (FIFA)]<br />[https://www.uefa.com/european-qualifiers/match/2030984/ Report (UEFA)]
+|team2={{fb|FIN}}
+|goals1=
+*[[Luka Menalo|Menalo]] {{goal|69}}
+|goals2=
+*[[Marcus Forss|Forss]] {{goal|29}}
+*[[Robin Lod|Lod]] {{goal|51}}
+*[[Daniel O'Shaughnessy|O'Shaughnessy]] {{goal|73}}
+|stadium=[[Bilino Polje Stadium]], [[Zenica]]
+|attendance=10,000<ref>{{UEFA match attendance|2030984|Bosnia and Herzegovina vs. Finland |date=13 November 2021|access-date=13 November 2021}}</ref>
+|referee=[[Michael Oliver (referee)|Michael Oliver]] ([[The Football Association|England]])
+}}
+{{Football box
+|id=France v Kazakhstan
+|date={{Start date|2021|11|13|df=y}}
+|time=20:45
+|team1={{fb-rt|FRA}}
+|score=8–0
+|report=[https://www.fifa.com/tournaments/mens/worldcup/qatar2022/qualifiers/uefa/match-center/400155629 Report (FIFA)]<br />[https://www.uefa.com/european-qualifiers/match/2030982/ Report (UEFA)]
+|team2={{fb|KAZ}}
+|goals1=
+*[[Kylian Mbappé|Mbappé]] {{goal|6||12||32||87}}
+*[[Karim Benzema|Benzema]] {{goal|55||59}}
+*[[Adrien Rabiot|Rabiot]] {{goal|75}}
+*[[Antoine Griezmann|Griezmann]] {{goal|84|pen.}}
+|goals2=
+|stadium=[[Parc des Princes]], [[Paris]]
+|attendance=45,551<ref>{{UEFA match attendance|2030982|France vs. Kazakhstan |date=13 November 2021|access-date=13 November 2021}}</ref>
+|referee=[[Glenn Nyberg]] ([[Swedish Football Association|Sweden]])
+}}
+----
+{{Football box
+|id=Bosnia and Herzegovina v Ukraine
+|date={{Start date|2021|11|16|df=y}}
+|time=20:45
+|team1={{fb-rt|BIH}}
+|score=0–2
+|report=[https://www.fifa.com/tournaments/mens/worldcup/qatar2022/qualifiers/uefa/match-center/400155621 Report (FIFA)]<br />[https://www.uefa.com/european-qualifiers/match/2031007/ Report (UEFA)]
+|team2={{fb|UKR}}
+|goals1=
+|goals2=
+*[[Oleksandr Zinchenko (footballer)|Zinchenko]] {{goal|59}}
+*[[Artem Dovbyk|Dovbyk]] {{goal|79}}
+|stadium=[[Bilino Polje Stadium]], [[Zenica]]
+|attendance=3,370<ref>{{UEFA match attendance|2031007|Bosnia and Herzegovina vs. Ukraine |date=16 November 2021|access-date=16 November 2021}}</ref>
+|referee=[[Antonio Mateu Lahoz]] ([[Royal Spanish Football Federation|Spain]])
+}}
+{{Football box
+|id=Finland v France
+|date={{Start date|2021|11|16|df=y}}
+|time=20:45 {{small|(21:45 [[UTC+02:00|UTC+2]])}}
+|team1={{fb-rt|FIN}}
+|score=0–2
+|report=[https://www.fifa.com/tournaments/mens/worldcup/qatar2022/qualifiers/uefa/match-center/400155623 Report (FIFA)]<br />[https://www.uefa.com/european-qualifiers/match/2031009/ Report (UEFA)]
+|team2={{fb|FRA}}
+|goals1=
+|goals2=
+*[[Karim Benzema|Benzema]] {{goal|66}}
+*[[Kylian Mbappé|Mbappé]] {{goal|76}}
+|stadium=[[Helsinki Olympic Stadium]], [[Helsinki]]
+|attendance=31,890<ref>{{UEFA match attendance|2031009|Finland vs. France |date=16 November 2021|access-date=16 November 2021}}</ref>
+|referee=[[Marco Guida]] ([[Italian Football Federation|Italy]])
+}}
+
+==Goalscorers==
+{{#invoke:Goalscorers|main|2022 FIFA World Cup qualification (UEFA)|round=group|group=D}}<!--CAREFULLY update goalscorers at Module:Goalscorers/data/2022 FIFA World Cup qualification (UEFA)-->
+
+==Discipline==
+A player was automatically suspended for the next match for the following offences:<ref name="regulations">{{cite web |url=https://digitalhub.fifa.com/m/517ef2ad2bc3665e/original/ytkbpnxyvcghx6bebesv-pdf.pdf |title=Regulations FIFA World Cup 2022 Preliminary Competition |website=FIFA.com |publisher=Fédération Internationale de Football Association |format=PDF |year=2020 |access-date=7 December 2020}}</ref>
+* Receiving a red card (red card suspensions could be extended for serious offences)
+* Receiving two yellow cards in two different matches (yellow card suspensions were carried forward to the play-offs, but not the finals or any other future international matches)
+The following suspensions were served during the qualifying matches:
+
+{|class="wikitable" style="font-size:90%"
+|-
+!Team
+!Player
+!Offence(s)
+!Suspended for match(es)
+|-
+|rowspan=2|{{fb|BIH}} ||[[Amir Hadžiahmetović]] ||{{yel}} vs France (31 March 2021)<br>{{yel}} vs France (1 September 2021) ||vs Kazakhstan (7 September 2021)
+|-
+|[[Dennis Hadžikadunić]] ||{{yel}} vs France (31 March 2021)<br>{{yel}} vs Kazakhstan (7 September 2021) ||vs Kazakhstan (9 October 2021)
+|-
+|rowspan=4|{{fb|FIN}} ||[[Glen Kamara]] ||{{yel}} vs Bosnia and Herzegovina (24 March 2021)<br>{{yel}} vs Ukraine (28 March 2021) ||vs Kazakhstan (4 September 2021)
+|-
+|[[Jukka Raitala]] ||{{sent off|0}} vs Bosnia and Herzegovina (13 November 2021) ||vs France (16 November 2021)
+|-
+|[[Rasmus Schüller]] ||{{yel}} vs Bosnia and Herzegovina (24 March 2021)<br>{{yel}} vs France (7 September 2021) ||vs Ukraine (9 October 2021)
+|-
+|[[Jere Uronen]] ||{{sent off|0}} vs Wales in [[2020–21 UEFA Nations League]] (18 November 2020) ||vs Bosnia and Herzegovina (24 March 2021)<ref name=md1>{{cite web |url=https://editorial.uefa.com/resources/0267-11dfdf89f41c-bb5a45afaa07-1000/fifa_eq_booking_list_before_md1_20210324170843.pdf |title=Disciplinary matters |website=UEFA.com |date=24 March 2021 |access-date=24 March 2021}}</ref>
+|-
+|{{fb|FRA}} ||[[Jules Koundé]] ||{{sent off|0}} vs Bosnia and Herzegovina (1 September 2021) ||vs Ukraine (4 September 2021)<br>vs Finland (7 September 2021)<ref>{{cite web |url=https://editorial.uefa.com/resources/026d-132f0c129574-4746c69aa956-1000/fifa_wc_eq_all_groups.pdf |title=Booking list |website=UEFA.com |date=6 September 2021 |access-date=7 September 2021}}</ref>
+|-
+|rowspan=5|{{fb|KAZ}} ||[[Islambek Kuat]] ||{{sent off|2}} vs Lithuania in 2020–21 UEFA Nations League (18 November 2020) ||vs France (28 March 2021)<ref name=md1/>
+|-
+|[[Stas Pokatilov]] ||{{yel}} vs Ukraine (31 March 2021)<br>{{yel}} vs Ukraine (1 September 2021) ||vs Finland (4 September 2021)
+|-
+|[[Vladislav Vasilyev (footballer, born 1997)|Vladislav Vasilyev]] ||{{yel}} vs Ukraine (1 September 2021)<br>{{yel}} vs Bosnia and Herzrgovina (7 September 2021) ||vs Bosnia and Herzegovina (9 October 2021)
+|-
+|[[Yan Vorogovsky]] ||{{yel}} vs Ukraine (31 March 2021)<br>{{yel}} vs Finland (12 October 2021) ||rowspan=2|vs France (13 November 2021)
+|-
+|[[Bakhtiyar Zaynutdinov]] ||{{yel}} vs Bosnia and Herzegovina (7 September 2021)<br>{{yel}} vs Finland (12 October 2021)
+|-
+|rowspan=2|{{fb|UKR}} ||[[Vitalii Mykolenko]] ||{{sent off|0}} vs Finland (28 March 2021) ||vs Kazakhstan (31 March 2021)
+|-
+|[[Oleksandr Zinchenko (footballer)|Oleksandr Zinchenko]] ||{{yel}} vs Kazakhstan (31 March 2021)<br>{{yel}} vs Kazakhstan (1 September 2021) ||vs France (4 September 2021)
+|}
+
+==Notes==
+{{reflist|group=note}}
+
+==References==
+{{reflist}}
+
+==External links==
+*{{Official website|https://www.fifa.com/tournaments/mens/worldcup/qatar2022/qualifiers|Official FIFA World Cup website}}
+*[https://www.fifa.com/tournaments/mens/worldcup/qatar2022/qualifiers/uefa Qualifiers – Europe], FIFA.com
+*[https://www.uefa.com/european-qualifiers/ European Qualifiers], UEFA.com
+
+{{2022 FIFA World Cup qualification}}
+
+{{DEFAULTSORT:World Cup qualifying}}
+[[Category:2022 FIFA World Cup qualification (UEFA)|Group D]]
+[[Category:2020–21 in Bosnia and Herzegovina football]]
+[[Category:2021–22 in Bosnia and Herzegovina football]]
+[[Category:2021 in Finnish football]]
+[[Category:2020–21 in French football]]
+[[Category:2021–22 in French football]]
+[[Category:France at the 2022 FIFA World Cup]]
+[[Category:2021 in Kazakhstani football]]
+[[Category:2020–21 in Ukrainian football]]
+[[Category:2021–22 in Ukrainian football]]

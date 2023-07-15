@@ -1,0 +1,741 @@
+{{Use mdy dates|date=June 2012}}
+{{main|2018 and 2022 FIFA World Cup bids}}
+[[File:United States 2022 FIFA World Cup bid logo.svg|thumb|350px|right|United States 2022 FIFA World Cup bid logo]]
+
+The [[United States Soccer Federation]] submitted a bid<ref name=goff>{{cite news |url= https://www.washingtonpost.com/wp-dyn/content/article/2007/02/19/AR2007021900914.html |title= U.S. to Seek World Cup |newspaper=The Washington Post | first=Steven | last=Goff | date=February 20, 2007 | access-date=October 28, 2007}}</ref> with the hope of hosting the 2022 [[FIFA World Cup]]. [[United States Soccer Federation|U.S. Soccer]] first said in February 2007 that it would put forth a bid for the 2018 World Cup.<ref name=goff/> On January 28, 2009, U.S. Soccer announced that it would submit bids for both the 2018 and 2022 Cups.<ref name="USA 2018–2022">{{cite news |url=http://soccernet.espn.go.com/news/story?id=614052&sec=world&cc=5901  |title=U.S. to bid for 2018 and 2022 World Cups |agency= Associated Press |work=[[ESPNsoccernet]] |location=Chicago |date=January 29, 2009 | access-date=January 29, 2009}}</ref> In October 2010 it withdrew from the 2018 bid process to focus on winning the 2022 edition.<ref>{{cite news |url=http://news.bbc.co.uk/sport1/hi/football/9097559.stm |title=US withdraw bid to host 2018 World Cup |date=October 15, 2010 |work=BBC Sport}}</ref>  On December 2, 2010, it was announced that [[2022 FIFA World Cup|Qatar]] would be the host of the 2022 FIFA World Cup.<ref>{{cite news |url=http://news.bbc.co.uk/sport1/hi/football/9250585.stm |title= 2018 and 2022 FIFA World Cup Hosts Announced |date= December 2, 2010 |access-date= December 2, 2010 |work=BBC News}}</ref>
+
+David Downs, president of [[Univision]] Sports, was executive director of the bid.<ref>{{cite news 
+|url= http://voices.washingtonpost.com/soccerinsider/2009/02/usa_in_18_or_22.html 
+|title= USA in '18 (or '22) |first= Steve |last= Goff |newspaper= The Washington Post 
+|date= February 2, 2009 |access-date=September 4, 2009}}</ref> The United States previously hosted the [[FIFA World Cup]] in [[1994 FIFA World Cup|1994]], as well as the [[FIFA Women's World Cup]] in [[1999 FIFA Women's World Cup|1999]] and [[2003 FIFA Women's World Cup|2003]].
+
+==Schedule==
+{| class="wikitable" style="text-align: center;"
+|- 
+!Date
+!Notes
+|- 
+|January 15, 2009 ||Applications formally invited
+|-
+|February 2, 2009||Closing date for registering intention to bid
+|-
+|March 16, 2009||Deadline to submit completed bid registration forms
+|-
+|May 14, 2010||Deadline for submission of full details of bid
+|-
+|September 6–9, 2010||Inspection committee visits the United States<ref>{{cite press release| url=https://www.fifa.com/worldcup/bidders/2018/newsid=1210979.html | archive-url=https://web.archive.org/web/20100729211034/http://www.fifa.com/worldcup/bidders/2018/newsid=1210979.html | url-status=dead | archive-date=July 29, 2010 |publisher=FIFA.com |title=FIFA receives bidding documents for 2018 and 2022 FIFA World Cups |date=May 14, 2010 |access-date=July 31, 2010}}</ref>
+|-
+||December 2, 2010||FIFA to appoint hosts for 2018 and 2022 World Cups
+|}
+
+==Bid committee==
+[[File:Sunil Gulati.jpg|thumb|U.S. Soccer President [[Sunil Gulati]] was the Bid Committee Chairman.]]
+The American bid was being organized by USA Bid Committee, Inc.
+
+The executive director of the bid was David Downs, CEO of [[Univision]] sports. Other members include U.S. Soccer President [[Sunil Gulati]], [[Major League Soccer]] Commissioner [[Don Garber]], [[Philip D. Murphy|Phil Murphy]], the former national finance chair for the [[Democratic National Committee]],<ref>{{cite news |url= http://voices.washingtonpost.com/soccerinsider/2009/02/usa_in_18_or_22.html |title= USA in '18 (or '22) |first= Steve |last= Goff |newspaper=The Washington Post |date= February 2, 2009 |access-date=February 4, 2009}}</ref> former [[U.S. Secretary of State]] Dr. [[Henry Kissinger]], New York City mayor [[Michael Bloomberg]], California Governor [[Arnold Schwarzenegger]], [[Bill Clinton|Clinton]] adviser [[Douglas Band]],<ref>{{cite news |url= http://www.ussoccer.com/News/Federation-Services/2010/04/Douglas-Band-Joins-Team-To-Bring-FIFA-World-Cup-To-United-States-in-2018-or-2022.aspx |title= Counselor To President Clinton, Douglas Band, Joins Team To Bring FIFA World Cup To United States in 2018 or 2022 |work= U.S. Soccer |date= April 8, 2010 |access-date=July 27, 2010}}</ref> film director [[Spike Lee]],<ref>{{cite news| url=https://www.usatoday.com/sports/soccer/2010-01-04-435722717_x.htm | work=USA Today | title=Spike Lee joins US World Cup bid committee | date=January 4, 2010 | access-date=May 26, 2010}}</ref> former boxer [[Oscar De La Hoya]], and ''[[Washington Post]]''.<ref name="45 stadiums" /><ref>{{cite news |url= http://voices.washingtonpost.com/soccerinsider/2009/11/weymouth_joins_cup_effort.html |title= Weymouth Joins Cup Effort |first= Steven |last= Goff |date= November 2, 2009 |access-date=November 2, 2009 |newspaper=The Washington Post}}</ref>
+
+==Details of the bid==
+{{see also|List of soccer stadiums in the United States}}
+{{location map+|USA|float=none|width=600|places=
+{{Location map~|USA|lat=34.0142|long=-118.2878|label='''[[Los Angeles, California|Los&nbsp;Angeles]]'''|position=left}}
+{{Location map~|USA|lat=32.7831|long=-117.1194|label='''[[San Diego]]'''|position=left}}
+{{Location map~|USA|lat=34.1614|long=-118.1675|label='''[[Pasadena, California|Pasadena]]'''|position=right}}
+{{Location map~|USA|lat=47.6503|long=-122.3017|label='''[[Seattle]]'''}}
+{{Location map~|USA|lat=32.7478|long=-97.0928|label='''[[Dallas|Arlington (Dallas)]]'''|position=top|mark = Blue_pog.svg}}
+{{Location map~|USA|lat=38.889722|long=-76.971667|label='''[[Washington, D.C.|Landover (Washington)]]'''|position=bottom}}
+{{Location map~|USA|lat=39.7439|long=-105.0200|label='''[[Denver]]'''|position=top|mark = Blue_pog.svg}}
+{{Location map~|USA|lat=39.0489|long=-94.4839|label='''[[Kansas City, Missouri|Kansas City]]'''|position=left|mark = Blue_pog.svg}}
+{{Location map~|USA|lat=39.9008|long=-75.1675|label='''[[Philadelphia]]'''|position=left}}
+{{Location map~|USA|lat=40.812222|long=-74.076944|label='''[[New York City|East&nbsp;Rutherford (New&nbsp;York&nbsp;City)]]'''|position=right}}
+{{Location map~|USA|lat=39.2779|long=-76.6226|label='''[[Baltimore]]'''|position=right}}
+{{Location map~|USA|lat=42.0927|long=-71.267442|label='''[[Foxborough, Massachusetts|Foxborough (Boston)]]'''|position=top}}
+{{Location map~|USA|lat=33.7575|long=-84.4008|label='''[[Atlanta]]'''|position=right}}
+{{Location map~|USA|lat=36.1664|long=-86.7714|label='''[[Nashville]]'''|position=right}}
+{{Location map~|USA|lat=25.9581|long=-80.2389|label='''[[Miami]]'''|position=right}}
+{{Location map~|USA|lat=33.5275|long=-112.2625|label='''[[Glendale, Arizona|Glendale]] [[Phoenix, Arizona|(Phoenix)]]'''|position=right}}
+{{Location map~|USA|lat=29.6847|long=-95.4108|label='''[[Houston]]'''|position=bottom}}
+{{Location map~|USA|lat=39.7601|long=-86.1638|label='''[[Indianapolis]]'''|position=left}}
+{{Location map~|USA|lat=27.9758|long=-82.5033|label='''[[Tampa]]'''|position=left}}
+}}
+
+In April 2009, the U.S. identified 70 stadia in 50 communities as possible venues for the tournament, with 58 confirming their interest.<ref>{{cite press release |url=http://www.ussoccer.com/articles/viewArticle.jsp_14155776.html |title=USA Bid Committee Receives Confirmation From 58 Venues Interested in Holding FIFA World Cup Matches in 2018 or 2022 |date=April 23, 2009 |access-date=April 24, 2009 |publisher=United States Soccer Federation}}</ref> The list of stadia was trimmed two months later to 38 existing venues, one scheduled for completion in 2010, and one proposed venue.<ref name="45 stadiums">{{Cite press release |title=USA Bid Committee Issues Requests For Proposals to 37 Potential FIFA World Cup Host Cities For 2018 or 2022 |url=http://www.ussoccer.com/articles/viewArticle.jsp_14876672.html |publisher=United States Soccer Federation |date=June 16, 2009 |access-date=June 18, 2009 |archive-url=https://web.archive.org/web/20090619071040/http://www.ussoccer.com/articles/viewArticle.jsp_14876672.html |archive-date=19 June 2009}}</ref>  On August 20, 2009, the list was further trimmed down to 32 stadia in 27 cities.<ref>{{cite press release |url=http://www.ussoccer.com/News/Federation-Services/2009/08/27-Cities-Chosen-For-World-Cup-Bid.aspx |title=USA Bid Committee Announces List of 27 Cities Still in Contention For Inclusion in U.S. Bid to Host FIFA World Cup in 2018 or 2022 |date=August 20, 2009 |access-date=August 20, 2009 |publisher=United States Soccer Federation |archive-url=https://web.archive.org/web/20090926202259/http://www.ussoccer.com/News/Federation-Services/2009/08/27-Cities-Chosen-For-World-Cup-Bid.aspx |archive-date=September 26, 2009 |url-status=dead |df=mdy-all }}</ref> On January 12, 2010, the USA Bid Committee narrowed the 27 cities down to 18 as the official host cities for the United States' Bid for the 2018 or 2022 World Cup.<ref name="18 cities chosen">{{cite press release |url=http://www.gousabid.com/news/entry/bid-committee-announces-official-bid-cities/ |archive-url=https://web.archive.org/web/20100123191730/http://www.gousabid.com/news/entry/bid-committee-announces-official-bid-cities |url-status=dead |archive-date=January 23, 2010 |title=Bid Committee announces official bid cities |date=January 12, 2010 |access-date=January 12, 2010 |publisher=The USA Bid Committee }}</ref>
+
+Those 18 cities were: [[Atlanta]], [[Baltimore]], [[Boston]], [[Dallas]], [[Denver]], [[Houston]], [[Indianapolis]], [[Kansas City, Missouri|Kansas City]], [[Los Angeles]], [[Miami]], [[Nashville, Tennessee|Nashville]], [[New York City]], [[Philadelphia]], [[Phoenix, Arizona|Phoenix]], [[San Diego]], [[Seattle]], [[Tampa]] and [[Washington, D.C.]] The 18 stadia selected host NFL or NCAA American football games, with a capacity over 65,000 spectators. No [[soccer-specific stadium]] was selected, since none in the country has capacity for more than 30,000 spectators.
+
+===Candidate venues===
+{{StadiumimgnorefStart|Option1=Surface|Option1Size=75|Option2=Notes|Option2Size=200}}
+{{Stadiumimgnoref
+|rank=1
+|image=Rosebowl.JPG
+|stadium=[[Rose Bowl (stadium)|Rose Bowl]] 
+|capacity=94,542
+|city=[[Pasadena, California|Pasadena]]<br />(Host City: Los Angeles)
+|state={{flag|California}}
+|Option1=Grass
+|team=[[UCLA Bruins football|UCLA Bruins]]†<br />[[Rose Bowl Game]]
+|Option2=[[1994 FIFA World Cup|1994 World Cup]] final venue<br />[[1999 FIFA Women's World Cup|1999 Women's World Cup]] final venue<br />[[CONCACAF Gold Cup]] venue
+[[Super Bowl XI]], [[Super Bowl XIV]], [[Super Bowl XVII]], [[Super Bowl XXI]], and [[Super Bowl XXVII]] Hosts<br />Three [[BCS National Championship Game]]s<br />May be superseded by [[SoFi Stadium]]<ref name="Developers of LA's proposed NFL stadium expand plans to lure World Cup">[http://losangelesfootballstadium.com/news/120-stadium-plans-to-lure-world-cup.html Developers of LA's proposed NFL stadium expand plans to lure World Cup] {{Webarchive|url=https://web.archive.org/web/20101118025705/http://www.losangelesfootballstadium.com/news/120-stadium-plans-to-lure-world-cup.html |date=November 18, 2010 }}, Developers of LA's proposed NFL stadium expand plans to lure World Cup</ref>
+}}
+{{Stadiumimgnoref
+|rank=2
+|image=11-11-06-LA-Coliseum-USC-UO.jpg
+|stadium=[[Los Angeles Memorial Coliseum]]
+|capacity=93,607
+|city=Los Angeles
+|state={{flag|California}}
+|Option1=Grass
+|team=[[USC Trojans football|USC Trojans]]†
+|Option2=[[1932 Summer Olympics|1932]] and [[1984 Summer Olympics|1984]] Olympic stadium<br />[[CONCACAF Gold Cup]] venue
+[[Super Bowl I]] and [[Super Bowl VII]] host<br />[[1959 World Series]]<br />May be superseded by [[SoFi Stadium]]<ref name="Developers of LA's proposed NFL stadium expand plans to lure World Cup">[http://losangelesfootballstadium.com/news/120-stadium-plans-to-lure-world-cup.html Developers of LA's proposed NFL stadium expand plans to lure World Cup] {{Webarchive|url=https://web.archive.org/web/20101118025705/http://www.losangelesfootballstadium.com/news/120-stadium-plans-to-lure-world-cup.html |date=November 18, 2010 }}, Developers of LA's proposed NFL stadium expand plans to lure World Cup</ref>
+}}
+{{Stadiumimgnoref
+|rank=3
+|image=Cowboys Stadium field.jpg
+|stadium=[[AT&T Stadium]]
+|capacity=91,600
+|city=[[Arlington, Texas|Arlington]]<br />(Host City: [[Dallas]])
+|state={{flag|Texas}}
+|Option1=Matrix [[artificial turf]]
+|team=[[Cowboys Classic]]<br />[[Dallas Cowboys]]†<br />[[Cotton Bowl Classic]]<br />[[Arkansas–Texas A&M football rivalry|Southwest Classic]]
+|Option2=Opened in 2009<br />Retractable roof<br />[[CONCACAF Gold Cup]] venue
+[[2010 NBA All-Star Game]] venue<br />[[Super Bowl XLV]] in 2011
+[[Wrestlemania 32]] in 2016
+}}
+{{Stadiumimgnoref
+|rank=4
+|image=FedExField01.jpg
+|stadium=[[FedExField]]
+|capacity=91,704
+|city=[[Landover, Maryland|Landover]]<br />(Host City: Washington, D.C.)
+|state={{flag|Maryland}}
+|Option1=Grass
+|team=[[Washington Redskins]]†<!--Team is now known as the Washington Commanders, but at the time of the bid, they were known as the Washington Redskins.-->
+|Option2=[[1999 FIFA Women's World Cup|1999 Women's World Cup]] venue
+}}
+{{Stadiumimgnoref
+|rank=5
+|image=MetLife Stadium Exterior.jpg
+|stadium= [[MetLife Stadium]] 
+|capacity=82,566
+|city=[[East Rutherford, New Jersey|East Rutherford]]<br />(Host City: New York City)
+|state={{flag|New Jersey}}
+|Option1=[[FieldTurf]]
+|team=[[New York Giants]]†<br />
+[[New York Jets]]†
+|Option2=Opened in 2010<br /> Hosted [[Super Bowl XLVIII]]<br />[[Wrestlemania XXIX]]
+}}
+{{Stadiumimgnoref
+|rank=6
+|image=Sun Life Stadium Coast Guard flyover.JPG
+|stadium=[[Sun Life Stadium]]<!--Current name is Hard Rock Stadium, but during the evaluation process, it was known as Sun Life Stadium.--> 
+|capacity=80,240
+|city=[[Miami Gardens, Florida|Miami Gardens]]<br />(Host City: [[Miami]])
+|state={{flag|Florida}}
+|Option1=Grass
+|team=[[Miami Dolphins]]†<br />[[Miami Hurricanes football|Miami Hurricanes]]†<br />[[Orange Bowl]]
+|Option2=Multi-purpose stadium<br />[[Miami Marlins|Marlins]] moved [[Marlins Park|to their new ballpark]] and it was also host to [[WWE]]'s [[WrestleMania XXVIII]] in 2012<br />[[Super Bowl XXIII]], [[Super Bowl XXIX]], [[Super Bowl XXXIII]], [[Super Bowl XLI]], and [[Super Bowl XLIV]] hosts<br />Three [[BCS National Championship Game]]s
+}}
+{{Stadiumimgnoref
+|rank=7
+|image=Reliantstadium.jpg
+|stadium=[[Reliant Stadium]]<!--Current name is NRG Stadium, but during the evaluation process, it was known as Reliant Stadium.--> 
+|capacity=76,000
+|city=[[Houston]]
+|state={{flag|Texas}}
+|Option1=Grass
+|team=[[Houston Texans]]†<br />[[Texas Bowl]]
+|Option2=[[CONCACAF Gold Cup]] venue, [[2010 MLS All-Star Game]] host, [[WrestleMania XXV]] hosts, NCAA Final Four [[2011 NCAA Men's Division I Basketball Tournament#Final Four|2011]] & [[2016 Final Four|2016]] host, [[Super Bowl XXXVIII]] host, <br />Retractable roof
+}}
+{{Stadiumimgnoref
+|rank=8
+|image=061123Broncos-Chiefs02.jpg
+|stadium=[[Arrowhead Stadium]]
+|capacity=75,364
+|city=[[Kansas City, Missouri|Kansas City]]
+|state={{flag|Missouri}}
+|Option1=Grass
+|team=[[Kansas City Chiefs]]†
+|Option2=&nbsp;
+}}
+{{Stadiumimgnoref
+|rank=9
+|image=Invesco Field at Mile High.jpg
+|stadium=[[Invesco Field at Mile High]]<!--Current name is Empower Field at Mile High, but during the evaluation process, it was known as Invesco Field at Mile High.-->
+|capacity=75,165
+|city=[[Denver]]
+|state={{flag|Colorado}}
+|Option1=Grass
+|team=[[Denver Broncos]]†
+|Option2=[[2008 Democratic National Convention]] Host<br />[[2005–06 NFL playoffs|2006 National Football League AFC Championship Game]]
+}}
+{{Stadiumimgnoref
+|rank=10
+|image=Raymond James Stadium02.JPG
+|stadium=[[Raymond James Stadium]]
+|capacity=75,000
+|city=[[Tampa, Florida|Tampa]]
+|state={{flag|Florida}}
+|Option1=Grass
+|team=[[Tampa Bay Buccaneers]]†<br />[[South Florida Bulls football|South Florida Bulls]]†<br />[[Outback Bowl]]
+|Option2=Olympic qualifying venue.
+[[Super Bowl XXXV]] and [[Super Bowl XLIII]] hosts<br />[[WrestleMania 36]] original host
+}}
+{{Stadiumimgnoref
+|rank=11
+|image=Gillette Stadium02.jpg
+|stadium=[[Gillette Stadium]]
+|capacity=73,393
+|city=[[Foxborough, Massachusetts|Foxborough]]<br />(Host City: [[Boston]])
+|state={{flag|Massachusetts}}
+|Option1=[[FieldTurf]]
+|team=[[New England Patriots]]†<br />[[New England Revolution]]
+|Option2=[[NCAA Men's Lacrosse Championship]] in 2008 and 2009, [[2003 FIFA Women's World Cup]] venue, and the [[MLS Cup 2002]]
+}}
+{{Stadiumimgnoref
+|rank=12
+|image=2007 Apple cup at halftime Husky Stadium.jpg
+|stadium=[[Husky Stadium]]
+|capacity=72,500
+|city=[[Seattle]]
+|state={{flagicon|Washington}} [[Washington (state)|Washington]]
+|Option1=[[FieldTurf]]
+|team=[[Washington Huskies football|Washington Huskies]]†
+|Option2=Renovation completed in 2013. Track was removed but capacity decreased from 72,500 to 70,138.<br />1990 [[Goodwill Games]] track and field events.
+}}
+{{Stadiumimgnoref
+|rank=13
+|image=University of Phoenix Stadium aerial.jpg
+|stadium=[[University of Phoenix Stadium]]<!--Current name is State Farm Stadium, but during the evaluation process, it was known as University of Phoenix Stadium.--> 
+|capacity=71,362
+|city=[[Glendale, Arizona|Glendale]]<br />(Host City: [[Phoenix, Arizona|Phoenix]])
+|state={{flag|Arizona}}
+|Option1=Grass
+|team=[[Arizona Cardinals]]†<br />[[Fiesta Bowl]]
+|Option2=Retractable roof and playing surface<br />[[CONCACAF Gold Cup]] venue<br />[[Super Bowl XLII]] hosts<br />[[WrestleMania XXVI]] hosts<br /><br />Three [[BCS National Championship Game]]s
+}}
+{{Stadiumimgnoref
+|rank=14
+|image=VT Hokies Marching Virginians.jpg
+|stadium=[[Georgia Dome]]
+|capacity=71,228
+|city=[[Atlanta]]
+|state={{flagicon|Georgia (U.S. state)}} [[Georgia (U.S. state)|Georgia]]
+|Option1=[[FieldTurf]] & able to install grass.
+|team=[[Atlanta Falcons]]†<br />[[Georgia State Panthers football|Georgia State Panthers]]†<br />[[Chick-fil-A Bowl]]
+|Option2=Indoor stadium<br />[[Super Bowl XXXIV]] & [[Super Bowl XXVIII]] hosts<br />[[World Football Challenge]] hosts<br />Indoor Stadium, DCI Atlanta Southeastern Championship [[1996 Summer Olympics]] [[World Football Challenge]]<br />[[WrestleMania XXVII]] hosts<br />Demolished in 2017 following the opening of [[Mercedes-Benz Stadium]]
+}}
+{{Stadiumimgnoref
+|rank=15
+|image=M&T Bank Stadium DoD.jpg
+|stadium=[[M&T Bank Stadium]]
+|capacity=71,008
+|city=[[Baltimore]]
+|state={{flag|Maryland}}
+|Option1=[[Sportexe Momentum Turf]]
+|team=[[Baltimore Ravens]]†
+|Option2=<br />Only stadium to sell out their [[World Football Challenge]] game
+}}
+{{Stadiumimgnoref
+|rank=16
+|image=Philly (45).JPG   
+|stadium=[[Lincoln Financial Field]]   
+|capacity=69,111 
+|city=[[Philadelphia]]   
+|state={{flag|Pennsylvania}}   
+|Option1=Grass   
+|team=[[Philadelphia Eagles]]†<br />[[Temple Owls football|Temple Owls]]†<br />[[Army-Navy Game]] 
+|Option2=[[2003 FIFA Women's World Cup|2003 Women's World Cup]] venue<br />[[CONCACAF Gold Cup]] venue. 
+}}
+{{Stadiumimgnoref
+|rank=17
+|image=LP Field 2009 crop.jpg
+|stadium=[[LP Field]]<!--Current name is Nissan Stadium, but during the evaluation process, it was known as LP Field.-->
+|capacity=69,143
+|city=[[Nashville, Tennessee|Nashville]]
+|state={{flag|Tennessee}}
+|Option1=Grass
+|team=[[Tennessee Titans]]†<br />[[Tennessee State Tigers football|Tennessee State Tigers]]†<br />[[Music City Bowl]]
+|Option2=Olympic qualifying venue
+}}
+{{Stadiumimgnoref
+|rank=18
+|image=Soundersfcqwestfield.jpg
+|stadium=[[CenturyLink Field]]
+|capacity=68,056
+|city=[[Seattle]]
+|state={{flagicon|Washington}} [[Washington (state)|Washington]]
+|Option1=[[FieldTurf]]
+|team=[[Seattle Seahawks]]†<br />[[Seattle Sounders FC]]
+|Option2=[[CONCACAF Gold Cup]] venue<br />[[MLS Cup 2009]] venue, Highest home attendance in MLS
+}}
+{{Stadiumimgnoref
+|rank=19
+|image=Qualcomm Stadium.jpg
+|stadium=[[Qualcomm Stadium]]<!--At the time of the stadium's closure, it reverted to its original name of San Diego Stadium, but during the evaluation process, it was known as Qualcomm Stadium.-->
+|capacity=67,700
+|city=[[San Diego]]
+|state={{flag|California}}
+|Option1=Grass
+|team=[[San Diego Chargers]]†<br />[[Holiday Bowl]]<br />[[Poinsettia Bowl]]
+|Option2=[[CONCACAF Gold Cup]] venue<br />[[Super Bowl XXII]], [[Super Bowl XXXII]], and [[Super Bowl XXXVII]] Hosts<br />Demolished in 2021 and replaced by [[Snapdragon Stadium]]
+}}
+{{Stadiumimgnoref
+|rank=20
+|image=Lucas Oil Stadium 2010 Final Four 04 01 2010.JPG
+|stadium=[[Lucas Oil Stadium]]
+|capacity=66,500
+|city=[[Indianapolis]]
+|state={{flag|Indiana}}
+|Option1=[[FieldTurf]]
+|team=[[Indianapolis Colts]]†
+|Option2=Built in 2008<br />Retractable roof<br />[[Super Bowl XLVI]] in 2012,<br />NCAA men's basketball Final Four in [[2010 NCAA Men's Division I Basketball Tournament|2010]] and [[2015 NCAA Men's Division I Basketball Tournament|2015]],<br />NCAA women's basketball Final Four in [[2016 NCAA Women's Division I Basketball Tournament|2016]],<br />DCI World Championship Finals Since 2009<br />NCAA men's basketball final in [[2021 NCAA Men's Division I Basketball Tournament|2021]]
+|foot=1
+}}
+
+* † – American football team.
+* Although sponsored stadium names are listed in this article, they were not used in the actual bid documents, and would not be used during the World Cup. FIFA controls all naming rights related to the World Cup, and generally prohibits the use of such names. Even stadiums that bear the names of FIFA sponsors are subject to this restriction—the venue then known commercially as Coca-Cola Park in [[Johannesburg]] was known by its non-commercial name of [[Ellis Park Stadium]] during the [[2010 FIFA World Cup|2010 World Cup]], even though [[The Coca-Cola Company]] is one of FIFA's main sponsors.
+* Capacities listed are estimated capacity for the FIFA World Cup.<ref name="18 cities chosen"/>
+
+===Rejected venues===
+The following venues were considered as possible candidate venues but were not chosen to be included in the final bid.<ref name="18 cities chosen"/>
+
+{{StadiumimgnorefStart|Option1=Surface|Option1Size=75|Option2=Notes|Option2Size=200}}
+{{Stadiumimgnoref
+|rank=1
+|image=TheBigHouse.jpg
+|stadium=[[Michigan Stadium]]
+|capacity=109,901
+|city=[[Ann Arbor, Michigan|Ann Arbor]]
+|state={{flagcountry|Michigan}}
+|Option1= Artificial
+|team=[[Michigan Wolverines football|Michigan Wolverines]]†
+|Option2=Largest non-motorsports stadium in the country, and third-largest non-racing stadium in the world.
+}}
+{{Stadiumimgnoref
+|rank=2
+|image=Jacksonville Municipal Stadium.JPG
+|stadium=[[EverBank Field|Jacksonville Municipal Stadium]]{{efn|group=rejected|Now known as TIAA Bank Field.}}<!--Current name is TIAA Bank Field, but during the evaluation process, it was known as Jacksonville Municipal Stadium.--> 
+|capacity=77,000
+|city=[[Jacksonville, Florida|Jacksonville]]
+|state={{flagu|Florida}}
+|Option1=Grass
+|team=[[Jacksonville Jaguars]]†<br />[[Gator Bowl]]
+|Option2=<br />[[Super Bowl XXXIX]] hosts
+}}
+{{Stadiumimgnoref
+|rank=3
+|image=Bank of America Stadium.jpg
+|stadium=[[Bank of America Stadium]]
+|capacity=73,500
+|city=[[Charlotte, North Carolina|Charlotte]]
+|state={{flagcountry|North Carolina}}
+|Option1=Grass
+|team=[[Carolina Panthers]]†<br />[[Belk Bowl]]<br />[[ACC Championship Game]]
+|Option2=1999 and 2000 [[NCAA Men's Soccer Championship]] venue, 2014 and 2015 [[International Champions Cup]], [[2015 CONCACAF Gold Cup]]
+}}
+{{Stadiumimgnoref
+|rank=4
+|image=DSCN4567 clevelandbrownsstadium e2.jpg
+|stadium=[[FirstEnergy Stadium|Cleveland Browns Stadium]]{{efn|group=rejected|Now known as FirstEnergy Stadium.}}<!--Current name is FirstEnergy Stadiium, but during the evaluation process, it was known as Cleveland Browns Stadium.--> 
+|capacity=73,200
+|city=[[Cleveland]]
+|state={{flagcountry|Ohio}}
+|Option1=Grass
+|team=[[Cleveland Browns]]†
+|Option2=Hosted International Matches
+}}
+{{Stadiumimgnoref
+|rank=5
+|image=Edwardjonesinterior.jpg
+|stadium=[[The Dome at America's Center|Edward Jones Dome]]{{efn|group=rejected|Now known as The Dome at America's Center.}}
+|capacity=67,268
+|city=[[St. Louis]]
+|state={{flagcountry|Missouri}}
+|Option1=[[FieldTurf]]
+|team=[[History of the St. Louis Rams|St. Louis Rams]]{{efn|group=rejected|The Rams returned to their previous home of [[Los Angeles Rams|Los Angeles]] after the 2015 NFL season, and the stadium has had no major sports tenant since then.}}
+|Option2=Indoor stadium
+}}
+{{Stadiumimgnoref
+|rank=6
+|image=Ford-Field-September-10-2006.jpg
+|stadium=[[Ford Field]]
+|capacity=67,188
+|city=Detroit
+|state={{flagcountry|Michigan}}
+|Option1=[[FieldTurf]]
+|team=[[Detroit Lions]]†<br />[[Little Caesars Pizza Bowl]]{{efn|group=rejected|The Little Caesars Pizza Bowl folded after its 2013 edition and was replaced by the [[Quick Lane Bowl]], also held at Ford Field.}}
+|Option2=[[Super Bowl XL]] hosts<br />[[WrestleMania 23]] hosts<br />Indoor stadium}}
+{{Stadiumimgnoref
+|rank=7
+|image=Citrusbowlmiddle.JPG
+|stadium=[[Camping World Stadium|Citrus Bowl]]{{efn|group=rejected|Now known as Camping World Stadium.}}
+|capacity=65,616
+|city=[[Orlando, Florida|Orlando]]
+|state={{flagcountry|Florida}}
+|Option1=Grass
+|team=[[Florida Tuskers]]†<br />[[Citrus Bowl|Capital One Bowl]]{{efn|group=rejected|Now known as the Citrus Bowl.}}<br />[[Camping World Bowl|Champs Sports Bowl]]{{efn|group=rejected|Now known as the Camping World Bowl.}}
+|Option2=[[1994 FIFA World Cup]], [[Football at the 1996 Summer Olympics|1996 Olympics]]<br />and [[WrestleMania XXIV]] venue. 
+}}
+{{Stadiumimgnoref
+|rank=8
+|image=Oakland_Coliseum_field_from_Mt._Davis.JPG
+|stadium=[[Oakland–Alameda County Coliseum|O.co Coliseum]]{{efn|group=rejected|Now known by its historic name of Oakland–Alameda County Coliseum.}}
+|capacity=63,026
+|city=[[Oakland, California|Oakland]]
+|state={{flagu|California}}
+|Option1=Grass
+|team=[[Oakland Raiders]]†<br />[[Oakland Athletics|Oakland A's]]‡ 
+|Option2=Multi-purpose stadium. 
+}}
+{{Stadiumimgnoref
+|rank=9
+|image=Soldier field 2006.jpg
+|stadium=[[Soldier Field]]
+|capacity=61,000
+|city=Chicago
+|state={{flagcountry|Illinois}}
+|Option1=Grass
+|team=[[Chicago Bears]]†
+|Option2=[[1994 FIFA World Cup]] venue.
+}}
+{{Stadiumimgnoref
+|rank=10
+|image=11-04-06-StanfordStadium002.jpg
+|stadium=[[Stanford Stadium]]
+|capacity=50,500
+|city=[[Palo Alto, California|Palo Alto]]
+|state={{flagu|California}}
+|Option1=Grass 
+|team=[[Stanford Cardinal football|Stanford Cardinal]]†
+|Option2=Rebuilt [[Football at the 1984 Summer Olympics|1984 Olympics]],<br />[[1994 FIFA World Cup]] and [[1999 FIFA Women's World Cup|1999 Women's World Cup]] venue
+}}
+{{Stadiumimgnoref
+|rank=11
+|image=RFK Stadium aerial photo, 1988.JPEG
+|stadium=[[Robert F. Kennedy Memorial Stadium|RFK Stadium]]
+|capacity=45,600
+|city=[[Washington, D.C.|Washington]]
+|state={{flagcountry|Washington, D.C.|name=District of Columbia}}
+|Option1=Grass
+|team=[[D.C. United]]{{efn|group=rejected|D.C. United moved to [[Audi Field]], also in Washington, in 2018.}}<br />[[Military Bowl|EagleBank Bowl]]{{efn|group=rejected|Now known as the Military Bowl, and played at [[Navy–Marine Corps Memorial Stadium]] in [[Annapolis, Maryland]] since 2013.}}
+|Option2=[[1994 FIFA World Cup]] and [[Football at the 1996 Summer Olympics|1996 Olympics]] venue
+|foot=1
+}}
+
+{{notelist|group=rejected}}
+
+====August 2009 cut====
+The following stadia were eliminated in an earlier cut in August 2009
+
+{{StadiumimgnorefStart|Option1=Surface|Option1Size=75|Option2=Events Hosted|Option2Size=200}}
+{{Stadiumimgnoref
+|rank=1
+|image=Legion Field - Alabama.jpg
+|stadium=[[Legion Field]]
+|capacity=71,594
+|city=[[Birmingham, Alabama|Birmingham]]
+|state={{flagcountry|Alabama}}
+|Option1=Artificial
+|team=[[UAB Blazers football|UAB Blazers]]†<br />[[Birmingham Bowl|Papajohns.com Bowl]]{{efn|group=rejected09|Now known as the Birmingham Bowl.}}
+|Option2 = [[Football at the 1996 Summer Olympics|1996 Olympics]] 
+}}
+{{Stadiumimgnoref
+|rank=2
+|image=Skorry-ohiostadium 6048.jpg
+|stadium=[[Ohio Stadium]]
+|capacity=102,329
+|city=[[Columbus, Ohio|Columbus]]
+|state={{flagcountry|Ohio}}
+|Option1=Artificial
+|team=[[Ohio State Buckeyes football|Ohio State Buckeyes]]†
+|Option2 = On [[National Register of Historic Places]]
+}}
+{{Stadiumimgnoref
+|rank=3
+|image=Neyland Stadium.jpg
+|stadium=[[Neyland Stadium]]
+|capacity=102,455
+|city=[[Knoxville, Tennessee|Knoxville]]
+|state={{flagcountry|Tennessee}}
+|Option1=Grass
+|team=[[Tennessee Volunteers football|Tennessee Volunteers]]†
+|Option2=Ranked as America's No. 1 college football stadium by ''[[Sporting News|The Sporting News]]'' in 2001
+}}
+{{Stadiumimgnoref
+|rank=4
+|image=051207-MPLS-006Metrodome-crop.jpg
+|stadium=[[Hubert H. Humphrey Metrodome|Metrodome]]
+|capacity=64,111
+|city=[[Minneapolis]]
+|state={{flagcountry|Minnesota}}
+|Option1=Artificial
+|team=[[Minnesota Vikings]]†
+|Option2=[[1985 Major League Baseball All-Star Game|1985 MLB All-Star Game]]<br />[[Super Bowl XXVI]]<br />[[1992 NCAA Men's Division I Basketball Tournament|1992]] and [[2001 NCAA Men's Division I Basketball Tournament|2001 Final Four]]<br />[[1987 World Series|1987]] and [[1991 World Series]] venue. Demolished in 2014 and replaced on-site in 2016 by [[U.S. Bank Stadium]].
+}}
+{{Stadiumimgnoref
+|rank=5
+|image=2009-0603-MN-TCFStadium-construc.jpg
+|stadium=[[TCF Bank Stadium]]
+|capacity=50,805
+|city=[[Minneapolis]]
+|state={{flagcountry|Minnesota}}
+|Option1=Artificial
+|team=[[Minnesota Golden Gophers football|Minnesota Golden Gophers]]†{{efn|group=rejected09|TCF Bank Stadium also went on to serve as home of [[Minnesota United FC]] during that team's first two seasons in Major League Soccer (2017–2018).}}
+|Option2=One of three new Minneapolis stadiums (along with [[Target Field]] and U.S. Bank Stadium)
+}}
+{{Stadiumimgnoref
+|rank=6
+|image=Fiesta Bowl 2006 from Flickr 81639095.jpg
+|stadium=[[Sun Devil Stadium]]
+|capacity=73,379
+|city=[[Tempe, Arizona|Tempe]]
+|state={{flagcountry|Arizona}}
+|Option1=Grass
+|team=[[Arizona State Sun Devils football|Arizona State Sun Devils]]†<br />[[Insight Bowl]]{{efn|group=rejected09|Now known as the Cactus Bowl, and since 2016 played at [[Chase Field]] in Phoenix.}}
+|Option2=[[Super Bowl XXX]]<br />former [[Fiesta Bowl]] venue
+}}
+{{Stadiumimgnoref
+|rank=7
+|image=Heinz Field.jpg
+|stadium=[[Heinz Field]]
+|capacity=65,050
+|city=[[Pittsburgh]]
+|state={{flagcountry|Pennsylvania}}
+|Option1=Grass
+|team=[[Pittsburgh Steelers]]†<br />[[Pittsburgh Panthers football|Pittsburgh Panthers]]†
+|Option2=''2011 NHL Winter Classic''
+}}
+{{Stadiumimgnoref
+|rank=8
+|image=University of Utah Vs. Utah State - Via MUSS.jpg
+|stadium=[[Rice-Eccles Stadium]]
+|capacity=45,017
+|city=[[Salt Lake City]]
+|state={{flagcountry|Utah}}
+|Option1=Artificial
+|team=[[Utah Utes football|Utah Utes]]†
+|Option2=[[2002 Winter Olympics]] opening/closing venue
+}}
+{{Stadiumimgnoref
+|rank=9
+|image=Alamo Dome CIMG7791.JPG
+|stadium=[[Alamodome]]
+|capacity=65,000
+|city=[[San Antonio]]
+|state={{flagu|Texas}}
+|Option1=Artificial
+|team=[[Alamo Bowl]]<br />Later became home to [[UTSA Roadrunners football|UTSA Roadrunners]]†
+|Option2=[[1998 NCAA Men's Division I Basketball Tournament|1998]], [[2004 NCAA Men's Division I Basketball Tournament|2004]]<br />and [[2008 NCAA Men's Division I Basketball Tournament|2008 Final Four]] venue<br />[[U.S. Army All-American Bowl]]
+}}
+{{Stadiumimgnoref
+|rank=10
+|image=No free image.svg
+|stadium=Las Vegas Stadium
+|capacity=Proposed{{efn|group=rejected09|The stadium project [[Allegiant Stadium|ultimately materialized]] in the mid-2010s, with construction starting in late 2017. The stadium will be home to the [[Oakland Raiders relocation to Las Vegas|relocated Oakland Raiders]] and the [[UNLV Rebels football]] team.}}
+|city=[[Las Vegas Valley|Las Vegas]]
+|state={{flagcountry|Nevada}}
+|Option1=Proposed
+|team=None
+|Option2=Proposed
+|foot=1
+}}
+
+{{notelist|group=rejected09}}
+
+====June 2009 cut====
+The following stadia were eliminated in an earlier cut in June 2009
+
+{{StadiumimgnorefStart|Option1=Surface|Option1Size=75|Option2=Events Hosted|Option2Size=200}}
+{{Stadiumimgnoref
+|rank=1
+|image=CaliforniaMemorialStadium.JPG
+|stadium=[[California Memorial Stadium]]
+|capacity=71,799 
+|city=[[Berkley, California|Berkley]]
+|state={{flagcountry|California}}
+|Option1=Artificial
+|team=[[California Golden Bears football|California Golden Bears]]†
+|Option2
+}}
+{{Stadiumimgnoref
+|rank=2
+|image=Ralph Wilson Stadium (NFL Buffalo Bills) - Orchard Park, NY.jpg
+|stadium=[[Ralph Wilson Stadium]]
+|capacity=73,079
+|city=[[Orchard Park, New York|Orchard Park]]
+|state={{flagcountry|New York}}
+|Option1=Artificial
+|team=[[Buffalo Bills]]†
+|Option2=[[2008 NHL Winter Classic]]
+}}
+{{Stadiumimgnoref
+|rank=3
+|image=Memorial Stadium ReDedication.jpg
+|stadium=[[Memorial Stadium (Champaign)]]
+|capacity=62,870
+|city=[[Champaign, Illinois|Champaign]]
+|state={{flagcountry|Illinois}}
+|Option1=Artificial
+|team=[[Illinois Fighting Illini football|Illinois Fighting Illini]]†
+|Option2=Hone of the Chicago Bears in 2002 while Soldier Field was being renovated
+}}
+{{Stadiumimgnoref
+|rank=4
+|image=Paul Brown Stadium interior 2017.jpg
+|stadium=[[Paul Brown Stadium]]
+|capacity=65,515
+|city=[[Cincinnati]]
+|state={{flagcountry|Ohio}}
+|Option1=Artificial
+|team=[[Cincinnati Bengals]]†
+|Option2=  Proposed for use in the 2026 World Cup bid
+}}
+{{Stadiumimgnoref
+|rank=5
+|image=MemorialStadiumSept2006.jpg
+|stadium=[[Memorial Stadium (Clemson)]]
+|capacity=81,500 
+|city=[[Clemson, South Carolina|Clemson]]
+|state={{flagcountry|South Carolina}}
+|Option1=Grass
+|team=[[Clemson Tigers football|Clemson Tigers]]†
+|Option2= Home of [[Carolina Panthers]] in their inaugural 1995 season
+}}
+{{Stadiumimgnoref
+|rank=6
+|image=Faurot_Field.jpg
+|stadium=[[Faurot Field]]
+|capacity=71,004
+|city=[[Columbia, Missouri|Columbia]]
+|state={{flagcountry|Missouri}}
+|Option1=Artificial
+|team=[[Missouri Tigers football|Missouri Tigers]]†
+|Option2=Third-largest sports facility by seating capacity in the state of Missouri, behind [[The Dome at America's Center]] in St. Louis and [[Arrowhead Stadium]] in Kansas City.
+}}
+{{Stadiumimgnoref
+|rank=7
+|image=Williams-BriceStadium-1998.JPEG
+|stadium=[[Williams-Brice Stadium]]
+|capacity=80,250
+|city=[[Columbia, South Carolina|Columbia]]
+|state={{flagcountry|South Carolina}}
+|Option1=Grass
+|team=[[South Carolina Gamecocks football|South Carolina Gamecocks]]†
+|Option2=In 1987, [[Pope]] [[John Paul II]], during a Papal visit to Columbia, spoke in front of 60,000 people at the stadium.
+}}
+{{Stadiumimgnoref
+|rank=8
+|image=09-02-06-RazorbacksEnterRSS.jpg
+|stadium=[[Donald W. Reynolds Razorback Stadium]]
+|capacity=72,000
+|city=[[Fayetteville, Arkansas|Fayetteville]]
+|state={{flagcountry|Arkansas}}
+|Option1=Grass
+|team=[[Arkansas Razorbacks football|Arkansas Razorbacks]]†
+|Option2=  
+}}
+{{Stadiumimgnoref
+|rank=9
+|image=VsUT.JPG
+|stadium=[[Ben Hill Griffin Stadium]]
+|capacity=88,548
+|city=[[Gainesville, Florida|Gainesville]]
+|state={{flagu|Florida}}
+|Option1=Grass
+|team=[[Florida Gators football|Florida Gators]]†
+|Option2=[[1973 Tangerine Bowl]] and [[1994 Gator Bowl]] venue
+}}
+{{Stadiumimgnoref
+|rank=10
+|image=Lambeau Field bowl.jpg
+|stadium=[[Lambeau Field]]
+|capacity=72,928
+|city=[[Green Bay, Wisconsin|Green Bay]]
+|state={{flagcountry|Wisconsin}}
+|Option1=Grass
+|team=[[Green Bay Packers]]†
+|Option2=[[Frozen Tundra Hockey Classic]]
+}}
+{{Stadiumimgnoref
+|rank=11
+|image=Rice University Stadium.jpg
+|stadium=[[Rice Stadium (Rice University)|Rice Stadium]]
+|capacity=70,000
+|city=[[Houston, Texas|Houston]]
+|state={{flagcountry|Texas}}
+|Option1=Artificial
+|team=[[Rice Owls football|Rice Owls]]†
+|Option2= [[Bluebonnet Bowl]] 1959-1967, 1985-1986<br />[[History of the Houston Oilers|Houston Oilers]] 1965-1967<br />[[Super Bowl VIII]]
+}}
+{{Stadiumimgnoref
+|rank=12
+|image=Kinnick Night.jpg
+|stadium=[[Kinnick Stadium]]
+|capacity=70,585
+|city=[[Iowa City, Iowa|Iowa City]]
+|state={{flagcountry|Iowa}}
+|Option1=Artificial
+|team=[[Iowa Hawkeyes Football|Iowa Hawkeyes]]†
+|Option2=
+}}
+{{Stadiumimgnoref
+|rank=13
+|image=Camp Randall Stadium aerial (cropped).jpg
+|stadium=[[Camp Randall Stadium]]
+|capacity=	80,321
+|city=[[Madison, Wisconsin|Madison]]
+|state={{flagcountry|Wisconsin}}
+|Option1=Artificial
+|team=[[Wisconsin Badgers football|Wisconsin Badgers]]†
+|Option2=Culver's Camp Randall Hockey Classic<br />12 Green Bay Packers exhibition games
+}}
+{{Stadiumimgnoref
+|rank=14
+|image=KentuckyCommonwealthStadium-EZInterior.jpg
+|stadium=[[Kroger Field|Commonwealth Stadium]]
+|capacity=67,942
+|city=[[Lexington, Kentucky|Lexington]]
+|state={{flagcountry|Kentucky}}
+|Option1=Grass
+|team=[[Kentucky Wildcats football|Kentucky Wildcats]]†
+|Option2=
+|foot=1
+}}
+
+====Denied interest in hosting<ref name="gousabid.com">{{cite web |url=http://www.gousabid.com/news/entry/58-venues-interested-in-holding-fifa-world-cup-matches-in-2018-or-2022/ |title=58 US venues interested in holding FIFA World Cup matches in 2018 or 2022 &#124; Blog &#124; Go USA Bid |website=www.gousabid.com |access-date=15 January 2022 |archive-url=https://web.archive.org/web/20090902051218/http://www.gousabid.com/news/entry/58-venues-interested-in-holding-fifa-world-cup-matches-in-2018-or-2022/ |archive-date=2 September 2009 |url-status=dead}}</ref>====
+*[[Sanford Stadium]], [[Athens, Georgia]]; 1996 Summer Olympics soccer venue
+*[[Jordan-Hare Stadium|Jordan–Hare Stadium]], [[Auburn, Alabama]]
+*[[Darrell K Royal – Texas Memorial Stadium]], [[Austin, Texas]]
+*[[Tiger Stadium (LSU)|Tiger Stadium]], [[Baton Rouge, Louisiana]]
+*[[Lane Stadium]], [[Blacksburg, Virginia]]
+*[[Kyle Field]], [[College Station, Texas]]
+*[[Spartan Stadium (East Lansing)|Spartan Stadium]], [[East Lansing, Michigan]]
+*[[Memorial Stadium (Lincoln)|Memorial Stadium]], [[Lincoln, Nebraska]]
+*[[LaVell Edwards Stadium]], [[Provo, Utah]]
+*[[Notre Dame Stadium]], [[South Bend, Indiana]]
+*[[Beaver Stadium]], [[State College, Pennsylvania]]
+*[[Bryant–Denny Stadium]], [[Tuscaloosa, Alabama]]
+
+==Official bid partners==
+* [[Fox Soccer Channel]]
+* [[AT&T]]
+* [[American Airlines]]
+* [[The Walt Disney Company]] 
+* [[Chevron Corporation]] 
+* [[Kohl's]]
+* [[Subway Restaurants]]
+
+==Notes and references==
+{{reflist|35em}}
+
+==External links==
+* [https://web.archive.org/web/20090729011827/http://www.ussoccer.com/index.jsp.html US Soccer]
+* [http://www.gousabid.com/ Official bid site]
+
+{{Bids for the 2018 and 2022 FIFA World Cup}}
+{{FIFA World Cup bids}}
+
+{{DEFAULTSORT:United States 2018 And 2022 Fifa World Cup Bid}}
+[[Category:2022 FIFA World Cup bids]]
+[[Category:United States Soccer Federation|FIFA World Cup]]
+[[Category:United States at the 2022 FIFA World Cup|Bid]]

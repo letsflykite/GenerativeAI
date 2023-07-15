@@ -1,0 +1,520 @@
+{{Short description|Swiss footballer (born 1991)}}
+{{pp-semi-indef|small=yes}}
+{{EngvarB|date=August 2020}}
+{{Use dmy dates|date=November 2022}}
+{{Infobox football biography
+| name = Xherdan Shaqiri
+| image = Xherdan Shaqiri 2018.jpg
+| caption = Shaqiri with [[Switzerland national football team|Switzerland]] at the [[2018 FIFA World Cup]]
+| fullname = Xherdan Shaqiri<ref>{{cite web |url=https://tournament.fifadata.com/documents/FCWC/2019/pdf/FCWC_2019_SQUADLISTS.PDF |title=FIFA Club World Cup Qatar 2019: List of Players: Liverpool FC |publisher=FIFA |page=7 |date=5 December 2019 |archiveurl=https://web.archive.org/web/20200121123420/https://tournament.fifadata.com/documents/FCWC/2019/pdf/FCWC_2019_SQUADLISTS.PDF |archivedate=21 January 2020}}</ref>
+| birth_date = {{birth date and age|1991|10|10|df=y}}<ref>{{cite web |url=https://www.espn.co.uk/football/player/_/id/136775/xherdan-shaqiri |title=Xherdan Shaqiri: Overview |publisher=ESPN |access-date=22 August 2020}}</ref>
+| birth_place = [[Gjilan|Gnjilane]],<!--THIS IS PLACE OF BIRTH, ''not'' CURRENT NATION--> [[Socialist Republic of Serbia|SR Serbia]], [[SFR Yugoslavia]]<!-- As it was in October 1991 --><br>(now [[Gjilan]], [[Kosovo]])
+| height = 1.69 m<ref>{{cite web |url=https://www.worldfootball.net/player_summary/xherdan-shaqiri/ |title=Xherdan Shaqiri: Profile |website=worldfootball.net |publisher=HEIM:SPIEL |access-date=22 August 2020}}</ref>
+| position = [[Midfielder#Winger|Winger]]
+| currentclub = [[Chicago Fire FC|Chicago Fire]]
+| clubnumber = 10
+| youthyears1 = 1999–2001
+| youthclubs1 = SV Augst
+| youthyears2 = 2001–2009
+| youthclubs2 = [[FC Basel]]
+| years1 = 2007–2009
+| clubs1 = [[FC Basel|FC Basel II]]
+| caps1 = 19
+| goals1 = 8
+| years2 = 2009–2012
+| clubs2 = [[FC Basel]]
+| caps2 = 92
+| goals2 = 18
+| years3 = 2012–2015
+| clubs3 = [[FC Bayern Munich|Bayern Munich]]
+| caps3 = 52
+| goals3 = 11
+| years4 = 2015
+| clubs4 = [[Inter Milan]]
+| caps4 = 15
+| goals4 = 1
+| years5 = 2015–2018
+| clubs5 = [[Stoke City F.C.|Stoke City]]
+| caps5 = 84
+| goals5 = 15
+| years6 = 2018–2021
+| clubs6 = [[Liverpool F.C.|Liverpool]]
+| caps6 = 45
+| goals6 = 7<!--Premier League stats only-->
+| years7 = 2021–2022
+| clubs7 = [[Olympique Lyonnais|Lyon]]
+| caps7 = 11
+| goals7 = 2
+| years8 = 2022–
+| clubs8 = [[Chicago Fire FC|Chicago Fire]]
+| caps8 = 45
+| goals8 = 9
+| nationalyears1 = 2007–2008
+| nationalteam1 = [[Switzerland national under-17 football team|Switzerland U17]]
+| nationalcaps1 = 10
+| nationalgoals1 = 0
+| nationalyears2 = 2008–2009
+| nationalteam2 = [[Switzerland national under-18 football team|Switzerland U18]]
+| nationalcaps2 = 5
+| nationalgoals2 = 0
+| nationalyears3 = 2009
+| nationalteam3 = [[Switzerland national under-19 football team|Switzerland U19]]
+| nationalcaps3 = 5
+| nationalgoals3 = 3
+| nationalyears4 = 2009–2011
+| nationalteam4 = [[Switzerland national under-21 football team|Switzerland U21]]
+| nationalcaps4 = 7
+| nationalgoals4 = 1
+| nationalyears5 = 2010–
+| nationalteam5 = [[Switzerland national football team|Switzerland]]
+| nationalcaps5 = 114
+| nationalgoals5 = 27
+| medaltemplates = {{MedalSport|Men's [[Association football|football]]}}
+{{MedalCountry|{{fb|SUI}}}}
+{{Medal|Competition|[[UEFA European Under-21 Championship]]}}
+{{Medal|RU|[[2011 UEFA European Under-21 Championship|2011]]|}}
+| club-update = 8 July 2023
+| nationalteam-update = 23:20, 19 June 2023 (UTC)
+}}
+'''Xherdan Shaqiri''' ({{IPA-sq|dʒɛrˈdan ʃaˈciɾi}}; born 10 October 1991) is a Swiss professional [[association football|footballer]] who plays as a [[Midfielder#Winger|winger]] for [[Major League Soccer]] club [[Chicago Fire FC|Chicago Fire]] and the [[Switzerland national football team|Switzerland national team]].
+
+Shaqiri began his career at [[FC Basel]], winning honours including three [[Swiss Super League]] titles, before moving to [[FC Bayern Munich|Bayern Munich]], where he gained nine domestic and continental honours despite playing less frequently. In January 2015, he moved to [[Inter Milan]] for a fee of €15 million, and seven months later to [[Stoke City F.C.|Stoke City]] for a club record £12 million. After Stoke's relegation from the Premier League in [[2017–18 Premier League|2018]], Shaqiri was transferred to [[Liverpool F.C.|Liverpool]] prior to the following season for a reported £13.5 million fee. He was part of the [[UEFA Champions League]] winning squad in his [[2019 UEFA Champions League Final|first season]]. He also won the [[2019 UEFA Super Cup|UEFA Super Cup]] and the [[2019 FIFA Club World Cup|FIFA Club World Cup]] in 2019, as well as the [[2019–20 Premier League|Premier League]] in 2020, Liverpool's first league title in 30 years.
+
+A full international since 2010, Shaqiri has earned [[List of men's footballers with 100 or more international caps|114 caps]] and scored 27 goals for Switzerland, making him the country's third most capped player and sixth-highest goalscorer. He represented the nation at the [[2010 FIFA World Cup|2010]], [[2014 FIFA World Cup|2014]], [[2018 FIFA World Cup|2018]] and [[2022 FIFA World Cup]]s, as well as [[UEFA Euro 2016]] and [[UEFA Euro 2020]].<ref>{{cite news |url=https://www.thenational.ae/sport/football/balkan-imports-hitting-big-time-as-switzerland-establish-themselves-as-world-cup-regulars-1.262390 |title=Balkan imports hitting big time as Switzerland establish themselves as World Cup regulars |date=15 June 2014 |newspaper=The National |access-date=23 June 2016}}</ref>
+
+==Early life==
+Shaqiri was born in [[Zhegër]], [[Gjilan]], SFR Yugoslavia, to [[Kosovo Albanians|Kosovar Albanian]] parents.<ref>{{Cite web |date=2018-06-29 |title=Aktuell - Büssi besucht den Heimatort von Xherdan Shaqiri |url=https://www.srf.ch/radio-srf-3/aktuell/buessi-besucht-den-heimatort-von-xherdan-shaqiri |access-date=2022-11-25 |website=Schweizer Radio und Fernsehen (SRF) |language=de}}</ref><ref name="fifa">{{Cite web |url=https://www.fifa.com/worldcup/players/player=321653/profile-detail.html |archive-url=https://web.archive.org/web/20140617194717/http://www.fifa.com/worldcup/players/player=321653/profile-detail.html |url-status=dead |archive-date=17 June 2014 |title=Xherdan SHAQIRI |access-date=16 June 2014 |publisher=FIFA}}</ref><ref>{{Cite web |url=http://www.footballtop.com/players/xherdan-shaqiri |title=Xherdan Shaqiri biography |website=FootballTop.com |access-date=1 July 2014}}</ref> He immigrated to Switzerland in 1992 with his parents and three siblings.<ref>{{Cite web |url=http://balkans.courriers.info/article18891.html |title=Football : Xherdan Shaqiri, le meilleur ambassadeur suisse du Kosovo |last=Rico |first=Simon |date=22 December 2012 |language=French |url-status=dead |archive-url=https://web.archive.org/web/20130720041647/http://balkans.courriers.info/article18891.html |archive-date=20 July 2013 |access-date=15 August 2013 |newspaper=Le Courrier des Balkans}}</ref> His brother, [[Arianit Shaqiri]], is a youth football coach.<ref name="Blick1">{{Cite web |last=Böni |first=Andreas |date=1 October 2018 |title=Shaq sucht das grösste Schweizer Talent |url=https://www.blick.ch/sport/fussball/nati/nati-star-eroeffnet-fussball-schule-shaq-sucht-das-groesste-schweizer-talent-id6782798.html |access-date=19 February 2021 |website=[[Blick]] |language=German}}</ref><ref name="jill"/> They settled in [[Augst]], a small town in the canton of [[Canton of Basel-Landschaft|Basel-Country]], near the French and German borders.<ref name="jill">{{Cite news |url=https://www.theguardian.com/football/blog/2014/jun/03/world-cup-2014-switzerland-profile-xherdan-shaqiri |title=World Cup 2014: Switzerland profile – Xherdan Shaqiri |last=Zimmerli |first=Jill |date=4 June 2014 |newspaper=The Guardian |access-date=14 September 2018}}</ref>
+
+His father did not speak Swiss German, so he had to start out washing dishes in a restaurant, before working construction on roads. His mother worked as a cleaner in office buildings in the city, with which he and his brothers helped. His father would send as much money back to Kosovo to other family members as he could, meaning Xherdan and the family did not have extra spending money, except for birthdays.<ref name="Background" /> He idolised Brazilian striker [[Ronaldo (Brazilian footballer)|Ronaldo]], who he said played "like magic".<ref name="Background">{{Cite news |url=https://www.stokesentinel.co.uk/sport/football/football-news/xherdan-shaqiri-stoke-liverpool-transfer-1712944 |title=Xherdan Shaqiri's incredible life story in his own words: from Kosovo to World Cup star |newspaper=The Sentinel |access-date=10 September 2018}}</ref>
+
+==Club career==
+===FC Basel===
+Shaqiri started his career at hometown club SV Augst, and at the age of eight he was scouted by [[FC Basel]].<ref name=jill/> Whilst playing for Basel's youth team, he competed in the Under-15 Nike Cup 2007 and was named the best player of the tournament. Despite having several other clubs attempting to sign him, he decided to stay with Basel, where he played for their reserve team from 2007 to 2009 in the [[Swiss 1. Liga (football)|Swiss 1. Liga]]. Two years later, Shaqiri signed his first professional contract with Basel on 2 January 2009, with the new contract keeping him at [[St. Jakob-Park]] until December 2011.<ref name="fcb 2009-01-02">{{Cite web |url=http://www.fcb.ch/news/show/byItemID/de-de/-/21575/27/7/7 |title=Dreijahres-Profivertrag für Xherdan Shaqiri |date=2 January 2009 |publisher=FC Basel 1893 |language=German |url-status=dead |archive-url=https://web.archive.org/web/20140201180900/http://www.fcb.ch/news/show/byItemID/de-de/-/21575/27/7/7 |archive-date=1 February 2014 |access-date=19 January 2014}}</ref>
+
+Shaqiri made his Basel club debut as a substitute on 12 July 2009 in Basel's [[2009–10 Swiss Super League|2009–10 season]] opening match against [[FC St. Gallen]] at the [[AFG Arena]].<ref>{{Cite web |url=http://www.fcb.ch/news/show/byItemID//10044/22517/16/7 |title=St. Gallen 2 – Basel 0 |date=25 May 2011 |publisher=FC Basel 1893 |url-status=dead |archive-url=https://web.archive.org/web/20131016141819/http://www.fcb.ch/news/show/byItemID//10044/22517/16/7 |archive-date=16 October 2013 |access-date=1 June 2011}}</ref> Four months later he scored his first goal for Basel in a 4–1 win over [[Neuchâtel Xamax FCS|Neuchâtel Xamax]] at home on 9 November 2009.<ref>{{Cite web |url=http://www.fcb.ch/news/show/byItemID//10044/23275/16/7 |title=Basel 4 – Xamax 1 |date=25 May 2011 |publisher=FC Basel 1893 |url-status=dead |archive-url=https://web.archive.org/web/20131016141425/http://www.fcb.ch/news/show/byItemID//10044/23275/16/7 |archive-date=16 October 2013 |access-date=1 June 2011}}</ref> At the end of the 2009–10 season Shaqiri won the national [[Double (association football)|Double]] with Basel, and a year later won the league title again.<ref>{{cite news |url=https://www.20min.ch/story/fcb-schafft-das-double-860363552402 |title=Finalissima: FCB schafft das "Double" |trans-title=Final: FCB manages the "double" |newspaper=20 Minuten |language=de |date=16 May 2010 |access-date=23 August 2020}}</ref><ref>{{cite web |url=https://www.swissinfo.ch/eng/basel-retain-super-league-title/30322872 |title=Basel retain Super League title |website=Swissinfo |date=26 May 2011 |access-date=23 August 2020}}</ref>
+
+In December 2011, Shaqiri provided two assists in a match against [[Manchester United F.C.|Manchester United]], with Basel winning 2–1.<ref name="Manu">{{Cite web |url=http://uk.eurosport.yahoo.com/08122011/58/champions-league-stunned-united-crash-defeat-basel.html |title=Champions League – Stunned United crash out after defeat at Basel |website=Yahoo! Europe |access-date=8 December 2011}}</ref> At the end of the 2011–12 season, for the second time in his Basel stint, he won the Double, consisting of the [[2011–12 Swiss Super League|League]] title,<ref name="sfv 1">{{Cite web |url=http://www.fcb.ch/news/show/byItemID/de-de/10044/27863/26/7/7 |title=Jetzt hat Basel den Titel auf sicher |year=2012 |publisher=FC Basel 1893 |language=German |url-status=dead |archive-url=https://web.archive.org/web/20131016142727/http://www.fcb.ch/news/show/byItemID/de-de/10044/27863/26/7/7 |archive-date=16 October 2013 |access-date=29 April 2012}}</ref> and the [[2011–12 Swiss Cup|Swiss Cup]].<ref name="sfv 2">{{Cite web |url=http://www.football.ch/sfv/chcup/de/telegramm.aspx?tg=1973921 |title=Matchtelegram FC Basel 1893 5:3 FC Luzern |year=2012 |publisher=Swiss Football Association |language=German |url-status=dead |archive-url=https://archive.today/20121204154542/http://www.football.ch/sfv/chcup/de/telegramm.aspx?tg=1973921 |archive-date=4 December 2012 |access-date=16 May 2012}}</ref>
+
+===Bayern Munich===
+[[File:ShaqiriBay.jpg|thumb|upright|Shaqiri playing for [[FC Bayern Munich|Bayern Munich]] in 2012]]
+
+On 9 February 2012, Basel announced that Shaqiri had accepted a transfer to German club [[FC Bayern Munich|Bayern Munich]] of the [[Bundesliga]] for the [[2012–13 FC Bayern Munich season|2012–13 season]].<ref>{{Cite web |url=http://www.espn.com/soccer/news/story/_/id/1019562/bayern-munich-snap-up-basel-star-shaqiri |title=Bayern snap up Shaqiri |date=9 February 2012 |publisher=ESPN |access-date=15 December 2012}}</ref> The transfer fee was a reported €11.6&nbsp;million, with Shaqiri signing a four-year contract with the German club which would last until 30 June 2016, and which paid him around €2&nbsp;million per season.<ref>{{Cite web |url=https://www.si.com/more-sports/2012/02/15/bayern-shaqiri |title=Bayern's capture of Shaqiri a coup |date=15 February 2012 |website=Sports Illustrated |access-date=15 December 2012}}</ref> He faced competition for a place in the midfield from established internationals [[Franck Ribéry]], [[Arjen Robben]], [[Toni Kroos]] and [[Thomas Müller]].<ref name=jill/>
+
+On 10 July 2012, Shaqiri made his debut in a 1–0 friendly win against [[Bavaria]]n neighbours [[SpVgg Unterhaching]]. His first competitive appearance for the club came on 20 August in a [[2012–13 DFB-Pokal|DFB-Pokal]] match at [[SSV Jahn Regensburg]], as a half-time substitute. He scored Bayern's second goal as well as providing assists for [[Mario Mandžukić]] and [[Claudio Pizarro]], with Bayern winning 4–0.<ref>{{Cite web |url=http://www.espn.com/soccer/match?cc=5901&id=354991 |title=SSV Jahn Regensburg 0–4 Bayern |date=20 August 2012 |publisher=ESPN |access-date=15 December 2012}}</ref> He helped Bayern secure the top spot in their [[2012–13 UEFA Champions League]] group by scoring a goal and providing assists in a 4–1 defeat of [[FC BATE Borisov|BATE Borisov]] on 5 December, winning the [[man of the match]] award and avenging their defeat in [[Minsk]].<ref>{{Cite web |url=https://www.uefa.com/uefachampionsleague/season=2013/matches/round=2000347/match=2009571/postmatch/index.html |title=Bayern power past BATE to finish top of Group F |last=James |first=Andy |date=5 December 2012 |publisher=UEFA |access-date=15 December 2012}}</ref>
+
+Shaqiri did not score his first Bundesliga goal until the final league match of the 2012 calendar year, rescuing a point for them in a 1–1 draw with [[Borussia Mönchengladbach]], leaving Bayern in first place at the winter break.<ref>{{Cite web |url=http://www.bundesliga.com/en/liga/news/2012/0000233823.php |title=Shaqiri rescues point for Bayern |date=14 December 2012 |publisher=Bundesliga |url-status=dead |archive-url=https://web.archive.org/web/20121217052140/http://www.bundesliga.com/en/liga/news/2012/0000233823.php |archive-date=17 December 2012 |access-date=15 December 2012}}</ref><ref>{{Cite web |url=http://espnfc.com/us/en/report/346253/report.html?soccernet=true&cc=5901 |title=Bayern Munich 1–1 Borussia Monchengladbach |date=14 December 2012 |website=ESPN FC |access-date=15 December 2012}}</ref> On 16 April 2013, Shaqiri also scored in the DFB-Pokal semi-final against [[VfL Wolfsburg]] with a long-range shot. Although he did not play in the [[2013 UEFA Champions League Final|final]], Shaqiri won the 2012–13 UEFA Champions League title with Bayern, as well as the Bundesliga and the DFB-Pokal title, making him one of the Bayern Munich players to have won the first treble in club history; he added the [[UEFA Super Cup]] and [[FIFA Club World Cup]] to his achievements that year.<ref name=jill/> By June 2014, Shaqiri was reported to be the most decorated Swiss footballer of all time at just 22, with 13 medals to his name.<ref name=jill/>
+
+===Inter Milan===
+Shaqiri transferred to Italian club [[Inter Milan]] on 9 January 2015 for €15&nbsp;million,<ref name="Inter2015bilancio">F.C. Internazionale Milano S.p.A. ''bilancio'' (financial report and accounts) on 30 June 2015 (in Italian), [http://www.registroimprese.it PDF purchased from Italian C.C.I.A.A.] {{Webarchive|url=https://web.archive.org/web/20140430040135/http://www.registroimprese.it/ |date=30 April 2014 }}</ref> signing a four-and-a-half-year contract,<ref>{{Cite news |url=https://www.bbc.com/sport/0/football/30732337 |title=Xherdan Shaqiri: Inter Milan sign Bayern Munich winger |date=10 January 2015 |access-date=13 January 2015 |website=BBC Sport}}</ref> though English club [[Stoke City F.C.|Stoke City]] had previously declared an interest in signing him.<ref>{{Cite news |url=https://www.bbc.com/sport/0/football/30715283 |title=Xherdan Shaqiri: Bayern Munich winger interests Stoke City |date=7 January 2015 |access-date=8 January 2015 |website=BBC Sport}}</ref> With his previous number of 23 being taken by [[Andrea Ranocchia]], Shaqiri chose the number 91 for his Inter shirt, representing his birth year.<ref>{{Cite web |url=https://www.inter.it/en/news/47321 |title=Shaqiri: "One of the biggest clubs in the world" |date=14 January 2015 |publisher=Inter Milan |access-date=14 September 2015}}</ref> He was an unused substitute in Inter's 3–1 victory over [[Genoa C.F.C.|Genoa]] at [[San Siro]].<ref>{{Cite news |url=http://www.goal.com/en-gb/match/internazionale-vs-genoa/1836447/report |title=Inter 3–1 Genoa: Palacio, Icardi and Vidic score in Nerazzurri victory |date=11 January 2015 |access-date=22 January 2015 |website=Goal.com}}</ref> He made his debut for Inter on 17 January, playing in the last 16 minutes as a substitute for fellow new signing [[Lukas Podolski]].<ref>{{Cite web |url=http://www.inter.it/en/news/47349 |title=Serie A, Empoli 0–0 Inter |date=17 January 2015 |publisher=Inter Milan |access-date=22 January 2015}}</ref> Shaqiri made his [[Coppa Italia]] debut in a match against [[U.C. Sampdoria|Sampdoria]] in the [[2014–15 Coppa Italia#Round of 16|round of 16]] on 22 January, scoring the first goal of the match and helping the team to a 2–0 win to progress into the [[2014–15 Coppa Italia#Quarter-finals|quarter-finals]].<ref>{{cite news |title=Coppa Italia: Xherdan Shaqiri scores as Inter beat nine-man Sampdoria |url=https://www.skysports.com/football/news/11854/9655564/coppa-italia-round-up-xherdan-shaqiri-scores-as-inter-beat-nine-man-sampdoria-to-reach-last-eight |access-date=29 April 2021 |publisher=Sky Sports |date=22 January 2015}}</ref>
+
+Shaqiri scored his first [[Serie A]] goal on 15 February 2015 in a 4–1 away win against [[Atalanta B.C.|Atalanta]].<ref>{{Cite news |url=http://www.inter.it/en/news/47588 |title=Shaqiri: "Pleased with my goal and the victory" |date=15 February 2015 |publisher=Inter Milan}}</ref> Four days later, he registered his first European tournament goal for Inter, scoring the opener from a [[Zdravko Kuzmanović]] assist in a 3–3 [[2014–15 UEFA Europa League|UEFA Europa League]] draw away to [[Celtic F.C.|Celtic]].<ref>{{Cite web |url=https://www.inter.it/en/news/47623 |title=Six goals shared at Celtic Park |date=19 February 2015 |publisher=Inter Milan}}</ref>
+
+===Stoke City===
+{{Quote box
+| width = 25%
+| align = right
+| quoted = 1
+| quote = That is the best goal I have seen this season. He knew exactly what he was doing, it is absolutely sublime.
+| source = – [[Garth Crooks]], pundit on the [[BBC]]'s ''[[Final Score]]'', describing Shaqiri's second goal for Stoke against Everton on 28 December 2015.<ref name="Everton" />
+}}In July 2015, Stoke agreed a £12&nbsp;million fee to sign Shaqiri, but the deal fell through when he did not agree to the move before a deadline imposed by the club.<ref>{{Cite news |url=https://www.telegraph.co.uk/sport/football/teams/stoke-city/11732595/Stoke-City-pull-out-of-12-million-Xherdan-Shaqiri-deal.html |archive-url=https://ghostarchive.org/archive/20220112/https://www.telegraph.co.uk/sport/football/teams/stoke-city/11732595/Stoke-City-pull-out-of-12-million-Xherdan-Shaqiri-deal.html |archive-date=12 January 2022 |url-access=subscription |url-status=live |title=Stoke City pull out of £12&nbsp;million Xherdan Shaqiri deal |last=Percy |first=John |date=10 July 2015 |newspaper=The Daily Telegraph |access-date=7 August 2015}}{{cbignore}}</ref> The deal was revived a month later, however, with Shaqiri agreeing to personal terms and undergoing medicals.<ref name="ESPN">{{Cite news |url=http://www.espnfc.com/stoke-city/story/2557269/xherdan-shaqiri-passes-medical-ahead-of-stoke-move |title=Xherdan Shaqiri passes medical ahead of £12m Stoke move – sources |date=10 August 2015 |access-date=10 August 2015 |website=ESPN FC}}</ref> [[Everton F.C.|Everton]] had also expressed interest in him but only wanted a loan deal, while Inter preferred a permanent move.<ref name="ESPN" /> On 11 August, Shaqiri completed his move to Stoke for a club-record fee of £12&nbsp;million (€14.5&nbsp;million),<ref name="Inter2015bilancio" /> on a five-year deal.<ref>{{Cite press release |title=Shaqiri signs in club record deal |date=11 August 2015 |publisher=Stoke City F.C. |url=http://www.stokecityfc.com//news/article/shaqiri-signs-in-club-record-deal-2611120.aspx?site=desktop |access-date=12 August 2015}}</ref><ref>{{Cite news |url=https://www.bbc.co.uk/sport/0/football/33847333 |title=Xherdan Shaqiri: Stoke City sign Inter Milan winger for £12m |work=BBC Sport |access-date=12 August 2015}}</ref>
+
+He made his debut eleven days later in a 1–1 draw with [[Norwich City F.C.|Norwich City]] at [[Carrow Road]], assisting [[Mame Biram Diouf]]'s headed goal with a free kick.<ref>{{Cite web |url=https://www.bbc.co.uk/sport/football/33944696 |title=Norwich City 1–1 Stoke City |last=Oscroft |first=Tim |date=22 August 2015 |website=BBC Sport |access-date=24 August 2015}}</ref> On 28 December, Shaqiri recorded his first goals for Stoke, a first-half brace in a 4–3 win at Everton. The second of these two goals was a half-volley over [[Tim Howard]], from [[Bojan Krkić|Bojan]]'s pass.<ref name="Everton">{{Cite web |url=https://www.bbc.co.uk/sport/football/35148469 |title=Everton 3–4 Stoke City |last=Reddy |first=Luke |date=28 December 2015 |website=BBC Sport |access-date=28 December 2015}}</ref> His only other goal in [[2015–16 Stoke City F.C. season|2015–16]] was a 20-yard strike against [[Newcastle United F.C.|Newcastle United]] on 2 March 2016.<ref>{{Cite web |url=https://www.bbc.co.uk/sport/football/35647699 |title=Stoke City 1–0 Newcastle United |last=Jurejko |first=Jonathan |date=2 March 2016 |website=BBC Sport |access-date=20 May 2016}}</ref> In total Shaqiri played 32 times for Stoke in 2015–16 as the side finished in ninth position.<ref name="2015/16" />
+
+[[File:Xherdan Shaqiri corner 2.jpg|thumb|Shaqiri preparing to take a corner kick for [[Stoke City F.C.|Stoke City]] in 2016]]
+
+Shaqiri scored a 20-yard free kick against [[Middlesbrough F.C.|Middlesbrough]] on the opening day of the [[2016–17 Stoke City F.C. season|2016–17 season]].<ref>{{Cite web |url=https://www.bbc.co.uk/sport/football/36994443 |title=Middlesbrough 1–1 Stoke City |last=Jennings |first=Patrick |date=13 August 2016 |website=BBC Sport |access-date=26 September 2016}}</ref><ref>{{Cite news |url=https://www.telegraph.co.uk/football/2016/08/14/eye-catching-xherdan-shaqiri-eager-to-cement-his-reputation-as-s/ |archive-url=https://ghostarchive.org/archive/20220112/https://www.telegraph.co.uk/football/2016/08/14/eye-catching-xherdan-shaqiri-eager-to-cement-his-reputation-as-s/ |archive-date=12 January 2022 |url-access=subscription |url-status=live |title=Eye-catching Xherdan Shaqiri eager to cement his reputation as Stoke City's entertainer in chief |last=Rej |first=Arindam |date=14 August 2016 |newspaper=The Daily Telegraph |access-date=26 September 2016}}{{cbignore}}</ref> However a calf injury ruled him out for the next six weeks, returning to the side on 24 September 2016 against [[West Bromwich Albion F.C.|West Bromwich Albion]] where he provided the assist for [[Joe Allen]] in a 1–1 draw.<ref>{{Cite web |url=http://www.skysports.com/football/stoke-vs-w-brom/preview/356391 |title=Stoke v West Brom preview: Mark Hughes looks for first Premier League win of the season |last=Dickson |first=Andrew |date=25 September 2016 |website=Sky Sports |access-date=22 July 2018}}</ref><ref>{{Cite web |url=http://www.skysports.com/football/stoke-vs-w-brom/report/356391 |title=Stoke 1–1 West Brom: Salomon Rondon scores stoppage-time equaliser to stun Mark Hughes |last=Bate |first=Adam |date=24 September 2016 |website=Sky Sports |access-date=22 July 2018}}</ref> Shaqiri scored two long-range goals against [[Hull City A.F.C.|Hull City]] on 22 October 2016, becoming the first Stoke player to do so in a Premier League game.<ref>{{Cite web |url=https://www.bbc.co.uk/sport/football/37663781 |title=Hull City 0–2 Stoke City |last=Davis |first=Matt |date=22 October 2016 |website=BBC Sport |access-date=27 October 2016}}</ref> He scored another long range strike also against Hull on 15 April 2017 which was named as Stoke's goal of the season.<ref>{{Cite web |url=https://www.stokecityfc.com/teams/stoke-city/xherdan-shaqiri |title=I can't pick my favourite goal says Stoke City star Xherdan Shaqiri |publisher=Stoke City F.C. |archive-url=https://web.archive.org/web/20170720144238/https://www.stokecityfc.com/teams/stoke-city/xherdan-shaqiri |archive-date=20 July 2017 |access-date=22 July 2018}}</ref><ref>{{Cite web |url=https://www.bbc.co.uk/sport/football/39536677 |title=Stoke City 3–1 Hull City |last=Strickland |first=Jamie |date=15 April 2017 |website=BBC Sport |access-date=22 July 2018}}</ref> Shaqiri made 22 appearances in 2016–17, as Stoke finished in 13th position.<ref name="2016/17" /><ref>{{Cite web |url=http://www.skysports.com/football/news/11701/10887143/stoke-201617-premier-league-season-review |title=Stoke 2016/17 Premier League season review |website=Sky Sports |access-date=26 May 2017}}</ref>
+
+Shaqiri scored his first goal of the [[2017–18 Stoke City F.C. season|2017–18 season]] in the match against Newcastle United, on 16 September, scoring the equalising goal in an eventual 1–2 defeat.<ref>{{Cite web |url=https://www.skysports.com/football/newcastle-vs-stoke/373143 |title=Newcastle 2–1 Stoke: Jamaal Lascelles the hero once again as Rafael Benitez returns to dugout |website=Sky Sports |access-date=22 September 2018}}</ref> On 4 November, he scored in a 2–2 draw against [[Leicester City F.C.|Leicester City]].<ref>{{Cite news |url=https://www.bbc.com/sport/football/41785780 |title=Stoke City 2–2 Leicester City |date=4 November 2017 |access-date=22 September 2018 |website=BBC Sport}}</ref> On 25 November, he scored in a 1–2 defeat to [[Crystal Palace F.C.|Crystal Palace]].<ref>{{Cite news |url=https://www.bbc.com/sport/football/42035415 |title=Crystal Palace 2–1 Stoke City |date=25 November 2017 |access-date=22 September 2018 |website=BBC Sport}}</ref> On 2 December, he scored in a 2–1 win over Swansea City.<ref>{{Cite web |url=https://www.skysports.com/football/stoke-vs-swansea/373244 |title=Stoke 2–1 Swansea: Potters' first-half comeback sends Swansea bottom of table |website=Sky Sports |access-date=22 September 2018}}</ref> On 3 February 2018, he scored the opening goal in a 1–2 defeat to [[AFC Bournemouth]].<ref>{{Cite news |url=https://www.bbc.com/sport/football/42842342 |title=Bournemouth 2–1 Stoke City |date=3 February 2018 |access-date=22 September 2018 |website=BBC Sport}}</ref> A week later, on 10 February, he scored in a 1–1 draw against [[Brighton & Hove Albion F.C.|Brighton & Hove Albion]].<ref>{{Cite news |url=https://www.bbc.com/sport/football/42927829 |title=Stoke City 1–1 Brighton & Hove Albion |date=10 February 2018 |access-date=22 September 2018 |website=BBC Sport}}</ref> On 24 February, Shaqiri scored for a third consecutive game in a 1–1 draw against Leicester City.<ref>{{Cite news |url=https://www.theguardian.com/football/live/2018/feb/24/leicester-city-v-stoke-city-premier-league-live |title=Leicester City 1–1 Stoke City: Premier League – as it happened |last=Bakowski |first=Gregg |date=24 February 2018 |newspaper=The Guardian |access-date=22 September 2018 |issn=0261-3077}}</ref> In March 2018, with Stoke battling against relegation, Shaqiri courted controversy with an interview for Swiss magazine ''[[Schweizer Illustrierte]]'' in which he said there was a "lack of quality" in his Stoke teammates and that even the presence of [[Ronaldinho]] would not improve the team.<ref>{{Cite news |url=https://www.stokesentinel.co.uk/sport/football/football-news/xherdan-shaqiri-stoke-city-transfer-1404833 |title=Xherdan Shaqiri nearing Stoke City exit after no-holds barred magazine interview |last=Smith |first=Peter |date=30 March 2018 |newspaper=The Sentinel |access-date=1 April 2018}}</ref> On 5 May, Shaqiri scored in a 1–2 defeat to Crystal Palace, as Stoke were relegated to the [[EFL Championship|Championship]].<ref>{{Cite news |url=https://www.bbc.com/sport/football/43931931 |title=Stoke City 1–2 Crystal Palace |date=5 May 2018 |access-date=22 September 2018 |website=BBC Sport}}</ref> He played 38 times for the club in the season and finished as top goalscorer for the club with 8 goals, also providing 7 assists.<ref>{{Cite web |url=https://www.whoscored.com/Players/76304/History/Xherdan-Shaqiri |title=Xherdan Shaqiri – History |website=whoscored.com |access-date=22 September 2018}}</ref>
+
+===Liverpool===
+On 13 July 2018, Liverpool signed Shaqiri on a five-year deal after triggering his £13.5&nbsp;million release clause.<ref>{{Cite news |url=https://www.standard.co.uk/sport/football/liverpool-confirm-xherdan-shaqiri-signing-as-swiss-international-pens-fiveyear-deal-a3880576.html |title=Liverpool confirm Shaqiri signing |newspaper=London Evening Standard |access-date=22 September 2018}}</ref> On his debut on 12 August, in the opening match of the season against [[West Ham United F.C.|West Ham United]], he came on as a late substitute in a 4–0 win.<ref>{{Cite news |url=https://www.independent.co.uk/sport/football/premier-league/liverpool-west-ham-salah-keita-mane-goals-watch-match-report-latest-klopp-a8488511.html |archive-url=https://ghostarchive.org/archive/20220507/https://www.independent.co.uk/sport/football/premier-league/liverpool-west-ham-salah-keita-mane-goals-watch-match-report-latest-klopp-a8488511.html |archive-date=7 May 2022 |url-access=subscription |url-status=live |title=Sadio Mane at the double as Liverpool make flying start with demolition of West Ham |newspaper=The Independent |access-date=22 September 2018}}{{cbignore}}</ref> He made his first full start on 22 September, in a 3–0 win over [[Southampton F.C.|Southampton]], and received praise for his performance which earned him the [[BBC Sport]] man of the match award.<ref>{{Cite news |url=https://www.sportsmole.co.uk/football/liverpool/result/result-liverpool-stroll-past-southampton_336366.html |title=Result: Liverpool stroll past Southampton to maintain 100% start |website=Sports Mole |access-date=22 September 2018}}</ref><ref>{{Cite news |url=https://www.thisisanfield.com/2018/09/liverpool-3-0-southampton-player-ratings-2/ |title=Liverpool 3–0 Southampton: Player Ratings |date=22 September 2018 |website=This Is Anfield |access-date=22 September 2018}}</ref><ref>{{Cite news |url=https://www.bbc.com/sport/football/45530713 |title=Liverpool 3–0 Southampton: Reds ease past Saints for seventh straight win |date=22 September 2018 |access-date=22 September 2018 |website=BBC Sport}}</ref>
+
+Shaqiri scored his first goal for Liverpool on 27 October, scoring the third goal in a 4–1 win over Cardiff City.<ref>{{Cite news |url=https://www.bbc.com/sport/football/45924058 |title=Liverpool 4–1 Cardiff City: Sadio Mane scores twice as Reds go top |date=27 October 2018 |access-date=27 October 2018 |website=BBC Sport}}</ref> In November, he was left out of the club's Champions League trip to [[Red Star Belgrade]] in Serbia to avoid controversy over his pro-Albanian views.<ref>{{Cite news |url=https://www.bbc.co.uk/sport/football/46094407 |title=Xherdan Shaqiri: Liverpool midfielder to miss Red Star Belgrade game in Serbia |date=5 November 2018 |access-date=6 November 2018 |website=BBC Sport}}</ref> The following month, during the [[Liverpool F.C.–Manchester United F.C. rivalry|North West derby]], Shaqiri scored twice after coming on as a substitute to guide Liverpool to a 3–1 win which saw the club record a league victory over Manchester United for the first time since March 2014.<ref>{{Cite news |url=https://www.goal.com/en-za/news/supersub-shaqiri-the-bargain-of-the-season-as-swiss-star/6jf7ivmrmqkc1bxdqtupd0r0i |title=Supersub Shaqiri the bargain of the season as Swiss star puts Man Utd to sword |last=Jones |first=Neil |date=17 December 2018 |access-date=18 December 2018 |website=Goal.com}}</ref>
+
+On 1 June 2019, Shaqiri picked up his second [[UEFA Champions League|Champions League]] winner's medal, despite not playing in the [[2019 UEFA Champions League Final|final]] against [[Tottenham Hotspur F.C.|Tottenham Hotspur]], which Liverpool won 2–0, but having played a key role in the semi-final against Barcelona.<ref>{{Cite web |url=https://www.bbc.com/sport/football/48179167 |title=BBC Sport at Anfield |last=Bevan |first=Chris |date=7 May 2019 |website=BBC Sport |access-date=29 December 2019}}</ref><ref>{{Cite news |url=https://www.theguardian.com/football/2019/jun/01/tottenham-liverpool-champions-league-final-match-report |title=Liverpool win Champions League after Salah and Origi sink Tottenham |last=Taylor |first=Daniel |date=1 June 2019 |newspaper=The Guardian |access-date=1 June 2019}}</ref> He later said he wanted to stay at Anfield.<ref>{{Cite news |url=https://uk.reuters.com/article/uk-soccer-uefanations-por-swi-idUKKCN1T52E0 |title=Shaqiri sticks with Liverpool, gives Swiss Nations League boost |last=Evans |first=Simon |date=4 June 2019 |access-date=4 June 2019 |work=Reuters}}</ref><ref>{{Cite web |url=https://www.espn.co.uk/football/soccer-transfers/story/3867993/klopp-thanks-reds-departees-sturridgemoreno |title=Sturridge, Moreno leave Liverpool; Shaqiri stays |date=4 June 2019 |publisher=ESPN |access-date=5 June 2019}}</ref> On 14 August, Shaqiri picked up his second trophy with the club, winning the [[2019 UEFA Super Cup|UEFA Super Cup]] against [[Chelsea F.C.|Chelsea]] on penalties after a 2–2 regular finish.<ref>{{Cite web |url=https://www.bbc.com/sport/football/49332825 |title=Liverpool 2–2 Chelsea (Liverpool win 5–4 on penalties) |website=BBC Sport |first=Gary |last=Rose |date=14 August 2019 |access-date=5 December 2019}}</ref> On 4 December, following a prolonged injury,<ref>{{Cite web |url=https://www.liverpoolfc.com/news/first-team/369664-xherdan-shaqiri-injury-update |title=Xherdan Shaqiri injury update |publisher=Liverpool F.C. |access-date=5 December 2019}}</ref> Shaqiri scored his first goal of the [[2019–20 Liverpool F.C. season|2019–20 season]] in the [[Merseyside derby|derby]] against [[Everton F.C.|Everton]], slotting home Liverpool's second in a 5–2 win.<ref>{{Cite web |url=https://www.bbc.com/sport/football/50568387 |title=Liverpool 5–2 Everton |website=BBC Sport |first=Phil |last=McNulty |date=4 December 2019 |access-date=5 December 2019}}</ref> In December, he was part of the squad that won the [[2019 FIFA Club World Cup]], following a 1–0 victory over [[Clube de Regatas do Flamengo|Flamengo]] in the [[2019 FIFA Club World Cup Final|final]].<ref>{{Cite news|title=Liverpool clinch first Club World Cup|language=en-GB|work=BBC Sport|url=https://www.bbc.co.uk/sport/football/50869633|access-date=20 October 2020}}</ref> In June 2020, Liverpool were crowned [[2019–20 Premier League|Premier League champions]],<ref>{{Cite news|title=Liverpool win title as Chelsea beat Man City|language=en-GB|work=BBC Sport|url=https://www.bbc.co.uk/sport/football/51884262|access-date=20 October 2020}}</ref> and Shaqiri received a medal as he made the required number of appearances for one.<ref>{{Cite web|last=Harris|first=Peter|date=20 July 2020|title=Liverpool players set for a Premier League medal|url=https://www.liverpoolecho.co.uk/sport/football/football-news/who-gets-premier-league-winners-18469054|access-date=20 October 2020|website=Liverpool Echo}}</ref>
+
+Shaqiri's first goal of the [[2020–21 Liverpool F.C. season|2020–21 season]], and first goal for the club in over nine months, came on 24 September 2020, when he scored the opening goal in a 7–2 routing of [[Lincoln City F.C.|Lincoln City]] in the [[2020–21 EFL Cup|EFL Cup]].<ref>{{Cite news|title=Jones called 'exceptional' as Reds hit seven|language=en-GB|work=BBC Sport|url=https://www.bbc.co.uk/sport/football/54190675|access-date=20 October 2020}}</ref>
+
+=== Lyon ===
+On 23 August 2021, French side [[Olympique Lyonnais|Lyon]] announced the signing of Shaqiri, paying Liverpool a fee of €6 million and signing a contract until 2024.<ref>{{cite web |title=Liverpool's Shaqiri completes €6m move to Lyon on three-year deal |url=https://www.goal.com/en/news/liverpool-shaqiri-move-to-lyon-three-year-deal/gw8y8byjmw6614ldw27s4mfjo |publisher=Goal |access-date=23 August 2021 |date=23 August 2021}}</ref>
+
+=== Chicago Fire FC ===
+On 9 February 2022, Shaqiri joined [[Major League Soccer]] club [[Chicago Fire FC]] on a contract that will run through the 2024 season as a [[Designated Player Rule|Designated Player]]. His transfer signing was the most expensive in Chicago Fire history, for a reported fee of €6.5 million ($7.5 million).<ref>{{cite web |title=Chicago Fire FC Acquire Switzerland International Xherdan Shaqiri as Designated Player |url=https://www.chicagofirefc.com/news/chicago-fire-fc-acquire-switzerland-international-xherdan-shaqiri-as-designated- |website=ChicagoFireFC.com |access-date=9 February 2022}}</ref><ref>{{Cite web|date=9 February 2022|title=Shaqiri signs DP deal in Chicago through 2024|url=https://www.espn.com/soccer/chicago-fire-fc/story/4589861/xherdan-shaqiri-leaves-lyon-for-chicago-fire-on-designated-player-deal-through-2024|access-date=9 February 2022|website=ESPN.com|language=en}}</ref>
+
+==International career==
+===Youth career===
+Shaqiri made his debut for [[Switzerland national under-21 football team|Switzerland under-21s]] on 11 November 2009 in a 3–1 win against [[Turkey national under-21 football team|Turkey]] in a [[2011 UEFA European Under-21 Championship qualification Group 2|2011 UEFA European Under-21 Championship qualifier]]. He scored his first goal for them on 11 June 2011 in the [[2011 UEFA European Under-21 Championship]] opening game against [[Denmark national under-21 football team|Denmark]].<ref>{{cite web |url=https://www.sportskeeda.com/player/xherdan-shaqiri |title=Xherdan Shaqiri |website=Sportskeeda |access-date=23 August 2020}}</ref>
+
+===Senior career===
+====2010 FIFA World Cup and UEFA Euro 2012====
+[[File:Xherdan Shaqiri.jpg|thumb|upright|Shaqiri playing for [[Switzerland national football team|Switzerland]] in 2011]]
+
+Shaqiri was promoted to the [[Switzerland national football team|Switzerland senior team]] in 2010, making his debut on 3 March 2010 in a 3–1 friendly loss against [[Uruguay national football team|Uruguay]]. He was included in the [[2010 FIFA World Cup|2010 World Cup]] squad, after receiving a surprise call-up from manager [[Ottmar Hitzfeld]]. Shaqiri scored his first goal for them on 7 September 2010, a long range left-footed shot, in a 1–3 loss against [[England national football team|England]] in a [[UEFA Euro 2012 qualifying Group G|Euro 2012 qualifier]]. He netted a hat-trick in another Euro 2012 qualifier on 6 September 2011, as Switzerland came from behind to beat [[Bulgaria national football team|Bulgaria]] 3–1.<ref>{{Cite web |url=http://www.uefa.com/uefaeuro/season=2012/matches/round=15171/match=2002282/postmatch/report/index.html |title=Shaqiri treble keeps Swiss hopes alive |date=6 September 2011 |publisher=UEFA |access-date=15 December 2012}}</ref> Switzerland also tried to select him to participate in the [[Football at the 2012 Summer Olympics – Men's tournament|2012 Olympic Football tournament]], but he opted to stay at his new club for pre-season training.<ref>{{Cite web |url=https://www.reuters.com/article/oly-socc-swiss-squad-idUSB29215720120709 |title=Olympics-Shaqiri, Xhaka excluded from Swiss soccer squad |date=9 July 2012 |access-date=26 July 2012 |work=Reuters}}</ref>
+
+====2014 FIFA World Cup====
+On 11 September 2012, Shaqiri did not sing the [[Swiss national anthem]] in a World Cup qualifier against his ancestral [[Albania national football team|Albania]] in [[Lucerne]], and did not celebrate when he scored the opening goal of a 2–0 win. He wore boots with the flags of Kosovo, Albania and Switzerland for the match.<ref>{{Cite news |url=https://www.nytimes.com/2012/09/20/sports/soccer/kosovo-wants-a-national-soccer-team-and-to-call-its-players-home.html |title=Rooting for Home, if Not Yet a Home Team |last=Montague |first=James |date=19 September 2012 |newspaper=The New York Times |access-date=8 June 2016}}</ref>
+
+In June 2014, Shaqiri was named in Switzerland's squad for the [[2014 FIFA World Cup]]. In the team's opening match, Shaqiri was named man of the match by [[FIFA]] as the ''Nati'' defeated [[Ecuador national football team|Ecuador]].<ref>{{Cite news |url=https://www.fifa.com/worldcup/matches/round=255931/match=300186494/index.html#nosticky |archive-url=https://web.archive.org/web/20140605221512/http://www.fifa.com/worldcup/matches/round=255931/match=300186494/index.html#nosticky |url-status=dead |archive-date=5 June 2014 |title=Switzerland 2–1 Ecuador |access-date=16 June 2014 |publisher=FIFA}}</ref> He earned the same title ten days later in Switzerland's third group match, for scoring a [[List of FIFA World Cup hat-tricks|hat-trick]] against [[Honduras national football team|Honduras]], which included a bending strike from 30 yards, and ensuring Switzerland a spot in the [[2014 FIFA World Cup#Round of 16|knockout stage]].<ref>{{cite news |last1=Smith |first1=Alan |title=Switzerland ease past Honduras courtesy of Xherdan Shaqiri hat-trick |url=https://www.theguardian.com/football/2014/jun/25/honduras-switzerland-world-cup-2014-match-report |access-date=29 April 2021 |work=The Guardian |date=25 June 2014}}</ref> They were eliminated following a 1–0 loss against Argentina in the last 16.<ref>{{Cite web |url=https://www.bbc.com/sport/football/27990606 |title=Argentina 1–0 Switzerland (aet) |date=1 July 2014 |access-date=22 September 2018 |website=BBC Sport}}</ref>
+
+====UEFA Euro 2016====
+Shaqiri scored three times in Switzerland's [[UEFA Euro 2016 qualifying|successful qualification campaign]] for [[UEFA Euro 2016]], with all of his strikes coming against [[Lithuania national football team|Lithuania]]. He recorded a brace on 15 November 2014 in a 4–0 win over them in [[St. Gallen]],<ref>{{Cite news |url=http://www.uefa.com/uefaeuro/season=2016/matches/round=2000446/match=2013904/postmatch/report/index.html |title=Patient Switzerland see off Lithuania |last=Holyman |first=Ian |date=15 November 2014 |access-date=26 December 2015 |publisher=UEFA}}</ref> and in the reverse fixture the following 14 June, he netted an 84th-minute winner in a 2–1 victory.<ref name="LTU 1-2 SUI">{{Cite news |url=https://www.theguardian.com/football/2015/jun/14/switzerland-lithuania-xherdan-shaqiri |title=Switzerland win in Lithuania with late Xherdan Shaqiri goal |date=14 June 2015 |newspaper=The Guardian |access-date=26 December 2015 |agency=Press Association}}</ref> In the final tournament in France, he started all four of Switzerland's matches as they reached the last 16, equalising with a [[bicycle kick]] from the edge of the penalty area as they drew 1–1 with [[Poland national football team|Poland]] in [[Saint-Étienne]]; he scored again in the [[penalty shoot-out (association football)|penalty shootout]] but the Poles won nonetheless.<ref>{{Cite news |url=https://www.uefa.com/uefaeuro/season=2016/matches/round=2000744/match=2017996/postmatch/report/index.html |title=Poland edge past Switzerland on penalties |last=Burke |first=Chris |date=25 June 2016 |access-date=2 September 2019 |publisher=UEFA}}</ref>
+
+Following Switzerland's first game at Euro 2016, Shaqiri declared he would switch allegiance to [[Kosovo national football team|Kosovo]] if their manager would make him captain, in reaction to Switzerland manager [[Vladimir Petković]]'s decision to omit him from that position. Although already an international for Switzerland, FIFA rules would permit Shaqiri to represent Kosovo, who joined the federation earlier that year.<ref name="FIFAA" /><ref>{{Cite news |url=https://www.theguardian.com/football/2016/jun/14/euro-2016-xherdan-shaqiri-switzerland-romania |title=Xherdan Shaqiri drops a bombshell as Swiss prepare for Romania |last=Hytner |first=David |date=14 June 2016 |newspaper=The Guardian |access-date=21 September 2016}}</ref> However, since Shaqiri continued to play for Switzerland after Kosovo had become a member of FIFA, it also ruled out the possibility of Shaqiri's eligibility to Kosovo.<ref name="FIFAA">{{Cite press release |title=Change of association to the Football Federation of Kosovo |date=7 September 2016 |publisher=FIFA |url=https://www.fifa.com/about-fifa/news/y=2016/m=9/news=change-of-association-to-the-football-federation-of-kosovo-2831273.html |archive-url=https://web.archive.org/web/20160910161222/http://www.fifa.com/about-fifa/news/y=2016/m=9/news=change-of-association-to-the-football-federation-of-kosovo-2831273.html |url-status=dead |archive-date=10 September 2016 |quote=In particular, the Bureau of the Players' Status Committee wished to emphasise that the players concerned had not represented their previous association after 13 May 2016, the date of admission of the FFK to FIFA. In other words, they never chose to play for their previous association when they had the opportunity to choose to play for the representative teams of the FFK. The Bureau of the Players' Status Committee indicated that this was a key element in its decision on the matter. |access-date=24 June 2018}}</ref>
+
+====2018 FIFA World Cup====
+[[File:Ser-Swi (33).jpg|thumb|upright|Shaqiri playing for Switzerland at the [[2018 FIFA World Cup]]]]
+
+Shaqiri was included in Switzerland's 23-man squad for the [[2018 FIFA World Cup]], held in Russia. In the group stage, he scored the winning goal as Switzerland came from behind to defeat [[Serbia national football team|Serbia]] 2–1. He and fellow goalscorer [[Granit Xhaka]], who is also of Kosovar descent, [[Goal celebration|celebrated their goals]] by making an [[Crossed hands (gesture)|eagle gesture]], a symbol of ethnic Albanians.<ref>{{Cite news |url=https://www.theguardian.com/football/2018/jun/22/serbia-switzerland-xherdan-shaqiri-world-cup-group-e-match-report |title=Switzerland's Xherdan Shaqiri stuns Serbia with late breakaway |last=Lowe |first=Sid |date=22 June 2018 |newspaper=The Guardian |access-date=22 June 2018 |quote=As he turned and screamed, he took his shirt off, flexed his muscles and performed a double-eagle celebration, a recreation of the Albanian flag. Alongside him, Granit Xhaka did the same – for the second time.}}</ref><ref>{{Cite news |url=https://edition.cnn.com/2018/06/23/football/xherdan-shaqiri-granit-xhaka-eagle-goal-celebration-serbia-switzerland-world-cup-spt-intl/index.html |title=Swiss duo's 'provocative' black eagle goal celebration 'mixes sport and politics' |last=Sinnott |first=John |date=25 June 2018 |access-date=25 June 2018 |publisher=CNN}}</ref><ref>{{Cite news |url=https://www.theguardian.com/football/2018/jun/23/xhaka-and-shaqiri-goal-celebrations-bring-balkan-politics-to-world-cup |title=Switzerland's Xhaka and Shaqiri charged by Fifa over Serbia goal celebrations |last=Lowe |first=Sid |date=23 June 2018 |newspaper=The Guardian |access-date=24 June 2018}}</ref><ref>{{Cite news |url=https://www.independent.co.uk/sport/football/world-cup/world-cup-2018-switzerland-serbia-granit-xhaka-xherdan-shaqiri-goal-celebrations-why-controversial-a8413426.html |archive-url=https://ghostarchive.org/archive/20220507/https://www.independent.co.uk/sport/football/world-cup/world-cup-2018-switzerland-serbia-granit-xhaka-xherdan-shaqiri-goal-celebrations-why-controversial-a8413426.html |archive-date=7 May 2022 |url-access=subscription |url-status=live |title=World Cup 2018: Xherdan Shaqiri and Granit Xhaka's controversial goal celebrations criticised by Swiss media |last=Watson |first=Jack |date=23 June 2018 |newspaper=The Independent |access-date=25 June 2018}}{{cbignore}}</ref> Switzerland captain [[Stephan Lichtsteiner]], who is not of Albanian origin, did the same gesture to celebrate Shaqiri's goal, and defended both players after the match.<ref>{{Cite news |url=http://www.goal.com/en/news/this-is-more-than-football-lichtsteiner-defends-xhaka/wqp5oele4fws1gyub1fh28230 |title=World Cup 2018: 'This is more than football' – Stephan Lichtsteiner defends Granit Xhaka & Xherdan Shaqiri's controversial celebration |access-date=1 October 2018 |website=Goal.com}}</ref> FIFA fined Xhaka and Shaqiri 10,000 [[Swiss franc]]s "for unsporting behaviour contrary to the principles of fair-play", while Lichtsteiner paid 5,000 Swiss francs.<ref>{{Cite web |url=https://www.bbc.co.uk/sport/football/44606965 |title=World Cup 2018: Switzerland trio avoid bans for 'eagle gesture' goal celebrations |date=25 June 2018 |website=BBC Sport |access-date=25 June 2018}}</ref><ref>{{Cite news |url=https://www.independent.co.uk/sport/football/world-cup/world-cup-2018-granit-xhaka-xherdan-shaqiri-goal-celebrations-albania-kosovo-serbia-fine-a8416466.html |archive-url=https://ghostarchive.org/archive/20220507/https://www.independent.co.uk/sport/football/world-cup/world-cup-2018-granit-xhaka-xherdan-shaqiri-goal-celebrations-albania-kosovo-serbia-fine-a8416466.html |archive-date=7 May 2022 |url-access=subscription |url-status=live |title=World Cup 2018: Granit Xhaka and Xherdan Shaqiri avoid bans after political goal celebrations |last=Lovett |first=Samuel |date=25 June 2018 |newspaper=The Independent |access-date=25 June 2018}}{{cbignore}}</ref> Additionally, with the goal he equalled [[Stéphane Chapuisat]]'s tally of 21 in internationals and entered Switzerland's top ten scorers of all time.<ref>{{Cite news |url=https://www.blick.ch/sport/fussball/wm/zu-alex-frei-fehlt-noch-einiges-shaqiri-ist-jetzt-besser-als-chapuisat-id8538540.html |title=Shaqiri ist jetzt besser als Chapuisat |last1=Kern |first1=Max |date=21 June 2018 |newspaper=Blick |access-date=13 September 2018 |last2=Böni |first2=Andreas |language=German}}</ref>
+
+Shaqiri was part of Switzerland's squad at the [[2019 UEFA Nations League Finals]] in Portugal. He was named in the Team of the Tournament.<ref name=nations/>
+
+==== UEFA Euro 2020 ====
+{{See also|UEFA Euro 2020}}
+Shaqiri was named in the 26-man Swiss squad for the postponed [[UEFA Euro 2020]].<ref>{{Cite web|title=Switzerland's full 26-man Euro 2020 squad|url=https://theathletic.com/news/switzerland-euro-2020-squad-full-26-man-team-ahead-of-2021-tournament-30-06-21/ZXLo5x2se7Xm|access-date=5 July 2021|website=The Athletic|language=en}}</ref> On 20 June 2021, he scored twice in the 26th and 68th minutes against [[Turkey national football team|Turkey]] in a group stage match.<ref>{{Cite news|last=Smyth|first=Rob|date=20 June 2021|title=Switzerland 3-1 Turkey: Euro 2020 – as it happened|language=en-GB|work=The Guardian|url=https://www.theguardian.com/football/live/2021/jun/20/switzerland-v-turkey-euro-2020-live|access-date=5 July 2021|issn=0261-3077}}</ref> On 2 July 2021, he scored in the quarter final of the tournament against [[Spain national football team|Spain]].<ref>{{Cite news|last1=Percy|first1=John|last2=Magee|first2=Will|date=2 July 2021|title=Spain beat Switzerland in chaotic penalty shoot-out to reach Euro 2020 semi-finals|language=en-GB|work=The Telegraph|url=https://www.telegraph.co.uk/euro-2021/2021/07/02/switzerland-vs-spain-euro-2020-live-score-latest-updates-first/ |archive-url=https://ghostarchive.org/archive/20220112/https://www.telegraph.co.uk/euro-2021/2021/07/02/switzerland-vs-spain-euro-2020-live-score-latest-updates-first/ |archive-date=12 January 2022 |url-access=subscription |url-status=live|access-date=5 July 2021|issn=0307-1235}}{{cbignore}}</ref> The match ended 1–1 and went to a [[Penalty shoot-out (association football)|penalty shoot-out]], in which Spain progressed to the semi-finals.<ref>{{Cite news|title=Spain beat Switzerland on penalties to reach Euros semis|language=en-GB|work=BBC Sport|url=https://www.bbc.co.uk/sport/football/51198650|access-date=2 July 2021}}</ref>
+
+==== 2022 FIFA World Cup ====
+On 15 November 2021, Shaqiri became only the fifth Swiss player to reach 100 caps when he started Switzerland's final [[2022 FIFA World Cup|2022 World Cup]] qualifier against Bulgaria.<ref>{{cite news|date=15 November 2021|title=Switzerland beat Bulgaria to snatch Group C top spot from Italy to qualify automatically for World Cup|url=https://www.eurosport.co.uk/football/world-cup-qualification-uefa/2022/switzerland-v-bulgaria-follow-live-world-cup-qualifying_sto8629288/story.shtml|last=Ruthven|first=Graham|access-date=16 November 2021|website=Eurosport UK|language=en}}</ref>
+
+==Style of play==
+Shaqiri primarily plays as a [[Midfielder#Winger|right winger]] and [[FIFA]]'s official website describes him as "unpredictable on the ball, adept with both feet, clinical in front of goal and possessing excellent vision."<ref name="FIFAB">{{Cite news |url=https://www.fifa.com/worldcup/players/player=321653/profile-detail.html |title=Xherdan SHAQIRI |access-date=16 June 2014 |archive-url=https://web.archive.org/web/20140709020530/https://www.fifa.com/worldcup/players/player=321653/profile-detail.html |archive-date=9 July 2014 |publisher=FIFA}}</ref> He was described in ''The Daily Telegraph'' as "stocky and powerful" with a "wand of a left foot".<ref name="Telegraph">{{Cite news |url=https://www.telegraph.co.uk/sport/football/teams/stoke-city/12021171/Xherdan-Shaqiri-Why-the-Alpine-Lionel-Messi-is-loving-life-in-Stoke.html |archive-url=https://ghostarchive.org/archive/20220112/https://www.telegraph.co.uk/sport/football/teams/stoke-city/12021171/Xherdan-Shaqiri-Why-the-Alpine-Lionel-Messi-is-loving-life-in-Stoke.html |archive-date=12 January 2022 |url-access=subscription |url-status=live |title=Xherdan Shaqiri: Why the 'Alpine Lionel Messi' is loving life in Stoke |last=Burt |first=Jason |date=27 November 2015 |newspaper=The Daily Telegraph |access-date=4 August 2018}}{{cbignore}}</ref> He is nicknamed "the [[Alpine states|Alpine]] [[Lionel Messi|Messi]]"<ref name=fifa/> and "the magic dwarf".<ref>{{Cite news |url=https://sports.yahoo.com/blogs/dirty-tackle/2014-world-cup-superlatives-161614995.html |title=2014 World Cup superlatives: From the best nickname to the most likely to put a hole through a goalkeeper |date=5 June 2014 |website=Yahoo Sports |access-date=16 June 2014}}</ref> Also capable of playing as an [[Midfielder#Attacking midfielder|attacking midfielder]], a 2011 scouting profile by Jamie Sanderson of ''[[The Independent]]'' described Shaqiri with the following words: "Diminutive, agile and pacy across the turf, Shaqiri boasts excellent technique and balance. He's left footed, but comfortable and equally effective on either wing or as a classic [[Playmaker|play-maker]], boasting good vision and almost zero back lift in his passing and shooting." He also added that Shaqiri's "tricks," "direct running style," and "composure," made him "a player who's dangerous in almost any attacking area." However, while he acknowledged the young winger's promising talent and potential to become a top player, he also noted that he had a poor work rate and lacked maturity.<ref>{{cite news |url=https://www.independent.co.uk/sport/football/news-and-comment/talent-scout-xherdan-shaqiri-fc-basel-2367015.html |archive-url=https://ghostarchive.org/archive/20220507/https://www.independent.co.uk/sport/football/news-and-comment/talent-scout-xherdan-shaqiri-fc-basel-2367015.html |archive-date=7 May 2022 |url-access=subscription |url-status=live |title=Talent Scout: Xherdan Shaqiri, FC Basel |newspaper=The Independent |last1=Sanderson |first1=Jamie |date=7 October 2011 |access-date=26 June 2020}}{{cbignore}}</ref>
+
+==Personal life==
+Shaqiri is a [[Islam in Switzerland|Muslim]] but celebrates [[Christmas]], despite it being a mainly Christian holiday. This is due to his family who celebrated it in his childhood. In 2014, he cited the [[Christmas tree]] as the reason for it, saying "So we don't celebrate it so much, but my little sister loves to have a Christmas tree, so we always get one of those."<ref>{{cite web |url=https://tribuna.com/en/news/liverpoolfc-2020-03-06-eid-mubarak-4-muslim-players-who-graced-the-fields-of-anfield-road/ |title=Eid Mubarak: 4 Muslim players who graced the fields of Anfield Road |first=Donat |last=Iskandroff |date=6 March 2020 |website=Tribuna |accessdate=18 May 2021}}</ref><ref>{{Cite web |url=http://www.espnfc.com/fifa-world-cup/story/1923001/mesut-ozil-among-muslim-footballers-to-forego-ramadan-at-2014-world-cup |title=World Cup players to forego Ramadan |last=Uersfeld |first=Stephan |date=30 June 2014 |website=ESPN FC |access-date=30 June 2014}}</ref><ref>{{Cite web |url=https://www.goal.com/en-sg/news/3999/world-cup-2014/2014/06/30/4925618/ramadan-test-for-world-cups-muslim-players |title=Ramadan test for World Cup's Muslim players |last=Kunju |first=Bhas |date=30 June 2014 |website=Goal.com |access-date=15 June 2019}}</ref> Shaqiri was chosen to be on the cover of the [[FIFA (video game series)|''FIFA'']] video game ''[[FIFA 15]]'' in Switzerland next to [[Lionel Messi]].<ref>{{Cite web |url=http://www.fifplay.com/fifa15-cover-switzerland/ |title=FIFA 15 Swiss Cover |date=19 August 2014 |website=FIFPlay |access-date=18 February 2015}}</ref> Shaqiri is sponsored by sportswear and equipment supplier [[Nike, Inc.|Nike]]. He wears [[Nike Mercurial Vapor]] boots, and at the 2018 World Cup he had the [[Flag of Switzerland|flags of Switzerland]] and [[Flag of Kosovo|Kosovo]] embroidered on each heel.<ref>{{Cite news |url=https://www.stokesentinel.co.uk/sport/football/football-news/switzerland-xherdan-shaqiri-serbia-goal-1606194 |title=The story of war and hope behind Xherdan Shaqiri's bespoke World Cup boots |last=Smith |first=Peter |date=22 June 2018 |newspaper=The Sentinel |access-date=4 August 2018}}</ref>
+
+In 2018, Shaqiri was the most [[Google Search|Googled]] personality in Switzerland.<ref>{{Cite web |url=https://trends.google.com/trends/yis/2018/CH/ |title=Das war 2018 angesagt – Schweiz |publisher=Google Trends |language=German |access-date=14 January 2020}}</ref>
+
+==Career statistics==
+===Club===
+{{updated|match played 8 July 2023|<ref name="Soccerway">{{cite web|url=https://int.soccerway.com/players/xherdan-shaqiri/83268/|title=X. Shaqiri: Summary|website=Soccerway|publisher=Perform Group|access-date=22 August 2020}}</ref><ref>{{cite web|url=http://www.kicker.de/news/fussball/bundesliga/vereine/2014-15/58587/vereinsspieler_shaqiri-xherdan.html|title=Xherdan Shaqiri|website=kicker|publisher=Olympia-Verlag|language=de|access-date=19 February 2015}}</ref><ref>{{cite web|url=http://www.inter.it/en/squadra/G0958|title=Xherdan Shaqiri |publisher=Inter Milan|url-status=dead|archive-url=https://web.archive.org/web/20150209211916/http://www.inter.it/en/squadra/G0958|archive-date=9 February 2015|access-date=9 February 2015}}</ref>}}
+
+{| class="wikitable" style="text-align:center"
+|+ Appearances and goals by club, season and competition
+|-
+!rowspan="2"|Club
+!rowspan="2"|Season
+!colspan="3"|League
+!colspan="2"|National Cup{{efn|Includes [[Swiss Cup]], [[DFB-Pokal]], [[Coppa Italia]], [[FA Cup]] and [[U.S. Open Cup]]}}
+!colspan="2"|League Cup{{efn|Includes [[EFL Cup|Football League/EFL Cup]]}}
+!colspan="2"|Continental
+!colspan="2"|Other
+!colspan="2"|Total
+|-
+!Division!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals
+|-
+|rowspan="3"|Basel II
+|2007–08<ref name="NFT" />
+|[[Swiss 1. Liga (football)|Swiss 1. Liga]]
+|2||0||colspan="2"|—||colspan="2"|—||colspan="2"|—||colspan="2"|—||2||0
+|-
+|2008–09<ref name="NFT" />
+|Swiss 1. Liga
+|17||8||colspan="2"|—||colspan="2"|—||colspan="2"|—||colspan="2"|—||17||8
+|-
+!colspan="2"|Total
+!19||8||colspan="2"|—||colspan="2"|—||colspan="2"|—||colspan="2"|—||19||8
+|-
+|rowspan="4"|[[FC Basel|Basel]]
+|[[2009–10 FC Basel season|2009–10]]<ref name="NFT" />
+|[[Swiss Super League]]
+|32||4||5||1||colspan="2"|—||10{{efn|name=UEL|Appearance(s) in [[UEFA Europa League]]}}||2||colspan="2"|—||47||7
+|-
+|[[2010–11 FC Basel season|2010–11]]<ref name="NFT" />
+|Swiss Super League
+|29||5||2||0||colspan="2"|—||11{{efn|Ten appearances and two goals in [[UEFA Champions League]], one appearance in UEFA Europa League}}||2||colspan="2"|—||42||7
+|-
+|[[2011–12 FC Basel season|2011–12]]<ref name="2011/12">{{Soccerbase season|52454|2011|access-date=19 April 2017}}</ref>
+|Swiss Super League
+|31||9||4||0||colspan="2"|—|||6{{efn|name=UCL|Appearance(s) in UEFA Champions League}}||0||colspan="2"|—||41||9
+|-
+!Colspan="2"|Total
+!92||18||11||1||colspan="2"|—||27||4||colspan="2"|—||130||23
+|-
+|rowspan="4"|[[FC Bayern Munich|Bayern Munich]]
+|[[2012–13 FC Bayern Munich season|2012–13]]<ref name="2012/13">{{Soccerbase season|52454|2012|access-date=19 April 2017}}</ref>
+|[[Bundesliga]]
+|26||4||5||3||colspan="2"|—|||7{{efn|name=UCL}}||1||1{{efn|name=DFLSC|Appearance in [[DFL-Supercup]]}}||0||39||8
+|-
+|[[2013–14 FC Bayern Munich season|2013–14]]<ref name="2013/14">{{Soccerbase season|52454|2013|access-date=19 April 2017}}</ref>
+|Bundesliga
+|17||6||3||1||colspan="2"|—||4{{efn|Three appearances in UEFA Champions League, one appearance in [[UEFA Super Cup]]}}||0||3{{efn|One appearance in DFL-Supercup, two appearances in [[FIFA Club World Cup]]}}||0||27||7
+|-
+|[[2014–15 FC Bayern Munich season|2014–15]]<ref name="2014/15">{{Soccerbase season|id=52454|season=2014|access-date=19 April 2017}}</ref>
+|Bundesliga
+|9||1||1||0||colspan="2"|—||4{{efn|name=UCL}}||1||1{{efn|name=DFLSC}}||0||15||2
+|-
+!Colspan="2"|Total
+!52||11||9||4||colspan="2"|—||15||2||5||0||81||17
+|-
+|[[Inter Milan]]
+|[[2014–15 Inter Milan season|2014–15]]<ref name="2014/15"/>
+|[[Serie A]]
+|15||1||2||1||colspan="2"|—||3{{efn|name=UEL}}||1||colspan="2"|—||20||3
+|-
+|rowspan="4"|[[Stoke City F.C.|Stoke City]]
+|[[2015–16 Stoke City F.C. season|2015–16]]<ref name="2015/16">{{Soccerbase season|52454|2015|access-date=19 April 2017}}</ref>
+|[[Premier League]]
+|27||3||1||0||4||0||colspan="2"|—||colspan="2"|—||32||3
+|-
+|[[2016–17 Stoke City F.C. season|2016–17]]<ref name="2016/17">{{Soccerbase season|52454|2016|access-date=19 April 2017}}</ref>
+|Premier League
+|21||4||1||0||0||0||colspan="2"|—||colspan="2"|—||22||4
+|-
+|[[2017–18 Stoke City F.C. season|2017–18]]<ref name="2017/18">{{Soccerbase season|52454|2017|access-date=12 August 2017}}</ref>
+|Premier League
+|36||8||1||0||1||0||colspan="2"|—||colspan="2"|—||38||8
+|-
+!colspan="2"|Total
+!84||15||3||0||5||0||colspan="2"|—||colspan="2"|—||92||15
+|-
+|rowspan="4"|[[Liverpool F.C.|Liverpool]]
+|[[2018–19 Liverpool F.C. season|2018–19]]<ref name="2018/19">{{Soccerbase season|52454|2018|access-date=2 May 2019}}</ref>
+|Premier League
+|24||6||1||0||1||0||4{{efn|name=UCL}}||0||colspan="2"|—||30||6
+|-
+|[[2019–20 Liverpool F.C. season|2019–20]]<ref name="2019/20">{{Soccerbase season|52454|2019|access-date=24 August 2019}}</ref>
+|Premier League
+|7||1||0||0||0||0||1{{efn|name=UCL}}||0||3{{efn|One appearance in [[FA Community Shield]], two appearances in FIFA Club World Cup}}||0||11||1
+|-
+|[[2020–21 Liverpool F.C. season|2020–21]]<ref name="2020/21">{{Soccerbase season|52454|2020|access-date=24 September 2020}}</ref>
+|Premier League
+|14||0||2||0||1||1||5{{efn|name=UCL}}||0||0||0||22||1
+|-
+!colspan="2"|Total
+!45||7||3||0||2||1||10||0||3||0||63||8
+|-
+|[[Olympique Lyonnais|Lyon]]
+|[[2021–22 Olympique Lyonnais season|2021–22]]<ref name="2021/22">{{Soccerbase season|52454|2021|access-date=12 September 2021}}</ref>
+|[[Ligue 1]]
+|11||2||0||0||colspan="2"|—||5{{efn|name=UEL}}||0||colspan="2"|—||16||2
+|-
+|rowspan="3"|[[Chicago Fire FC|Chicago Fire]]
+|[[2022 Chicago Fire FC season|2022]]<ref name="2022/23">{{Soccerbase season|52454|2022|access-date=26 February 2022}}</ref>
+|[[Major League Soccer]]
+|29||7||0||0||colspan="2"|—||colspan="2"|—||colspan="2"|—||29||7
+|-
+|[[2023 Chicago Fire FC season|2023]]<ref name="2023/24">{{Soccerbase season|52454|2023|access-date=4 March 2023}}</ref>
+|Major League Soccer
+|16||2||3||0||colspan="2"|—||colspan="2"|—||0||0||19||2
+|-
+!colspan="2"|Total
+!45||9||3||0||colspan="2"|—||colspan="2"|—||0||0||48||9
+|-
+!colspan="3"|Career total
+!363||71||31||6||7||1||60||7||8||0||469||85
+|}
+
+{{Notelist}}
+
+===International===
+{{updated|match played 19 June 2023}}<ref name="EUFI">{{cite web |url=https://eu-football.info/_player.php?id=26029 |title=Xherdan Shaqiri, international footballer |access-date=23 January 2015 |website=EU-Football.info}}</ref><ref name="NFT">{{cite web |url=http://www.national-football-teams.com/player/36456/Xherdan_Shaqiri.html |title=Shaqiri, Xherdan |website=National Football Teams |access-date=5 June 2016}}</ref>
+
+{| class="wikitable" style="text-align:center"
+|+ Appearances and goals by national team and year
+|-
+!National team!!Year!!Apps!!Goals
+|-
+|rowspan="14"|[[Switzerland national football team|Switzerland]]
+|2010||9||1
+|-
+|2011||8||3
+|-
+|2012||7||3
+|-
+|2013||6||1
+|-
+|2014||12||7
+|-
+|2015||9||2
+|-
+|2016||8||1
+|-
+|2017||9||2
+|-
+|2018||12||2
+|-
+|2019||2||0
+|-
+|2020||4||0
+|-
+|2021||14||4
+|-
+|2022||12||1
+|-
+|2023||2||0
+|-
+!colspan="2"|Total||114||27
+|}
+
+:''As of match played 19 June 2023. Switzerland score listed first, score column indicates score after each Shaqiri goal.''<ref name="EUFI" />
+
+{| class="wikitable sortable"
+|+ List of international goals scored by Xherdan Shaqiri
+|-
+!scope=col|No.
+!scope=col|Date
+!scope=col|Venue
+!scope=col|Cap
+!scope=col|Opponent
+!scope=col|Score
+!scope=col|Result
+!scope=col|Competition
+!scope=col class=unsortable|{{abbr|Ref.|Reference}}
+|-
+|align=center|1||7 September 2010||[[St. Jakob-Park]], Basel, Switzerland||align=center|7||{{fb|ENG}}||align=center|1–2||align=center|1–3||rowspan="4"|[[UEFA Euro 2012 qualifying Group G|UEFA Euro 2012 qualifying]]||<ref>{{cite news |url=http://news.bbc.co.uk/sport1/hi/football/8972401.stm |title=Switzerland 1–3 England |work=BBC Sport |date=7 September 2010 |access-date=5 June 2016}}</ref>
+|-
+|align=center|2||rowspan="3"|6 September 2011||rowspan="3"|[[St. Jakob-Park]], Basel, Switzerland||rowspan="3" align=center|13||rowspan="3"|{{fb|BUL}}||align=center|1–1||rowspan="3" align=center|3–1||rowspan="3"|<ref>{{cite web |url=http://www.uefa.com/uefaeuro/season=2012/matches/round=15171/match=2002282/postmatch/report/index.html |title=Switzerland 3–1 Bulgaria |date=6 September 2011 |publisher=UEFA |access-date=5 June 2016}}</ref>
+|-
+|align=center|3||align=center|2–1
+|-
+|align=center|4||align=center|3–1
+|-
+|align=center|5||29 February 2012||[[Stade de Suisse]], Bern, Switzerland||align=center|18||{{fb|ARG}}||align=center|1–1||align=center|1–3||[[Exhibition game#Association football|Friendly]]||<ref>{{cite web |url=http://www.goal.com/en/match/switzerland-vs-argentina/1213415/report |title=Switzerland 1–3 Argentina |website=Goal.com |access-date=5 June 2016}}</ref>
+|-
+|align=center|6||11 September 2012||[[Swissporarena]], Lucerne, Switzerland||align=center|21||{{fb|ALB}}||align=center|2–0||align=center|2–0||[[2014 FIFA World Cup qualification – UEFA Group E|2014 FIFA World Cup qualification]]||<ref>{{cite web |url=http://www.uefa.com/worldcup/season=2014/matches/round=2000294/match=2008659/postmatch/report/index.html |title=Switzerland 2–0 Albania |publisher=UEFA |access-date=5 June 2016}}</ref>
+|-
+|align=center|7||14 November 2012||[[Stade Olympique de Sousse]], Sousse, Tunisia||align=center|24||{{fb|TUN}}||align=center|2–1||align=center|2–1||[[Exhibition game#Association football|Friendly]]||<ref>{{cite web |url=http://www.uefa.com/worldcup/friendlies/season=2014/matches/round=2000374/match=2010652/index.html |title=Tunisia 1–2 Switzerland |publisher=UEFA |access-date=5 June 2016}}</ref>
+|-
+|align=center|8||11 October 2013||[[Qemal Stafa Stadium]], Tirana, Albania||align=center|30||{{fb|ALB}}||align=center|1–0||align=center|2–1||[[2014 FIFA World Cup qualification – UEFA Group E|2014 FIFA World Cup qualification]]||<ref>{{cite web |url=http://www.uefa.com/worldcup/season=2014/matches/round=2000294/match=2008638/postmatch/report/ |title=Albania 1–2 Switzerland |publisher=UEFA |access-date=5 June 2016}}</ref>
+|-
+|align=center|9||3 June 2014||[[Swissporarena]], Lucerne, Switzerland||align=center|33||{{fb|PER}}||align=center|2–0||align=center|2–0||[[Exhibition game#Association football|Friendly]]||<ref>{{cite web |url=http://www.skysports.com/football/switzerlnd-vs-peru/309746 |title=Switzerland 2–0 Peru |website=Sky Sports |access-date=5 June 2016}}</ref>
+|-
+|align=center|10||rowspan="3"|25 June 2014||rowspan="3"|[[Arena da Amazônia]], Manaus, Brazil||rowspan="3" align=center|36||rowspan="3"|{{fb|HON|1949}}||align=center|1–0||rowspan="3" align=center|3–0||rowspan="3"|[[2014 FIFA World Cup Group E|2014 FIFA World Cup]]||rowspan="3"|<ref>{{cite news |url=https://www.bbc.com/sport/football/25285335 |title=Switzerland 3–0 Honduras |work=BBC Sport |access-date=5 June 2016}}</ref>
+|-
+|align=center|11||align=center|2–0
+|-
+|align=center|12||align=center|3–0
+|-
+|align=center|13||14 October 2014||[[San Marino Stadium]], Serravalle, San Marino||align=center|40||{{fb|SMR}}||align=center|4–0||align=center|4–0||rowspan="3"|[[UEFA Euro 2016 qualifying Group E|UEFA Euro 2016 qualifying]]||<ref>{{cite web |url=http://www.uefa.com/uefaeuro/season=2016/matches/round=2000446/match=2013885/index.html |title=San Marino 0–4 Switzerland |publisher=UEFA |access-date=5 June 2016}}</ref>
+|-
+|align=center|14||rowspan="2"|15 November 2014||rowspan="2"|[[AFG Arena]], St. Gallen, Switzerland||rowspan="2" align=center|41||rowspan="2"|{{fb|LTU}}||align=center|3–0||rowspan="2" align=center|4–0||rowspan="2"|<ref>{{Cite web |url=http://www.uefa.com/uefaeuro/season=2016/matches/round=2000446/match=2013904/index.html |title=Switzerland 4–0 Lithuania |publisher=UEFA |access-date=5 June 2016}}</ref>
+|-
+|align=center|15||align=center|4–0
+|-
+|align=center|16||10 June 2015||[[Stockhorn Arena]], Thun, Switzerland||align=center|45||{{fb|LIE}}||align=center|2–0||align=center|3–0||[[Exhibition game#Association football|Friendly]]||<ref>{{Cite web |url=http://www.skysports.com/football/switzerlnd-vs-liechtenstein/338859 |title=Switzerland 3–0 Liechtenstein |website=Sky Sports |access-date=5 June 2016}}</ref>
+|-
+|align=center|17||14 June 2015||[[LFF Stadium]], Vilnius, Lithuania||align=center|46||{{fb|LTU}}||align=center|2–1||align=center|2–1||[[UEFA Euro 2016 qualifying Group E|UEFA Euro 2016 qualifying]]||<ref name="LTU 1-2 SUI" />
+|-
+|align=center|18||25 June 2016||[[Stade Geoffroy-Guichard]], Saint-Étienne, France||align=center|57||{{fb|POL}}||align=center|1–1||align=center|1–1||[[UEFA Euro 2016 knockout phase|UEFA Euro 2016]]||<ref>{{Cite web |url=https://www.si.com/planet-futbol/2016/06/25/xherdan-shaqiri-switzerland-vs-poland-bicycle-kick-goal-euro |title=Poland 1–1 Switzerland |website=Sports Illustrated |access-date=25 June 2016}}</ref>
+|-
+|align=center|19||1 June 2017||[[Stade de la Maladière]], Neuchâtel, Switzerland||align=center|61||{{fb|BLR}}||align=center|1–0||align=center|1–0||[[Exhibition game#Association football|Friendly]]||<ref>{{Cite web |url=https://int.soccerway.com/matches/2017/06/01/world/friendlies/switzerland/belarus/2388531/?ICID=HP_MS_01_02 |title=Switzerland vs. Belarus 1–0 |website=Soccerway |publisher=Perform Group |access-date=1 June 2017}}</ref>
+|-
+|align=center|20||9 June 2017||[[Tórsvøllur]], Tórshavn, Faroe Islands||align=center|62||{{fb|FRO}}||align=center|2–0||align=center|2–0||[[2018 FIFA World Cup qualification – UEFA Group B|2018 FIFA World Cup qualification]]||<ref>{{cite web |url=https://int.soccerway.com/matches/2017/06/09/europe/wc-qualifying-europe/faroe-islands/switzerland/2116227/?ICID=HP_MS_01_05 |title=Faroe Islands vs. Switzerland 0–2 |website=Soccerway |publisher=Perform Group |access-date=9 June 2017}}</ref>
+|-
+|align=center|21||22 June 2018||[[Kaliningrad Stadium]], Kaliningrad, Russia||align=center|72||{{fb|SRB}}||align=center|2–1||align=center|2–1||[[2018 FIFA World Cup Group E|2018 FIFA World Cup]]||<ref>{{cite web |url=https://www.fifa.com/worldcup/matches/match/300340183/#match-liveblog |archive-url=https://web.archive.org/web/20180612143308/https://www.fifa.com/worldcup/matches/match/300340183/#match-liveblog |url-status=dead |archive-date=12 June 2018 |title=Serbia 1–2 Switzerland |publisher=FIFA |access-date=22 June 2018}}</ref>
+|-
+|align=center|22||8 September 2018||rowspan="2"|[[Kybunpark]], St. Gallen, Switzerland||align=center|75||{{fb|ISL}}||align=center|3–0||align=center|6–0||[[2018–19 UEFA Nations League A]]||<ref>{{cite web |url=https://www.uefa.com/uefanationsleague/season=2019/matches/round=2000959/match=2024031/index.html |title=Switzerland 6–0 Iceland |last=Sigurdsson |first=Johann |date=8 September 2018 |publisher=UEFA |access-date=8 September 2018}}</ref>
+|-
+|align=center|23||28 March 2021||align=center|88||{{fb|LTU}}||align=center|1–0||align=center|1–0||[[2022 FIFA World Cup qualification – UEFA Group C|2022 FIFA World Cup qualification]]||<ref>{{cite web |url=https://www.fifa.com/worldcup/preliminaries/europe/matches/match/400155596/ |archive-url=https://web.archive.org/web/20210506160957/https://www.fifa.com/worldcup/preliminaries/europe/matches/match/400155596/ |url-status=dead |archive-date=6 May 2021 |title=Switzerland 1–0 Lithuania | publisher=FIFA |date=28 March 2021 |access-date=28 March 2021}}</ref>
+|-
+|align=center|24||rowspan="2"|20 June 2021||rowspan="2"|[[Baku Olympic Stadium|Olympic Stadium]], Baku, Azerbaijan||rowspan="2" align=center|94||rowspan="2"|{{fb|TUR}}||align=center|2–0||rowspan="2" align=center|3–1||rowspan="3"|[[UEFA Euro 2020]]||rowspan="2"|<ref>{{cite web |url=https://www.uefa.com/uefaeuro-2020/match/2024467--switzerland-vs-turkey/ |title=Switzerland-Turkey {{!}} UEFA EURO 2020 |publisher=UEFA |date=20 June 2021 |access-date=20 June 2021}}</ref>
+|-
+|align=center|25||align=center|3–1
+|-
+|align=center|26||2 July 2021||[[Krestovsky Stadium]], Saint Petersburg, Russia||align=center|96||{{fb|ESP}}||align=center|1–1||align=center|1–1 {{aet}}||<ref>{{cite web |url=https://www.uefa.com/uefaeuro-2020/match/2024485/ |title=Switzerland-Spain {{!}} UEFA EURO 2020 |publisher=UEFA |date=2 July 2021 |access-date=2 July 2021}}</ref>
+|-
+|align=center|27||2 December 2022||[[Stadium 974]], Doha, Qatar||align=center|111||{{fb|SRB}}||align=center|1–0||align=center|3–2||[[2022 FIFA World Cup Group G|2022 FIFA World Cup]]||
+|}
+
+==Honours==
+'''Basel'''
+*[[Swiss Super League]]: [[2009–10 Swiss Super League|2009–10]], [[2010–11 Swiss Super League|2010–11]], [[2011–12 Swiss Super League|2011–12]]<ref name="Soccerway"/>
+*[[Swiss Cup]]: [[2009–10 Swiss Cup|2009–10]],<ref>{{cite web |url=https://int.soccerway.com/matches/2010/05/09/switzerland/schweizer-pokal/fc-basel/fc-lausanne-sport/927987/ |title=Basel vs. Lausanne Sport 6–0: Summary |website=Soccerway |publisher=Perform Group |access-date=22 August 2020}}</ref> [[2011–12 Swiss Cup|2011–12]]<ref>{{cite web |url=https://int.soccerway.com/matches/2012/05/16/switzerland/schweizer-pokal/fc-basel/fc-luzern/1279359/ |title=Basel vs. Luzern 1–1: Summary |website=Soccerway |publisher=Perform Group |access-date=22 August 2020}}</ref>
+
+'''Bayern Munich'''
+*[[Bundesliga]]: [[2012–13 Bundesliga|2012–13]], [[2013–14 Bundesliga|2013–14]], [[2014–15 Bundesliga|2014–15]]<ref>{{cite web |url=https://www.kicker.de/shaqiri-xherdan-58587/laufbahn |title=Shaqiri Xherdan: Laufbahn |trans-title=Shaqiri Xherdan: Career |website=kicker |publisher=Olympia-Verlag |access-date=22 August 2020 |language=German}}</ref>
+*[[DFB-Pokal]]: [[2012–13 DFB-Pokal|2012–13]],<ref>{{cite web |url=https://www.kicker.de/1886616/aufstellung/bayern-muenchen-14/vfb-stuttgart-11 |title=DFB-Pokal 2012/13, Finale in Berlin: Bayern München 3:2 VfB Stuttgart: Takt. aufstellung |trans-title=DFB-Pokal 2012/13, Final in Berlin: Bayern Munich 3:2 VfB Stuttgart: Tactical lineup |website=kicker |publisher=Olympia-Verlag |access-date=22 August 2020 |language=German}}</ref> [[2013–14 DFB-Pokal|2013–14]]<ref>{{cite web |url=https://www.kicker.de/2393337/aufstellung/borussia-dortmund-17/bayern-muenchen-14 |title=DFB-Pokal 2013/14, Finale in Berlin: Borussia Dortmund 0:2 Bayern München: Takt. aufstellung |trans-title=DFB-Pokal 2013/14, Final in Berlin: Borussia Dortmund 0:2 Bayern Munich: Tactical lineup |website=kicker |publisher=Olympia-Verlag |access-date=22 August 2020 |language=German}}</ref>
+*[[DFL-Supercup]]: [[2012 DFL-Supercup|2012]]<ref>{{cite web |url=https://www.kicker.de/1426981/aufstellung/bayern-muenchen-14/borussia-dortmund-17 |title=Supercup 2012, Finale: Bayern München 2:1 Borussia Dortmund: Takt. aufstellung |trans-title=Supercup 2012, Final: Bayern Munich 2:1 Borussia Dortmund: Tactical lineup |website=kicker |publisher=Olympia-Verlag |access-date=22 August 2020 |language=German}}</ref>
+*[[UEFA Champions League]]: [[2012–13 UEFA Champions League|2012–13]]<ref>{{cite web |url=https://www.uefa.com/uefachampionsleague/match/2009612--dortmund-vs-bayern/ |title=2012/13, Final: Dortmund 1–2 Bayern: Overview |publisher=UEFA |access-date=26 June 2020}}</ref>
+*[[UEFA Super Cup]]: [[2013 UEFA Super Cup|2013]]<ref>{{cite web |url=https://www.uefa.com/uefasupercup/match/2012139--bayern-vs-chelsea/lineups/?iv=true |title=Final: Bayern 2–2 Chelsea: Line-ups |publisher=UEFA |access-date=26 June 2020}}</ref>
+*[[FIFA Club World Cup]]: [[2013 FIFA Club World Cup|2013]]<ref>{{cite web |url=https://www.fifa.com/clubworldcup/matches/round=259717/match=300260483/report.html |title=Match report: FC Bayern München – Raja Club Athletic |publisher=FIFA |archiveurl=https://web.archive.org/web/20190329150324/https://www.fifa.com/clubworldcup/matches/round=259717/match=300260483/report.html |archivedate=29 March 2019}}</ref>
+
+'''Liverpool'''
+*[[Premier League]]: [[2019–20 Premier League|2019–20]]<ref>{{cite web |url=https://www.premierleague.com/players/5267/Xherdan-Shaqiri/overview |title=Xherdan Shaqiri: Overview |publisher=Premier League |access-date=22 August 2020}}</ref>
+*UEFA Champions League: [[2018–19 UEFA Champions League|2018–19]]<ref>{{cite web |url=https://www.uefa.com/uefachampionsleague/match/2025486--tottenham-vs-liverpool/ |title=2018/19, Final: Tottenham 0–2 Liverpool: Overview |publisher=UEFA |access-date=22 August 2020}}</ref>
+*UEFA Super Cup: [[2019 UEFA Super Cup|2019]]<ref>{{cite web |url=https://www.uefa.com/uefasupercup/match/2025638--liverpool-vs-chelsea/lineups/ |title=Final: Liverpool 2–2 Chelsea: Line-ups |publisher=UEFA |access-date=22 August 2020}}</ref>
+*FIFA Club World Cup: [[2019 FIFA Club World Cup|2019]]<ref>{{cite web |url=https://www.fifa.com/clubworldcup/matches/match/400089362/#match-lineups |archive-url=https://web.archive.org/web/20191221172542/https://www.fifa.com/clubworldcup/matches/match/400089362/#match-lineups |url-status=dead |archive-date=21 December 2019 |title=Liverpool FC 1–0 CR Flamengo: Line-ups |publisher=FIFA |access-date=22 August 2020}}</ref>
+*[[FA Community Shield]] runner-up: [[2019 FA Community Shield|2019]]<ref>{{cite news |title=Liverpool 1 Manchester City 1 |work=BBC Sport |url=https://www.bbc.co.uk/sport/football/49141690 |access-date=6 July 2022}}</ref>
+
+'''Switzerland U21'''
+*[[UEFA European Under-21 Championship]] runner-up: [[2011 UEFA European Under-21 Championship|2011]]<ref>{{cite web |url=https://www.uefa.com/under21/match/2003419--switzerland-vs-spain/lineups/?iv=true |title=Final: Switzerland 0–2 Spain: Line-ups |publisher=UEFA |access-date=22 August 2020}}</ref>
+
+'''Individual'''
+*[[Swiss Footballer of the Year]]: 2011, 2012<ref>{{Cite web|url=https://www.worldfootball.net/footballer_of_the_year/schweiz/|title=Player of the year - Switzerland|website=worldfootball.net|accessdate=5 July 2021}}</ref>
+*Swiss Golden Player Award ''"SFAP Golden Player"'': 2012<ref>{{Cite web |url=http://www.goldenplayer.ch/Awards/Prix-du-Public/Football/SAFP-GOLDEN-PLAYER-2012 |title=SFAP Golden Player 2012 |website=Golden Player |url-status=dead |archive-url=https://web.archive.org/web/20130503201544/http://www.goldenplayer.ch/Awards/Prix-du-Public/Football/SAFP-GOLDEN-PLAYER-2012 |archive-date=3 May 2013 |access-date=26 May 2013}}</ref>
+*Swiss Golden Player Award ''"Best Young Player"'': 2012<ref>{{Cite web |url=http://www.goldenplayer.ch/Awards/Prix-du-Public/Football/BEST-YOUNG-PLAYER-2012 |title=Best Young Player 2012 |website=Golden Player |url-status=dead |archive-url=https://web.archive.org/web/20130503202933/http://www.goldenplayer.ch/Awards/Prix-du-Public/Football/BEST-YOUNG-PLAYER-2012 |archive-date=3 May 2013 |access-date=26 May 2013}}</ref>
+*[[UEFA European Championship]] Goal of the Tournament: [[UEFA Euro 2016|2016]]<ref>{{Cite web |url=https://www.youtube.com/watch?v=BV1vQBxi44E | archive-url=https://web.archive.org/web/20161029041557/https://www.youtube.com/watch?v=BV1vQBxi44E| archive-date=29 October 2016 | url-status=dead|title=Top ten UEFA EURO 2016 goals |date=14 July 2016 |publisher=UEFA |access-date=28 January 2019}}</ref>
+*[[UEFA Nations League]] Finals Team of the Tournament: [[2019 UEFA Nations League Finals|2019]]<ref name="nations">{{Cite web |url=https://www.uefa.com/uefanationsleague/news/newsid=2607717.html |title=UEFA Nations League Finals: Team of the Tournament |date=10 June 2019 |access-date=11 June 2019 |publisher=UEFA}}</ref>
+
+==See also==
+* [[List of men's footballers with 100 or more international caps]]
+
+==References==
+{{Reflist}}
+
+==External links==
+{{Commons category}}
+* {{Official website}} {{in lang|de}}
+* {{Soccerbase}}
+* {{Soccerway}}
+
+{{Chicago Fire FC squad}}
+{{Navboxes
+| title = Switzerland squads
+| bg = red
+| fg = white
+| bordercolor = #CC0000
+| list1 = 
+{{Switzerland squad 2010 FIFA World Cup}}
+{{Switzerland squad 2014 FIFA World Cup}}
+{{Switzerland squad UEFA Euro 2016}}
+{{Switzerland squad 2018 FIFA World Cup}}
+{{Switzerland squad UEFA Euro 2020}}
+{{Switzerland squad 2022 FIFA World Cup}}
+}}
+{{2019 UEFA Nations League Finals Team of the Tournament}}
+{{ASF-SFV football awards}}{{Authority control}}{{Authority control}}
+
+{{DEFAULTSORT:Shaqiri, Xherdan}}
+[[Category:1991 births]]
+[[Category:Living people]]
+[[Category:Swiss people of Kosovan descent]]
+[[Category:Swiss people of Albanian descent]]
+[[Category:Kosovan emigrants to Switzerland]]
+[[Category:People from Gjilan]]
+[[Category:Swiss Muslims]]
+[[Category:Swiss men's footballers]]
+[[Category:Men's association football wingers]]
+[[Category:FC Basel players]]
+[[Category:FC Bayern Munich footballers]]
+[[Category:Inter Milan players]]
+[[Category:Stoke City F.C. players]]
+[[Category:Liverpool F.C. players]]
+[[Category:Olympique Lyonnais players]]
+[[Category:Chicago Fire FC players]]
+[[Category:Designated Players (MLS)]]
+[[Category:Swiss Super League players]]
+[[Category:Bundesliga players]]
+[[Category:Serie A players]]
+[[Category:Premier League players]]
+[[Category:UEFA Champions League winning players]]
+[[Category:Switzerland men's youth international footballers]]
+[[Category:Switzerland men's under-21 international footballers]]
+[[Category:Switzerland men's international footballers]]
+[[Category:2010 FIFA World Cup players]]
+[[Category:2014 FIFA World Cup players]]
+[[Category:UEFA Euro 2016 players]]
+[[Category:2018 FIFA World Cup players]]
+[[Category:UEFA Euro 2020 players]]
+[[Category:2022 FIFA World Cup players]]
+[[Category:Swiss expatriate men's footballers]]
+[[Category:Swiss expatriate sportspeople in Germany]]
+[[Category:Swiss expatriate sportspeople in Italy]]
+[[Category:Swiss expatriate sportspeople in England]]
+[[Category:Expatriate men's footballers in Germany]]
+[[Category:Expatriate men's footballers in Italy]]
+[[Category:Expatriate men's footballers in England]]
+[[Category:FIFA Men's Century Club]]
+[[Category:Swiss expatriate sportspeople in the United States]]
+[[Category:Expatriate men's soccer players in the United States]]
+[[Category:Major League Soccer players]]
+[[Category:Kosovan Muslims]]

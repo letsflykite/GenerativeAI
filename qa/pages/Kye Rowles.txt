@@ -1,0 +1,156 @@
+{{short description|Australian soccer player}}
+{{Use dmy dates|date=November 2022}}
+{{Infobox football biography
+| name = Kye Rowles
+| image = Kye Rowles (cropped).jpg
+| caption = Kye Rowles
+| fullname = Kye Francis Rowles<ref>{{cite news|url=https://fdp.fifa.org/assetspublic/ce4/pdf/SquadLists-English.pdf|website=[[FIFA]]|accessdate=8 July 2021|title=Squad list - Men's Olympic Football Tournament Tokyo 2020}}</ref>
+| birth_date = {{birth date and age|df=yes|1998|6|24}}
+| birth_place = [[Kiama, New South Wales]], Australia
+| height = {{height|m=1.85}}
+| position = [[Defender (association football)|Central defender]]
+| currentclub = [[Heart of Midlothian F.C.|Heart of Midlothian]]
+| clubnumber = 15
+| youthyears1 = 
+| youthclubs1 = [[Queensland Academy of Sport Football Program|QAS]]
+| years1 = 2014–2015
+| caps1 = 1
+| goals1 = 0
+| clubs1 = [[FFA Centre of Excellence|FFA CoE]]
+| years2 = 2016–2017
+| caps2 = 5
+| goals2 = 0
+| clubs2 = [[Brisbane Roar FC Youth|Brisbane Roar NPL]]
+| years3 = 2016–2017
+| caps3 = 2
+| goals3 = 0
+| clubs3 = [[Brisbane Roar FC|Brisbane Roar]]
+| years4 = 2017–2022
+| caps4 = 104
+| goals4 = 2
+| clubs4 = [[Central Coast Mariners FC|Central Coast Mariners]]
+| years5 = 2018
+| caps5 = 2
+| goals5 = 0
+| clubs5 = [[Central Coast Mariners Academy|CCM Academy]]
+| years6 = 2022–
+| caps6 = 30
+| goals6 = 1
+| clubs6 = [[Heart of Midlothian F.C.|Heart of Midlothian]]
+| nationalyears1 = 2013–2015
+| nationalteam1 = [[Australia men's national under-17 soccer team|Australia U17]]
+| nationalcaps1 = 15
+| nationalgoals1 = 0
+| nationalyears2 = 2016
+| nationalteam2 = [[Australia men's national under-20 soccer team|Australia U20]]
+| nationalcaps2 = 4
+| nationalgoals2 = 0
+| nationalyears3 = 2019–2021
+| nationalteam3 = [[Australia men's national under-23 soccer team|Australia U23]]
+| nationalcaps3 = 5
+| nationalgoals3 = 0
+| nationalyears4 = 2022–
+| nationalteam4 = [[Australia men's national soccer team|Australia]]
+| nationalcaps4 = 9
+| nationalgoals4 = 0
+| club-update = 27 May 2023
+| nationalteam-update = 28 March 2023 (UTC)
+| medaltemplates = <!--MENTION HOST NATIONS FOR TEAM SPORTS-->{{MedalSport|Men's [[Association football|football]]}}
+{{MedalCountry|{{fb|AUS}}}}
+{{MedalCompetition|[[AFF U-19 Youth Championship]]}}
+{{Medal|1st|[[2016 AFF U-19 Youth Championship|2016 Vietnam]]|[[Australia national under-20 soccer team|U-20 Team]]}}
+{{MedalCompetition|[[AFF U-16 Youth Championship]]}}
+{{Medal|3rd|[[2013 AFF U-16 Youth Championship|2013 Myanmar]]|[[Australia national under-17 soccer team|U-17 Team]]}}
+}}
+
+'''Kye Francis Rowles''' (born 24 June 1998) is an Australian professional [[association football|footballer]] who plays as a [[Defender (association football)|central defender]] for [[Heart of Midlothian F.C.|Heart of Midlothian]]. Rowles began his professional career with [[Brisbane Roar FC|Brisbane Roar]] in 2016 before moving to [[Central Coast Mariners FC|Central Coast Mariners]] in 2017. He has represented [[Australia men's national under-17 soccer team|Australia at under-17 level]], including at the [[2015 FIFA U-17 World Cup]], under-23 level at the Tokyo Olympics and at senior level at the 2022 FIFA World Cup.
+
+==Club career==
+===Brisbane Roar===
+In May 2016, Rowles signed his first professional contract with [[Brisbane Roar FC|Brisbane Roar]] on a two-year deal along with fellow young defender [[Connor O'Toole]].<ref name=signing>{{cite news|url=http://www.couriermail.com.au/sport/football/brisbane-roar-sign-teenage-defenders-at-the-expense-of-steve-lustica-and-javier-hervas/news-story/2112907ed731910baae2c291cade7953|title=Brisbane Roar sign teenage defenders at the expense of Steve Lustica and Javier Hervas|author=Monteverde, Marco|date=3 May 2016|newspaper=[[The Courier-Mail]]|accessdate=1 June 2017}}</ref> Rowles made his first competitive start for the Roar in a loss to [[Ulsan Hyundai FC|Ulsan Hyundai]] in the [[AFC Champions League]] on 28 February 2017.{{citation needed|date=January 2018}}
+
+===Central Coast Mariners===
+Rowles moved to [[Central Coast Mariners FC|Central Coast Mariners]] on a one-year contract in June 2017.<ref>{{cite magazine|url=https://www.fourfourtwo.com.au/news/mariners-sign-roar-youngster-466491|title=Mariners sign Roar youngster|magazine=[[FourFourTwo]]|date=26 June 2017|accessdate=26 June 2017|archive-date=21 June 2018|archive-url=https://web.archive.org/web/20180621072557/https://www.fourfourtwo.com.au/news/mariners-sign-roar-youngster-466491|url-status=dead}}</ref> He made his Mariners' A-League debut on 18 November 2017, following an injury to [[Josh Rose]], in a loss to [[Adelaide United FC|Adelaide United]].<ref>{{cite news|url=https://www.ccmariners.com.au/news/depleted-mariners-fall-adelaide-united|title=Depleted Mariners fall to Adelaide United|publisher=[[Central Coast Mariners FC]]|date=17 November 2017|accessdate=18 November 2017|author=Taylor, Ellie}}</ref>
+
+Rowles played for the Mariners in the [[2021 FFA Cup Final]], which the Mariners lost 2-1. Rowles was jointly awarded the [[Mark Viduka Medal]] along with [[Jake Brimmer]], becoming the first player to win the medal while playing for the losing team. He is also the only person to consecutively win the Mariners Medal.
+
+=== Heart of Midlothian ===
+On 9 June 2022, Rowles joined [[Scottish Premiership]] side [[Heart of Midlothian F.C.|Heart of Midlothian]] for an undisclosed fee and signed a three-year deal.<ref>{{Cite web |title=Gorgie Rowles {{!}} Heart Of Midlothian Football Club |url=https://www.heartsfc.co.uk/news/article/gorgie-rowles |access-date=10 June 2022 |website=www.heartsfc.co.uk}}</ref> On 16 January 2023, following a successful World Cup with Australia, Rowles signed a five-year contract extension to 2028.<ref>{{Cite web |title=KYE PLEDGES LONG-TERM FUTURE TO HEARTS {{!}} Heart Of Midlothian Football Club |url=https://www.heartsfc.co.uk/news/article/kye-pledges-long-term-future-to-hearts |access-date=16 January 2023 |website=www.heartsfc.co.uk}}</ref>
+
+==International career==
+Rowles was selected in the [[Australia men's national under-17 soccer team|Australian under-17 team]] for the [[2015 FIFA U-17 World Cup]].<ref>{{cite news|url=http://theworldgame.sbs.com.au/article/2015/10/02/joeys-name-squad-fifa-u-17-world-cup|title=Joeys name squad for the FIFA U-17 World Cup|publisher=[[The World Game]]|date=2 October 2015|accessdate=26 June 2017}}</ref>
+
+In November 2020, Rowles was called up to the [[Australia men's national under-23 soccer team|Australian under-23 team]] for friendly matches against [[A-League]] sides.<ref>{{Cite web|date=9 November 2020|title=Three Mariners head off to Olyroos camp in Sydney|url=https://www.ccmariners.com.au/news/mariners-head-olyroos-camp-sydney|access-date=11 November 2020|website=Central Coast Mariners|language=en}}</ref> In June 2021, Rowles was called up to the team again for the [[Tokyo 2020 Olympics]].<ref>{{Cite web|date=29 June 2021|title=8 out of 12 ain't bad: which A-League clubs featured Olympic-bound talent in 2020/21|url=https://www.a-league.com.au/news/8-out-of-12-ain%27t-bad-which-a-league-clubs-featured-olympic-bound-talent-2020-21|access-date=30 June 2021|website=A-League|language=en}}</ref> He was part of the Olyroos Olympic squad. The team beat Argentine in their first group match but were unable to win another match. They were therefore not in medal contention.<ref>{{Cite web|title=Australian Olympic Team for Tokyo 2021|url=https://www.theroar.com.au/olympics/australian-olympic-team/|access-date=22 February 2022|website=The Roar|language=en-US}}</ref>
+
+Rowles made his Socceroos debut 1 June 2022 against Jordan in a friendly match, winning 2-1.<ref>{{Cite web |date=3 June 2022 |title='Couldn't have had a better game to play': Arnold praises Socceroos' resilience after Jordan fightback |url=https://www.socceroos.com.au/news/couldnt-have-had-a-better-game-play-arnold-praises-socceroos-resilience-after-jordan-fightback |access-date=4 June 2022 |website=Socceroos |language=en}}</ref>
+
+Rowles was called up to the 2022 FIFA World Cup in Qatar.<ref>{{Cite web |date=2022-11-08 |title=Illawarra duo named in Socceroos World Cup squad |url=https://www.illawarramercury.com.au/story/7973494/illawarra-duo-named-in-socceroos-world-cup-squad/ |access-date=2022-11-28 |website=Illawarra Mercury |language=en-AU}}</ref>
+
+{| class="wikitable" style="text-align:center"
+! colspan="4" |[[Australia men's national soccer team|Australia]]
+|-
+!Year!!Apps!!Goals
+|-
+|2022||7||0
+|-
+|2023||2||0
+|-
+!Total!!9!!0
+|}
+
+== Honours ==
+;Australia U20
+* [[AFF U-19 Youth Championship]]: [[2016 AFF U-19 Youth Championship|2016]]<ref>{{cite news|url=https://www.brisbaneroar.com.au/news/roar-quartet-young-socceroos-crowned-champions|website=[[Brisbane Roar FC]]|date=25 September 2016|accessdate=25 August 2021|title=Roar quartet and Young Socceroos crowned Champions}}</ref>
+
+;Individual
+* [[Central Coast Mariners FC|Mariners]] Medal: [[2020–21 Central Coast Mariners FC season|2020–21]], 2021-22<ref>{{Cite web |date=3 June 2022 |title=News - Kye Rowles Big Winner At Mariners Medal Dinner |url=https://ccmariners.com.au/news/kye-rowles-big-winner-at-mariners-medal-dinner |access-date=4 June 2022 |website=Central Coast Mariners}}</ref>
+* [[Mark Viduka Medal]]: [[2021 FFA Cup final|2021]]<ref name=":62">{{cite news |last=Harrington |first=Anna |date=5 February 2022 |title=Popovic delights in Victory FFA Cup glory |newspaper=Seven News |publisher=Seven Network |url=https://7news.com.au/sport/soccer/victory-beat-mariners-for-ffa-cup-glory-c-5581335 |url-status=live |url-access=registration |access-date=1 February 2023 |archive-url=https://web.archive.org/web/20221117185820/https://7news.com.au/sport/soccer/victory-beat-mariners-for-ffa-cup-glory-c-5581335 |archive-date=17 November 2022}}</ref>
+*[[A-Leagues All Stars Game|A-Leagues All Star]]: [[2022 A-Leagues All Stars Game|2022]]<ref>{{cite news|url=https://www.canberratimes.com.au/story/7747208/alm-young-guns-get-shot-against-barcelona/|title=ALM young guns get shot against Barcelona|first=Anna|last=Harrington|date=20 May 2022|access-date=20 May 2022|website=[[The Canberra Times]]}}</ref>
+
+==References==
+{{reflist}}
+
+==External links==
+*{{Soccerway|kye-rowles/424452}}
+*{{FIFA player|389539}}
+
+{{Heart of Midlothian F.C. squad}}
+{{Navboxes
+| title = Australia squads
+| bg = #FCD116
+| fg = #008751
+| bordercolor = #008751
+| list1 = 
+{{Australia men's football squad 2020 Summer Olympics}}
+{{Australia squad 2022 FIFA World Cup}}
+}}
+{{Navboxes
+| title = Awards
+| bg = gold
+| fg = navy
+| list =
+{{Central Coast Mariners FC Player of the Year}}
+{{Mark Viduka Medal}}
+}}
+
+{{DEFAULTSORT:Rowles, Kye}}
+[[Category:1998 births]]
+[[Category:Living people]]
+[[Category:Men's association football defenders]]
+[[Category:Australia men's youth international soccer players]]
+[[Category:Australian men's soccer players]]
+[[Category:Brisbane Roar FC players]]
+[[Category:Central Coast Mariners FC players]]
+[[Category:A-League Men players]]
+[[Category:National Premier Leagues players]]
+[[Category:Footballers at the 2020 Summer Olympics]]
+[[Category:Olympic soccer players for Australia]]
+[[Category:Scottish Professional Football League players]]
+[[Category:Heart of Midlothian F.C. players]]
+[[Category:People from Kiama, New South Wales]]
+[[Category:Sportsmen from New South Wales]]
+[[Category:Soccer players from New South Wales]]
+[[Category:Australian expatriate men's soccer players]]
+[[Category:Expatriate men's footballers in Scotland]]
+[[Category:Australian expatriate sportspeople in Scotland]]
+[[Category:2022 FIFA World Cup players]]

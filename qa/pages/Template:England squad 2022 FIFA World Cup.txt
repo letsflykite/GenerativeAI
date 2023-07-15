@@ -1,0 +1,41 @@
+{{National squad
+ | name = England squad 2022 FIFA World Cup
+ | bg = white
+ | fg = #CF081F
+ | bordercolor = #0B0B3F
+ | country = England
+ | comp link = 2022 FIFA World Cup
+ | comp = 2022 FIFA World Cup
+ | p1 = [[Jordan Pickford|Pickford]]
+ | p2 = [[Kyle Walker|Walker]]
+ | p3 = [[Luke Shaw|Shaw]]
+ | p4 = [[Declan Rice|Rice]]
+ | p5 = [[John Stones|Stones]]
+ | p6 = [[Harry Maguire|Maguire]]
+ | p7 = [[Jack Grealish|Grealish]]
+ | p8 = [[Jordan Henderson|Henderson]]
+ | p9 = [[Harry Kane|Kane]]&nbsp;([[Captain (association football)|c]])
+ | p10 = [[Raheem Sterling|Sterling]]
+ | p11 = [[Marcus Rashford|Rashford]]
+ | p12 = [[Kieran Trippier|Trippier]]
+ | p13 = [[Nick Pope (footballer)|Pope]]
+ | p14 = [[Kalvin Phillips|Phillips]]
+ | p15 = [[Eric Dier|Dier]]
+ | p16 = [[Conor Coady|Coady]]
+ | p17 = [[Bukayo Saka|Saka]]
+ | p18 = [[Trent Alexander-Arnold|Alexander-Arnold]]
+ | p19 = [[Mason Mount|Mount]]
+ | p20 = [[Phil Foden|Foden]]
+ | p21 = [[Ben White (footballer)|White]]
+ | p22 = [[Jude Bellingham|Bellingham]]
+ | p23 = [[Aaron Ramsdale|Ramsdale]]
+ | p24 = [[Callum Wilson|Wilson]]
+ | p25 = [[James Maddison|Maddison]]
+ | p26 = [[Conor Gallagher|Gallagher]]
+ | coach = [[Gareth Southgate|Southgate]]
+}}<noinclude>
+{{Squad maintenance}}
+[[Category:2022 FIFA World Cup squad navigational boxes|England]]
+[[Category:England FIFA World Cup squad navigational boxes|2022]]
+[[Category:England at the 2022 FIFA World Cup|squad]]
+</noinclude>

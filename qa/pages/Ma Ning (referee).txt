@@ -1,0 +1,73 @@
+{{Use dmy dates|date=November 2022}}
+{{short description|Chinese association football referee}}
+{{family name hatnote|[[Ma (surname)|Ma]]|lang=Chinese}}
+{{Infobox football official
+| name            = Ma Ning
+| image           = 
+| birth_date      = {{Birth date and age|1979|6|20|df=y}}
+| birth_place     = [[Fuxin]], [[Liaoning]], China
+| death_date      =
+| death_place     =
+| otheroccupation = Teacher
+| years1          = 2010–
+| league1         = [[Chinese Super League]]
+| role1           = Referee
+| internationalyears1 = 2011–
+| confederation1      = [[FIFA International Referees List|FIFA listed]]
+| internationalrole1  = Referee
+}}
+{{Infobox Chinese
+| s = {{linktext|马|宁}}
+| t = {{linktext|馬|寧}}
+| order = st
+| p = Mǎ Níng
+| mi = {{IPAc-cmn|m|a|-|n|ing|2}}
+| c = 
+| j = 
+| ci = 
+| altname = 
+}}
+'''Ma Ning''' (born 14 June 1979) is a Chinese [[Association football|football]] [[referee (association football)|referee]]. He has been a full international referee for [[FIFA]] since 2011.<ref>[[FIFA]]. [https://web.archive.org/web/20070706050417/http://www.fifa.com/associations/association=chn/footballofficials/referees/peoplekind=ref.html "China PR: Referees"].</ref>
+
+He is a teacher of Wuxi Vocational and Technical College.
+
+On 9 May 2015, Ma drew widespread controversy as he sent off 3 Shenhua players in a [[Shanghai derbies|Shanghai derby]] between [[Shanghai Port F.C.|Shanghai SIPG]] and [[Shanghai Shenhua F.C.|Shanghai Shenhua]] in the [[Chinese Super League]], the game finished 5-0 to SIPG.<ref>{{cite news| title =上海德比彻底失控！半场2红8黄 然后就是屠杀 | work = Sina Sports| date = 9 May 2015| access-date = 4 September 2022| language = zh | url =http://sports.sina.com.cn/j/2015-05-09/21537602101.shtml}}</ref>
+
+On 23 February 2019, it was announced that Ma Ning had been hired by [[Chinese Football Association|CFA]] to become one 
+of the professional referees in China.<ref>{{cite news| title = 坚持根本遵循 深化足球改革 推动联赛发展——2019赛季中超、中甲联赛动员大会召开 | work = CFA.com | date = 23 February 2019 | access-date = 26 February 2019 | language = zh | url = http://www.thecfa.cn/zyls1/20190223/26375.html}}</ref>
+
+On 19 May 2022, Ma was selected as one of the 36 referees for the [[2022 FIFA World Cup]], becoming the second Chinese referee to achieve this since [[Lu Jun (referee)|Lu Jun]] in 2002.<ref>{{cite news| title =FIFA公布世界杯裁判名单：马宁率3名中国裁判入选| work = Sina Sports| date = 19 May 2022|access-date = 4 September 2022| language = zh| url =https://sports.sina.com.cn/china/other/2022-05-19/doc-imcwiwst8343572.shtml}}</ref>
+
+On 21 August 2022, during a [[Chinese Super League]] game between [[Wuhan Yangtze River F.C.|Wuhan Yangtze River]] and [[Henan Songshan Longmen F.C.|Henan Songshan Longmen]], Ma was deliberately knocked over by Songshan Longmen striker [[Henrique Dourado]], who was subsequently sent off for violent conduct. The game finished 2-2.<ref>{{cite news| title =中超-多拉多染红黄紫昌面对旧主破门 武汉2-2河南| work = Sina Sports| date = 21 August 2022|access-date = 4 September 2022| language = zh| url =https://sports.sina.com.cn/china/j/2022-08-21/doc-imizmscv7142410.shtml}}</ref> Five days later, the Chinese FA announced a 12-month suspension to Dourado, which was the severest penalty in the history of Chinese Super League.<ref>{{cite news| title =官方：多拉多撞马宁属暴力行为 禁赛12个月罚20万| work = Sina Sports| date = 26 August 2022|access-date = 4 September 2022| language = zh| url =https://sports.sina.com.cn/china/j/2022-08-26/doc-imizmscv7813058.shtml}}</ref>
+
+==AFC Asian Cup==
+{| class="wikitable" style="margin:1em auto 1em auto; text-align:center; font-size:small;"
+! colspan="4" | 2019 AFC Asian Cup – United Arab Emirates
+|-
+! Date !! Match !! Venue !! Round
+|-
+| 9 January 2019 || {{fb|QAT}} – {{fb|LBN}} || [[Hazza bin Zayed Stadium|Al Ain]] || Group stage
+|-
+|}
+
+== References ==
+{{reflist}}
+
+{{S-start}}
+{{Succession box
+ | before = {{Flagicon|JOR}} [[Adham Makhadmeh]]
+ |  after = Incumbent 
+ |  title = [[AFC Champions League]] First-leg Final referee
+ |  years = [[2018 AFC Champions League Final|2018]]<br />{{flagicon|CHN}} '''Ma Ning'''}}
+{{S-end}}
+
+{{2022 FIFA World Cup referees}}
+
+{{DEFAULTSORT:Ma, Ning}}
+[[Category:Chinese football referees]]
+[[Category:Living people]]
+[[Category:1979 births]]
+[[Category:People from Fuxin]]
+[[Category:2022 FIFA World Cup referees]]
+[[Category:FIFA World Cup referees]]
+[[Category:AFC Asian Cup referees]]

@@ -1,0 +1,86 @@
+{{short description|Tunisian footballer}}
+{{Use dmy dates|date=November 2022}}
+{{Infobox football biography
+| name = Aymen Dahmen
+| image = 
+| fullname = Aymen Dahmen<ref name="FIFA 2022">{{cite web |url=https://fdp.fifa.org/assetspublic/ce44/pdf/SquadLists-English.pdf |title=FIFA World Cup Qatar 2022 – Squad list: Tunisia (TUN) |publisher=[[FIFA]] |page=29 |date=15 November 2022 |access-date=15 November 2022}}</ref>
+| birth_date = {{birth date and age|1997|1|28|df=yes}}<ref name="FIFA 2022"/>
+| birth_place = [[Sfax]], Tunisia
+| height = 1.88 m<ref name="FIFA 2022"/>
+| position = [[Goalkeeper (association football)|Goalkeeper]]
+| currentclub = [[Al-Hazem F.C.|Al-Hazem]]
+| clubnumber = 
+| years1 = 2018–2023
+| clubs1 = [[CS Sfaxien]]
+| caps1  = 105
+| goals1 = 0
+| years2 = 2023–
+| clubs2 = [[Al-Hazem F.C.|Al-Hazem]]
+| caps2  = 0
+| goals2 = 0
+| nationalyears1 = 2018–2019
+| nationalteam1 = [[Tunisia national under-23 football team|Tunisia U23]]
+| nationalcaps1 = 13
+| nationalgoals1 = 0
+| nationalyears2 = 2021–
+| nationalteam2 = [[Tunisia national football team|Tunisia]]
+| nationalcaps2 = 8
+| nationalgoals2 = 0
+| club-update = 4:24, 13 April 2022 (UTC)
+| nationalteam-update = 10 December 2022 (UTC)
+| medaltemplates = 
+}}
+'''Aymen Dahmen''' ({{lang-ar|أَيْمَن دَحمَان}}; born 28 January 1997) is a Tunisian professional [[association football|footballer]] who plays as a [[goalkeeper (association football)|goalkeeper]] for Saudi Arabian club [[Al-Hazem F.C.|Al-Hazem]].
+
+==Club career==
+Dahmen made his professional debut with [[CS Sfaxien]] in a 2–0 [[Tunisian Ligue Professionnelle 1]] win over [[ES Métlaoui]] on 16 September 2018.<ref>{{Cite web|url=https://int.soccerway.com/matches/2018/09/16/tunisia/ligue-1/etoile-sportive-de-metlaoui/club-sportif-sfaxien/2847505/|title=Métlaoui vs. CS Sfaxien - 16 September 2018|website=Soccerway}}</ref>
+
+On 11 June 2023, Dahmen joined Saudi Pro League club [[Al-Hazem F.C.|Al-Hazem]] on a two-year contract.<ref>{{cite web |title=رسميا.. الحزم يتعاقد مع أيمن دحمان |url=https://www.kooora.com/?n=1247327}}</ref>
+
+==International career==
+Dahmen was called up to represent the [[Tunisia national under-23 football team|Tunisia U23 national team]] for [[2019 Africa U-23 Cup of Nations qualification]] matches.<ref>{{Cite web|url=https://www.afrik-foot.com/can-u23-tunisie-la-liste-contre-le-cameroun-avec-3-joueurs-de-la-can-2019|title=CAN U23 – Tunisie : la liste contre le Cameroun avec 3 joueurs de la CAN 2019 !|date=27 August 2019}}</ref>
+
+He made his debut for [[Tunisia national football team|senior national team]] on 28 March 2021 in an [[2021 Africa Cup of Nations qualification Group J|AFCON 2021 qualifier]] against [[Equatorial Guinea]].<ref>{{cite web|publisher=[[Confederation of African Football]]|url=https://www.cafonline.com/total-africa-cup-of-nations/2021/matches/2032569/|title=Tunisia v Equatorial Guinea game report|date=28 March 2021}}</ref>
+
+On November 14, 2022, he was selected by Jalel Kadri to participate in the [[2022 FIFA World Cup]].<ref>{{Cite web |title=Khazri, Talbi et Abdi dans la liste de la Tunisie pour la Coupe du monde |url=https://www.lequipe.fr/Football/Actualites/Khazri-talbi-et-abdi-dans-la-liste-de-la-tunisie-pour-la-coupe-du-monde/1364820 |access-date=2023-02-08 |website=L'Équipe |language=fr}}</ref> He participated in all Tunisia's matches in the World Cup.
+
+== Honours ==
+;CS Sfaxien
+
+* [[Tunisian Cup]]: [[2018–19 Tunisian Cup|2018–19]], [[2020–21 Tunisian Cup|2020–21]], [[2021–22 Tunisian Cup|2021–22]]
+
+==References==
+{{reflist}}
+
+==External links==
+*{{Soccerway|aymen-dahmen/483174}}
+*{{NFT player|82137}}
+
+{{Al-Hazem F.C. squad}}
+{{Navboxes
+|title=Tunisia squads
+|bg=white
+|fg=#E70013
+|list1=
+{{Tunisia squad 2021 Africa Cup of Nations}}
+{{Tunisia squad 2022 FIFA World Cup}}
+}}
+
+{{DEFAULTSORT:Dahmen, Aymen}}
+[[Category:1997 births]]
+[[Category:Living people]]
+[[Category:People from Sfax]]
+[[Category:Tunisian men's footballers]]
+[[Category:Tunisia men's youth international footballers]]
+[[Category:Tunisia men's international footballers]]
+[[Category:Men's association football goalkeepers]]
+[[Category:CS Sfaxien players]]
+[[Category:Al-Hazem F.C. players]]
+[[Category:Tunisian Ligue Professionnelle 1 players]]
+[[Category:Saudi Professional League players]]
+[[Category:2022 FIFA World Cup players]]
+[[Category:Tunisian expatriate men's footballers]]
+[[Category:Expatriate men's footballers in Saudi Arabia]]
+[[Category:Tunisian expatriate sportspeople in Saudi Arabia]]
+
+{{Tunisia-footy-bio-stub}}

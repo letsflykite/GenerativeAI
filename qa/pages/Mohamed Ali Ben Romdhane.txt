@@ -1,0 +1,81 @@
+{{short description|Tunisian footballer}}
+{{Use dmy dates|date=November 2022}}
+{{Infobox football biography
+| name        = Mohamed Ali Ben Romdhane
+| image       = Mohamed Ali Ben Romdhane.jpg
+| caption     = Ben Romdhane in 2023
+| full_name   = Mohamed Ali Ben Romdhane<ref name="FIFA 2022">{{cite web |url=https://fdp.fifa.org/assetspublic/ce44/pdf/SquadLists-English.pdf |title=FIFA World Cup Qatar 2022 – Squad list: Tunisia (TUN) |publisher=[[FIFA]] |page=29 |date=15 November 2022 |access-date=15 November 2022}}</ref>
+| birth_date  = {{Birth date and age|1999|09|06|df=y}}<ref name="FIFA 2022"/>
+| birth_place = [[Tunis]], Tunisia
+| height      = 1.82 m<ref name="FIFA 2022"/>
+| position    = [[Midfielder]]
+| currentclub = [[Ferencvárosi TC|Ferencváros]]
+| clubnumber  = 80
+| youthclubs1 = [[Espérance Sportive de Tunis|Esperance Tunis]]
+| years1 = 2017–2023 | clubs1 = [[Espérance Sportive de Tunis|Esperance Tunis]] | caps1 = 92 | goals1 = 19
+| years2 = 2023–     | clubs2 = [[Ferencvárosi TC|Ferencváros]]                 | caps2 = 0  | goals2 = 0
+| nationalyears1 = 2019–
+| nationalteam1  = [[Tunisia national football team|Tunisia]]
+| nationalcaps1  = 28
+| nationalgoals1 = 1
+| club-update    = 2 July 2023
+| nationalteam-update = 18 June 2023
+| medaltemplates = {{MedalCountry|{{fb|TUN}}}}
+{{MedalSport|Men's [[association football|football]]}}
+{{MedalComp|[[FIFA Arab Cup]]}}
+{{Medal|RU|[[2021 FIFA Arab Cup|2021 Qatar]]|}}
+}}
+
+'''Mohamed Ali Ben Romdhane''' ({{lang-ar|محمد علي بن رمضان}}; born 6 September 1999) is a Tunisian professional [[Association football|footballer]] who plays as a [[midfielder]] for Hungarian club [[Ferencvárosi TC|Ferencváros]] and the [[Tunisia national football team|Tunisia national team]].
+
+==Career==
+Ben Romdhane played his first game with the [[Espérance Sportive de Tunis|Espérance Tunis]] on 8 April 2018 against [[ES Métlaoui|Étoile de Métlaoui]]. His team won 1–0 and eventually won the [[2017–18 Tunisian Ligue Professionnelle 1|title]] that year.<ref>{{Soccerway|id=mohamed-ali-ben-romdhane/545460}}</ref>
+
+==Career statistics==
+{| class="wikitable"
+|-
+! No. !! Date !! Venue !! Opponent !! Score !! Result !! Competition
+|-
+| 1. || 14 June 2022 || [[Panasonic Stadium Suita]], [[Suita]], Japan || {{fb|JPN}} || align=center|'''1'''–0 || align=center| 3–0 || [[2022 Kirin Cup Soccer]]
+|-
+|}
+
+==Honours==
+'''Espérance de Tunis'''
+* [[Tunisian Ligue Professionnelle 1|Tunisian Ligue I]]: [[2017–18 Tunisian Ligue Professionnelle 1|2018]], [[2018–19 Tunisian Ligue Professionnelle 1|2019]], [[2019–20 Tunisian Ligue Professionnelle 1|2020]], [[2020–21 Tunisian Ligue Professionnelle 1|2021]], [[2021–22 Tunisian Ligue Professionnelle 1|2022]]
+* [[CAF Champions League]]: [[2018 CAF Champions League|2018]] and [[2018–19 CAF Champions League|2019]]
+* [[Tunisian Super Cup]]: [[2019 Tunisian Super Cup|2019]], [[2020 Tunisian Super Cup|2020]], [[2019–20 Tunisian Super Cup|2019–20]], [[2020–21 Tunisian Super Cup|2020–21]]
+
+==References==
+{{Reflist}}
+
+==External links==
+* {{Soccerway}}
+* {{FootballDatabase.eu}}
+
+{{Ferencvárosi TC squad}}
+{{Navboxes colour
+|title=Tunisia squads
+|bg=white
+|fg=#E70013
+|list1=
+{{Tunisia squad 2021 Africa Cup of Nations}}
+{{Tunisia squad 2022 FIFA World Cup}}
+}}
+
+{{DEFAULTSORT:Ben Romdhane, Mohamed Ali}}
+[[Category:1999 births]]
+[[Category:Living people]]
+[[Category:Footballers from Tunis]]
+[[Category:Tunisian men's footballers]]
+[[Category:Men's association football midfielders]]
+[[Category:Espérance Sportive de Tunis players]]
+[[Category:Tunisia men's international footballers]]
+[[Category:2021 Africa Cup of Nations players]]
+[[Category:2022 FIFA World Cup players]]
+[[Category:Tunisian Ligue Professionnelle 1 players]]
+[[Category:Tunisian expatriate men's footballers]]
+[[Category:Tunisian expatriate sportspeople in Hungary]]
+[[Category:Expatriate men's footballers in Hungary]]
+
+{{Tunisia-footy-bio-stub}}

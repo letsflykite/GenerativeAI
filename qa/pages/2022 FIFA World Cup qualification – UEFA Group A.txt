@@ -1,0 +1,481 @@
+{{short description|none}}
+{{Use dmy dates|date=December 2020}}
+The '''2022 FIFA World Cup qualification UEFA Group A''' was one of the ten [[2022 FIFA World Cup qualification (UEFA)|UEFA groups]] in the [[2022 FIFA World Cup qualification|World Cup qualification]] tournament to decide which teams would qualify for the [[2022 FIFA World Cup]] finals tournament in Qatar.<ref>{{cite news |url=https://digitalhub.fifa.com/m/58b8109657d40e3d/original/ijoruwm3ly5kgz9wbu6j-pdf.pdf |title=UEFA preliminary competition for the FIFA World Cup 2022: Draw procedures |work=[[FIFA]] |format=PDF |date=22 October 2020 |access-date=22 October 2020 |archive-date=29 October 2020 |archive-url=https://web.archive.org/web/20201029082100/https://resources.fifa.com/image/upload/draw-procedures-for-fifa-world-cup-qatar-2022tm-preliminary-draw-uefa.pdf?cloudid=ijoruwm3ly5kgz9wbu6j |url-status=live }}</ref> Group A consisted of five teams: [[Azerbaijan national football team|Azerbaijan]], [[Luxembourg national football team|Luxembourg]], [[Portugal national football team|Portugal]], the [[Republic of Ireland national football team|Republic of Ireland]] and [[Serbia national football team|Serbia]].<ref>{{cite web |url=https://editorial.uefa.com/resources/0264-1108c702e548-758110ebe57c-1000/draw_result_sheet.pdf |title=FIFA World Cup Preliminary Competition – Draw Results |work=UEFA |format=PDF |date=7 December 2020 |access-date=7 December 2020 |archive-date=31 December 2020 |archive-url=https://web.archive.org/web/20201231182830/https://editorial.uefa.com/resources/0264-1108c702e548-758110ebe57c-1000/draw_result_sheet.pdf |url-status=live }}</ref> The teams played against each other home-and-away in a [[round-robin tournament|round-robin format]].<ref>{{cite web |url=https://digitalhub.fifa.com/m/271202c2bf80db17/original/adjlwts3o6c57g0skqor-pdf.pdf |title=UEFA preliminary competition format for the FIFA World Cup 2022 |work=FIFA |format=PDF |date=4 December 2020 |access-date=7 December 2020 |archive-date=15 December 2020 |archive-url=https://web.archive.org/web/20201215061006/https://img.fifa.com/image/upload/adjlwts3o6c57g0skqor.pdf |url-status=live }}</ref>
+
+The group winners, Serbia, qualified directly for the World Cup finals, while the runners-up, Portugal, advanced to the [[2022 FIFA World Cup qualification – UEFA second round|second round (play-offs)]].
+
+[[Qatar national football team|Qatar]] were partnered with the five-team Group A, which enabled the 2022 FIFA World Cup hosts to play centralised [[Exhibition game|friendlies]] against these countries on their "spare" match dates. However, these friendlies did not count in the qualifying group standings. Qatar played their "home" matches in Europe in order to allow short travel times for their opponents.<ref>{{cite web |url=https://www.uefa.com/european-qualifiers/news/0264-11103d6ec600-5258c3966355-1000/ |title=Group A matches with Qatar |work=UEFA |date=11 December 2020 |access-date=12 December 2020 |archive-date=31 December 2020 |archive-url=https://web.archive.org/web/20201231182744/https://www.uefa.com/european-qualifiers/news/0264-11103d6ec600-5258c3966355-1000/ |url-status=live }}</ref><ref>{{cite web |url=https://editorial.uefa.com/resources/0264-110ad9b5b487-e3521001b47e-1000/group_a_-_fixtures_list_with_qatar.pdf |title=World Cup Qualifying Calendar – Group A with Qatar |work=UEFA |date=8 December 2020 |access-date=8 December 2020}}</ref>
+
+==Standings==
+<onlyinclude>{{#invoke:Sports table|main|style=WDL
+|show_matches=y
+|class_rules=[[2022 FIFA World Cup qualification#Tiebreakers|Tiebreakers]]
+|source=[https://www.fifa.com/tournaments/mens/worldcup/qatar2022/qualifiers/uefa FIFA], [https://www.uefa.com/european-qualifiers/standings/#grp-2007928 UEFA]
+
+<!--Update team positions below (check tiebreakers)-->
+|team_order=SRB, POR, IRL, LUX, AZE
+
+<!--Update team results below (including date)-->
+|update=complete
+|win_POR=5 |draw_POR=2 |loss_POR=1 |gf_POR=17|ga_POR=6
+|win_SRB=6 |draw_SRB=2 |loss_SRB=0 |gf_SRB=18|ga_SRB=9
+|win_IRL=2 |draw_IRL=3 |loss_IRL=3 |gf_IRL=11|ga_IRL=8
+|win_LUX=3 |draw_LUX=0 |loss_LUX=5 |gf_LUX=8 |ga_LUX=18
+|win_AZE=0 |draw_AZE=1 |loss_AZE=7 |gf_AZE=5 |ga_AZE=18
+
+<!--Update match results below-->
+|match_POR_SRB=[[2022 FIFA World Cup qualification – UEFA Group A#Portugal v Serbia|1–2]]
+|match_POR_IRL=[[2022 FIFA World Cup qualification – UEFA Group A#Portugal v Republic of Ireland|2–1]]
+|match_POR_LUX=[[2022 FIFA World Cup qualification – UEFA Group A#Portugal v Luxembourg|5–0]]
+|match_POR_AZE=[[2022 FIFA World Cup qualification – UEFA Group A#Portugal v Azerbaijan|1–0]]
+
+|match_SRB_POR=[[2022 FIFA World Cup qualification – UEFA Group A#Serbia v Portugal|2–2]]
+|match_SRB_IRL=[[2022 FIFA World Cup qualification – UEFA Group A#Serbia v Republic of Ireland|3–2]]
+|match_SRB_LUX=[[2022 FIFA World Cup qualification – UEFA Group A#Serbia v Luxembourg|4–1]]
+|match_SRB_AZE=[[2022 FIFA World Cup qualification – UEFA Group A#Serbia v Azerbaijan|3–1]]
+
+|match_IRL_POR=[[2022 FIFA World Cup qualification – UEFA Group A#Republic of Ireland v Portugal|0–0]]
+|match_IRL_SRB=[[2022 FIFA World Cup qualification – UEFA Group A#Republic of Ireland v Serbia|1–1]]
+|match_IRL_LUX=[[2022 FIFA World Cup qualification – UEFA Group A#Republic of Ireland v Luxembourg|0–1]]
+|match_IRL_AZE=[[2022 FIFA World Cup qualification – UEFA Group A#Republic of Ireland v Azerbaijan|1–1]]
+
+|match_LUX_POR=[[2022 FIFA World Cup qualification – UEFA Group A#Luxembourg v Portugal|1–3]]
+|match_LUX_SRB=[[2022 FIFA World Cup qualification – UEFA Group A#Luxembourg v Serbia|0–1]]
+|match_LUX_IRL=[[2022 FIFA World Cup qualification – UEFA Group A#Luxembourg v Republic of Ireland|0–3]]
+|match_LUX_AZE=[[2022 FIFA World Cup qualification – UEFA Group A#Luxembourg v Azerbaijan|2–1]]
+
+|match_AZE_POR=[[2022 FIFA World Cup qualification – UEFA Group A#Azerbaijan v Portugal|0–3]]
+|match_AZE_SRB=[[2022 FIFA World Cup qualification – UEFA Group A#Azerbaijan v Serbia|1–2]]
+|match_AZE_IRL=[[2022 FIFA World Cup qualification – UEFA Group A#Azerbaijan v Republic of Ireland|0–3]]
+|match_AZE_LUX=[[2022 FIFA World Cup qualification – UEFA Group A#Azerbaijan v Luxembourg|1–3]]
+
+<!--Team definitions-->
+|name_POR={{fb|POR}} |short_POR={{flagdeco|POR}}
+|name_SRB={{fb|SRB}} |short_SRB={{flagdeco|SRB}}
+|name_IRL={{fb|IRL}} |short_IRL={{flagdeco|IRL}}
+|name_LUX={{fb|LUX}} |short_LUX={{flagdeco|LUX}}
+|name_AZE={{fb|AZE}} |short_AZE={{flagdeco|AZE}}
+
+<!--Qualification column definitions-->
+|res_col_header=Q
+|result1=WC |result2=PO
+|col_WC=green1 |text_WC=Qualification for [[2022 FIFA World Cup]]
+|col_PO=blue1  |text_PO=Advance to [[2022 FIFA World Cup qualification – UEFA second round|play-offs]]
+}}</onlyinclude>
+
+==Matches==
+The fixture list was confirmed by UEFA on 8 December 2020, the day following the draw.<ref>{{cite web |url=https://www.uefa.com/european-qualifiers/news/0264-110cbe0bf3c8-20065adb8f46-1000/ |title=European Qualifiers for 2022 World Cup: all the fixtures |work=UEFA |date=9 December 2020 |access-date=12 December 2020 |archive-date=31 December 2020 |archive-url=https://web.archive.org/web/20201231182901/https://www.uefa.com/european-qualifiers/news/0264-110cbe0bf3c8-20065adb8f46-1000/ |url-status=live }}</ref><ref>{{cite web |url=https://editorial.uefa.com/resources/0264-110ace207077-148a7a2a0834-1000/worldcupfixtures.pdf |title=Fixture List – European Qualifiers 2020–2022: FIFA World Cup Preliminary Competition |work=UEFA |date=8 December 2020 |access-date=8 December 2020 |archive-date=8 December 2020 |archive-url=https://web.archive.org/web/20201208184438/https://editorial.uefa.com/resources/0264-110ace207077-148a7a2a0834-1000/worldcupfixtures.pdf |url-status=live }}</ref><ref>{{cite web |url=https://editorial.uefa.com/resources/0264-110ad8d233bb-8b2abff6c4d7-1000/eq_2020-22_-_fixtures_list_by_groups.pdf |title=Fixture List by Group – European Qualifiers 2020–2022: FIFA World Cup Preliminary Competition |work=UEFA |date=8 December 2020 |access-date=8 December 2020}}</ref> Times are [[Central European Time|CET]]/[[Central European Summer Time|CEST]],{{refn|group=note|[[Central European Time|CET]] ([[UTC+01:00|UTC+1]]) for matches until 27 March and from 31 October (matchday 1–2 and 9–10), and [[Central European Summer Time|CEST]] ([[UTC+02:00|UTC+2]]) for matches from 28 March to 30 October 2021 (matchday 3–8).}} as listed by UEFA (local times, if different, are in parentheses).
+
+{{Football box
+|id=Portugal v Azerbaijan
+|date={{Start date|2021|3|24|df=y}}
+|time=20:45
+|team1={{fb-rt|POR}}
+|score=1–0
+|report=[https://www.fifa.com/tournaments/mens/worldcup/qatar2022/qualifiers/uefa/match-center/400154647 Report (FIFA)]<br />[https://www.uefa.com/european-qualifiers/match/2030765/ Report (UEFA)]
+|team2={{fb|AZE}}
+|goals1=
+*[[Maksim Medvedev|Medvedev]] {{goal|36|o.g.}}
+|goals2=
+|stadium=[[Juventus Stadium]], [[Turin]] (Italy)
+|attendance=0<ref>{{UEFA match attendance|2030765|Portugal vs. Azerbaijan |date=24 March 2021|access-date=1 April 2021}}</ref>{{refn|group=note|name=Behind closed doors|Due to the [[COVID-19 pandemic in Europe]], the match was played [[Behind closed doors (sport)|behind closed doors]].}}
+|referee=[[Daniel Siebert (referee)|Daniel Siebert]] ([[German Football Association|Germany]])
+}}
+{{Football box
+|id=Serbia v Republic of Ireland
+|date={{Start date|2021|3|24|df=y}}
+|time=20:45
+|team1={{fb-rt|SER}}
+|score=3–2
+|report=[https://www.fifa.com/tournaments/mens/worldcup/qatar2022/qualifiers/uefa/match-center/400154645 Report (FIFA)]<br />[https://www.uefa.com/european-qualifiers/match/2030770/ Report (UEFA)]
+|team2={{fb|IRL}}
+|goals1=
+*[[Dušan Vlahović|Vlahović]] {{goal|40}}
+*[[Aleksandar Mitrović|A. Mitrović]] {{goal|69||75}}
+|goals2=
+*[[Alan Browne (footballer)|Browne]] {{goal|18}}
+*[[James Collins (footballer, born 1990)|Collins]] {{goal|86}}
+|stadium=[[Red Star Stadium]], [[Belgrade]]
+|attendance=0<ref>{{UEFA match attendance|2030770|Serbia vs. Republic of Ireland |date=24 March 2021|access-date=1 April 2021}}</ref>{{refn|group=note|name=Behind closed doors}}
+|referee=[[Davide Massa]] ([[Italian Football Federation|Italy]])
+}}
+----
+{{Football box
+|id=Republic of Ireland v Luxembourg
+|date={{Start date|2021|3|27|df=y}}
+|time=20:45 {{small|(19:45 [[UTC±00:00|UTC±0]])}}
+|team1={{fb-rt|IRL}}
+|score=0–1
+|report=[https://www.fifa.com/tournaments/mens/worldcup/qatar2022/qualifiers/uefa/match-center/400154646 Report (FIFA)]<br />[https://www.uefa.com/european-qualifiers/match/2030796/ Report (UEFA)]
+|team2={{fb|LUX}}
+|goals1=
+|goals2=[[Gerson Rodrigues (footballer, born 1995)|Rodrigues]] {{goal|85}}
+|stadium=[[Aviva Stadium]], [[Dublin]]
+|attendance=0<ref>{{UEFA match attendance|2030796|Republic of Ireland vs. Luxembourg |date=27 March 2021|access-date=1 April 2021}}</ref>{{refn|group=note|name=Behind closed doors}}
+|referee=[[Fran Jović]] ([[Croatian Football Federation|Croatia]])
+}}
+{{Football box
+|id=Serbia v Portugal
+|date={{Start date|2021|3|27|df=y}}
+|time=20:45
+|team1={{fb-rt|SER}}
+|score=2–2 
+|report=[https://www.fifa.com/tournaments/mens/worldcup/qatar2022/qualifiers/uefa/match-center/400155556 Report (FIFA)]<br />[https://www.uefa.com/european-qualifiers/match/2030797/ Report (UEFA)]
+|team2={{fb|POR}}
+|goals1=
+*[[Aleksandar Mitrović|A. Mitrović]] {{goal|46}}
+*[[Filip Kostić|Kostić]] {{goal|60}}
+|goals2=
+*[[Diogo Jota|Jota]] {{goal|11||36}}
+|stadium=[[Red Star Stadium]], [[Belgrade]]
+|attendance=0<ref>{{UEFA match attendance|2030797|Serbia vs. Portugal |date=27 March 2021|access-date=1 April 2021}}</ref>{{refn|group=note|name=Behind closed doors}}
+|referee= [[Danny Makkelie]] ([[Royal Dutch Football Association|Netherlands]])
+}}
+----
+{{Football box
+|id=Azerbaijan v Serbia
+|date={{Start date|2021|3|30|df=y}}
+|time=18:00 {{small|(20:00 [[UTC+04:00|UTC+4]])}}
+|team1={{fb-rt|AZE}}
+|score=1–2
+|report=[https://www.fifa.com/tournaments/mens/worldcup/qatar2022/qualifiers/uefa/match-center/400155559 Report (FIFA)]<br />[https://www.uefa.com/european-qualifiers/match/2030812/ Report (UEFA)]
+|team2={{fb|SER}}
+|goals1=
+*[[Emin Mahmudov|Mahmudov]] {{goal|59|pen.}}
+|goals2=
+*[[Aleksandar Mitrović|A. Mitrović]] {{goal|16||81}}
+|stadium=[[Baku Olympic Stadium]], [[Baku]]
+|attendance=0<ref>{{UEFA match attendance|2030812|Azerbaijan vs. Serbia |date=30 March 2021|access-date=1 April 2021}}</ref>{{refn|group=note|name=Behind closed doors}}
+|referee=[[Roi Reinshreiber]] ([[Israel Football Association|Israel]])
+}}
+{{Football box
+|id=Luxembourg v Portugal
+|date={{Start date|2021|3|30|df=y}}
+|time=20:45
+|team1={{fb-rt|LUX}}
+|score=1–3
+|report=[https://www.fifa.com/tournaments/mens/worldcup/qatar2022/qualifiers/uefa/match-center/400155570 Report (FIFA)]<br />[https://www.uefa.com/european-qualifiers/match/2030822/ Report (UEFA)]
+|team2={{fb|POR}}
+|goals1=
+*[[Gerson Rodrigues (footballer, born 1995)|Rodrigues]] {{goal|30}}
+|goals2=
+*[[Diogo Jota|Jota]] {{goal|45+2}}
+*[[Cristiano Ronaldo|Ronaldo]] {{goal|51}}
+*[[João Palhinha|Palhinha]] {{goal|80}}
+|stadium=[[Stade Josy Barthel]], [[Luxembourg City|Luxembourg]]
+|attendance=0<ref>{{UEFA match attendance|2030822|Luxembourg vs. Portugal |date=30 March 2021|access-date=1 April 2021}}</ref>{{refn|group=note|name=Behind closed doors}}
+|referee=[[Sergey Ivanov (referee)|Sergey Ivanov]] ([[Russian Football Union|Russia]])
+}}
+----
+{{Football box
+|id=Luxembourg v Azerbaijan
+|date={{Start date|2021|9|1|df=y}}
+|time=20:45
+|team1={{fb-rt|LUX}}
+|score=2–1
+|report=[https://www.fifa.com/tournaments/mens/worldcup/qatar2022/qualifiers/uefa/match-center/400155555 Report (FIFA)]<br />[https://www.uefa.com/european-qualifiers/match/2030846/ Report (UEFA)]
+|team2={{fb|AZE}}
+|goals1=
+*[[Mica Pinto|Pinto]] {{goal|8}}
+*[[Gerson Rodrigues (footballer, born 1995)|Rodrigues]] {{goal|28|pen.}}
+|goals2=
+*[[Emin Mahmudov|Mahmudov]] {{goal|67}}
+|stadium=[[Stade de Luxembourg]], [[Luxembourg City|Luxembourg]]<ref name="LUX">{{cite web |url=https://www.flf.lu/Equipes-nationales/Equipe-nationale-A/Programme.aspx |title=Fédération Luxembourgeoise de Football - Actualités|publisher=Fédération Luxembourgeoise de Football |date= |access-date=10 May 2021}}</ref>
+|attendance=2,000<ref>{{UEFA match attendance|2030846|Luxembourg vs. Azerbaijan |date=1 September 2021|access-date=2 September 2021}}</ref>
+|referee=[[Irfan Peljto]] ([[Football Association of Bosnia and Herzegovina|Bosnia and Herzegovina]])
+}}
+{{Football box
+|id=Portugal v Republic of Ireland
+|date={{Start date|2021|9|1|df=y}}
+|time=20:45 {{small|(19:45 [[UTC+01:00|UTC+1]])}}
+|team1={{fb-rt|POR}}
+|score=2–1
+|report=[https://www.fifa.com/tournaments/mens/worldcup/qatar2022/qualifiers/uefa/match-center/400155565 Report (FIFA)]<br />[https://www.uefa.com/european-qualifiers/match/2030839/ Report (UEFA)]
+|team2={{fb|IRL}}
+|goals1=
+*[[Cristiano Ronaldo|Ronaldo]] {{goal|89||90+6}}
+|goals2=
+*[[John Egan (footballer, born 1992)|Egan]] {{goal|45}}
+|stadium=[[Estádio Algarve]], [[Faro, Portugal|Faro]]/[[Loulé]]
+|attendance=7,831<ref>{{UEFA match attendance|2030839|Portugal vs. Republic of Ireland |date=1 September 2021|access-date=2 September 2021}}</ref>
+|referee=[[Matej Jug]] ([[Football Association of Slovenia|Slovenia]])
+}}
+----
+{{Football box
+|id=Republic of Ireland v Azerbaijan
+|date={{Start date|2021|9|4|df=y}}
+|time=18:00 {{small|(17:00 [[UTC+01:00|UTC+1]])}}
+|team1={{fb-rt|IRL}}
+|score=1–1
+|report=[https://www.fifa.com/tournaments/mens/worldcup/qatar2022/qualifiers/uefa/match-center/400155568 Report (FIFA)]<br />[https://www.uefa.com/european-qualifiers/match/2030863/ Report (UEFA)]
+|team2={{fb|AZE}}
+|goals1=
+*[[Shane Duffy|Duffy]] {{goal|87}}
+|goals2=
+*[[Emin Mahmudov|Mahmudov]] {{goal|45+1}}
+|stadium=[[Aviva Stadium]], [[Dublin]]
+|attendance=21,287<ref>{{UEFA match attendance|2030863|Republic of Ireland vs. Azerbaijan |date=4 September 2021|access-date=5 September 2021}}</ref>
+|referee=[[Jérôme Brisard]] ([[French Football Federation|France]])
+}}
+{{Football box
+| id = Serbia v Luxembourg
+| date = {{Start date|2021|9|4|df=y}}
+| time = 18:00
+| team1 = {{fb-rt|SER}}
+| score = 4–1
+| report = [https://www.fifa.com/tournaments/mens/worldcup/qatar2022/qualifiers/uefa/match-center/400155557 Report (FIFA)]<br />[https://www.uefa.com/european-qualifiers/match/2030873/ Report (UEFA)]
+| team2 = {{fb|LUX}}
+| goals1 = *[[Aleksandar Mitrović|A. Mitrović]] {{goal|22||35}}
+*[[Maxime Chanot|Chanot]] {{goal|82|o.g.}}
+*[[Nikola Milenković|Milenković]] {{goal|90+6}}
+| goals2 = *[[Olivier Thill|O. Thill]] {{goal|77}}
+| stadium = [[Red Star Stadium]], [[Belgrade]]
+| attendance = 10,078<ref>{{UEFA match attendance|2030873|Serbia vs. Luxembourg |date=4 September 2021|access-date=5 September 2021}}</ref>
+| referee = [[Halil Umut Meler]] ([[Turkish Football Federation|Turkey]])
+| event = 
+| round = 
+| score1 = 
+| score2 = 
+}}
+----
+{{Football box
+|id=Azerbaijan v Portugal
+|date={{Start date|2021|9|7|df=y}}
+|time=18:00 {{small|(20:00 [[UTC+04:00|UTC+4]])}}
+|team1={{fb-rt|AZE}}
+|score=0–3
+|report=[https://www.fifa.com/tournaments/mens/worldcup/qatar2022/qualifiers/uefa/match-center/400155563 Report (FIFA)]<br />[https://www.uefa.com/european-qualifiers/match/2030887/ Report (UEFA)]
+|team2={{fb|POR}}
+|goals1=
+|goals2=
+*[[Bernardo Silva|B. Silva]] {{goal|26}}
+*[[André Silva (footballer, born 1995)|A. Silva]] {{goal|31}}
+*[[Diogo Jota|Jota]] {{goal|75}}
+|stadium=[[Baku Olympic Stadium]], [[Baku]]
+|attendance=20,574<ref>{{UEFA match attendance|2030887|Azerbaijan vs. Portugal |date=7 September 2021|access-date=7 September 2021}}</ref>
+|referee=[[Marco Guida]] ([[Italian Football Federation|Italy]])
+}}
+{{Football box
+|id=Republic of Ireland v Serbia
+|date={{Start date|2021|9|7|df=y}}
+|time=20:45 {{small|(19:45 [[UTC+01:00|UTC+1]])}}
+|team1={{fb-rt|IRL}}
+|score=1–1
+|report=[https://www.fifa.com/tournaments/mens/worldcup/qatar2022/qualifiers/uefa/match-center/400155571 Report (FIFA)]<br />[https://www.uefa.com/european-qualifiers/match/2030895/ Report (UEFA)]
+|team2={{fb|SER}}
+|goals1=
+*[[Nikola Milenković|Milenković]] {{goal|87|o.g.}}
+|goals2=
+*[[Sergej Milinković-Savić|Milinković-Savić]] {{goal|20}}
+|stadium=[[Aviva Stadium]], [[Dublin]]
+|attendance=25,415<ref>{{UEFA match attendance|2030895|Republic of Ireland vs. Serbia |date=7 September 2021|access-date=7 September 2021}}</ref>
+|referee=[[José María Sánchez Martínez|José María Sánchez]] ([[Royal Spanish Football Federation|Spain]])
+}}
+----
+{{Football box
+|id=Azerbaijan v Republic of Ireland
+|date={{Start date|2021|10|9|df=y}}
+|time=18:00 {{small|(20:00 [[UTC+04:00|UTC+4]])}}
+|team1={{fb-rt|AZE}}
+|score=0–3
+|report=[https://www.fifa.com/tournaments/mens/worldcup/qatar2022/qualifiers/uefa/match-center/400155560 Report (FIFA)]<br />[https://www.uefa.com/european-qualifiers/match/2030929/ Report (UEFA)]
+|team2={{fb|IRL}}
+|goals1=
+|goals2=
+*[[Callum Robinson|Robinson]] {{goal|7||39}}
+*[[Chiedozie Ogbene|Ogbene]] {{goal|90}}
+|stadium=[[Baku Olympic Stadium]], [[Baku]]
+|attendance=6,852<ref>{{UEFA match attendance|2030929|Azerbaijan vs. Republic of Ireland |date=9 October 2021|access-date=9 October 2021}}</ref>
+|referee=[[Espen Eskås]] ([[Norwegian Football Federation|Norway]])
+}}
+{{Football box
+|id=Luxembourg v Serbia
+|date={{Start date|2021|10|9|df=y}}
+|time=20:45
+|team1={{fb-rt|LUX}}
+|score=0–1
+|report=[https://www.fifa.com/tournaments/mens/worldcup/qatar2022/qualifiers/uefa/match-center/400155566 Report (FIFA)]<br />[https://www.uefa.com/european-qualifiers/match/2030934/ Report (UEFA)]
+|team2={{fb|SER}}
+|goals1=
+|goals2=
+*[[Dušan Vlahović|Vlahović]] {{goal|68}}
+|stadium=[[Stade de Luxembourg]], [[Luxembourg City|Luxembourg]]<ref name="LUX" />
+|attendance=2,000<ref>{{UEFA match attendance|2030934|Luxembourg vs. Serbia |date=9 October 2021|access-date=9 October 2021}}</ref>
+|referee=[[Willie Collum]] ([[Scottish Football Association|Scotland]])
+}}
+----
+{{Football box
+|id=Portugal v Luxembourg
+|date={{Start date|2021|10|12|df=y}}
+|time=20:45 {{small|(19:45 [[UTC+01:00|UTC+1]])}}
+|team1={{fb-rt|POR}}
+|score=5–0
+|report=[https://www.fifa.com/tournaments/mens/worldcup/qatar2022/qualifiers/uefa/match-center/400155569 Report (FIFA)]<br />[https://www.uefa.com/european-qualifiers/match/2030949/ Report (UEFA)]
+|team2={{fb|LUX}}
+|goals1=
+*[[Cristiano Ronaldo|Ronaldo]] {{goal|8|pen.|13|pen.|87}}
+*[[Bruno Fernandes|Fernandes]] {{goal|18}}
+*[[João Palhinha|Palhinha]] {{goal|69}}
+|goals2=
+|stadium=[[Estádio Algarve]], [[Faro, Portugal|Faro]]/[[Loulé]]
+|attendance=18,553<ref>{{UEFA match attendance|2030949|Portugal vs. Luxembourg |date=12 October 2021|access-date=12 October 2021}}</ref>
+|referee=[[Benoît Bastien]] ([[French Football Federation|France]])
+}}
+{{Football box
+|id=Serbia v Azerbaijan
+|date={{Start date|2021|10|12|df=y}}
+|time=20:45
+|team1={{fb-rt|SER}}
+|score=3–1
+|report=[https://www.fifa.com/tournaments/mens/worldcup/qatar2022/qualifiers/uefa/match-center/400155562 Report (FIFA)]<br />[https://www.uefa.com/european-qualifiers/match/2030957/ Report (UEFA)]
+|team2={{fb|AZE}}
+|goals1=
+*[[Dušan Vlahović|Vlahović]] {{goal|30|pen.|53}}
+*[[Dušan Tadić|Tadić]] {{goal|83|pen.}}
+|goals2=
+*[[Emin Mahmudov|Mahmudov]] {{goal|45+2}}
+|stadium=[[Red Star Stadium]], [[Belgrade]]
+|attendance=5,890<ref>{{UEFA match attendance|2030957|Serbia vs. Azerbaijan |date=12 October 2021|access-date=12 October 2021}}</ref>
+|referee=[[Erik Lambrechts]] ([[Royal Belgian Football Association|Belgium]])
+}}
+----
+{{Football box
+|id=Azerbaijan v Luxembourg
+|date={{Start date|2021|11|11|df=y}}
+|time=18:00 {{small|(21:00 [[UTC+04:00|UTC+4]])}}
+|team1={{fb-rt|AZE}}
+|score=1–3
+|report=[https://www.fifa.com/tournaments/mens/worldcup/qatar2022/qualifiers/uefa/match-center/400155564 Report (FIFA)]<br />[https://www.uefa.com/european-qualifiers/match/2030964/ Report (UEFA)]
+|team2={{fb|LUX}}
+|goals1=
+*[[Azər Salahlı|Salahli]] {{goal|82}}
+|goals2=
+*[[Gerson Rodrigues (footballer, born 1995)|Rodrigues]] {{goal|67||90+1}}
+*[[Sébastien Thill|S. Thill]] {{goal|78}}
+|stadium=[[Baku Olympic Stadium]], [[Baku]]
+|attendance=2,986<ref>{{UEFA match attendance|2030964|Azerbaijan vs. Luxembourg |date=11 November 2021|access-date=11 November 2021}}</ref>
+|referee=[[Manuel Schüttengruber]] ([[Austrian Football Association|Austria]])
+}}
+{{Football box
+|id=Republic of Ireland v Portugal
+|date={{Start date|2021|11|11|df=y}}
+|time=20:45 {{small|(19:45 [[UTC±00:00|UTC±0]])}}
+|team1={{fb-rt|IRL}}
+|score=0–0
+|report=[https://www.fifa.com/tournaments/mens/worldcup/qatar2022/qualifiers/uefa/match-center/400155558 Report (FIFA)]<br />[https://www.uefa.com/european-qualifiers/match/2030968/ Report (UEFA)]
+|team2={{fb|POR}}
+|goals1=
+|goals2=
+|stadium=[[Aviva Stadium]], [[Dublin]]
+|attendance=50,373<ref>{{UEFA match attendance|2030968|Republic of Ireland vs. Portugal |date=11 November 2021|access-date=11 November 2021}}</ref>
+|referee=[[Jesús Gil Manzano]] ([[Royal Spanish Football Federation|Spain]])
+}}
+----
+{{Football box
+|id=Luxembourg v Republic of Ireland
+|date={{Start date|2021|11|14|df=y}}
+|time=20:45
+|team1={{fb-rt|LUX}}
+|score=0–3
+|report=[https://www.fifa.com/tournaments/mens/worldcup/qatar2022/qualifiers/uefa/match-center/400155561 Report (FIFA)]<br />[https://www.uefa.com/european-qualifiers/match/2030995/ Report (UEFA)]
+|team2={{fb|IRL}}
+|goals1=
+|goals2=
+*[[Shane Duffy|Duffy]] {{goal|67}}
+*[[Chiedozie Ogbene|Ogbene]] {{goal|75}}
+*[[Callum Robinson|Robinson]] {{goal|88}}
+|stadium=[[Stade de Luxembourg]], [[Luxembourg City|Luxembourg]]<ref name="LUX" />
+|attendance=9,268<ref>{{UEFA match attendance|2030995|Luxembourg vs. Republic of Ireland |date=14 November 2021|access-date=14 November 2021}}</ref>
+|referee=[[Tamás Bognár]] ([[Hungarian Football Federation|Hungary]])
+}}
+{{Football box
+|id=Portugal v Serbia
+|date={{Start date|2021|11|14|df=y}}
+|time=20:45 {{small|(19:45 [[UTC±00:00|UTC±0]])}}
+|team1={{fb-rt|POR}}
+|score=1–2
+|report=[https://www.fifa.com/tournaments/mens/worldcup/qatar2022/qualifiers/uefa/match-center/400155567 Report (FIFA)]<br />[https://www.uefa.com/european-qualifiers/match/2030990/ Report (UEFA)]
+|team2={{fb|SER}}
+|goals1=
+*[[Renato Sanches|Sanches]] {{goal|2}}
+|goals2=
+*[[Dušan Tadić|Tadić]] {{goal|33}}
+*[[Aleksandar Mitrović|A. Mitrović]] {{goal|90}}
+|stadium=[[Estádio da Luz]], [[Lisbon]]
+|attendance=58,873<ref>{{UEFA match attendance|2030990|Portugal vs. Serbia |date=14 November 2021|access-date=14 November 2021}}</ref>
+|referee=[[Daniele Orsato]] ([[Italian Football Federation|Italy]])
+}}
+
+==Goalscorers==
+{{#invoke:Goalscorers|main|2022 FIFA World Cup qualification (UEFA)|round=group|group=A}}<!--CAREFULLY update goalscorers at Module:Goalscorers/data/2022 FIFA World Cup qualification (UEFA)-->
+
+==Discipline==
+A player was automatically suspended for the next match for the following offences:<ref name="regulations">{{cite web |url=https://digitalhub.fifa.com/m/517ef2ad2bc3665e/original/ytkbpnxyvcghx6bebesv-pdf.pdf |title=Regulations FIFA World Cup 2022 Preliminary Competition |website=FIFA.com |publisher=Fédération Internationale de Football Association |format=PDF |year=2020 |access-date=7 December 2020 |archive-date=7 October 2020 |archive-url=https://web.archive.org/web/20201007090150/https://resources.fifa.com/image/upload/fwc2022-preliminary-comp-web-en.pdf?cloudid=ytkbpnxyvcghx6bebesv |url-status=live }}</ref>
+* Receiving a red card (red card suspensions could be extended for serious offences)
+* Receiving two yellow cards in two different matches (yellow card suspensions were carried forward to the play-offs, but not the finals or any other future international matches)
+The following suspensions were served during the qualifying matches:
+
+{|class="wikitable" style="font-size:90%"
+|-
+!Team
+!Player
+!Offence(s)
+!Suspended for match(es)
+|-
+|rowspan=2|{{fb|AZE}} ||[[Hojjat Haghverdi]] ||{{yel}} vs Portugal (7 September 2021)<br>{{yel}} vs Serbia (12 October 2021) ||vs Luxembourg (11 November 2021)
+|-
+|[[Anton Krivotsyuk]] ||{{yel}} vs Luxembourg (1 September 2021)<br>{{yel}} vs Republic of Ireland (4 September 2021) ||vs Portugal (7 September 2021)
+|-
+|rowspan=4|{{fb|LUX}} ||[[Dirk Carlson]] ||{{yel}} vs Serbia (9 October 2021)<br>{{yel}} vs Azerbaijan (11 November 2021) ||vs Republic of Ireland (14 November 2021)
+|-
+|[[Maxime Chanot]] ||{{sent off|2}} vs Portugal (30 March 2021) ||vs Azerbaijan (1 September 2021)
+|-
+|[[Christopher Martins]] ||{{yel}} vs Azerbaijan (1 September 2021)<br>{{yel}} vs Serbia (4 September 2021) ||rowspan=2|vs Serbia (9 October 2021)
+|-
+|[[Gerson Rodrigues (footballer, born 1995)|Gerson Rodrigues]] ||{{sent off|2}} vs Serbia (4 September 2021)
+|-
+|rowspan=4|{{fb|POR}} ||[[Bruno Fernandes]] ||{{yel}} vs Azerbaijan (24 March 2021)<br>{{yel}} vs Serbia (27 March 2021) ||vs Luxembourg (30 March 2021)
+|-
+|[[Nuno Mendes (footballer, born 2002)|Nuno Mendes]] ||{{yel}} vs Azerbaijan (7 September 2021)<br>{{yel}} vs Luxembourg (12 October 2021) ||vs Republic of Ireland (11 November 2021)
+|-
+|[[Pepe (footballer, born 1983)|Pepe]] ||{{sent off|2}} vs Republic of Ireland (11 November 2021) ||vs Serbia (14 November 2021)
+|-
+|[[Cristiano Ronaldo]] ||{{yel}} vs Serbia (27 March 2021)<br>{{yel}} vs Republic of Ireland (1 September 2021) ||vs Azerbaijan (7 September 2021)
+|-
+|rowspan=3|{{fb|SRB}} ||[[Filip Đuričić]] ||{{yel}} vs Republic of Ireland (7 September 2021)<br>{{yel}} vs Luxembourg (9 October 2021) ||vs Azerbaijan (12 October 2021)
+|-
+|[[Nikola Milenković]] ||{{sent off|0}} vs Portugal (27 March 2021) ||vs Azerbaijan (30 March 2021)
+|-
+|[[Strahinja Pavlović]] ||{{yel}} vs Republic of Ireland (24 March 2021)<br>{{yel}} vs Luxembourg (9 October 2021) ||vs Azerbaijan (12 October 2021)
+|-
+|rowspan=2|{{fb|IRL}} ||[[Alan Browne (footballer)|Alan Browne]] ||rowspan=2|{{yel}} vs Azerbaijan (4 September 2021)<br>{{yel}} vs Serbia (7 September 2021) ||rowspan=2|vs Azerbaijan (9 October 2021)
+|-
+|[[Jayson Molumby]]
+|}
+
+==Notes==
+{{reflist|group=note}}
+
+==References==
+{{reflist}}
+
+==External links==
+*{{Official website|https://www.fifa.com/tournaments/mens/worldcup/qatar2022/qualifiers|Official FIFA World Cup website}}
+*[https://www.fifa.com/tournaments/mens/worldcup/qatar2022/qualifiers/uefa Qualifiers – Europe], FIFA.com
+*[https://www.uefa.com/european-qualifiers/ European Qualifiers], UEFA.com
+
+{{2022 FIFA World Cup qualification}}
+
+{{DEFAULTSORT:World Cup qualifying}}
+[[Category:2022 FIFA World Cup qualification (UEFA)|Group A]]
+[[Category:2020–21 in Azerbaijani football]]
+[[Category:2021–22 in Azerbaijani football]]
+[[Category:2020–21 in Luxembourgian football]]
+[[Category:2021–22 in Luxembourgian football]]
+[[Category:2020–21 in Portuguese football]]
+[[Category:2021–22 in Portuguese football]]
+[[Category:Portugal at the 2022 FIFA World Cup]]
+[[Category:2021 in Republic of Ireland association football]]
+[[Category:2020–21 in Serbian football]]
+[[Category:2021–22 in Serbian football]]
+[[Category:Serbia at the 2022 FIFA World Cup]]

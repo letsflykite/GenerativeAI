@@ -1,0 +1,136 @@
+{{Short description|Ranking of FIFA teams for draw}}
+The draw for the [[2022 FIFA World Cup]] took place on 1 April 2022 at the Exhibition and Convention Center in [[Doha]], Qatar.<ref name="drawProcedure">{{cite web|url=https://www.fifa.com/tournaments/mens/worldcup/qatar2022/news/qatar-2022-final-draw-all-you-need-to-know|title=Qatar 2022 Final Draw: All you need to know|website=FIFA.com |publisher=Fédération Internationale de Football Association|date=31 March 2022}}</ref> It set the stage for the round-robin group stage in Qatar, whence the World Cup will be played. The teams were divided into four pots of eight, with one team selected from each pot to form a group.
+
+As hosts, [[Qatar national football team|Qatar]] took position A1 from Pot 1, where they were joined by the FIFA Ranking's seven highest-ranked qualified teams. The countries occupying positions 8 to 15 on the ranking of the qualified teams were allocated to Pot 2, while the 16th to 23rd best-ranked qualifiers were placed in Pot 3. Finally, Pot 4 included the qualified teams in positions 24 to 28, plus three placeholders representing the two winners of the intercontinental play-offs and the remaining UEFA play-off winners. The hosts continued to be placed in Pot 1 and treated as a seeded team, and therefore Pot 1 consisted of hosts Qatar and the seven highest-ranked teams that qualified for the tournament.
+
+The draw sequence started with pot 1 and ended with pot 4.<ref name="drawProcedure"/>
+
+== Personnel involved ==
+The 32 nations involved in the 2022 World Cup (29 of which were known) were drawn into eight groups of four. Two of the remaining three spots were filled by the winners of the [[2022 FIFA World Cup qualification (inter-confederation play-offs)|intercontinental play-offs]] on 13 or 14 June, with the third berth determined by Path A of the [[2022 FIFA World Cup qualification – UEFA second round|European qualifying play-offs]], which was delayed due to the [[2022 Russian invasion of Ukraine]].
+
+The draw was attended by 2,000 guests and was led by [[Carli Lloyd]], [[Jermaine Jenas]], and [[Samantha Johnson]], assisted by the likes of [[Cafu]] (Brazil), [[Lothar Matthäus]] (Germany), [[Adel Ahmed Malalla]] (Qatar), [[Ali Daei]] (Iran), [[Bora Milutinović]] (Serbia/USA/Mexico), [[Jay-Jay Okocha]] (Nigeria), [[Rabah Madjer]] (Algeria), and [[Tim Cahill]] (Australia).<ref name="drawProcedure"/>
+
+==Seeding==
+Teams were seeded using the March 2022 [[FIFA World Rankings]] (shown in parentheses), which were published on 31 March 2022.<ref>{{cite web|url=https://www.fifa.com/fifa-world-ranking/news/fifa-rankings-march2022-brazil-back-on-top|title=Brazil back on top|website=FIFA.com |publisher=Fédération Internationale de Football Association|date=31 March 2022}}</ref><ref>{{cite web|url=https://digitalhub.fifa.com/m/2ef762dcf5f577c6/original/Draw-Procedures-FIFA-World-Cup-Qatar-2022-EN.pdf|title=Draw-Procedures-FIFA-World-Cup-Qatar-2022|website=FIFA.com |publisher=Fédération Internationale de Football Association|date=31 March 2022}}</ref>
+
+The highest-ranked team not to qualify for the World Cup, and also the only team from the top 16 in the rankings not to qualify, was sixth-ranked Italy.
+
+{| class="wikitable"
+|-
+!width=25%| Pot 1
+!width=25%| Pot 2
+!width=25%| Pot 3
+!width=25%| Pot 4
+|-
+|
+{{fb|QAT}} (51) '''(H)'''<br />
+{{fb|BRA}} (1)<br />
+{{fb|BEL}} (2)<br />
+{{fb|FRA}} (3)<br />
+{{fb|ARG}} (4)<br />
+{{fb|ENG}} (5)<br />
+{{fb|ESP}} (7)<br />
+{{fb|POR}} (8)
+|
+{{fb|MEX}} (9)<br />
+{{fb|NED}} (10)<br />
+{{fb|DEN}} (11)<br />
+{{fb|GER}} (12)<br />
+{{fb|URU}} (13)<br />
+{{fb|SUI}} (14)<br />
+{{fb|USA}} (15)<br />
+{{fb|CRO}} (16)
+|
+{{fb|SEN}} (20)<br />
+{{fb|IRN}} (21)<br />
+{{fb|JPN}} (23)<br />
+{{fb|MAR}} (24)<br />
+{{fb|SRB}} (25)<br />
+{{fb|POL}} (26)<br />
+{{fb|KOR}} (29)<br />
+{{fb|TUN}} (35)
+|
+{{fb|CMR}} (37)<br />
+{{fb|CAN}} (38)<br />
+{{fb|ECU}} (46)<br />
+{{fb|KSA}} (49)<br />
+{{fb|GHA}} (60)<br />
+{{fb|WAL}} (18){{efn|name="RPS3"|[[2022 FIFA World Cup qualification – UEFA second round#Path A|UEFA Path A]] winners, team not determined at time of draw}}<br />
+{{fb|CRC}} (31){{efn|name="RPS2"|[[2022 FIFA World Cup qualification (CONCACAF–OFC play-off)|CONCACAF–OFC play-off]] winners, team not determined at time of draw.}}<br />
+{{fb|AUS}} (42){{efn|name="RPS1"|[[2022 FIFA World Cup qualification (AFC–CONMEBOL play-off)|AFC–CONMEBOL play-off]] winners, team not determined at time of draw.}}
+|}
+
+;Notes
+* '''H''' : Hosts
+
+==Final draw==
+
+The eight groups were formed randomly, selecting one team from each of the four pots. Two teams from the same confederation could not be placed into the same group, with the exception of UEFA teams, where up to two teams could be in the same group. The only team whose position in the draw was predetermined was the host Qatar, who were placed into position A1.
+
+{|class="wikitable" 
+|-
+!width=25%|[[2022 FIFA World Cup Group A|Group A]]
+!width=25%|[[2022 FIFA World Cup Group B|Group B]]
+!width=25%|[[2022 FIFA World Cup Group C|Group C]]
+!width=25%|[[2022 FIFA World Cup Group D|Group D]]
+|-
+|''{{fb|QAT}}''
+|{{fb|ENG}}
+|{{fb|ARG}}
+|{{fb|FRA}}
+|-
+|{{fb|ECU}}
+|{{fb|IRN}}
+|{{fb|KSA}}
+|{{fb|AUS}}
+|-
+|{{fb|SEN}}
+|{{fb|USA}}
+|{{fb|MEX}}
+|{{fb|DEN}}
+|-
+|{{fb|NED}}
+|{{fb|WAL}}
+|{{fb|POL}}
+|{{fb|TUN}}
+|-
+!width=25%|[[2022 FIFA World Cup Group E|Group E]]
+!width=25%|[[2022 FIFA World Cup Group F|Group F]]
+!width=25%|[[2022 FIFA World Cup Group G|Group G]]
+!width=25%|[[2022 FIFA World Cup Group H|Group H]]
+|-
+|{{fb|ESP}}
+|{{fb|BEL}}
+|{{fb|BRA}}
+|{{fb|POR}}
+|-
+|{{fb|CRC}}
+|{{fb|CAN}}
+|{{fb|SRB}}
+|{{fb|GHA}}
+|-
+|{{fb|GER}}
+|{{fb|MAR}}
+|{{fb|SUI}}
+|{{fb|URU}}
+|-
+|{{fb|JPN}}
+|{{fb|CRO}}
+|{{fb|CMR}}
+|{{fb|KOR}}
+|}
+
+==See also==
+*[[2018 FIFA World Cup seeding]]
+
+== Notes ==
+{{notelist}}
+
+==References==
+{{Reflist}}
+
+{{2022 FIFA World Cup}}
+{{FIFA World Cup}}
+
+[[Category:2022 FIFA World Cup|Seeding]]
+[[Category:FIFA World Cup seeding]]

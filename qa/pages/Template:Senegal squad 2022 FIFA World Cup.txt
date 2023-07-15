@@ -1,0 +1,41 @@
+{{National squad
+ | name        = Senegal squad 2022 FIFA World Cup
+ | bg          = #00853F
+ | fg          = #FDEF42
+ | bordercolor = #E31B23
+ | country     = Senegal
+ | comp link   = 2022 FIFA World Cup
+ | comp        = 2022 FIFA World Cup
+ | p1          = [[Seny Dieng|S. Dieng]]
+ | p2          = [[Formose Mendy (footballer, born 2001)|F. Mendy]]
+ | p3          = [[Kalidou Koulibaly|Koulibaly]]&nbsp;([[Captain (association football)|c]])
+ | p4          = [[Pape Abou Cissé|P. Cissé]]
+ | p5          = [[Idrissa Gueye|I. Gueye]]
+ | p6          = [[Nampalys Mendy|N. Mendy]]
+ | p7          = [[Nicolas Jackson|Jackson]]
+ | p8          = [[Cheikhou Kouyaté|Kouyaté]]
+ | p9          = [[Boulaye Dia|Dia]]
+ | p10         = [[Moussa N'Diaye (footballer, born 2002)|M. N'Diaye]]
+ | p11         = [[Pathé Ciss|Ciss]]
+ | p12         = [[Fodé Ballo-Touré|Ballo-Touré]]
+ | p13         = [[Iliman Ndiaye|I. Ndiaye]]
+ | p14         = [[Ismail Jakobs|Jakobs]]
+ | p15         = [[Krépin Diatta|Diatta]]
+ | p16         = [[Édouard Mendy|É. Mendy]]
+ | p17         = [[Pape Matar Sarr|P. Sarr]]
+ | p18         = [[Ismaïla Sarr|I. Sarr]]
+ | p19         = [[Famara Diédhiou|Diédhiou]]
+ | p20         = [[Bamba Dieng|B. Dieng]]
+ | p21         = [[Youssouf Sabaly|Sabaly]]
+ | p22         = [[Abdou Diallo|Diallo]]
+ | p23         = [[Alfred Gomis|Gomis]]
+ | p24         = [[Moustapha Name|Name]]
+ | p25         = [[Mamadou Loum|Loum]]
+ | p26         = [[Pape Gueye|P. Gueye]]
+ | coach       = [[Aliou Cissé|A. Cissé]]
+}}<noinclude>
+{{Squad maintenance}}
+[[Category:2022 FIFA World Cup squad navigational boxes|Senegal]]
+[[Category:Senegal FIFA World Cup squad navigational boxes|2022]]
+[[Category:Senegal at the 2022 FIFA World Cup|squad]]
+</noinclude>

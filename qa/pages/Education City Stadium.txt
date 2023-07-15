@@ -1,0 +1,145 @@
+{{Short description|Association football stadium in Al Rayyan, Qatar}}
+{{Use dmy dates|date=July 2020}}
+{{Infobox venue
+| name                = Education City Stadium
+| native_name         = '''{{Native name|ar|استاد المدينة التعليمية}}'''
+| image               = Education City Stadium.jpg
+| caption             = Interior view of the stadium during a 2022 FIFA World Cup match
+| mapframe-wikidata   = yes
+| location            = {{Ubl|[[Education City, Al Rayyan|Education City]] 8C6F+8Q7|[[Al Rayyan (city)|Al Rayyan]], Qatar}}
+| coordinates         = {{Coord|25.3108|51.4244|format=dms|display=inline,title}}
+| publictransit       = {{rint|doha|green}} [[Education City station|Education City]] {{Nowrap|(المدينة التعليمية)}}
+| owner               = [[Qatar Foundation]]
+| operator            = 
+| capacity            = {{Ubl|44,667<ref>{{cite web|url=https://hospitality.fifa.com/2022/en/the-stadiums/education-city/ |title=Education City Stadium |publisher=fifa.com |date= |access-date=21 November 2022}}</ref>}}
+| record_attendance   = 44,667 ([[Morocco national football team|Morocco]] vs [[Spain national football team|Spain]], [[2022 FIFA World Cup knockout stage#round_of_16#morocco_vs_spain|6 December 2022]])
+| dimensions          = 
+| surface             = Grass
+| opened              = 15 June 2020
+| architect           = {{Hlist|Fenwick Iribarren Architects|Pattern Design}}
+| project_manager     = ASTAD
+| structural engineer = {{Hlist|[[Arup Group|Arup]]|[[Buro Happold]]}}
+| main_contractors    = {{Hlist|Conspel Qatar|[[J&P AVAX|Joannou & Paraskevaides]]}}
+| tenants             = [[Qatar national football team]]
+}}
+
+'''Education City Stadium''' ({{Lang-ar|إِسْتَاد المدينة التعليمية|ʾIstād al-Madīna at-Taʿlīmiyya}}) is a [[Association football|football]] stadium which is located in [[Al Rayyan (city)|Al Rayyan]], [[Qatar]], and was built as a venue in time for the [[2022 FIFA World Cup]] held in Qatar. The stadium is located within several university campuses at the [[Qatar Foundation]]'s [[Education City]].<ref>{{cite web|url=https://www.qatar2022.qa/en/stadiums/education-city-stadium |title=The official completion of Education City Stadium |publisher=qatar2022.qa |date= |access-date=9 February 2022}}</ref> Following the FIFA World Cup, the stadium will retain 25,000 seats for use by university athletic teams. On 3 September 2020, the stadium hosted its first official match, played in the [[2020–21 Qatar Stars League]] season.<ref>{{cite web|url=https://www.fifa.com/worldcup/news/cazorla-dazzles-as-football-arrives-at-education-city#fans-attend-a-match-at-education-city-stadium|title=Cazorla dazzles as football arrives at Education City|access-date=4 September 2020|website=FIFA}}</ref>
+
+The stadium is located about 7&nbsp;km north-west of Doha.<ref>{{cite web|url=https://www.qatar2022.qa/en/tournament/stadiums/education-city-stadium |title=Education City Stadium |publisher=qatar2022.qa |date= |access-date=21 November 2022}}</ref>
+
+== Construction ==
+The stadium is located on the outskirts of the capital [[Doha]] and has a capacity of 40,000 seats. It has been given the nickname "Diamond in the Desert".<ref>{{cite web|url=https://www.thestadiumbusiness.com/2020/06/05/education-city-stadium-set-covid-19-themed-inauguration/ |title=Education City Stadium set for COVID-19-themed inauguration |publisher=thestadiumbusiness.com |date=5 July 2020 |access-date=4 November 2021}}</ref><ref>{{cite web|url=https://www.iloveqatar.net/news/sports/diamond-in-the-desert-will-shine-for-fifa-club-world-cup-2020-final |title='Diamond in the Desert' will shine for FIFA Club World Cup 2020 Final |publisher=iloveqatar.net |date=10 February 2021 |access-date=23 November 2021}}</ref>  With 20 percent of its building materials identified as green, the stadium is among the world's most [[environmentally sustainable]] stadiums. In May 2019, Education City Stadium received a five-star [[Global Sustainability Assessment System|GSAS]] rating.<ref>{{cite web|url=https://www.gulf-times.com/story/631583/Education-City-Stadium-Jewel-of-the-Desert |title=Educaton City Stadium …. Jewel of the Desert |publisher=gulf-times.com |date=15 May 2019 |access-date=9 February 2022}}</ref><ref name="thepeninsulaqatar1">{{cite web|url=https://thepeninsulaqatar.com/article/20/06/2020/Education-City-stadium-will-house-two-Qatar-Foundation-schools-after-Qatar-2022-World-Cup |title=Education City stadium will house two Qatar Foundation schools after Qatar 2022 World Cup |publisher=thepeninsulaqatar.com |date=20 June 2020 |access-date=25 October 2021}}</ref>
+
+The build contractor is JPAC JV, who appointed Pattern Design as the lead design architect, and [[Buro Happold]] for the engineering design.<ref>{{Cite web|url=https://www.sc.qa/en/stadiums/education-city-stadium/design|title=Education City Stadium Design|date=9 July 2018|website=Supreme Committee for Delivery & Legacy|access-date=12 September 2019}}</ref> 
+
+On 15 March 2022, FIFA president [[Gianni Infantino]] met with Qatar Minister of Labor, [[Ali bin Samikh Al Marri]] in [[Doha]], and discussed the labor reforms taking place in the country.<ref>{{Cite web |title=FIFA President and Qatar Minister of Labour meet to discuss progress of labour rights |url=https://www.fifa.com/about-fifa/president/media-releases/origin1904-p.cxm.fifa.comfifa-president-and-qatar-minister-of-labour-meet-to-discuss-progress-of |access-date=2022-04-07 |website=www.fifa.com |language=en}}</ref> On 16 March 2022 Infantino said in an interview, “I am pleased to see the strong commitment from the Qatari authorities to ensure the reforms are fully implemented across the labor market, leaving a lasting legacy of the FIFA World Cup long after the event, and benefiting migrant workers in the host country in the long term.”<ref>{{Cite web |date=2022-03-16 |title=FIFA chief Infantino lauds Qatar's labour reforms |url=https://www.espn.com/soccer/fifa-world-cup/story/4617958/fifa-president-gianni-infantino-lauds-qatars-labour-reforms |access-date=2022-04-07 |website=ESPN.com |language=en}}</ref> 
+
+On November 1, 2022, the [[International Labour Organization|International Labor Organization]] (ILO) recognized that Qatar has “undertaken comprehensive labor reforms to improve the conditions of the hundreds of thousands of migrant workers” which have “yielded benefits for workers, employers, and the economy more broadly.” This builds upon their 2021 report that detailed the positive impact of Qatar’s new labor legislation and implementation mechanisms. Also, On November 23, 2022, [[Foreign Policy]] (an American media house) drafted a report on the latest acknowledgement of the labor reforms that Qatar initiated, as the nation has already been scrutinized for its treatment of migrant workers in the past. Reforms include the introduction of a nondiscriminatory minimum wage, the removal of barriers to change jobs, and the introduction of a worker compensation fund in 2018 that has paid out $350 million so far.<ref>{{Cite news |last=Ali Al Ansari |first=Ali Al Ansari |date=23 November 2022 |title=Don't ignore labour reforms of qatar |work=Foreign Policy |url=https://foreignpolicy.com/2022/11/23/dont-ignore-qatars-progress-on-labor/}}</ref>
+
+===2022 FIFA World Cup===
+The Education City Stadium was one of eight stadiums built, renovated or reconstructed for the 2022 FIFA World Cup Qatar.<ref>{{cite web|url=https://www.aljazeera.com/sports/2020/12/18/qatar-2022-world-cup-stadiums-at-a-glance |title=Qatar 2022: Football World Glone stadiums at a glance |publisher=aljazeera.com |date=22 October 2021 |access-date=15 November 2021}}</ref> The construction of the stadium was completed in June 2020, making it the third World Cup stadium to be completed.<ref name="thepeninsulaqatar1" /> It officially opened on 15 June 2020.<ref>{{cite web|url=https://www.gulf-times.com/story/664827/Education-City-Stadium-completed |title=Education City Stadium completed |publisher=gulf-times.com |date=4 June 2020 |access-date=9 February 2022}}</ref>
+
+==History==
+On 30 September 2019, FIFA announced the Education City Stadium as the host of the third place match and [[2019 FIFA Club World Cup Final|final]] of the [[2019 FIFA Club World Cup]], with the tournament being held in Qatar.<ref>{{cite web|url=https://www.fifa.com/clubworldcup/news/education-city-stadium-to-host-fifa-club-world-cup-qatar-2019tm-final|archive-url=https://web.archive.org/web/20190930082950/https://www.fifa.com/clubworldcup/news/education-city-stadium-to-host-fifa-club-world-cup-qatar-2019tm-final|url-status=dead|archive-date=30 September 2019|title=Education City Stadium to host FIFA Club World Cup Qatar 2019™ final|access-date=30 September 2019|publisher=FIFA}}</ref> The stadium would also have hosted [[Liverpool F.C.|Liverpool]]’s first match in the semi-finals, but on 7 December 2019, the official opening of Education City Stadium was postponed until early 2020.<ref>{{cite web|url=https://www.bbc.com/sport/football/49876170 |title=Qatar 2022 World Cup venue to host Liverpool games at Club World Cup |publisher=bbc.com |date=30 September 2019 |access-date=9 February 2022}}</ref> Thus, Liverpool's opener, the final, and the third place match were all moved to the [[Khalifa International Stadium]] in [[Doha]].<ref>{{cite web|url=https://www.theguardian.com/football/2019/dec/07/liverpool-club-world-cup-venue-education-city-not-ready-qatar |title=Liverpool’s Club World Cup semi-final in Qatar to be moved with venue not ready |publisher=theguardian.com |date=7 December 2019 |access-date=25 October 2021}}</ref>
+
+The [[2020 FIFA Club World Cup]] was once again held in Qatar. The Education City Stadium was one of the venues.<ref name="thepeninsulaqatar2">{{cite web|url=https://thepeninsulaqatar.com/article/31/03/2021/600-days-to-go-Qatar%E2%80%99s-FIFA-World-Cup-stadiums-are-looking-incredible |title=600 days to go: Qatar’s FIFA World Cup stadiums are looking incredible |publisher=thepeninsulaqatar.com |date=31 March 2021 |access-date=9 November 2021}}</ref> One second round match, one semi-final match, the third place match and the [[2020 FIFA Club World Cup Final|final]] between [[FC Bayern Munich|Bayern Munich]] and [[Tigres UANL|UANL]] all took place in the stadium.<ref>{{cite news |url=https://www.fifa.com/clubworldcup/news/education-city-and-ahmad-bin-ali-stadiums-to-host-fifa-club-world-cup-2020tm |title=Education City and Ahmad Bin Ali stadiums to host FIFA Club World Cup 2020™ |website=FIFA.com |date=18 January 2021 |access-date=18 January 2021}}</ref> In 2020 the Education City Stadium hosted the East and West Zone matches of the 2020 [[AFC Champions League]].<ref name="thepeninsulaqatar2" /> 
+
+The stadium hosted five matches of the [[2021 FIFA Arab Cup]].<ref>{{cite web|url=https://www.goal.com/en-us/news/2021-fifa-arab-cup-qatar-all-you-need-to-know/blta3bed73f82f8fd58|title=2021 FIFA Arab Cup: Participating teams, fixtures and all you need to know |publisher=goal.com |date=18 December 2021 |access-date=10 October 2022}}</ref>
+
+==Recent tournament results==
+
+===2021 FIFA Arab Cup===
+
+{| class="wikitable" style="text-align: left;" width="80%"
+|-
+!Date
+!Time
+!Team #1
+!Result
+!Team #2
+!Round
+!Attendance
+|-
+|1 December 2021||22:00||{{fb|KSA}}||style="text-align:center;"|0–1||{{fb|JOR}}||[[2021 FIFA Arab Cup Group C|Group C]]
+|4,777
+|-
+|3 December 2021||16:00||{{fb|OMA}}||style="text-align:center;"|1–2||{{fb|QAT}}||[[2021 FIFA Arab Cup Group A|Group A]]
+|23,254
+|-
+|4 December 2021||22:00||{{fb|PLE}}||style="text-align:center;"|1–1||{{fb|KSA}}||[[2021 FIFA Arab Cup Group C|Group C]]
+|3,075
+|-
+|7 December 2021||22:00||{{fb|LBN}}||style="text-align:center;"|1–0||{{fb|SDN}}||[[2021 FIFA Arab Cup Group D|Group D]]
+|5,991
+|-
+|10 December 2021||18:00||{{fb|TUN}}||style="text-align:center;"|2–1||{{fb|OMA}}||[[2021 FIFA Arab Cup|Quarterfinals]]
+|21,329
+|}
+
+===2022 FIFA World Cup===
+Education City Stadium hosted eight matches during the 2022 FIFA World Cup.
+{|class="wikitable" style="text-align:left; width:80%;"
+|-
+!Date
+!Time
+!Team No. 1
+!Result
+!Team No. 2
+!Round
+!Attendance
+|-
+|22 November 2022||16:00|| {{fb|DEN}} ||style="text-align:center;"| 0–0 || {{fb|TUN}} ||[[2022 FIFA World Cup Group D|Group D]]||style="text-align:center;"|42,925
+|-
+|24 November 2022||16:00|| {{fb|URU}} ||style="text-align:center;"| 0–0 || {{fb|KOR}} ||[[2022 FIFA World Cup Group H|Group H]]||style="text-align:center;"|41,663
+|-
+|26 November 2022||16:00|| {{fb|POL}} ||style="text-align:center;"| 2–0 || {{fb|KSA}} ||[[2022 FIFA World Cup Group C|Group C]]||style="text-align:center;"|44,259
+|-
+|28 November 2022||16:00|| {{fb|KOR}} ||style="text-align:center;"| 2–3 || {{fb|GHA}} ||[[2022 FIFA World Cup Group H|Group H]]||style="text-align:center;"|43,983
+|-
+|30 November 2022||18:00|| {{fb|TUN}} ||style="text-align:center;"| 1–0 || {{fb|FRA}} ||[[2022 FIFA World Cup Group D|Group D]]||style="text-align:center;"|43,627
+|-
+|2 December 2022||18:00|| {{fb|KOR}} ||style="text-align:center;"| 2–1 || {{fb|POR}} ||[[2022 FIFA World Cup Group H|Group H]]||style="text-align:center;"|44,097
+|-
+|6 December 2022||18:00|| {{fb|MAR}} ||style="text-align:center;"| 0–0   (3–0 [[Penalty shoot-out (association football)|pen.]]) || {{fb|ESP}} ||[[2022 FIFA World Cup knockout stage#Round of 16|Round of 16]]||style="text-align:center;"|44,667
+|-
+|9 December 2022||18:00|| {{fb|CRO}} ||style="text-align:center;"| 1–1   (4–2 [[Penalty shoot-out (association football)|pen.]]) || {{fb|BRA}} ||[[2022 FIFA World Cup knockout stage#Quarter-finals|Quarter-finals]]||style="text-align:center;"|43,893
+|}
+
+===2023 AFC Asian Cup===
+On 5 April 2023, Education City Stadium was chosen as one of eight venues for the [[2023 Asian Cup]].{{Citation needed|date=May 2023}}
+
+{|class="wikitable" style="text-align:left; width:80%;"
+|-
+!Date
+!Time
+!Team No. 1
+!Result
+!Team No. 2
+!Round
+!Attendance
+|-
+|15 January 2024||17:30|| {{fb|IDN}} ||style="text-align:center;"| – || {{fb|IRQ}} ||[[2023 AFC Asian Cup Group D|Group D]]||style="text-align:center;"|
+|-
+|19 January 2024||14:30|| {{fb|IRQ}} ||style="text-align:center;"| – || {{fb|JPN}} ||[[2023 AFC Asian Cup Group D|Group D]]||style="text-align:center;"|
+|-
+|23 January 2024||18:00|| {{fb|IRN}} ||style="text-align:center;"| – || {{fb|UAE}} ||[[2023 AFC Asian Cup Group C|Group C]]||style="text-align:center;"|
+|-
+|25 January 2024||18:00|| {{fb|KSA}} ||style="text-align:center;"| – || {{fb|THA}} ||[[2023 AFC Asian Cup Group F|Group F]]||style="text-align:center;"|
+|-
+|30 January 2024||19:00|| Winner Group F ||style="text-align:center;"| – || Runner-up Group E ||[[2023 AFC Asian Cup#Round of 16|Round of 16]]||style="text-align:center;"|
+|-
+|2 February 2024||18:30|| Winner Match 37 ||style="text-align:center;"| – || Winner Match 42 ||[[2023 AFC Asian Cup#Quarter-finals|Quarter-finals]]||style="text-align:center;"|
+|}
+
+==References==
+{{reflist}}
+
+{{2021 FIFA Arab Cup}}
+{{2022 FIFA World Cup venues}}
+{{2023 AFC Asian Cup stadiums}}
+
+[[Category:2020 establishments in Qatar]]
+[[Category:2022 FIFA World Cup stadiums]]
+[[Category:Sports venues completed in 2020]]
+[[Category:Venues of the 2030 Asian Games]]
+[[Category:Asian Games football venues]]

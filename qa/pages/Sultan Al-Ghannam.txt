@@ -1,0 +1,170 @@
+{{short description|Saudi Arabian footballer}}
+{{Use dmy dates|date=January 2019}}
+{{Infobox football biography
+| name = Sultan Al-Ghannam
+| image = 
+| full_name = Sultan bin Abdullah bin Salem Al-Ghannam<ref name="SW"/>
+| birth_date = {{birth date and age|df=yes|1994|5|6}}
+| birth_place = [[Al Zulfi]], Saudi Arabia
+| height = 1.73 m<ref name="FIFA 2022">{{cite web |url=https://fdp.fifa.org/assetspublic/ce44/pdf/SquadLists-English.pdf |title=FIFA World Cup Qatar 2022: List of players: Saudi Arabia |publisher=[[FIFA]] |page=24 |date=15 November 2022 |access-date=10 December 2022}}</ref>
+| position = [[Defender (association football)|Right Back]]
+| currentclub = [[Al Nassr FC|Al Nassr]]
+| clubnumber = 2
+| youthyears1 = 
+| youthclubs1 = [[Al-Zulfi FC|Al-Zulfi]]
+| youthyears2 = 2015–2016
+| youthclubs2 = [[Al-Faisaly FC|Al-Faisaly]]
+| years1 = 2012–2015
+| clubs1 = [[Al-Zulfi FC|Al-Zulfi]]
+| caps1 = 40
+| goals1 = 10
+| years2 = 2016–2018
+| clubs2 = [[Al-Faisaly FC|Al-Faisaly]]
+| caps2 = 24
+| goals2 = 0
+| years3 = 2018–
+| clubs3 = [[Al Nassr FC|Al Nassr]]
+| caps3 = 125
+| goals3 = 8
+| nationalteam1 = [[Saudi Arabia national football team|Saudi Arabia]]
+| nationalcaps1 = 28
+| nationalgoals1 = 0
+| nationalyears1 = 2017–
+| ntupdate = 23:18, 28 March 2023 (UTC)
+| pcupdate = 13:51, 5 April 2023 (UTC)
+}}
+
+'''Sultan bin Abdullah bin Salem Al-Ghannam''' ({{lang-ar|سلطان بن عبد الله بن سالم الغنام}}; born 6 May 1994) is a Saudi Arabian professional [[Association football|footballer]] who plays as a [[Defender (association football)#Full-back|right-back]] for [[Saudi Professional League]] club [[Al Nassr FC|Al Nassr]] and the [[Saudi Arabia national football team|Saudi Arabia national team]].<ref>{{Cite web|url=http://www.kooora.com/?player=95645&mode=|title = كووورة: الموقع العربي الرياضي الأول}}</ref>
+
+==Club career==
+Al-Ghannam began his career at hometown club [[Al-Zulfi FC|Al-Zulfi]]. On 27 August 2015, Al-Ghannam joined Pro League side [[Al-Faisaly FC|Al-Faisaly]].<ref>{{cite web |title=الفيصلي يوقع مع اللاعب " سلطان الغنام " |url=https://alfaisalyfc.net/news/289/}}</ref>
+
+On 12 March 2018, Al-Ghannam joined [[Al-Nassr FC|Al-Nassr]] on a free transfer, signing a four-year contract with the club.<ref>{{cite web |title=النصر يوقع مع الغنام والمنصور لأربعة مواسم |url=https://www.alriyadh.com/1668094}}</ref> In his first season at the club, Al-Ghannam won the [[2018–19 Saudi Professional League|2018–19 Pro League]].<ref>{{cite web |title=النصر يتوج بلقب دوري كأس الأمير محمد بن سلمان للمحترفين لكرة القدم للمرة الثامنة |url=https://www.spa.gov.sa/1924983}}</ref> On 21 September 2021, Al-Ghannam renewed his contract with Al-Nassr until the end of the 2023–24 season.<ref>{{cite web |title=النصر يمدد عقد سلطان الغنام |url=https://www.alarabiya.net/sport/saudi-sport/2021/09/21/%D8%A7%D9%84%D9%86%D8%B5%D8%B1-%D9%8A%D9%85%D8%AF%D8%AF-%D8%B9%D9%82%D8%AF-%D8%B3%D9%84%D8%B7%D8%A7%D9%86-%D8%A7%D9%84%D8%BA%D9%86%D8%A7%D9%85}}</ref>
+
+==International career==
+Al-Ghannam was included in [[Saudi Arabia national football team|Saudi Arabia]]'s squad for the [[2019 AFC Asian Cup]] in the United Arab Emirates.<ref name="AFC">{{cite web |url=http://www.the-afc.com/afc/documents/PdfFiles/afc-asian-cup-uae-2019-complete-squad-lists |title=AFC Asian Cup UAE 2019 Complete Squad Lists |website=The-AFC.com |publisher=[[Asian Football Confederation]] |format=PDF |date=27 December 2018 |access-date=28 December 2018 |url-status=live |archive-url=https://web.archive.org/web/20181228174458/http://www.the-afc.com/afc/documents/PdfFiles/afc-asian-cup-uae-2019-complete-squad-lists |archive-date=28 December 2018}}</ref>
+
+On 20 November 2019, Al-Ghannam was named in the squad for the [[24th Arabian Gulf Cup]].<ref>{{cite web |title=رينارد يعلن قائمة الأخضر لبطولة كأس الخليج الـ24 |url=https://www.saff.com.sa/news.php?id=138}}</ref>
+
+On 11 November 2022, Al-Ghannam was named in the squad for the [[2022 FIFA World Cup]].<ref>{{cite web |url=https://www.saff.com.sa/en/news.php?id=1932 |title=Renard announces the national team list for the World Cup 2022 in Qatar |publisher=[[Saudi Arabian Football Federation]] |date=11 November 2022 |access-date=12 November 2022}}</ref>
+
+==Career statistics==
+{{updated|31 December 2022}}<ref name="SW">{{Soccerway |id=332554 |accessdate=15 March 2018}}</ref>
+
+{| class=wikitable style="text-align: center;"
+|+ Appearances and goals by club, season and competition
+|-
+!rowspan=2|Club
+!rowspan=2|Season
+!colspan=3|League
+!colspan=2|National Cup
+!colspan=2|League Cup
+!colspan=2|Asia
+!colspan=2|Other
+!colspan=2|Total
+|-
+!Division!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals
+|-
+|rowspan=4|[[Al-Zulfi FC|Al-Zulfi]]
+|[[2012–13 Saudi Third Division|2012–13]]
+|[[Saudi Third Division|Third Division]]
+|8||1||colspan=2|—||colspan=2|—||colspan=2|—||colspan=2|—||8||1
+|-
+|[[2013–14 Saudi Second Division|2013–14]]
+|[[Saudi Second Division|Second Division]]
+|17||8||2||0||colspan=2|—||colspan=2|—||colspan=2|—||19||8
+|-
+|[[2014–15 Saudi Second Division|2014–15]]
+|Second Division
+|15||1||colspan=2|—||colspan=2|—||colspan=2|—||colspan=2|—||15||1
+|-
+!colspan=2|Al-Zulfi Total
+!40!!10!!2!!0!!0!!0!!0!!0!!0!!0!!42!!10
+|-
+|rowspan=4|[[Al-Faisaly FC|Al-Faisaly]]
+|[[2015–16 Saudi Professional League|2015–16]]
+|[[Saudi Professional League|Pro League]]
+|1||0||0||0||0||0||colspan=2|—||colspan=2|—||1||0
+|-
+|[[2016–17 Saudi Professional League|2016–17]]
+|Pro League
+|2||0||1||0||0||0||colspan=2|—||colspan=2|—||3||0
+|-
+|[[2017–18 Al-Faisaly FC season|2017–18]]
+|Pro League
+|21||0||4||0||1||0||colspan=2|—||colspan=2|—||26||0
+|-
+!colspan=2|Al-Faisaly Total
+!24!!0!!5!!0!!1!!0!!0!!0!!0!!0!!30!!0
+|-
+|rowspan=6|[[Al-Nassr FC|Al-Nassr]]
+|[[2018–19 Al-Nassr FC season|2018–19]]
+|Pro League
+|26||2||2||0||colspan=2|—||8||1||4{{efn|Appearances in the [[2018–19 Arab Club Champions Cup|Arab Club Champions Cup]]}}||0||40||3
+|-
+|[[2019–20 Al-Nassr FC season|2019–20]]
+|Pro League
+|28||2||3||0||colspan=2|—||8||0||1{{efn|name=SC|Appearances in the [[Saudi Super Cup]]}}||0||39||2
+|-
+|[[2020–21 Al-Nassr FC season|2020–21]]
+|Pro League
+|25||1||3||0||colspan=2|—||9||0||1{{efn|name=SC}}||0||38||1
+|-
+|[[2021–22 Al-Nassr FC season|2021–22]]
+|Pro League
+|25||2||2||0||colspan=2|—||colspan=2|—||colspan=2|—||27||2
+|-
+|[[2022–23 Al-Nassr FC season|2022–23]]
+|Pro League
+|7||1||1||0||colspan=2|—||colspan=2|—||colspan=2|—||8||1
+|-
+!colspan=2|Al-Nassr Total
+!111!!8!!11!!0!!0!!0!!25!!1!!6!!0!!152!!9
+|-
+!colspan=3|Career total
+!175!!18!!18!!0!!1!!0!!25!!1!!6!!0!!224!!19
+|}
+
+{{notelist}}
+
+==Honours==
+===Club===
+'''Al-Nassr'''
+* [[Saudi Professional League]]: [[2018–19 Saudi Professional League|2018–19]]
+* [[Saudi Super Cup]]: [[2019 Saudi Super Cup|2019]], [[2020 Saudi Super Cup|2020]]
+
+==References==
+{{reflist}}
+
+== External links ==
+* {{soccerway|sultan-al-ghanam/332554}}
+
+{{Al-Nasr Squad}}
+{{Navboxes colour
+|title=Saudi Arabia squads
+|bg=#006C35
+|fg=#FFFFFF
+|bordercolor=#005429
+|list1=
+{{Saudi Arabia squad 2019 AFC Asian Cup}}
+{{Saudi Arabia squad 2022 FIFA World Cup}}
+}}
+
+{{DEFAULTSORT:Ghannam, Sultan}}
+[[Category:Living people]]
+[[Category:1994 births]]
+[[Category:People from Riyadh Province]]
+[[Category:Saudi Arabian men's footballers]]
+[[Category:Men's association football defenders]]
+[[Category:Al-Zulfi FC players]]
+[[Category:Al Faisaly FC players]]
+[[Category:Al Nassr FC players]]
+[[Category:Saudi Fourth Division players]]
+[[Category:Saudi Second Division players]]
+[[Category:Saudi Professional League players]]
+[[Category:2019 AFC Asian Cup players]]
+[[Category:Saudi Arabia men's international footballers]]
+[[Category:2022 FIFA World Cup players]]
+
+
+{{SaudiArabia-footy-defender-stub}}

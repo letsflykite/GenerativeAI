@@ -1,0 +1,393 @@
+{{short description|Croatian footballer}}
+{{Use dmy dates|date=November 2022}}
+{{Infobox football biography
+| name        = Bruno Petković
+| fullname    = Bruno Petković<ref name="FIFA 2022">{{cite web |url=https://fdp.fifa.org/assetspublic/ce44/pdf/SquadLists-English.pdf |title=FIFA World Cup Qatar 2022 – Squad list: Croatia (CRO) |publisher=[[FIFA]] |page=8 |date=15 November 2022 |access-date=15 November 2022}}</ref>
+| image       = Bruno-Petkovic.png
+| upright     = 0.9
+| caption     = Petković in 2022
+| birth_date  = {{birth date and age|1994|9|16|df=y}}<ref>{{cite web |title=Bruno Petković {{!}} Croatia {{!}} UEFA Nations League |url=https://www.uefa.com/uefanationsleague/teams/players/250063394--bruno-petkovic/ |access-date=13 June 2023 |publisher=[[UEFA]]}}</ref>
+| birth_place = [[Metković]], Croatia
+| height      = 1.93 m<ref>{{cite web|url=https://www.gnkdinamo.hr/en/Players/Single?Permalink=bruno-petkovic1 |title=Bruno Petković |publisher=GNK Dinamo Zagreb |access-date=7 September 2022}}</ref>
+| position    = [[Forward (association football)|Forward]]
+| currentclub = [[GNK Dinamo Zagreb|Dinamo Zagreb]]
+| clubnumber  = 9
+| youthyears1 = 2003–2006
+| youthclubs1 = [[:hr:ONK Metković|ONK Metković]]
+| youthyears2 = 2006–2007
+| youthclubs2 = [[NK Neretva|Neretva]]
+| youthyears3 = 2007–2009
+| youthclubs3 = [[GNK Dinamo Zagreb|Dinamo Zagreb]]
+| youthyears4 = 2009–2010
+| youthclubs4 = [[NK Zagreb]]
+| youthyears5 = 2010–2011
+| youthclubs5 = [[NK HAŠK|HAŠK]]
+| youthyears6 = 2011–2012
+| youthclubs6 = [[NK Hrvatski Dragovoljac|Hrvatski Dragovoljac]]
+| youthyears7 = 2012–2013
+| youthclubs7 = [[Calcio Catania|Catania]]
+| years1 = 2013–2016
+| clubs1 = [[Calcio Catania|Catania]]
+| caps1  = 5
+| goals1 = 0
+| years2 = 2014
+| clubs2 = → [[A.S. Varese 1910|Varese]] (loan)
+| caps2  = 8
+| goals2 = 1
+| years3 = 2015
+| clubs3 = → [[A.C. Reggiana 1919|Reggiana]] (loan)
+| caps3  = 15
+| goals3 = 4
+| years4 = 2015
+| clubs4 = → [[Virtus Entella]] (loan)
+| caps4  = 13
+| goals4 = 1
+| years5 = 2016–2017
+| clubs5 = [[Trapani Calcio|Trapani]]
+| caps5  = 35
+| goals5 = 10
+| years6 = 2017–2019 
+| clubs6 = [[Bologna F.C. 1909|Bologna]]
+| caps6  = 21
+| goals6 = 0
+| years7 = 2018
+| clubs7 = → [[Hellas Verona F.C.|Hellas Verona]] (loan)
+| caps7  = 16
+| goals7 = 0
+| years8 = 2018–2019
+| clubs8 = → [[GNK Dinamo Zagreb|Dinamo Zagreb]] (loan)
+| caps8  = 14
+| goals8 = 6
+| years9 = 2019–{{0|0000}}
+| clubs9 = [[GNK Dinamo Zagreb|Dinamo Zagreb]] 
+| caps9  = 119
+| goals9 = 36
+| nationalyears1 = 2013
+| nationalteam1  = [[Croatia national under-21 football team|Croatia U21]]
+| nationalcaps1  = 1
+| nationalgoals1 = 1
+| nationalyears2 = 2019–
+| nationalteam2  = [[Croatia national football team|Croatia]]
+| nationalcaps2  = 31
+| nationalgoals2 = 8
+| club-update = 23:42, 28 May 2023 (UTC)
+| nationalteam-update = 23:44, 18 June 2023 (UTC)
+| medaltemplates = {{Medal|Sport|Men's [[Association football|football]]}}
+{{Medal|Country|{{fb|CRO}}}}
+{{Medal|Comp|[[FIFA World Cup]]}}
+{{Medal|Bronze|[[2022 FIFA World Cup|2022 Qatar]]|}}
+{{Medal|Competition|[[UEFA Nations League]]}}
+{{Medal|RU|[[2023 UEFA Nations League Finals|2023 Netherlands]]|}}
+}}
+'''Bruno Petković''' ({{IPA-sh|brǔːno pêtkoʋitɕ|hr}};<ref>{{cite web|url=http://hjp.znanje.hr/index.php?show=search_by_id&id=eV5lXBM%3D&keyword=Pustinjak|title=Pètar|quote=Pȅtković|website=Hrvatski jezični portal|access-date=19 March 2018|language=hr}}</ref> born 16 September 1994) is a Croatian professional [[association football|footballer]] who plays as a [[forward (association football)|forward]] for [[Croatian Football League|HNL]] club [[GNK Dinamo Zagreb|Dinamo Zagreb]] and the [[Croatia national football team|Croatia national team]].
+
+==Early career==
+Petković was born in [[Metković]], Croatia. His father Jakov Petković hails from Metković and his mother Ruža Nižić is a [[Croats of Bosnia and Herzegovina|Herzegovinian Croat]] from [[Crveni Grm]] near [[Ljubuški]].<ref>{{Cite web|last=Tolić|first=Josip|date=22 January 2020|title=Petković: Bio sam ministrant, a ponosan sam na oca branitelja|url=https://www.24sata.hr/sport/petkovic-svaki-sam-dan-jako-zahvalan-bogu-i-kad-je-najteze-671787|url-status=live|access-date=13 May 2021|website=24sata|language=hr|archive-url=https://web.archive.org/web/20200123131841/https://www.24sata.hr/sport/petkovic-svaki-sam-dan-jako-zahvalan-bogu-i-kad-je-najteze-671787 |archive-date=23 January 2020 }}</ref><ref>{{Cite web|last=Čutura|first=Vlado|date=19 January 2020|title=BRUNO PETKOVIĆ, NOGOMETAŠ HRVATSKE REPREZENTACIJE I »DINAMA« »Neprestance svaki dan zahvaljujem Bogu«|url=https://www.glas-koncila.hr/bruno-petkovic-nogometas-hrvatske-reprezentacije-i-dinama-neprestance-svaki-dan-zahvaljujem-bogu/|access-date=13 May 2021|website=Glas Koncila|language=hr}}</ref> His childhood football idols were [[Ronaldo (Brazilian footballer)|Ronaldo]] and [[Zlatan Ibrahimović]].<ref>{{cite web|url=https://sportske.jutarnji.hr/nogomet/liga-prvaka/petkovic-u-podcastu-sn-prvi-napadac-dinama-i-vatrenih-otkrio-hoce-li-igrati-u-utorak-jovicevic-prednost-sahtara-je-i-jedan-covjek-na-njihovoj-klupi/9504143|title=PETKOVIĆ U PODCASTU SN Prvi napadač Dinama i Vatrenih otkrio hoće li igrati u utorak; JOVIČEVIĆ 'Prednost Šahtara je i jedan čovjek na njihovoj klupi'|publisher=[[Sportske novosti]]|date=18 October 2019|access-date=18 October 2019}}</ref>
+
+He began his youth career with his hometown clubs [[:hr:ONK Metković|ONK Metković]] and [[NK Neretva]], before he went to [[GNK Dinamo Zagreb|Dinamo Zagreb]] in 2007. He remained there until 4 September 2009, when he transferred across town, to the youth academy of city-rivals [[NK Zagreb]]. In the next two seasons, he represented [[NK HAŠK]] (2010–11) and [[NK Hrvatski Dragovoljac|Hrvatski Dragovoljac]] (2011–12), prior to his transfer to Italy, with [[Serie A]] side, [[Calcio Catania|Catania]].{{Citation needed|date=April 2014}}
+
+==Club career==
+===Calcio Catania===
+On 27 August 2012, Petković officially transferred to [[Calcio Catania]]. The transfer fee involved was undisclosed, though Petković was inserted directly into the club's youth academy following his arrival. His first call-up to the senior squad arrived on 27 January 2013, in a 2–1 home victory over [[ACF Fiorentina|Fiorentina]] in league play.<ref>{{cite web|url=https://int.soccerway.com/matches/2013/01/27/italy/serie-a/calcio-catania/acf-fiorentina/1351463/ |title=Catania vs. Fiorentina - 27 January 2013 - Soccerway |publisher=Us.soccerway.com |date=27 January 2013 |access-date=29 November 2013}}</ref> His league debut came on the final matchday of the [[2012–13 Serie A]] campaign, when he appeared as an 89th minute substitute in a 2–2 away draw with [[Torino F.C.|Torino]].<ref>{{cite web|url=https://int.soccerway.com/matches/2013/05/19/italy/serie-a/torino-fc/calcio-catania/1351622/ |title=Torino vs. Catania - 19 May 2013 - Soccerway |publisher=Us.soccerway.com |date=19 May 2013 |access-date=29 November 2013}}</ref> Ahead of the [[2013–14 Serie A]] season, Petković was officially promoted to the first team, and assigned the number 32 jersey.<ref>{{cite web|url=http://www.ilcalciocatania.it/article.php?id=29197 |title=Numerazione ufficiale maglie da gioco per la stagione sportiva 2013/2014 |work=Ilcalciocatania.it |language=it |date=21 August 2013 |access-date=29 November 2013 |archive-url=https://web.archive.org/web/20131203001452/http://www.ilcalciocatania.it/article.php?id=29197|archive-date=3 December 2013}}</ref>
+
+===Trapani and Bologna===
+In January 2016, Petković moved to [[Serie B]] side [[Trapani Calcio|Trapani]]. He scored seven goals in the second round of the Serie B season, as the Sicilian team nearly gained promotion to Serie A, failing only in the final play-off match against [[Delfino Pescara 1936|Pescara]]. The following season he scored three goals in the first round of the [[2016–17 Serie B]] season. On 12 January 2017 Petković was purchased by [[Serie A]] team [[Bologna F.C. 1909|Bologna]], for 1.2 million euros. He made total of 21 Serie A appearances for the team, before being loaned to [[Hellas Verona]] on 11 January 2018.
+
+===Dinamo Zagreb===
+====2018–19 season====
+On 6 August 2018, he joined [[GNK Dinamo Zagreb|Dinamo Zagreb]] on a season-long loan with Dinamo holding an obligation to buy his contract out at the end of the loan if certain conditions are met.<ref>{{cite web|publisher=[[Bologna F.C. 1909|Bologna]]|url=https://www.bolognafc.it/en/petkovic-joins-dinamo-zagreb/|title=Petkovic joins Dinamo Zagreb|date=6 August 2018}}</ref> On 25 August, he scored his first goal for Dinamo in a 1–0 home win over [[NK Lokomotiva|Lokomotiva]]. As the season wore on, Petković became more important to the squad and played the starring role in the peak of [[2018–19 GNK Dinamo Zagreb season|Dinamo Zagreb season]], the [[2018–19 UEFA Europa League]] [[2018–19 UEFA Europa League knockout phase#Round of 32|Round of 32]] home fixture against [[Viktoria Plzeň]], when he assisted the first goal and scored the third in the 3–0 win.<ref>{{cite web|publisher=Total Croatia News|url=https://www.total-croatia-news.com/sport/34276-dinamo-zagreb|title=Europa League: Dinamo Zagreb Moves into Last 16!|date=21 February 2019}}</ref> In the [[2018–19 UEFA Europa League knockout phase#Round of 16|Round of 16]] home fixture against [[S.L. Benfica|Benfica]] he scored the only goal in the 1–0 win.<ref>{{cite web|publisher=[[24sata (Croatia)|24sata]]|url=https://www.24sata.hr/sport/petkovic-from-metkovic-tata-je-bio-u-pravu-bruno-je-zabio-618042|title=Petković from Metković: Tata je bio u pravu, Bruno je zabio!|date=8 March 2019}}</ref> However, Benfica came back beating Dinamo 3–0 at [[Estádio da Luz]] after extra time.<ref>{{cite web|publisher=[[UEFA]]|url=https://www.uefa.com/uefaeuropaleague/season=2019/matches/round=2000992/match=2026911|title=Benfica-Dinamo Zagreb 2019 History|date=14 March 2019}}</ref> He finished his first season in the club with 11 goals and 5 assists in 37 matches in all competitions.
+
+====2019–20 season====
+Petković was instrumental to Dinamo Zagreb's successful [[2019–20 UEFA Champions League|Champions League]] [[2019–20 UEFA Champions League qualifying phase and play-off round|qualifying]] campaign, scoring four goals against [[FC Saburtalo Tbilisi|Saburtalo Tbilisi]] home and away, [[Ferencvárosi TC|Ferencváros]] away, and [[Rosenborg BK|Rosenborg]] home. His performances earned him a new contract with Dinamo, signed on 13 September 2019, which keeps him in the club until 2024.<ref>{{cite web|publisher=[[Dinamo Zagreb]]|url=https://gnkdinamo.hr/hr/Novosti/Clanak/bruno-petkovic-potpisao-novi-ugovor|title=BRUNO PETKOVIĆ POTPISAO NOVI UGOVOR|date=13 September 2019}}</ref>
+
+He made his Champions League debut on 18 September 2019 in a 4–0 home win over [[Atalanta B.C.|Atalanta]] and scored his debut goal on 6 November in a 3–3 home draw with [[Shakhtar Donetsk]].
+
+On 17 June 2020, he scored a last minute goal in a 3–2 home victory over [[Slaven Belupo]], the first home game of Dinamo's new coach [[Igor Jovićević]].<ref>{{Cite news|last=Hudika|first=Drago|last2=Hina|date=17 June 2020|title=Dinamo se namučio protiv Slavena, plave u 90. minuti spasio Petković|language=hr|work=Večernji list|url=https://www.vecernji.hr/sport/dinamo-trazi-iskupljenje-za-poraz-protiv-lokosa-stigle-postave-1410620|access-date=18 June 2020}}</ref> On 27 June, he suffered an injury in a goalless draw with [[NK Osijek|Osijek]] that ruled him out for the rest of the [[2018–19 GNK Dinamo Zagreb season|season]].<ref>{{Cite web|last=Ničota|first=Tomo|date=27 June 2020|title=Strah u Maksimiru: Petković u bolovima nakon utakmice, postoji bojazan da bi ozljeda mogla biti teška!|url=https://sportske.jutarnji.hr/sn/nogomet/hnl/strah-u-maksimiru-petkovic-u-bolovima-nakon-utakmice-postoji-bojazan-da-bi-ozljeda-mogla-biti-teska-15005002|access-date=21 August 2020|website=Sportske novosti|language=hr-hr}}</ref>
+
+====2020–21 season====
+After missing the first Dinamo's game of the [[2020–21 GNK Dinamo Zagreb season|season]] against Lokomotiva due to the injury, Petković returned on 21 August for a game against [[NK Istra 1961|Istra 1961]], coming off the bench and scoring the only goal in the 1–0 victory.<ref>{{Cite web|last=Ničota|first=Tomo|date=21 August 2020|title=VIDEO: Ipak pobjeda! Petković ušao u igru prvi put ove sezone i spasio Dinamo golom iz jedanaesterca|url=https://sportske.jutarnji.hr/sn/nogomet/hnl/video-ipak-pobjeda-petkovic-usao-u-igru-prvi-put-ove-sezone-i-spasio-dinamo-golom-iz-jedanaesterca-15014742|website=Sportske novosti|language=hr-hr}}</ref> During the season, Petković was the target of criticism from the media and fans due to his inconsistency and poor form.<ref>{{Cite web|last=Ničota|first=Tomo|date=19 February 2021|title=Mamić nije odmah kliknuo s Petkom, no bio je strpljiv i dobio je genijalca, a Dalić zicer za EURO!|url=https://sportske.jutarnji.hr/sn/nogomet/europska-liga/mamic-nije-odmah-kliknuo-s-petkom-no-bio-je-strpljiv-i-dobio-je-genijalca-a-dalic-zicer-za-euro-15051998|url-status=live|access-date=19 February 2021|website=Sportske novosti|language=hr-hr|archive-url=https://web.archive.org/web/20210219183845/https://sportske.jutarnji.hr/sn/nogomet/europska-liga/mamic-nije-odmah-kliknuo-s-petkom-no-bio-je-strpljiv-i-dobio-je-genijalca-a-dalic-zicer-za-euro-15051998 |archive-date=19 February 2021 }}</ref> However, on 18 February 2021, in the [[2020–21 UEFA Europa League|Europa League]] [[2020–21 UEFA Europa League knockout phase#Round of 32|Round of 32]], he scored a brace and provided [[Luka Ivanušec]] with a pre-assist for [[Iyayi Atiemwen]]'s third goal as Dinamo defeated [[FC Krasnodar|Krasnodar]] 3–2 away.<ref>{{Cite web|last=Olivari|first=Davorin|date=18 February 2021|title=Bruno Petković je nogometni Bog! Bio je Mbappe, Messi i Ronaldo, a Dinamo je bogatašima - očitao lekciju|url=https://sportske.jutarnji.hr/sn/nogomet/europska-liga/bruno-petkovic-je-nogometni-bog-bio-je-mbappe-messi-i-ronaldo-a-dinamo-je-bogatasima-ocitao-lekciju-15051810|url-status=live|access-date=19 February 2021|website=Sportske novosti|language=hr-hr|archive-url=https://web.archive.org/web/20210218233752/https://sportske.jutarnji.hr/sn/nogomet/europska-liga/bruno-petkovic-je-nogometni-bog-bio-je-mbappe-messi-i-ronaldo-a-dinamo-je-bogatasima-ocitao-lekciju-15051810 |archive-date=18 February 2021 }}</ref>
+
+====2021–22 season====
+On 30 September 2021, he scored two goals from the penalty spot in a 3–0 away win over [[K.R.C. Genk|Genk]] in the [[2021–22 UEFA Europa League|Europa League]].<ref>{{cite web |url=https://www.uefa.com/uefaeuropaleague/match/2033188/ |title=Genk 0–3 Dinamo Zagreb |website=UEFA |date=30 September 2021 }}</ref>
+
+====2022–23 season====
+On 2 November 2022, he scored a goal in a 2–1 away defeat against [[Chelsea F.C.|Chelsea]] in the [[2022–23 UEFA Champions League|Champions League]].<ref>{{Cite web |title=Chelsea 2–1 Dinamo Zagreb |url=https://www.bbc.com/sport/football/63479244 |website=BBC Sport |date=2 November 2022 }}</ref>
+
+==International career==
+On youth level, he was capped only once for [[Croatia national under-21 football team|Croatia U21]] in a game against [[Liechtenstein national under-21 football team|Liechtenstein]] on 13 August 2013, scoring a goal in the 5–0 victory.<ref>{{Cite web|title=Bruno Petković|url=https://hns-cff.hr/en/players/122449/bruno-petkovic/|access-date=28 August 2020|website=Croatian Football Federation}}</ref>
+
+On 11 March 2019, he received his first senior [[Croatia national football team|Croatia]] call-up as a replacement for the injured [[Marko Pjaca]].<ref>{{cite web|publisher=sportnet.hr|url=https://sportnet.rtl.hr/vijesti/521570/nogomet-reprezentacija/pjaca-otpao-s-potpisa-petkovic-pozvan-reprezentacija-mi-je-jedan-od-najvecih-sportskih-ciljeva-u-karijeri/|title=Pjaca otpao s potpisa, Petković pozvan: "Reprezentacija mi je jedan od najvećih sportskih ciljeva u karijeri"|date=11 March 2019}}</ref> He made his debut on 21 March 2019 in a [[UEFA Euro 2020 qualifying Group E|Euro 2020 qualifier]] against [[Azerbaijan national football team|Azerbaijan]].<ref>{{cite web|publisher=[[UEFA]]|url=https://www.uefa.com/european-qualifiers/season=2020/matches/round=2001086/match=2026019/index.html|title=Croatia v Azerbaijan game report|date=21 March 2019}}</ref> He scored his first goal for the national team on 11 June in a friendly loss to [[Tunisia national football team|Tunisia]].<ref>{{cite web|publisher=[[BBC Sport]]|url=https://www.bbc.com/sport/football/48608563|title=Africa Cup of Nations: Tunisia beat World Cup finalists Croatia in warm-up game|date=12 June 2019}}</ref>
+
+He turned out to be instrumental to Croatia's successful [[UEFA Euro 2020]] qualifying campaign, scoring four goals and assisting one.<ref>{{cite web|publisher=[[Sportske novosti]]|url=https://sportske.jutarnji.hr/nogomet/reprezentacija/pojavio-se-preko-noci-i-postao-svjetska-klasa-danas-je-vatrena-jedanaestorka-nezamisliva-bez-njega-on-mene-jako-podsjeca-na-ibrahimovica/9629065|title=POJAVIO SE PREKO NOĆI I POSTAO SVJETSKA KLASA, DANAS JE VATRENA JEDANAESTORKA NEZAMISLIVA BEZ NJEGA 'On mene jako podsjeća na Ibrahimovića'|date=19 November 2019}}</ref> He finished the qualifiers as the group's top goalscorer. However, following the tournament [[Impact of the COVID-19 pandemic on association football|postponement]] due to the [[COVID-19 pandemic in Europe|COVID-19 pandemic]], Petković was heavily criticized for his inefficiency in the national team during Croatia's disappointing [[2020–21 UEFA Nations League A#Group 3|2020–21 Nations League]] campaign where they managed to win only three points in six games.<ref>{{Cite web|last=Ničota|first=Tomo|date=24 November 2020|title=Petković je u Osijeku najavio buđenje, je li vrijeme za konačno veliku partiju i to već u Austriji?|url=https://sportske.jutarnji.hr/sn/nogomet/europska-liga/petkovic-je-u-osijeku-najavio-budenje-je-li-vrijeme-za-konacno-veliku-partiju-i-to-vec-u-austriji-15033074|access-date=25 November 2020|website=Sportske novosti|language=hr-hr}}</ref><ref>{{Cite web|date=11 September 2020|title=Zlatko Dalić kritizirao Brunu Petkovića: Pa ne možeš takav doći u reprezentaciju|url=https://www.vecernji.hr/sport/zlatko-dalic-kritizirao-bruna-petkovica-pa-ne-mozes-takav-doci-u-reprezentaciju-1430552|access-date=25 November 2020|website=Večernji list|language=hr}}</ref>
+
+In the [[2022 FIFA World Cup]] [[2022 FIFA World Cup knockout stage#Croatia vs Brazil|quarter-final]] on 9 December, Petković scored the equalizing goal against [[Brazil national football team|Brazil]] to take the game to [[Penalty shoot-out (association football)|penalties]]. It was his first goal for Croatia after 17 caps and more than two years. Croatia won the penalty shootout and progressed to the [[2022 FIFA World Cup knockout stage#Argentina vs Croatia|semi-finals]] for the third time in their history.<ref>{{Cite news |title=Brazil out of World Cup as Croatia win on penalties|language=en-GB |work=BBC Sport |url=https://www.bbc.com/sport/football/63830320 |access-date=2022-12-09}}</ref>
+
+==Personal life==
+On 3 April 2021, Petković and his partner Iva Šarić became parents of a baby boy, whom they named Adrian.<ref>{{Cite web|date=7 April 2021|title=Neočekivan ispad Brune Petkovića: Fotoreporteru ispred rodilišta pokazao srednji prst|url=https://www.vecernji.hr/showbiz/neocekivan-ispad-brune-petkovica-fotoreporteru-ispred-rodilista-pokazao-srednji-prst-1482434|url-status=live|access-date=8 April 2021|website=Večernji list|language=hr|archive-url=https://web.archive.org/web/20210407100854/https://www.vecernji.hr/showbiz/neocekivan-ispad-brune-petkovica-fotoreporteru-ispred-rodilista-pokazao-srednji-prst-1482434 |archive-date=7 April 2021 }}</ref>
+
+Petković is an active amateur [[chess]] player and he regularly participates in humanitarian chess tournaments organized by Croatian chess [[Grandmaster (chess)|grandmaster]] and Vice President of [[European Chess Union]], [[Alojzije Janković]].
+
+==Career statistics==
+===Club===
+{{updated|match played 28 May 2023}}<ref name="soccerway">{{cite web|title=B. Petković |url=https://int.soccerway.com/players/bruno-petkovic/283010/|website=Soccerway|access-date=13 February 2020}}</ref>
+
+{| class="wikitable" style="text-align:center"
+|+ Appearances and goals by club, season and competition
+|-
+!rowspan="2"|Club
+!rowspan="2"|Season
+!colspan="3"|League
+!colspan="2"|National cup{{efn|Includes [[Coppa Italia]] and [[Croatian Football Cup|Croatian Cup]]}}
+!colspan="2"|[[UEFA|Europe]]
+!colspan="2"|Other
+!colspan="2"|Total
+|-
+!Division!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals
+|-
+|rowspan="3"|[[Calcio Catania|Catania]]
+|[[2012–13 Calcio Catania season|2012–13]]
+|rowspan="2"|[[Serie A]]
+|1||0||0||0||colspan="2"|–||colspan="2"|–||1||0
+|-
+|[[2013–14 Calcio Catania season|2013–14]]
+|4||0||0||0||colspan="2"|–||colspan="2"|–||4||0
+|-
+!colspan="2"|Total
+!5!!0!!0!!0!!0!!0!!0!!0!!5!!0
+|-
+|[[A.S. Varese 1910|Varese]] (loan)
+|[[2014–15 Serie B|2014–15]]
+|[[Serie B]]
+|8||1||1||0||colspan="2"|–||colspan="2"|–||9||1
+|-
+|[[A.C. Reggiana 1919|Reggiana]] (loan)
+|[[2014–15 Lega Pro|2014–15]]
+|[[Lega Pro]]
+|15||4||0||0||colspan="2"|–||3||0||18||4
+|-
+|[[Virtus Entella]] (loan)
+|[[2015–16 Serie B|2015–16]]
+|Serie B
+|13||1||0||0||colspan="2"|–||colspan="2"|–||13||1
+|-
+|rowspan="3"|[[Trapani Calcio|Trapani]]
+|[[2015–16 Serie B|2015–16]]
+|rowspan="2"|Serie B
+|18||7||0||0||colspan="2"|–||3||0||21||7
+|-
+|[[2016–17 Serie B|2016–17]]
+|17||3||0||0||colspan="2"|–||colspan="2"|–||17||3
+|-
+!colspan="2"|Total
+!35!!10!!0!!0!!0!!0!!3!!0!!38!!10
+|-
+|rowspan="3"|[[Bologna F.C. 1909|Bologna]] 
+|[[2016–17 Bologna F.C. 1909 season|2016–17]]
+|rowspan="2"|Serie A
+|12||0||0||0||colspan="2"|–||colspan="2"|–||12||0
+|-
+|[[2017–18 Bologna F.C. 1909 season|2017–18]]
+|9||0||1||0||colspan="2"|–||colspan="2"|–||10||0
+|-
+!colspan="2"|Total
+!21!!0!!1!!0!!0!!0!!0!!0!!22!!0
+|-
+|[[Hellas Verona F.C.|Hellas Verona]] (loan)
+|[[2017–18 Hellas Verona F.C. season|2017–18]]
+|Serie A
+|16||0||0||0||colspan="2"|–||colspan="2"|–||16||0
+|-
+|rowspan="6"|[[GNK Dinamo Zagreb|Dinamo Zagreb]] 
+|[[2018–19 GNK Dinamo Zagreb season|2018–19]]
+|rowspan="4"|[[Croatian Football League|Prva HNL]]
+|25||9||5||1||9{{efn|name=UEL|Appearances in [[UEFA Europa League]]}}||2||colspan="2"|–||39||12
+|-
+|[[2019–20 GNK Dinamo Zagreb season|2019–20]]
+|25||7||2||1||12{{efn|name=UCL|Appearances in [[UEFA Champions League]]}}||5||1{{efn|Appearance in [[Croatian Football Super Cup|Croatian Super Cup]]}}||0||40||13
+|-
+|[[2020–21 GNK Dinamo Zagreb season|2020–21]]
+|25||9||4||1||13{{efn|Two appearances in UEFA Champions League, eleven appearances and four goals in UEFA Europa League}}||4||0||0||42||14
+|-
+|[[2021–22 GNK Dinamo Zagreb season|2021–22]]
+|30||7||1||0||14{{efn|Seven appearances and one goal in UEFA Champions League, seven appearances and three goals in UEFA Europa League}}||4||colspan="2"|—||45||11
+|-
+|[[2022–23 GNK Dinamo Zagreb season|2022–23]]
+|HNL
+|28||10||2||0||12{{efn|name=UCL}}||4||colspan="2"|—||42||14
+|-
+!colspan="2"|Total
+!133!!42!!14!!3!!60!!19!!1!!0!!208!!64
+|-
+!colspan="3"|Career total 
+!246!!57!!16!!3!!60!!19!!7!!0!!329!!79
+|}
+
+{{notelist}}
+
+===International===
+{{updated|match played 18 June 2023}}<ref name=repka>{{cite web|title=Bruno Petković profile|url=https://eu-football.info/_player.php?id=30597|website=EU-Football.info|access-date=19 November 2019}}</ref>
+
+{| class=wikitable style="text-align: center"
+|+ Appearances and goals by national team and year
+|-
+!National team!!Year!!Apps!!Goals
+|-
+|rowspan="5"|[[Croatia national football team|Croatia]]
+|2019||8||5
+|-
+|2020||5||1
+|-
+|2021||8||0
+|-
+|2022||8||1
+|-
+|2023||3||1
+|-
+!colspan="2"|Total!!31!!8
+|}
+
+:''Scores and results list Croatia's goal tally first, score column indicates score after each Petković goal.''
+
+{| class="wikitable sortable"
+|+ List of international goals scored by Bruno Petković<ref name =repka />
+|-
+!scope="col"|No.
+!scope="col"|Date
+!scope="col"|Venue
+!scope="col"|Cap
+!scope="col"|Opponent
+!scope="col"|Score
+!scope="col"|Result
+!scope="col"|Competition
+|-
+| style="text-align:center"|1
+| 11 June 2019 
+| [[Stadion Varteks]], [[Varaždin]], Croatia
+| style="text-align:center"|3 
+| {{fb|TUN}} 
+| style="text-align:center"|1–1 
+| style="text-align:center"|1–2 
+| [[Friendly (association football)|Friendly]]
+|-
+| style="text-align:center"|2
+| 6 September 2019 
+| [[Anton Malatinský Stadium]], [[Trnava]], Slovakia 
+| style="text-align:center"|4 
+| {{fb|SVK}} 
+| style="text-align:center"|3–0 
+| style="text-align:center"|4–0 
+| [[UEFA Euro 2020 qualifying Group E|UEFA Euro 2020 qualifying]]
+|-
+| style="text-align:center"|3
+| rowspan="2"|10 October 2019 
+| rowspan="2"|[[Stadion Poljud]], [[Split, Croatia|Split]], Croatia 
+| rowspan="2" align=center|6 
+| rowspan="2"|{{fb|HUN}} 
+| style="text-align:center"|2–0 
+| rowspan="2" align=center|3–0
+| rowspan="2"|UEFA Euro 2020 qualifying
+|-
+| style="text-align:center"|4
+| style="text-align:center"|3–0
+|-
+| style="text-align:center"|5
+| 16 November 2019 
+| [[Stadion Rujevica]], [[Rijeka]], Croatia 
+| style="text-align:center"|8 
+| {{fb|SVK}} 
+| style="text-align:center"|2–1 
+| style="text-align:center"|3–1
+| UEFA Euro 2020 qualifying
+|-
+| style="text-align:center"|6
+| 5 September 2020
+| [[Estádio do Dragão]], [[Porto]], Portugal
+| style="text-align:center"|9
+| {{fb|POR}} 
+| style="text-align:center"|1–3 
+| style="text-align:center"|1–4
+| [[2020–21 UEFA Nations League A#Group 3|2020–21 UEFA Nations League A]]
+|-
+| style="text-align:center"|7
+| 9 December 2022
+| [[Education City Stadium]], [[Al Rayyan (city)|Al Rayyan]], Qatar
+| style="text-align:center"|27
+| {{fb|BRA}} 
+| style="text-align:center"|1–1 
+| style="text-align:center"|1–1 {{aet}}
+| [[2022 FIFA World Cup knockout stage|2022 FIFA World Cup]]
+|-
+| style="text-align:center"|8
+| 14 June 2023
+| [[De Kuip]], [[Rotterdam]], Netherlands
+| style="text-align:center"|30
+| {{fb|NED}} 
+| style="text-align:center"|3–2 
+| style="text-align:center"|4–2 {{aet}}
+| [[2023 UEFA Nations League Finals]]
+|}
+
+== Honours ==
+'''Dinamo Zagreb'''
+*[[Croatian First Football League|Prva HNL]]: [[2018–19 Croatian First Football League|2018–19]], [[2019–20 Croatian First Football League|2019–20]], [[2020–21 Croatian First Football League|2020–21]], [[2021–22 Croatian First Football League|2021–22]], [[2022–23 Croatian Football League|2022–23]]
+*[[Croatian Football Cup|Croatian Cup]]: [[2020–21 Croatian Football Cup|2020–21]]<ref>{{cite web|url=https://hns-cff.hr/matches/41712762/dinamo-istra-1961/|title=DINAMO - ISTRA 1961 6:3|website=HNS-CFF|date=19 May 2021|accessdate=22 June 2021|language=Croatian}}</ref>
+*[[Croatian Football Super Cup|Croatian Super Cup]]: [[2019 Croatian Football Super Cup|2019]], [[2022 Croatian Football Super Cup|2022]]
+'''Croatia'''
+
+* [[FIFA World Cup]] third place: [[2022 FIFA World Cup|2022]]<ref>{{Cite web |last=Smyth |first=Rob |date=17 December 2022 |title=Croatia 2-1 Morocco: World Cup 2022 third-place playoff – as it happened |url=https://www.theguardian.com/football/live/2022/dec/17/croatia-morocco-world-cup-2022-third-place-playoff-live-score-updates |access-date=17 December 2022 |website=the Guardian}}</ref>
+'''Individual'''
+*[[Football Oscar]] – Best Prva HNL player: [[Football Oscar#Team of the Year 2020|2020]], [[Football Oscar|2021]] 
+*[[Football Oscar]] – Prva HNL Team of the Year: [[Football Oscar#Team of the Year 2019|2019]], [[Football Oscar#Team of the Year 2020|2020]], [[Football Oscar|2021]]
+*[[Prva HNL Player of the Year (Tportal)|''Tportal'' Prva HNL Player of the Year]]: 2019<ref>{{cite web |title=Bruno Petkovic voted Croatian player of the year by captains |url=https://www.croatiaweek.com/bruno-petkovic-voted-croatian-player-of-the-year-by-captains/ |website=CroatiaWeek.com |access-date=24 December 2019 |date=17 December 2019}}</ref>
+*[[Croatian First Football League]] most assist provided: [[2019–20 Croatian First Football League|2019–20]], [[2020–21 Croatian First Football League|2020–21]]
+*[[UEFA Europa League]] Team of the Week: [[2020–21 UEFA Europa League|2020–21]] Round of 32<ref>{{cite web |url=https://gnkdinamo.hr/en/News/Article/sjajna-2021 |title=Oproštaj od godine. Sjajna 2021 |website=GNK Dinamo Zagreb |language=hr |date=2 January 2022 }}</ref>
+*[[CIES]] Croatian First Football League Team of the Season: 2021–22<ref>{{cite web |url=https://www.hntv.hr/vijesti/cies-odabrao-najbolju-momcad-sezone-u-ht-prvoj-ligi |title=CIES odabrao najbolju momčad sezone u HT Prvoj ligi |website=HNTV |language=hr |date=24 May 2022 }}</ref>
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{UEFA player}}
+*{{NFT player|73888}}
+*{{CFF player|122449/bruno-petkovic}}
+*[https://web.archive.org/web/20130603024833/http://www.goal.com/it/people/croazia/89658/bruno-petkovic Bruno Petković] at Goal.com
+*{{Webarchive |url=https://web.archive.org/web/20131106065751/http://it.eurosport.yahoo.com/calcio/bruno-petkovic.html |date=6 November 2013 |title=It.eurosport.yahoo.com }}
+
+{{GNK Dinamo Zagreb squad}}
+{{Navboxes
+| title = Croatia squads
+| bg = white
+| fg = #171796
+| bordercolor = red
+| list1 = 
+{{Croatia squad UEFA Euro 2020}}
+{{Croatia squad 2022 FIFA World Cup}}
+}}
+{{Tportal Prva HNL Player of the Year}}
+
+{{DEFAULTSORT:Petkovic, Bruno}}
+[[Category:1994 births]]
+[[Category:Living people]]
+[[Category:Sportspeople from Metković]]
+[[Category:Croatian men's footballers]]
+[[Category:Men's association football forwards]]
+[[Category:Croatia men's under-21 international footballers]]
+[[Category:Croatia men's international footballers]]
+[[Category:Croatian expatriate men's footballers]]
+[[Category:Serie A players]]
+[[Category:Serie B players]]
+[[Category:Serie C players]]
+[[Category:Croatian Football League players]]
+[[Category:NK Neretva players]]
+[[Category:Catania FC players]]
+[[Category:S.S.D. Varese Calcio players]]
+[[Category:AC Reggiana 1919 players]]
+[[Category:Virtus Entella players]]
+[[Category:SSD FC Trapani 1905 players]]
+[[Category:Bologna FC 1909 players]]
+[[Category:Hellas Verona FC players]]
+[[Category:GNK Dinamo Zagreb players]]
+[[Category:UEFA Euro 2020 players]]
+[[Category:2022 FIFA World Cup players]]
+[[Category:Expatriate men's footballers in Italy]]
+[[Category:Croatian expatriate sportspeople in Italy]]

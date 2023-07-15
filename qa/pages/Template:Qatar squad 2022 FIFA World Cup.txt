@@ -1,0 +1,41 @@
+{{National squad
+ | name        = Qatar squad 2022 FIFA World Cup
+ | bg          = #8A1538
+ | fg          = white
+ | bordercolor = #660033
+ | country     = Qatar
+ | comp link   = 2022 FIFA World Cup
+ | comp        = 2022 FIFA World Cup
+ | p1          = [[Saad Al-Sheeb|Al-Sheeb]]
+ | p2          = [[Ró-Ró|Pedro]]
+ | p3          = [[Abdelkarim Hassan|A. Hassan]]
+ | p4          = [[Mohammed Waad|Waad]]
+ | p5          = [[Tarek Salman|Salman]]
+ | p6          = [[Abdulaziz Hatem|Hatem]]
+ | p7          = [[Ahmed Alaaeldin|Alaaeldin]]
+ | p8          = [[Ali Assadalla|Assadalla]]
+ | p9          = [[Mohammed Muntari|Muntari]]
+ | p10         = [[Hassan Al-Haydos|Al-Haydos]]&nbsp;([[Captain (association football)|c]])
+ | p11         = [[Akram Afif|Afif]]
+ | p12         = [[Karim Boudiaf|Boudiaf]]
+ | p13         = [[Musab Kheder|Kheder]]
+ | p14         = [[Homam Ahmed|Ahmed]]
+ | p15         = [[Bassam Al-Rawi|Al-Rawi]]
+ | p16         = [[Boualem Khoukhi|Khoukhi]]
+ | p17         = [[Ismaeel Mohammad|Mohammad]]
+ | p18         = [[Khalid Muneer|Muneer]]
+ | p19         = [[Almoez Ali|Ali]]
+ | p20         = [[Salem Al-Hajri|Al-Hajri]]
+ | p21         = [[Yousef Hassan|Y. Hassan]]
+ | p22         = [[Meshaal Barsham|Barsham]]
+ | p23         = [[Assim Madibo|Madibo]]
+ | p24         = [[Naif Al-Hadhrami|Al-Hadhrami]]
+ | p25         = [[Jassem Gaber|Gaber]]
+ | p26         = [[Mostafa Meshaal (footballer)|Meshaal]]
+ | coach       = [[Félix Sánchez (football manager)|Sánchez]]
+}}<noinclude>
+{{Squad maintenance}}
+[[Category:2022 FIFA World Cup squad navigational boxes|Qatar]]
+[[Category:Qatar FIFA World Cup squad navigational boxes|2022]]
+[[Category:Qatar at the 2022 FIFA World Cup|squad]]
+</noinclude>

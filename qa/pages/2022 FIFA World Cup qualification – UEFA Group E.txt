@@ -1,0 +1,486 @@
+{{short description|none}}
+{{Use dmy dates|date=December 2020}}
+The '''2022 FIFA World Cup qualification UEFA Group E''' was one of the ten [[2022 FIFA World Cup qualification (UEFA)|UEFA groups]] in the [[2022 FIFA World Cup qualification|World Cup qualification]] tournament to decide which teams would qualify for the [[2022 FIFA World Cup]] finals tournament in Qatar.<ref>{{cite news |url=https://digitalhub.fifa.com/m/58b8109657d40e3d/original/ijoruwm3ly5kgz9wbu6j-pdf.pdf |title=UEFA preliminary competition for the FIFA World Cup 2022: Draw procedures |work=[[FIFA]] |format=PDF |date=22 October 2020 |access-date=22 October 2020}}</ref> Group E consisted of five teams: [[Belarus national football team|Belarus]], [[Belgium national football team|Belgium]], the [[Czech Republic national football team|Czech Republic]], [[Estonia national football team|Estonia]] and [[Wales national football team|Wales]].<ref>{{cite web |url=https://editorial.uefa.com/resources/0264-1108c702e548-758110ebe57c-1000/draw_result_sheet.pdf |title=FIFA World Cup Preliminary Competition – Draw Results |work=UEFA |format=PDF |date=7 December 2020 |access-date=7 December 2020}}</ref> The teams played against each other home-and-away in a [[round-robin tournament|round-robin format]].<ref>{{cite web |url=https://digitalhub.fifa.com/m/271202c2bf80db17/original/adjlwts3o6c57g0skqor-pdf.pdf |title=UEFA preliminary competition format for the FIFA World Cup 2022 |work=FIFA |format=PDF |date=4 December 2020 |access-date=7 December 2020}}</ref>
+
+The group winners, Belgium, qualified directly for the World Cup finals, while the runners-up, Wales, and the third-placed team, the Czech Republic, advanced to the [[2022 FIFA World Cup qualification – UEFA second round|second round (play-offs)]].
+
+==Standings==
+<onlyinclude>{{#invoke:Sports table|main|style=WDL
+|show_matches=y
+|class_rules=[[2022 FIFA World Cup qualification#Tiebreakers|Tiebreakers]]
+|source=[https://www.fifa.com/tournaments/mens/worldcup/qatar2022/qualifiers/uefa FIFA], [https://www.uefa.com/european-qualifiers/standings/#grp-2007932 UEFA]
+
+<!--Update team positions below (check tiebreakers)-->
+|team_order=BEL, WAL, CZE, EST, BLR
+
+<!--Update team results below (including date)-->
+|update=complete
+|win_BEL=6 |draw_BEL=2 |loss_BEL=0 |gf_BEL=25|ga_BEL=6
+|win_WAL=4 |draw_WAL=3 |loss_WAL=1 |gf_WAL=14|ga_WAL=9
+|win_CZE=4 |draw_CZE=2 |loss_CZE=2 |gf_CZE=14|ga_CZE=9
+|win_BLR=1 |draw_BLR=0 |loss_BLR=7 |gf_BLR=7 |ga_BLR=24
+|win_EST=1 |draw_EST=1 |loss_EST=6 |gf_EST=9 |ga_EST=21
+
+<!--Update match results below-->
+|match_BEL_WAL=[[2022 FIFA World Cup qualification – UEFA Group E#Belgium v Wales|3–1]]
+|match_BEL_CZE=[[2022 FIFA World Cup qualification – UEFA Group E#Belgium v Czech Republic|3–0]]
+|match_BEL_BLR=[[2022 FIFA World Cup qualification – UEFA Group E#Belgium v Belarus|8–0]]
+|match_BEL_EST=[[2022 FIFA World Cup qualification – UEFA Group E#Belgium v Estonia|3–1]]
+
+|match_WAL_BEL=[[2022 FIFA World Cup qualification – UEFA Group E#Wales v Belgium|1–1]]
+|match_WAL_CZE=[[2022 FIFA World Cup qualification – UEFA Group E#Wales v Czech Republic|1–0]]
+|match_WAL_BLR=[[2022 FIFA World Cup qualification – UEFA Group E#Wales v Belarus|5–1]]
+|match_WAL_EST=[[2022 FIFA World Cup qualification – UEFA Group E#Wales v Estonia|0–0]]
+
+|match_CZE_BEL=[[2022 FIFA World Cup qualification – UEFA Group E#Czech Republic v Belgium|1–1]]
+|match_CZE_WAL=[[2022 FIFA World Cup qualification – UEFA Group E#Czech Republic v Wales|2–2]]
+|match_CZE_BLR=[[2022 FIFA World Cup qualification – UEFA Group E#Czech Republic v Belarus|1–0]]
+|match_CZE_EST=[[2022 FIFA World Cup qualification – UEFA Group E#Czech Republic v Estonia|2–0]]
+
+|match_BLR_BEL=[[2022 FIFA World Cup qualification – UEFA Group E#Belarus v Belgium|0–1]]
+|match_BLR_WAL=[[2022 FIFA World Cup qualification – UEFA Group E#Belarus v Wales|2–3]]
+|match_BLR_CZE=[[2022 FIFA World Cup qualification – UEFA Group E#Belarus v Czech Republic|0–2]]
+|match_BLR_EST=[[2022 FIFA World Cup qualification – UEFA Group E#Belarus v Estonia|4–2]]
+
+|match_EST_BEL=[[2022 FIFA World Cup qualification – UEFA Group E#Estonia v Belgium|2–5]]
+|match_EST_WAL=[[2022 FIFA World Cup qualification – UEFA Group E#Estonia v Wales|0–1]]
+|match_EST_CZE=[[2022 FIFA World Cup qualification – UEFA Group E#Estonia v Czech Republic|2–6]]
+|match_EST_BLR=[[2022 FIFA World Cup qualification – UEFA Group E#Estonia v Belarus|2–0]]
+
+<!--Team definitions-->
+|name_BEL={{fb|BEL}} |short_BEL={{flagdeco|BEL}}
+|name_WAL={{fb|WAL}} |short_WAL={{flagdeco|WAL}}
+|name_CZE={{fb|CZE}} |short_CZE={{flagdeco|CZE}}
+|name_BLR={{fb|BLR}} |short_BLR={{flagdeco|BLR}}
+|name_EST={{fb|EST}} |short_EST={{flagdeco|EST}}
+
+<!--Qualification column definitions-->
+|res_col_header=Q
+|result1=WC |result2=PO |result3=PO-NL
+|col_WC=green1  |text_WC=Qualification for [[2022 FIFA World Cup]]
+|col_PO=blue1   |text_PO=Advance to [[2022 FIFA World Cup qualification – UEFA second round|play-offs]]
+|col_PO-NL=blue1|text_PO-NL=Advance to [[2022 FIFA World Cup qualification – UEFA second round|play-offs]] via [[2020–21 UEFA Nations League#2022 World Cup qualification play-offs|Nations League]]
+}}</onlyinclude>
+
+==Matches==
+The fixture list was confirmed by UEFA on 8 December 2020, the day following the draw.<ref>{{cite web |url=https://www.uefa.com/european-qualifiers/news/0264-110cbe0bf3c8-20065adb8f46-1000/ |title=European Qualifiers for 2022 World Cup: all the fixtures |work=UEFA |date=9 December 2020 |access-date=12 December 2020}}</ref><ref>{{cite web |url=https://editorial.uefa.com/resources/0264-110ace207077-148a7a2a0834-1000/worldcupfixtures.pdf |title=Fixture List – European Qualifiers 2020–2022: FIFA World Cup Preliminary Competition |work=UEFA |date=8 December 2020 |access-date=8 December 2020}}</ref><ref>{{cite web |url=https://editorial.uefa.com/resources/0264-110ad8d233bb-8b2abff6c4d7-1000/eq_2020-22_-_fixtures_list_by_groups.pdf |title=Fixture List by Group – European Qualifiers 2020–2022: FIFA World Cup Preliminary Competition |work=UEFA |date=8 December 2020 |access-date=8 December 2020}}</ref> Times are [[Central European Time|CET]]/[[Central European Summer Time|CEST]],{{refn|group=note|[[Central European Time|CET]] ([[UTC+01:00|UTC+1]]) for matches until 27 March and from 31 October (matchday 1–2 and 9–10), and [[Central European Summer Time|CEST]] ([[UTC+02:00|UTC+2]]) for matches from 28 March to 30 October 2021 (matchday 3–8).}} as listed by UEFA (local times, if different, are in parentheses).
+
+{{Football box
+|id=Belgium v Wales
+|date={{Start date|2021|3|24|df=y}}
+|time=20:45
+|team1={{fb-rt|BEL}}
+|score=3–1
+|report=[https://www.fifa.com/tournaments/mens/worldcup/qatar2022/qualifiers/uefa/match-center/400155635 Report (FIFA)]<br />[https://www.uefa.com/european-qualifiers/match/2030764/ Report (UEFA)]
+|team2={{fb|WAL}}
+|goals1=
+*[[Kevin De Bruyne|De Bruyne]] {{goal|22}}
+*[[Thorgan Hazard|T. Hazard]] {{goal|28}}
+*[[Romelu Lukaku|Lukaku]] {{goal|73|pen.}}
+|goals2=
+*[[Harry Wilson (footballer, born 1997)|Wilson]] {{goal|11}}
+|stadium=[[Den Dreef]], [[Leuven]]
+|attendance=0<ref>{{UEFA match attendance|2030764|Belgium vs. Wales |date=24 March 2021|access-date=1 April 2021}}</ref>{{refn|group=note|name=Behind closed doors 1|Due to the [[COVID-19 pandemic in Europe]], the match was played [[Behind closed doors (sport)|behind closed doors]].}}
+|referee=[[Cüneyt Çakır]] ([[Turkish Football Federation|Turkey]])
+}}
+{{Football box
+|id=Estonia v Czech Republic
+|date={{Start date|2021|3|24|df=y}}
+|time=20:45
+|team1={{fb-rt|EST}}
+|score=2–6
+|report=[https://www.fifa.com/tournaments/mens/worldcup/qatar2022/qualifiers/uefa/match-center/400155639 Report (FIFA)]<br />[https://www.uefa.com/european-qualifiers/match/2030767/ Report (UEFA)]
+|team2={{fb|CZE}}
+|goals1=
+*[[Rauno Sappinen|Sappinen]] {{goal|12}}
+*[[Henri Anier|Anier]] {{goal|86}}
+|goals2=
+*[[Patrik Schick|Schick]] {{goal|18}}
+*[[Antonín Barák|Barák]] {{goal|27}}
+*[[Tomáš Souček|Souček]] {{goal|32||43||48}}
+*[[Jakub Jankto|Jankto]] {{goal|56}}
+|stadium=[[Arena Lublin]], [[Lublin]] (Poland)
+|attendance=0<ref>{{UEFA match attendance|2030767|Estonia vs. Czech Republic |date=24 March 2021|access-date=1 April 2021}}</ref>{{refn|group=note|name=Behind closed doors 1}}
+|referee=[[Anastasios Papapetrou]] ([[Hellenic Football Federation|Greece]])
+}}
+----
+{{Football box
+|id=Belarus v Estonia
+|date={{Start date|2021|3|27|df=y}}
+|time=18:00 {{small|(20:00 [[UTC+03:00|UTC+3]])}}
+|team1={{fb-rt|BLR}}
+|score=4–2
+|report=[https://www.fifa.com/tournaments/mens/worldcup/qatar2022/qualifiers/uefa/match-center/400155646 Report (FIFA)]<br />[https://www.uefa.com/european-qualifiers/match/2030792/ Report (UEFA)]
+|team2={{fb|EST}}
+|goals1=
+*[[Vitaly Lisakovich|V. Lisakovich]] {{goal|45|pen.|83}}
+*[[Yury Kendysh|Kendysh]] {{goal|64}}
+*[[Pavel Savitski|Savitski]] {{goal|81}}
+|goals2=
+*[[Henri Anier|Anier]] {{goal|31||55}}
+|stadium=[[Dinamo Stadium (Minsk)|Dinamo Stadium]], [[Minsk]]
+|attendance=3,611<ref>{{UEFA match attendance|2030792|Belarus vs. Estonia |date=27 March 2021|access-date=1 April 2021}}</ref>
+|referee=[[Robert Hennessy]] ([[Football Association of Ireland|Ireland]])
+}}
+{{Football box
+|id=Czech Republic v Belgium
+|date={{Start date|2021|3|27|df=y}}
+|time=20:45
+|team1={{fb-rt|CZE}}
+|score=1–1
+|report=[https://www.fifa.com/tournaments/mens/worldcup/qatar2022/qualifiers/uefa/match-center/400155633 Report (FIFA)]<br />[https://www.uefa.com/european-qualifiers/match/2030788/ Report (UEFA)]
+|team2={{fb|BEL}}
+|goals1=
+*[[Lukáš Provod|Provod]] {{goal|50}}
+|goals2=
+*[[Romelu Lukaku|Lukaku]] {{goal|60}}
+|stadium=[[Sinobo Stadium]], [[Prague]]
+|attendance=0<ref>{{UEFA match attendance|2030788|Czech Republic vs. Belgium |date=27 March 2021|access-date=1 April 2021}}</ref>{{refn|group=note|name=Behind closed doors 1}}
+|referee=[[Willie Collum]] ([[Scottish Football Association|Scotland]])
+}}
+----
+{{Football box
+|id=Belgium v Belarus
+|date={{Start date|2021|3|30|df=y}}
+|time=20:45
+|team1={{fb-rt|BEL}}
+|score=8–0
+|report=[https://www.fifa.com/tournaments/mens/worldcup/qatar2022/qualifiers/uefa/match-center/400155641 Report (FIFA)]<br />[https://www.uefa.com/european-qualifiers/match/2030813/ Report (UEFA)]
+|team2={{fb|BLR}}
+|goals1=
+*[[Michy Batshuayi|Batshuayi]] {{goal|14}}
+*[[Hans Vanaken|Vanaken]] {{goal|17||89}}
+*[[Leandro Trossard|Trossard]] {{goal|38||74}}
+*[[Jérémy Doku|Doku]] {{goal|42}}
+*[[Dennis Praet|Praet]] {{goal|49}}
+*[[Christian Benteke|Benteke]] {{goal|70}}
+|goals2=
+|stadium=[[Den Dreef]], [[Leuven]]
+|attendance=0<ref>{{UEFA match attendance|2030813|Belgium vs. Belarus |date=30 March 2021|access-date=1 April 2021}}</ref>{{refn|group=note|name=Behind closed doors 1}}
+|referee=[[Donatas Rumšas]] ([[Lithuanian Football Federation|Lithuania]])
+}}
+{{Football box
+|id=Wales v Czech Republic
+|date={{Start date|2021|3|30|df=y}}
+|time=20:45 {{small|(19:45 [[UTC+01:00|UTC+1]])}}
+|team1={{fb-rt|WAL}}
+|score=1–0
+|report=[https://www.fifa.com/tournaments/mens/worldcup/qatar2022/qualifiers/uefa/match-center/400155648 Report (FIFA)]<br />[https://www.uefa.com/european-qualifiers/match/2030819/ Report (UEFA)]
+|team2={{fb|CZE}}
+|goals1=
+*[[Daniel James (footballer)|James]] {{goal|82}}
+|goals2=
+|stadium=[[Cardiff City Stadium]], [[Cardiff]]
+|attendance=0<ref>{{UEFA match attendance|2030819|Wales vs. Czech Republic |date=30 March 2021|access-date=1 April 2021}}</ref>{{refn|group=note|name=Behind closed doors 1}}
+|referee=[[Ovidiu Haţegan]] ([[Romanian Football Federation|Romania]])
+}}
+----
+{{Football box
+|id=Czech Republic v Belarus
+|date={{Start date|2021|9|2|df=y}}
+|time=20:45
+|team1={{fb-rt|CZE}}
+|score=1–0
+|report=[https://www.fifa.com/tournaments/mens/worldcup/qatar2022/qualifiers/uefa/match-center/400155634 Report (FIFA)]<br />[https://www.uefa.com/european-qualifiers/match/2030853/ Report (UEFA)]
+|team2={{fb|BLR}}
+|goals1=
+*[[Antonín Barák|Barák]] {{goal|34}}
+|goals2=
+|stadium=[[Městský stadion (Ostrava)|Městský stadion v Ostravě-Vítkovicích]], [[Ostrava]]
+|attendance=7,218<ref>{{UEFA match attendance|2030853|Czech Republic vs. Belarus |date=2 September 2021|access-date=2 September 2021}}</ref>
+|referee=[[Srđan Jovanović (referee)|Srđan Jovanović]] ([[Football Association of Serbia|Serbia]])
+}}
+{{Football box
+|id=Estonia v Belgium
+|date={{Start date|2021|9|2|df=y}}
+|time=20:45 {{small|(21:45 [[UTC+03:00|UTC+3]])}}
+|team1={{fb-rt|EST}}
+|score=2–5
+|report=[https://www.fifa.com/tournaments/mens/worldcup/qatar2022/qualifiers/uefa/match-center/400155638 Report (FIFA)]<br />[https://www.uefa.com/european-qualifiers/match/2030856/ Report (UEFA)]
+|team2={{fb|BEL}}
+|goals1=
+*[[Mattias Käit|Käit]] {{goal|2}}
+*[[Erik Sorga|Sorga]] {{goal|83}}
+|goals2=
+*[[Hans Vanaken|Vanaken]] {{goal|22}}
+*[[Romelu Lukaku|Lukaku]] {{goal|29||52}}
+*[[Axel Witsel|Witsel]] {{goal|65}}
+*[[Thomas Foket|Foket]] {{goal|76}}
+|stadium=[[Lilleküla Stadium]], [[Tallinn]]
+|attendance=6,685<ref>{{UEFA match attendance|2030856|Estonia vs. Belgium |date=2 September 2021|access-date=2 September 2021}}</ref>
+|referee=[[Guillermo Cuadra Fernández]] ([[Royal Spanish Football Federation|Spain]])
+}}
+----
+{{Football box
+|id=Belarus v Wales
+|date={{Start date|2021|9|5|df=y}}
+|time=15:00 {{small|(16:00 [[UTC+03:00|UTC+3]])}}
+|team1={{fb-rt|BLR}}
+|score=2–3
+|report=[https://www.fifa.com/tournaments/mens/worldcup/qatar2022/qualifiers/uefa/match-center/400155651 Report (FIFA)]<br />[https://www.uefa.com/european-qualifiers/match/2030878/ Report (UEFA)]
+|team2={{fb|WAL}}
+|goals1=
+*[[Vitaly Lisakovich|V. Lisakovich]] {{goal|29|pen.}}
+*[[Pavel Sedko|Sedko]] {{goal|31}}
+|goals2=
+*[[Gareth Bale|Bale]] {{goal|6|pen.|69|pen.|90+3}}
+|stadium=[[Central Stadium (Kazan)|Central Stadium]], [[Kazan]] (Russia)<ref name="Belarus">{{Cite web |url=https://apnews.com/article/soccer-sports-russia-europe-international-soccer-5b639b330840eaebd6a6e23f556a951b |title=Belarus ordered to play World Cup home qualifiers in Russia |publisher=AP News |date=31 July 2021 |access-date=1 August 2021}}</ref>
+|attendance=0<ref>{{UEFA match attendance|2030878|Belarus vs. Wales |date=5 September 2021|access-date=5 September 2021}}</ref>{{refn|group=note|name=Behind closed doors 2|The match was played [[Behind closed doors (sport)|behind closed doors]].}}
+|referee= [[Giorgi Kruashvili]] ([[Georgian Football Federation|Georgia]])
+}}
+{{Football box
+|id=Belgium v Czech Republic
+|date={{Start date|2021|9|5|df=y}}
+|time=20:45
+|team1={{fb-rt|BEL}}
+|score=3–0
+|report=[https://www.fifa.com/tournaments/mens/worldcup/qatar2022/qualifiers/uefa/match-center/400155632 Report (FIFA)]<br />[https://www.uefa.com/european-qualifiers/match/2030875/ Report (UEFA)]
+|team2={{fb|CZE}}
+|goals1=
+*[[Romelu Lukaku|Lukaku]] {{goal|8}}
+*[[Eden Hazard|E. Hazard]] {{goal|41}}
+*[[Alexis Saelemaekers|Saelemaekers]] {{goal|65}}
+|goals2=
+|stadium=[[King Baudouin Stadium]], [[Brussels]]
+|attendance=21,416<ref>{{UEFA match attendance|2030875|Belgium vs. Czech Republic |date=5 September 2021|access-date=5 September 2021}}</ref>
+|referee=[[Michael Oliver (referee)|Michael Oliver]] ([[The Football Association|England]])
+}}
+----
+{{Football box
+|id=Belarus v Belgium
+|date={{Start date|2021|9|8|df=y}}
+|time=20:45 {{small|(21:45 [[UTC+03:00|UTC+3]])}}
+|team1={{fb-rt|BLR}}
+|score=0–1
+|report=[https://www.fifa.com/tournaments/mens/worldcup/qatar2022/qualifiers/uefa/match-center/400155645 Report (FIFA)]<br />[https://www.uefa.com/european-qualifiers/match/2030909/ Report (UEFA)]
+|team2={{fb|BEL}}
+|goals1=
+|goals2=
+*[[Dennis Praet|Praet]] {{goal|33}}
+|stadium=[[Central Stadium (Kazan)|Central Stadium]], [[Kazan]] (Russia)<ref name="Belarus"/>
+|attendance=0<ref>{{UEFA match attendance|2030909|Belarus vs. Belgium |date=8 September 2021|access-date=8 September 2021}}</ref>{{refn|group=note|name=Behind closed doors 2}}
+|referee=[[Paweł Raczkowski]] ([[Polish Football Association|Poland]])
+}}
+{{Football box
+|id=Wales v Estonia
+|date={{Start date|2021|9|8|df=y}}
+|time=20:45 {{small|(19:45 [[UTC+01:00|UTC+1]])}}
+|team1={{fb-rt|WAL}}
+|score=0–0
+|report=[https://www.fifa.com/tournaments/mens/worldcup/qatar2022/qualifiers/uefa/match-center/400155649 Report (FIFA)]<br />[https://www.uefa.com/european-qualifiers/match/2030905/ Report (UEFA)]
+|team2={{fb|EST}}
+|goals1=
+|goals2=
+|stadium=[[Cardiff City Stadium]], [[Cardiff]]
+|attendance=21,624<ref>{{UEFA match attendance|2030905|Wales vs. Estonia |date=8 September 2021|access-date=8 September 2021}}</ref>
+|referee=[[Ruddy Buquet]] ([[French Football Federation|France]])
+}}
+----
+{{Football box
+|id=Czech Republic v Wales
+|date={{Start date|2021|10|8|df=y}}
+|time=20:45
+|team1={{fb-rt|CZE}}
+|score=2–2
+|report=[https://www.fifa.com/tournaments/mens/worldcup/qatar2022/qualifiers/uefa/match-center/400155636 Report (FIFA)]<br />[https://www.uefa.com/european-qualifiers/match/2030914/ Report (UEFA)]
+|team2={{fb|WAL}}
+|goals1=
+*[[Jakub Pešek|Pešek]] {{goal|38}}
+*[[Danny Ward (Welsh footballer)|Ward]] {{goal|49|o.g.}}
+|goals2=
+*[[Aaron Ramsey|Ramsey]] {{goal|36}}
+*[[Daniel James (footballer)|James]] {{goal|69}}
+|stadium=[[Sinobo Stadium]], [[Prague]]
+|attendance=16,856<ref>{{UEFA match attendance|2030914|Czech Republic vs. Wales |date=8 October 2021|access-date=8 October 2021}}</ref>
+|referee=[[Deniz Aytekin]] ([[German Football Association|Germany]])
+}}
+{{Football box
+|id=Estonia v Belarus
+|date={{Start date|2021|10|8|df=y}}
+|time=20:45 {{small|(21:45 [[UTC+03:00|UTC+3]])}}
+|team1={{fb-rt|EST}}
+|score=2–0
+|report=[https://www.fifa.com/tournaments/mens/worldcup/qatar2022/qualifiers/uefa/match-center/400155644 Report (FIFA)]<br />[https://www.uefa.com/european-qualifiers/match/2030917/ Report (UEFA)]
+|team2={{fb|BLR}}
+|goals1=
+*[[Erik Sorga|Sorga]] {{goal|58}}
+*[[Sergei Zenjov|Zenjov]] {{goal|90+3}}
+|goals2=
+|stadium=[[Lilleküla Stadium]], [[Tallinn]]
+|attendance=3,597<ref>{{UEFA match attendance|2030917|Estonia vs. Belarus |date=8 October 2021|access-date=8 October 2021}}</ref>
+|referee=[[Mohammed Al-Hakim]] ([[Swedish Football Association|Sweden]])
+}}
+----
+{{Football box
+|id=Belarus v Czech Republic
+|date={{Start date|2021|10|11|df=y}}
+|time=20:45 {{small|(21:45 [[UTC+03:00|UTC+3]])}}
+|team1={{fb-rt|BLR}}
+|score=0–2
+|report=[https://www.fifa.com/tournaments/mens/worldcup/qatar2022/qualifiers/uefa/match-center/400155647 Report (FIFA)]<br />[https://www.uefa.com/european-qualifiers/match/2030946/ Report (UEFA)]
+|team2={{fb|CZE}}
+|goals1=
+|goals2=
+*[[Patrik Schick|Schick]] {{goal|22}}
+*[[Adam Hložek|Hložek]] {{goal|65}}
+|stadium=[[Central Stadium (Kazan)|Central Stadium]], [[Kazan]] (Russia)
+|attendance=0<ref>{{UEFA match attendance|2030946|Belarus vs. Czech Republic |date=11 October 2021|access-date=11 October 2021}}</ref>{{refn|group=note|name=Behind closed doors 2}}
+|referee=[[François Letexier]] ([[French Football Federation|France]])
+}}
+{{Football box
+|id=Estonia v Wales
+|date={{Start date|2021|10|11|df=y}}
+|time=20:45 {{small|(21:45 [[UTC+03:00|UTC+3]])}}
+|team1={{fb-rt|EST}}
+|score=0–1
+|report=[https://www.fifa.com/tournaments/mens/worldcup/qatar2022/qualifiers/uefa/match-center/400155640 Report (FIFA)]<br />[https://www.uefa.com/european-qualifiers/match/2030940/ Report (UEFA)]
+|team2={{fb|WAL}}
+|goals1=
+|goals2=
+*[[Kieffer Moore|Moore]] {{goal|12}}
+|stadium=[[Lilleküla Stadium]], [[Tallinn]]
+|attendance=5,118<ref>{{UEFA match attendance|2030940|Estonia vs. Wales |date=11 October 2021|access-date=11 October 2021}}</ref>
+|referee=[[Sandro Schärer]] ([[Swiss Football Association|Switzerland]])
+}}
+----
+{{Football box
+|id=Belgium v Estonia
+|date={{Start date|2021|11|13|df=y}}
+|time=20:45
+|team1={{fb-rt|BEL}}
+|score=3–1
+|report=[https://www.fifa.com/tournaments/mens/worldcup/qatar2022/qualifiers/uefa/match-center/400155642 Report (FIFA)]<br />[https://www.uefa.com/european-qualifiers/match/2030983/ Report (UEFA)]
+|team2={{fb|EST}}
+|goals1=
+*[[Christian Benteke|Benteke]] {{goal|11}}
+*[[Yannick Carrasco|Carrasco]] {{goal|53}}
+*[[Thorgan Hazard|T. Hazard]] {{goal|74}}
+|goals2=
+*[[Erik Sorga|Sorga]] {{goal|70}}
+|stadium=[[King Baudouin Stadium]], [[Brussels]]
+|attendance=29,865<ref>{{UEFA match attendance|2030983|Belgium vs. Estonia |date=13 November 2021|access-date=13 November 2021}}</ref>
+|referee=[[Halil Umut Meler]] ([[Turkish Football Federation|Turkey]])
+}}
+{{Football box
+|id=Wales v Belarus
+|date={{Start date|2021|11|13|df=y}}
+|time=20:45 {{small|(19:45 [[UTC±00:00|UTC±0]])}}
+|team1={{fb-rt|WAL}}
+|score=5–1
+|report=[https://www.fifa.com/tournaments/mens/worldcup/qatar2022/qualifiers/uefa/match-center/400155650 Report (FIFA)]<br />[https://www.uefa.com/european-qualifiers/match/2030985/ Report (UEFA)]
+|team2={{fb|BLR}}
+|goals1=
+*[[Aaron Ramsey|Ramsey]] {{goal|3||50|pen.}}
+*[[Neco Williams|N. Williams]] {{goal|20}}
+*[[Ben Davies (footballer, born 1993)|B. Davies]] {{goal|77}}
+*[[Connor Roberts (footballer, born 1995)|C. Roberts]] {{goal|89}}
+|goals2=
+*[[Artem Kontsevoy (footballer, born 1999)|Kontsevoy]] {{goal|87}}
+|stadium=[[Cardiff City Stadium]], [[Cardiff]]
+|attendance=27,152<ref>{{UEFA match attendance|2030985|Wales vs. Belarus |date=13 November 2021|access-date=13 November 2021}}</ref>
+|referee=[[Maurizio Mariani]] ([[Italian Football Federation|Italy]])
+}}
+----
+{{Football box
+|id=Czech Republic v Estonia
+|date={{Start date|2021|11|16|df=y}}
+|time=20:45
+|team1={{fb-rt|CZE}}
+|score=2–0
+|report=[https://www.fifa.com/tournaments/mens/worldcup/qatar2022/qualifiers/uefa/match-center/400155637 Report (FIFA)]<br />[https://www.uefa.com/european-qualifiers/match/2031006/ Report (UEFA)]
+|team2={{fb|EST}}
+|goals1=
+*[[Jakub Brabec|Brabec]] {{goal|59}}
+*[[Jan Sýkora|Sýkora]] {{goal|85}}
+|goals2=
+|stadium=[[Stadion Letná]], [[Prague]]
+|attendance=10,076<ref>{{UEFA match attendance|2031006|Czech Republic vs. Estonia |date=16 November 2021|access-date=16 November 2021}}</ref>
+|referee=[[Orel Grinfeld]] ([[Israel Football Association|Israel]])
+}}
+{{Football box
+|id=Wales v Belgium
+|date={{Start date|2021|11|16|df=y}}
+|time=20:45 {{small|(19:45 [[UTC±00:00|UTC±0]])}}
+|team1={{fb-rt|WAL}}
+|score=1–1
+|report=[https://www.fifa.com/tournaments/mens/worldcup/qatar2022/qualifiers/uefa/match-center/400155643 Report (FIFA)]<br />[https://www.uefa.com/european-qualifiers/match/2031008/ Report (UEFA)]
+|team2={{fb|BEL}}
+|goals1=
+*[[Kieffer Moore|Moore]] {{goal|32}}
+|goals2=
+*[[Kevin De Bruyne|De Bruyne]] {{goal|12}}
+|stadium=[[Cardiff City Stadium]], [[Cardiff]]
+|attendance=32,343<ref>{{UEFA match attendance|2031008|Wales vs. Belgium |date=16 November 2021|access-date=16 November 2021}}</ref>
+|referee=[[Artur Soares Dias]] ([[Portuguese Football Federation|Portugal]])
+}}
+
+==Goalscorers==
+{{#invoke:Goalscorers|main|2022 FIFA World Cup qualification (UEFA)|round=group|group=E}}<!--CAREFULLY update goalscorers at Module:Goalscorers/data/2022 FIFA World Cup qualification (UEFA)-->
+
+==Discipline==
+A player was automatically suspended for the next match for the following offences:<ref name="regulations">{{cite web |url=https://digitalhub.fifa.com/m/517ef2ad2bc3665e/original/ytkbpnxyvcghx6bebesv-pdf.pdf |title=Regulations FIFA World Cup 2022 Preliminary Competition |website=FIFA.com |publisher=Fédération Internationale de Football Association |format=PDF |year=2020 |access-date=7 December 2020}}</ref>
+* Receiving a red card (red card suspensions could be extended for serious offences)
+* Receiving two yellow cards in two different matches (yellow card suspensions were carried forward to the play-offs, but not the finals or any other future international matches)
+The following suspensions were served during the qualifying matches:
+
+{|class="wikitable" style="font-size:90%"
+|-
+!Team
+!Player
+!Offence(s)
+!Suspended for match(es)
+|-
+|rowspan=2|{{fb|BLR}} ||[[Artyom Bykov]] ||{{yel}} vs Wales (5 September 2021)<br>{{yel}} vs Czech Republic (11 October 2021) ||vs Wales (13 November 2021)
+|-
+|[[Max Ebong]] ||{{yel}} vs Czech Republic (2 September 2021)<br>{{yel}} vs Belgium (8 September 2021) ||vs Estonia (8 October 2021)
+|-
+|rowspan=2|{{fb|BEL}} ||[[Romelu Lukaku]] ||{{yel}} vs Estonia (2 September 2021)<br>{{yel}} vs Czech Republic (5 September 2021) ||rowspan=2|vs Belarus (8 September 2021)
+|-
+|[[Jan Vertonghen]] ||{{yel}} vs Czech Republic (27 March 2021)<br>{{yel}} vs Czech Republic (5 September 2021)
+|-
+|rowspan=2|{{fb|CZE}} ||[[Antonín Barák]] ||{{yel}} vs Belgium (5 September 2021)<br>{{yel}} vs Wales (8 October 2021) ||vs Belarus (11 October 2021)
+|-
+|[[Patrik Schick]] ||{{sent off|0}} vs Wales (30 March 2021) ||vs Belarus (2 September 2021)<br>vs Belgium (5 September 2021)<ref>{{cite web |url=https://editorial.uefa.com/resources/026c-12fb25f711c9-fd6859a07b41-1000/fifa_wc_eq_all_groups_before_md4.pdf |title=Booking list |website=UEFA.com |date=10 August 2021 |access-date=1 September 2021}}</ref>
+|-
+|rowspan=4|{{fb|EST}} ||[[Henri Anier]] ||{{yel}} vs Belarus (27 March 2021)<br>{{yel}} vs Belarus (8 October 2021) ||rowspan=2|vs Wales (11 October 2021)
+|-
+|[[Vladislav Kreida]] ||{{yel}} vs Wales (8 September 2021)<br>{{yel}} vs Belarus (8 October 2021)
+|-
+|[[Märten Kuusk]] ||{{yel}} vs Belarus (27 March 2021)<br>{{yel}} vs Wales (11 October 2021) ||vs Belgium (13 November 2021)
+|-
+|[[Karl Rudolf Õigus]] ||{{sent off|2}} vs Belarus (27 March 2021) ||vs Belgium (2 September 2021)
+|-
+|rowspan=4|{{fb|WAL}} ||[[Ethan Ampadu]] ||{{yel}} vs Czech Republic (8 October 2021)<br>{{yel}} vs Belarus (13 November 2021) ||vs Belgium (16 November 2021)
+|-
+|[[Kieffer Moore]] ||{{yel}} vs Czech Republic (8 October 2021)<br>{{yel}} vs Estonia (11 October 2021) ||vs Belarus (13 November 2021)
+|-
+|[[Connor Roberts (footballer, born 1995)|Connor Roberts]] ||{{sent off|2}} vs Czech Republic (30 March 2021) ||rowspan=2|vs Belarus (5 September 2021)
+|-
+|[[Harry Wilson (footballer, born 1997)|Harry Wilson]] ||{{sent off|0}} vs Denmark in [[UEFA Euro 2020]] (26 June 2021)<ref>{{cite web |url=https://editorial.uefa.com/resources/026c-12fb25f711c9-fd6859a07b41-1000/fifa_wc_eq_all_groups_before_md4.pdf |title=Booking list |website=UEFA.com |date=10 August 2021 |access-date=1 September 2021}}</ref>
+|}
+
+==Notes==
+{{reflist|group=note}}
+
+==References==
+{{reflist}}
+
+==External links==
+*{{Official website|https://www.fifa.com/tournaments/mens/worldcup/qatar2022/qualifiers|Official FIFA World Cup website}}
+*[https://www.fifa.com/tournaments/mens/worldcup/qatar2022/qualifiers/uefa Qualifiers – Europe], FIFA.com
+*[https://www.uefa.com/european-qualifiers/ European Qualifiers], UEFA.com
+
+{{2022 FIFA World Cup qualification}}
+
+{{DEFAULTSORT:World Cup qualifying}}
+[[Category:2022 FIFA World Cup qualification (UEFA)|Group E]]
+[[Category:2021 in Belarusian football]]
+[[Category:2020–21 in Belgian football]]
+[[Category:2021–22 in Belgian football]]
+[[Category:Belgium at the 2022 FIFA World Cup]]
+[[Category:2020–21 in Czech football]]
+[[Category:2021–22 in Czech football]]
+[[Category:2021 in Estonian football]]
+[[Category:2020–21 in Welsh football]]
+[[Category:2021–22 in Welsh football]]
+[[Category:Wales at the 2022 FIFA World Cup]]

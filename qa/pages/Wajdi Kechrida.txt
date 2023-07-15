@@ -1,0 +1,105 @@
+{{Short description|Footballer (born 1995)}}
+{{Use dmy dates|date=August 2021}}
+{{Infobox football biography
+| name = Wajdi Kechrida
+| image = 
+| full_name = Wajdi Kechrida<ref name="FIFA 2022">{{cite web |url=https://fdp.fifa.org/assetspublic/ce44/pdf/SquadLists-English.pdf |title=FIFA World Cup Qatar 2022 – Squad list: Tunisia (TUN) |publisher=[[FIFA]] |page=29 |date=15 November 2022 |access-date=15 November 2022}}</ref>
+| birth_date = {{birth date and age|df=yes|1995|11|5}}<ref name="FIFA 2022"/>
+| birth_place = [[Nice]], France<ref name="nft"/>
+| height = 1.77 m<ref name="FIFA 2022"/>
+| position = [[Right-back]]
+| currentclub = [[Atromitos F.C.|Atromitos]]
+| clubnumber = 2
+| years1 = 2016–2021
+| clubs1 = [[Étoile Sportive du Sahel|Étoile du Sahel]]
+| caps1 = 72
+| goals1 = 1
+| years2 = 2021–2022
+| clubs2 = [[U.S. Salernitana 1919|Salernitana]]
+| caps2 = 17
+| goals2 = 0
+| years3 = 2022–
+| clubs3 = [[Atromitos F.C.|Atromitos]]
+| caps3 = 30
+| goals3 = 1
+| nationalyears1 = 2015
+| nationalteam1 = [[Tunisia national under-23 football team|Tunisia U23]]
+| nationalcaps1 = 3
+| nationalgoals1 = 0
+| nationalyears2 = 2019–
+| nationalteam2 = [[Tunisia national football team|Tunisia]]
+| nationalcaps2 = 22
+| nationalgoals2 = 0
+| club-update = 13 May 2023
+| nationalteam-update = 00:35, 10 December 2022 (UTC)
+}}
+
+'''Wajdi Kechrida''' ({{lang-ar|وجدي كشريدة}}; born 5 November 1995) is a professional [[Association football|footballer]] who plays as a [[right-back]] for [[Super League Greece]] club [[Atromitos F.C.|Atromitos]]. Born in France, he plays for the [[Tunisia national football team|Tunisia national team]].
+
+==Club career==
+Kechrida made his professional debut for [[Étoile Sportive du Sahel]] in a 3–0 [[Tunisian Ligue Professionnelle 1]] win over [[ES Zarzis]] on 10 September 2016.<ref>{{cite web|url=https://int.soccerway.com/matches/2016/09/10/tunisia/ligue-1/esperance-sportive-de-zarzis/etoile-sportive-du-sahel/2339489/|title=Zarzis vs. Étoile Sahel - 10 septembre 2016 - Soccerway|website=int.soccerway.com}}</ref>
+
+On 31 July 2021 he was purchased by [[U.S. Salernitana 1919]],<ref>{{cite web | url=https://www.ussalernitana1919.it/lassana-coulibaly-e-wajdi-kechrida-sono-giocatori-della-salernitana/ | title=Lassana Coulibaly e Wajdi Kechrida sono giocatori della Salernitana – US Salernitana 1919 &#124; Sito ufficiale della U.S. Salernitana 1919 }}</ref> strongly desired by Salernitana's manager Angelo Mariano Fabiani. He made his first appearance in the [[Coppa Italia]] match against [[Reggina 1914|Reggina]], won 2-0 by Salernitana, and his debut in [[Serie A]] in the first day of the season against [[Bologna F.C. 1909|Bologna]].<ref>{{Cite web |title=Bologna-Salernitana 3-2: vittoria in rimonta per Mihajlovic |url=https://tuttosport.com/news/calcio/serie-a/2021/08/22-84710218/bologna-salernitana_3-2_vittoria_in_rimonta_per_mihajlovic |access-date=2022-11-30 |website=tuttosport.com |language=it}}</ref>
+
+On 29 August 2022, Kechrida signed a two-year contract with [[Atromitos F.C.|Atromitos]] in Greece.<ref>{{cite web|publisher=Atromitos|url=https://www.atromitosfc.gr/transfers/enarksi-synergasias-me-ton-ouaznti-kesxrinta/|title=Έναρξη συνεργασίας με τον Ουαζντί Κεσχρίντα|date=29 August 2022|access-date=29 August 2022|language=el}}</ref>
+
+==International career==
+Kechrida made his debut for the [[Tunisia national football team|Tunisia]] in a [[2019 Africa Cup of Nations qualification]] 4–0 win over [[Eswatini national football team|Eswatini]] on 22 March 2019.<ref>{{cite web|url=http://www.cafonline.com/en-us/competitions/32ndeditionoftotalafricacupofnations/MatchDetails?MatchId=34XPQaH06nqiUoCNfk0j2Cr3K5+hfqDSHFGfl5zGwvFlSynONLPmoQNexRyQrghs|title=CAF - Competitions - 32nd Edition of Total Africa Cup of Nations - Match Details|website=www.cafonline.com}}</ref>
+
+==Career statistics==
+
+===International===
+{{Updated|matches played on 17 July 2019}}<ref name="nft">{{NFT|73936}}</ref>
+
+{| class="wikitable" style="text-align:center"
+|+ Appearances and goals by national team and year
+|-
+!National team!!Year!!Apps!!Goals
+|-
+|[[Tunisia national football team|Tunisia]]
+|2019||8||0
+|-
+!colspan="2"|Total!!8!!0
+|}
+
+==References==
+{{reflist}}
+
+==External links==
+* {{Soccerway|wajdi-kechrida/449538}}
+
+{{Atromitos F.C. squad}}
+{{Navboxes colour
+|title=Tunisia squads
+|bg=white
+|fg=#E70013
+|list1=
+{{Tunisia squad 2019 Africa Cup of Nations}}
+{{Tunisia squad 2022 FIFA World Cup}}
+}}
+
+{{DEFAULTSORT:Kechrida, Wajdi}}
+[[Category:1995 births]]
+[[Category:Living people]]
+[[Category:Footballers from Nice]]
+[[Category:Tunisian men's footballers]]
+[[Category:Men's association football midfielders]]
+[[Category:Tunisia men's international footballers]]
+[[Category:Tunisia men's under-23 international footballers]]
+[[Category:French men's footballers]]
+[[Category:French expatriate sportspeople in Italy]]
+[[Category:French expatriate sportspeople in Greece]]
+[[Category:French sportspeople of Tunisian descent]]
+[[Category:2019 Africa Cup of Nations players]]
+[[Category:Tunisian Ligue Professionnelle 1 players]]
+[[Category:Serie A players]]
+[[Category:Super League Greece players]]
+[[Category:Étoile Sportive du Sahel players]]
+[[Category:US Salernitana 1919 players]]
+[[Category:Atromitos F.C. players]]
+[[Category:Tunisian expatriate men's footballers]]
+[[Category:Tunisian expatriate sportspeople in Italy]]
+[[Category:Expatriate men's footballers in Italy]]
+[[Category:Tunisian expatriate sportspeople in Greece]]
+[[Category:Expatriate men's footballers in Greece]]
+[[Category:2022 FIFA World Cup players]]

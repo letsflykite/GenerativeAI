@@ -1,0 +1,112 @@
+{{Use dmy dates|date=November 2022}}
+{{short description|Saudi Arabian footballer}}
+{{Infobox football biography
+| name = Haitham Asiri
+| image = 
+| caption = 
+| fullname = Haitham Mohammed Ali Abu Hawi Asiri<ref name="SW"/>
+| birth_date = {{birth date and age|2001|03|25|df=y}}<ref name="FIFA Arab 2021">{{cite web |url=https://fdp.fifa.org/assetspublic/ce14/pdf/SquadLists-English.pdf |title=FIFA Arab Cup Qatar 2021: List of players: Saudi Arabia |publisher=[[FIFA]] |page=12 |date=4 December 2021 |access-date=14 December 2022}}</ref>
+| birth_place = [[Riyadh]], Saudi Arabia
+| height = 1.74 m<ref name="FIFA Arab 2021"/>
+| currentclub = [[Al-Ahli Saudi FC|Al-Ahli]]
+| clubnumber = 17
+| position = [[Forward (association football)|Winger]]
+| youthyears1 = 
+| youthclubs1 = [[Al-Ahli Saudi FC|Al-Ahli]]
+| years1 = 2020–
+| clubs1 = [[Al-Ahli Saudi FC|Al-Ahli]]
+| caps1 = 34
+| goals1 = 9
+| nationalyears1 = 2018–2020
+| nationalteam1 = [[Saudi Arabia national under-20 football team|Saudi Arabia U20]]
+| nationalyears2 = 2021–
+| nationalteam2 = [[Saudi Arabia national under-23 football team|Saudi Arabia U23]]
+| nationalyears3 = 2021–
+| nationalteam3 = [[Saudi Arabia national football team|Saudi Arabia]]
+| nationalcaps3 = 10
+| nationalgoals3 = 1
+| club-update = 20:40, 14 January 2023 (UTC)
+| nationalteam-update = 28 March 2023
+}}
+
+'''Haitham Mohammed Ali Abu Hawi Asiri''' ({{lang-ar|هيثم محمد علي أبو حاوي عسيري}}; born 25 March 2001) is a Saudi Arabian professional [[Association football|footballer]] who plays as a [[Forward (association football)|winger]] for [[Al-Ahli Saudi FC|Al-Ahli]] and the [[Saudi Arabia national football team|Saudi Arabia national team]].<ref>{{cite web |title=هيثم محمد عسيري - Asiri Haitham |url=https://www.kooora.com/?player=128060}}</ref>
+
+==Career statistics==
+===Club===
+{{updated|14 January 2023.}}<ref name="SW">{{Soccerway|asiri-haitham/662332|accessdate=6 August 2020}}</ref>
+
+{| class="wikitable" style="text-align: center"
+|-
+!rowspan="2"|Club
+!rowspan="2"|Season
+!colspan="3"|League
+!colspan="2"|Cup
+!colspan="2"|Continental
+!colspan="2"|Total
+|-
+!Division
+!Apps
+!Goals
+!Apps
+!Goals
+!Apps
+!Goals
+!Apps
+!Goals
+|-
+|rowspan=4|[[Al-Ahli Saudi FC|Al-Ahli]]
+|[[2019–20 Al-Ahli Saudi FC season|2019–20]]
+|[[Saudi Professional League|Saudi Pro League]]
+|2||1||0||0||5||0||7||1
+|-
+|[[2020–21 Al-Ahli Saudi FC season|2020–21]]
+|Saudi Pro League
+|5||0||0||0||2||1||7||1
+|-
+|[[2021–22 Al-Ahli Saudi FC season|2021–22]]
+|Saudi Pro League
+|22||2||2||0||colspan=2|–||24||2
+|-
+! colspan=2 | Total
+!29!!3!!2!!0!!7!!1!!38!!4
+|-
+! colspan=3 | Career total
+!29!!3!!2!!0!!7!!1!!38!!4
+|}
+;Notes
+{{Reflist|group=lower-alpha}}
+
+===International===
+:''Scores and results list Saudi Arabia's goal tally first.''
+
+{| class="wikitable"
+! No. !! Date !! Venue !! Opponent !! Score !! Result !! Competition
+|- 
+| 1.|| 10 November 2022 || [[Sheikh Zayed Cricket Stadium]], [[Abu Dhabi]], United Arab Emirates ||  {{fb|PAN}} || align=center|'''1'''–1 || align=center| 1–1 || Friendly
+|}
+
+==Honours==
+'''Saudi Arabia U-23'''
+*[[AFC U-23 Asian Cup]]: [[2022 AFC U-23 Asian Cup|2022]]
+
+==References==
+{{reflist}}
+
+==External links==
+* {{NFT player}}
+
+{{Al-Ahli Saudi FC squad}}
+{{Saudi Arabia squad 2022 FIFA World Cup}}
+
+{{DEFAULTSORT:Asiri, Haitham}}
+[[Category:2001 births]]
+[[Category:Living people]]
+[[Category:People from 'Asir Province]]
+[[Category:Saudi Arabian men's footballers]]
+[[Category:Saudi Arabia men's youth international footballers]]
+[[Category:Saudi Arabia men's international footballers]]
+[[Category:Men's association football wingers]]
+[[Category:Saudi Professional League players]]
+[[Category:Saudi First Division League players]]
+[[Category:Al Ahli Saudi FC players]]
+[[Category:2022 FIFA World Cup players]]

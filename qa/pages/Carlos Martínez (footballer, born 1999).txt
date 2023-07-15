@@ -1,0 +1,90 @@
+{{Use dmy dates|date=November 2022}}
+{{short description|Costa Rican footballer}}
+{{family name hatnote|Martínez|Castro|lang=Spanish}}
+{{Infobox football biography
+|name= Carlos Martínez
+|image= Eupen-cologne 2.jpg
+|fullname= Carlos Manuel Martínez Castro<ref name="FIFA 2022">{{cite web |url=https://fdp.fifa.org/assetspublic/ce44/pdf/SquadLists-English.pdf |title=FIFA World Cup Qatar 2022 – Squad list: Costa Rica (CRC) |publisher=[[FIFA]] |page=7 |date=15 November 2022 |access-date=15 November 2022}}</ref>
+|birth_date= {{birth date and age|df=yes|1999|3|30}}<ref name="FIFA 2022"/>
+|birth_place= [[Santa Ana, Costa Rica|Santa Ana]], Costa Rica
+|position= [[Defender (association football)|Defender]], [[midfielder]]
+|height= 1.76 m<ref name="FIFA 2022"/>
+|currentclub= [[A.D. San Carlos|San Carlos]]
+|youthyears1= 2015–2017
+|youthclubs1= [[Aspire Academy]]
+|years1= 2017–2018
+|clubs1= [[K.A.S. Eupen|Eupen]]
+|caps1= 0
+|goals1= 0
+|years2= 2019
+|clubs2= [[C.S. Herediano|Herediano]]
+|caps2= 1
+|goals2= 0
+|years3= 2019–2020
+|clubs3= [[Guadalupe F.C.|Guadalupe]]
+|caps3= 31
+|goals3= 0
+|years4= 2020–
+|clubs4= [[A.D. San Carlos|San Carlos]]
+|caps4= 54
+|goals4= 2
+| nationalyears1 = 2018
+| nationalteam1  = [[Costa Rica national under-20 football team|Costa Rica U20]]
+| nationalcaps1  = 5
+| nationalgoals1 = 0
+| nationalyears2 = 2022–
+| nationalteam2  = [[Costa Rica national football team|Costa Rica]]
+| nationalcaps2  = 3
+| nationalgoals2 = 0
+}}
+
+'''Carlos Manuel Martínez Castro''' (born 30 March 1999) is a Costa Rican [[Association football|footballer]] who plays as a [[Defender (association football)|defender]] or [[midfielder]] for [[A.D. San Carlos|San Carlos]]. He is a Costa Rica international.<ref>{{Cite web|url=https://espndeportes.espn.com/futbol/costa-rica/nota/_/id/10147082/mama-carlos-martinez-lloro-felicidad-hijo-alcanzando-sueno-cumpleanos|title=Mamá de Carlos Martínez lloró de felicidad al ver a su hijo alcanzando un sueño el día de su cumpleaños|date=31 March 2022 |publisher=espndeportes.espn.com}}</ref><ref>{{Cite web|url=https://www.teletica.com/la-sele/carlos-martinez-tuvo-una-charla-con-bora-milutinovic-que-cambio-su-carrera_306671|title=Carlos Martínez tuvo una charla con "Bora" Milutinović que cambió su carrera|date=5 March 2022 |publisher=teeltica.com}}</ref><ref>{{Cite web|url=https://futbolcentroamerica.com/costarica/Carlos-Martinez-se-inspiro-en-Oscar-Duarte-y-opto-por-jugar-para-Costa-Rica-sobre-Nicaragua-20220329-0023.html|title=Carlos Martínez se inspiró en Óscar Duarte y optó por jugar para Costa Rica sobre Nicaragua|publisher=futbolcentroamerica.com}}</ref><ref>{{Cite web|url=https://www.crhoy.com/deportes/carlos-martinez-el-jugador-que-prefirio-a-costa-rica-y-ahora-se-alegra-de-su-decision/|title=Carlos Martínez, el jugador que prefirió a Costa Rica y ahora se alegra de su decisión|publisher=crhoy.com}}</ref>
+
+==Career==
+
+In 2015, Martínez joined the [[Aspire Academy]] in Senegal,<ref>{{Cite web|url=http://www.laprensalibre.cr/Noticias/detalle/12118/169/del-carmelita-campeon-al-sueno-del-aspire|title=Del Carmelita campeón al sueño del Aspire|publisher=laprensalibre.cr (Archived)|archive-url=https://web.archive.org/web/20180123190359/http://www.laprensalibre.cr/Noticias/detalle/12118/169/del-carmelita-campeon-al-sueno-del-aspire|archive-date=23 January 2018}}</ref> becoming the second Costa Rican to join the academy.<ref>{{Cite web|url=https://www.diarioextra.com/Noticia/detalle/252467/futbolista-tico-brilla-en-senegal|title=Futbolista tico brilla en Senegal|publisher=diarioextra.com}}</ref>
+
+In 2017, he signed for Belgian side [[K.A.S. Eupen|Eupen]].<ref>{{Cite web|url=https://www.laprensa.com.ni/2018/08/30/deportes/2465359-carlos-martinez-el-defensor-de-origen-nicaraguense-que-juega-en-belgica|archive-url=https://archive.today/20210311080733/https://www.laprensa.com.ni/2018/08/30/deportes/2465359-carlos-martinez-el-defensor-de-origen-nicaraguense-que-juega-en-belgica|url-status=dead|archive-date=11 March 2021|title=Carlos Martínez, el defensor de origen nicaragüense que juega en Bélgica|publisher=laprensa.com.ni (Archived)}}</ref><ref>{{Cite news|url=https://columbia.co.cr/carlos-martinez-corrio-el-riesgo-de-descartar-a-nicaragua-y-el-tiempo-le-dio-la-razon/|title=Carlos Martínez 'corrió el riesgo' de descartar a Nicaragua, pero el tiempo le dio la razón|newspaper=Radio Columbia |date=7 March 2022 |publisher=columbia.co.cr}}</ref>
+
+In 2019, Martínez signed for [[Guadalupe F.C.|Guadalupe]] in Costa Rica, where he made 31 league appearances and scored 0 goals.<ref>{{Soccerway|489061}}</ref>
+
+==References==
+{{reflist}}
+
+==External links==
+* {{Soccerway|489061}}
+* {{WorldFootball.net|carlos-martinez_18}}
+
+{{Navboxes
+| title = Costa Rica squads
+| bg          = #CE1126
+| fg          = white
+| bordercolor = #002B7F
+| list =
+{{Costa Rica squad 2022 FIFA World Cup}}
+{{Costa Rica squad 2023 CONCACAF Gold Cup}}
+}}
+
+{{DEFAULTSORT:Martinez, Carlos}}
+[[Category:Living people]]
+[[Category:1999 births]]
+[[Category:Costa Rican men's footballers]]
+[[Category:Men's association football midfielders]]
+[[Category:Men's association football defenders]]
+[[Category:K.A.S. Eupen players]]
+[[Category:C.S. Herediano footballers]]
+[[Category:Guadalupe F.C. players]]
+[[Category:A.D. San Carlos footballers]]
+[[Category:Liga FPD players]]
+[[Category:Challenger Pro League players]]
+[[Category:Costa Rican expatriate men's footballers]]
+[[Category:Costa Rican expatriate sportspeople in Senegal]]
+[[Category:Costa Rican expatriate sportspeople in Belgium]]
+[[Category:Expatriate men's footballers in Senegal]]
+[[Category:Expatriate men's footballers in Belgium]]
+[[Category:Costa Rican people of Nicaraguan descent]]
+[[Category:People from Santa Ana Canton]]
+[[Category:2022 FIFA World Cup players]]
+[[Category:2023 CONCACAF Gold Cup players]]
+
+{{CostaRica-footy-bio-stub}}

@@ -1,0 +1,11 @@
+name: openaiutils_env_dev
+channels:
+  - pkgs/main
+  - conda-forge
+  - defaults
+dependencies:
+  - pip=23.2
+  - python=3.9.17
+  - pip:
+      - openai==0.27.8
+      - gradio==3.36.1

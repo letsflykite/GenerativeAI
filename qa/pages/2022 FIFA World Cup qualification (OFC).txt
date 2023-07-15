@@ -1,0 +1,588 @@
+{{short description|none}}
+{{EngvarB|date=April 2021}}
+{{Infobox international football competition
+| tourney_name   = 2022 FIFA World Cup qualification (OFC)
+| country        = Qatar<ref name="Qatar">{{cite web|url=https://www.oceaniafootball.com/ofc-update-on-fifa-world-cup-qatar-2022-oceania-qualifiers/|title=OFC update on FIFA World Cup Qatar 2022 – Oceania Qualifiers|publisher=Oceania Football Confederation|date=16 September 2021}}</ref>
+| city           = [[Doha]]
+| dates          = 17–30 March 2022<ref name="schedule">{{cite web|url=https://www.oceaniafootball.com/match-schedule-set-for-fifa-world-cup-qatar-2022-ofc-preliminary-competition/|title=Match schedule set for FIFA World Cup Qatar 2022 OFC preliminary competition|publisher=Oceania Football Confederation|date=10 January 2022}}</ref>
+| num_teams      = 7
+| confederations = 1
+| venues         = 2
+| cities         = 1
+| matches        = 11
+| goals          = 37
+| attendance     = {{#expr: <!--Group A-->+ 0 + 0 <!--Group B-->+ 0 + 0 + 0 + 0 + 0 + 0 <!--Semi-finals-->+ 0 + 0 <!--Final-->+ 0}}
+| top_scorer     = {{fbicon|NZL}} [[Chris Wood (footballer, born 1991)|Chris Wood]] (5 goals)
+| prevseason     = [[2018 FIFA World Cup qualification (OFC)|2018]]
+| nextseason     = [[2026 FIFA World Cup qualification (OFC)|''2026'']]
+}}
+{{Qualification for championships (OFC)}}
+
+The Oceanian section of the [[2022 FIFA World Cup qualification]] acted as qualifiers for the [[2022 FIFA World Cup]], to be held in Qatar, for national teams which are members of the [[Oceania Football Confederation]] (OFC). A total of 0.5 slots in the final tournament were available for OFC teams, which equated to one inter-confederation play-off slot.<ref>{{cite web|url=https://www.fifa.com/worldcup/news/y=2015/m=5/news=current-allocation-of-fifa-world-cuptm-confederation-slots-maintained-2610611.html|title=Current allocation of FIFA World Cup confederation slots maintained|publisher=FIFA.com|date=30 May 2015|url-status=dead|archiveurl=https://web.archive.org/web/20150530211217/http://www.fifa.com/worldcup/news/y%3D2015/m%3D5/news%3Dcurrent-allocation-of-fifa-world-cuptm-confederation-slots-maintained-2610611.html|archivedate=30 May 2015|df=dmy-all}}</ref>
+
+Due to the [[COVID-19 pandemic in Oceania]], the qualification was held as a centralised tournament in Qatar from 17 to 30 March 2022.<ref name="update"/>
+
+==Format==
+In November 2021, the OFC confirmed the format for the qualifiers in response to the [[COVID-19 pandemic]].<ref>{{cite web|url=https://www.oceaniafootball.com/format-set-for-fifa-world-cup-qatar-2022-ofc-preliminary-competition/|title=Format set for FIFA World Cup Qatar 2022 OFC preliminary competition|publisher=Oceania Football Confederation|date=29 November 2021}}</ref> The qualifying stage was to be a single match on 13 March 2022 between the two lowest-ranked participating OFC nations in the [[FIFA World Rankings]], with the winner advancing to the group stage, but [[Tonga national football team|Tonga]] withdrew from the qualification match causing [[Cook Islands national football team|Cook Islands]] to automatically enter the group stage. Then eight remaining teams were drawn into two groups of four, playing single leg [[round-robin tournament|round-robin]]. The top two teams from each group advanced to a single leg knockout stage. The final winner advanced to the [[2022 FIFA World Cup qualification (inter-confederation play-offs)|inter-confederation play-offs]].
+
+==Entrants==
+On 28 July 2020, the OFC confirmed that the qualifications would involve all eleven OFC teams.<ref>{{cite press release |title=OFC tournaments update |author=OFC Media Officer |date=28 July 2020 |work=OFC |url=https://www.oceaniafootball.com/ofc-tournaments-update/ |access-date=2 February 2022}}</ref> On 29 November 2021, the date of the group stage draw, FIFA reported that nine of the eleven FIFA-affiliated national teams from the OFC would enter qualification, as [[American Samoa national football team|American Samoa]] and [[Samoa national football team|Samoa]] had withdrawn.<ref name="update">{{cite web|url=https://www.fifa.com/media-releases/update-on-fifa-club-world-cup-and-ofc-preliminary-competition-for-qatar-2022|title=Update on FIFA Club World Cup and OFC preliminary competition for Qatar 2022|date=29 November 2021|publisher=[[FIFA]]}}</ref> On 29 January 2022, two months after the group stage draw but two months before the competition was to begin, [[Tonga national football team|Tonga]] also withdrew due to the [[2022 Hunga Tonga–Hunga Ha'apai eruption and tsunami]].<ref name="Tonga withdrew">{{cite news|url=https://www.fifa.com/tournaments/mens/worldcup/qatar2022/news/tonga-withdraw-from-fifa-world-cup-qatar-2022-tm-ofc-preliminary-competition|title=Tonga withdraw from FIFA World Cup Qatar 2022 OFC preliminary competition|date=29 January 2022|publisher=[[FIFA]]}}</ref><ref>{{cite news |url=https://www.oceaniafootball.com/tonga-out-of-fifa-world-cup-qatar-2022-ofc-preliminary-competition-following-disaster/ |title=Tonga out of FIFA World Cup Qatar 2022 OFC preliminary competition following disaster |work=[[Oceania Football Confederation]] |date=28 January 2022 |access-date=28 January 2022}}</ref> On 19 March 2022, [[Vanuatu national football team|Vanuatu]] withdrew after the tournament had started due to the majority of players testing positive for COVID-19.<ref name="Vanuatu withdraw"/><ref>{{cite news |title=Vanuatu withdraw from Oceania World Cup qualifying; Cook Islands also hit by Covid-19 |url=https://www.stuff.co.nz/sport/football/world-game/128109015/vanuatu-withdraw-from-oceania-world-cup-qualifying-cook-islands-also-hit-by-covid19 |work=[[Stuff (website)|Stuff]] |date=19 March 2022 |language=en}}</ref> On 23 March 2022, [[Cook Islands national football team|Cook Islands]] also withdrew after the tournament had started due to players testing positive for COVID-19.<ref name="Cook Islands withdraw"/>
+
+{| class="wikitable"
+|+From the November 2021 [[FIFA World Rankings]]<ref>{{cite web|url=https://www.fifa.com/fifa-world-ranking/men?dateId=id13471|title=FIFA Men's Rankings – November 2021 (OFC)|publisher=FIFA.com|date=26 November 2021}}</ref>
+!Entering qualification
+!Withdrew before playing
+|-
+|valign=top|{{ordered list|start=1
+|{{fb|NZL}} (110)
+|{{fb|SOL}} (141)
+|{{fb|NCL}} (153)
+|{{fb|TAH}} (159)
+|{{fb|FIJ}} (161)
+|{{fb|PNG}} (164)
+|{{fb|COK}} ({{abbr|NR|Not ranked}})<sup>W</sup>
+}}
+|valign=top|{{bulleted list
+|{{fb|VAN}} (163)
+|{{fb|ASA}} (190)
+|{{fb|SAM}} (193)
+|{{fb|TGA}} (199)
+}}
+|}
+<sup>W</sup> Withdrew after one match
+
+==Schedule==
+Qualifying was initially expected to begin in September 2020,<ref>{{cite web|url=https://www.stuff.co.nz/sport/football/nz-teams/118487762/new-zealand-football-successful-with-bid-to-host-the-2020-ofc-nations-cup|title=New Zealand Football successful with bid to host the 2020 OFC Nations Cup|work=Stuff|date=10 January 2020}}</ref> but many international matches scheduled for the FIFA window in that month were cancelled in June 2020 due to the [[COVID-19 pandemic]], while the [[#Inter-confederation play-off|inter-confederation play-offs]] were also moved from March to June 2022.<ref>{{cite web|url=https://www.fifa.com/who-we-are/news/fifa-council-unanimously-approves-covid-19-relief-plan|title=FIFA Council unanimously approves COVID-19 Relief Plan|publisher=FIFA.com|date=25 June 2020}}</ref>
+
+In November 2020, the OFC announced a further delay in the qualifying process until June 2021.<ref>{{cite web|url=https://www.oceaniafootball.com/ofc-announces-schedule-changes-for-early-2021/|title=OFC announces schedule changes for early 2021|publisher=Oceania Football Confederation|date=5 November 2020}}</ref>
+
+In March 2021, the confederation announced that this timeframe would not be achievable either, outlining a potential option organise a competition in January 2022, keeping the FIFA International Match Calendar dates in March available for preparation matches ahead of the inter-confederation play-off in June.<ref>{{cite web|url=https://www.oceaniafootball.com/ofc-confirms-schedule-changes/|title=OFC confirms schedule changes|publisher=Oceania Football Confederation|date=4 March 2021}}</ref><ref>{{cite web|url=https://digitalhub.fifa.com/m/11f7fa1dc502361/original/Enclosure_Circular-1766_Updates-to-the-Men-s-International-Match-Calendar_EN.pdf|title=INTERNATIONAL MATCH CALENDAR 2020–2024|publisher=FIFA}}</ref> [[Fiji]] and [[New Caledonia]] were proposed as possible venues.<ref name="2022 Calendar">{{cite web|url=https://www.ftf.pf/cms/wp-content/uploads/2021/06/OFC_Competitions_2022_calendar_20210604-1.pdf|title=OFC Competitions 2022 Calendar (updated 4/6/2021)|publisher=Fédération Tahitienne de Football|work=Oceania Football Confederation|date=4 June 2021}}</ref>
+
+By September 2021, continued delays meant that the OFC felt it was "not possible at this time to organise a qualifying competition within the Oceania region" and, as an alternative, they requested FIFA's approval for the qualification to be held in Qatar in March 2022.<ref name="Qatar"/><ref name="schedule"/> This was confirmed by FIFA on 29 November 2021.<ref name="update"/>
+
+==Venues==
+The matches are played at two venues in the city of [[Doha]].
+
+{| class="wikitable" style="text-align:center"
+|+
+! rowspan="4" |{{location map+|Qatar|float=center|caption=|places={{Location map~|Qatar|lat=25.2870|long=51.5310|position=top|label=[[Doha]]}}}}
+! colspan="2" |[[Doha]]
+|-
+|[[Grand Hamad Stadium|Al-Arabi Stadium]]
+|[[Suheim bin Hamad Stadium|Qatar SC Stadium]]
+|-
+|Capacity: '''13,000'''
+|Capacity: '''15,000'''
+|-
+|[[File:Doha-grand-hamad-stadium-90685.jpg|200px]]
+|[[File:Interior view of Suheim Bin Hamad Stadium in 2020.jpg|200px]]
+|}
+
+==Qualification match==
+A qualification match was due to be held between the two lowest-ranked teams ([[Tonga national football team|Tonga]] and the [[Cook Islands national football team|Cook Islands]]) to determine the eighth team to compete in the group stage. The match was cancelled after Tonga withdrew due to the effects of the [[2022 Hunga Tonga–Hunga Ha'apai eruption and tsunami]]; the Cook Islands advanced to the group stage.<ref name="Tonga withdrew"/>
+
+===Summary===
+<onlyinclude>{{#invoke:transcludable section|main|section=Qualification match|text={{OneLegStart}}
+{{OneLegResult|{{fb-rt|TGA}}||[[2022 FIFA World Cup qualification (OFC)#TGA v COK|{{small|Canc.}}]]{{refn|group=note|name=TGA|Tonga withdrew from qualification due to the [[2022 Hunga Tonga–Hunga Ha'apai eruption and tsunami]], and therefore the Cook Islands advanced to the group stage.}}|'''{{fb|COK}}'''}}
+{{End}}}}</onlyinclude>
+
+===Match===
+{{Football box
+|id         = TGA v COK
+|date       = {{Start date|2022|3|13|df=y}}
+|time       = {{UTZ|20:00|+3}}
+|team1      = {{fb-rt|TGA}}
+|score      = Cancelled{{refn|group=note|name=TGA}}
+|team2      = {{fb|COK}}
+|stadium    = [[Grand Hamad Stadium|Al-Arabi Stadium]], [[Doha]]
+|report     = [https://web.archive.org/web/20220125002823/https://www.fifa.com/tournaments/mens/worldcup/qatar2022/qualifiers/ofc/match-center/400214346 Report (FIFA)]<br />[https://web.archive.org/web/20220124141441/https://www.oceaniafootball.com/competition-list/2022-fifa-world-cup-qualifiers-qualifying-match-1918427773/tonga-cook-islands-1927621954/ Report (OFC)]
+}}
+
+==Group stage==
+The seven highest ranking OFC teams which entered the competition were given a bye to the group stage alongside the winner of the [[#Qualification match|qualification match]]. The teams were divided into two groups, each containing four teams. Each team played every other team in their group once in a [[Round-robin tournament|round-robin format]], and the winners and runners-up of each group advanced to the semi-finals.<ref name="update"/>
+
+===Draw===
+The group stage draw was held in [[Zürich]], Switzerland on 29 November 2021, 21:00 [[Central European Time|CET]] (30 November, 09:00 [[New Zealand Daylight Time|NZDT]]).<ref>{{cite web|url=https://www.oceaniafootball.com/date-set-for-fifa-world-cup-qatar-2022-ofc-preliminary-draw/|title=Date set for FIFA World Cup Qatar 2022 OFC Preliminary Draw|publisher=Oceania Football Confederation|date=26 November 2021|access-date=26 November 2021}}</ref><ref>{{cite web |url=https://www.fifa.com/media-releases/date-set-for-fifa-world-cup-qatar-2022-ofc-preliminary-draw |title=Date set for FIFA World Cup Qatar 2022 OFC Preliminary Draw |work=FIFA |date=25 November 2021 |access-date=29 November 2021}}</ref> The identity of the [[#Qualification match|qualification match]] winner was not known at the time of the draw. The draw began with pot 2 and finished with pot 1, with teams being allocated to the groups sequentially (firstly A, then B). The first two teams drawn were assigned to position 4, while the next two were assigned to position 3, and the first two from pot 1 to position 2. The two highest ranked teams, [[New Zealand national football team|New Zealand]] and the [[Solomon Islands national football team|Solomon Islands]], were assigned to positions A1 and B1, and were therefore not drawn in the same group.<ref>{{cite web |url=https://digitalhub.fifa.com/m/70e94fce4d30925f/original/OFC-draw-procedures.pdf |title=OFC Preliminary Draw for the FIFA World Cup 2022: Draw Procedures |work=FIFA |date=29 November 2021 |access-date=29 November 2021 |url-status=dead |archive-url=https://web.archive.org/web/20211129085231/https://digitalhub.fifa.com/m/70e94fce4d30925f/original/OFC-draw-procedures.pdf |archive-date=29 November 2021}}</ref>
+
+{| class="wikitable" style="font-size:90%;"
+|+From the November 2021 [[FIFA World Rankings]]<ref>{{cite web|url=https://www.fifa.com/fifa-world-ranking/men?dateId=id13471|title=FIFA Men's Rankings – November 2021 (OFC)|publisher=FIFA.com|date=26 November 2021}}</ref>
+!Pot 1
+!Pot 2
+|-
+|valign=top|{{ordered list|start=1
+|{{fb|NZL}} (110)
+|{{fb|SOL}} (141)
+|{{fb|NCL}} (153)
+|{{fb|TAH}} (159)
+}}
+|valign=top|{{ordered list|start=5
+|{{fb|FIJ}} (161)
+|{{fb|VAN}} (163)
+|{{fb|PNG}} (164)
+<!--Please do not add the Cook Islands. Qualification match winner is used here to demonstrate the pots at the time of the draw, not what resulted from previous events.-->
+|[[#Qualification match|Qualification match]] winner{{hsp}}{{efn|At the time of the draw, the [[Cook Islands national football team|Cook Islands]] and [[Tonga national football team|Tonga]] were scheduled to play a single qualification match. On 29 January 2022, Tonga withdrew from qualification, and the Cook Islands advanced to the group stage.<ref name="Tonga withdrew"/>}}
+}}
+|}
+{{notelist}}
+
+The draw resulted in the following groups:
+
+{| class="wikitable" style="display:inline-table; font-size:90%;"
+|+ [[#Group A|Group A]]
+|-
+!{{Tooltip|Pos|Position}} || width=120|Team
+|-
+|align=center|A1 || {{fb|SOL}}
+|-
+|align=center|A2 || {{fb|TAH}}
+|-
+|align=center|A3 || {{fb|VAN}}
+|-
+|align=center|A4 || {{fb|COK}}{{hsp}}{{efn|name=Host3|The identity of the team was not known at the time of the draw.}}
+|}
+{| class="wikitable" style="display:inline-table; font-size:90%;"
+|+ [[#Group B|Group B]]
+|-
+!{{Tooltip|Pos|Position}} || width=120|Team
+|-
+|align=center|B1 || {{fb|NZL}}
+|-
+|align=center|B2 || {{fb|NCL}}
+|-
+|align=center|B3 || {{fb|FIJ}}
+|-
+|align=center|B4 || {{fb|PNG}}
+|}
+{{notelist}}
+
+The fixtures for the group stage were decided based on the draw results, as follows:
+
+{|class="wikitable" style="text-align:center; font-size:90%;"
+|+ Group stage schedule
+|-
+!Matchday
+!Dates
+!Matches
+|-
+|Matchday 1
+|17–18 March 2022
+|4 v 1, 2 v 3
+|-
+|Matchday 2
+|20–21 March 2022
+|1 v 3, 4 v 2
+|-
+|Matchday 3
+|24 March 2022
+|1 v 2, 3 v 4
+|}
+
+===Group A===
+<onlyinclude>{{#invoke:Sports table|main|style=WDL
+|section=Group A
+|class_rules=[[2022 FIFA World Cup qualification#Tiebreakers|Tiebreakers]]
+|source=[https://www.fifa.com/tournaments/mens/worldcup/qatar2022/qualifiers/ofc FIFA], [https://www.oceaniafootball.com/competition/fifa-world-cup-qatar-2022-qualifiers/ OFC]
+|show_matches=yes
+
+<!--Update team positions below (check tiebreakers)-->
+|team_order=SOL, TAH, VAN, COK
+
+<!--Update team results below (including date)-->
+|update=complete
+|win_SOL=1 |draw_SOL=0 |loss_SOL=0 |gf_SOL=3 |ga_SOL=1
+|win_TAH=0 |draw_TAH=0 |loss_TAH=1 |gf_TAH=1 |ga_TAH=3
+|win_VAN=0 |draw_VAN=0 |loss_VAN=0 |gf_VAN=0 |ga_VAN=0
+|win_COK=0 |draw_COK=0 |loss_COK=0 |gf_COK=0 |ga_COK=0
+
+<!--Update match results below-->
+|match_SOL_TAH=[[2022 FIFA World Cup qualification (OFC)#SOL v TAH|3–1]]
+|match_SOL_VAN=<s>[[2022 FIFA World Cup qualification (OFC)#SOL v VAN|{{small|Canc.}}]]</s>|match_SOL_VAN_note=Vanuatu withdrew due to a COVID-19 outbreak in their squad.<ref name="Vanuatu withdraw">{{cite web |title=Vanuatu withdraws from the FIFA World Cup Oceania Qualifiers |url=https://www.vff.vu/vanuatu-withdraws-from-the-fifa-world-cup-oceania-qualifiers/ |publisher=Vanuatu Football Federation |date=19 March 2022 |access-date=19 March 2022}}</ref>
+|match_SOL_COK=null
+
+|match_TAH_SOL=null
+|match_TAH_VAN=<s>[[2022 FIFA World Cup qualification (OFC)#TAH v VAN|{{small|Canc.}}]]</s>|match_TAH_VAN_note=The Tahiti v Vanuatu match was cancelled due to a [[COVID-19]] outbreak in the Vanuatu squad.<ref name="TAH v VAN">{{cite web |title=Statement on Tahiti v Vanuatu match |url=https://www.oceaniafootball.com/statement-on-tahiti-v-vanuatu-match/ |publisher=Oceania Football Confederation |date=18 March 2022 |access-date=19 March 2022}}</ref>
+|match_TAH_COK=null
+
+|match_VAN_SOL=null
+|match_VAN_TAH=null
+|match_VAN_COK=<s>[[2022 FIFA World Cup qualification (OFC)#VAN v COK|{{small|Canc.}}]]</s>|match_VAN_COK_note=SOL_VAN
+
+|match_COK_SOL=<s>[[2022 FIFA World Cup qualification (OFC)#COK v SOL|0–2]]</s>|match_COK_SOL_note=Due to the withdrawal of Cook Islands, the result of the Cook Islands v Solomon Islands match was excluded from the group standings.<ref name="Cook Islands withdraw">{{cite web |title=Update on FIFA World Cup Qatar 2022 Oceania Qualifiers |url=https://www.oceaniafootball.com/update-on-fifa-world-cup-qatar-2022-oceania-qualifiers/ |publisher=Oceania Football Confederation |date=23 March 2022 |access-date=23 March 2022}}</ref>
+|match_COK_TAH=<s>[[2022 FIFA World Cup qualification (OFC)#COK v TAH|{{small|Canc.}}]]</s>|match_COK_TAH_note=The Cook Islands v Tahiti match was cancelled due to a [[COVID-19]] outbreak in the Cook Islands squad.<ref name="COK v TAH">{{cite web |title=Statement on COVID-19 cases impacting FIFA World Cup Qatar 2022 Oceania Qualifiers – Group A |url=https://www.oceaniafootball.com/statement-on-covid-19-cases-impacting-fifa-world-cup-qatar-2022-oceania-qualifiers-group-a/ |publisher=Oceania Football Confederation |date=19 March 2022 |access-date=19 March 2022}}</ref>
+|match_COK_VAN=null
+
+<!--Team definitions-->
+|name_SOL={{fb|SOL}} |short_SOL={{fbicon|SOL}}
+|name_TAH={{fb|TAH}} |short_TAH={{fbicon|TAH}}
+|name_VAN={{fb|VAN}} |short_VAN={{fbicon|VAN}}
+|name_COK={{fb|COK}} |short_COK={{fbicon|COK}}
+
+<!--Qualification and relegation column definitions-->
+|res_col_header=Q
+|result1=Q |result2=Q |result3=W |result4=W
+|col_Q=green1 |text_Q=Advance to [[2022 FIFA World Cup qualification (OFC)#Final stage|final stage]]
+|col_W=black1 |text_W=Withdrew
+}}</onlyinclude>
+
+{{Football box
+|id         = COK v SOL
+|date       = {{Start date|2022|3|17|df=y}}
+|time       = {{UTZ|17:00|+3}}
+|team1      = {{fb-rt|COK}}
+|score      = Not counted<br/>(0–2){{refn|group=note|Due to withdrawal of Cook Islands, the result of the Cook Islands v Solomon Islands match was excluded from the group standings.<ref name="Cook Islands withdraw"/>}}
+|team2      = {{fb|SOL}}
+|goals2     =
+*[[Atkin Kaua|Kaua]] {{goal|20}}
+*[[Alwin Hou|Hou]] {{goal|45+1}}
+|stadium    = [[Grand Hamad Stadium|Al-Arabi Stadium]], [[Doha]]
+|attendance = 0
+|referee    = [[David Yareboinen]] ([[Papua New Guinea Football Association|Papua New Guinea]])
+|report     = [https://www.fifa.com/tournaments/mens/worldcup/qatar2022/qualifiers/ofc/match-center/400214334 Report (FIFA)]<br />[https://www.oceaniafootball.com/competition-list/2022-fifa-world-cup-qualifiers-group-a-1918305513/qualifying-stage-winner-solomon-islands-1927641356/ Report (OFC)]
+}}
+{{Football box
+|id         = TAH v VAN
+|date       = {{Start date|2022|3|17|df=y}}
+|time       = {{UTZ|20:00|+3}}
+|team1      = {{fb-rt|TAH}}
+|score      = Cancelled{{refn|group=note|The Tahiti v Vanuatu match was cancelled due to a COVID-19 outbreak in the Vanuatu squad.<ref name="TAH v VAN"/>}}
+|team2      = {{fb|VAN}}
+|stadium    = [[Grand Hamad Stadium|Al-Arabi Stadium]], [[Doha]]
+|referee    = [[Matthew Conger]] ([[New Zealand Football|New Zealand]])
+|report     = [https://www.fifa.com/tournaments/mens/worldcup/qatar2022/qualifiers/ofc/match-center/400214338 Report (FIFA)]<br />[https://www.oceaniafootball.com/competition-list/2022-fifa-world-cup-qualifiers-group-a-1918305513/tahiti-vanuatu-1927641357/ Report (OFC)]
+}}
+----
+{{Football box
+|id         = COK v TAH
+|date       = {{Start date|2022|3|20|df=y}}
+|time       = {{UTZ|17:00|+3}}
+|team1      = {{fb-rt|COK}}
+|score      = Cancelled{{refn|group=note|The Cook Islands v Tahiti match was cancelled due to a COVID-19 outbreak in the Cook Islands squad.<ref name="COK v TAH"/>}}
+|team2      = {{fb|TAH}}
+|stadium    = [[Grand Hamad Stadium|Al-Arabi Stadium]], [[Doha]]
+|referee    = [[Mederic Lacour]] ([[New Caledonian Football Federation|New Caledonia]])
+|report     = [https://www.fifa.com/tournaments/mens/worldcup/qatar2022/qualifiers/ofc/match-center/400214335 Report (FIFA)]<br />[https://www.oceaniafootball.com/competition-list/2022-fifa-world-cup-qualifiers-group-a-1918305513/qualifying-stage-winner-tahiti-1927641358/ Report (OFC)]
+}}
+{{Football box
+|id         = SOL v VAN
+|date       = {{Start date|2022|3|20|df=y}}
+|time       = {{UTZ|20:00|+3}}
+|team1      = {{fb-rt|SOL}}
+|score      = Cancelled{{refn|group=note|name=Vanuatu|Vanuatu withdrew due to a COVID-19 outbreak in their squad.<ref name="Vanuatu withdraw"/>}}
+|team2      = {{fb|VAN}}
+|stadium    = [[Grand Hamad Stadium|Al-Arabi Stadium]], [[Doha]]
+|referee    = [[Campbell-Kirk Waugh]] ([[New Zealand Football|New Zealand]])
+|report     = [https://www.fifa.com/tournaments/mens/worldcup/qatar2022/qualifiers/ofc/match-center/400214337 Report (FIFA)]<br />[https://www.oceaniafootball.com/competition-list/2022-fifa-world-cup-qualifiers-group-a-1918305513/solomon-islands-vanuatu-1927641359/ Report (OFC)]
+}}
+----
+{{Football box
+|id         = VAN v COK
+|date       = {{Start date|2022|3|24|df=y}}
+|time       = {{UTZ|17:00|+3}}
+|team1      = {{fb-rt|VAN}}
+|score      = Cancelled{{refn|group=note|name=Vanuatu}}
+|team2      = {{fb|COK}}
+|stadium    = [[Suheim bin Hamad Stadium|Qatar SC Stadium]], [[Doha]]
+|report     = [https://www.fifa.com/tournaments/mens/worldcup/qatar2022/qualifiers/ofc/match-center/400214339 Report (FIFA)]<br />[https://www.oceaniafootball.com/competition-list/2022-fifa-world-cup-qualifiers-group-a-1918305513/vanuatu-qualifying-stage-winner-1927641360/ Report (OFC)]
+}}
+{{Football box
+|id         = SOL v TAH
+|date       = {{Start date|2022|3|24|df=y}}
+|time       = {{UTZ|17:00|+3}}
+|team1      = {{fb-rt|SOL}}
+|score      = 3–1{{refn|group=note|Due to the withdrawals of Cook Islands and Vanuatu, the Solomon Islands v Tahiti match was played as a single leg play-off (extra time and penalties if tied after normal time).<ref name="Cook Islands withdraw"/>}}
+|team2      = {{fb|TAH}}
+|goals1     =
+*[[Raphael Lea'i|Lea'i]] {{goal|20||52||90+6}}
+|goals2     =
+*[[Alvin Tehau|A. Tehau]] {{goal|26}}
+|stadium    = [[Grand Hamad Stadium|Al-Arabi Stadium]], [[Doha]]
+|attendance = 0
+|referee    = [[Matthew Conger]] ([[New Zealand Football|New Zealand]])
+|report     = [https://www.fifa.com/tournaments/mens/worldcup/qatar2022/qualifiers/ofc/match-center/400214336 Report (FIFA)]<br />[https://www.oceaniafootball.com/competition-list/2022-fifa-world-cup-qualifiers-group-a-1918305513/solomon-islands-tahiti-1927641361/ Report (OFC)]
+}}
+
+===Group B===
+<onlyinclude>{{#invoke:Sports table|main|style=WDL
+|section=Group B
+|class_rules=[[2022 FIFA World Cup qualification#Tiebreakers|Tiebreakers]]
+|source=[https://www.fifa.com/tournaments/mens/worldcup/qatar2022/qualifiers/ofc FIFA], [https://www.oceaniafootball.com/competition/fifa-world-cup-qatar-2022-qualifiers/ OFC]
+|show_matches=yes
+
+<!--Update team positions below (check tiebreakers)-->
+|team_order=NZL, PNG, FIJ, NCL
+
+<!--Update team results below (including date)-->
+|update=complete
+|win_NZL=3 |draw_NZL=0 |loss_NZL=0 |gf_NZL=12|ga_NZL=1
+|win_NCL=0 |draw_NCL=0 |loss_NCL=3 |gf_NCL=2 |ga_NCL=10
+|win_FIJ=1 |draw_FIJ=0 |loss_FIJ=2 |gf_FIJ=3 |ga_FIJ=7
+|win_PNG=2 |draw_PNG=0 |loss_PNG=1 |gf_PNG=3 |ga_PNG=2
+
+<!--Update match results below-->
+|match_NZL_NCL=[[2022 FIFA World Cup qualification (OFC)#NZL v NCL|7–1]]
+|match_NZL_FIJ=[[2022 FIFA World Cup qualification (OFC)#NZL v FIJ|4–0]]
+|match_NZL_PNG=null
+
+|match_NCL_NZL=null
+|match_NCL_FIJ=[[2022 FIFA World Cup qualification (OFC)#NCL v FIJ|1–2]]
+|match_NCL_PNG=null
+
+|match_FIJ_NZL=null
+|match_FIJ_NCL=null
+|match_FIJ_PNG=[[2022 FIFA World Cup qualification (OFC)#FIJ v PNG|1–2]]
+
+|match_PNG_NZL=[[2022 FIFA World Cup qualification (OFC)#PNG v NZL|0–1]]
+|match_PNG_NCL=[[2022 FIFA World Cup qualification (OFC)#PNG v NCL|1–0]]
+|match_PNG_FIJ=null
+
+<!--Team definitions-->
+|name_NZL={{fb|NZL}} |short_NZL={{fbicon|NZL}}
+|name_NCL={{fb|NCL}} |short_NCL={{fbicon|NCL}}
+|name_FIJ={{fb|FIJ}} |short_FIJ={{fbicon|FIJ}}
+|name_PNG={{fb|PNG}} |short_PNG={{fbicon|PNG}}
+
+<!--Qualification and relegation column definitions-->
+|res_col_header=Q
+|result1=Q |result2=Q
+|col_Q=green1 |text_Q=Advance to [[2022 FIFA World Cup qualification (OFC)#Final stage|final stage]]
+}}</onlyinclude>
+
+{{Football box
+|id         = PNG v NZL
+|date       = {{Start date|2022|3|18|df=y}}
+|time       = {{UTZ|17:00|+3}}
+|team1      = {{fb-rt|PNG}}
+|score      = 0–1
+|team2      = {{fb|NZL}}
+|goals2     =
+*[[Ben Waine|Waine]] {{goal|75}}
+|stadium    = [[Suheim bin Hamad Stadium|Qatar SC Stadium]], [[Doha]]
+|attendance = 0
+|referee    = [[Saoud Ali Al-Adba]] ([[Qatar Football Association|Qatar]])
+|report     = [https://www.fifa.com/tournaments/mens/worldcup/qatar2022/qualifiers/ofc/match-center/400214345 Report (FIFA)]<br />[https://www.oceaniafootball.com/competition-list/2022-fifa-world-cup-qualifiers-group-b-1918305533/papua-new-guinea-new-zealand-1927621918/ Report (OFC)]
+}}
+{{Football box
+|id         = NCL v FIJ
+|date       = {{Start date|2022|3|18|df=y}}
+|time       = {{UTZ|20:00|+3}}
+|team1      = {{fb-rt|NCL}}
+|score      = 1–2
+|team2      = {{fb|FIJ}}
+|goals1     =
+*[[Jordan Wetria|Wetria]] {{goal|78}}
+|goals2     =
+*[[Sairusi Nalaubu|Nalaubu]] {{goal|11||89}}
+|stadium    = [[Suheim bin Hamad Stadium|Qatar SC Stadium]], [[Doha]]
+|attendance = 0
+|referee    = [[Mohammed Al-Shammari]] ([[Qatar Football Association|Qatar]])
+|report     = [https://www.fifa.com/tournaments/mens/worldcup/qatar2022/qualifiers/ofc/match-center/400214340 Report (FIFA)]<br />[https://www.oceaniafootball.com/competition-list/2022-fifa-world-cup-qualifiers-group-b-1918305533/new-caledonia-fiji-1927621919/ Report (OFC)]
+}}
+----
+{{Football box
+|id         = PNG v NCL
+|date       = {{Start date|2022|3|21|df=y}}
+|time       = {{UTZ|17:00|+3}}
+|team1      = {{fb-rt|PNG}}
+|score      = 1–0
+|team2      = {{fb|NCL}}
+|goals1     =
+*[[Tommy Semmy|Semmy]] {{goal|8}}
+|stadium    = [[Suheim bin Hamad Stadium|Qatar SC Stadium]], [[Doha]]
+|attendance = 0
+|referee    = [[Joel Hopken]] ([[Vanuatu Football Federation|Vanuatu]])
+|report     = [https://www.fifa.com/tournaments/mens/worldcup/qatar2022/qualifiers/ofc/match-center/400214344 Report (FIFA)]<br />[https://www.oceaniafootball.com/competition-list/2022-fifa-world-cup-qualifiers-group-b-1918305533/papua-new-guinea-new-caledonia-1927621920/ Report (OFC)]
+}}
+{{Football box
+|id         = NZL v FIJ
+|date       = {{Start date|2022|3|21|df=y}}
+|time       = {{UTZ|20:00|+3}}
+|team1      = {{fb-rt|NZL}}
+|score      = 4–0
+|team2      = {{fb|FIJ}}
+|goals1     =
+*[[Chris Wood (footballer, born 1991)|Wood]] {{goal|45||73}}
+*[[Elijah Just|Just]] {{goal|71}}
+*[[Clayton Lewis (footballer)|Lewis]] {{goal|90+3|pen.}}
+|stadium    = [[Suheim bin Hamad Stadium|Qatar SC Stadium]], [[Doha]]
+|attendance = 0
+|referee    = [[Salman Falahi]] ([[Qatar Football Association|Qatar]])
+|report     = [https://www.fifa.com/tournaments/mens/worldcup/qatar2022/qualifiers/ofc/match-center/400214343 Report (FIFA)]<br />[https://www.oceaniafootball.com/competition-list/2022-fifa-world-cup-qualifiers-group-b-1918305533/new-zealand-fiji-1927621921/ Report (OFC)]
+}}
+----
+{{Football box
+|id         = NZL v NCL
+|date       = {{Start date|2022|3|24|df=y}}
+|time       = {{UTZ|20:00|+3}}
+|team1      = {{fb-rt|NZL}}
+|score      = 7–1
+|team2      = {{fb|NCL}}
+|goals1     =
+*[[Alex Greive|Greive]] {{goal|8||45+2}}
+*[[Logan Rogerson|Rogerson]] {{goal|36|pen.}}
+*[[Andre de Jong|De Jong]] {{goal|75}}
+*[[Bill Tuiloma|Tuiloma]] {{goal|81}}
+*[[Chris Wood (footballer, born 1991)|Wood]] {{goal|83||89}}
+|goals2     =
+*[[Jean-Philippe Saïko|Saïko]] {{goal|12}}
+|stadium    = [[Suheim bin Hamad Stadium|Qatar SC Stadium]], [[Doha]]
+|attendance = 0
+|referee    = [[Norbert Hauata]] ([[Tahitian Football Federation|Tahiti]])
+|report     = [https://www.fifa.com/tournaments/mens/worldcup/qatar2022/qualifiers/ofc/match-center/400214342 Report (FIFA)]<br />[https://www.oceaniafootball.com/competition-list/2022-fifa-world-cup-qualifiers-group-b-1918305533/new-zealand-new-caledonia-1927621923/ Report (OFC)]
+}}
+{{Football box
+|id         = FIJ v PNG
+|date       = {{Start date|2022|3|24|df=y}}
+|time       = {{UTZ|20:00|+3}}
+|team1      = {{fb-rt|FIJ}}
+|score      = 1–2
+|team2      = {{fb|PNG}}
+|goals1     =
+*[[Tevita Waranaivalu|Waranaivalu]] {{goal|12}}
+|goals2     =
+*[[Ati Kepo|A. Kepo]] {{goal|45+2}}
+*[[Tommy Semmy|Semmy]] {{goal|63}}
+|stadium    = [[Grand Hamad Stadium|Al-Arabi Stadium]], [[Doha]]
+|attendance = 0
+|referee    = [[Abdulhadi Al-Ruaile]] ([[Qatar Football Association|Qatar]])
+|report     = [https://www.fifa.com/tournaments/mens/worldcup/qatar2022/qualifiers/ofc/match-center/400214341 Report (FIFA)]<br />[https://www.oceaniafootball.com/competition-list/2022-fifa-world-cup-qualifiers-group-b-1918305533/fiji-papua-new-guinea-1927621922/ Report (OFC)]
+}}
+
+==Final stage==
+In the single-leg matches of the final stage, if a match was level at the end of normal playing time, [[Overtime (sports)#Association football|extra time]] was played (two periods of 15 minutes each) to decide the winner. If still tied after extra time, the match was decided by a [[Penalty shoot-out (association football)|penalty shoot-out]].<ref name="regulations">{{cite web |url=https://digitalhub.fifa.com/m/517ef2ad2bc3665e/original/ytkbpnxyvcghx6bebesv-pdf.pdf |title=Regulations FIFA World Cup 2022 Preliminary Competition: Including COVID-19 Regulations |publisher=[[FIFA|Fédération Internationale de Football Association]] |access-date=29 November 2021}}</ref>
+
+===Bracket===
+<onlyinclude>{{#invoke:transcludable section|main|section=Final stage|text={{#invoke:RoundN|N4
+|style=white-space:nowrap|widescore=yes|bold_winner=high|3rdplace=no
+|RD1=[[#Semi-finals|Semi-finals]]
+|RD2=[[#Final|Final]]
+<!-- Date-Place|Team 1|Score 1|Team 2|Score 2 -->
+<!-- Semi-finals -->
+|27 March 2022 – [[Grand Hamad Stadium|Doha (Al-Arabi)]]|{{fb|SOL}}|3|{{fb|PNG}}|2
+|27 March 2022 – [[Grand Hamad Stadium|Doha (Al-Arabi)]]|{{fb|NZL}}|1|{{fb|TAH}}|0
+<!-- Final -->
+|30 March 2022 – [[Grand Hamad Stadium|Doha (Al-Arabi)]]|{{fb|SOL}}|0|{{fb|NZL}}|5
+}}}}</onlyinclude>
+
+New Zealand defeated Solomon Islands 5–0 and advanced to the [[2022 FIFA World Cup qualification (CONCACAF–OFC play-off)|OFC-CONCACAF play-off]]
+
+===Semi-finals===
+{{Football box
+|id         = Winner Group A v Runner-up Group B
+|date       = {{Start date|2022|3|27|df=y}}
+|time       = {{UTZ|17:00|+3}}
+|team1      = {{fb-rt|SOL}}
+|score      = 3–2
+|team2      = {{fb|PNG}}
+|goals1     =
+*[[Alwin Hou|Hou]] {{goal|33||66}}
+*[[Raphael Lea'i|Lea'i]] {{goal|71}}
+|goals2     =
+*[[Alwin Komolong|A. Komolong]] {{goal|24}}
+*[[Ati Kepo|A. Kepo]] {{goal|88}}
+|stadium    = [[Grand Hamad Stadium|Al-Arabi Stadium]], [[Doha]]
+|attendance = 0
+|referee    = [[Mohammed Abdulla Hassan Mohamed]] ([[United Arab Emirates Football Association|United Arab Emirates]])
+|report     = [https://www.fifa.com/tournaments/mens/worldcup/qatar2022/qualifiers/ofc/match-center/400214348 Report (FIFA)]<br />[https://www.oceaniafootball.com/competition-list/2022-fifa-world-cup-qualifiers-semi-finals-1920257853/group-a-winner-group-b-runner-up-1927641478/ Report (OFC)]
+}}
+----
+{{Football box
+|id         = Winner Group B v Runner-up Group A
+|date       = {{Start date|2022|3|27|df=y}}
+|time       = {{UTZ|20:30|+3}}
+|team1      = {{fb-rt|NZL}}
+|score      = 1–0
+|team2      = {{fb|TAH}}
+|goals1     =
+*[[Liberato Cacace|Cacace]] {{goal|71}}
+|stadium    = [[Grand Hamad Stadium|Al-Arabi Stadium]], [[Doha]]
+|attendance = 0
+|referee    = [[Abdulrahman Al-Jassim]] ([[Qatar Football Association|Qatar]])
+|report     = [https://www.fifa.com/tournaments/mens/worldcup/qatar2022/qualifiers/ofc/match-center/400214349 Report (FIFA)]<br />[https://www.oceaniafootball.com/competition-list/2022-fifa-world-cup-qualifiers-semi-finals-1920257853/group-b-winner-group-a-runner-up-1927641479/ Report (OFC)]
+}}
+
+===Final===
+The final winner advanced to the [[#Inter-confederation play-off|inter-confederation play-off]].
+
+{{Football box
+|id         = Winner semi-final 1 v Winner semi-final 2
+|date       = {{Start date|2022|3|30|df=y}}
+|time       = {{UTZ|20:00|+3}}
+|team1      = {{fb-rt|SOL}}
+|score      = 0–5
+|team2      = {{fb|NZL}}
+|goals2     = 
+*[[Bill Tuiloma|Tuiloma]] {{goal|23||70}}
+*[[Chris Wood (footballer, born 1991)|Wood]] {{goal|39}}
+*[[Joe Bell (footballer, born 1999)|Bell]] {{goal|50}}
+*[[Matthew Garbett|Garbett]] {{goal|90+1}}
+|stadium    = [[Grand Hamad Stadium|Al-Arabi Stadium]], [[Doha]]
+|attendance = 0
+|referee    = [[Nawaf Shukralla]] ([[Bahrain Football Association|Bahrain]])
+|report     = [https://www.fifa.com/tournaments/mens/worldcup/qatar2022/qualifiers/ofc/match-center/400214347 Report (FIFA)]<br />[https://www.oceaniafootball.com/competition-list/2022-fifa-world-cup-qualifiers-final-1920319013/winner-semi-final-1-winner-semi-final-2-1927660834/ Report (OFC)]
+}}
+
+==Inter-confederation play-off==
+{{main|2022 FIFA World Cup qualification (CONCACAF–OFC play-off)}}
+The inter-confederation play-off was determined by a draw held on 26 November 2021. The winner from OFC was drawn against the fourth-placed team from [[2022 FIFA World Cup qualification – CONCACAF third round|CONCACAF third round]].<ref>{{cite news |url=https://www.fifa.com/news/european-and-intercontinental-play-off-draw-results-and-reaction |title=European and intercontinental play-off draw results and reaction |work=FIFA |date=26 November 2021 |access-date=26 November 2021}}</ref> The play-off was played as a single match in Qatar on 14 June 2022.<ref>{{cite news |url=https://en.as.com/en/2021/11/26/soccer/1637955253_226019.html |title=2022 World Cup inter-confederation play-off draw: fixtures and format |last=Allen |first=William |work=as.com |date=26 November 2021 |access-date=30 November 2021}}</ref>
+{{#lst:2022 FIFA World Cup qualification (inter-confederation play-offs)|playoff2}}
+
+==Goalscorers==
+{{Goalscorers
+|goals=37 |matches=11
+
+|5 goals=
+*{{fbicon|NZL}} [[Chris Wood (footballer, born 1991)|Chris Wood]]
+
+|4 goals=
+*{{fbicon|SOL}} [[Raphael Lea'i]]
+
+|3 goals=
+*{{fbicon|NZL}} [[Bill Tuiloma]]
+*{{fbicon|SOL}} [[Alwin Hou]]
+
+|2 goals=
+*{{fbicon|FIJ}} [[Sairusi Nalaubu]]
+*{{fbicon|NZL}} [[Alex Greive]]
+*{{fbicon|PNG}} [[Ati Kepo]]
+*{{fbicon|PNG}} [[Tommy Semmy]]
+
+|1 goal=
+*{{fbicon|FIJ}} [[Tevita Waranaivalu]]
+*{{fbicon|NCL}} [[Jean-Philippe Saïko]]
+*{{fbicon|NCL}} [[Jordan Wetria]]
+*{{fbicon|NZL}} [[Joe Bell (footballer, born 1999)|Joe Bell]]
+*{{fbicon|NZL}} [[Liberato Cacace]]
+*{{fbicon|NZL}} [[Andre de Jong]]
+*{{fbicon|NZL}} [[Matthew Garbett]]
+*{{fbicon|NZL}} [[Elijah Just]]
+*{{fbicon|NZL}} [[Clayton Lewis (footballer)|Clayton Lewis]]
+*{{fbicon|NZL}} [[Logan Rogerson]]
+*{{fbicon|NZL}} [[Ben Waine]]
+*{{fbicon|PNG}} [[Alwin Komolong]]
+*{{fbicon|SOL}} [[Atkin Kaua]]
+*{{fbicon|TAH}} [[Alvin Tehau]]
+}}
+
+==Notes==
+{{Reflist|group=note}}
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{Official website|https://www.fifa.com/tournaments/mens/worldcup/qatar2022/qualifiers|Official FIFA World Cup website}}
+*[https://www.fifa.com/tournaments/mens/worldcup/qatar2022/qualifiers/ofc Qualifiers – Oceania], FIFA.com
+*[https://www.oceaniafootball.com/competition/fifa-world-cup-qatar-2022-qualifiers FIFA World Cup Qatar 2022 Qualifiers], at Oceania Football Confederation
+
+{{2022 in Oceanian football (OFC)}}
+{{2022 FIFA World Cup qualifiers}}
+
+[[Category:2022 FIFA World Cup qualification|Ofc]]
+[[Category:FIFA World Cup qualification (OFC)]]
+[[Category:2021–22 in OFC football]]
+[[Category:2021–22 in Qatari football|FIFA]]
+[[Category:Association football events postponed due to the COVID-19 pandemic|FIFA World Cup Qualification OFC, 2022]]
+[[Category:International association football competitions hosted by Qatar]]
+[[Category:March 2022 sports events in Qatar|FIFA]]
+[[Category:21st century in Doha]]
+[[Category:Sports competitions in Doha]]

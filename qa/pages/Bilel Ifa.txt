@@ -1,0 +1,90 @@
+{{short description|Tunisian footballer}}
+{{Use dmy dates|date=January 2022}}
+{{Infobox football biography
+|name           = Bilel Ifa
+|image          = Bilel Ifa, Tunisia.jpg
+|upright        = 0.9
+|caption        = Ifa with [[Tunisia national football team|Tunisia]] in 2010.
+|fullname       = Bilel Ifa<ref name="FIFA 2022">{{cite web |url=https://fdp.fifa.org/assetspublic/ce44/pdf/SquadLists-English.pdf |title=FIFA World Cup Qatar 2022 – Squad list: Tunisia (TUN) |publisher=[[FIFA]] |page=29 |date=15 November 2022 |access-date=15 November 2022}}</ref>
+|birth_date     = {{birth date and age|1990|3|9|df=y}}
+|birth_place    = [[Aryanah]], Tunisia
+|height         = 1.85 m<ref name="FIFA 2022"/>
+|position       = [[Centre-back]]
+|currentclub    = [[Kuwait SC|Kuwait]]
+|clubnumber     = 19
+|years1         = 2007–2022
+|clubs1         = [[Club Africain]]
+|caps1          = 209
+|goals1         = 14
+|years2         = 2022
+|clubs2         = [[Abha Club|Abha]]
+|caps2          = 11
+|goals2         = 1
+|years3         = 2022–
+|clubs3         = [[Kuwait SC|Kuwait]]
+|caps3          = 0
+|goals3         = 0
+|nationalyears1 = 2008–
+|nationalteam1  = [[Tunisia national football team|Tunisia]]
+|nationalcaps1  = 37
+|nationalgoals1 = 0
+|club-update    = 15:22, 12 January 2022 (UTC)
+|ntupdate       = 00:30, 10 December 2022 (UTC)
+|medaltemplates = 
+{{MedalCountry|{{fb|TUN}}}}
+{{MedalSport|Men's [[association football|football]]}}
+{{MedalComp|[[FIFA Arab Cup]]}}
+{{Medal|RU|[[2021 FIFA Arab Cup|2021 Qatar]]|}}
+}}
+'''Bilel Ifa''' (born 9 March 1990) is a Tunisian professional [[association football|footballer]] who plays as a [[centre-back]] for Kuwaiti club [[Kuwait SC|Kuwait]] and the [[Tunisia national football team|Tunisia national team]].
+
+==Career==
+Born in [[Aryanah]], Ifa has played club football for [[Club Africain]].<ref name="NFT">{{NFT player|29116|accessdate=12 January 2022}}</ref><ref>{{Soccerway|bilel-ifa/71301|accessdate=12 January 2022}}</ref>
+
+On 12 January 2022, Ifa joined Saudi Arabian club [[Abha Club|Abha]].<ref>{{cite web |title="أبها" يُعلن التعاقد مع التونسي بلال عيفة|url=https://akhbaar24.argaam.com/article/detail/583426}}</ref>
+
+On 1 September 2022, Ifa joined [[Kuwait SC|Kuwait]] on a one-year deal.<ref>{{cite web |title=الكويت الكويتي يعلن تعاقده مع التونسي بلال العيفة |url=https://www.winwin.com/%D9%83%D8%B1%D8%A9-%D9%82%D8%AF%D9%85/%D8%A7%D9%84%D8%A3%D8%AE%D8%A8%D8%A7%D8%B1/%D8%A7%D9%84%D9%83%D9%88%D9%8A%D8%AA-%D8%A7%D9%84%D9%83%D9%88%D9%8A%D8%AA%D9%8A-%D9%8A%D8%B9%D9%84%D9%86-%D8%AA%D8%B9%D8%A7%D9%82%D8%AF%D9%87-%D9%85%D8%B9-%D8%A7%D9%84%D8%AA%D9%88%D9%86%D8%B3%D9%8A-%D8%A8%D9%84%D8%A7%D9%84-%D8%A7%D9%84%D8%B9%D9%8A%D9%81%D8%A9}}</ref>
+
+He made his international debut for [[Tunisia national football team|Tunisia]] in 2008.<ref name="NFT"/>
+
+==References==
+{{reflist}}
+
+{{Navboxes
+|title=Tunisia squads
+|bg=white
+|fg=#E70013
+|list1=
+{{Tunisia squad 2010 Africa Cup of Nations}}
+{{Tunisia squad 2012 Africa Cup of Nations}}
+{{Tunisia squad 2013 Africa Cup of Nations}}
+{{Tunisia squad 2021 Africa Cup of Nations}}
+{{Tunisia squad 2022 FIFA World Cup}}
+}}
+
+{{DEFAULTSORT:Ifa, Bilel}}
+[[Category:1990 births]]
+[[Category:Living people]]
+[[Category:People from Aryanah]]
+[[Category:Tunisian men's footballers]]
+[[Category:Tunisian expatriate men's footballers]]
+[[Category:Men's association football central defenders]]
+[[Category:Tunisia men's international footballers]]
+[[Category:2010 Africa Cup of Nations players]]
+[[Category:2012 Africa Cup of Nations players]]
+[[Category:2013 Africa Cup of Nations players]]
+[[Category:Club Africain players]]
+[[Category:Abha Club players]]
+[[Category:Kuwait SC players]]
+[[Category:Tunisian Ligue Professionnelle 1 players]]
+[[Category:Saudi Professional League players]]
+[[Category:Kuwait Premier League players]]
+[[Category:Expatriate men's footballers in Saudi Arabia]]
+[[Category:Tunisian expatriate sportspeople in Saudi Arabia]]
+[[Category:Expatriate men's footballers in Kuwait]]
+[[Category:Tunisian expatriate sportspeople in Kuwait]]
+[[Category:2021 Africa Cup of Nations players]]
+[[Category:2022 FIFA World Cup players]]
+
+
+{{Tunisia-footy-bio-stub}}

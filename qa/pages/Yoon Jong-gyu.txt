@@ -1,0 +1,139 @@
+{{No significant coverage (sports)|find=football|date=December 2022}}
+{{Use dmy dates|date=November 2022}}
+{{short description|South Korean footballer}}
+{{family name hatnote|Yoon||lang=Korean}}
+{{Infobox football biography
+| name= Yoon Jong-gyu
+| fullname = Yoon Jong-gyu<ref name="FIFA 2022">{{cite web |url=https://fdp.fifa.org/assetspublic/ce44/pdf/SquadLists-English.pdf |title=FIFA World Cup Qatar 2022 – Squad list: Korea Republic (KOR) |publisher=[[FIFA]] |page=17 |date=15 November 2022 |access-date=15 November 2022}}</ref>
+| image = Yoon Jong-gyu - 2022 (52552310208) (cropped).jpg
+| caption = Yoon in 2022
+| birth_date = {{birth date and age|1998|03|20|df=yes}}
+| birth_place = [[South Korea]]
+| height = 1.75 m
+| currentclub = [[Gimcheon Sangmu FC|Gimcheon Sangmu]] ([[Conscription in South Korea|draft]])
+| clubnumber = 24
+| position = [[Defender (association football)#Full-back|Full-back]]
+| youthyears1 = 2014–2016
+| youthclubs1 = Shingal High School
+| years1 = 2017–
+| clubs1 = [[FC Seoul]]
+| caps1  = 115
+| goals1 = 2
+| years2 = 2017
+| clubs2 = → [[Gyeongnam FC]] (loan)
+| caps2  = 5
+| goals2 = 0
+| years3 = 2023–
+| clubs3 = → [[Gimcheon Sangmu FC|Gimcheon Sangmu]] ([[Conscription in South Korea|draft]])
+| caps3  = 1
+| goals3 = 1
+| nationalyears1 = 2015
+| nationalteam1  = [[South Korea national under-17 football team|South Korea U17]]
+| nationalcaps1  = 6
+| nationalgoals1 = 3
+| nationalyears2 = 2016–2017
+| nationalteam2  = [[South Korea national under-20 football team|South Korea U20]]
+| nationalcaps2  = 14
+| nationalgoals2 = 1
+| nationalyears3 = 2017–2021
+| nationalteam3  = [[South Korea national under-23 football team|South Korea U23]]
+| nationalcaps3  = 11
+| nationalgoals3 = 0
+| nationalyears4 = 2020–
+| nationalteam4  = [[South Korea national football team|South Korea]]
+| nationalcaps4  = 4
+| nationalgoals4 = 0
+| medaltemplates =  {{MedalSport|Men's [[Association football|football]]}}
+{{Medal|Country|{{Fb|KOR}}}}
+{{Medal|Competition|[[EAFF E-1 Football Championship|EAFF Championship]]}}
+{{Medal|RU|[[2022 EAFF E-1 Football Championship|2022 Japan]]|[[2022 EAFF E-1 Football Championship Final squads#South Korea|Team]]}}
+{{MedalCompetition|[[AFC U-23 Championship]]}}
+{{Medal|G|[[2020 AFC U-23 Championship|2020 Thailand]]|}}
+| pcupdate = 24 June 2023
+| ntupdate = 11 November 2022
+}}
+{{Infobox Korean name
+|hangul={{linktext|윤|종규}}
+|hanja={{linktext|尹|鍾|奎}}
+|rr=Yun Jonggyu
+|mr=Yun Chongkyu
+}}
+
+'''Yoon Jong-gyu''' ({{lang-ko|윤종규}}; born 20 March 1998) is a South Korean [[Association football|football]] [[Defender (association football)|defender]] who plays for [[Gimcheon Sangmu FC|Gimcheon Sangmu]] and the [[South Korea national football team|South Korea national team]].
+
+== Club career ==
+He joined [[FC Seoul]] in 2017.
+
+==International career ==
+He was part of the [[South Korea national under-17 football team|South Korea U-17 squad]] at the [[2015 FIFA U-17 World Cup]].
+
+He was part of the [[South Korea national under-20 football team|South Korea U-20 squad]] at the [[2017 FIFA U-20 World Cup]].
+
+He was part of the [[South Korea national football team|South Korea squad]] at the [[2022 EAFF E-1 Football Championship]].
+
+== Career statistics ==
+===Club===
+''As of 24 June 2023''
+{| class="wikitable" style="text-align:center"
+|-
+! colspan=3 | Club performance
+! colspan=2 | League
+! colspan=2 | Cup
+! colspan=2 | Continental
+! colspan=2 | Play-off
+
+! colspan=2 | Total
+|-
+! Season !! Club !! League
+! Apps !! Goals
+! Apps !! Goals
+! Apps !! Goals
+! Apps !! Goals
+
+! Apps !! Goals
+|-
+|[[2017 K League Challenge|2017]]||[[Gyeongnam FC]] (loan)||[[K League 2]]||5||0||0||0||colspan=2|—||colspan=2|—||5||0
+|-
+|[[2018 K League 1|2018]]||rowspan="5"|[[FC Seoul]]||rowspan="5"|[[K League 1]]||5||0||0||0||colspan=2|—||2||0||7||0
+|-
+|[[2019 K League 1|2019]]||29||0||1||0||colspan=2|—||colspan=2|—||30||0
+|-
+|[[2020 K League 1|2020]]||17||0||1||0||0||0||colspan=2|—||18||0
+|-
+|[[2021 K League 1|2021]]||32||1||0||0||colspan=2|—||colspan=2|—||32||1
+|-
+|[[2022 K League 1|2022]]||32||1||5||0||colspan=2|—||colspan=2|—||37||1
+|-
+|[[2023 K League 2|2023]]||[[Gimcheon Sangmu FC|Gimcheon Sangmu]] ([[Conscription in South Korea|draft]])||[[K League 2]]||1||1||0||0||colspan=2|—||colspan=2|—||1||1
+|-
+! colspan=3 | Career total
+!121||3||7||0||0||0||2||0||130||3
+|}
+
+==Honours==
+===International===
+'''South Korea U23'''
+*[[AFC U-23 Championship]]: [[2020 AFC U-23 Championship|2020]]
+
+==References==
+{{Reflist}}
+
+== External links ==
+{{K League player|20170051}}
+
+{{Gimcheon Sangmu FC squad}}
+{{South Korea squad 2022 FIFA World Cup}}
+
+{{DEFAULTSORT:Yoon, Jong-gyu}}
+[[Category:1998 births]]
+[[Category:Living people]]
+[[Category:Men's association football defenders]]
+[[Category:South Korean men's footballers]]
+[[Category:Gyeongnam FC players]]
+[[Category:FC Seoul players]]
+[[Category:K League 1 players]]
+[[Category:K League 2 players]]
+[[Category:South Korea men's under-20 international footballers]]
+[[Category:South Korea men's under-23 international footballers]]
+[[Category:South Korea men's international footballers]]
+[[Category:2022 FIFA World Cup players]]

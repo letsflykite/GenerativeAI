@@ -1,0 +1,142 @@
+{{short description|Welsh footballer}}
+{{Use dmy dates|date=November 2022}}
+{{Infobox football biography
+|name        = Ben Cabango
+|image       =
+|image_size  = 
+|caption     = 
+|full_name   = Benjamin George Cabango<ref name="FIFA 2022">{{cite web |url=https://fdp.fifa.org/assetspublic/ce44/pdf/SquadLists-English.pdf |title=FIFA World Cup Qatar 2022 – Squad list: Wales (WAL) |publisher=[[FIFA]] |page=32 |date=15 November 2022 |access-date=15 November 2022}}</ref>
+|birth_date  = {{birth date and age|2000|5|30|df=y}}
+|birth_place = [[Cardiff]], Wales
+|height      = 1.86m
+|position    = [[Defender (association football)|Defender]]
+|currentclub = [[Swansea City A.F.C.|Swansea City]]
+|clubnumber  = 5
+|youthyears1 =
+|youthclubs1 = [[Newport County A.F.C.|Newport County]] 
+|youthyears2 =
+|youthclubs2 = [[Swansea City A.F.C.|Swansea City]]
+|years1      = 2018–
+|clubs1      = [[Swansea City A.F.C.|Swansea City]]
+|caps1       = 131
+|goals1      = 8
+|years2      = 2018–2019
+|clubs2      = → [[The New Saints F.C.|The New Saints]] (loan) 
+|caps2       = 16
+|goals2      = 0
+|nationalyears1 = 2017
+|nationalteam1 = [[Wales national under-17 football team|Wales U17]] 
+|nationalcaps1 = 1
+|nationalgoals1 = 0
+|nationalyears2 = 2018–2019
+|nationalteam2 = [[Wales national under-19 football team|Wales U19]]
+|nationalcaps2 = 10
+|nationalgoals2 = 1
+|nationalyears3 = 2019
+|nationalteam3 = [[Wales national under-21 football team|Wales U21]] 
+|nationalcaps3 = 5
+|nationalgoals3 = 0
+|nationalyears4 = 2020–
+|nationalteam4 = [[Wales national football team|Wales]] 
+|nationalcaps4 = 7
+|nationalgoals4 = 0
+|club-update = 8 May 2023 (UTC)
+|nationalteam-update = 23.19, 19 June 2023 (UTC)
+}}
+'''Benjamin George Cabango''' (born 30 May 2000) is a Welsh professional [[Association football|footballer]] who plays as a [[Defender (association football)|defender]] for {{English football updater|SwanseaC}} club [[Swansea City A.F.C.|Swansea City]] and the  [[Wales national football team|Wales national team]].
+
+==Early life==
+Cabango was born in [[Cardiff]] to an Angolan father and a Welsh mother. He has a younger brother named [[Theo Cabango|Theo]] who plays rugby union for [[Cardiff Rugby|Cardiff]].<ref>{{cite news |url=https://www.walesonline.co.uk/sport/rugby/rugby-news/introducing-cabango-brothers-super-talented-17245471 |title=Introducing the Cabango brothers, the super-talented siblings excelling in Welsh rugby and at Swansea City |work=WalesOnline |publisher=Media Wales |last=Thomas |first=Simon |date=15 November 2019 |access-date=6 January 2020}}</ref> He attended [[Ysgol Gyfun Gymraeg Plasmawr]], a Welsh language comprehensive school.<ref name="tns">{{cite news |url=https://www.tnsfc.co.uk/2018/06/12/saints-sign-swansea-starlet/ |title=Saints Sign Swansea Starlet |publisher=The New Saints |last=Bloor |first=Stewart |date=12 June 2018 |access-date=13 August 2019}}</ref><ref>{{cite web |url=http://www.ysgolplasmawr.cymru/images/docs/adroddiadblynyddol15-16s.pdf |title=Annual Report of the Governing Body 2015–16 |publisher=Ysgol Gyfun Gymraeg Plasmawr |access-date=13 August 2019}}</ref>
+
+==Club career==
+Cabango began his career as a youth player with local amateur side Maindy Corries, where his father Paolo was a coach, before joining the youth academy at [[Newport County A.F.C.|Newport County]],<ref>{{cite web |url=http://www.maindy.co.uk/news/maindy-boy-selected-for-welsh-squad-1413540.html |title=Maindy Boy Selected for Welsh Squad |publisher=Maindy Corries F.C. |last=Masrani |first=Daniel |date=15 August 2015 |access-date=13 August 2019 |archive-date=13 August 2019 |archive-url=https://web.archive.org/web/20190813200446/http://www.maindy.co.uk/news/maindy-boy-selected-for-welsh-squad-1413540.html |url-status=dead }}</ref> where he played from under-13 to under-15 levels. He moved to the academy at [[Swansea City A.F.C.|Swansea City]] where he captained the under-19 side to win the [[FAW Welsh Youth Cup]] in 2018 and helped the under-23 side reach the final of the [[Premier League Cup (football)|Premier League Cup]].<ref name="tns"/><ref>{{cite news |url=https://www.shropshirestar.com/sport/football/the-new-saints/2018/06/12/the-new-saints-sign-swansea-youngster/ |title=The New Saints sign Swansea youngster |newspaper=Shropshire Star |last=Edwards |first=Joe |date=12 June 2018 |access-date=13 August 2019}}</ref>
+
+In June 2018, Cabango signed for reigning [[Cymru Premier|Welsh Premier League]] champions [[The New Saints F.C.|The New Saints]] on a six-month loan deal.<ref name="tns"/> He made his senior debut for the side in a 5–0 defeat to Macedonian side [[KF Shkëndija]] in the first leg of the first qualifying round of the [[UEFA Champions League]].<ref>{{cite news |url=https://www.bbc.co.uk/sport/football/44733795 |title=KF Shkendija 5–0 The New Saints |publisher=BBC Sport |date=10 July 2018 |access-date=13 August 2019}}</ref> In the return leg, Cabango scored his first senior goal as The New Saints won 4–0 but were eliminated on aggregate.<ref>{{cite news |url=https://www.bbc.co.uk/sport/football/44851728 |title=The New Saints 4–0 KF Shkendija |publisher=BBC Sport |date=17 July 2018 |access-date=13 August 2019}}</ref>
+
+On 13 August 2019, he made his professional debut for Swansea in a 3–1 victory over [[Northampton Town F.C.|Northampton Town]] in the first round of the [[EFL Cup|League Cup]].<ref>{{cite news |url=https://www.bbc.co.uk/sport/football/49245335 |title=Swansea City 3–1 Northampton Town |publisher=BBC Sport |date=13 August 2019 |access-date=13 August 2019}}</ref> He made his league debut as a substitute against [[Huddersfield Town A.F.C.|Huddersfield Town]] on 26 November 2019.<ref>{{cite news|url=https://www.bbc.co.uk/sport/football/50469231 |title=Huddersfield 1-1 Swansea |publisher=BBC |date=26 November 2019|access-date=9 December 2019}}</ref>
+
+==International career==
+Cabango made his senior Wales international debut as a second-half substitute during the team's [[2020–21 UEFA Nations League|UEFA Nations League]] [[2020–21 UEFA Nations League B|League B]] match against [[Finland national football team|Finland]] on 3 September 2020, which Wales won 1–0.<ref>[https://www.bbc.co.uk/sport/football/53927793 Cabango Wales debut]</ref> In May 2021 he was selected for the Wales squad for the delayed [[UEFA Euro 2020]] tournament.<ref>{{Cite news|url=https://www.bbc.co.uk/sport/football/57301006|title=Uncapped Colwill in Wales Euro 2020 squad|work=BBC Sport }}</ref> In November 2022 he was named in the Wales squad for the [[2022 FIFA World Cup]] in [[Qatar]].<ref>[https://www.bbc.co.uk/sport/football/63545011 2022 Wales World Cup squad]</ref>
+
+==Personal life==
+Ben Cabango is the elder brother of professional [[rugby union]] player [[Theo Cabango]].<ref>{{cite news |title=Theo Cabango: Brother of Swansea City's Ben bids to seize Cardiff Rugby chance |url=https://www.bbc.co.uk/sport/rugby-union/59672275 |website=BBC Sport |date=15 December 2021 |accessdate=21 December 2021 }}</ref>
+
+==Career statistics==
+{{updated|match played 1 April 2023}}
+
+{| class=wikitable style="text-align: center"
+|+ Appearances and goals by club, season and competition
+|-
+!rowspan=2|Club
+!rowspan=2|Season
+!colspan=3|League
+!colspan=2|National Cup
+!colspan=2|League Cup
+!colspan=2|Other
+!colspan=2|Total
+|-
+!Division!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals
+|-
+|rowspan=6|[[Swansea City A.F.C.|Swansea City]]
+|[[2018–19 Swansea City A.F.C. season|2018–19]]<ref name="2018/19">{{Soccerbase season|id=114570|season=2018|accessdate=13 August 2019}}</ref>
+|[[EFL Championship|Championship]]
+|0||0||0||0||0||0||colspan=2|—||0||0
+|-
+|[[2019–20 Swansea City A.F.C. season|2019–20]]<ref name="2019/20">{{Soccerbase season|id=114570|season=2019|accessdate=13 August 2019}}</ref>
+|Championship
+|21||1||0||0||3||0||2{{efn|name=CHPO|Appearance(s) in [[EFL Championship play-offs|Championship play-offs]]}}||0||26||1
+|-
+|[[2020–21 Swansea City A.F.C. season|2020–21]]<ref name="2020/21">{{Soccerbase season|id=114570|season=2020|accessdate=9 January 2021}}</ref>
+|Championship
+|30||4||2||0||0||0||3{{efn|name=CHPO}}||0||35||4
+|-
+|[[2021–22 Swansea City A.F.C. season|2021–22]]<ref name="2021/22">{{Soccerbase season|id=114570|season=2021|access-date=30 November 2022}}</ref>
+|Championship
+|37||1||0||0||2||1||colspan=2|—||39||2
+|-
+|[[2022–23 Swansea City A.F.C. season|2022–23]]<ref name="2022/23">{{Soccerbase season|id=114570|season=2022|access-date=30 November 2022}}</ref>
+|Championship
+|42||2||2||0||1||0||colspan=2|—||39||2
+|-
+!colspan=2|Total
+!130||8||4||0||6||1||5||0||139||9
+|-
+|[[The New Saints F.C.|The New Saints]] (loan)
+|[[2018–19 Welsh Premier League|2018–19]]<ref name=soccerway>{{cite web |title=B. Cabango: Summary |url=https://uk.soccerway.com/players/benjamin-cabango/453032/ |website=Soccerway |publisher=Perform Group |access-date=9 January 2021}}</ref>
+|[[Cymru Premier|Welsh Premier League]]
+|16||0||0||0||3||0||6{{efn|Two appearances and one goal in [[UEFA Champions League]], four appearances in [[UEFA Europa League]]}}||1||25||1
+|-
+!colspan=3|Career total
+!146||8||4||0||9||1||11||1||164||10
+|}
+{{notelist}}
+
+==References==
+{{reflist}}
+
+==External links==
+* {{Soccerway|453032}}
+
+{{Swansea City A.F.C. squad}}
+{{Wales squad UEFA Euro 2020}}
+{{Wales squad 2022 FIFA World Cup}}
+
+{{DEFAULTSORT:Cabango, Ben}}
+[[Category:2000 births]]
+[[Category:Living people]]
+[[Category:Footballers from Cardiff]]
+[[Category:Men's association football defenders]]
+[[Category:Welsh men's footballers]]
+[[Category:Wales men's youth international footballers]]
+[[Category:Welsh people of Angolan descent]]
+[[Category:Newport County A.F.C. players]]
+[[Category:Swansea City A.F.C. players]]
+[[Category:The New Saints F.C. players]]
+[[Category:Cymru Premier players]]
+[[Category:English Football League players]]
+[[Category:Wales men's under-21 international footballers]]
+[[Category:Wales men's international footballers]]
+[[Category:UEFA Euro 2020 players]]
+[[Category:2022 FIFA World Cup players]]
+
+{{Wales-footy-defender-stub}}

@@ -1,0 +1,98 @@
+{{short description|Qatari footballer}}
+{{Use dmy dates|date=November 2014}}
+{{Infobox football biography
+| name = Ismaeel Mohammad
+| image = 
+| fullname = Ismaeel Mohammad Mohammad
+| birth_place = [[Doha]], Qatar
+| birth_date = {{birth date and age|df=yes|1990|4|5}}
+| height = 1.72 m<ref name="FIFA 2022">{{cite web |url=https://fdp.fifa.org/assetspublic/ce44/pdf/SquadLists-English.pdf |title=FIFA World Cup Qatar 2022™: List of Players: Qatar |publisher=FIFA |page=23 |date=15 November 2022 |access-date=22 November 2022 |archive-url=https://web.archive.org/web/20221218195301/https://fdp.fifa.org/assetspublic/ce44/pdf/SquadLists-English.pdf |archive-date=18 December 2022 |url-status=live}}</ref>
+| position = [[Midfielder]]
+| currentclub = [[Al-Duhail SC|Al-Duhail]]
+| clubnumber = 7
+| years1 = 2009–2011
+| clubs1 = [[El Jaish SC|El Jaish]]
+| years2 = 2011–
+| clubs2 = [[Al-Duhail SC|Al-Duhail]]
+| caps2 = 209
+| goals2 = 33
+| nationalyears1 = 2013–
+| nationalteam1 = [[Qatar national football team|Qatar]]
+| nationalcaps1 = 70
+| nationalgoals1 = 4
+| pcupdate = 00:00, 1 July 2023 (UTC)
+| ntupdate = 10 November 2022
+}}
+'''Ismaeel Mohammad''' ({{lang-ar|إسماعيل محمد}}; born 5 April 1990) is a [[Qatari]] professional [[association football|footballer]] who currently plays as a midfielder for [[Al-Duhail SC|Al-Duhail]] in the [[Qatar Stars League]] and the [[Qatar national football team]].
+
+==International career==
+
+===International goals===
+:''Scores and results list Qatar's goal tally first.''<ref name="NFT">{{cite web|url=http://www.national-football-teams.com/player/54356/Ismaeel_Mohammed.html|title=Mohammed, Ismaeel|publisher=National Football Teams|access-date=27 January 2017}}</ref>
+ 
+{|class="wikitable plainrowheaders sortable"
+|-
+!Goal!!Date!!Venue!!Opponent!!Score!!Result!!Competition
+|-
+| 1. || 27 December 2014 || [[Abdullah bin Khalifa Stadium]], [[Doha]], Qatar || {{fb|EST}} || align=center | '''3'''–0 || align=center | 3–0 || [[Exhibition game#Association football|Friendly]]
+|-
+| 2. || 28 August 2015 || [[Jassim Bin Hamad Stadium]], Doha, Qatar || {{fb|SIN}} || align=center | '''4'''–0 || align=center | 4–0 || Friendly
+|-
+| 3. || 3 September 2015 || Jassim Bin Hamad Stadium, Doha, Qatar || {{fb|BHU}} || align=center | '''14'''–0 || align=center | 15–0 || [[2018 FIFA World Cup qualification – AFC second round|2018 FIFA World Cup qualification]]
+|-
+| 4. || 21 March 2018 || [[Basra Sports City]], [[Basra]], Iraq || {{fb|IRQ}} || align=center | '''3'''–1 || align=center | 3–2 || [[2018 International Friendship Championship]]
+|}
+
+== Honours ==
+=== Club ===
+;Al-Duhail
+*[[Qatar Stars League]]: [[2011–12 Qatar Stars League|2011–12]], [[2013–14 Qatar Stars League|2013–14]], [[2014–15 Qatar Stars League|2014–15]], [[2016–17 Qatar Stars League|2016–17]], [[2017–18 Qatar Stars League|2017–18]], [[2019–20 Qatar Stars League|2019–20]]
+*[[Qatar Cup]]: [[2013 Qatar Crown Prince Cup|2013]], [[2015 Qatar Cup|2015]], [[2018 Qatar Cup|2018]]
+*[[Sheikh Jassim Cup]]: [[2015 Sheikh Jassim Cup|2015]], [[2016 Sheikh Jassim Cup|2016]]
+*[[Emir of Qatar Cup]]: [[2016 Emir of Qatar Cup|2016]], [[2018 Emir of Qatar Cup|2018]], [[2019 Emir of Qatar Cup|2019]], [[2022 Emir of Qatar Cup|2022]]
+
+=== International ===
+;Qatar
+* [[WAFF Championship]]: [[2014 WAFF Championship|2014]]
+* [[Gulf Cup of Nations]]: [[2014 Gulf Cup of Nations|2014]]
+
+==References==
+
+{{reflist}}
+
+== External links ==
+* {{Soccerway|ismaeel-mohammad/209063}}
+* {{NFT player|54356/Ismaeel_Mohammed}}
+* {{BeSoccer|ismail-mohamd-211271}}
+
+{{Al-Duhail SC squad}}
+{{Navboxes
+|title=Qatar squads
+|bg=#660033
+|fg=white
+|bordercolor=white
+|list1=
+{{Qatar squad 2015 AFC Asian Cup}}
+{{Qatar squad 2021 CONCACAF Gold Cup}}
+{{Qatar squad 2022 FIFA World Cup}}
+}}
+
+{{DEFAULTSORT:Mohammad, Ismaeel}}
+[[Category:1990 births]]
+[[Category:Living people]]
+[[Category:Qatari men's footballers]]
+[[Category:Naturalised citizens of Qatar]]
+[[Category:Qatari people of Saudi Arabian descent]]
+[[Category:Saudi Arabian emigrants to Qatar]]
+[[Category:El Jaish SC players]]
+[[Category:Al-Duhail SC players]]
+[[Category:Qatar Stars League players]]
+[[Category:Qatari Second Division players]]
+[[Category:Qatar men's international footballers]]
+[[Category:Men's association football forwards]]
+[[Category:2015 AFC Asian Cup players]]
+[[Category:2021 CONCACAF Gold Cup players]]
+[[Category:2022 FIFA World Cup players]]
+
+
+{{Qatar-footy-forward-stub}}

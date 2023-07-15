@@ -1,0 +1,173 @@
+{{Short description|none}}
+{{Use dmy dates|date=August 2020}}
+The '''second round''' of [[2022 FIFA World Cup qualification (CONCACAF)|CONCACAF matches]] for '''[[2022 FIFA World Cup qualification]]''' was played on 12 and 15 June 2021.<ref>{{cite news |url=https://www.concacaf.com/en/world-cup-qualifying-men/article/draw-procedures-confirmed-for-first-round-of-concacaf-qualifiers-for-the-fifa-world-cup-qatar-2022 |title=Draw procedures confirmed for First Round of Concacaf Qualifiers for the FIFA World Cup Qatar 2022 |work=[[CONCACAF]] |date=12 August 2020 |access-date=19 August 2020}}</ref>
+
+==Format==
+A total of six teams advanced from the [[2022 FIFA World Cup qualification – CONCACAF first round|first round]] and played home-and-away over [[two-legged tie|two legs]] in three ties. The three winners advanced to the [[2022 FIFA World Cup qualification – CONCACAF third round|third round]].<ref>{{cite news |url=https://www.concacaf.com/en/article/new-concacaf-qualifiers-announced-for-regional-qualification-to-fifa-world-cup-qatar-2022 |title=New CONCACAF Qualifiers announced for regional qualification to FIFA World Cup Qatar 2022 |work=CONCACAF |date=27 July 2020 |access-date=18 August 2020}}</ref>
+
+==Schedule==
+The first and second legs were originally scheduled for March 2021, but were later rescheduled to June 2021 due to the [[COVID-19 pandemic]].<ref>{{cite news |url=https://www.concacaf.com/en/world-cup-qualifying-men/article/concacaf-confirms-schedule-for-concacaf-qualifiers-for-fifa-world-cup-qatar-2022 |title=CONCACAF confirms schedule for Concacaf Qualifiers for FIFA World Cup Qatar 2022 |work=CONCACAF |date=4 December 2020 |access-date=4 December 2020 |archive-date=20 January 2021 |archive-url=https://web.archive.org/web/20210120132650/https://www.concacaf.com/en/world-cup-qualifying-men/article/concacaf-confirms-schedule-for-concacaf-qualifiers-for-fifa-world-cup-qatar-2022 |url-status=dead }}</ref>
+
+==Qualified teams==
+Note: '''Bolded''' teams qualified for the [[2022 FIFA World Cup qualification – CONCACAF third round|third round]].
+{| class="wikitable"
+|-
+!Group<br>{{small|([[2022 FIFA World Cup qualification – CONCACAF first round|first round]])}}
+!Winners
+|-
+![[2022 FIFA World Cup qualification – CONCACAF first round#Group A|A]]
+|'''{{fb|SLV}}'''
+|-
+![[2022 FIFA World Cup qualification – CONCACAF first round#Group B|B]]
+|'''{{fb|CAN}}'''
+|-
+![[2022 FIFA World Cup qualification – CONCACAF first round#Group C|C]]
+|{{fb|CUW}}
+|-
+![[2022 FIFA World Cup qualification – CONCACAF first round#Group D|D]]
+|'''{{fb|PAN}}'''
+|-
+![[2022 FIFA World Cup qualification – CONCACAF first round#Group E|E]]
+|{{fb|HAI}}
+|-
+![[2022 FIFA World Cup qualification – CONCACAF first round#Group F|F]]
+|{{fb|SKN}}
+|}
+
+The second round ties were predetermined as follows:
+*Group A winner v Group F winner
+*Group B winner v Group E winner
+*Group C winner v Group D winner
+
+The winners of Groups D–F hosted the first leg, while the winners of Groups A–C hosted the second leg.
+
+==Summary==
+The matches were played on 12 and 15 June 2021.
+<onlyinclude>{{TwoLegStart}}
+{{TwoLegResult|{{fb-rt|SKN}}||0–6|'''{{fb|SLV}}'''||[[2022 FIFA World Cup qualification – CONCACAF second round#Saint Kitts and Nevis v El Salvador|0–4]]|[[2022 FIFA World Cup qualification – CONCACAF second round#El Salvador v Saint Kitts and Nevis|0–2]]}}
+{{TwoLegResult|{{fb-rt|HAI}}||0–4|'''{{fb|CAN}}'''||[[2022 FIFA World Cup qualification – CONCACAF second round#Haiti v Canada|0–1]]|[[2022 FIFA World Cup qualification – CONCACAF second round#Canada v Haiti|0–3]]}}
+{{TwoLegResult|'''{{fb-rt|PAN}}'''||2–1|{{fb|CUW}}||[[2022 FIFA World Cup qualification – CONCACAF second round#Panama v Curaçao|2–1]]|[[2022 FIFA World Cup qualification – CONCACAF second round#Curaçao v Panama|0–0]]}}
+|}</onlyinclude>
+
+==Matches==
+{{Football box
+|id         = Saint Kitts and Nevis v El Salvador
+|date       = {{Start date|2021|6|12|df=y}}
+|time       = 16:00 [[UTC−04:00|UTC−4]]
+|team1      = {{fb-rt|SKN}}
+|score      = 0–4
+|report     = https://www.fifa.com/tournaments/mens/worldcup/qatar2022/qualifiers/concacaf/match-center/400154933
+|team2      = {{fb|SLV}}
+|goals1     =
+|goals2     =
+*[[David Rugamas|Rugamas]] {{goal|3||27}}
+*[[Joshua Pérez|Pérez]] {{goal|20}}
+*[[Darwin Cerén|Cerén]] {{goal|64|pen.}}
+|stadium    = [[Warner Park Sporting Complex|Warner Park]], [[Basseterre]]
+|attendance = 0
+|referee    = Kevin Morrison ([[Jamaica Football Federation|Jamaica]])
+}}
+{{Football box
+|id         = El Salvador v Saint Kitts and Nevis
+|date       = {{Start date|2021|6|15|df=y}}
+|time       = 19:30 [[UTC−06:00|UTC−6]]
+|team1      = {{fb-rt|SLV}}
+|score      = 2–0
+|report     = https://www.fifa.com/tournaments/mens/worldcup/qatar2022/qualifiers/concacaf/match-center/400154931
+|team2      = {{fb|SKN}}
+|goals1     =
+*[[Joshua Pérez|Pérez]] {{goal|24}}
+*[[Gerson Mayen|Mayen]] {{goal|87}}
+|goals2     =
+|stadium    = [[Estadio Cuscatlán]], [[San Salvador]]
+|attendance = 0
+|referee    = Keylor Herrera ([[Costa Rican Football Federation|Costa Rica]])
+}}
+'''El Salvador''' won 6–0 on aggregate and advanced to the [[2022 FIFA World Cup qualification – CONCACAF third round|third round]].
+----
+{{Football box
+|id         = Haiti v Canada
+|date       = {{Start date|2021|6|12|df=y}}
+|time       = 17:00 [[UTC−04:00|UTC−4]]
+|team1      = {{fb-rt|HAI}}
+|score      = 0–1
+|report     = https://www.fifa.com/tournaments/mens/worldcup/qatar2022/qualifiers/concacaf/match-center/400154934
+|team2      = {{fb|CAN}}
+|goals1     =
+|goals2     =
+*[[Cyle Larin|Larin]] {{goal|14}}
+|stadium    = [[Stade Sylvio Cator]], [[Port-au-Prince]]
+|attendance = 0
+|referee    = [[John Pitti]] ([[Panamanian Football Federation|Panama]])
+}}
+{{Football box
+|id         = Canada v Haiti
+|date       = {{Start date|2021|6|15|df=y}}
+|time       = 20:05 [[UTC−05:00|UTC−5]]
+|team1      = {{fb-rt|CAN}}
+|score      = 3–0
+|report     = https://www.fifa.com/tournaments/mens/worldcup/qatar2022/qualifiers/concacaf/match-center/400154932
+|team2      = {{fb|HAI}}
+|goals1     =
+*[[Josué Duverger|Duverger]] {{goal|46|o.g.}}
+*[[Cyle Larin|Larin]] {{goal|74}}
+*[[Junior Hoilett|Hoilett]] {{goal|89}}
+|goals2     =
+|stadium    = [[SeatGeek Stadium]], [[Bridgeview, Illinois|Bridgeview]] (United States)
+|attendance = 0
+|referee    = Rubiel Vazquez ([[United States Soccer Federation|United States]])
+}}
+'''Canada''' won 4–0 on aggregate and advanced to the third round.
+----
+{{Football box
+|id         = Panama v Curaçao
+|date       = {{Start date|2021|6|12|df=y}}
+|time       = 18:15 [[UTC−05:00|UTC−5]]
+|team1      = {{fb-rt|PAN}}
+|score      = 2–1
+|report     = https://www.fifa.com/tournaments/mens/worldcup/qatar2022/qualifiers/concacaf/match-center/400154935
+|team2      = {{fb|CUW}}
+|goals1     =
+*[[Alberto Quintero (footballer)|Quintero]] {{goal|55}}
+*[[Cecilio Waterman|Waterman]] {{goal|77}}
+|goals2     =
+*[[Rangelo Janga|Janga]] {{goal|87}}
+|stadium    = [[Estadio Nacional de Panamá|Estadio Nacional Rod Carew]], [[Panama City]]
+|attendance = 7,000
+|referee    = Jaime Herrera Bonilla ([[Salvadoran Football Federation|El Salvador]])
+}}
+{{Football box
+|id         = Curaçao v Panama
+|date       = {{Start date|2021|6|15|df=y}}
+|time       = 19:00 [[UTC−04:00|UTC−4]]
+|team1      = {{fb-rt|CUW}}
+|score      = 0–0
+|report     = https://www.fifa.com/tournaments/mens/worldcup/qatar2022/qualifiers/concacaf/match-center/400154930
+|team2      = {{fb|PAN}}
+|goals1     =
+|goals2     =
+|stadium    = [[Ergilio Hato Stadium]], [[Willemstad]]
+|attendance = 2,760
+|referee    = Marco Ortíz ([[Mexican Football Federation|Mexico]])
+}}
+'''Panama''' won 2–1 on aggregate and advanced to the third round.
+
+==Goalscorers==
+{{#invoke:Goalscorers|main|2022 FIFA World Cup qualification (CONCACAF)|round=secondround}}<!--CAREFULLY update goalscorers at Module:Goalscorers/data/2022 FIFA World Cup qualification (CONCACAF)-->
+
+==References==
+{{reflist}}
+
+==External links==
+*{{Official website|https://www.fifa.com/tournaments/mens/worldcup/qatar2022/qualifiers|Official FIFA World Cup website}}
+*[https://www.fifa.com/tournaments/mens/worldcup/qatar2022/qualifiers/concacaf Qualifiers – North, Central America and Caribbean: Matches], FIFA.com
+*[https://www.concacaf.com/en/world-cup-qualifying-men World Cup Qualifying – Men], CONCACAF.com
+
+{{2022 FIFA World Cup qualification}}
+
+{{DEFAULTSORT:2022 Fifa World Cup qualification Concacaf second round}}
+[[Category:2022 FIFA World Cup qualification (CONCACAF)|2]]
+[[Category:2020–21 in CONCACAF football|Qual2]]
+[[Category:June 2021 sports events in North America|FIFA World Cup qualification - CONCACAF second round]]
+[[Category:Association football events postponed due to the COVID-19 pandemic|FIFA World Cup qualification - CONCACAF second round, 2022]]
+[[Category:Canada at the 2022 FIFA World Cup]]

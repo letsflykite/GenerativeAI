@@ -1,0 +1,124 @@
+{{short description|Moroccan footballer}}
+{{Use dmy dates|date=November 2022}}
+{{Infobox football biography
+| name = Yahya Jabrane
+| image = Jabrane.jpg
+| image_size = 
+| caption = Jabrane with [[Morocco national football team|Morocco]] in 2022
+| fullname = Yahya Jabrane<ref name="FCWC 2022">{{cite web |url=https://fdp.fifa.org/assetspublic/ce71/pdf/SquadLists-English.pdf |title=FIFA Club World Cup Morocco 2022™: List of Players: Wydad AC |publisher=FIFA |page=7 |date=7 February 2023 |access-date=18 February 2023 |archive-url=https://web.archive.org/web/20230212205323/https://fdp.fifa.org/assetspublic/ce71/pdf/SquadLists-English.pdf |archive-date=11 February 2023 |url-status=live}}</ref>
+| birth_date = {{Birth date and age|1991|6|18|df=y}}<ref name="FCWC 2022"/>
+| birth_place = [[Settat]], Morocco
+| height = 1.83 m<ref name="FCWC 2022"/>
+| position = [[Defensive midfielder]]
+| currentclub = [[Wydad AC]]
+| clubnumber = 5
+| years1 = 2013–2015
+| clubs1 = [[Raja Beni Mellal]]
+| caps1 = 10
+| goals1 = 0
+| years2 = 2015–2016
+| clubs2 = [[MC Oujda]]
+| caps2 = 27
+| goals2 = 1
+| years3 = 2016–2018
+| clubs3 = [[Hassania Agadir]]
+| caps3 = 53
+| goals3 = 1
+| years4 = 2018–2019
+| clubs4 = [[Dibba Al-Fujairah Club|Dibba Al-Fujairah]]
+| caps4 = 10
+| goals4 = 1
+| years5 = 2019–
+| clubs5 = [[Wydad AC]]
+| caps5 = 186
+| goals5 = 31
+| ntupdate = 06:57, 25 December 2022 (UTC)
+| nationalyears1 = 2012
+| nationalteam1 = [[Morocco national futsal team|Morocco Futsal]]
+| nationalcaps1 = 3
+| nationalgoals1 = 1
+| nationalyears2 = 2017–
+| nationalteam2 = [[Morocco A' national football team|Morocco A']]
+| nationalcaps2 = 7
+| nationalgoals2 = 2
+| nationalyears3 = 2021–
+| nationalteam3 = [[Morocco national football team|Morocco]]
+| nationalcaps3 = 20
+| nationalgoals3 = 2
+| medaltemplates = {{MedalSport|Men's [[association football|football]]}}
+{{MedalCountry|{{fb|MAR}}}}
+{{MedalCompetition|[[African Nations Championship]]}}
+{{Medal|W|[[2018 African Nations Championship|2018 Morocco]]|}}
+{{Medal|W|[[2020 African Nations Championship|2020 Cameroon]]|}}
+}}
+'''Yahya Jabrane''' ({{lang-ar|يحيى جبران}}; born 18 June 1991) is a Moroccan professional [[Association football|footballer]] who plays as a [[defensive midfielder]] for [[Botola]] club [[Wydad AC]] and the [[Morocco national football team|Morocco national team]].<ref>{{Cite web |title=Yahya Jabrane – Wydad Casablanca – Stats – titles won |url=https://www.footballdatabase.eu/en/player/details/191256-yahya-jabrane |website=Football Database}}</ref>
+
+== International career ==
+On 10 November 2022, he was named in Morocco's 26-man squad for the [[2022 FIFA World Cup]] in [[Qatar]].<ref>{{Cite web |last=Mukherjee |first=Soham |date=11 December 2022 |title=Morocco World Cup 2022 squad: Who's in and who's out? |url=https://www.goal.com/en-bh/lists/morocco-2022-world-cup-squad-hakimi-ziyech-mazraoui-qatar/blta36257fc4feeb66a |access-date=10 November 2022 |website=Goal}}</ref><ref>{{Cite web |date=10 November 2022 |title=Moroccan coach unveils list of 26 Atlas Lions in 2022 World Cup |url=https://en.hespress.com/52697-moroccan-coach-unveils-list-of-26-atlas-lions-in-2022-world-cup.html |access-date=10 November 2022 |website=HESPRESS English - Morocco News |language=en-US}}</ref>
+
+==International goals==
+:''Scores and results list Morocco's goal tally first.''<ref name="NFT">{{NFT player|id=70009|accessdate=15 October 2021}}</ref>
+{| class="wikitable"
+|-
+! No. !! Date !! Venue !! Opponent !! Score !! Result !! Competition
+|-
+| 1. || 18 January 2021 || [[Stade de la Réunification]], [[Douala]], [[Cameroon]] || {{fb|TOG}} || align=center|'''1'''–0 || align=center| 1–0 || [[2020 African Nations Championship]]
+|-
+| 2. || 4 December 2021 || [[Ahmed bin Ali Stadium]], [[Al Rayyan (city)|Al Rayyan]], [[Qatar]] || {{fb|JOR}} || align=center|'''1'''–0 || align=center| 4–0 || [[2021 FIFA Arab Cup]]
+|}
+
+===Futsal===
+{| class="wikitable"
+|-
+! No. !! Date !! Venue !! Opponent !! Score !! Result !! Competition
+|-
+| 1. || 2 November 2012 || [[Indoor Stadium Huamark]], [[Bangkok]], [[Thailand]] || {{futsal|PAN}} || align=center|0–'''1'''|| align=center| 8–3 || [[2012 FIFA Futsal World Cup]]
+|}
+
+==Honours==
+'''Wydad AC''' 
+*[[Botola]] (3) : [[2018-19 Botola|2018–19]], [[2020-21 Botola|2020–21]], [[2021-22 Botola|2021–22]] 
+*[[CAF Champions League]] (1) :[[2021–22 CAF Champions League | 2021-22]] 
+
+'''Morocco'''
+*[[African Nations Championship]] (2): [[2018 African Nations Championship|2018]], [[2020 African Nations Championship|2020]]<ref>{{Cite web |title=Morocco 4–0 Nigeria / CHAN 2018 |url=https://www.footballdatabase.eu/en/match/summary/1697565-maroc-nigeria |website=Football Database}}</ref>
+
+'''Individual'''
+*Best Player in [[Botola]]: 2022<ref>{{cite news |date=8 July 2022 |title="La Nuit des Stars" : le Wydad Casablanca (hommes) et l'AS FAR (dames) raflent la mise |trans-title="The Night of the Stars": Wydad Casablanca (men) and AS FAR (women) win the day |publisher=lematin.ma |url=https://lematin.ma/express/2022/nuit-stars-wydad-casablanca-hommes-las-far-dames-raflent-mise/378264.html |access-date=8 August 2022}}]</ref><ref>{{cite news |date=9 July 2022 |title="Événement : Tout Sur " La Nuit Des Stars " Qui Célèbre La Famille Sportive" |trans-title=Event: All About « The Night Of Stars » Which Celebrates The Sports Family |publisher=fr.le7tv.ma/ |url=https://fr.le7tv.ma/2022/07/09/evenement-la-nuit-des-stars-pour-celebrer-la-famille-sportive-videos/ |access-date=8 August 2022}}]</ref>
+
+'''Orders'''
+*[[Order of the Throne]]: 2022<ref>{{Cite web |date=2022-12-20 |title=King receives members of national soccer team, decorates them with Royal wissams |url=https://en.hespress.com/55519-king-receives-members-of-national-soccer-team-decorates-them-with-royal-wissams.html |access-date=2023-06-10 |website=HESPRESS English - Morocco News |language=en-US}}</ref>
+
+==References==
+{{reflist}}
+
+==External links==
+* {{soccerway|yahya-jabrane/531784}}
+
+{{Wydad AC squad}}
+{{Morocco squad 2022 FIFA World Cup}}
+
+{{DEFAULTSORT:Jabrane, Yahya}}
+[[Category:Living people]]
+[[Category:1991 births]]
+[[Category:Moroccan men's footballers]]
+[[Category:Moroccan men's futsal players]]
+[[Category:Men's association football midfielders]]
+[[Category:Morocco men's international footballers]]
+[[Category:Morocco men's A' international footballers]]
+[[Category:2018 African Nations Championship players]]
+[[Category:2020 African Nations Championship players]]
+[[Category:2022 FIFA World Cup players]]
+[[Category:Botola players]]
+[[Category:UAE Pro League players]]
+[[Category:MC Oujda players]]
+[[Category:Hassania Agadir players]]
+[[Category:Dibba Al Fujairah FC players]]
+[[Category:Wydad AC players]]
+[[Category:Moroccan expatriate men's footballers]]
+[[Category:Moroccan expatriate sportspeople in the United Arab Emirates]]
+[[Category:Expatriate men's footballers in the United Arab Emirates]]
+[[Category:People from Settat]]
+
+
+{{Morocco-footy-midfielder-stub}}

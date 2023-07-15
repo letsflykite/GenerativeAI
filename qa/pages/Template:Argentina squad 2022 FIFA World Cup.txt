@@ -1,0 +1,42 @@
+{{#invoke:national squad|main
+ | name        = Argentina squad 2022 FIFA World Cup
+ | bg          = white
+ | fg          = #0074E7
+ | bordercolor = black
+ | country     = Argentina
+ | comp link   = 2022 FIFA World Cup
+ | comp        = 2022 FIFA World Cup winners (3rd title)
+ | p1          = [[Franco Armani|Armani]]
+ | p2          = [[Juan Foyth|Foyth]]
+ | p3          = [[Nicolás Tagliafico|Tagliafico]]
+ | p4          = [[Gonzalo Montiel|Montiel]]
+ | p5          = [[Leandro Paredes|Paredes]]
+ | p6          = [[Germán Pezzella|Pezzella]]
+ | p7          = [[Rodrigo De Paul|De Paul]]
+ | p8          = [[Marcos Acuña|Acuña]]
+ | p9          = [[Julián Álvarez (footballer)|Álvarez]]
+ | p10         = [[Lionel Messi|Messi]]&nbsp;([[Captain (association football)|c]])
+ | p11         = [[Ángel Di María|Di María]]
+ | p12         = [[Gerónimo Rulli|Rulli]]
+ | p13         = [[Cristian Romero (footballer, born 1998)|Romero]]
+ | p14         = [[Exequiel Palacios|Palacios]]
+ | p15         = [[Ángel Correa|Correa]]
+ | p16         = [[Thiago Almada|Almada]]
+ | p17         = [[Papu Gómez|Gómez]]
+ | p18         = [[Guido Rodríguez|Rodríguez]]
+ | p19         = [[Nicolás Otamendi|Otamendi]]
+ | p20         = [[Alexis Mac Allister|Mac Allister]]
+ | p21         = [[Paulo Dybala|Dybala]]
+ | p22         = [[Lautaro Martínez|La. Martínez]]
+ | p23         = [[Emiliano Martínez|E. Martínez]]
+ | p24         = [[Enzo Fernández|Fernández]]
+ | p25         = [[Lisandro Martínez|Li. Martínez]]
+ | p26         = [[Nahuel Molina|Molina]]
+ | coach       = [[Lionel Scaloni|Scaloni]]
+}}<noinclude>
+{{Squad maintenance}}
+[[Category:2022 FIFA World Cup squad navigational boxes|Argentina]]
+[[Category:Argentina FIFA World Cup squad navigational boxes|2022]]
+[[Category:Argentina at the 2022 FIFA World Cup|squad]]
+[[Category:FIFA World Cup winning squad navigational boxes|2022]]
+</noinclude>

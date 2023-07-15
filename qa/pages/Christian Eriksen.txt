@@ -1,0 +1,566 @@
+{{short description|Danish footballer (born 1992)}}
+{{Use dmy dates|date=November 2022}}
+{{Infobox football biography
+| name = Christian Eriksen
+| image = 20140904 - Christian Eriksen (cropped).jpg
+| caption = Eriksen training with [[Denmark national football team|Denmark]] in 2014
+| full_name = Christian Dannemann Eriksen<ref name="NameBirthHeight">{{Cite web |date=15 November 2022 |title=FIFA World Cup Qatar 2022™: List of Players: Denmark |url=https://fdp.fifa.org/assetspublic/ce44/pdf/SquadLists-English.pdf |url-status=live |archive-url=https://web.archive.org/web/20221218195301/https://fdp.fifa.org/assetspublic/ce44/pdf/SquadLists-English.pdf |archive-date=18 December 2022 |access-date=3 December 2022 |publisher=FIFA |page=9}}</ref>
+| birth_date = {{birth date and age|1992|2|14|df=y}}<ref name="NameBirthHeight" />
+| birth_place = [[Middelfart]], Denmark
+| height = 1.81 m<ref name="NameBirthHeight" />
+| position = [[Midfielder]]
+| currentclub = [[Manchester United F.C.|Manchester United]]
+| clubnumber = 14
+| youthyears1 = 1995–2005
+| youthclubs1 = [[Middelfart Boldklub|Middelfart G&BK]]
+| youthyears2 = 2005–2008
+| youthclubs2 = [[Odense Boldklub|OB]]
+| youthyears3 = 2008–2010
+| youthclubs3 = [[Ajax Youth Academy|Ajax]]
+| years1 = 2010–2013
+| clubs1 = [[AFC Ajax|Ajax]]
+| caps1 = 113
+| goals1 = 25
+| years2 = 2013–2020
+| clubs2 = [[Tottenham Hotspur F.C.|Tottenham Hotspur]]
+| caps2 = 226
+| goals2 = 51
+| years3 = 2020–2021
+| clubs3 = [[Inter Milan]]
+| caps3 = 43
+| goals3 = 4
+| years4 = 2022
+| clubs4 = [[Brentford F.C.|Brentford]]
+| caps4 = 11
+| goals4 = 1
+| years5 = 2022–
+| clubs5 = [[Manchester United F.C.|Manchester United]]
+| caps5 = 28
+| goals5 = 1
+| nationalyears1 = 2007–2009
+| nationalteam1 = [[Denmark national under-17 football team|Denmark U17]]
+| nationalcaps1 = 27
+| nationalgoals1 = 9
+| nationalyears2 = 2009
+| nationalteam2 = [[Denmark national under-18 football team|Denmark U18]]
+| nationalcaps2 = 5
+| nationalgoals2 = 1
+| nationalyears3 = 2009
+| nationalteam3 = [[Denmark national under-19 football team|Denmark U19]]
+| nationalcaps3 = 3
+| nationalgoals3 = 1
+| nationalyears4 = 2011
+| nationalteam4 = [[Denmark national under-21 football team|Denmark U21]]
+| nationalcaps4 = 3
+| nationalgoals4 = 1
+| nationalyears5 = 2010–
+| nationalteam5 = [[Denmark national football team|Denmark]]
+| nationalcaps5 = 122
+| nationalgoals5 = 39
+| club-update = 18:22, 28 May 2023 (UTC)
+| nationalteam-update = 00:40, 20 June 2023 (UTC)
+}}
+'''Christian Dannemann Eriksen''' (born 14 February 1992) is a Danish professional [[Association football|footballer]] who plays as a [[midfielder]] for [[Premier League]] club [[Manchester United F.C.|Manchester United]] and the [[Denmark national football team|Denmark national team]]. He is renowned for his vision, technique, passing, and [[Free kick (association football)|free kick]] ability.
+
+Eriksen began his senior club career at age 18 in 2010, playing for [[AFC Ajax|Ajax]], where he won three [[Eredivisie]] titles and the [[KNVB Cup]]. In 2013, Eriksen signed for [[Tottenham Hotspur F.C.|Tottenham Hotspur]] in a [[Transfer (association football)|transfer]] worth £11 million (€12.45 million), where he was twice named the club's Player of the Year, was voted into the [[PFA Team of the Year (2010s)#Premier League 9|2017–18 PFA Team of the Year]], and later also reached the [[2019 UEFA Champions League Final]]. In 2020, Eriksen joined [[Inter Milan]] in a transfer worth €19.7 million (£16.9 million), and won a [[Serie A]] title.
+
+During a [[UEFA Euro 2020]] match on 12 June 2021, [[UEFA Euro 2020#Collapse of Christian Eriksen|Eriksen collapsed]] on the pitch after suffering a [[cardiac arrest]]; he was given [[cardiopulmonary resuscitation]] and was later fitted with an [[implantable cardioverter-defibrillator]]. He returned to football eight months later with a move to Premier League club [[Brentford F.C.|Brentford]], before transferring to Manchester United the following season.
+
+Eriksen made his senior international debut for Denmark in 2010 at age 18, and has since earned over 120 caps, including appearing in five major tournaments; he was also the youngest player at the [[2010 FIFA World Cup]]. Eriksen is his country's fifth highest [[Denmark national football team#Top goalscorers|all-time goalscorer]], and was named [[Danish Football Player of the Year]] a record five times.
+
+==Club career==
+
+===Middelfart and Odense===
+
+Born in [[Middelfart]], Denmark, Eriksen followed in the footsteps of his father Thomas when he started playing football in the academy of local side, [[Middelfart Boldklub|Middelfart G&BK]].<ref name="makings">{{Cite news |last=Ames |first=Nick |date=15 June 2018 |title=The making of Christian Eriksen: from the start he was a 'wow' footballer |work=The Guardian |url=https://www.theguardian.com/football/2018/jun/15/christian-eriksen-making-of-denmark-tottenham |access-date=25 June 2018}}</ref> Eriksen's father was also one of the coaches at the time and in 2004 they helped the youth side finish unbeaten in the local youth championship for the third time in a period of four years.<ref name=makings/> The following year, he joined [[Odense Boldklub]] who competed in the Danish youth championships and within a year had helped the club to an age-group title. It was at OB that Eriksen first began showing signs of his technical ability, with his dribbling and free-kick techniques lauded by then-coach, Tonny Hermansen.<ref name=makings/> His form at youth level attracted the attention of a number of major European clubs, including the likes of [[Chelsea F.C.|Chelsea]] and [[FC Barcelona|Barcelona]].<ref>{{Cite news |last=Hansen |first=Niels |date=4 April 2008 |title=FC Barcelona kigger på OB-talent |language=da |work=[[B.T. (tabloid)|BT]] |url=http://www.bt.dk/sport/fc-barcelona-kigger-paa-ob-talent}}</ref> Eriksen ultimately underwent trials with both clubs as well as [[Real Madrid CF|Real Madrid]], [[Manchester United F.C.|Manchester United]] and [[A.C. Milan|Milan]], but finally decided to move to [[AFC Ajax|Ajax]], stating, "My first step should not be too big. I knew that playing in the Netherlands would be very good for my development. Then Ajax arrived and that was a fantastic option."<ref>{{Cite web |date=28 February 2011 |title=De eerste stap moest niet te groot zijn, Ajax was fantastische optie |url=http://www.voetbalzone.nl/doc.asp?uid=139277 |access-date=28 February 2011 |publisher=Voetbalzone |language=nl}}</ref>
+
+===Ajax===
+
+====2008–2010: Youth and first-team squad====
+On 17 October 2008, Eriksen signed a two-and-a-half-year contract with [[Amsterdam]]-based club, [[AFC Ajax|Ajax]].<ref name="uefastarlet">{{Cite web |date=17 October 2008 |title=Danish starlet Eriksen opts for Ajax |url=http://www.uefa.com/uefaeuropaleague/news/newsid=762604.html |access-date=19 April 2010 |publisher=UEFA}}</ref> The [[transfer fee]] received by OB was estimated at €1&nbsp;million (£847,199) while Middelfart also received a sum of €35 000 which they later used to construct a football pitch.<ref>{{Cite web |last=Brown |first=Nigel |date=23 February 2010 |title=Wenger eager to sign up Ajax starlet after Bergkamp's endorsemsent |url=http://www.sport.co.uk/news/Football/34596/_Wenger_eager_to_sign_up_Ajax_starlet_after_Bergkamps_endorsemsent_.aspx |archive-url=https://web.archive.org/web/20100226101000/http://www.sport.co.uk/news/Football/34596/_Wenger_eager_to_sign_up_Ajax_starlet_after_Bergkamps_endorsemsent_.aspx |archive-date=26 February 2010 |access-date=2 June 2010 |website=Sport.co.uk}}</ref><ref name=makings/> He worked his way through the youth teams at Ajax and was promoted to the [[first team (association football)|first team]] squad in January 2010, where he was given the number 51 shirt.<ref name=uefafaith/> Later that month, he made his first team debut in a 1–1 [[Eredivisie]] with [[NAC Breda]].<ref>{{Cite web |date=17 January 2010 |title=Eriksen fik debut i Ajax |url=http://www.dr.dk/Sporten/Fodbold/2010/01/17/160629.htm |access-date=17 January 2010 |publisher=[[DR (broadcaster)|Danmarks Radio]] |language=da}}</ref><ref>{{Cite news |last=Mannion |first=Damian |date=10 February 2011 |title=Christian Eriksen – The player every club wants: Ten things you need to know |publisher=talkSport |url=https://talksport.com/uncategorized/100325/christian-eriksen-player-every-club-wants-ten-things-you-need-know/ |access-date=25 June 2018}}</ref> He scored his first goal for Ajax on 25 March in a 6–0 win over [[Go Ahead Eagles]] in the [[KNVB Cup|Dutch Cup]] and extended his contract with the club the following month.<ref>{{Cite web |date=10 April 2010 |title=Supertalent Eriksen tot 2014 bij Ajax |url=http://www.elfvoetbal.nl/Overige/181292/Supertalent-Eriksen-tot-2014-bij-Ajax |access-date=11 March 2018 |publisher=ELF Voetbal |language=nl}}</ref> On 6 May, he played in the second match of the final of the [[2009–10 KNVB Cup|2009–10 Dutch Cup]] as Ajax beat [[Feyenoord]] 4–1, prevailing 6–1 on aggregate.<ref name="2010cup">{{Cite web |date=6 May 2010 |title=Report: Feyenoord Rotterdam vs Ajax Amsterdam&nbsp;– Dutch Cup |url=http://soccernet.espn.go.com/report?id=291558&cc=5739 |url-status=dead |archive-url=https://web.archive.org/web/20100508052455/http://soccernet.espn.go.com/report?id=291558&cc=5739 |archive-date=8 May 2010 |access-date=2 June 2010 |publisher=ESPN Soccernet}}</ref> At the end of his first professional season with the club, Eriksen had played 21 competitive matches, scoring one goal, and had made his international debut for Denmark.<ref name="SW">{{Cite web |title=C. Eriksen: Summary |url=https://uk.soccerway.com/players/christian-eriksen/95871/ |access-date=24 April 2019 |website=Soccerway |publisher=Perform Group}}</ref><ref name=debut/> Eriksen's form throughout the campaign earned praise from manager [[Martin Jol]] who compared him to former youth products [[Wesley Sneijder]] and [[Rafael van der Vaart]] as well as Danish legend, [[Michael Laudrup]] for his reading of the game in the traditional [[Playmaker|number 10 role]].<ref name="uefafaith">{{Cite news |date=13 March 2010 |title=Eriksen puts faith in Ajax way by Berend Scholten |publisher=UEFA |url=http://www.uefa.com/news/newsid=1459745.html#eriksen+puts+faith+ajax}}</ref>
+
+====2010–2013: Breakthrough years====
+[[File:EriksenAjax2.jpg|thumb|left|Eriksen (right) during an away game against [[FC Spartak Moscow|Spartak Moscow]] (3-0) in March 2011]]
+Eriksen took the number eight jersey ahead of the following campaign and began the [[2010–11 Eredivisie|2010–11 season]] well, scoring his first Ajax league goal on 29 August 2010 in an away victory over [[De Graafschap]].<ref>{{Cite news |date=19 July 2010 |title=Ajax maakt rugnummers bekend |language=nl |work=Het Parool |url=http://www.parool.nl/parool/nl/13/AJAX/article/detail/305683/2010/07/16/Ajax-maakt-rugnummers-bekend.dhtml |url-status=dead |access-date=20 July 2010 |archive-url=https://archive.today/20120913022717/http://www.parool.nl/parool/nl/13/AJAX/article/detail/305683/2010/07/16/Ajax-maakt-rugnummers-bekend.dhtml |archive-date=13 September 2012}}</ref><ref>{{Cite web |date=29 August 2010 |title=De Graafschap vs. Ajax |url=https://int.soccerway.com/matches/2010/08/29/netherlands/eredivisie/bv-de-graafschap/afc-ajax/941442/ |access-date=11 February 2011 |website=Soccerway}}</ref> Over the course of the next few months, he scored his first home goal at the [[Amsterdam Arena]], in a 3–0 Cup victory over [[SC Veendam|BV Veendam]], and his first European goal, in a 3–0 [[UEFA Europa League]] win over [[R.S.C. Anderlecht|Anderlecht]].<ref>{{Cite web |date=11 November 2010 |title=Ajax vs. Veendam |url=https://int.soccerway.com/matches/2010/11/11/netherlands/knvb-beker/afc-ajax/veendam-1894/1038712/ |access-date=11 February 2011 |website=Soccerway}}</ref><ref>{{Cite web |date=17 February 2011 |title=Ruthless Ajax make Anderlecht pay the penalty |url=http://www.uefa.com/uefaeuropaleague/matches/season=2011/round=2000129/match=2003770/postmatch/report/index.html |url-status=dead |archive-url=https://archive.today/20110220032655/http://www.uefa.com/uefaeuropaleague/matches/season=2011/round=2000129/match=2003770/postmatch/report/index.html |archive-date=20 February 2011 |access-date=6 June 2011 |publisher=UEFA}}</ref> In between the milestone goals, Eriksen was also named [[Danish Football Player of the Year#Danish Football Association's award|Danish Talent of the Year]].<ref name="autogenerated1">{{Cite web |last=Darfelt |first=Rikke |date=7 December 2010 |title=Christian Eriksen er Årets Talent 2010 |url=http://www.dr.dk/Sporten/Fodbold/Landsholdet/2010/12/07/215702.htm |access-date=11 February 2011 |publisher=Danmarks Radio |language=da}}</ref> His growing capabilities as the team's playmaker saw him become an undisputed starter in the side and he helped Ajax to their first [[2010–11 Eredivisie|Eredivisie title]] in seven years. At the end of the season he was named Ajax's [[List of AFC Ajax records and statistics#AFC Ajax prize winners|Talent of the Year]].<ref name="ajaxtalent">{{Cite web |date=15 May 2011 |title=Stekelenburg Ajacied van het Jaar, Christian Eriksen Talent van het Jaar |url=http://www.ajax.nl/Nieuws/Nieuwsarchief/Nieuws-artikel/Stekelenburg-Ajacied-van-het-Jaar.htm |url-status=dead |archive-url=https://web.archive.org/web/20110822224308/http://www.ajax.nl/Nieuws/Nieuwsarchief/Nieuws-artikel/Stekelenburg-Ajacied-van-het-Jaar.htm |archive-date=22 August 2011 |access-date=6 June 2011 |publisher=AFC Ajax |language=nl}}</ref> His form throughout the campaign also earned him the [[Dutch Football Talent of the Year]] award which saw him become only the second Danish player to win the award since [[Jon Dahl Tomasson]] in 1996. [[Johan Cruyff]], whose panel selected Eriksen for the award, described Eriksen as a typical product of the Danish school and added to previous comparisons between him and [[Brian Laudrup|Brian]] and Michael Laudrup."<ref name="talented">{{Cite web |last=Scholten |first=Berend |date=23 May 2011 |title=Janssen named Netherlands' finest |url=http://www.uefa.com/memberassociations/news/newsid=1634341.html#janssen+voted+eredivisies+best |access-date=6 June 2011 |publisher=UEFA}}</ref>
+
+[[File:Basis Elftal Ajax 14Sep2011.jpg|thumb|right|Eriksen (front row, centre) with his Ajax teammates in September 2011]]
+
+On 18 October 2011, Eriksen scored his first goal in the [[UEFA Champions League]] when Ajax beat [[GNK Dinamo Zagreb|Dinamo Zagreb]] 2–0 in the [[2011–12 UEFA Champions League group stage|group stage]].<ref>{{Cite news |last=Greene |first=Laura |date=17 May 2013 |title=Christian Eriksen to Liverpool: Tracking the Evolution of the Rumour |publisher=Bleacher Report |url=http://bleacherreport.com/articles/1642569#slide3 |access-date=25 June 2018}}</ref> In the return fixture the following month, he provided assists to teammates [[Gregory van der Wiel]] and [[Siem de Jong]] as Ajax recorded a 4–0 victory.<ref>{{Cite web |date=2 November 2011 |title=Stylish Ajax eliminate Dinamo |url=http://www.uefa.com/uefachampionsleague/season=2012/matches/round=2000263/match=2007632/postmatch/report/index.html |publisher=UEFA}}</ref> Five days later he was named [[Danish Football Player of the Year]] in recognition of his role in helping Ajax to the league title the season before and in Denmark's successful [[UEFA Euro 2012]] qualification campaign.<ref>{{Cite web |last=Bruun |first=Peter |date=8 November 2011 |title=Eriksen and Pedersen honoured in Denmark |url=http://www.uefa.com/memberassociations/association=den/news/newsid=1714527.html |publisher=UEFA}}</ref> Eriksen continued to impress for Ajax and his strong contribution, both in terms of goal and assist returns, helped the club to a second consecutive league title.<ref>{{Cite news |date=11 May 2012 |title=Goal.com's Eredivisie Team of the Season: Vertonghen, Eriksen & Dost make the cut |publisher=Goal |url=http://www.goal.com/en-gb/news/2601/features/2012/05/11/3095096/goalcoms-eredivisie-team-of-the-season-vertonghen-eriksen |access-date=25 June 2018}}</ref>
+
+Eriksen and Ajax repeated the feat in the [[2012–13 Eredivisie|2012–13 season]] following which he opted not to renew his contract with the club. With only one year remaining on his current contract, Eriksen was permitted to search for a new club and he agreed terms with [[Tottenham Hotspur F.C.|Tottenham Hotspur]] in England. Eriksen departed Ajax having made 162 appearances across all competitions and scored 32 goals. Along with his league success, he had also featured in three consecutive editions of the [[Johan Cruyff Shield]], which Ajax won once.<ref>{{Cite web |date=30 August 2013 |title=De statistieken van ruim vier jaar Eriksen |url=http://www.ajaxshowtime.com/bijzaken-en-geruchten/72894/de-statistieken-van-ruim-vier-jaar-eriksen.html |publisher=Ajax Showtime}}</ref>
+
+===Tottenham Hotspur===
+
+====2013–2016: Premier League introduction and League Cup runner-up====
+
+On 30 August 2013, [[Premier League]] club [[Tottenham Hotspur F.C.|Tottenham Hotspur]] announced that they had completed the transfer of Eriksen from Ajax in a deal believed to be worth £11&nbsp;million (€12.45&nbsp;million).<ref>{{Cite web |date=30 August 2013 |title=Eriksen Arrives |url=http://www.tottenhamhotspur.com/news/eriksen-arrives-300813/ |access-date=30 August 2013 |publisher=Tottenham Hotspur F.C.}}</ref> Eriksen joined the club on the same day as [[Erik Lamela]], who joined from [[A.S. Roma|Roma]], and [[Vlad Chiricheș]], who joined from [[FC Steaua București|Steaua București]], and took the club's total spending for the [[List of English football transfers summer 2013|2013 summer transfer window]] to £109.5&nbsp;million.<ref>{{Cite news |last=Hytner |first=David |date=30 August 2013 |title=Tottenham's spend passing £110m with Erik Lamela and Christian Eriksen |work=The Guardian |url=https://www.theguardian.com/football/2013/aug/30/tottenham-hotspur-erik-lamela-christian-eriksen |access-date=30 August 2013}}</ref> He made his league debut against [[Norwich City F.C.|Norwich City]] on 14 September and provided an assist for [[Gylfi Sigurðsson]] in a 2–0 victory.<ref>{{Cite web |last=Reddy |first=Luke |date=14 September 2013 |title=Tottenham Hotspur 2–0 Norwich City |url=https://www.bbc.com/sport/football/23999467 |publisher=BBC Sport}}</ref> After the match, Spurs manager [[André Villas-Boas]] commented, "It was a great debut for Christian, he is a pure number 10, a creative player and his individual quality made all the difference."<ref>{{Cite news |last=Collett |first=Mike |date=14 September 2013 |title=Eriksen proves life goes on for Spurs after Bale |work=Reuters |url=http://uk.reuters.com/article/uk-soccer-england-tottenham-idUKBRE98D09O20130914}}</ref>
+
+[[File:Eriksen and Soldado.jpg|thumb|upright|Eriksen and [[Roberto Soldado]] before kick-off for [[Tottenham Hotspur F.C.|Tottenham Hotspur]] against [[Cardiff City F.C.|Cardiff City]] in 2013|left]]
+
+Five days later, Eriksen "clipped a wonderful dipping shot" over the goalkeeper to score his first Tottenham goal and complete a 3–0 win over [[Tromsø IL]] in the [[2013–14 UEFA Europa League|Europa League]].<ref>{{Cite news |date=19 September 2013 |title=Europa League: Two Jermain Defoe goals secure Tottenham a 3–0 win over Tromso |publisher=Sky Sports |url=http://www1.skysports.com/football/live/match/300996/report |access-date=29 May 2014}}</ref> He added to his Tottenham goal tally with a goal from a free kick in a 1–1 draw against [[West Bromwich Albion F.C.|West Bromwich Albion]] on Boxing Day 2013, and the second goal in Spurs' 1–2 away win against [[Manchester United F.C.|Manchester United]] on 1 January 2014.<ref>{{Cite news |last=Wallace |first=Sam |date=2 January 2014 |title=Manchester United 1 Tottenham 2 match report: United unable to muster recovery after Emmanuel Adebayor and Christian Eriksen goals |work=The Independent |url=https://www.independent.co.uk/sport/football/premier-league/manchester-united-1-tottenham-2-match-report-united-unable-to-muster-recovery-after-emmanuel-adebayor-and-christian-eriksen-goals-9033107.html |access-date=19 January 2014}}</ref> On 23 March and two goals down against [[Southampton F.C.|Southampton]] at [[White Hart Lane]], Eriksen scored twice to level the score and then assisted Sigurðsson to score the winning goal.<ref>{{Cite web |last=Lewis |first=Aimee |date=23 March 2014 |title=Tottenham Hotspur 3–2 Southampton |url=https://www.bbc.com/sport/football/26599215 |access-date=24 March 2014 |publisher=BBC Sport}}</ref> He continued his goalscoring form on 12 April when he scored a stoppage-time equaliser to help Tottenham come from 3–0 down to draw 3–3 at West Brom.<ref>{{Cite web |last=Cryer |first=Andy |date=12 April 2014 |title=West Bromwich Albion 3–3 Tottenham Hotspur |url=https://www.bbc.com/sport/football/26898645 |publisher=BBC Sport}}</ref> By the end of the season, he had scored 10 goals and registered 13 assists across all competitions, won the [[Danish Football Player of the Year]] award and was named Tottenham's Player of the Season.<ref>{{Cite web |last=Fitch |first=Dan |date=12 August 2014 |title=Eriksen is Tottenham's new galactico |url=http://kwese.espn.com/football/club/tottenham-hotspur/367/blog/post/1983117/christian-eriksen-will-follow-the-same-path-as-luka-modric-and-gareth-bale-all-the-way-to-madrid?src=com |access-date=11 December 2017 |website=ESPN}}</ref><ref name="POTS">{{Cite web |date=13 May 2017 |title=Christian and Dele's Club Awards Double |url=http://www.tottenhamhotspur.com/news/christian-and-deleand39s-club-awards-double-130517/ |access-date=16 November 2017 |publisher=Tottenham Hotspur F.C.}}</ref>
+
+Ahead of the [[2014–15 Tottenham Hotspur F.C. season|2014–15 campaign]], Tottenham appointed [[Mauricio Pochettino]] as new club manager after the unsuccessful period under Villas-Boas and interim-manager [[Tim Sherwood]]. Between November and December 2014, Eriksen scored late winners against [[Aston Villa F.C.|Aston Villa]], [[Hull City A.F.C.|Hull City]] and [[Swansea City A.F.C.|Swansea City]] which he credited to the Argentine manager for raising the team's fitness levels.<ref>{{Cite news |date=15 December 2014 |title=Christian Eriksen: Tottenham's late winners down to raised fitness |work=The Guardian |url=https://www.theguardian.com/football/2014/dec/15/christian-eriksen-tottenham-late-winners-fitness |access-date=11 December 2017}}</ref> By the end of the calendar year, Eriksen had scored 12 goals from open play – more than any other player in England – and was soon after awarded his second consecutive Danish Footballer of the Year award.<ref name="DPY">{{Cite web |date=11 January 2016 |title=Christian Makes History in Denmark |url=http://www.tottenhamhotspur.com/news/christian-eriksen-wins-danish-player-of-the-year-for-third-year-running-2016-110116/ |access-date=11 December 2017 |publisher=Tottenham Hotspur F.C.}}</ref> On 28 January 2015, Eriksen scored twice in a 2–2 (3–2 aggregate) win over [[Sheffield United F.C.|Sheffield United]] to send Tottenham into the [[2015 Football League Cup Final|League Cup Final]].<ref>{{Cite web |last=Rostance |first=Tom |date=28 January 2015 |title=Sheffield United 2–2 Tottenham Hotspur (agg 2–3) |url=https://www.bbc.com/sport/football/30910040 |access-date=28 January 2015 |publisher=BBC Sport}}</ref> His first goal, a 30-yard curling free kick, was later lauded by former professionals [[Michael Owen]] and [[Gary Neville]].<ref>{{Cite web |last=Coombs |first=Dan |date=28 January 2015 |title=Eriksen's stunning free-kick: Onomah and ex-Spurs stars react on Twitter |url=http://hereisthecity.com/en-gb/2015/01/28/eriksens-stunning-free-kick-onomah-and-ex-spurs-stars-react-on-t/ |url-status=dead |archive-url=https://web.archive.org/web/20150212151948/http://hereisthecity.com/en-gb/2015/01/28/eriksens-stunning-free-kick-onomah-and-ex-spurs-stars-react-on-t/ |archive-date=12 February 2015 |access-date=29 January 2015 |website=Here Is The City}}</ref> The final, played against London rivals [[Chelsea F.C.|Chelsea]], took place on 1 March and ended in a 2–0 defeat for Tottenham.<ref name="LC2015">{{Cite news |last=McNulty |first=Phil |date=1 March 2015 |title=Chelsea 2–0 Tottenham Hotspur |publisher=BBC Sport |url=https://www.bbc.co.uk/sport/football/31572594 |access-date=3 September 2018}}</ref> Eriksen completed the 2014–15 campaign having featured in every Premier League game for Mauricio Pochettino, starting all-but one match, and scored 12 goals across all competitions.<ref>{{Cite web |date=22 June 2015 |title=Double Figures Delight – Christian on his 2014–15 goals |url=http://www.tottenhamhotspur.com/news/eriksen-2014-15-goals-220615/ |access-date=11 December 2017 |publisher=Tottenham Hotspur F.C.}}</ref>
+
+On 9 June 2015, amid speculation that he would be joining Manchester United, Eriksen confirmed to Danish media whilst on international duty that he would stay at Tottenham for the foreseeable future and was quoted as saying, "I feel right at home at Tottenham and I haven't thought about leaving yet."<ref>{{Cite news |last=Orr |first=James |date=10 June 2015 |title=Manchester United target Christian Eriksen says he does not want to leave Tottenham |work=[[The Independent]] |url=https://www.independent.co.uk/sport/football/transfers/manchester-united-target-christian-eriksen-says-he-does-not-want-to-leave-tottenham-10309244.html}}</ref> He did in fact remain with the club and scored his first goals of the season in October, netting from two free-kicks in a 2–2 draw with Swansea.<ref>{{Cite web |last=Cooper |first=Thomas |date=6 October 2015 |title=Why Eriksen Is the Tottenham Player Who Must Produce After International Break |url=http://bleacherreport.com/articles/2575222-why-eriksen-is-the-tottenham-player-who-must-produce-after-international-break |access-date=11 December 2017 |website=Bleacher Report}}</ref> In January 2016, Eriksen was once again named Danish Footballer of the Year. In doing so he became the first ever player to win the award in three consecutive years.<ref name=DPY/> He ultimately scored 6 goals and registered 13 assists as Tottenham ended the league season in third place, thereby qualifying for the following season's [[UEFA Champions League|Champions League]] campaign.<ref name="BR">{{Cite web |last=Marsden |first=Rory |date=6 September 2017 |title=Christian Eriksen, Tottenham Agree on New Contract: Latest Details and Reaction |url=http://bleacherreport.com/articles/2654675-christian-eriksen-tottenham-agree-on-new-contract-latest-details-and-reaction |access-date=11 December 2017 |website=Bleacher Report}}</ref>
+
+====2016–2020: Premier League runner-up and PFA Team of the Year====
+[[File:Eriksen20162(cropped).jpg|thumb|Eriksen playing for Tottenham Hotspur in 2016]]
+Ahead of the [[2016–17 Premier League|following season]], Eriksen signed a new long-term contract with Tottenham and starred once again for the club, scoring eight goals and assisting a further 15 as the club ended the league campaign as runners-up to champions Chelsea.<ref>{{Cite web |title=Goal 50 – Journalists from across Goal's 37 editions voted in the 10th annual award for the world's 50 best footballers |url=http://www.goal.com/story/goal-50-english/ |access-date=16 November 2017 |publisher=Goal.com}}</ref> Eriksen's tally of assists was bettered only by [[Manchester City F.C.|Manchester City]]'s [[Kevin De Bruyne]] who set up 18 goals for the season.<ref>{{Cite web |date=21 May 2017 |title=Premier League assists 2016/17: Who created the most goals this season? |url=https://talksport.com/football/premier-league-assists-201617-who-created-most-goals-season-170521240072?p=10 |access-date=16 November 2017 |website=talkSPORT}}</ref> Eriksen also recorded the joint-most assists in the [[FA Cup]] and later won the Tottenham Player of the Season award, claiming the award for the second time after previously winning it in his debut season with the club.<ref name="FAC">{{Cite web |title=English FA Cup Statistics |url=http://www.espnfc.com/english-fa-cup/40/statistics/assists?season=2016 |access-date=22 October 2017 |publisher=ESPN FC}}</ref><ref name=POTS/>
+
+Eriksen broke the record for the most goals scored by a Danish player in the Premier League when he scored his 33rd goal in a 3–2 win over [[West Ham United F.C.|West Ham United]] on 23 September 2017, surpassing the record previously held by [[Nicklas Bendtner]].<ref name="DP">{{Cite web |date=24 September 2017 |title=Christian Eriksen happy to move Nicklas Bendtner to the side after his record-breaking goal against West Ham |url=https://www.independent.co.uk/sport/football/premier-league/tottenham-hotspur-christian-eriksen-record-breaking-premier-league-goal-nicklas-bendtner-arsenal-a7964126.html |access-date=11 December 2017 |website=The Independent}}</ref> On 9 December, he made his 200th appearance for Tottenham and marked the occasion by scoring in a 5–1 league win over [[Stoke City F.C.|Stoke City]].<ref>{{Cite web |date=9 December 2017 |title=Spurs 5–1 Stoke – Report from Wembley |url=http://www.tottenhamhotspur.com/news/first-team/match/report/spurs-v-stoke-city-match-report-091217/ |access-date=10 December 2017 |publisher=Tottenham Hotspur F.C.}}</ref> The following month, he scored his 50th goal for the club when he scored after just 11 seconds in the 2–0 league win over Manchester United.<ref>{{Cite web |last=Floyd |first=Thomas |date=31 January 2018 |title=Eriksen scores after 11 seconds for Spurs against Man Utd |url=http://www.goal.com/en-za/news/eriksen-scores-after-11-seconds-for-spurs-against-man-utd/ypvppsdummy71vo012e2g8sfo |access-date=1 February 2018 |publisher=Goal.com}}</ref> Eriksen's goal was the third-fastest goal ever scored in the Premier League, bettered only by [[Alan Shearer]] and former Spurs captain [[Ledley King]].<ref>{{Cite news |date=31 January 2018 |title=Eriksen scores after 11 seconds for 3rd fastest EPL goal |work=The Washington Times |url=https://www.washingtontimes.com/news/2018/jan/31/eriksen-scores-after-11-seconds-for-2nd-fastest-ep/ |access-date=2 February 2018}}</ref> On 17 March 2018, Eriksen scored twice in an [[2017–18 FA Cup|FA Cup]] match against Swansea to send Spurs to the semi-final for the second season running.<ref>{{Cite web |last=Pearlman |first=Michael |date=17 March 2018 |title=Swansea City 0–3 Tottenham Hotspur |url=https://www.bbc.co.uk/sport/football/43353565 |access-date=17 March 2018 |publisher=BBC Sport}}</ref> On 1 April, Eriksen scored a 25-yard goal in the away match against Chelsea, helping Tottenham to their first win in 28 years at [[Stamford Bridge (stadium)|Stamford Bridge]] in a match that finished 3–1.<ref>{{Cite news |date=1 April 2018 |title=WATCH: Christian Eriksen's 'rainbow' stunner in Tottenham's win over Chelsea |work=Sky Sports |url=http://www.skysports.com/football/news/11661/11313452/watch-christian-eriksens-rainbow-stunner-in-tottenhams-win-over-chelsea}}</ref> Later that month, in the reverse fixture against Stoke, Eriksen scored twice to earn Tottenham a 2–1 win. Following the match, teammate [[Harry Kane]], who was challenging for the season's [[Premier League Golden Boot|Golden Boot]] award, claimed to have made the last touch on the ball for the second goal. Tottenham appealed to the Premier League panel who agreed that the ball touched Kane's shoulder and awarded him the goal.<ref>{{Cite news |last=Johnston |first=Neil |date=7 April 2018 |title=Stoke City 1–2 Tottenham |work=BBC Sport |url=https://www.bbc.co.uk/sport/football/43602488 |access-date=11 April 2018}}</ref><ref>{{Cite news |date=11 April 2018 |title=Premier League: Tottenham goal at Stoke awarded to Harry Kane |work=BBC Sport |url=https://www.bbc.co.uk/sport/football/43731208 |access-date=11 April 2018}}</ref> On 14 April, Eriksen was named in the [[PFA Team of the Year]] for the first time, alongside teammates Kane and [[Jan Vertonghen]].<ref name="1718PFA">{{Cite news |date=18 April 2018 |title=Manchester City players dominate PFA team of the year |publisher=BBC Sport |url=https://www.bbc.co.uk/sport/football/43810017 |access-date=5 May 2018}}</ref>
+
+In the [[2018–19 Tottenham Hotspur F.C. season|2018–19 season]], Eriksen scored his first goal of the season in a Champions League away match against [[Inter Milan]].<ref>{{Cite news |last=Brand |first=Gerard |date=19 September 2018 |title=Inter 2–1 Tottenham: Two late goals stun Spurs in Champions League opener |work=Sky Sports |url=https://www.skysports.com/football/inter-vs-tottenham/401830}}</ref> The match ended in a 2–1 loss for Tottenham, but in the home game against Inter, Eriksen scored again in the only goal of the game, giving Tottenham a 1–0 victory.<ref>{{Cite news |last=Delaney |first=Miguel |date=28 November 2018 |title=Tottenham vs Inter Milan: Christian Eriksen scores from the bench to give Spurs Champions League lifeline |work=The Independent |url=https://www.independent.co.uk/sport/football/european/tottenham-vs-inter-milan-result-champions-league-2018-goals-score-report-latest-a8657116.html}}</ref> He scored his first Premier League goal of the season on 15 December 2018 in the home match against [[Burnley F.C.|Burnley]], a late goal that earned Tottenham a 1–0 win.<ref>{{Cite news |last=Miller |first=Nick |date=15 December 2018 |title=Christian Eriksen's late strike gives Tottenham win over Burnley |work=The Guardian |url=https://www.theguardian.com/football/2018/dec/15/tottenham-burnley-premier-league-match-report}}</ref> On 31 March, during a 2–1 defeat to [[Liverpool F.C.|Liverpool]], he became only the second player after [[David Beckham]] to record 10+ assists in four successive Premier League seasons.<ref name=":1">{{Cite news |last=Sandford |first=Daniel |date=2 April 2019 |title=HERE TO ASSIST Christian Eriksen assists: Tottenham playmaker equals Manchester United legend David Beckham's Premier League record |publisher=talkSport |url=https://talksport.com/football/521001/christian-eriksen-assists-manchester-united-legend-david-beckham-premier-league-record/ |access-date=4 April 2019}}</ref> Three days later, on the occasion of his 200th Premier League appearance, he assisted [[Son Heung-min]] for the first ever goal at the new [[Tottenham Hotspur Stadium]] before scoring a goal of his own in a 2–0 win over [[Crystal Palace F.C.|Crystal Palace]].<ref>{{Cite news |last=Harris |first=Daniel |date=3 April 2019 |title=Son and Eriksen seal Spurs victory in opening game at new stadium |publisher=EuroSport |url=https://asia.eurosport.com/football/premier-league/2018-2019/son-and-eriksen-seal-spurs-victory-in-opening-game-at-new-stadium_sto7213126/story.shtml |url-status=dead |access-date=4 April 2019 |archive-url=https://web.archive.org/web/20190404084920/https://asia.eurosport.com/football/premier-league/2018-2019/son-and-eriksen-seal-spurs-victory-in-opening-game-at-new-stadium_sto7213126/story.shtml |archive-date=4 April 2019}}</ref><ref>{{Cite news |last=Pitt-Brooke |first=Jack |date=3 April 2019 |title=Tottenham vs Crystal Palace player ratings: Heung-Min Son and Christian Eriksen deliver for Spurs |work=The Independent |url=https://www.independent.co.uk/sport/football/premier-league/tottenham-crystal-palace-new-stadium-player-ratings-heungmin-son-first-goal-eriksen-a8853816.html |access-date=4 April 2019}}</ref> On 23 April, he scored the winning goal in a 1–0 win over [[Brighton & Hove Albion F.C.|Brighton & Hove Albion]].<ref>{{Cite web |date=23 April 2019 |title=Spurs v Brighton, 2018/19 |url=https://www.premierleague.com/match/38635 |website=Premier League}}</ref> Later on, Eriksen played in the [[2019 UEFA Champions League Final]], which resulted a 2–0 defeat for Tottenham against Liverpool.<ref>{{Cite web |date=1 June 2019 |title=Tottenham 0–2 Liverpool |url=https://www.uefa.com/uefachampionsleague/match/2025486--tottenham-vs-liverpool/?referrer=%2Fuefachampionsleague%2Fseason%3D2019%2Fmatches%2Fround%3D2000984%2Fmatch%3D2025486%2Findex |website=UEFA}}</ref>
+
+===Inter Milan===
+
+On 28 January 2020, with his contract at Tottenham set to expire in six months, Eriksen signed a four-and-a-half-year deal with [[Serie A]] club Inter Milan that would earn him €10&nbsp;million per season.<ref>{{Cite news |date=28 January 2020 |title=CHRISTIAN ERIKSEN IS A NEW INTER PLAYER |publisher=Inter Milan |url=https://www.inter.it/en/news/2020/01/28/official-christian-eriksen-inter-player.html |access-date=28 January 2020}}</ref> He made his club debut the following day, coming on as a second-half substitute for [[Alexis Sánchez]] in 2–1 home win over [[ACF Fiorentina|Fiorentina]] in the [[2019–20 Coppa Italia|Coppa Italia]] quarter-finals.<ref>{{Cite web |date=29 January 2020 |title=Inter Milan 2–1 Fiorentina |url=https://www.bbc.com/sport/football/51304229 |access-date=30 January 2020 |publisher=BBC Sport}}</ref> On 20 February, Eriksen scored his first goal for the club, netting the opener in a 2–0 away victory over [[PFC Ludogorets Razgrad|Ludogorets Razgrad]] in the [[2019–20 UEFA Europa League|Europa League]].<ref>{{Cite web |date=20 February 2020 |title=Ludogorets 0–2 Inter Milan |url=https://www.bbc.com/sport/football/51533323 |access-date=20 February 2020 |publisher=BBC Sport}}</ref> He scored his first Serie A goal on 1 July, in a 6–0 win against [[Brescia Calcio|Brescia]].<ref>{{Cite web |date=1 July 2020 |title=Inter Milan 6–0 Brescia |url=https://www.bbc.com/sport/football/53257838 |access-date=1 July 2020 |publisher=BBC Sport}}</ref> On 21 August, Eriksen played in Inter's 2–3 loss against [[Sevilla FC|Sevilla]] in the [[2020 UEFA Europa League Final|2020 Europa League Final]], becoming the first player to lose two consecutive finals in the two current major UEFA competitions;{{refn|group=nb|[[Zinedine Zidane]] was the first player to lose two consecutive European club finals in two different competitions (with [[FC Girondins de Bordeaux|Bordeaux]] in the [[1996 UEFA Cup Final]] and with [[Juventus F.C.|Juventus]] in the [[1997 UEFA Champions League Final]]).}} he had lost the 2019 Champions League Final with Tottenham the previous year.<ref>{{Cite web |date=22 August 2020 |title=Christian Eriksen Made History In The Europa League Final For All The Wrong Reasons |url=https://www.sportbible.com/football/football-news-stats-christian-eriksen-made-history-in-last-nights-europa-league-final-20200822 |website=Sport Bible}}</ref>
+
+In December 2020, [[Giuseppe Marotta]] confirmed that Eriksen had been added to the transfer list for 2021; however, his teammate [[Romelu Lukaku]] had previously hinted that Eriksen's struggles at the Italian club were due to the language barrier.<ref>{{Cite web |date=23 December 2020 |title=Eriksen set to leave Inter as CEO Marotta confirms midfielder is available for transfer |url=https://www.goal.com/en/news/eriksen-set-to-leave-inter-as-ceo-marotta-confirms-midfielder-is-/1ckrx7y2bcxa61w7dab2g6e3m5 |website=goal.com}}</ref> On 26 January 2021, in the final minutes of Inter's [[2020–21 Coppa Italia|Coppa Italia]] quarter-final match against rivals [[A.C. Milan|Milan]], Eriksen was subbed on with the score at 1–1. In the seventh minute of stoppage time and with the game seemingly headed for extra time, he scored his first goal of the season from a direct free kick to win the match for Inter and send them through to the semi-finals.<ref>{{Cite web |date=26 January 2021 |title=Inter Milan 2–1 AC Milan: Christian Eriksen nets winner in dramatic derby |url=https://www.bbc.com/sport/football/55752320 |access-date=6 February 2021 |publisher=BBC Sport}}</ref> Following the match, Inter manager [[Antonio Conte]] said that Eriksen would remain with the club, despite being linked with a winter departure.<ref>{{Cite news |date=26 January 2021 |title='Nobody will arrive, nobody will leave' - Conte says 'shy' Eriksen will remain at Inter after Milan derby wonder goal |work=goal.com |url=https://www.goal.com/en/amp/news/conte-shy-eriksen-will-remain-at-inter/18keb01sl6cs01placbx4gxrvm |access-date=6 February 2021}}</ref> On 1 May, he scored Inter's first goal in an important 2–0 away win over [[F.C. Crotone|Crotone]], bringing the club closer to their first league title since [[2009–10 Serie A|2009–10]].<ref>{{Cite web |date=1 May 2021 |title=Crotone 0-2 Inter Milan |url=https://www.bbc.com/sport/football/56959181 |access-date=12 June 2021 |website=BBC}}</ref> Inter were confirmed as league champions the following day, after closest challengers [[Atalanta B.C.|Atalanta]] failed to win their match against [[U.S. Sassuolo Calcio|Sassuolo]]. It ended Juventus's nine-year grasp on the Serie A title.<ref>{{Cite web |date=2 May 2021 |title=Inter clinch first Serie A title in 11 years as Juve's era of dominance comes to an end |url=https://www.goal.com/en-us/news/inter-clinch-first-serie-a-title-in-11-years-as-juves-era-of/1ttw7xvesu7td1wu06icw6z2zr |access-date=2 May 2021 |website=Goal}}</ref><ref name="auto">{{Cite web |date=2 May 2021 |title=Inter end Juventus' Serie A dominance with first title in 11 years |url=https://www.espn.com/soccer/internazionale/story/4374169/inter-end-juventus-serie-a-dominance-with-first-title-in-11-years |access-date=2 May 2021 |website=ESPN}}</ref>
+
+On 29 October 2021, it was announced that Eriksen was not permitted to play in the Serie A due to the presence of an [[implantable cardioverter-defibrillator]] he had implanted after suffering a [[cardiac arrest]] during a game at [[UEFA Euro 2020|Euro 2020]].<ref>{{Cite web |date=29 October 2021 |title=Christian Eriksen: Inter Milan midfielder not allowed to resume career in Italy due to ICD |url=https://www.itv.com/news/2021-10-29/christian-eriksen-not-allowed-to-resume-career-in-italy-due-to-icd |access-date=2 December 2021 |website=tv.com}}</ref> Close to half a year after his cardiac arrest, Eriksen began individual training at the facilities of his youth academy team [[OB Odense|OB]] in [[Odense]] in preparation for a possible comeback to football.<ref>{{Cite web |date=2 December 2021 |title=Christian Eriksen: Inter Milan midfielder 'training by himself' at former club Odense Boldklub |url=https://www.skysports.com/football/news/11860/12484535/christian-eriksen-inter-milan-midfielder-training-by-himself-at-former-club-odense-boldklub |access-date=2 December 2021 |publisher=[[Sky Sports]]}}</ref> On 17 December 2021, Inter confirmed they had terminated their contract with Eriksen.<ref>{{Cite news |title=Inter Milan terminate Eriksen contract |language=en-GB |work=BBC Sport |url=https://www.bbc.com/sport/football/59699440 |access-date=17 December 2021}}</ref>
+
+===Brentford===
+On 31 January 2022, Eriksen signed for Premier League club [[Brentford F.C.|Brentford]] on a six-month contract.<ref>{{Cite web |date=31 January 2022 |title=Brentford confirm signing of Christian Eriksen |url=https://www.brentfordfc.com/news/2022/january/brentford-confirm-signing-of-christian-eriksen/ |access-date=31 January 2022 |publisher=Brentford F.C.}}</ref> On 26 February 2022, his first appearance was as a substitute in a 2–0 defeat to [[Newcastle United F.C.|Newcastle United]] - he replaced [[Mathias Jensen]], who came on in Eriksen's place in the game in which he suffered a cardiac arrest.<ref>{{Cite news |title=Eriksen returns in Brentford defeat |language=en-GB |work=BBC Sport |url=https://www.bbc.com/sport/football/60441967 |access-date=26 February 2022}}</ref> He recorded his first assist since his cardiac arrest in a 2–0 win over [[Burnley F.C.|Burnley]] on 12 March.<ref>{{Cite web |date=12 March 2022 |title=Eriksen on form as Brentford beat Burnley |url=https://www.marca.com/en/football/premier-league/2022/03/12/622ce55222601d8c548b4570.html |access-date=26 June 2022 |website=marca.com}}</ref> He scored his first goal back in the Premier League in a 4–1 away win against [[West London derby#Brentford vs Chelsea derby|West London rivals]] Chelsea on 2 April, helping the Bees secure their first victory over Chelsea since 1939.<ref>{{Cite web |title=Chelsea 1-4 Brentford: Christian Eriksen scores as Bees seal incredible derby win at Stamford Bridge |url=https://www.skysports.com/football/chelsea-vs-brentford/report/446590 |access-date=2 April 2022 |website=Sky Sports |language=en}}</ref> Between the date of Eriksen's Brentford debut and the end of the season only [[Kevin De Bruyne]] and [[Martin Ødegaard]] created more chances in the Premier League.<ref>{{Cite web |date=14 June 2022 |title=Christian Eriksen unsure over future amid reports of Tottenham return |url=https://www.squawka.com/en/christian-eriksen-transfer-update-tottenham-brentford/ |access-date=26 June 2022 |website=squawka.com}}</ref><ref>{{Cite web |date=15 June 2022 |title=Manchester United cannot ignore De Jong and Van de Beek factors in Christian Eriksen pursuit |url=https://www.manchestereveningnews.co.uk/sport/football/transfer-news/manchester-united-eriksen-transfer-news-24229499 |access-date=26 June 2022 |website=Manchester Evening News}}</ref>
+
+===Manchester United===
+[[File:Manchester United v Brighton & Hove Albion, 7 August 2022 (25).jpg|thumb|Eriksen taking a free kick for [[Manchester United F.C.|Manchester United]] on the opening day of the [[2022–23 Premier League]] season]]
+On 15 July 2022, [[Manchester United F.C.|Manchester United]] announced they had reached an agreement to sign Eriksen on a three-year deal.<ref>{{Cite news |date=15 July 2022 |title=Transfer news: Eriksen signs for United |work=ManUtd.com |publisher=Manchester United |url=https://www.manutd.com/en/news/detail/Transfer-news-Man-Utd-complete-signing-of-Christian-Eriksen |access-date=15 July 2022}}</ref> On 28 July 2022, it was confirmed that he would wear the number 14 shirt.<ref>{{Cite news |last=Carney |first=Sam |date=28 July 2022 |title=What number will Eriksen wear? |work=ManUtd.com |publisher=Manchester United |url=https://www.manutd.com/en/news/detail/christian-eriksen-man-utd-squad-number-confirmed-for-2022-23 |access-date=28 July 2022}}</ref>
+
+On 7 August, Eriksen made his club debut in 2–1 home loss against [[Brighton & Hove Albion F.C.|Brighton & Hove Albion]] in the Premier League.<ref>{{Cite news |last=Stone |first=Simon |date=7 August 2022 |title=Manchester United 1-2 Brighton: Erik ten Hag suffers defeat in first Premier League game |work=BBC Sport |url=https://www.bbc.co.uk/sport/football/62366387 |access-date=7 August 2022}}</ref> He made his first assist for the club in a 3–1 home league victory over [[Arsenal F.C.–Manchester United F.C. rivalry|rivals]] [[Arsenal F.C.|Arsenal]] when he assisted [[Marcus Rashford]]'s second goal.<ref>{{Cite web |last=Stone |first=Simon |date=3 September 2022 |title=Manchester United 3-1 Arsenal: Antony scores on his debut to end Arsenal's winning run |url=https://www.bbc.com/sport/football/62704217 |access-date=3 September 2022 |website=BBC Sport}}</ref> He scored his first goal for the club in a 2–1 away league victory over [[Fulham F.C.|Fulham]].<ref>{{Cite news |title=Garnacho injury-time winner as Man Utd beat Fulham |language=en-GB |work=BBC Sport |url=https://www.bbc.com/sport/football/63531141 |access-date=2023-02-28}}</ref> Despite missing the final due to an ankle injury, Eriksen was a key part of [[Manchester United F.C.|Manchester United's]] [[2022–23 EFL Cup]]<ref>{{Cite news |title=Man Utd win EFL Cup to end six-year trophy wait |language=en-GB |work=BBC Sport |url=https://www.bbc.com/sport/football/64693810 |access-date=2023-02-28}}</ref> winning side, having scored his first home goal for the club in a 2–0 fourth round win over [[Burnley F.C.|Burnley]] at [[Old Trafford]].<ref>{{Cite news |title=Rashford scores as Man Utd beat Burnley in EFL Cup |language=en-GB |work=BBC Sport |url=https://www.bbc.com/sport/football/63967177 |access-date=2023-02-28}}</ref>
+
+==International career==
+
+===Youth squads===
+
+Eriksen was called up to the [[Denmark national under-17 football team]] in July 2007,<ref>{{Cite web |date=9 July 2007 |title=U/17-landsholdet til Internordisk Cup |url=http://www.dbu.dk/news/newsShow.aspx?id=239942 |access-date=6 June 2010 |publisher=Danish Football Association |language=da}}</ref> and impressed in his debut for the team on 31 July.<ref>{{Cite web |date=31 July 2007 |title=Tre point mod Færøerne |url=http://www.dbu.dk/news/newsShow.aspx?id=240235 |access-date=6 June 2010 |publisher=Danish Football Association |language=da}}</ref> In 2008, he scored eight goals in 16 games for the U-17s,<ref>{{Cite web |title=Christian Eriksen |url=https://www.dbu.dk/landshold/landsholdsdatabasen/PlayerInfo/5999 |access-date=27 June 2022 |website=dbu.dk}}</ref> and was named [[Danish Football Player of the Year#Young Players of the Year|Danish U-17 Talent of the Year]] by the [[Danish Football Association|Danish FA]].<ref name="dbu">{{Cite web |date=5 December 2008 |title=Lumb og Eriksen nyeste Arla Landsholdstalenter |url=http://www.dbu.dk/news/newsShow.aspx?id=250290 |access-date=6 June 2010 |publisher=Danish Football Association |language=da}}</ref> He was also one of four nominees for the 2008 Danish Talent of the Year award,<ref>{{Cite web |date=24 October 2008 |title=Danmarks fire største talenter |url=http://www.dbu.dk/news/newsShow.aspx?id=249275 |access-date=6 June 2010 |publisher=Danish Football Association |language=da}}</ref> which was won by [[Mathias Jørgensen]].<ref name=dbu/> He played 27 games for the under-17 team until February 2009. He played a total of eight games for the [[Denmark national under-18 football team|Denmark U-18]] and [[Denmark national under-19 football team|Denmark U-19]] teams during 2009. Eriksen was also called up for the Danish U-21 squad to the European championship in Denmark in 2011, the Danish team only participated in the group stage and Eriksen scored a goal against Belarus.
+
+===Senior squad===
+[[File:Christian Eriksen.jpg|thumb|left|upright|Eriksen during a training session with [[Denmark national football team|Denmark]] in 2010]]
+Eriksen received his first senior Denmark call-up in February 2010,<ref>{{Cite web |date=26 February 2010 |title=Christian Eriksen: Det er helt vildt |url=http://www.bold.dk/nyt/Christian-Eriksen-Det-er-helt-vildt |access-date=13 April 2010 |website=Bold.dk |language=da}}</ref> making his debut in Denmark's friendly match against [[Austria national football team|Austria]] in March,<ref name="debut">{{Cite web |title=Eriksen: Helt specielt med debut&nbsp;– TV 2 Sporten |url=http://sporten-dyn.tv2.dk/article.php/id-29005205.html?rss |url-status=dead |archive-url=https://web.archive.org/web/20200825174710/https://sport.tv2.dk/fodbold/article.php/id-29005205.html |archive-date=25 August 2020 |access-date=13 April 2010 |publisher=Sporten-dyn.tv2.dk |language=da}}</ref> to become Denmark's fourth youngest full international, being the youngest debutant since Michael Laudrup.<ref>{{Cite web |title=A-landsholdspillere&nbsp;– Yngste debutant |url=http://www.haslund.info/danmark/aovs/ydeb.asp |url-status=dead |archive-url=https://web.archive.org/web/20110721203507/http://www.haslund.info/danmark/aovs/ydeb.asp |archive-date=21 July 2011 |access-date=18 May 2010 |publisher=www.haslund.info |language=da}}</ref>
+
+On 28 May 2010, Denmark coach [[Morten Olsen]] announced that Eriksen would be part of the final squad of 23 participating in the [[2010 FIFA World Cup]] in South Africa.<ref>{{Cite web |date=28 May 2010 |title=Olsen names final Denmark squad |url=http://www.uefa.com/worldcup/news/newsid=1493391.html |access-date=2 June 2010 |publisher=UEFA}}</ref> He was the youngest player participating in the tournament.<ref name="youngest">{{Cite web |date=2 June 2010 |title=World Cup squads: The story of the stats &#124; FIFA World Cup 2010 &#124; |url=http://sport.stv.tv/fifa-world-cup/180776-world-cup-squads-the-story-of-the-stats/ |access-date=2 June 2010 |publisher=STV Sport}}</ref><ref name="youngest2">{{Cite web |last=Scholten |first=Berend |date=23 May 2011 |title=Eriksen: I've got a lot to learn |url=https://www.fifa.com/worldfootball/news/newsid=1611883.html |url-status=dead |archive-url=https://web.archive.org/web/20120409024617/http://www.fifa.com/worldfootball/news/newsid=1611883.html |archive-date=9 April 2012 |access-date=22 January 2013 |publisher=UEFA}}</ref> At the World Cup, Eriksen played two matches, against the [[Netherlands national football team|Netherlands]] and [[Japan national football team|Japan]], but Denmark were unable to progress beyond the group stage.<ref>{{Cite web |date=17 November 2010 |title=Netherlands vs. Denmark |url=https://int.soccerway.com/matches/2010/06/14/world/world-cup/netherlands/denmark/878795/ |access-date=11 February 2011 |website=Soccerway}}</ref><ref>{{Cite web |date=24 June 2010 |title=Denmark vs. Japan |url=https://int.soccerway.com/matches/2010/06/24/world/world-cup/denmark/japan/878799/ |access-date=11 February 2011 |website=Soccerway}}</ref>
+
+On 9 February 2011, in a 2–1 friendly loss at home against [[England national football team|England]], Eriksen was named [[man of the match]], and was praised for his performance by a number of prominent footballing figures, including [[Chelsea F.C.|Chelsea]] star [[Frank Lampard]],<ref>{{Cite news |date=9 February 2011 |title=Stjerne: Eriksen kan blive topspiller |language=da |work=Jyllands-Posten Sport |url=http://spn.dk/fodbold/landshold/article2335072.ece |url-status=dead |access-date=10 February 2011 |archive-url=https://web.archive.org/web/20120531014316/http://spn.dk/fodbold/landshold/article2335072.ece |archive-date=31 May 2012}}</ref> Man Utd star [[Rio Ferdinand]] (on Twitter),<ref>{{Cite web |date=9 February 2011 |title=Ferdinand skamroser Eriksen på Twitter |url=http://www.sporten.dk/fodbold/ferdinand-skamroser-eriksen-paa-twitter |access-date=10 February 2011 |publisher=Sporten.dk |language=da}}</ref> manager Morten Olsen and several media experts in Denmark and England.<ref>{{Cite news |date=9 February 2011 |title=Engelske medier jubler over Eriksen |language=da |work=Jyllands-Posten Sport |url=http://spn.dk/fodbold/landshold/article2335260.ece |url-status=dead |access-date=10 February 2011 |archive-url=https://archive.today/20120720044254/http://jyllands-posten.dk/sport/fodbold/landshold/article2335260.ece |archive-date=20 July 2012}}</ref> On 4 June 2011, Eriksen scored his first national team goal to give Denmark a 2–0 lead over [[Iceland national football team|Iceland]] in their [[UEFA Euro 2012 qualifying Group H|Euro 2012 qualifier]]. In doing so, he became the youngest Danish player ever to score a goal in European qualification, being nine days younger than Michael Laudrup when he scored his first goal in 1983.<ref>{{Cite web |date=16 May 2011 |title=Ajacied Eriksen speelt Laudrup uit de boeken |url=http://www.ad.nl/ad/nl/1441/Ajax/article/detail/2441812/2011/06/06/Ajacied-Eriksen-speelt-Laudrup-uit-de-boeken.dhtml |access-date=6 June 2011 |publisher=Ad.nl |language=nl}}</ref>
+
+In the build-up to the [[2018 FIFA World Cup]], Denmark were drawn in [[2018 FIFA World Cup qualification – UEFA Group E|UEFA Group E]] alongside the likes of [[Poland national football team|Poland]] and [[Romania national football team|Romania]]. Eriksen played a key-role during the nation's qualification campaign during which time he scored eight goals to earn Denmark a play-off against the [[Republic of Ireland national football team|Republic of Ireland]].<ref>{{Cite news |last=Hawkey |first=Ian |date=5 November 2017 |title=Christian Eriksen is danger for Ireland |work=The Times |url=https://www.thetimes.co.uk/article/great-dane-eriksen-is-danger-forireland-372f7gngj |access-date=15 November 2017}}</ref> The first leg of the play-off ended in a 0–0 home draw before Eriksen netted a [[hat-trick]] in [[Dublin]]'s [[Aviva Stadium]] in a 5–1 win to earn Denmark a spot at the World Cup.<ref>{{Cite web |last=Hafez |first=Shamoon |date=14 November 2017 |title=Republic of Ireland 1–5 Denmark (agg: 1–5) |url=https://www.bbc.com/sport/football/41884909 |access-date=14 November 2017 |publisher=BBC Sport}}</ref> Eriksen's treble took his tally to 11 goals for the qualification campaign, bettered only by Poland's [[Robert Lewandowski]] (16) and [[Portugal national football team|Portugal]]'s [[Cristiano Ronaldo]] (15) in Europe, and earned the praise of national team manager [[Åge Hareide]] who stated that Eriksen was one of the top 10 players in the world.<ref name=":2">{{Cite web |date=15 November 2017 |title=Tottenham's Christian Eriksen one of the world's top 10 players, says Denmark boss Age Hareide |url=http://www.skysports.com/football/news/17248/11127219/tottenhams-christian-eriksen-one-of-the-worlds-top-10-players-says-denmark-boss-age-hareide |access-date=15 November 2017 |publisher=Sky Sports}}</ref>
+
+In Denmark's opening match at the tournament, Eriksen assisted [[Yussuf Poulsen]] for the only goal in a 1–0 win over [[Peru national football team|Peru]] before scoring his first goal for the tournament in the 1–1 draw with [[Australia national soccer team|Australia]] the following week.<ref>{{Cite news |last=Miller |first=Nick |date=22 June 2018 |title=World Cup 2018: 'Great things happen' when you play alongside Christian Eriksen, Denmark's shining star |work=The Independent |url=https://www.independent.co.uk/sport/football/world-cup/christian-eriksen-denmark-world-cup-2018-thomas-delaney-australia-a8411006.html |access-date=22 June 2018}}</ref> Denmark ultimately progressed from their [[2018 FIFA World Cup Group C|group]] after which they were drawn with [[Croatia national football team|Croatia]] in the [[2018 FIFA World Cup knockout stage#Round of 16|Round of 16]]. There they were defeated after a [[Penalty shoot-out (association football)|penalty shoot-out]], with Eriksen being one of three players to have his spot-kick saved by Croatia goalkeeper [[Danijel Subašić]].<ref name=":3">{{Cite news |last=Pender |first=Kieran |date=1 July 2018 |title=Croatia's Luka Modric fluffs big line but still prevails in duel with Eriksen |work=The Guardian |url=https://www.theguardian.com/football/2018/jul/01/croatia-luka-modric-christian-eriksen-denmark-world-cup |access-date=2 July 2018}}</ref>
+
+On 9 September 2018, Eriksen scored twice in a 2–0 win over [[Wales national football team|Wales]] to lead Denmark to victory in the nation's inaugural [[2018–19 UEFA Nations League B]] match.<ref>{{Cite news |last=Candy |first=James |date=9 September 2018 |title=Double from Denmark's Christian Eriksen brings Wales down to earth |work=The Guardian |url=https://www.theguardian.com/football/2018/sep/09/denmark-wales-nations-league-match-report |access-date=11 September 2018}}</ref> On 14 October 2020, Eriksen played his 100th match for Denmark, in which he scored a penalty in a 1–0 away win against [[England national football team|England]] in the [[2020–21 UEFA Nations League]].<ref>{{Cite web |date=14 October 2020 |title=England 0–1 Denamrk |url=https://www.bbc.com/sport/football/54363934 |website=BBC Sport}}</ref>{{refn|group=nb|10 Danish players have reached 100 caps as of 2020. Christian Eriksen is the youngest at 28 years and 243 days.<ref>{{Cite web |date=14 October 2020 |title=Eriksen og Kjær slår rekord mod england |url=https://acefootball.com/da/fodboldnyheder/eriksen-og-kjaer-slaar-rekord-mod-england/ |access-date=15 October 2020 |publisher=Ace Football}}</ref> The first Dane to reach 100 caps was [[Morten Olsen]] in 1989. He has also 100 caps as manager for the Danish national team (the first in the world to have done both).<ref>{{Cite web |title=Landstræner Morten Olsen bliver den første mand på kloden til at opnå 100 landskampe først som spiller siden som træner |url=https://www.tipsbladet.dk/nyhed/danmark/morten-olsen-saetter-verdensrekord |access-date=15 October 2020 |website=Tipsbladet |publisher=Tipsbladet}}</ref> The record for most caps for Denmark is 129 and belongs to [[Peter Schmeichel]].<ref>{{Cite web |title=Peter Schmeichel |url=https://dbu.dk/om-dbu/fodboldpriser-2019/fodboldens-hall-of-fame/peter-schmeichel/ |access-date=15 October 2020 |website=DBU |publisher=DBU}}</ref>}}
+
+====UEFA Euro 2020 cardiac arrest====
+Eriksen was included in Denmark's squad for [[UEFA Euro 2020]] on 25&nbsp;May 2021.<ref>{{Cite news |date=25 May 2021 |title=26 spillere klar til EM for Danmark |language=da |trans-title=26 players ready for the European Championship for Denmark |work=[[Danish Football Association]] |url=https://dbu.dk/nyheder/2021/maj/26-spillere-klar-til-em-for-danmark/ |access-date=25 May 2021}}</ref> On 12&nbsp;June, while playing in Denmark's [[UEFA Euro 2020 Group B#Denmark vs Finland|opening group stage match]] against [[Finland national football team|Finland]] at the [[Parken Stadium]] in [[Copenhagen]], Eriksen collapsed in the 42nd minute as he was about to receive a throw-in. Urgent medical assistance arrived immediately, and [[cardiopulmonary resuscitation]] and [[defibrillation]] were performed on the field before Eriksen was taken off the pitch on a stretcher and the match was suspended.<ref name="Cardiac" /><ref name="Guardian">{{Cite web |last=Christenson |first=Marcus |date=13 June 2021 |title='He was gone': Christian Eriksen had cardiac arrest, Denmark doctor says |url=https://www.theguardian.com/football/2021/jun/13/he-was-gone-christian-eriksen-had-cardiac-arrest-denmark-doctor-says |access-date=13 June 2021 |website=The Guardian}}</ref> Around an hour after the incident, [[UEFA]] and [[Danish Football Association]] (DBU) officials confirmed from the [[Rigshospitalet]] Hospital that Eriksen had been stabilized and was awake.<ref>{{Cite news |last=Karen |first=Mattias |date=12 June 2021 |title=Denmark game at Euro 2020 suspended after Eriksen collapses |work=[[Associated Press]] |location=Copenhagen |url=https://apnews.com/article/denmark-europe-euro-2020-soccer-international-soccer-9911d934556c6b181636f47dedf20888 |access-date=12 June 2021}}</ref><ref>{{Cite news |title=Eriksen 'awake' after collapsing |work=BBC Sport |url=https://www.bbc.co.uk/sport/football/57456002}}</ref><ref>{{Cite news |date=12 June 2021 |title=Christian Eriksen: Denmark player 'awake and stabilised' in hospital after being given CPR following on-pitch collapse |work=Sky News |url=https://news.sky.com/story/denmarks-christian-eriksen-given-cpr-after-collapsing-on-pitch-in-match-against-finland-12331132 |access-date=12 June 2021}}</ref> The match continued later that evening, resulting in a 1–0 victory for Finland,<ref>{{Cite web |last=Emons |first=Michael |date=12 June 2021 |title=Denmark 0-1 Finland: Euro 2020 game overshadowed by Christian Eriksen collapse |url=https://www.bbc.co.uk/sport/football/51197533 |access-date=13 June 2021 |website=BBC Sport}}</ref> with Eriksen chosen by UEFA as the man of the match.<ref>{{Cite web |date=12 June 2021 |title=Denmark 0–1 Finland: Finns win after Eriksen emergency |url=https://www.uefa.com/uefaeuro-2020/match/2024449/postmatch/report/ |access-date=14 June 2021 |website=UEFA}}</ref> Denmark manager [[Kasper Hjulmand]] and team doctor Morten Boesen both later expressed regret at the match's continuation,<ref>{{Cite web |date=13 June 2021 |title=Christian Eriksen collapse: Denmark coach regrets restart v Finland |url=https://www.bbc.co.uk/sport/football/57458978 |access-date=13 June 2021 |website=BBC Sport}}</ref> although Eriksen's teammate [[Martin Braithwaite]] said that the decision to do so was the "least bad one".<ref>{{Cite news |title=Playing match was 'least bad' choice |work=BBC Sport |url=https://www.bbc.co.uk/sport/football/57468439}}</ref> The decision to continue the match was also criticised by [[Peter Schmeichel]], father of Denmark's keeper [[Kasper Schmeichel|Kasper]], who said that UEFA had threatened the team with a 3–0 loss if they refused to finish the match later on that day or the following day at noon, leaving the players with "no choice" but to continue.<ref>{{Cite web |date=14 June 2021 |title=Peter Schmeichel: Denmark players did not have choice with Finland restart after Christian Eriksen collapse |url=https://www.skysports.com/football/news/17248/12332297/peter-schmeichel-denmark-players-did-not-have-choice-with-finland-restart-after-christian-eriksen-collapse |access-date=14 June 2021 |website=Sky Sports}}</ref>
+
+The next day, Boesen confirmed Eriksen had suffered a [[cardiac arrest]].<ref name="Guardian" /><ref name="Cardiac">{{Cite web |date=13 June 2021 |title=Christian Eriksen: Denmark midfielder suffered cardiac arrest, says team doctor |url=https://www.bbc.co.uk/sport/football/57458630 |access-date=14 June 2021 |website=BBC News}}</ref> The incident itself drew comparisons to [[Fabrice Muamba]] and [[Abdelhak Nouri]], two professional footballers who also collapsed during play in similar circumstances. Muamba was forced to retire, and Nouri suffered permanent brain damage.<ref>{{Cite web |last=Stubley |first=Peter |date=12 June 2021 |title=Fabrice Muamba says Christian Eriksen collapse 'brought back emotions I never wanted to relive' |url=https://www.independent.co.uk/sport/football/christian-eriksen-fabrice-muamba-collapse-b1864876.html |access-date=14 June 2021 |website=The Independent}}</ref><ref>{{Cite web |date=13 June 2021 |title=Collapse of Eriksen during Euro match brings back memories of Nouri heart arrhythmias |url=https://nltimes.nl/2021/06/13/collapse-eriksen-euro-match-brings-back-memories-nouri-heart-arrhythmias |access-date=18 June 2021 |website=NL Times |language=en}}</ref><ref>{{Cite web |last=Verweij |first=Mike |last2=Kraan van der |first2=Marcel |date=12 June 2021 |title=Vader van Abdelhak Nouri bidt voor Christian Eriksen |trans-title=Father of Abdelhak Nouri prays for Christian Eriksen |url=https://www.telegraaf.nl/sport/1654394667/vader-van-abdelhak-nouri-bidt-voor-christian-eriksen |access-date=18 June 2021 |website=Telegraaf |language=nl |location=Amsterdam}}</ref> On 15&nbsp;June, Eriksen posted a picture of himself in the hospital on his social media along with a brief statement, stating that he was "fine under the circumstances".<ref>{{Cite web |title=Christian Eriksen on Instagram: "Hello everyone Big thanks for your sweet and amazing greetings and messages from all around the world. It means a lot to me and my family. ♥️🙏 I'm fine - under the circumstances. I still have to go through some examinations at the hospital, but I feel okay. Now, I will cheer on the boys on the Denmark team in the next matches. Play for all of Denmark 🇩🇰 Best Christian" |url=https://www.instagram.com/p/CQIbbREAXo5/ |website=Instagram}}</ref> The following day, it was announced that he would be fitted with an [[implantable cardioverter-defibrillator]] device, a decision described by Boesen as "necessary due to rhythm disturbances" following his cardiac arrest.<ref>{{Cite web |date=17 June 2021 |title=Christian Eriksen to have heart-starting device fitted after collapse |url=https://www.bbc.co.uk/sport/football/57508250 |access-date=25 June 2021 |website=BBC News}}</ref> On 18 June, the DBU declared that Eriksen had undergone a successful operation and was discharged from Rigshospitalet. After his discharge, he visited his Danish teammates in [[Helsingør]] before returning home to his family.<ref>{{Cite web |date=18 June 2021 |title=Christian Eriksen visits teammates after discharge |url=https://news.sky.com/story/christian-eriksen-visits-team-after-being-discharged-from-hospital-12336045 |access-date=18 June 2021 |website=Sky News}}</ref> The Danish team later dedicated their 4–1 win over [[Russia national football team|Russia]] in their final group match to Eriksen; the result allowed them to advance to the round of 16.<ref>{{Cite news |date=21 June 2021 |title='This one is for you Christian' – Denmark players celebrate Euro 2020 progress |work=the Guardian |url=https://www.theguardian.com/football/2021/jun/21/this-one-is-for-you-christian-denmark-players-celebrate-after-euro-progress |access-date=19 June 2022}}</ref> They later went on to reach the semi-finals of the tournament, where they were eliminated following a 2–1 extra-time loss to England at Wembley Stadium, on 7 July.<ref name="SI1">{{Cite news |last=Wilson |first=Jonathan |date=7 July 2021 |title=Decisive Drama Tilts England's Way, With Three Lions a Step Away From 'Home' |work=[[Sports Illustrated]] |url=https://www.si.com/soccer/2021/07/07/england-denmark-euro-2020-sterling-penalty-kane |access-date=8 July 2021}}</ref>
+
+===2022 return to international football===
+Eriksen returned to international football on 26 March 2022, coming on at half-time in a 4–2 loss against the Netherlands, scoring two minutes into his return.<ref>{{Cite news |title=Eriksen scores on Denmark return |language=en-GB |work=BBC Sport |url=https://www.bbc.com/sport/football/60889501 |access-date=26 March 2022}}</ref>
+
+Eriksen was included in the [[2022 FIFA World Cup squads|squad]] for the [[2022 FIFA World Cup]], playing in every minute of Denmark's campaign as they finished bottom of [[2022 FIFA World Cup Group D|Group D]].<ref name=sb2223/>
+
+==Style of play==
+Described as a "[[Squad number (association football)|classic number ten]]" in the media,<ref name="uefafaith" /><ref name=":0">{{Cite web |last=Barcellona |first=Fabio |date=17 January 2017 |title=L'ultima frontiera del trequartista moderno |url=https://www.ultimouomo.com/eriksen-lultima-frontiera-del-trequartista-moderno/ |access-date=28 January 2020 |publisher=www.ultimouomo.com |language=Italian}}</ref> Eriksen's favoured position is in a free role in the centre of the pitch as an [[attacking midfielder]] behind the forwards;<ref name=":4">{{Cite web |last=Barcellona |first=Fabio |date=12 February 2018 |title=Il Tottenham è una squadra senza compromessi |url=https://www.ultimouomo.com/tottenham-2018-pochettino/ |access-date=28 January 2020 |publisher=www.ultimouomo.com |language=it}}</ref><ref name=":5">{{Cite web |last=Barcellona |first=Fabio |date=21 January 2020 |title=Eriksen cambierebbe l'Inter |url=https://www.ultimouomo.com/eriksen-inter-tottenham-conte/ |access-date=28 January 2020 |publisher=www.ultimouomo.com |language=it}}</ref> however, he is a tactically versatile player, who is also capable of playing as a [[central midfielder]] or [[mezzala]] in a 4–3–3 system (as was the case during his first years with Ajax),<ref name=":0" /> and as a [[right winger]] in a 4–2–3–1 formation.<ref name=":4" /><ref name=":5" /> He has also been used on the left flank on occasion, or as a [[second striker]].<ref name=":5" />
+
+Possessing significant vision, passing range, [[Cross (association football)|crossing]] accuracy, [[Set piece (football)|set-piece]] delivery, creativity, technical skills, movement, and an ability to read the game, as well as good balance and co-ordination, Eriksen is highly regarded by pundits for his ability to orchestrate attacking moves for his team with his distribution, create or exploit spaces with his runs, and provide [[Assist (association football)|assists]] to his teammates; his range of skills make him an effective [[playmaker]] and creator of chances. In addition to his talent, he is also known for his work-rate and intelligence on the pitch.<ref name="uefafaith" /><ref name=":0" /><ref name=":4" /><ref name=":5" /><ref name=":6">{{Cite web |last=Krogh |first=Karsten |date=16 January 2020 |title=Eriksen the right man for Inter |url=https://www.football-italia.net/148801/eriksen-right-man-inter |url-status=dead |archive-url=https://web.archive.org/web/20210119090118/https://www.football-italia.net/148801/eriksen-right-man-inter |archive-date=19 January 2021 |access-date=28 January 2020 |website=football-italia.net |publisher=Football Italia}}</ref><ref name=":7">{{Cite web |last=Smith |first=Adam |date=23 September 2017 |title=Is Tottenham midfielder Christian Eriksen the Premier League's top creator? |url=https://www.skysports.com/football/news/11662/11047327/is-tottenham-midfielder-christian-eriksen-the-premier-leagues-top-creator |access-date=29 January 2020 |publisher=Sky Sports}}</ref> He is also known for his eye for goal from midfield, and for his ability to strike the ball with power and accuracy with either foot, despite being naturally right-footed, in particular from distance;<ref name=":5" /><ref name=":6" /><ref name=":7" /> moreover, he has also established himself as a [[Free kick (association football)|free kick]] specialist.<ref name="makings" /><ref>{{Cite web |date=5 October 2015 |title=Christian Eriksen the Premier League's best free kick taker says Fabianski |url=https://www.espn.com/soccer/tottenham-hotspur/story/2650154/christian-eriksen-the-premier-league-free-kick-specialist |access-date=28 January 2020 |publisher=ESPN FC}}</ref><ref>{{Cite news |date=28 January 2020 |title=Eriksen completes transfer to Inter from Tottenham |work=The Washington Post |url=https://www.washingtonpost.com/sports/soccer/eriksen-completes-transfer-to-inter-from-tottenham/2020/01/28/84d4c1fe-41d6-11ea-99c7-1dfd4241a2fe_story.html |url-status=dead |access-date=28 January 2020 |archive-url=https://web.archive.org/web/20200129172925/https://www.washingtonpost.com/sports/soccer/eriksen-completes-transfer-to-inter-from-tottenham/2020/01/28/84d4c1fe-41d6-11ea-99c7-1dfd4241a2fe_story.html |archive-date=29 January 2020}}</ref>
+
+Due to his playing style, nationality, and role, pundits have compared him to his compatriots [[Michael Laudrup|Michael]] and [[Brian Laudrup]],<ref name="uefafaith" /><ref name="talented" /> who were two of his major influences in his youth, as well as [[Wesley Sneijder]] and [[Rafael van der Vaart]];<ref name="uefafaith" /><ref name=":0" /> Eriksen has also cited [[Francesco Totti]] as an inspiration.<ref>{{Cite web |date=5 February 2020 |title=Eriksen: 'Totti il mio idolo. E a Football manager...' |url=https://www.calciomercato.com/news/eriksen-totti-il-mio-idolo-e-a-football-manager-67787 |access-date=14 June 2021 |website=Calciomercato.com |language=it}}</ref>
+
+==Personal life==
+Eriksen lives with his girlfriend Sabrina Kvist Jensen.<ref>{{Cite web |date=31 December 2018 |title=Christian Eriksen deler sød hemmelighed: Det hedder sønnike |url=https://www.seoghoer.dk/nyheder/det-hedder-soennike |website=SE og HØR |language=da}}</ref><ref>{{Cite web |last=FourFourTwo Staff |date=25 June 2021 |title=Euro 2020 – Who is Christian Eriksen's wife and does he have kids? |url=https://www.fourfourtwo.com/features/euro-2020-who-is-christian-eriksens-wife-and-does-he-have-kids |website=fourfourtwo.com}}</ref> They have a son and a daughter.<ref>{{Cite web |date=31 December 2018 |title=Har holdt det hemmeligt i månedsvis: Nu afslører Christian Eriksen sønnens navn |url=https://www.bt.dk/fodbold/har-holdt-det-hemmeligt-i-maanedsvis-nu-afsloerer-christian-eriksen-soennens-navn |website=B.T. |language=da}}</ref><ref>{{Cite web |date=31 December 2020 |title=Family of 4 😍❤️ |url=https://www.instagram.com/p/CJbmPL2gYkS/ |url-access=subscription |archive-url=https://ghostarchive.org/iarchive/instagram/chriseriksen8/2475740589455411474 |archive-date=23 December 2021 |access-date=12 June 2021 |via=Instagram}}{{cbignore}}</ref> His younger sister [[Louise Eriksen]] also plays football and is the captain for [[KoldingQ]] in the [[Elitedivisionen]].<ref>{{Cite web |date=23 March 2017 |title=Eriksen om lillesøster på landsholdet: Hun har også været lidt jaloux på mig |url=https://www.dr.dk/sporten/fodbold/landsholdet/eriksen-om-lillesoester-paa-landsholdet-hun-har-ogsaa-vaeret-lidt-jaloux |publisher=[[DR (broadcaster)|DR]] |language=da}}</ref><ref>{{Cite web |date=22 March 2017 |title=Det bliver i familien: Søster Eriksen udtaget til landsholdet |url=https://www.dr.dk/sporten/fodbold/kvindelandsholdet/det-bliver-i-familien-soester-eriksen-udtaget-til-landsholdet |publisher=[[DR (broadcaster)|DR]] |language=da}}</ref>
+
+==Career statistics==
+
+===Club===
+{{updated|match played 3 June 2023}}
+
+{| class=wikitable style=text-align:center
+|+ Appearances and goals by club, season and competition
+|-
+!rowspan=2|Club
+!rowspan=2|Season
+!colspan=3|League
+!colspan=2|National cup
+!colspan=2|League cup
+!colspan=2|Europe
+!colspan=2|Other
+!colspan=2|Total
+|-
+!Division!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals
+|-
+|rowspan=6|[[AFC Ajax|Ajax]]
+|[[2009–10 AFC Ajax season|2009–10]]<ref name=SW/>
+|[[Eredivisie]]
+|15||0||4||1||colspan=2|—||2{{efn|name=UEL|Appearances in [[UEFA Europa League]]}}||0||colspan=2|—||21||1
+|-
+|[[2010–11 AFC Ajax season|2010–11]]<ref name=SW/>
+|Eredivisie
+|28||6||6||1||colspan=2|—||12{{efn|Eight appearances in [[UEFA Champions League]], four appearances and one goal in UEFA Europa League}}||1||1{{efn|name=JCS|Appearance in [[Johan Cruyff Shield]]}}||0||47||8
+|-
+|[[2011–12 AFC Ajax season|2011–12]]<ref name=SW/>
+|Eredivisie
+|33||7||2||0||colspan=2|—||8{{efn|name=Same|Six appearances and one goal in UEFA Champions League, two appearances in UEFA Europa League}}||1||1{{efn|name=JCS}}||0||44||8
+|-
+|[[2012–13 AFC Ajax season|2012–13]]<ref name=SW/>
+|Eredivisie
+|33||10||4||2||colspan=2|—||8{{efn|name=Same}}||1||colspan=2|—||45||13
+|-
+|[[2013–14 AFC Ajax season|2013–14]]<ref name=SW/>
+|Eredivisie
+|4||2||colspan=2|—||colspan=2|—||colspan=2|—||1{{efn|name=JCS}}||0||5||2
+|-
+!colspan=2|Total
+!113||25||16||4||colspan=2|—||30||3||3||0||162||32
+|-
+|rowspan=8|[[Tottenham Hotspur F.C.|Tottenham Hotspur]]
+|[[2013–14 Tottenham Hotspur F.C. season|2013–14]]<ref name="sb1314">{{soccerbase season|54791|2013|access-date=27 May 2017}}</ref>
+|[[Premier League]]
+|25||7||1||0||1||0||9{{efn|name=UEL}}||3||colspan=2|—||36||10
+|-
+|[[2014–15 Tottenham Hotspur F.C. season|2014–15]]<ref name="sb1415">{{soccerbase season|54791|2014|access-date=27 May 2017}}</ref>
+|Premier League
+|38||10||2||0||4||2||4{{efn|name=UEL}}||0||colspan=2|—||48||12
+|-
+|[[2015–16 Tottenham Hotspur F.C. season|2015–16]]<ref name="sb1516">{{soccerbase season|54791|2015|access-date=27 May 2017}}</ref>
+|Premier League
+|35||6||4||1||1||0||7{{efn|name=UEL}}||1||colspan=2|—||47||8
+|-
+|[[2016–17 Tottenham Hotspur F.C. season|2016–17]]<ref name="sb1617">{{soccerbase season|54791|2016|access-date=25 July 2017}}</ref>
+|Premier League
+|36||8||3||1||1||2||8{{efn|Six appearances in UEFA Champions League, two appearances and one goal in UEFA Europa League}}||1||colspan=2|—||48||12
+|-
+|[[2017–18 Tottenham Hotspur F.C. season|2017–18]]<ref name="sb1718">{{soccerbase season|54791|2017|access-date=3 September 2018}}</ref>
+|Premier League
+|37||10||3||2||1||0||6{{efn|name=UCL|Appearances in UEFA Champions League}}||2||colspan=2|—||47||14
+|-
+|[[2018–19 Tottenham Hotspur F.C. season|2018–19]]<ref name="sb1819">{{soccerbase season|54791|2018|access-date=21 February 2020}}</ref>
+|Premier League
+|35||8||0||0||4||0||12{{efn|name=UCL}}||2||colspan=2|—||51||10
+|-
+|[[2019–20 Tottenham Hotspur F.C. season|2019–20]]<ref name=sb1920/>
+|Premier League
+|20||2||2||0||1||0||5{{efn|name=UCL}}||1||colspan=2|—||28||3
+|-
+!colspan=2|Total
+!226||51||15||4||13||4||51||10||colspan=2|—||305||69
+|-
+|rowspan=3|[[Inter Milan]]
+|[[2019–20 Inter Milan season|2019–20]]<ref name="sb1920">{{soccerbase season|54791|2019|access-date=31 January 2022}}</ref>
+|[[Serie A]]
+|17||1||3||1||colspan=2|—||6{{efn|name=UEL}}||2||colspan=2|—||26||4
+|-
+|[[2020–21 Inter Milan season|2020–21]]<ref name="sb2021">{{soccerbase season|54791|2020|access-date=31 January 2022}}</ref>
+|Serie A
+|26||3||4||1||colspan=2|—||4{{efn|name=UCL}}||0||colspan=2|—||34||4
+|-
+!colspan=2|Total
+!43||4||7||2||colspan=2|—||10||2||colspan=2|—||60||8
+|-
+|[[Brentford F.C.|Brentford]]
+|[[2021–22 Brentford F.C. season|2021–22]]<ref name="sb2122">{{soccerbase season|54791|2021|access-date=31 January 2022}}</ref>
+|Premier League
+|11||1||0||0||colspan=2|—||colspan=2|—||colspan=2|—||11||1
+|-
+|[[Manchester United F.C.|Manchester United]]
+|[[2022–23 Manchester United F.C. season|2022–23]]<ref name="sb2223">{{soccerbase season|54791|2022|access-date=3 June 2023}}</ref>
+|Premier League
+|28||1||4||0||4||1||8{{efn|name=UEL}}||0||colspan=2|—||44||2
+|-
+!colspan=3|Career total
+!421||82||42||10||17||5||99||15||3||0||582||112
+|}
+
+{{notelist}}
+
+===International===
+{{updated|match played 19 June 2023}}<ref name="International">{{cite web |title=Christian Eriksen, international football player |url=https://eu-football.info/_player.php?id=26681 |website=eu-football.info |access-date=23 June 2023}}</ref>
+
+{| class=wikitable style=text-align:center
+|+ Appearances and goals by national team and year
+|-
+!National team!!Year!!Apps!!Goals
+|-
+|rowspan=14|[[Denmark national football team|Denmark]]
+|2010||10||0
+|-
+|2011||10||2
+|-
+|2012||11||0
+|-
+|2013||11||2
+|-
+|2014||7||1
+|-
+|2015||8||1
+|-
+|2016||9||6
+|-
+|2017||9||9
+|-
+|2018||10||4
+|-
+|2019||10||6
+|-
+|2020||8||5
+|-
+|2021||6||0
+|-
+|2022||11||3
+|-
+|2023||2||0
+|-
+!colspan=2|Total||122||39
+|}
+
+{{updated|match played 19 June 2023}}
+:''Denmark score listed first, score column indicates score after each Eriksen goal''<ref name=International/>
+
+{| class="wikitable sortable plainrowheaders"
+|+ List of international goals scored by Christian Eriksen
+|-
+!scope=col|No.
+!scope=col|Date
+!scope=col|Venue
+!scope=col|Cap
+!scope=col|Opponent
+!scope=col|Score
+!scope=col|Result
+!scope=col|Competition
+|-
+!scope=row style=text-align:center|1
+|4 June 2011||[[Laugardalsvöllur]], Reykjavík, Iceland||align=center|14||{{fb|ISL}}||align=center|2–0||align=center|2–0||[[UEFA Euro 2012 qualifying]]
+|-
+!scope=row style=text-align:center|2
+|10 August 2011||[[Hampden Park]], Glasgow, Scotland||align=center|15||{{fb|SCO}}||align=center|1–1||align=center|1–2||[[Friendly (association football)|Friendly]]
+|-
+!scope=row style=text-align:center|3
+|5 June 2013||[[Aalborg Stadium]], Aalborg, Denmark||align=center|35||{{fb|GEO}}||align=center|2–1||align=center|2–1
+|Friendly
+|-
+!scope=row style=text-align:center|4
+|14 August 2013||[[Stadion Energa Gdańsk]], Gdańsk, Poland||align=center|37||{{fb|POL}}||align=center|1–1||align=center|2–3
+|Friendly
+|-
+!scope=row style=text-align:center|5
+|22 May 2014||[[Nagyerdei Stadion]], Debrecen, Hungary||align=center|43||{{fb|HUN}}||align=center|1–1||align=center|2–2
+|Friendly
+|-
+!scope=row style=text-align:center|6
+|8 June 2015||[[Viborg Stadium]], Viborg, Denmark||align=center|52||{{fb|MNE}}||align=center|1–1||align=center|2–1
+|Friendly
+|-
+!scope=row style=text-align:center|7
+|rowspan=3|7 June 2016||rowspan=3|[[Panasonic Stadium Suita|Suita City Football Stadium]], Suita, Japan||rowspan=3 align=center|61||rowspan=3|{{fb|BUL}}||align=center|2–0||rowspan=3 align=center|4–0||rowspan=3|[[Kirin Cup#2016 Kirin Cup Soccer|2016 Kirin Cup]]
+|-
+!scope=row style=text-align:center|8
+|align=center|3–0
+|-
+!scope=row style=text-align:center|9
+|align=center|4–0
+|-
+!scope=row style=text-align:center|10
+|4 September 2016||[[Parken Stadium]], Copenhagen, Denmark||align=center|63||{{fb|ARM}}||align=center|1–0||align=center|1–0||[[2018 FIFA World Cup qualification]]
+|-
+!scope=row style=text-align:center|11
+|rowspan=2|11 November 2016||rowspan=2|Parken Stadium, Copenhagen, Denmark||rowspan=2 align=center|66||rowspan=2|{{fb|KAZ}}||align=center|2–1||rowspan=2 align=center|4–1
+|rowspan=2|2018 FIFA World Cup qualification
+|-
+!scope=row style=text-align:center|12
+|align=center|4–1
+|-
+!scope=row style=text-align:center|13
+|6 June 2017||[[Brøndby Stadium]], Brøndbyvester, Denmark||align=center|68||{{fb|GER}}||align=center|1–0||align=center|1–1||Friendly
+|-
+!scope=row style=text-align:center|14
+|10 June 2017||[[Almaty Central Stadium]], Almaty, Kazakhstan||align=center|69||{{fb|KAZ}}||align=center|2–0||align=center|3–1||[[2018 FIFA World Cup qualification]]
+|-
+!scope=row style=text-align:center|15
+|1 September 2017||Parken Stadium, Copenhagen, Denmark||align=center|70||{{fb|POL}}||align=center|4–0||align=center|4–0
+|2018 FIFA World Cup qualification
+|-
+!scope=row style=text-align:center|16
+|4 September 2017||[[Vazgen Sargsyan Republican Stadium]], Yerevan, Armenia||align=center|71||{{fb|ARM}}||align=center|2–1||align=center|4–1
+|2018 FIFA World Cup qualification
+|-
+!scope=row style=text-align:center|17
+|5 October 2017||[[Podgorica City Stadium|City Stadium]], Podgorica, Montenegro||align=center|72||{{fb|MNE}}||align=center|1–0||align=center|1–0
+|2018 FIFA World Cup qualification
+|-
+!scope=row style=text-align:center|18
+|8 October 2017||Parken Stadium, Copenhagen, Denmark||align=center|73||{{fb|ROU}}||align=center|1–0||align=center|1–1
+|2018 FIFA World Cup qualification
+|-
+!scope=row style=text-align:center|19
+|rowspan=3|14 November 2017||rowspan=3|[[Aviva Stadium]], Dublin, Ireland||rowspan=3 align=center|75||rowspan=3|{{fb|IRL}}||align=center|2–1||rowspan=3 align=center|5–1
+|rowspan=3|2018 FIFA World Cup qualification
+|-
+!scope=row style=text-align:center|20
+|align=center|3–1
+|-
+!scope=row style=text-align:center|21
+|align=center|4–1
+|-
+!scope=row style=text-align:center|22
+|9 June 2018||Brøndby Stadium, Brøndbyvester, Denmark||align=center|78||{{fb|MEX}}||align=center|2–0||align=center|2–0||Friendly
+|-
+!scope=row style=text-align:center|23
+|21 June 2018||[[Samara Arena]], Samara, Russia||align=center|80||{{fb|AUS}}||align=center|1–0||align=center|1–1||[[2018 FIFA World Cup]]
+|-
+!scope=row style=text-align:center|24
+|rowspan=2|9 September 2018||rowspan=2|[[Aarhus Stadium|Ceres Park]], Aarhus, Denmark||rowspan=2 align=center|83||rowspan=2 |{{fb|WAL}}||align=center|1–0||rowspan=2 align=center|2–0||rowspan=2|[[2018–19 UEFA Nations League B]]
+|-
+!scope=row style=text-align:center|25
+|align=center|2–0
+|-
+!scope=row style=text-align:center|26
+|21 March 2019||[[Fadil Vokrri Stadium]], Pristina, Kosovo||align=center|86||{{fb|KOS}}||align=center|1–1||align=center|2–2||Friendly
+|-
+!scope=row style=text-align:center|27
+|10 June 2019||Parken Stadium, Copenhagen, Denmark||align=center|89||{{fb|GEO}}||align=center|2–1||align=center|5–1||[[UEFA Euro 2020 qualifying]]
+|-
+!scope=row style=text-align:center|28
+|rowspan=2|5 September 2019||rowspan=2|[[Victoria Stadium, Gibraltar|Victoria Stadium]], Gibraltar||rowspan=2 align=center|90||rowspan=2|{{fb|GIB}}||align=center|2–0||rowspan=2 align=center|6–0
+|rowspan=2|UEFA Euro 2020 qualifying
+|-
+!scope=row style=text-align:center|29
+|align=center|3–0
+|-
+!scope=row style=text-align:center|30
+|rowspan=2|15 November 2019||rowspan=2|Parken Stadium, Copenhagen, Denmark||rowspan=2 align=center|94||rowspan=2|{{fb|GIB}}||align=center|5–0||rowspan=2 align=center|6–0||rowspan=2|UEFA Euro 2020 qualifying
+|-
+!scope=row style=text-align:center|31
+|align=center|6–0
+|-
+!scope=row style=text-align:center|32
+|7 October 2020||[[MCH Arena]], Herning, Denmark||align=center|98||{{fb|FRO}}||align=center|2–0||align=center|4–0||Friendly
+|-
+!scope=row style=text-align:center|33
+|11 October 2020||[[Laugardalsvöllur]], Reykjavík, Iceland||align=center|99||{{fb|ISL}}||align=center|2–0||align=center|3–0||[[2020–21 UEFA Nations League A]]
+|-
+!scope=row style=text-align:center|34
+|14 October 2020||[[Wembley Stadium]], London, England||align=center|100||{{fb|ENG}}||align=center|1–0||align=center|1–0||2020–21 UEFA Nations League A
+|-
+!scope=row style=text-align:center|35
+|rowspan=2|15 November 2020||rowspan=2|Parken Stadium, Copenhagen, Denmark||rowspan=2 align=center|102||rowspan=2|{{fb|ISL}}||align=center|1–0||rowspan=2 align=center|2–1||rowspan=2|2020–21 UEFA Nations League A
+|-
+!scope=row style=text-align:center|36
+|align=center|2–1
+|-
+!scope=row style=text-align:center|37
+|26 March 2022||[[Johan Cruyff Arena]], Amsterdam, Netherlands||align=center|110||{{fb|NED}}||align=center|2–3||align=center|2–4||Friendly
+|-
+!scope=row style=text-align:center|38
+|29 March 2022||[[Parken Stadium]], Copenhagen, Denmark||align=center|111||{{fb|SRB}}||align=center|3–0||align=center|3–0||Friendly
+|-
+!scope=row style=text-align:center|39
+|22 September 2022||[[Stadion Maksimir]], [[Zagreb]], Croatia||align=center|116||{{fb|CRO}}||align=center|1–1||align=center|1–2||[[2022–23 UEFA Nations League A]]
+|}
+
+==Honours==
+'''Ajax'''
+*[[Eredivisie]]: [[2010–11 Eredivisie|2010–11]], [[2011–12 Eredivisie|2011–12]], [[2012–13 Eredivisie|2012–13]]<ref>{{Cite web |date=20 January 2015 |title=Trophies |url=http://english.ajax.nl/The-Club/Trophies.htm |archive-url=https://web.archive.org/web/20150120170833/http://english.ajax.nl/The-Club/Trophies.htm |archive-date=20 January 2015 |publisher=AFC Ajax}}</ref>
+*[[KNVB Cup]]: [[2009–10 KNVB Cup|2009–10]]<ref name=2010cup/>
+*[[Johan Cruyff Shield]]: [[2013 Johan Cruyff Shield|2013]]<ref>{{Cite web |title=Netherlands – List of Super Cup Finals |url=https://www.rsssf.org/tablesn/nedsupcuphist.html |access-date=20 January 2015 |publisher=Rec.Sport.Soccer Statistics Foundation}}</ref>
+
+'''Tottenham Hotspur'''
+*[[Football League Cup]] runner-up: [[2014–15 Football League Cup|2014–15]]<ref name=LC2015/>
+*[[UEFA Champions League]] runner-up: [[2018–19 UEFA Champions League|2018–19]]<ref>{{Cite news |last=McNulty |first=Phil |date=1 June 2019 |title=Tottenham Hotspur 0–2 Liverpool |publisher=BBC Sport |url=https://www.bbc.co.uk/sport/football/48368443 |access-date=1 June 2019}}</ref>
+
+'''Inter Milan'''
+*[[Serie A]]: [[2020–21 Serie A|2020–21]]<ref name="auto"/>
+*[[UEFA Europa League]] runner-up: [[2019–20 UEFA Europa League|2019–20]]<ref>{{cite news |url=https://www.uefa.com/uefaeuropaleague/match/2030143/postmatch/report/ |title=Sevilla 3–2 Inter: Sevilla win the Europa League! |website=UEFA.com |publisher=Union of European Football Associations |date=21 August 2020 |access-date=21 August 2020}}</ref>
+
+'''Manchester United'''
+*[[EFL Cup]]: [[2022–23 EFL Cup|2022–23]]<ref>{{cite news |url=https://www.bbc.co.uk/sport/football/64693810 |title=Manchester United 2–0 Newcastle United |first=Phil |last=McNulty |website=BBC Sport |date=26 February 2023 |access-date=26 February 2023}}</ref><ref name="sb2223"/>
+*[[FA Cup]] runner-up: [[2022–23 FA Cup|2022–23]]<ref>{{cite news |url=https://www.bbc.com/sport/football/65785637 |title=Manchester City 2-1 Manchester United |first=Phill |last=McNulty |website=BBC Sport |date=3 June 2023 |access-date=3 June 2023}}</ref>
+
+'''Individual'''
+*[[List of AFC Ajax records and statistics#AFC Ajax prize winners|Ajax Talent of the Future (Sjaak Swart Award)]] 2010<ref name="spurssigning">{{Cite web |date=31 August 2013 |title=Tottenham confirm the signing of midfielder Christian Eriksen from Ajax |url=http://www.skysports.com/football/news/11675/8898245/tottenham-confirm-the-signing-of-midfielder-christian-eriksen-from-ajax |access-date=19 March 2017 |publisher=Sky Sports |language=en}}</ref>
+*Ajax Talent of the Year (Marco van Basten Award): 2011<ref name=ajaxtalent/>
+*[[Danish Football Player of the Year#Young Players of the Year|Danish U-17 Talent of the Year]]: 2008<ref name=uefastarlet/>
+*[[Danish Football Player of the Year|Danish Talent of the Year]]: 2010, 2011<ref>{{Cite web |date=10 January 2015 |title=Tottenham Hotspur Star Christian Eriksen Wins Danish Player of the Year Award |url=http://www.insidefutbol.com/2015/01/10/tottenham-hotspur-star-christian-eriksen-wins-danish-player-of-the-year-award/182406/ |access-date=20 January 2015 |publisher=Inside Futbol}}</ref>
+*[[Johan Cruyff Trophy]]: 2011<ref name=talented/>
+*[[Dutch Footballer of the Year]] Bronze Boot: 2012<ref name=spurssigning/>
+*[[Danish Football Player of the Year]]: 2013, 2014, 2015, 2017, 2018<ref>{{Cite web |title=Årets Mandlige Fodboldspiller |url=https://spillerforeningen.dk/projekter/spillernes-officielle-k%C3%A5ringer/%C3%A5rets-mandlige-fodboldspiller/ |access-date=27 June 2022 |website=spillerforeningen.dk}}</ref>
+*[[Danish Football Player of the Year#Danish Football Association's award|Danish Football Player of the Year]] by [[TV 2 (Denmark)|TV2]] and [[Danish Football Association|DBU]]: 2011, 2013, 2014, 2017<ref>{{Cite web |title=Årets spiller |url=https://www.dbu.dk/landshold/herrelandshold/a-landsholdet/landsholdsstatistik/aarets-spiller/ |access-date=27 June 2022 |website=dbu.uk}}</ref>
+*[[PFA Team of the Year]]: [[PFA Team of the Year (2010s)#Premier League 9|2017–18 Premier League]]<ref name=1718PFA/>
+*[[Tottenham Hotspur F.C.|Tottenham Hotspur]] Player of the Year: [[2013–14 Tottenham Hotspur F.C. season|2013–14]], [[2016–17 Tottenham Hotspur F.C. season|2016–17]]<ref name=POTS/><ref>{{Cite web |date=11 January 2015 |title=Christian's pride |url=http://www.tottenhamhotspur.com/news/christian-eriksen-on-awards-140514/ |access-date=20 January 2015 |publisher=Tottenham Hotspur F.C.}}</ref>
+*[[UEFA Club Football Awards#Best Midfielder|UEFA Champions League Midfielder of the Season]] 2nd place: [[2018–19 UEFA Champions League|2018–19]]<ref>{{Cite web |last=Union of European Football Associations |date=29 August 2019 |title=UEFA Champions League Midfielder of the Season 2018/19 |url=https://www.uefa.com/uefachampionsleague/news/newsid=2618590.html |access-date=6 October 2019 |website=UEFA.com |publisher=Union of European Football Associations}}</ref>
+*[[Premier League Goal of the Month]]: [[2017–18 Premier League#Monthly awards|April 2018]]<ref>{{Cite web |date=9 May 2018 |title=Eriksen strike wins Carling Goal of the Month |url=https://www.premierleague.com/news/682718 |access-date=9 May 2018 |publisher=Premier League}}</ref>
+*[[FIFPro#FIFA FIFPro Men's World11|FIFA FIFPro World11]] nominee: [[The Best FIFA Football Awards 2019#FIFA FIFPro Men's World11|2019]] (14th midfielder)<ref>{{cite web |date=23 September 2019 |title=Rankings: How All 55 Male Players Finished |url=https://fifpro.org/news/rankings-how-all-55-male-players-finished/en/ |website=FIFPro World Players' Union}}</ref>
+*[[Laureus World Sports Award for Comeback of the Year]]: 2023<ref>{{cite news |url=https://www.manutd.com/en/news/detail/christian-eriksen-wins-comeback-of-the-year-at-laureus-world-sport-awards |title=Eriksen Wins Laureus Comeback of The Year Award |publisher=Manchester United F.C. |date=9 May 2023 |access-date=9 May 2023}}</ref>
+
+==See also==
+* [[List of men's footballers with 100 or more international caps]]
+
+==Notes==
+{{reflist|group=nb}}
+
+==References==
+{{reflist}}
+
+==External links==
+{{commons category}}
+*[https://www.manutd.com/en/players-and-staff/detail/christian-eriksen profile] at the Manchester United website
+*[https://www.dbu.dk/landshold/landsholdsdatabasen/PlayerInfo/5999 Profile] at the Danish Football Association website
+*{{UEFA player}}
+*{{FIFA player}}
+
+{{Manchester United F.C. squad}}
+{{Navboxes
+| title = Denmark squads
+| bg = #e11b22
+| fg = white
+| bordercolor = #DCDCDC
+| list1 = 
+{{Denmark squad 2010 FIFA World Cup}}
+{{Denmark squad UEFA Euro 2012}}
+{{Denmark squad 2018 FIFA World Cup}}
+{{Denmark squad UEFA Euro 2020}}
+{{Denmark squad 2022 FIFA World Cup}}
+}}
+{{Navboxes
+| title = Awards
+| bg = gold
+| fg = navy
+| list1 = 
+{{AFC Ajax Talent of the Future}}
+{{AFC Ajax Talent of the Year}}
+{{Dutch Football Talent of the Year}}
+{{Danish Football Player of the Year}}
+{{Tottenham Hotspur F.C. Player of the Year}}
+{{2017–18 Premier League PFA Team of the Year}}
+}}
+{{Authority control}}
+
+{{DEFAULTSORT:Eriksen, Christian}}
+[[Category:1992 births]]
+[[Category:Living people]]
+[[Category:People from Middelfart Municipality]]
+[[Category:Danish men's footballers]]
+[[Category:Men's association football midfielders]]
+[[Category:Middelfart Boldklub players]]
+[[Category:AFC Ajax players]]
+[[Category:Tottenham Hotspur F.C. players]]
+[[Category:Inter Milan players]]
+[[Category:Brentford F.C. players]]
+[[Category:Manchester United F.C. players]]
+[[Category:Eredivisie players]]
+[[Category:Premier League players]]
+[[Category:Serie A players]]
+[[Category:Denmark men's youth international footballers]]
+[[Category:Denmark men's under-21 international footballers]]
+[[Category:Denmark men's international footballers]]
+[[Category:2010 FIFA World Cup players]]
+[[Category:UEFA Euro 2012 players]]
+[[Category:2018 FIFA World Cup players]]
+[[Category:UEFA Euro 2020 players]]
+[[Category:2022 FIFA World Cup players]]
+[[Category:FIFA Men's Century Club]]
+[[Category:Danish expatriate men's footballers]]
+[[Category:Expatriate men's footballers in the Netherlands]]
+[[Category:Expatriate men's footballers in England]]
+[[Category:Expatriate men's footballers in Italy]]
+[[Category:Danish expatriate sportspeople in the Netherlands]]
+[[Category:Danish expatriate sportspeople in England]]
+[[Category:Danish expatriate sportspeople in Italy]]
+[[Category:Footballers from the Region of Southern Denmark]]

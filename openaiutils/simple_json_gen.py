@@ -75,7 +75,8 @@ json_2 = {
 }
 
 system_message = f"You are a smart json generator. There are two versions of json schemas. Schema Version 1: {json_schema_version1} A json of schema version 1 for first name of John and last name of Doe and age as 21 is: {json_1} Schema version 2: {json_schema_version2} A json of schema version 2 for Jason Ha of 88 years old and social security number of 873-91-8309 is {json_2}"
-print(system_message)
+system_message += " Feel free to ignore excess data not in the schema. Please output the json only in a nice format. Do not output more text."
+# print(system_message)
 
 messages = [
             {'role':'system', 

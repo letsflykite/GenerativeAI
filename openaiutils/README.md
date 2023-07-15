@@ -1,28 +1,40 @@
 The following utilities rely on openai API
+### Json Generaton Service
 
+Service to generate json from text
+
+### Environment
+
+##### Venv + Pip
+`conda update -n base -c defaults conda`
+`conda deactivate`
+`conda remove --name openaiutils_env_dev --all`
+
+Create a virtual env with conda
+
+`conda env create -f openaiutils_env_dev.yml python=3.9`
+
+`conda activate openaiutils_env_dev`
+
+Make sure OPENAI_API_KEY is set in your environment variables
+`source ~/.bashrc`
 ===========================
 
-1. Install openai: pip3 install openai
-2. Install Gradio: pip3 install Gradio  --use-feature=2020-resolver
 
 
 
-=========================== To run a simple json generator =======
-
-3. Run: 
+### Run standalone 
         python simple_json_gen.py
 
-4. Have a smart json gen in your browser! Hope you enjoy it:)
+### Sample output
 
 Demo: (demo link is good for 72 hours)
-https://33d74aea98bff36e18.gradio.live
+https://56deba46396c573069.gradio.live
 
 Sample turn 1 input:
 Can you generate a json of schema version 1 for Johnny Smith of age 2
 
 Sample turn 1 output:
-Sure! Here's the JSON of schema version 1 for Johnny Smith of age 2:
-
 ```
 {
     "firstName": "Johnny",

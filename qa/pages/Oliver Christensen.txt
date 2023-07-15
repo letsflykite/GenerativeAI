@@ -1,0 +1,161 @@
+{{short description|Danish footballer (born 1999)}}
+{{Use dmy dates|date=November 2022}}
+{{Infobox football biography
+| name = Oliver Christensen
+| image = Christensen2022.jpg
+| image_size = 210
+| caption = Christensen in 2022
+| fullname = Oliver Christensen<ref name="FIFA 2022">{{cite web |url=https://fdp.fifa.org/assetspublic/ce44/pdf/SquadLists-English.pdf |title=FIFA World Cup Qatar 2022™: List of Players: Denmark |publisher=FIFA |page=9 |date=15 November 2022 |access-date=15 November 2022 |archive-url=https://web.archive.org/web/20221218195301/https://fdp.fifa.org/assetspublic/ce44/pdf/SquadLists-English.pdf |archive-date=18 December 2022 |url-status=live}}</ref>
+| birth_date = {{birth date and age|1999|03|22|df=y}}
+| birth_place = [[Kerteminde]], Denmark
+| height = 1.90 m<ref>{{cite web |url=https://www.herthabsc.com/de/mannschaften/hertha-bsc/oliver-christensen |title=Oliver Christensen  |publisher=Hertha BSC |access-date=4 August 2022 }}</ref>
+| position = [[Goalkeeper (association football)|Goalkeeper]]
+| currentclub = [[Hertha BSC]]
+| clubnumber = 1
+| youthyears1 = {{0|0000}}–2010
+| youthclubs1 = Kerteminde Boldklub
+| youthyears2 = 2010–2018
+| youthclubs2 = [[Odense Boldklub|OB]]
+| years1 = 2016–2021
+| clubs1 = [[Odense Boldklub|OB]]
+| caps1 = 61
+| goals1 = 0
+| years2 = 2021–
+| clubs2 = [[Hertha BSC II]]
+| caps2 = 5
+| goals2 = 0
+| years3 = 2021–
+| clubs3 = [[Hertha BSC]]
+| caps3 = 33
+| goals3 = 0
+| nationalyears1 = 2017
+| nationalteam1 = [[Denmark national under-18 football team|Denmark U18]]
+| nationalcaps1 = 2
+| nationalgoals1 = 0
+| nationalyears2 = 2017–2018
+| nationalteam2 = [[Denmark national under-19 football team|Denmark U19]]
+| nationalcaps2 = 2
+| nationalgoals2 = 0
+| nationalyears3 = 2019
+| nationalteam3 = [[Denmark national under-20 football team|Denmark U20]]
+| nationalcaps3 = 1
+| nationalgoals3 = 0
+| nationalyears4 = 2019–2021
+| nationalteam4 = [[Denmark national under-21 football team|Denmark U21]]
+| nationalcaps4 = 14
+| nationalgoals4 = 0
+| nationalyears5 = 2020–
+| nationalteam5 = [[Denmark national football team|Denmark]]
+| nationalcaps5 = 1
+| nationalgoals5 = 0
+| club-update = 11:18, 21 February 2023 (UTC)
+| nationalteam-update = 4 May 2021
+}}
+
+'''Oliver Christensen''' (born 22 March 1999) is a Danish professional [[Association football|footballer]] who plays as a [[Goalkeeper (association football)|goalkeeper]] for {{German football updater|HerthaBe}} club [[Hertha BSC]], and the [[Denmark national football team|Denmark national team]].
+
+==Club career==
+===OB===
+Born in [[Kerteminde]] on the island of [[Funen]], Christensen played in the youth department of his local club, Kerteminde Boldklub, before moving to [[Odense Boldklub]] (OB) at under-12 level. There, he progressed through the academy, and completed a trial with [[Manchester United F.C.|Manchester United]] in October 2016.<ref>{{cite news |last1=Dupont |first1=Nicolai |title=OB-talent på besøg i Manchester United |url=https://www.tipsbladet.dk/nyhed/superliga/ob-talent-paa-besoeg-i-manchester-united |work=Tipsbladet.dk |date=17 October 2016 |language=da}}</ref>
+
+In May 2017, Christensen signed a three-year professional contract with OB, and was promoted to the first team. Thus, he became a part of the club until 2020.<ref name="ob1">{{cite web |last1=Wamsler |first1=Morten |title=OB og Oliver Christensen laver tre-årig aftale |url=http://v3.ob.dk/artikel/ob-og-oliver-christensenlaver-tre-aarig-aftale.aspx |website=ob.dk |archive-url=https://web.archive.org/web/20181030035531/http://v3.ob.dk/artikel/ob-og-oliver-christensenlaver-tre-aarig-aftale.aspx |archive-date=30 October 2018 |language=da |date=22 May 2017}}</ref> In the first year of his contract, he still attended classes, after which he would become a full-time professional from the summer of 2018.<ref name="ob1" />
+
+He made his professional debut on 22 October 2018 in a [[Danish Superliga]] match against [[Brøndby IF]].<ref>{{cite web |title=Forbilledlig fight gav point på Brøndby Stadion |url=https://www.ob.dk/nyhedsarkiv/forbilledlig-fight-gav-point-paa-broendby-stadion/ |website=ob.dk |language=da |date=22 October 2018}}</ref> He impressed during the match, fending off a number of shots on goal from opposing players.<ref>{{cite news |title=19-årig OB-målmand efter drømmedebut: Kan takke BIFs fans for ikke at have nogen stemme de næste tre dage |url=https://www.tv3sport.dk/sport/fodbold/nyheder/19-arig-ob-malmand-efter-drommedebut-kan-takke-bi-fs-fans-for-ikke-at-have-nogen-stemme-de-naeste-tre-dage |work=TV3 SPORT |date=23 October 2018 |language=da}}</ref> He since became established as the starting goalkeeper for OB, gaining the nickname ''Gribben fra Kerteminde'', meaning "the vulture from [[Kerteminde]]" due to his large [[wingspan]].<ref>{{cite news |last1=Jørgensen |first1=Sune |title=OB-målmand afslører: Derfor bliver jeg kaldt Gribben fra Kerteminde |url=https://www.tv2fyn.dk/kerteminde/ob-maalmand-afsloerer-derfor-bliver-jeg-kaldt-gribben-fra-kerteminde |work=TV2 Fyn |date=13 November 2020 |language=da}}</ref><ref>{{cite news |last1=Halkier |first1=Emil |title=Der er sket lidt siden dengang Gribben fra Kerteminde delte aviser ud i nabolaget |url=https://www.dr.dk/sporten/fodbold/landsholdet/der-er-sket-lidt-siden-dengang-gribben-fra-kerteminde-delte-aviser-ud-i |work=DR |date=12 November 2020 |language=da}}</ref>
+
+===Hertha BSC===
+On 26 August 2021, Christensen was sold to [[Bundesliga]] club [[Hertha BSC]], where he signed a deal until June 2026.<ref>[https://www.herthabsc.com/de/nachrichten/2021/08/transfer-oliver-christensen-2122 HERTHA BSC VERPFLICHTET OLIVER CHRISTENSEN], herthabsc.com, 26 August 2021</ref> On 5 November, he made his debut for the reserve team [[Hertha BSC II]] in the [[Regionalliga Nordost]] game against [[1. FC Lokomotive Leipzig]].<ref>{{cite web |title=Hertha BSC II vs. Lokomotive Leipzig - 5 November 2021 - Soccerway |url=https://int.soccerway.com/matches/2021/11/05/germany/regionalliga/hertha-bsc-berlin-ii/1-fc-lokomotive-leipzig/3528383/ |website=int.soccerway.com |access-date=11 November 2021}}</ref> During the [[2021–22 Hertha BSC season|2021–22 season]] he did not make any Bundesliga appearance, as [[Alexander Schwolow]] and [[Marcel Lotka]] were given preference. Hertha finished the season in 16th place in the table and would thus meet [[Hamburger SV]] in playoffs for relegation and promotion. Since Lotka and Schwolow were injured, Christensen played both games and was able to keep Hertha in the Bundesliga.<ref>{{cite news |title=Lotka fehlt Hertha auch in Hamburg |url=https://www.kicker.de/lotka-fehlt-hertha-auch-in-hamburg-903101/artikel |access-date=21 June 2022 |work=kicker |date=21 May 2022 |archive-url=https://web.archive.org/web/20220531210113/https://www.kicker.de/lotka-fehlt-hertha-auch-in-hamburg-903101/artikel |archive-date=31 May 2022 |language=de-DE}}</ref>
+
+==International career==
+Christensen played two games each for the [[Denmark national under-18 football team|Denmark under-18 team]] in 2017 and for the [[Denmark national under-19 football team|under-19 team]] in 2017 and 2018, respectively. After gaining a cap for the [[Denmark national under-20 football team|under-20]] side in 2019, Christensen made his debut for the [[Denmark national under-21 football team|under-21 team]] on 10 September 2019 in a 2–1 victory in the [[2021 UEFA European Under-21 Championship qualification]] match against [[Romania national under-21 football team|Romania]] in [[Aalborg]].<ref>{{cite web |title=Oliver Christensen drømmer om at komme til EM |url=https://www.ob.dk/nyhedsarkiv/oliver-christensen-droemmer-om-at-komme-til-em/ |website=ob.dk |language=da |date=6 November 2019}}</ref>
+
+On 9 November 2020, Christensen was called up to [[Kasper Hjulmand]]'s senior squad for the [[Exhibition game|friendly]] against [[Sweden national football team|Sweden]] due to several cancellations from, among others, the Danish national team players playing in England, due to the [[COVID-19 pandemic in England|COVID-19 restrictions]], as well as a case of [[Coronavirus disease 2019|COVID-19]] in the squad, which had put several national team players in quarantine. He started the match against Sweden at [[Brøndby Stadium]] in his debut match, on 11 November 2020.<ref>{{cite news |title=Wind og Bah sikrer dansk 2-0 sejr over Sverige |url=https://dbu.dk/nyheder/2020/november/wind-og-bah-sikrer-dansk-2-0-sejr-over-sverige/ |accessdate=12 November 2020 |work=[[Danish Football Association]] |date=11 November 2020 |language=Danish }}</ref><ref>{{cite news |last1=Jørgensen |first1=Sune |title=Debut på landsholdet: OB-målmand starter inde mod Sverige |url=https://www.tv2fyn.dk/odense/debut-paa-landsholdet-ob-maalmand-starter-inde-mod-sverige |work=TV2 Fyn |date=11 November 2020 |language=da}}</ref>
+
+==Career statistics==
+
+{{updated|match played 19 February 2023}}<ref name="SW">{{Soccerway|oliver-christensen/468569|Oliver Christensen|access-date=21 February 2023}}</ref>
+
+{| class="wikitable" style="text-align:center"
+|+ Appearances and goals by club, season and competition
+|-
+!rowspan="2"|Club
+!rowspan="2"|Season
+!colspan="3"|League
+!colspan="2"|National cup
+!colspan="2"|Continental
+!colspan="2"|Other
+!colspan="2"|Total
+|-
+!Division!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals
+|-
+|rowspan="5"|[[Odense Boldklub|OB]]
+|[[2018–19 Danish Superliga|2018–19]]
+|[[Danish Superliga]]
+|1||0||2||0||colspan="2"|—||colspan="2"|—||3||0
+|-
+|[[2019–20 Danish Superliga|2019–20]]
+|Danish Superliga
+|29||0||0||0||colspan="2"|—||5{{efn|name=DSEP|Appearances in the [[Danish Superliga]] European play-offs}}||0||15||0
+|-
+|[[2020–21 Danish Superliga|2020–21]]
+|Danish Superliga
+|25||0||3||0||colspan="2"|—||colspan="2"|—||28||0
+|-
+|[[2021–22 Danish Superliga|2021–22]]
+|Danish Superliga
+|6||0||0||0||colspan="2"|—||colspan="2"|—||6||0
+|-
+!colspan="2"|Total
+!61!!0!!5!!0!!0!!0!!5!!0!!71!!0
+|-
+|[[Hertha BSC II]]
+|[[2021–22 Regionalliga|2021–22]]
+|[[Regionalliga Nordost]]
+|5||0||colspan="2"|—||colspan="2"|—||colspan="2"|—||5||0
+|-
+|rowspan="3"|[[Hertha BSC]]
+|[[2021–22 Hertha BSC season|2021–22]]
+|[[Bundesliga]]
+|0||0||0||0||colspan="2"|—||2{{efn|Appearances in [[Bundesliga]] promotion/relegation play-offs}}||0||2||0
+|-
+|[[2022–23 Hertha BSC season|2022–23]]
+|Bundesliga
+|21||0||1||0||colspan="2"|—||colspan="2"|—||22||0
+|-
+!colspan="2"|Total
+!21!!0!!1!!0!!0!!0!!2!!0!!24!!0
+|-
+!colspan="3"|Career total
+!82!!0!!6!!0!!0!!0!!7!!0!!95!!0
+|}
+
+{{notelist}}
+
+==References==
+{{reflist}}
+
+==External links==
+*[https://www.herthabsc.com/en/teams/first-team-profiles/oliver-christensen Profile] at the Hertha BSC website
+
+{{Hertha BSC squad}}
+{{Denmark squad 2022 FIFA World Cup}}
+
+{{DEFAULTSORT:Christensen, Oliver}}
+[[Category:1999 births]]
+[[Category:Living people]]
+[[Category:People from Kerteminde]]
+[[Category:Danish men's footballers]]
+[[Category:Danish expatriate men's footballers]]
+[[Category:Denmark men's youth international footballers]]
+[[Category:Denmark men's under-21 international footballers]]
+[[Category:Denmark men's international footballers]]
+[[Category:Men's association football defenders]]
+[[Category:Footballers from Odense]]
+[[Category:Danish Superliga players]]
+[[Category:Regionalliga players]]
+[[Category:Bundesliga players]]
+[[Category:Odense Boldklub players]]
+[[Category:Hertha BSC players]]
+[[Category:Hertha BSC II players]]
+[[Category:Danish expatriate sportspeople in Germany]]
+[[Category:Expatriate men's footballers in Germany]]
+[[Category:2022 FIFA World Cup players]]

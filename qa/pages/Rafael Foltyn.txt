@@ -1,0 +1,50 @@
+{{Use dmy dates|date=November 2022}}
+{{notability|1=Biographies|date=October 2022}}
+
+{{Short description|German football referee}}
+{{Infobox football official
+| name                = Rafael Foltyn
+| image               = 2021-11-06 Fußball, Männer, 1. Bundesliga, RB Leipzig - Borussia Dortmund 1DX 1481 by Stepro.jpg
+| caption             = Rafael Foltyn, 2021
+| birth_date          = {{Birth date and age|1985|6|21|df=y}}
+| birth_place         = [[West Germany]]
+| death_date          =
+| death_place         =
+| otheroccupation     =
+| years1              = 2008–
+| league1             = [[Regionalliga]]
+| role1               = Referee
+| years2              = 2010–
+| league2             = [[2. Bundesliga]]
+| role2               = Assistant referee
+| years3              = 2012–
+| league3             = [[Bundesliga]]
+| role3               = Assistant referee
+| internationalyears1 = 2016–
+| confederation1      = [[UEFA]]
+| internationalrole1  = Assistant referee
+| internationalyears2 = 2019–
+| confederation2      = [[FIFA]]
+| internationalrole2  = Assistant referee
+}}
+'''Rafael Foltyn''' (born 21 June 1985) is a German [[Association football|football]] [[Referee (association football)|referee]].
+
+Rafael Foltyn lives in [[Mainz-Kastel]]. He is a [[German Football Association|DFB]] referee for TSG Kastel 1846. During the 2008/09 to 2011/12 seasons, he refereed games in the North, West and South [[Regionalliga|Regional Football Leagues]]. He later specialized as an [[Assistant referee (association football)|assistant referee]].
+
+As a linesman, Foltyn has been involved in the [[2. Bundesliga]] games since the 2010–11 season and the [[Bundesliga]] games since the 2012–13 season. Since the 2015–16 season, he has been a linesman of the [[UEFA Europa League]], and the [[UEFA Champions League]].
+
+In April 2021, he was nominated along with [[Jan Seidel]] to be part of [[Daniel Siebert (referee)|Daniel Siebert]]’s team of referees for the [[UEFA Euro 2020]] in June and July 2021.<ref>{{cite web |url=https://www.uefa.com/insideuefa/mediaservices/mediareleases/news/0268-12182cf1475f-825d23faf300-1000--euro-2020-referee-teams-appointed/ |title=Referee teams for UEFA EURO 2020 appointed |date=21 April 2021|publisher=UEFA |access-date=24 May 2022}}</ref>
+
+In May 2022, he was once again nominated together with Jan Seidel to be part of Daniel Siebert's refereeing team for the [[2022 FIFA World Cup]] in November and December 2022.<ref>{{cite web |url=https://www.spiegel.de/sport/fussball/fussball-wm-in-katar-fifa-nominiert-erstmals-drei-schiedsrichterinnen-a-f45d93c5-1c34-4c0b-8c25-480a4f90f09a |title=Fifa nominiert erstmals drei Schiedsrichterinnen |date=19 May 2022|publisher=Spiegel |access-date=24 May 2022}}</ref>
+
+==References==
+{{reflist}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Foltyn, Rafael}}
+[[Category:Living people]]
+[[Category:German football referees]]
+[[Category:UEFA Euro 2020 referees]]
+[[Category:2022 FIFA World Cup referees]]
+[[Category:1985 births]]

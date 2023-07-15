@@ -1,0 +1,41 @@
+{{National squad
+ | name        = Mexico squad 2022 FIFA World Cup
+ | bg          = #006847
+ | fg          = white
+ | bordercolor = #CE1126
+ | country     = Mexico
+ | comp link   = 2022 FIFA World Cup
+ | comp        = 2022 FIFA World Cup
+ | p1          = [[Alfredo Talavera|Talavera]]
+ | p2          = [[Néstor Araujo|Araujo]]
+ | p3          = [[César Montes|Montes]]
+ | p4          = [[Edson Álvarez|E. Álvarez]]
+ | p5          = [[Johan Vásquez (footballer, born 1998)|Vásquez]]
+ | p6          = [[Gerardo Arteaga|Arteaga]]
+ | p7          = [[Luis Romo|Romo]]
+ | p8          = [[Carlos Alberto Rodríguez|Rodríguez]]
+ | p9          = [[Raúl Jiménez|Jiménez]]
+ | p10         = [[Alexis Vega (footballer, born 1997)|Vega]]
+ | p11         = [[Rogelio Funes Mori|Funes Mori]]
+ | p12         = [[Rodolfo Cota|Cota]]
+ | p13         = [[Guillermo Ochoa|Ochoa]]
+ | p14         = [[Érick Gutiérrez|Gutiérrez]]
+ | p15         = [[Héctor Moreno|Moreno]]
+ | p16         = [[Héctor Herrera|Herrera]]
+ | p17         = [[Orbelín Pineda|Pineda]]
+ | p18         = [[Andrés Guardado|Guardado]]&nbsp;([[Captain (association football)|c]])
+ | p19         = [[Jorge Sánchez (footballer, born 1997)|Sánchez]]
+ | p20         = [[Henry Martín|Martín]]
+ | p21         = [[Uriel Antuna|Antuna]]
+ | p22         = [[Hirving Lozano|Lozano]]
+ | p23         = [[Jesús Gallardo|Gallardo]]
+ | p24         = [[Luis Chávez (footballer)|Chávez]]
+ | p25         = [[Roberto Alvarado|Alvarado]]
+ | p26         = [[Kevin Álvarez (footballer, born 1999)|K. Álvarez]]
+ | coach       = [[Gerardo Martino|Martino]]
+}}<noinclude>
+{{Squad maintenance}}
+[[Category:2022 FIFA World Cup squad navigational boxes|Mexico]]
+[[Category:Mexico FIFA World Cup squad navigational boxes|2022]]
+[[Category:Mexico at the 2022 FIFA World Cup|squad]]
+</noinclude>

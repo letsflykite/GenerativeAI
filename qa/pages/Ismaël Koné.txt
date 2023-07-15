@@ -1,0 +1,158 @@
+{{short description|Canadian soccer player}}
+{{Use mdy dates|date=November 2022}}
+{{Similar names|Ismael Kone (disambiguation)}}
+{{Infobox football biography
+| name = Ismaël Koné
+| image = File:Ismaël Koné WC2022 (cropped).jpg
+| caption = Koné playing for [[Canada men's national soccer team|Canada]] at the [[2022 FIFA World Cup]]
+| fullname = Ismaël Kenneth Jordan Koné<ref name="FIFA 2022">{{cite web |url=https://fdp.fifa.org/assetspublic/ce44/pdf/SquadLists-English.pdf |title=FIFA World Cup Qatar 2022 – Squad list: Canada (CAN) |publisher=[[FIFA]] |page=6 |date=November 15, 2022 |access-date=November 15, 2022}}</ref>
+| birth_date = {{Birth date and age|2002|6|16}}<ref name="FIFA 2022"/>
+| birth_place = [[Abidjan]], [[Ivory Coast]]
+| height = {{height|ft=6|in=2}}<ref>{{cite web |title=Ismaël Koné |url=https://en.cfmontreal.com/players/ismael-kone/ |access-date=August 21, 2022 |publisher=CF Montréal}}</ref>
+| position = [[Midfielder]]
+| currentclub = [[Watford F.C.|Watford]]
+| clubnumber = 11
+| youthyears1 = 2012–2018
+| youthclubs1 = AS Notre-Dame-de-Grâce
+| youthyears2 = 2019–2020
+| youthclubs2 = [[CS Saint-Laurent]]
+| youthyears3 = 2020–2021
+| youthclubs3 = [[CF Montréal U23|CF Montréal]]
+| years1 = 2021–2022
+| clubs1 = [[CF Montréal]]
+| caps1 = 26<!--MLS games only here. No Champions League or cup games-->
+| goals1 = 2
+| years2 = 2023–
+| clubs2 = [[Watford F.C.|Watford]]
+| caps2 = 16<!--League games only here. No cup games-->
+| goals2 = 0
+|nationalyears1 = 2022–
+| nationalteam1 = [[Canada men's national soccer team|Canada]]
+| nationalcaps1 = 13  <!--if you update, remember to update the date below as well -->
+| nationalgoals1 = 1
+| medaltemplates = {{MedalCountry|{{fb|CAN}}}}
+{{MedalSport|Men's [[association football|soccer]]}}
+{{MedalCompetition|[[CONCACAF Nations League]]}}
+{{Medal|RU|[[2023 CONCACAF Nations League Finals|2023]]|}}
+| club-update = 8 May 2023
+| nationalteam-update = June 19, 2023
+}}
+'''Ismaël Kenneth Jordan Koné''' (born June 16, 2002) is a Canadian professional [[Association football|soccer]] player who plays as a [[midfielder]] for [[EFL Championship]] club [[Watford F.C.|Watford]]. Born in Ivory Coast, he represents the [[Canada men's national soccer team|Canada national team]].
+
+==Early life==
+Koné was born in [[Abidjan, Ivory Coast]].<ref>{{Cite news|url=https://www.lapresse.ca/sports/soccer/2021-08-13/le-cf-montreal-ajoute-le-jeune-ismael-kone-a-sa-formation.php|title=Le CF Montréal ajoute le jeune Ismaël Koné à sa formation|trans-title=CF Montreal adds young Ismaël Koné to its roster|date=August 13, 2021|work=La Presse|language=fr}}</ref> In 2010, he moved to Canada at age 7, growing up in Montreal.<ref>{{Cite web|url=https://www.tvasports.ca/2021/09/07/ismael-kone-la-carte-cachee|trans-title=Ismaël Koné: The Hidden Map|title=Ismaël Koné: La Carte Cachée|first=Dave|last=Lévesque|date=September 7, 2021|work=[[TVA Sports]]|language=fr}}</ref><ref>{{cite news|url=https://www.lapresse.ca/sports/soccer/2022-10-17/cf-montreal/ismael-kone-un-joueur-special.php|title=Ismaël Koné, un joueur « spécial »|trans-title=Ismaël Koné, a “special” player|language=fr|date=October 17, 2022|first=Jean-François|last=Téotonio|work=[[La Presse (Canadian newspaper)|La Presse]]}}</ref> Two years later, he began playing youth soccer with the AS Notre-Dame-de-Grâce Panthers.<ref>{{Cite web|url=https://journalmetro.com/local/saint-laurent/2782305/ancien-du-cs-saint-laurent-ismael-kone-fait-vibrer-stade-olympique/|title=Un ancien du CS Saint-Laurent fait vibrer le Stade olympique|language=fr|trans-title=A former CS Saint-Laurent rocks the Olympic Stadium|first=Olivier|last=Boivin|date=February 24, 2022|work=[[Métro (Montreal newspaper)|Journal Métro]]}}</ref><ref>{{cite web|url=https://www.rds.ca/soccer/cfm/ismael-kone-la-proximite-de-l-echec-1.16369590|title=Ismaël Koné : la proximité de l'échec|trans-title=Ismaël Koné: the proximity of failure|language=fr|date=November 2, 2022|first=Nicolas|last=Landry|work=[[Réseau des sports|RDS]]}}</ref> When he was 16, he joined [[CS Saint-Laurent]].<ref name=mlssign>{{Cite web|url=https://www.mlssoccer.com/news/cf-montreal-sign-midfielder-ismael-kone|title=CF Montréal sign midfielder Ismael Kone|date=August 13, 2021|first=Tom|last=Bogert|work=[[Major League Soccer]]}}</ref><ref>{{cite web|url=https://www.cbc.ca/news/canada/montreal/isma%C3%ABk-kon%C3%A9-soccer-montreal-fifa-1.6585767|title=Montreal's Ismaël Koné bursts into soccer's global spotlight|first=Douglas|last=Gelevan|date=September 18, 2022|work=[[Canadian Broadcasting Corporation|CBC]]}}</ref> With CS Saint-Laurent he earned the bronze medal at the 2019 Canadian Under-17 Championship.<ref name=nugget /> He went on trial in Belgium with [[K.R.C. Genk|Genk]] and [[Royal Excel Mouscron|Mouscron]],<ref name=mlssign /> but was unable to sign with Mouscron as they didn't have the funds available to sign a non-European player.<ref>{{cite web|url=https://theathletic.com/3836197/2022/11/14/ismael-kone-world-cup-platform-with-canada/|title=Canada's Ismael Kone on the World Cup and his breakout year: 'I don't want to play like anyone else'|date=November 14, 2022|first=Joshua|last=Kloke|work=[[The Athletic]]}}</ref> Soon afterwards, he was forced to return to Canada due to the [[COVID-19 pandemic]], where he began training with [[CF Montreal U23]] and earned an invite to the [[CF Montreal|first team]]'s training camp in 2021.<ref name=nugget>{{Cite web|url=https://www.tvasports.ca/2021/08/12/la-prochaine-pepite-du-cf-montreal|trans-title=The Next "Nugget" of CF Montreal|language=fr|first=Emeric|last=Montminy|title=La Prochain "Pépite" du CF Montréal?|work=[[TVA Sports]]|date=August 12, 2021}}</ref>
+
+== Club career ==
+===CF Montréal===
+After spending a few months training with the [[CF Montréal]] first team, initially unable to sign a contract due to “some technicalities in MLS rules,”<ref>{{Cite web|url=https://nationalpost.com/pmn/sports-pmn/cf-montreal-sign-19-year-old-m-ismael-kone|title=CF Montreal sign 19-year-old M Ismael Kone|date=August 13, 2021|work=[[National Post]]}}</ref><ref>{{Cite web|url=https://www.985fm.ca/nouvelles/sports/422063/soccer-ismael-kone-un-des-plus-beaux-espoirs-au-quebec|title=Ismaël Koné, " un des plus beaux espoirs au Québec "|first=Jeremy|last=Filosa|language=fr|trans-title=Ismaël Koné, "one of the most beautiful hopes in Quebec"|date=September 7, 2021|work=[[CHMP-FM|CHMP-FM 98.5 FM]]}}</ref> Koné officially signed a two-year contract with two option years on August 13, 2021.<ref>{{Cite web|url=https://en.cfmontreal.com/news/ismael-kone-signs-with-first-team|title=Ismaël Kone signs with first team|work=[[CF Montreal]]|date=August 13, 2021}}</ref><ref>{{Cite web|url=https://www.journaldemontreal.com/2021/09/07/retenez-le-nom-dismael-kone|first=Dave|last=Lévesque|language=fr|date=September 7, 2021|trans-title=Remember the name of Ismaël Koné|title=Retenez le nom d'Ismaël Koné|work=[[Le Journal de Montréal]]}}</ref> However, soon after signing his contract he suffered a knee injury, which limited his participation in training.<ref>{{Cite web|url=https://lookcharms.com/ismael-kone-is-ready-to-come-and-lend-a-hand-to-cf-montreal/|title=Ismaël Koné is ready to come and lend a hand to CF Montreal|work=Look Charms|date=September 8, 2021}}</ref> After the 2021 season, he went to train with Montreal's sister club, Italian [[Serie A]] club [[Bologna F.C. 1909|Bologna]].<ref>{{Cite web|url=https://destroyandprogress.substack.com/p/who-is-ismael-kone-exploring-more?s=r|title=Who is Ismael Koné? A deep dive into the rapidly improving 19-year-old CF Montreal midfielder set to earn first CanMNT call-up this March window|date=March 18, 2022|first=Alexandre|last=Gangué-Ruzic|work=Destroy and Progress}}</ref> Koné made his professional debut and scored his first goal with Montreal in a 3–0 win against [[Santos Laguna]] on February 23, 2022, in the [[2022 CONCACAF Champions League]].<ref>{{Cite web|url=https://btsvancity.com/2022/02/23/im-happy-with-the-result-cf-montreal-erases-santos-laguna-heartbreak-with-commanding-3-0-win-to-advance-to-champions-league-quarter-finals/|title="I'm happy with the result" CF Montreal erases Santos Laguna heartbreak with commanding 3–0 win to advance to Champions League quarter-finals|first=Alexandre|last=Gangué-Ruzic|date=February 23, 2022|work=BTS Van City}}</ref><ref>{{cite web|url=https://www.tvasports.ca/2022/02/26/scenario-reve-pour-ismael-kone|title=Scénario rêvé pour Ismaël Koné|language=fr|first=Dave|last=Lévesque|work=[[TVA Sports]]|trans-title=Dream scenario for Ismaël Koné}}</ref> During the 2022 summer transfer window, [[English Championship]] clubs [[Sheffield United]] and [[Norwich City]] were reported to have approached Montréal over Koné's services.<ref>{{Cite web|url=https://www.mlssoccer.com/news/cf-montreal-wunderkind-ismael-kone-seeks-great-leap-in-mls-cup-playoffs|title=CF Montréal wunderkind Ismaël Koné seeks great leap in MLS Cup Playoffs|first=Charles|last=Boehm|website=[[Major League Soccer]]|date=October 22, 2022}}</ref><ref>{{cite web|url=https://journalmetro.com/local/saint-laurent/2897101/cf-montreal-ismael-kone-demeure-club/|title=CF Montréal: Ismaël Koné demeure avec le club|trans-title=CF Montreal: Ismaël Koné remains with the club|language=fr|date=September 2, 2022|first=Clément|last=Gaboury|work=[[Métro (Montreal newspaper)|Journal Métro]]}}</ref>
+
+===Watford===
+In December 2022, English [[EFL Championship|Championship]] club [[Watford F.C.|Watford]] announced they had agreed to sign Koné on a transfer from CF Montréal, with the midfielder signing a four-and-a-half year deal.<ref>{{cite web|title=Official: Hornets Sign Koné|date=December 5, 2022|url=https://www.watfordfc.com/news/official-hornets-sign-kone|work=[[Watford F.C.|Watford Football Club]]}}</ref> He made his debut on January 7, 2023, starting an [[FA Cup]] match against [[Reading F.C.|Reading]].<ref>{{cite web|url=https://www.watfordobserver.co.uk/sport/23235429.watford-fa-cup-new-injury-concern/|title=Watford out of the FA Cup, but new injury is of more concern|date=January 7, 2022|work=[[Watford Observer]]|first=Andrew|last=French}}</ref>
+
+==International career==
+Koné was eligible to play for [[Canada men's national soccer team|Canada]] and the [[Ivory Coast national football team|Ivory Coast]]. In March 2022, Koné was called up to Canada for their final window of [[2022 FIFA World Cup qualification – CONCACAF third round|2022 FIFA World Cup qualification]] matches.<ref>{{Cite web|url=https://www.journaldequebec.com/2022/03/20/ismael-kone-deja-appele-en-equipe-nationale-1|title=Ismael Koné déjà appelé en équipe nationale|language=fr|trans-title=Ismael Koné already called up for the national team|date=March 20, 2022|work=[[Le Journal de Québec]]}}</ref><ref>{{Cite web|url=https://onesoccer.ca/a/ismael-kone-dayne-st-clair-earn-canada-call-ups-cf-montreal-minnesota-united|title='If you're good enough, you're old enough': CF Montreal's Ismael Kone earns CanMNT call|date=March 20, 2022|first=Armen|last=Bedakian|work=[[OneSoccer]]}}</ref> He made his debut on March 24 against [[Costa Rica national football team|Costa Rica]], as a substitute for [[Jonathan Osorio]].<ref>{{cite web|url=https://northerntribune.ca/world-cup-costa-rica-canada/|first=John|last=Jacques|title=Cautions Cost Canada In Cagey Costa Rica Clash|date=March 24, 2022|work=Northern Tribune}}</ref> Koné scored his first international goal for Canada in a friendly against [[Bahrain national football team|Bahrain]] on November 11, 2022.<ref>{{cite web|url=https://www.mlssoccer.com/news/ismael-kone-s-stock-is-rising-canada-draw-bahrain-in-world-cup-tune-up|title=Ismaël Koné's stock is rising: Canada draw Bahrain in World Cup tune-up|first=Peter|last=Galindo|work=[[Major League Soccer]]|date=November 11, 2022}}</ref> Two days later on November 13, he was named to Canada's 26-man squad for the [[2022 FIFA World Cup]].<ref>{{cite web|url=https://canpl.ca/article/canada-announces-26-man-squad-for-2022-fifa-world-cup-in-qatar|date=November 13, 2022|title=Canada announces 26-man squad for 2022 FIFA World Cup in Qatar|work=[[Canadian Premier League]]|first=Charlie|last=O'Connor-Clarke}}</ref> He appeared in all three of the team's matches at the World Cup.<ref>{{Cite web|url=https://www.mlssoccer.com/news/au-revoir-montreal-watford-bound-ismael-kone-seeks-biggest-leagues|title=Au revoir, Montréal: Watford-bound Ismaël Koné takes the next step|date=December 8, 2022|work=[[Major League Soccer]]|first=Tom|last=Bogert}}</ref><ref>{{cite web|url=https://www.cbc.ca/sports/soccer/kone-grateful-cf-montreal-mls-1.6679542|title=Canadian international Koné 'grateful' to CF Montreal for giving him his start|date=December 8, 2022|work=[[CBC Sports]]|first=Elias|last=Grigoriadis}}</ref> At the end of the year, Koné was named the men's 2022 [[Canada Soccer Young Player of the Year]].<ref name=young>{{Cite web|url=https://canadasoccer.com/news/simi-awujo-and-ismael-kone-named-canada-soccer-young-players-of-the-year/|title=Simi Awujo and Ismaël Koné named Canada Soccer Young Players of the Year|date=December 20, 2022|work=[[Canadian Soccer Association]]}}</ref>
+
+In June 2023, Koné was called-up to Canada ahead of the [[2023 CONCACAF Nations League Finals]].<ref>{{cite web|title=Former CPLers Loturi, Zator called up by Canada for 2023 Concacaf Nations League Finals|date=June 7, 2023|url=https://canpl.ca/article/canada-canmnt-2023-concacaf-nations-league-final-roster|first=Mitchell|last=Tierney|work=[[Canadian Premier League]]}}</ref>
+
+==Career statistics==
+===Club===
+{{updated|match played 8 May 2023}}<ref>{{Soccerway|ismael-kone/761687}}</ref>
+
+{| class="wikitable" style="text-align:center"
+|+
+!rowspan="2"|Club
+!rowspan="2"|Season
+!colspan="3"|League
+!colspan="2"|National Cup{{efn|Includes [[Canadian Championship]] and [[FA Cup]]}}
+!colspan="2"|League Cup{{efn|Includes [[EFL Cup]]}}
+!colspan="2" |Continental{{efn|Includes [[CONCACAF Champions League]]}}
+!colspan="2"|Other{{efn|Includes [[MLS Cup Playoffs]]}}
+!colspan="2"|Total
+|-
+!Division!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals
+|-
+|rowspan="3"|[[CF Montréal]]
+|[[2021 CF Montréal season|2021]]
+|[[Major League Soccer]]
+|0||0||colspan="2"|—||colspan="2"|—||colspan="2"|—||colspan="2"|—||0||0
+|-
+|[[2022 CF Montréal season|2022]]
+|Major League Soccer
+|26||2||1||0||colspan="2"|—||3||1||2{{efn|Appearances in [[MLS Cup Playoffs]]}}||1||32||4
+|-
+!colspan="2"|Total
+!26!!2!!1!!0!!colspan="2"|—!!3!!1!!2!!1!!32!!4
+|-
+|[[Watford F.C.|Watford]]
+|[[2022–23 Watford F.C. season|2022–23]]
+|[[EFL Championship|Championship]]
+|16||0||1||0||0||0||colspan="2"|—||0||0||17||0
+|-
+!colspan="3"|Career total
+!42!!2!!2!!0!!0!!0!!3!!1!!2!!1!!49!!4
+|}
+{{notelist}}
+
+===International===
+{{updated|match played June 19, 2023}}
+
+{| class="wikitable" style="text-align:center"
+|+ Appearances and goals by national team and year
+|-
+!National team!!Year!!Apps!!Goals
+|-
+|rowspan="2"|[[Canada men's national soccer team|Canada]]
+|2022||9||1
+|-
+|2023||4||0
+|-
+!colspan="2"|Total!!13!!1
+|}
+
+''Scores and results list Canada's goal tally first.''
+{| class="wikitable sortable"
+|+ List of international goals scored by Ismaël Koné
+|-
+!scope="col"|No.
+!scope="col"|Date
+!scope="col"|Venue
+!scope="col"|Opponent
+!scope="col"|Score
+!scope="col"|Result
+!scope="col"|Competition
+|-
+| align="center"|1 || November 11, 2022 || [[Khalifa Sports City Stadium]], [[Isa Town]], Bahrain || {{fb|BHR}} || align="center"|1–0 || align="center"|2–2 || [[Exhibition game#Association football|Friendly]]
+|}
+
+==Honours==
+'''Individual'''
+*[[Canada Soccer Youth Player of the Year]]: 2022<ref name=young/>
+
+== References ==
+{{reflist}}
+
+==External links==
+* [https://en.cfmontreal.com/players/ismael-kone/ CF Montreal Profile]
+* {{Canada Soccer player|id=55656}}
+
+{{Watford F.C. squad}}
+{{Canada squad 2022 FIFA World Cup}}
+{{Canada Soccer Young Players of the Year}}
+
+{{DEFAULTSORT:Kone, Ismael}}
+[[Category:2002 births]]
+[[Category:Living people]]
+[[Category:Footballers from Abidjan]]
+[[Category:Canadian men's soccer players]]
+[[Category:Canada men's international soccer players]]
+[[Category:Ivorian men's footballers]]
+[[Category:Ivorian emigrants to Canada]]
+[[Category:Men's association football midfielders]]
+[[Category:CF Montréal players]]
+[[Category:Major League Soccer players]]
+[[Category:2022 FIFA World Cup players]]
+[[Category:Watford F.C. players]]
+[[Category:English Football League players]]
+[[Category:Canadian expatriate men's soccer players]]
+[[Category:Expatriate men's footballers in England]]
+[[Category:Canadian expatriate sportspeople in England]]

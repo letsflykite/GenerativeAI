@@ -1,0 +1,41 @@
+{{National squad
+ | name        = Spain squad 2022 FIFA World Cup
+ | bg          = #C60B1E
+ | fg          = #FBEA0E
+ | bordercolor = #000033
+ | country     = Spain
+ | comp link   = 2022 FIFA World Cup
+ | comp        = 2022 FIFA World Cup
+ | p1          = [[Robert Sánchez|Sánchez]]
+ | p2          = [[César Azpilicueta|Azpilicueta]]
+ | p3          = [[Eric García (footballer, born 2001)|García]]
+ | p4          = [[Pau Torres|P. Torres]]
+ | p5          = [[Sergio Busquets|Busquets]]&nbsp;([[Captain (association football)|c]])
+ | p6          = [[Marcos Llorente|Llorente]]
+ | p7          = [[Álvaro Morata|Morata]]
+ | p8          = [[Koke (footballer, born 1992)|Koke]]
+ | p9          = [[Gavi (footballer)|Gavi]]
+ | p10         = [[Marco Asensio|Asensio]]
+ | p11         = [[Ferran Torres|F. Torres]]
+ | p12         = [[Nico Williams|Williams]]
+ | p13         = [[David Raya|Raya]]
+ | p14         = [[Alejandro Balde|Balde]]
+ | p15         = [[Hugo Guillamón|Guillamón]]
+ | p16         = [[Rodri (footballer, born 1996)|Rodri]]
+ | p17         = [[Yeremy Pino|Pino]]
+ | p18         = [[Jordi Alba|Alba]]
+ | p19         = [[Carlos Soler (footballer)|Soler]]
+ | p20         = [[Dani Carvajal|Carvajal]]
+ | p21         = [[Dani Olmo|Olmo]]
+ | p22         = [[Pablo Sarabia|Sarabia]]
+ | p23         = [[Unai Simón|Simón]]
+ | p24         = [[Aymeric Laporte|Laporte]]
+ | p25         = [[Ansu Fati|Fati]]
+ | p26         = [[Pedri]]
+ | coach       = [[Luis Enrique]]
+}}<noinclude>
+{{Squad maintenance}}
+[[Category:2022 FIFA World Cup squad navigational boxes|Spain]]
+[[Category:Spain FIFA World Cup squad navigational boxes]]
+[[Category:Spain at the 2022 FIFA World Cup|squad]]
+</noinclude>

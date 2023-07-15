@@ -1,0 +1,325 @@
+{{Current sports transaction|sport=football|trans=transfer}}
+{{Short description|South Korean footballer (born 1996)}}
+{{family name hatnote|Kim||lang=Korean}}
+{{Use dmy dates|date=November 2022}}
+{{Infobox football biography
+| name = Kim Min-jae
+| image = 토트넘-유벤투스 이적설에 직접 답한 김민재 1m 42s.jpg
+| image_size = 
+| caption = Kim in 2021
+| full_name = Kim Min-jae<ref name="FIFA 2022">{{cite web |url=https://fdp.fifa.org/assetspublic/ce44/pdf/SquadLists-English.pdf |title=FIFA World Cup Qatar 2022 – Squad list: Korea Republic (KOR) |publisher=[[FIFA]] |page=17 |date=15 November 2022 |access-date=15 November 2022}}</ref>
+| birth_date = {{birth date and age|1996|11|15|df=yes}}
+| birth_place = [[Tongyeong]], South Korea
+| height = 1.90 m<ref name="NTF">{{cite web |url=https://www.kfa.or.kr/archive/player_record.php?search_val=%EA%B9%80%EB%AF%BC%EC%9E%AC |script-title=ko:김민재 KIM Minjae |publisher=KFA |language=ko |access-date=30 January 2022}}</ref>
+| currentclub = [[S.S.C. Napoli|Napoli]]
+| clubnumber = 3
+| position = [[Centre-back]]
+| youthyears1 = 
+| youthclubs1 = Yeoncho Middle School
+| youthyears2 = 2012–2015
+| youthclubs2 = Suwon Technical High School
+| collegeyears1 = 2015–2016
+| college1 = {{ill|Yonsei University|ko|연세대학교 축구부|display=1}}
+| years1 = 2016
+| clubs1 = [[Gyeongju Korea Hydro & Nuclear Power FC|Gyeongju KHNP]]
+| caps1 = 17
+| goals1 = 0
+| years2 = 2017–2018
+| clubs2 = [[Jeonbuk Hyundai Motors]]
+| caps2 = 52
+| goals2 = 3
+| years3 = 2019–2021
+| clubs3 = [[Beijing Guoan F.C.|Beijing Guoan]]
+| caps3 = 45
+| goals3 = 0
+| years4 = 2021–2022
+| clubs4 = [[Fenerbahçe S.K. (football)|Fenerbahçe]]
+| caps4 = 31
+| goals4 = 1
+| years5 = 2022–
+| clubs5 = [[S.S.C. Napoli|Napoli]]
+| caps5 = 35
+| goals5 = 2
+| nationalyears1 = 2011
+| nationalteam1 = [[South Korea national under-17 football team|South Korea U17]]
+| nationalcaps1 = 0
+| nationalgoals1 = 0
+| nationalyears2 = 2014
+| nationalteam2 = [[South Korea national under-20 football team|South Korea U20]]
+| nationalcaps2 = 2
+| nationalgoals2 = 0
+| nationalyears3 = 2016–2018
+| nationalteam3 = [[South Korea national under-23 football team|South Korea U23]]
+| nationalcaps3 = 8
+| nationalgoals3 = 0
+| nationalyears4 = 2017–
+| nationalteam4 = [[South Korea National Football Team|South Korea]]
+| nationalcaps4 = 49
+| nationalgoals4 = 3
+| pcupdate = 23:20, 28 May 2023 (UTC)
+| ntupdate = 28 March 2023
+| medaltemplates = {{MedalCountry | {{KOR}} }}
+{{MedalSport  | Men's [[Association football|football]]}}
+{{MedalCompetition|[[Asian Games]]}}
+{{MedalGold|[[2018 Asian Games|2018 Jakarta-Palembang]]|[[Football at the 2018 Asian Games – Men's tournament|Team]]}}
+{{MedalCompetition|[[EAFF E-1 Football Championship|EAFF Championship]]}}
+{{MedalGold|[[2019 EAFF E-1 Football Championship|2019 South Korea]]|[[2019 EAFF E-1 Football Championship Final squads #South Korea|Team]]}}
+}}
+{{Infobox Korean name
+| hangul         = {{linktext|김|민|재}}
+| hanja          = {{linktext|金|玟|哉}}
+| rr             = Gim Minjae
+| mr             = Kim Minchae
+| koreanipa      = {{IPA-ko|kim.min.dzɛ|}}
+}}
+'''Kim Min-jae''' ({{lang-ko|김민재}}; born 15 November 1996) is a South Korean professional [[association football|footballer]] who plays as a [[centre-back]] for [[Serie A]] club [[S.S.C. Napoli|Napoli]] and the [[South Korea national football team|South Korea national team]].
+
+==Early life==
+Kim was born in [[Tongyeong]].<ref>{{cite news |date=27 September 2017 |script-title=ko:통영 횟집 아들 김민재, 한국축구 ‘괴물’이 되다 |trans-title=Kim Min-jae, son of the sushi restaurant in Tongyeong, becomes "Monster" in South Korean football |url=http://weekly.khan.co.kr/khnm.html?mode=view&code=118&artid=201709260951561&pt=nv |language=ko |publisher=Kyunghyang |access-date=13 January 2018 }}</ref> Both of his parents are former [[athletes]] and his brother was also a [[Association football|footballer]] who played as a [[Goalkeeper (association football)|goalkeeper]] for {{ill|Myongji University|ko|명지대학교 축구부|display=1}}.<ref>{{cite news |date=10 August 2017 |script-title=ko:홍명보+최진철… 21세 ‘괴물 수비수’ |trans-title=Hong Myung-bo+Choi Jin-cheul... 21-year-old "Monster Defender |url=http://economy.donga.com/NEWS/View/Footer/3/all/20170810/85761203/1 |language=ko |publisher=Dong-A Ilbo |access-date=13 January 2018 }}</ref><ref>{{cite news |date=19 September 2017 |script-title=ko:[인터뷰] 대표팀 데뷔전은 제외한, 김민재 이야기 |trans-title=[Interview] Story about Kim Min-jae except his debut for national team |url=http://www.footballist.co.kr/news/articleView.html?idxno=102468 |language=ko |publisher=Footballist |access-date=13 January 2018 }}</ref>
+
+Kim started his youth football career with the football club of Tongyeong Elementary School.<ref>{{cite news |date=6 September 2017 |script-title=ko:축구선수 김민재, 그는 누구…‘어릴 적부터 두각을 드러낸 특급 신인’ |trans-title=Footballer Kim Min=jae, Who is he?..."Super Rookie who has distinguished himself since he was young" |url=http://news.topstarnews.net/detail.php?number=302098 |language=ko |publisher=TopStarNews |access-date=14 January 2018 }}</ref> He later transferred to Gaya Elementary School in [[Haman County|Haman]] and graduated from there. He entered Yeoncho Middle School and {{ill|Suwon Technical High School|ko|수원공업고등학교 축구부|display=1}} which has produced many international footballers such as [[Park Ji-sung]].<ref>{{cite news |date=3 September 2017 |script-title=ko:김호곤 기술위원장 특별관리 받는 ‘촌놈’ 김민재 |trans-title=Kim Min-jae, hillbilly, who receive special management from technical chief Kim Ho-gon |url=http://www.goal.com/kr/%EB%89%B4%EC%8A%A4/%EA%B9%80%ED%98%B8%EA%B3%A4-%EA%B8%B0%EC%88%A0%EC%9C%84%EC%9B%90%EC%9E%A5-%ED%8A%B9%EB%B3%84%EA%B4%80%EB%A6%AC-%EA%B9%80%EB%AF%BC%EC%9E%AC-%ED%86%B5%EC%98%81-%EC%88%98%EB%B9%84%EC%88%98-%EC%B4%8C%EB%86%88/1aod7ma07ukse1u4zz28md56xz |language=ko |publisher=Goal |access-date=14 January 2018 }}</ref>
+
+After he graduated from high school in 2015, he went on to {{ill|Yonsei University|ko|연세대학교 축구부|display=1}}. In July 2016, when he was sophomore, he dropped out of school to fulfill his dream of making his professional debut, although Yonsei University tried to dissuade him.<ref>{{cite news |date=7 September 2017 |script-title=ko:살아난 베테랑 염기훈 … 미래를 밝힌 신성 김민재 |trans-title=The veteran Yeom Ki-hun who regains form...New rising star Kim Min-jae who brighten Korean soccer in the future |url=http://news.joins.com/article/21913256 |language=ko |publisher=JoongAng Ilbo |access-date=14 January 2018}}</ref>
+
+==Club career==
+===Gyeongju KHNP===
+Kim joined semi-professional club [[Gyeongju Korea Hydro & Nuclear Power FC|Gyeongju KHNP]] on 1 July 2016, and participated in the [[Korea National League]] from the middle of the [[2016 Korea National League|2016 season]].<ref>{{cite news |date=30 June 2016 |script-title=ko:올림픽 대표 출신 김민재 지언학, 실업 리그로 |trans-title=Kim Min-jae and Ji Eon-hak in South Korea Olympic football team transferred to Gyeongju KHNP in Korea National League |url=http://www.footballjournal.co.kr/news/articleView.html?idxno=4507 |language=ko |publisher=FootballJournal |access-date=14 January 2018 |archive-date=14 January 2018 |archive-url=https://web.archive.org/web/20180114191828/http://www.footballjournal.co.kr/news/articleView.html?idxno=4507 |url-status=dead }}</ref> Kim played 15 matches for KHNP until the end of the regular season, leading his team to the play-offs.<ref>{{cite web |url=http://www.n-league.net/?act=&mid=player_search_2014&vid=&player_srl=379438&player_name=%EA%B9%80%EB%AF%BC%EC%9E%AC |archive-url=https://web.archive.org/web/20220329233034/http://www.n-league.net/?act=&mid=player_search_2014&vid=&player_srl=379438&player_name=%EA%B9%80%EB%AF%BC%EC%9E%AC |archive-date=29 March 2022 |title=Kim Mi-jae |language=ko |publisher=Korea National League |access-date=14 January 2018}}</ref>
+
+On 2 November, Kim played the quarter-final game of the play-offs for 78 minutes, contributing to a 2–0 victory over [[Changwon City FC|Changwon City]].<ref>{{cite news |date=2 November 2017 |script-title=ko:[내셔널리그]경주한수원, 4강 PO서 창원시청 제압 |trans-title=Gyeongju KHNP defeated Changwon in the championship play-off quarter-final |url=http://sports.chosun.com/news/ntype.htm?id=201611030100024710001371&servicedate=20161102 |language=ko |publisher=Sports Chosun |access-date=14 January 2018}}</ref> On 5 November, however, he failed to help KHNP advance to the final despite playing as a full-time player in the semi-final game against [[Ulsan Hyundai Mipo Dockyard FC|Hyundai Mipo Dockyard]].<ref>{{cite news |date=6 November 2017 |script-title=ko:[내셔널리그]울산미포조선, 경주한수원 꺾고 챔프전 진출 |trans-title=Ulsan Dolphins advanced to final, defeating Gyeongju KHNP |url=http://sports.chosun.com/news/ntype.htm?id=201611070100050740003272&servicedate=20161106 |language=ko |publisher=Sports Chosun |access-date=14 January 2018}}</ref>
+
+===Jeonbuk Hyundai Motors===
+On 22 December 2016, Kim joined [[K League]] club [[Jeonbuk Hyundai Motors FC|Jeonbuk Hyundai Motors]] on a free transfer.<ref>{{cite news |date=22 December 2016 |script-title=ko:亞 챔피언 전북, 올대 출신 김민재 등 신인 6명과 계약 |trans-title=AFC Champions League depending champion Jeonbuk signs six new players including Kim Min-jae |url=http://www.nocutnews.co.kr/news/4705330#csidx3cb40a2b10a467ab95207bd4ee21a16 |language=ko |publisher=No Cut News |access-date=14 January 2018 }}</ref> Jeonbuk manager [[Choi Kang-hee (footballer)|Choi Kang-hee]] expressed his expectancy about him during the pre-season training camps in [[Dubai]],<ref>{{cite news |date=1 February 2018 |script-title=ko:"이재성2 나온 것 같다" 최강희, 신인 김민재 극찬 |trans-title="It seems that there's the second Lee Jae-sung" Choi Kang-hee praised highly Kim Min-jae |url=http://osen.mt.co.kr/article/G1110576299 |language=ko |publisher=Osen |access-date=14 January 2018 }}</ref> and used him as a key player from the beginning.<ref>{{cite news |date=5 March 2017 |script-title=ko:[클래식 1R] ‘김진수-김신욱 골’ 전북, 전남에 2–1승… 호남더비 7경기 무패 |trans-title="Kim Jin-su – Kim Shin-wook scored" Jeonbuk Hyundai defeated Jeonnam 2–1 |url=http://www.sportalkorea.com/news/view.php?gisa_uniq=2017030514525913&section_code=10&cp=se&gomb=1 |language=ko |publisher=Sportalkorea |access-date=14 January 2018}}</ref>
+
+Kim made his debut goal for his career in a K League 1 match against [[Daegu FC]] on 25 June 2017.<ref>{{cite news |date=25 June 2017 |script-title=ko:'김민재 데뷔골' 전북, 대구와 '혈전' 2–2 무승부 |trans-title="Kim Min-jae's debut goal" The match between Jeonbuk ad Daegu resulted in a 2–2 draw |url=http://osen.mt.co.kr/article/G1110674754 |language=ko |publisher=OSEN |access-date=14 January 2018}}</ref> He scored his second goal for Jeonbuk against [[Gwangju FC]] with a mid-range volley on 19 August.<ref>{{cite news |date=19 August 2017 |script-title=ko:'김민재·이승기 연속골' 전북, 광주에 역전승 |trans-title="Kim Min-jae and Lee Seung-ki scored" Jeonbuk came from behind to win against Gwangju |url=http://joynews.inews24.com/php/news_view.php?g_menu=702210&g_serial=1042970&rrf=nv |language=ko |publisher=JoyNews24 |access-date=14 January 2018}}</ref> He was ousted from the game against [[Gimcheon Sangmu FC|Sangju Sangmu]] for warnings accumulated on 20 September.<ref>{{cite news |date=20 September 2017 |script-title=ko:프로 첫 퇴장, 아프지만 배운 게 많았을 김민재 |trans-title=First banned, Kim may develop |url=http://www.besteleven.com/Country/news_01_view.asp?iBoard=6&iIDX=103712 |language=ko |publisher=Best Eleven |access-date=14 January 2018}}</ref> On 15 October, it turned out that Kim suffered a semilunar valve injury and for this reason Kim had to have surgery in Japan, being unable to play remaining games of the season.<ref>{{cite news |date=15 October 2017 |script-title=ko:김민재, 반월판 부상으로 시즌 아웃… 수술 위해 日 출국 |trans-title=Kim suffered a semilunar valve injury and left to Japan due to surgery |url=http://www.sportalkorea.com/news/view.php?gisa_uniq=2017101514523013&section_code=10&cp=se&gomb=1 |language=ko |publisher=Sportalkorea |access-date=14 January 2018}}</ref> With his performance, he was named the [[K League Young Player of the Year]] and nominated for a part of the [[K League Best XI]], although he was shown nine yellow cards and one red card during 29 appearances.<ref>{{cite news |date=20 November 2017 |script-title=ko:[K리그 대상] ‘신인상’ 김민재, "전북에 와서 성장할 수 있었다" |trans-title=[K League Awards] "Young Player Award" Kim Min-jae "I was able to grow because of Jeonbuk Hyundai" |url=http://www.besteleven.com/Country/news_01_view.asp?iBoard=6&iIDX=105480 |language=ko |publisher=Best Eleven |access-date=14 January 2018}}</ref><ref>{{cite news |date=20 November 2017 |script-title=ko:‘조현우-김민재-염기훈-조나탄’ 클래식 베스트11 발표 |trans-title="Cho Hyun-woo - Kim Min-jae - Yeom Ki-hun - Jonathan" K League Classic Best XI was announced |url=http://www.newsen.com/news_view.php?uid=201711201515140632 |language=ko |publisher=Newsen |access-date=14 January 2018}}</ref>
+
+Kim made his first [[AFC Champions League]] debut in a 3–2 victory over [[Kashiwa Reysol]] on 13 February 2018.<ref>{{cite web |url=http://www.the-afc.com/news/afcsection/matchday-one-group-e-jeonbuk-hyundai-motors-3-2-kashiwa-reysol |title=Matchday One – Group E: Jeonbuk Hyundai Motors 3–2 Kashiwa Reysol |publisher=AFC |access-date=6 July 2018}}</ref> Kim scored his first goal of the [[2018 K League 1|2018 season]] with a header as well as showing strong defense in a K League 1 match against [[FC Seoul]] on 18 March, and was named the MVP of the week.<ref>{{cite news |date=21 March 2018 |script-title=ko:‘괴물 수비수’ 김민재, K리그1 3라운드 MVP 선정 |trans-title="Monster Defender" Kim Min-jae was selected as K League 1 3rd round MVP |url=http://interfootball.heraldcorp.com/news/articleView.html?idxno=204427 |language=ko |publisher=InterFootball |access-date=6 July 2018}}</ref> Afterwards, he led Jeonbuk's defense to six consecutive clean sheets.<ref>{{cite news |date=26 April 2018 |script-title=ko:기록을 향해 뛰는 전북…최다 연승·최다 무실점 도전 |url=https://www.yna.co.kr/view/AKR20180426058400007 |language=ko |publisher=Yonhap News Agency |access-date=6 July 2022}}</ref> Unfortunately, however, Kim suffered from a [[fibula]] injury in a match against [[Daegu FC]] on 2 May, absenting himself from the [[2018 FIFA World Cup]].<ref>{{cite news |date=2 May 2018 |script-title=ko:전북 국대 수비수 김민재 정강이 실금, 러시아W 출전 비상 |trans-title=Kim Min-jae, the national team defender, suffers hairline crack in calfbone so he might not be able to go Russia World Cup |url=http://sports.chosun.com/news/ntype.htm?id=201805030100024530001447&servicedate=20180502 |language=ko |publisher=Sports Chosun |access-date=6 July 2018}}</ref>
+
+===Beijing Guoan===
+On 29 January 2019, Kim transferred to [[Beijing Sinobo Guoan F.C.|Beijing Sinobo Guoan]].<ref>{{cite web |title=S. Korean pro football champs announce key defender's move to China |url=https://en.yna.co.kr/view/AEN20190129003800315 |publisher=Yonhap News Agency |date=29 January 2019}}</ref> With his impressive defensive performance, Kim went on to play an integral role in Beijing's runner-up finish in the [[2019 Chinese Super League|2019 CSL Season]].
+
+In May 2020, Kim engendered controversy by expressing dissatisfaction about Beijing teammates' method of play in a [[YouTube]] channel, which was being operated by a South Korean football commentator, after his wedding in South Korea.<ref>{{cite web |url=https://sports.news.naver.com/news.nhn?oid=081&aid=0003088392 |script-title=ko:김민재, 동료 선수 비하 발언…베이징 궈안서 징계받을 듯 |website=Naver.com |publisher=Seoul Shinmun |language=ko |date=7 May 2020 |access-date=23 June 2020}}</ref> At a similar time, he received intensive attention from a wide range of European clubs,<ref>{{cite web |url=https://www.theguardian.com/football/2020/jun/18/everton-among-clubs-chasing-monster-south-korea-defender-kim-min-jae |title=Everton among clubs chasing 'Monster' South Korea defender Kim Min-jae |work=The Guardian |date=18 June 2020 |access-date=22 June 2020}}</ref><ref>{{cite web |title=Análisis: Kim Min-jae, la nueva perla asiática |url=https://www.fichajes.net/noticias/analisis-kim-min-jae-nueva-perla-asiatica-superliga-china-beijing-guoan-lazio-oporto-leipzig-arsenal-everton-20200620.html |website=Fichajes.net |date=20 June 2020 |language=es}}</ref> and [[Tottenham Hotspur F.C.|Tottenham Hotspur]] manager [[José Mourinho]] tried to recruit him. However, Tottenham didn't want to pay more than €5 million for Kim, and it failed to negotiate with Beijing, which demanded €10 million.<ref>{{cite web |title=Mourinho: 'Tottenham wouldn't buy me Kim, now he's at Napoli' |url=https://football-italia.net/mourinho-tottenham-wouldnt-buy-me-kim-now-hes-at-napoli/ |publisher=Football Italia |date=2023-01-28 |access-date=2023-01-29}}</ref>
+
+===Fenerbahçe===
+Kim transferred to [[Fenerbahçe S.K.|Fenerbahçe]] on 16 August 2021 with a transfer fee of €3 million and signed a 4-year contract.<ref>{{cite web |url=https://fenerbahce.org/haberler/futbol/2021-tr/8/min-jae-kim-fenerbahcemizde |title=Min-Jae Kim Fenerbahçemizde |language=tr |publisher=Fenerbahçe |access-date=23 March 2022}}</ref>
+
+Kim won the most number of unclaimed balls and won the most tackles among Fenerbahçe defenders in his first match for Fenerbahçe against [[Antalyaspor]] on 22 August.<ref>{{cite web |url=https://twitter.com/OptaCan/status/1429556432676995075 |publisher=OptaCan |website=Twitter.com |title=1 - Fenerbahçe - Antalyaspor maçında en fazla ikili mücadele ve sahipsiz top kazanan oyuncu Kim Min-Jae oldu. |language=tr |access-date=23 March 2022}}</ref> He made his [[UEFA competitions|European]] debut in the [[UEFA Europa League]] Group D match against [[Eintracht Frankfurt]] on 16 September. Two days after receiving his first red card in the [[Süper Lig]] against [[Trabzonspor]] on 17 October,<ref>{{cite web |url=https://beinsports.com.tr/haber/trabzonspor-fenerbahce-11 |access-date=23 March 2022|title=ÖZET &#124; Trabzonspor 3 1 Fenerbahçe |date=17 October 2021 |publisher=beIN Sports |language=tr}}</ref> Kim said "This was a first for me in my five-year career playing football at the highest level, I guess we have to have such experiences in Turkey."<ref>{{cite web |url=https://www.cnnturk.com/spor/futbol/kim-min-jaeden-kirmizi-kart-tepkisi |access-date=23 March 2022|title=Kim Min-jae'den kırmızı kart tepkisi |publisher=CNN Türk |language=tr}}</ref> Kim led Fenerbahçe to a 2–1 victory by making the most passes and blocks in [[The Intercontinental Derby (football)|the Intercontinental Derby]] on 21 November,<ref>{{cite web |url=https://twitter.com/OptaCan/status/1462495458337644545 |title=1 - Galatasaray - Fenerbahçe maçında en fazla pas arası ve engelleme yapan oyuncu Kim Min-Jae'ydi. |publisher=OptaCan |website=Twitter.com |language=tr |access-date=23 March 2022}}</ref> and was selected as the man of the match by Fenerbahçe fans with 76.3 percent of the votes.<ref>{{cite web |url=https://twitter.com/Fenerbahce/status/1462727857906634756 |title=Çubuklu için ter döken tüm futbolcularımıza teşekkür ediyoruz! |publisher=Fenerbahçe |website=Twitter.com |language=tr |access-date=23 March 2022}}</ref> Kim scored his first goal for Fenerbahçe against [[Konyaspor]] on 20 March 2022. At the end of the [[2021–22 Süper Lig|2021–22 season]], [[International Centre for Sports Studies]] (CIES), [[FIFA 22]] and [[Opta Sports]] selected Kim for the Süper Lig Team of the Season.<ref>{{cite web |title=Best XIs for 32 European leagues |url=https://www.football-observatory.com/IMG/sites/b5wp/2021/wp382/en/ |publisher=CIES |date=19 May 2022 |access-date=6 July 2022}}</ref><ref>{{cite web |title=FIFA 22 Super Lig TOTS |url=https://realsport101.com/fifa/fifa-22-tots-super-lig-league-predictions-all-cards-ratings-release-date/ |publisher=RealSport |access-date=5 June 2022}}</ref><ref>{{Cite web |last=Furniss |first=Matt |date=2022-05-31 |title=Süper Lig Team of the Season: OptaCan's XI |url=https://theanalyst.com/2022/05/super-lig-team-of-the-season-optacan-xi/ |access-date=2022-11-26 |website=The Analyst |language=en}}</ref>
+
+===Napoli===
+On 27 July 2022, Kim signed for [[Serie A]] club [[S.S.C. Napoli|Napoli]]<ref>{{cite news |last=Marra |first=Bruno |date=27 July 2022 |title=Il Napoli ufficializza l'acquisto di Kim Minjae |url=https://sscnapoli.it/il-napoli-ufficializza-lacquisto-di-kim-minjae/ |access-date=27 July 2022 |publisher=S.S.C. Napoli |language=it}}</ref> for a reported fee of €18 million,<ref>{{cite web |last=Erozden |first=Can |title=Napoli sign Fenerbahce defender Kim Min-jae |url=https://www.aa.com.tr/en/sports/napoli-sign-fenerbahce-defender-kim-min-jae/2646904 |access-date=27 July 2022 |website=AA}}</ref> as a replacement for [[Kalidou Koulibaly]], who departed to join [[Chelsea F.C.|Chelsea]]. On 21 August, he scored his first goal for Napoli from a header in stoppage time during a 4–0 victory over [[AC Monza|Monza]].<ref>{{cite web |url=https://koreajoongangdaily.joins.com/2022/08/22/sports/football/Napoli-Monza-Kim-Minjae/20220822074715956.html |title=Kim Min-jae scores as Napoli beat Monza 4-0 |date=22 August 2022 |publisher=Korea JoongAng Daily }}</ref>
+
+In his second month in Italy, he was named Serie A Player of the Month for September 2022.<ref>{{cite news |date=30 September 2022 |title=Min-jae Kim EA Sports Player of the Month for September |publisher=Serie A |url=https://www.legaseriea.it/en/press/news/info/min-jae-kim-ea-sports-player-of-the-month-for-september-1 |access-date=30 September 2022 |archive-date=30 September 2022 |archive-url=https://web.archive.org/web/20220930131939/https://www.legaseriea.it/en/press/news/info/min-jae-kim-ea-sports-player-of-the-month-for-september-1 |url-status=dead }}</ref> During his first season playing for Napoli, Kim was an integral part of Napoli's victory to its third Serie A title in the [[2022–23 Serie A|2022–23]] season, the first one in nearly three decades,<ref>{{cite web |url=https://www.goal.com/en/lists/victor-osimhen-kim-min-jae-napoli-premier-league-sign-summer/blt9a8efb17bb0af7e4#cs777dbfc0716ce72e |title=From Victor Osimhen to Kim Min-jae: Six Napoli players Premier League clubs will be scrambling to sign this summer |publisher=Goal.com |date=5 May 2023 }}</ref> being named the [[Serie A Awards#2022–23|Serie A Best Defender]] of the season.<ref name="awards2023">{{cite news |date=2 June 2023 |title=The MPSs of the Serie A 2022/2023 |publisher=Lega Serie A |url=https://www.legaseriea.it/en/media/serie-a/the-mvps-of-the-serie-a-2022-2023 |url-status=live |access-date=2 June 2023 |archive-url=https://web.archive.org/web/20230602155918/https://www.legaseriea.it/en/media/serie-a/the-mvps-of-the-serie-a-2022-2023 |archive-date=2 June 2023}}</ref>
+
+==International career==
+On 14 August 2017, Kim was named in [[South Korea national football team|South Korea]]'s squad for the last two [[2018 FIFA World Cup qualification – AFC third round|qualifiers for the 2018 World Cup]] against [[Iran national football team|Iran]] and [[Uzbekistan national football team|Uzbekistan]].<ref>{{cite news |date=14 August 2017 |script-title=ko:'이동국 발탁’ 신태용호, 이란-우즈벡전 소집 명단 발표 |trans-title="Lee Dong-gook was selected" [[Shin Tae-yong]] announced South Korea national football team roster |url=http://www.kfa.or.kr/news/news_view.asp?BoardNo=14479&Page=13&Query=PageSize%3D10%26Gubun%3D11301%26Key%3D0%26Word%3D |language=ko |publisher=KFA |access-date=14 January 2018 }}</ref> In a qualifier against Iran on 31 August 2017, Kim made his international debut as a starter and sent off Iranian player [[Saeid Ezatolahi]] as well as showing great defense for 84 minutes.<ref>{{cite news |date=31 August 2017 |script-title=ko:‘거물’의 등장 알린 이란전, 김민재의 놀라운 데뷔 |trans-title=Kim Min-jae's amazing debut against Iran |url=http://www.nocutnews.co.kr/news/4839974 |language=ko |publisher=No Cut News |access-date=14 January 2018}}</ref> On 5 September, Kim played as a full-time player against [[Uzbekistan national football team|Uzbekistan]],<ref>{{cite news |date=5 September 2017 |title='무실점' 신태용호 최고수확, DF 김민재 발굴 |trans-title="Clean sheet" South Korea's best harvest, DF Kim Min-jae |url=http://stoo.asiae.co.kr/news/naver_view.htm?idxno=2017090603114505615 |language=ko |publisher=Sports Today |access-date=14 January 2018 |archive-date=27 April 2021 |archive-url=https://web.archive.org/web/20210427034918/http://stoo.asiae.co.kr/news/naver_view.htm?idxno=2017090603114505615 |url-status=dead }}</ref> helping South Korea keep one more clean sheet. After these matches, South Korea qualified for the ninth consecutive [[FIFA World Cup]].<ref>{{cite news |date=6 September 2017 |script-title=ko:한국축구, 9회 연속 월드컵 본선 진출 |trans-title=South Korea had qualified for nine consecutive FIFA World Cups |url=http://www.sedaily.com/NewsView/1OKX66THRB |language=ko |publisher=Seoul Daily |access-date=4 July 2018}}</ref> But he was injured on 8 May 2018 and unable to take part in [[2018 FIFA World Cup]].
+
+On 1 September 2018, South Korea defeated [[Japan national under-23 football team|Japan]] 2–1 in the gold medal match of the [[Football at the 2018 Asian Games – Men's tournament|2018 Asian Games]]. As a result of this victory, Kim and his teammates received an exemption from military service, reducing the two-year conscription to just a few weeks of basic training,<ref>{{cite web |title=Son Heung-min spared military service as South Korea take Asian Games gold |url=https://www.theguardian.com/football/2018/sep/01/son-heung-min-spared-military-service-south-korea-asian-games-gold |website=The Guardian |date=September 2018 |access-date=1 September 2018}}</ref> which he later served in summer 2023.<ref>{{cite web |url=https://koreajoongangdaily.joins.com/2023/06/28/sports/football/Kim-Minjae-Napoli-Military-training/20230628180307842.html |title=Army releases picture of Napoli defender Kim Min-jae at military boot camp |date=28 June 2023 |publisher=Korea JoongAng Daily }}</ref>
+
+On 12 November 2022, Kim was named in the South Korea squad for the [[2022 FIFA World Cup]],<ref>{{cite web |url=https://www.kfa.or.kr/layer_popup/popup_live.php?act=news_tv_detail&idx=24785&div_code=news |title=벤투호, 카타르월드컵 나설 26명 최종명단 발표 |trans-title=Bento announces final 26-man squad for World Cup in Qatar |publisher=[[Korea Football Association]] |date=12 November 2022 |access-date=12 November 2022 |language=ko}}</ref> where he played in two of the [[2022 FIFA World Cup Group H|group stage]] matches against [[Uruguay national football team|Uruguay]]<ref>{{Cite news |title=Uruguay 0-0 South Korea - nothing to separate teams in exciting goalless draw |website=BBC Sport |url=https://www.bbc.com/sport/football/63657469 |access-date=2 December 2022}}</ref> and [[Ghana national football team|Ghana]],<ref>{{Cite news |title=Ghana beat South Korea in thriller |website=BBC Sport |url=https://www.bbc.com/sport/football/63698280 |access-date=2 December 2022}}</ref> as well as the [[2022 FIFA World Cup knockout stage#Round of 16|round of 16]] match against [[Brazil national football team|Brazil]].<ref>{{Cite news |title=Dazzling Brazil dismantle South Korea to set up quarter-final against Croatia |website=BBC Sport |url=https://www.bbc.com/sport/football/63777438 |access-date=5 December 2022}}</ref>
+
+==Style of play==
+As a central defender, Kim has excellent physical attributes, notably his strength, speed, and flexibility. Kim has a strong predictive ability in defense, and can often start and finish plays when the team advances. His long pass accuracy enables him to immediately hit the ball after the steal to complete a quick counterattack, and his excellent aerial ability and positioning allows him to perform headers to break up opposition attacks and start offensive plays.<ref>{{cite web |url=http://sports.sina.com.cn/china/j/2019-01-29/doc-ihrfqzka1922107.shtml |title=国安官方宣布金玟哉加盟 身披2号球衣战中超亚冠] |publisher=Sina Sports |language=zh |date=29 January 2019 |access-date=29 January 2019}}</ref>
+
+==Personal life==
+January 2021, Kim was appointed as an ambassador for the Purme Foundation. He decided to contribute to the rehabilitation of children with disabilities and the independence of young people with disabilities, and donated ₩50 million.<ref>{{cite news |url=https://sports.news.naver.com/news.nhn?oid=410&aid=0000755781 |script-title=ko:김민재 푸르메재단 홍보대사 위촉…5000만 원 기부 |access-date=12 January 2021 |language=ko |publisher=Maeil Business Newspaper |website=Naver.com}}</ref>
+
+==Career statistics==
+===Club===
+{{updated|match played 28 May 2023}}<ref>{{Soccerway|448811}}</ref>
+
+{| class="wikitable" style="text-align:center"
+|+ Appearances and goals by club, season and competition
+|-
+!rowspan="2"|Club
+!rowspan="2"|Season
+!colspan="3"|League
+!colspan="2"|National cup{{efn|Includes [[Korean FA Cup]], [[Chinese FA Cup]], [[Turkish Cup]], [[Coppa Italia]]}}
+!colspan="2"|Continental
+!colspan="2"|Other
+!colspan="2"|Total
+|-
+!Division!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals
+|-
+|[[Gyeongju Korea Hydro & Nuclear Power FC|Gyeongju KHNP]]
+|[[2016 Korea National League|2016]]
+|[[Korea National League]]
+|17||0||0||0||colspan="2"|—||colspan="2"|—||17||0
+|-
+|rowspan="3"|[[Jeonbuk Hyundai Motors]]
+|[[2017 K League Classic|2017]]
+|[[K League 1]]
+|29||2||1||0||colspan="2"|—||colspan="2"|—||30||2
+|-
+|[[2018 K League Classic|2018]]
+|K League 1
+|23||1||1||0||6{{efn|name=ACL|Appearances in [[AFC Champions League]]}}||0||colspan="2"|—||30||1
+|-
+!colspan="2"|Total
+!52!!3!!2!!0!!6!!0!!colspan="2"|—!!60!!3
+|-
+|rowspan="4"|[[Beijing Guoan F.C.|Beijing Guoan]]
+|[[2019 Beijing Sinobo Guoan F.C. season|2019]]
+|[[Chinese Super League]]
+|26||0||2||0||6{{efn|name=ACL}}||0||colspan="2"|—||34||0
+|-
+|[[2020 Beijing Sinobo Guoan F.C. season|2020]]
+|Chinese Super League
+|17||0||0||0||6{{efn|name=ACL}}||0||colspan="2"|—||23||0
+|-
+|[[2021 Beijing Guoan F.C. season|2021]]
+|Chinese Super League
+|2||0||0||0||0||0||colspan="2"|—||2||0
+|-
+!colspan="2"|Total
+!45!!0!!2!!0!!12!!0!!colspan="2"|—!!59!!0
+|-
+|[[Fenerbahçe S.K. (football)|Fenerbahçe]]
+|[[2021–22 Fenerbahçe S.K. season|2021–22]]
+|[[Süper Lig]]
+|31||1||1||0||8{{efn|Six appearances in [[UEFA Europa League]], two appearances in [[UEFA Europa Conference League]]}}||0||colspan="2"|—||40||1
+|-
+|[[S.S.C. Napoli|Napoli]]
+|[[2022–23 S.S.C. Napoli season|2022–23]]
+|[[Serie A]]
+|35||2||1||0||9{{efn|Appearances in [[UEFA Champions League]]}}||0||colspan="2"|—||45||2
+|-
+!colspan="3"|Career total
+!180!!6!!6!!0!!35!!0!!0!!0!!221!!6
+|}
+
+{{notelist}}
+
+===International===
+{{updated|match played 28 March 2023}}<ref name="NTF"/>
+
+{| class="wikitable" style="text-align:center"
+|+ Appearances and goals by national team and year
+|-
+!National team!!Year!!Apps!!Goals
+|-
+|rowspan="6"|[[South Korea national football team|South Korea]]
+|2017||2||0
+|-
+|2018||10||0
+|-
+|2019||18||3
+|-
+|2021||8||0
+|-
+|2022||9||0
+|-
+|2023||2||0
+|-
+!colspan="2"|Total!!49!!3
+|}
+
+{{updated|match played 15 December 2019}}
+:''Scores and results list South Korea's goal tally first, score column indicates score after each Kim goal.''
+
+{| class="wikitable sortable"
+|+ List of international goals scored by Kim Min-jae
+|-
+!scope="col"|No.
+!scope="col"|Date
+!scope="col"|Venue
+!scope="col"|Opponent
+!scope="col"|Score
+!scope="col"|Result
+!scope="col"|Competition
+|-
+| align="center"|1
+| 11 January 2019 || [[Hazza bin Zayed Stadium]], [[Al Ain]], United Arab Emirates || {{fb|KGZ}} || align="center"|1–0 || align="center"|1–0 || [[2019 AFC Asian Cup Group C|2019 AFC Asian Cup]]
+|-
+| align="center"|2
+| 16 January 2019 || [[Al Nahyan Stadium]], [[Abu Dhabi]], United Arab Emirates || {{fb|CHN}} || align="center"|2–0 || align="center"|2–0 || 2019 AFC Asian Cup Group C|2019 AFC Asian Cup
+|-
+| align="center"|3
+| 15 December 2019 || [[Busan Asiad Main Stadium]], [[Busan]], South Korea || {{fb|CHN}} || align="center"|1–0 || align="center"|1–0 || [[2019 EAFF E-1 Football Championship|2019 EAFF Championship]]
+|}
+
+== Honours ==
+'''Jeonbuk Hyundai Motors'''
+* [[K League 1]]: [[2017 K League Classic|2017]], [[2018 K League 1|2018]]<ref name="Leagues">{{cite web |url=https://www.rsssf.org/tabless/skorchamp.html |title=South Korea - List of Champions |date=13 May 2020 |access-date=2 September 2020 |first1=Seung-soo |last1=Lee |first2=Hans |last2=Schöggl |first3=Mark |website=[[RSSSF]] |last3=Trevena}}</ref>
+
+'''Napoli'''
+*[[Serie A]]: [[2022–23 Serie A|2022–23]]<ref name="Champions">{{cite web |date=4 May 2023 |title=Napoli win Serie A for first time in 33 years |url=https://www.bbc.co.uk/sport/football/65488842 |access-date=4 May 2023 |website=BBC Sport}}</ref>
+
+'''South Korea U23'''
+* [[Football at the Asian Games|Asian Games]]: [[Football at the 2018 Asian Games – Men's tournament|2018]]<ref name="AsianGames">{{cite web |url=https://www.rsssf.org/tablesa/asia-games.html |title=Asian Games |date=6 September 2018 |access-date=4 September 2020 |first=Karel |website=[[RSSSF]] |last=Stokkermans}}</ref>
+
+'''South Korea'''
+* [[EAFF E-1 Football Championship|EAFF Championship]]: [[2019 EAFF E-1 Football Championship|2019]]<ref>{{cite news |url=https://www.rsssf.org/tablese/eastasia.html |title=East Asian Championship |date=20 December 2019 |access-date=2 September 2020 |first=Karel |website=[[RSSSF]] |last=Stokkermans}}</ref>
+
+'''Individual'''
+* [[K League Young Player of the Year|K League 1 Young Player of the Year]]: [[2017 K League Classic|2017]]<ref>{{cite news |url=https://sports.news.naver.com/kfootball/vod/index.nhn?id=371909&category=kleague&listType=total |script-title=ko:2017 K리그 영플레이어상 시상 |language=ko |website=Naver.com |publisher=KBS N Sports |date=20 November 2017 |access-date=1 January 2020}}</ref>
+* [[K League Best XI|K League 1 Best XI]]: [[2017 K League Classic|2017]], [[2018 K League 1|2018]]<ref>{{cite news |url=https://sports.news.naver.com/kfootball/vod/index.nhn?id=371917&category=kleague&listType=total |script-title=ko:2017 K리그 클래식 베스트 11 시상 |language=ko |website=Naver.com |publisher=KBS N Sports |date=20 November 2017 |access-date=1 January 2020}}</ref><ref>{{cite web |url=https://sports.news.naver.com/kfootball/news/read.nhn?oid=001&aid=0010504153 |script-title=ko:'특급 골잡이' 말컹, 프로축구 사상 첫 1·2부 MVP 석권 |language=ko |website=Naver.com |publisher=Yonhap News Agency |date=3 December 2018 |access-date=1 January 2020}}</ref> 
+* [[AFC Asian Cup]] Team of the Tournament: [[2019 AFC Asian Cup|2019]]<ref>{{cite news |url=https://www.the-afc.com/afc/documents/PdfFiles/afc-asian-cup-uae-2019-technical-report-and-statistics |title=AFC Asian Cup UAE 2019 Technical Report and Statistics |publisher=AFC |date=29 May 2019 |access-date=1 January 2020}}</ref>
+* [[EAFF E-1 Football Championship|EAFF Championship]] Best Defender: [[2019 EAFF E-1 Football Championship|2019]]<ref>{{cite news |url=https://eaff.com/competitions/eaff2019/index.html |title=EAFF E-1 Football Championship 2019 Final Korea Republic |publisher=EAFF |access-date=1 January 2020}}</ref>
+*[[Serie A Player of the Month]]: [[2022–23 Serie A#Monthly awards|September 2022]]<ref>{{cite news |url=https://www.legaseriea.it/en/press/news/info/min-jae-kim-ea-sports-player-of-the-month-for-september-1 |publisher=Serie A |access-date=30 September 2022 |date=30 September 2022 |title=Min-jae Kim EA Sports Player of the Month for September |archive-date=30 September 2022 |archive-url=https://web.archive.org/web/20220930131939/https://www.legaseriea.it/en/press/news/info/min-jae-kim-ea-sports-player-of-the-month-for-september-1 |url-status=dead }}</ref>
+*[[Italian Footballers' Association|AIC]] Serie A Player of the Month: October 2022<ref>{{cite news |url=https://www.assocalciatori.it/news/calciatore-del-mese-aic-ottobre-22-serie |title=Calciatore del mese AIC ottobre '22 Serie A |publisher=AIC |language=it |date=4 November 2022 |access-date=4 November 2022}}</ref>
+*[[Serie A Awards|Serie A Best Defender]]: [[2022–23 Serie A#Seasonal awards|2022–23]]<ref name="awards2023"/>
+*[[Serie A]] Team of the Season: [[2022–23 Serie A|2022–23]]<ref>{{cite news |date=2 June 2023 |title=EA Sports™ FIFA 23 Serie A Team of the Season |publisher=Serie A |url=https://www.legaseriea.it/en/media/serie-a/ea-sports-tm-fifa-23-serie-a-team-of-the-season-3 |access-date=2 June 2023}}</ref>
+
+== References ==
+{{reflist}}
+
+== External links ==
+{{commonscat}}
+*[https://sscnapoli.it/en/player-details/?id=20655 Profile] at the S.S.C. Napoli website
+* {{NFT player|68736}}
+* {{Soccerway|448811}}
+* {{K League player|20170035}}
+
+{{S.S.C. Napoli squad}}
+{{Navboxes colour
+|title= South Korea squads
+|bg= #C21E2B
+|fg= white
+|bordercolor= #0047A0
+|list1=
+{{South Korea squad 2019 AFC Asian Cup}}
+{{South Korea squad 2022 FIFA World Cup}}
+}}
+{{Navboxes
+|title=Awards
+|bg=Gold
+|bordercolor=
+|list1=
+{{Serie A Awards}}
+{{2019 AFC Asian Cup Team of the Tournament}}
+{{K League Young Player of the Year}}
+{{2017 K League Classic Best XI}}
+{{2018 K League 1 Best XI}}
+}}
+
+{{DEFAULTSORT:Kim, Min-jae}}
+[[Category:1996 births]]
+[[Category:Living people]]
+[[Category:Men's association football central defenders]]
+[[Category:South Korean men's footballers]]
+[[Category:South Korea men's youth international footballers]]
+[[Category:South Korea men's under-20 international footballers]]
+[[Category:South Korea men's under-23 international footballers]]
+[[Category:South Korea men's international footballers]]
+[[Category:Jeonbuk Hyundai Motors players]]
+[[Category:Beijing Guoan F.C. players]]
+[[Category:Fenerbahçe S.K. footballers]]
+[[Category:SSC Napoli players]]
+[[Category:K League 1 players]]
+[[Category:Chinese Super League players]]
+[[Category:Korea National League players]]
+[[Category:Süper Lig players]]
+[[Category:Serie A players]]
+[[Category:People from Tongyeong]]
+[[Category:Footballers at the 2018 Asian Games]]
+[[Category:Asian Games medalists in football]]
+[[Category:Asian Games gold medalists for South Korea]]
+[[Category:Medalists at the 2018 Asian Games]]
+[[Category:2019 AFC Asian Cup players]]
+[[Category:2022 FIFA World Cup players]]
+[[Category:South Korean expatriate sportspeople in China]]
+[[Category:Expatriate men's footballers in China]]
+[[Category:South Korean expatriate sportspeople in Turkey]]
+[[Category:Expatriate men's footballers in Turkey]]
+[[Category:South Korean expatriate sportspeople in Italy]]
+[[Category:Expatriate men's footballers in Italy]]
+[[Category:Footballers from South Gyeongsang Province]]

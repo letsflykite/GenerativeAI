@@ -1,0 +1,48 @@
+{{Use dmy dates|date=November 2022}}
+{{short description|Emirati football referee}}
+{{Infobox football official
+| name                 = Mohammed Abdulla
+| image                = 
+| caption              = 
+| fullname             = Mohammed Abdulla Hassan Mohamed
+| birth_date           = {{Birth date and age|df=yes|1978|12|2}}
+| birth_place          = [[Dubai]], [[United Arab Emirates]]
+| otheroccupation      = 
+| years1               = 
+| league1              = 
+| role1                = 
+| internationalyears1  = 2010-
+| confederation1       = [[FIFA]]
+| internationalrole1   = Referee
+}}
+'''Mohammed Abdulla Hassan Mohamed''' ({{lang-ar|محمد عبد الله حسن محمد}}; born 2 December 1978) is an Emirati [[Association football|football]] [[Referee (association football)|referee]] who has been a full international referee for [[FIFA]] since 2010.<ref>{{cite web|url=http://worldreferee.com/referee/mohammed_hassan%20mohamed/bio|title=Mohammed Abdullah Hassan Mohamed|publisher=WorldReferee.com}}</ref>
+
+He was one of the referees of the [[2015 AFC Asian Cup]].<ref>{{cite web |title=2015 AFC Asian Cup (Australia) - selected officials |url=http://refereesfifa.blogspot.com.au/2015/01/2015-afc-asian-cup-australia-selected.html |publisher=refereesfifa.com.au |access-date=2 January 2015}}</ref>
+
+In June 2022, he officiated the [[2022 FIFA World Cup qualification (CONCACAF–OFC play-off)|CONCACAF–OFC Intercontinental playoff]] match between Costa Rica and New Zealand for the [[2022 FIFA World Cup]]<ref name="officials">{{cite news |last=Villalobos |first=Ronald |url=https://columbia.co.cr/fifa-nombra-equipo-arbitral-asiatico-para-el-repechaje-entre-costa-rica-y-nueva-zelanda/ |title=FIFA nombra equipo arbitral asiático para el repechaje entre Costa Rica y Nueva Zelanda |trans-title=FIFA appoints Asian refereeing team for play-off between Costa Rica and New Zealand |work=Radio Columbia |date=18 May 2022 |access-date=13 June 2022 |language=es}}</ref>
+==References==
+{{reflist}}
+
+{{S-start}}
+{{Succession box
+ | before = {{flagicon|KOR}} [[Kim Jong-hyeok]]
+ |  after = {{flagicon|QAT}} [[Abdulrahman Al-Jassim]]
+ |  title = [[AFC Cup]] final match referees
+ |  years = [[2017 AFC Cup|2017]] <br /> {{flagicon|UAE}} '''Mohammed Abdulla Hassan Mohamed'''
+}}
+{{S-end}}
+
+{{2018 FIFA World Cup referees}}
+{{2022 FIFA World Cup referees}}
+
+{{DEFAULTSORT:Mohamed, Mohammed Abdulla Hassan}}
+[[Category:1978 births]]
+[[Category:Living people]]
+[[Category:Emirati football referees]]
+[[Category:2018 FIFA World Cup referees]]
+[[Category:2022 FIFA World Cup referees]]
+[[Category:FIFA World Cup referees]]
+[[Category:AFC Asian Cup referees]]
+
+
+{{UnitedArabEmirates-footy-bio-stub}}

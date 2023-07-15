@@ -1,0 +1,229 @@
+{{short description|South Korean footballer (born 1998)}}
+{{family name hatnote|[[Cho (Korean surname)|Cho]]||lang=Korean}}
+{{Use dmy dates|date=November 2022}}
+{{Infobox football biography
+| name          = Cho Gue-sung
+| fullname      = Cho Gue-sung<ref name="FIFA 2022">{{cite web |url=https://fdp.fifa.org/assetspublic/ce44/pdf/SquadLists-English.pdf |title=FIFA World Cup Qatar 2022 – Squad list: Korea Republic (KOR) |publisher=[[FIFA]] |page=17 |date=15 November 2022 |access-date=15 November 2022}}</ref>
+| image         = 191130 부산아이파크 VS FC안양 플레이오프, 조규성 2.jpg
+| caption       = Cho with [[FC Anyang]] in 2019
+| birth_date    = {{birth date and age|1998|1|25|df=y}}
+| birth_place   = [[Ansan]], [[Gyeonggi Province|Gyeonggi]], South Korea<ref>{{cite web|url=https://www.hani.co.kr/arti/sports/soccer/worldcup/1069951.html|title=조규성, '순천의 손자'가 '월드컵 스타'로…시골·모교 덮은 펼침막|date=2 December 2022 |publisher=Hankyoreh|accessdate=2022-12-05|language=ko}}</ref>
+| height        = {{height|m=1.88}}<ref name="FIFA 2022"/>
+| currentclub   = [[FC Midtjylland|Midtjylland]] 
+| clubnumber   = 
+| position   = [[Forward (association football)#Striker|Striker]]
+| youthyears1 = 2013–2015
+| youthclubs1 = {{ill|Anyang Technical High School|ko|안양공업고등학교 축구부|display=1}}{{efn-lg|Under-18 team of [[FC Anyang]] since 2014}}
+| collegeyears1  = 2016–2018
+| college1  = {{ill|Gwangju University|ko|광주대학교 축구부|display=1}}
+| years1  = 2019
+| clubs1 =  [[FC Anyang]] 
+| caps1 = 33 
+| goals1 = 14
+| years2  = 2020–2023 
+| clubs2 =  [[Jeonbuk Hyundai Motors]] 
+| caps2 = 43
+| goals2 = 13
+| years3  = 2021–2022
+| clubs3 =  → [[Gimcheon Sangmu FC|Gimcheon Sangmu]] ([[Conscription in South Korea|draft]]) 
+| caps3 = 48 
+| goals3 = 21
+| years4  = 2023- 
+| clubs4 =  [[FC Midtjylland|Midtjylland]] 
+| caps4 = 0
+| goals4 = 0
+| nationalyears1 = 2019–2021
+| nationalteam1  = [[South Korea national under-23 football team|South Korea U23]]
+| nationalcaps1  = 11{{efn-lg|Includes two appearances considered [[South Korea national under-23 football team results#Non-international matches|non-international]].}}
+| nationalgoals1 = 4
+| nationalyears2 = 2021–
+| nationalteam2  = [[South Korea national football team|South Korea]]
+| nationalcaps2  = 24
+| nationalgoals2 = 6
+| medaltemplates = {{MedalSport|Men's [[Association football|football]]}}
+{{Medal|Country|{{Fb|KOR}}}}
+{{MedalCompetition|[[AFC U-23 Championship]]}}
+{{Medal|W|[[2020 AFC U-23 Championship|2020 Thailand]]|[[2020 AFC U-23 Championship squads#South Korea|Team]]}}
+{{Medal|Competition|[[EAFF E-1 Football Championship|EAFF Championship]]}}
+{{Medal|RU|[[2022 EAFF E-1 Football Championship|2022 Japan]]|[[2022 EAFF E-1 Football Championship Final squads#South Korea|Team]]}}
+| pcupdate       = 8 July 2023
+| ntupdate       = 20 June 2023
+}}
+{{Infobox Korean name
+|title = Korean name
+|tablewidth = 255
+|hangul = {{linktext|조|규|성}}
+|hanja = {{linktext|曹|圭|成}}
+|rr = Jo Gyuseong
+|mr = Cho Kyusŏng
+|koreanipa = {{IPA-ko|t͡ɕo.ɡju.sʌŋ|}}
+}}
+
+'''Cho Gue-sung''' ({{Korean|hangul=조규성|rr=Jo Gyu-seong}}; {{IPA-ko|t͡ɕo.ɡju.sʌŋ}}; born 25 January 1998<ref>{{cite web|url=https://portal.kleague.com/common/search/popUpPlayerDetail.do?playerDetailInfo=20190167|publisher=K-league|accessdate=2022-10-25|language=ko|title=조규성曺圭成}}</ref>) is a South Korean [[Association football|footballer]] who plays as [[Forward (association football)|forward]] for [[FC Midtjylland|Midtjylland]] and the [[South Korea national football team|South Korea national team]].
+
+==Club career==
+Cho played as a [[Midfielder#Defensive midfielder|defensive midfielder]] during his youth career and his freshman year at [[Gwangju University]]. However, Cho wasn't evaluated as a good midfielder by his university's manager Lee Seung-won, and changed his role to a striker in 2017.<ref>{{cite news |url=https://www.sports-g.com/2019/08/19/%EA%B9%80%ED%98%84%ED%9A%8C-%EA%B2%BD%EC%9F%81%EC%9E%90%EC%9D%B4%EC%9E%90-%EB%8F%99%EB%B0%98%EC%9E%90-%EC%A1%B0%EA%B7%9C%EC%84%B1%EA%B3%BC-%EB%AA%A8%EC%9E%AC%ED%98%84%EC%9D%98 |script-title=ko:경쟁자이자 동반자’ 조규성과 모재현의 특별한 인연 |publisher=Sports-G |language=ko |date=23 June 2019 |access-date=21 August 2019}}</ref>
+
+In 2019, Cho joined [[K League 2]] side [[FC Anyang]] where he played as a youth player before.<ref>{{cite news |url=https://sports.news.naver.com/news.nhn?oid=382&aid=0000699912 |script-title=ko:FC안양, 우선지명 포함 2019 신인 5명 영입 |publisher=Sports Donga |date=4 January 2019|language=ko}}</ref> He was selected for the K League 2 Best XI by becoming the third top goalscorer in his first professional season, and transferred to [[K League 1]] club [[Jeonbuk Hyundai Motors]] the next year.<ref>{{cite news |url=https://www.goal.com/kr/%EB%89%B4%EC%8A%A4/%EC%A1%B0%EA%B7%9C%EC%84%B1%EA%B9%8C%EC%A7%80-%EC%98%81%EC%9E%85%ED%95%9C-%EC%A0%84%EB%B6%81-22%EC%84%B8-%EC%9D%B4%ED%95%98-%EA%B3%A0%EB%AF%BC-%EB%82%A0%EB%A0%B8%EB%8B%A4/61md4a9peaje1i1v39wbjck1o |script-title=ko:조규성까지 영입한 전북, 22세 이하 고민 날렸다 |website=Goal.com |language=ko |date=29 January 2020 |access-date=3 November 2022}}</ref>
+
+Cho had difficulty in proving his worth during his first season at Jeonbuk Hyundai Motors. In 2021, he enlisted in military team [[Gimcheon Sangmu FC|Gimcheon Sangmu]] to serve his military duty and get his stable spot.<ref>{{cite news |url=https://www.chosun.com/sports/sports_photo/2020/12/15/CG42DY7EKWSWI37ZPIFIDZ2FXY/ |script-title=ko:[단독]'이동국 후계자'조규성,상무 입대 결심.."지금이 적기" |publisher=The Chosun Ilbo |language=ko |date=15 December 2020 |access-date=3 November 2022}}</ref> As a result, he developed physically and technically while being trained at Gimcheon.<ref>{{cite news |url=https://www.chosun.com/sports/sports_photo/2022/03/06/XI3LHZSOGNGOHMBTGYLC67U2J4/ |script-title=ko:'성장캐' 김천 조규성, 여유에 승리 욕심까지 활활 "뜻대로 안 될 때 스스로 화가 난다" |publisher=The Chosun Ilbo |language=ko |date=6 March 2022 |access-date=3 November 2022}}</ref> He became the top goalscorer in the [[2022 K League 1]] and led Jeonbuk to the [[2022 Korean FA Cup]] title.
+
+In January 2023, Jeonbuk received bids for Cho from [[1. FSV Mainz 05|Mainz 05]], [[Celtic F.C.|Celtic]] and [[Minnesota United FC|Minnesota United]], but he did not leave Jeonbuk.<ref>{{Cite web |last=Fulton |first=Matthew |date=2023-01-08 |title=Cho Gue-sung Celtic transfer hype intensifies after 'bidding war' |url=https://www.glasgowlive.co.uk/sport/football/cho-gue-sung-celtic-transfer-25924057 |access-date=2023-01-08 |website=GlasgowLive |language=en}}</ref><ref>{{Cite web |title=Gue-Sung Cho: Celtic in talks over deal {{!}} Rangers monitoring South Korea striker |url=https://www.skysports.com/football/news/36621/12783608/gue-sung-cho-celtic-in-talks-over-deal-rangers-monitoring-south-korea-striker |access-date=2023-01-11 |website=Sky Sports |language=en}}</ref>
+
+==International career==
+Cho made his senior debut for [[South Korea national football team|South Korea]] on 7 September 2021 in a [[2022 FIFA World Cup qualification – AFC third round|World Cup qualifier]] against [[Lebanon national football team|Lebanon]].<ref>{{cite web |publisher=FIFA |url=https://www.fifa.com/tournaments/mens/worldcup/qatar2022/qualifiers/afc/match-center/400181508 |title=South Korea v Lebanon game report |date=7 September 2021}}</ref> 
+
+In November 2022, Cho was named to the 26-man squad for the [[2022 FIFA World Cup]].<ref>{{cite web|url=https://www.thenationalnews.com/fifa-world-cup-2022/2022/11/16/south-korea-world-cup-squad-2022/|date=16 November 2022|title=South Korea World Cup squad 2022: Son Heung-min included but 'final decision' to be made}}</ref> In Korea's second match at the tournament, he scored two goals against [[Ghana]] in an eventual 2–3 defeat, becoming the first South Korean player to ever score 2 or more goals in a single World Cup match. Despite losing that match, the goals proved decisive in ultimately sending Korea through to the [[2022 FIFA World Cup knockout stage|Round of 16]] on goal difference, at the expense of [[Uruguay]].<ref>{{Cite web |title=WATCH: Two goals in three minutes! Cho stuns Ghana with quick-fire brace for South Korea {{!}} Goal.com |url=https://www.goal.com/en-us/news/watch-two-goals-three-minutes-cho-stuns-ghana-brace-south-korea/blt84f5e52d75b594f6 |access-date=28 November 2022 |website=www.goal.com}}</ref><ref>{{cite web |  title=Who is Cho Gue-Sung, the South Korea striker who scored twice vs Ghana in the FIFA World Cup | website=Sportstar | date=28 November 2022 | url=https://sportstar.thehindu.com/football/fifa-world-cup/news/who-is-cho-gue-sung-south-korea-goal-scorer-fifa-world-cup-vs-ghana-qatar-2022/article66196373.ece | access-date=28 November 2022}}</ref>
+
+Due to his performance in 2022 FIFA World Cup, Cho proved to be one of the greatest players in the air in Qatar. The young Korean forward won 21 aerial duels, putting him second in terms of success in the air among all players at the World Cup, after Morocco’s [[Youssef En-Nesyri]].<ref>{{Cite web |date=2023-01-17 |title=Cho Gue-sung may not be going anywhere this winter: Jeonbuk |url=https://koreajoongangdaily.joins.com/2023/01/17/sports/football/Cho-Guesung-Jeonbuk-Hyundai-Motors-Celtic/20230117163003023.html |access-date=2023-01-30 |website=koreajoongangdaily.joins.com |language=en}}</ref>
+
+==Career statistics==
+===Club===
+{{updated|8 July 2023}}<ref>{{K League player}}</ref>
+{| class="wikitable" style="text-align:center"
+|+ Appearances and goals by club, season and competition
+|-
+! rowspan=2 | Club
+! rowspan=2 | Season
+! colspan=3 | League
+! colspan=2 | Cup
+! colspan=2 | Continental
+! colspan=2 | Total
+|-
+! Division
+! Apps !! Goals
+! Apps !! Goals
+! Apps !! Goals
+! Apps !! Goals
+|-
+|[[FC Anyang]]
+|[[2019 K League 2|2019]]||[[K League 2]]
+|33||14||3||0||colspan=2|—||36||14
+|-
+|rowspan="4"|[[Jeonbuk Hyundai Motors]]
+|[[2020 K League 1|2020]]||[[K League 1]]
+|23||4||5||1||6||3||34||8
+|-
+|[[2022 K League 1|2022]]||K League 1
+|8||4||3||4||colspan=2|—||11||8
+|-
+|[[2023 K League 1|2023]]||K League 1
+|12||5||2||1||colspan=2|—||14||6
+|-
+!colspan="2"|Total
+!43||13||10||6||6||3||59||22
+|-
+|rowspan="3"|[[Gimcheon Sangmu]] ([[Conscription in South Korea|draft]])
+|[[2021 K League 2|2021]]
+|K League 2
+|25||8||2||1||colspan=2|—||27||9
+|-
+|2022
+|K League 1
+|23||13||1||0||colspan=2|—||24||13
+|-
+!colspan="2"|Total
+!48||21||3||1||colspan=2|—||51||22
+|-
+! colspan=3 | Career total
+!124||48||16||7||6||3||146||58
+|}
+
+===International===
+{{updated|match played 20 June 2023}}<ref name="NFT">{{cite web |title=Cho, Gue-Sung |url=https://www.national-football-teams.com/player/83757/Gue_Sung_Cho.html |access-date=3 December 2022 |publisher=National Football Teams}}</ref>
+<!-- Non-Fifa matches are not counted. -->
+
+{| class=wikitable style=text-align:center
+|+ Appearances and goals by national team and year
+|-
+!National team!!Year!!Apps!!Goals
+|-
+| rowspan="3" |[[South Korea national football team|South Korea]]
+|2021||4||0
+|-
+|2022||16||6
+|-
+|2023||4||0
+|-
+! colspan="2" |Total||24||6
+|}
+
+:''Scores and results list South Korea's goal tally first, score column indicates score after each Cho goal.''<ref name="NFT">{{cite web |title=Cho, Gue-Sung |url=https://www.national-football-teams.com/player/83757/Gue_Sung_Cho.html |access-date=3 December 2022 |publisher=National Football Teams}}</ref>
+
+{| class="wikitable"
+|+ List of international goals scored by Cho Gue-sung
+! No. !! Date !! Venue !! Opponent !! Score !! Result !! Competition
+|-
+| align=center|1 || 15 January 2022 || [[Mardan Sports Complex]], [[Antalya]], Turkey || {{fb|ISL}} || align="center"|1–0 || align="center"|5–1 || [[Exhibition game#Association football|Friendly]]
+|-
+| align=center|2 || 27 January 2022 || [[Saida Municipal Stadium]], [[Sidon]], Lebanon || {{fb|LIB}} || align="center"|1–0 || align="center"|1–0 || [[2022 FIFA World Cup qualification – AFC third round|2022 FIFA World Cup qualification]]
+|-
+| align=center|3 || 14 June 2022 || [[Seoul World Cup Stadium]], [[Seoul]], South Korea || {{fb|EGY}} || align="center"|3–1 || align="center"|4–1 || Friendly
+|-
+| align=center|4 || 20 July 2022 || [[Toyota Stadium (Japan)|Toyota Stadium]], [[Toyota, Aichi|Toyota]], Japan || {{fb|CHN}} || align="center"|3–0 || align="center"|3–0 || [[2022 EAFF E-1 Football Championship|2022 EAFF Championship]]
+|-
+| align=center|5 || rowspan=2|28 November 2022 || rowspan=2|[[Education City Stadium]], [[Al Rayyan]], Qatar || rowspan=2|{{fb|GHA}} || align="center"|1–2 || rowspan=2 align="center"|2–3 || rowspan=2|[[2022 FIFA World Cup Group H|2022 FIFA World Cup]]
+|-
+| align=center|6 || align="center"|2–2
+|}
+
+==Honours==
+'''Jeonbuk Hyundai Motors'''
+*[[K League 1]]: [[2020 K League 1|2020]]
+*[[Korean FA Cup]]: [[2020 Korean FA Cup|2020]], [[2022 Korean FA Cup|2022]]
+
+'''Gimcheon Sangmu'''
+*[[K League 2]]: [[2021 K League 2|2021]]
+
+'''South Korea U23'''
+*[[AFC U-23 Championship]]: [[2020 AFC U-23 Championship|2020]]
+
+'''South Korea'''
+*[[EAFF E-1 Football Championship|EAFF Championship]] runner-up: [[2022 EAFF E-1 Football Championship|2022]]
+
+'''Individual'''
+*[[K League Best XI|K League 2 Best XI]]: [[2019 K League 2|2019]]
+*[[KFA Awards#Goal of the Year|Korean FA Goal of the Year]]: 2020<ref>{{cite web |url=https://www.kfa.or.kr/layer_popup/popup_live.php?act=news_tv_detail&idx=23016&div_code=news&check_url=bGF5ZXI=&lang=KOR |script-title=ko:손흥민-장슬기 올해의 선수 선정... 올해의 골은 조규성 |language=ko |publisher=KFA |date=15 December 2020 |access-date=15 December 2020}}</ref>
+*[[K League Top Scorer Award|K League 2 top goalscorer]]: [[2022 K League 1|2022]]<ref name="22kleague">{{cite web |url=https://sports.news.naver.com/news?oid=108&aid=0003099224 |script-title=ko: 울산 이청용 K리그 '최고의 별'... 홍명보는 감독상 영예 (종합) |publisher=Starnews Korea |website=Naver.com |language=ko |date=24 October 2022 |access-date=24 October 2022}}</ref>
+*[[K League Best XI|K League 1 Best XI]]: [[2022 K League 1|2022]]<ref name="22kleague"/>
+*[[Korean FA Cup]] Most Valuable Player: [[2022 Korean FA Cup|2022]]<ref>{{cite news |url=https://sports.news.naver.com/news.nhn?oid=109&aid=0004730632 |script-title=ko:'멀티골 작렬' 조규성, FA컵 MVP... 감독상 전북 김상식 감독[오!쎈전주] |website=Naver.com |publisher=Osen |language=ko |date=30 October 2022 |access-date=6 November 2022}}</ref>
+
+==Notes==
+{{notelist-lg}}
+
+==References==
+{{reflist}}
+
+==External links==
+{{Commons category}}
+
+*{{K League player}}
+*[https://kfa.or.kr/archive/player_record.php?search_val=%EC%A1%B0%EA%B7%9C%EC%84%B1 Cho Gue-sung] at [[Korea Football Association|KFA]] {{in lang|ko}}
+
+{{FC Midtjylland squad}}
+{{South Korea squad 2022 FIFA World Cup}}
+{{Navboxes
+| title = Awards
+| bg = gold
+| fg = navy
+| list1 =
+{{2019 K League 2 Best XI}}
+{{2022 K League 1 Best XI}}
+{{K League 1 Top Scorers}}
+}}
+
+{{DEFAULTSORT:Cho, Gue-sung}}
+[[Category:1998 births]]
+[[Category:Living people]]
+[[Category:Men's association football forwards]]
+[[Category:South Korean men's footballers]]
+[[Category:South Korea men's under-23 international footballers]]
+[[Category:South Korea men's international footballers]]
+[[Category:FC Anyang players]]
+[[Category:Jeonbuk Hyundai Motors players]]
+[[Category:Gimcheon Sangmu FC players]]
+[[Category:K League 1 players]]
+[[Category:K League 2 players]]
+[[Category:People from Ansan]]
+[[Category:Footballers from Gyeonggi Province]]
+[[Category:2022 FIFA World Cup players]]

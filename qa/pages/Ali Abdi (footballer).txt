@@ -1,0 +1,120 @@
+{{short description|Tunisian professional footballer|bot=PearBOT 5}}
+{{Use dmy dates|date=February 2021}}
+{{Infobox football biography
+| name = Ali Abdi
+| image = Lens - Paris FC (05-08-2020) 23.jpg
+| caption = Abdi with [[Paris FC]] in 2020
+| fullname = Ali El-Abdi<ref name="FIFA 2022">{{cite web |url=https://fdp.fifa.org/assetspublic/ce44/pdf/SquadLists-English.pdf |title=FIFA World Cup Qatar 2022: List of players: Tunisia |publisher=[[FIFA]] |page=29 |date=15 November 2022 |access-date=11 December 2022}}</ref>
+| birth_date = {{birth date and age|1993|12|20|df=yes}}
+| birth_place = [[Sfax]], Tunisia<ref>{{Cite web|url=https://parisfc.fr/equipe-pro/ali-abdi-signe-au-paris-fc/|title=Ali Abdi signe au Paris FC|first=Valentin|last=Paris|date=13 August 2019|website=Paris FC}}</ref>
+| height = 1.77 m<ref name="FIFA 2022"/>
+| position = [[Left-back]]
+| currentclub = [[Stade Malherbe Caen|Caen]]
+| clubnumber = 2
+| years1 = 2011–2012
+| clubs1 = [[JS Kairouan|Kairouan]]
+| caps1 = 15
+| goals1 = 2
+| years2 = 2012–2016
+| clubs2 = [[Espérance Sportive de Tunis|Espérance de Tunis]]
+| caps2 = 12
+| goals2 = 0
+| years3 = 2013–2014
+| clubs3 = → [[Stade Tunisien]] (loan)
+| caps3 = 17
+| goals3 = 4
+| years4 = 2016–2019
+| clubs4 = [[Club Africain]]
+| caps4 = 56
+| goals4 = 7
+| years5 = 2019–2021
+| clubs5 = [[Paris FC]]
+| caps5 = 47
+| goals5 = 9
+| years6 = 2021–
+| clubs6 = [[Stade Malherbe Caen|Caen]]
+| caps6 = 63
+| goals6 = 5
+| nationalyears1 = 2015
+| nationalteam1 = [[Tunisia national under-23 football team|Tunisia U23]]
+| nationalcaps1 = 4
+| nationalgoals1 = 0
+| nationalyears2 = 2021–
+| nationalteam2 = [[Tunisia national football team|Tunisia]]
+| nationalcaps2 = 15
+| nationalgoals2 = 3
+| club-update = 27 June 2023
+| nationalteam-update = 00:35, 10 December 2022 (UTC)
+}}
+
+'''Ali El-Abdi''' ({{lang-ar|علي العبدي}}; born 20 December 1993) is a Tunisian professional [[association football|footballer]] who plays as a [[left-back]] for French club [[Stade Malherbe Caen|Caen]].
+
+==Club career==
+Abdi made his professional debut with [[JS Kairouan|Kairouan]] in a 0–0 [[Tunisian Ligue Professionnelle 1]] tie with [[EGS Gafsa]] on 25 December 2011.<ref>{{Cite web|url=https://int.soccerway.com/matches/2011/12/25/tunisia/ligue-1/js-kairouanaise/el-gawafel-sportives-de-gafsa/1219492/|title=Kairouan vs. EGS Gafsa - 25 December 2011 - Soccerway|website=Soccerway}}</ref> On 24 June 2019, Abdi moved to [[Paris FC]] in the French [[Ligue 2]].<ref>{{Cite web|url=https://www.lequipe.fr/Football/Actualites/Transferts-ali-abdi-club-africain-au-paris-fc/1033461|title=Transferts : Ali Abdi (Club Africain) au Paris FC - Foot - Transferts|website=L'Équipe}}</ref>
+
+On 21 July 2021, he signed a two-year contract with [[Stade Malherbe Caen|Caen]].<ref>{{cite web|publisher=[[Stade Malherbe Caen|Caen]]|url=https://www.smcaen.fr/2021-2022/actualites/groupe-pro/ali-abdi-nouveau-joueur-du-stade-malherbe-caen|title=ALI ABDI NOUVEAU JOUEUR DU STADE MALHERBE CAEN|date=21 July 2021|language=fr}}</ref>
+
+==International career==
+Abdi made his debut for the [[Tunisia national football team|Tunisia national team]] on 25 March 2021 in an [[2021 Africa Cup of Nations qualification Group J|AFCON 2021 qualifier]] against [[Libya national football team|Libya]].<ref>{{cite web|publisher=[[Eurosport]]|url=https://www.eurosport.com/football/africa-cup-of-nations-qualification/2021/live-libya-tunisia_mtc1162691/live.shtml|title=Libya v Tunisia game report|date=25 March 2021}}</ref>
+
+==Career statistics==
+:''Scores and results list Tunisia's goal tally first, score column indicates score after each Abdi goal.''
+
+{| class="wikitable sortable"
+|+ List of international goals scored by Ali Abdi
+|-
+!scope="col"|No.
+!scope="col"|Date
+!scope="col"|Venue
+!scope="col"|Opponent
+!scope="col"|Score
+!scope="col"|Result
+!scope="col"|Competition
+|-
+| align="center"|1 || 10 June 2022 || [[Noevir Stadium Kobe]], [[Kobe]], Japan || {{fb|CHI}} || align="center"|1–0 || align="center"|2–0 || [[2022 Kirin Cup Soccer]]
+|-
+|}
+
+==Honours==
+'''Individual'''
+*[[Trophées UNFP du football|UNFP Ligue 2 Team of the Year]]: [[2021–22 Ligue 2|2021–22]]<ref name="Ligue2TOTS">{{cite tweet |user=UNFP |author=UNFP |author-link=National Union of Professional Footballers |number=1525923730563678211 |date=15 May 2022 |title=Un onze-type qui a vu la vie en rose cette saison, ne cuvée 2021-2022 qui a fière allure, n'est-ce pas}}</ref>
+
+==References==
+{{reflist}}
+
+==External links==
+* {{Soccerway|ali-abdi/223160}}
+* [https://parisfc.fr/project/axel-bamba/ Paris FC Profile]
+
+{{Stade Malherbe Caen squad}}
+{{Navboxes colour
+|title=Tunisia squads
+|bg=white
+|fg=#E70013
+|list1=
+{{Tunisia squad 2021 Africa Cup of Nations}}
+{{Tunisia squad 2022 FIFA World Cup}}
+}}
+{{2021–22 Ligue 2 UNFP Team of the Year}}
+
+{{DEFAULTSORT:Abdi, Ali}}
+[[Category:1993 births]]
+[[Category:Living people]]
+[[Category:People from Sfax]]
+[[Category:Tunisian men's footballers]]
+[[Category:Men's association football fullbacks]]
+[[Category:Tunisia men's international footballers]]
+[[Category:Tunisia men's under-23 international footballers]]
+[[Category:2021 Africa Cup of Nations players]]
+[[Category:Ligue 2 players]]
+[[Category:Tunisian Ligue Professionnelle 1 players]]
+[[Category:Paris FC players]]
+[[Category:Club Africain players]]
+[[Category:Stade Tunisien players]]
+[[Category:Espérance Sportive de Tunis players]]
+[[Category:JS Kairouan players]]
+[[Category:Stade Malherbe Caen players]]
+[[Category:Tunisian expatriate men's footballers]]
+[[Category:Tunisian expatriate sportspeople in France]]
+[[Category:Expatriate men's footballers in France]]
+[[Category:2022 FIFA World Cup players]]

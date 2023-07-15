@@ -1,0 +1,383 @@
+{{Cleanup bare URLs|date=August 2022}}
+{{Use Australian English|date=January 2012}}
+{{Use dmy dates|date=September 2021}}
+[[File:Australia 2022 FIFA world cup bid logo.svg|thumb|250px|right|Australia's 2022 World Cup bid logo]]
+Australia submitted an unsuccessful bid for the 2022 [[FIFA World Cup]]. On 2 December 2010 FIFA announced that the event would be held in Qatar.<ref>{{cite news | url=http://www.theage.com.au/sport/qatar-wins-2022-world-cup-australia-first-eliminated-20101203-18ifa.html | location=Melbourne | work=The Age | first=Dan | last=Silkstone | title=Qatar wins 2022 World Cup, Australia first eliminated | date=3 December 2010 | access-date=2 December 2010 | archive-date=5 December 2010 | archive-url=https://web.archive.org/web/20101205010601/http://www.theage.com.au/sport/qatar-wins-2022-world-cup-australia-first-eliminated-20101203-18ifa.html | url-status=live }}</ref> Australia also lodged a bid for the 2018 World Cup, but withdrew the bid on 10 June 2010.<ref>{{cite news|url=https://www.smh.com.au/world-cup-2010/world-cup-news/australia-dumps-2018-world-cup-bid-20100611-y0tx.html|title=Australia dumps 2018 World Cup bid|date=11 June 2010|work=[[The Sydney Morning Herald]]|publisher=[[Fairfax Media]]|accessdate=10 June 2010| archiveurl= https://web.archive.org/web/20100613122147/http://www.smh.com.au/world-cup-2010/world-cup-news/australia-dumps-2018-world-cup-bid-20100611-y0tx.html| archivedate= 13 June 2010 | url-status= live}}</ref> The 2018 and 2022 World Cups were the 21st and 22nd editions of the [[FIFA World Cup]]. The bidding procedure to host both the 2018 and 2022 FIFA World Cup began in January 2009, and national associations had until 2 February 2009 to register their interest.<ref>{{cite news |url= http://voices.washingtonpost.com/soccerinsider/2009/01/future_world_cups.html |title= Future World Cups |first= Steve |last= Goff |newspaper= The Washington Post |date= 16 January 2009 |accessdate= 16 January 2009 |archive-date= 30 April 2011 |archive-url= https://web.archive.org/web/20110430153000/http://voices.washingtonpost.com/soccerinsider/2009/01/future_world_cups.html |url-status= live }}</ref> The bid was presented by [[Frank Lowy]], [[Ben Buckley]], [[Quentin Bryce]] and [[Elle Macpherson]].<ref>[http://www.foxsports.com.au/football/world-cup-bid/watch-australia-present-bid-to-host-2022-fifa-world-cup-live-on-foxsportscomau-and-fox-sports/story-fn3g9e47-1225963386571 "Watch Australia present bid"] {{Webarchive|url=https://web.archive.org/web/20121004195509/http://www.foxsports.com.au/football/world-cup-bid/watch-australia-present-bid-to-host-2022-fifa-world-cup-live-on-foxsportscomau-and-fox-sports/story-fn3g9e47-1225963386571 |date=4 October 2012 }} at [[Fox Sports (Australia)|Fox Sports]] (30 November 2010)</ref>
+
+==Schedule==
+{{Wikinews|FIFA receives eleven bids for 2018 and 2022 World Cups}}
+{| class="wikitable"
+|- 
+!Date
+!Notes
+|- 
+|15 January 2009 ||Applications formally invited
+|-
+|2 February 2009||Closing date for registering intention to bid
+|-
+|16 March 2009||Deadline to submit completed bid registration forms
+|-
+|14 May 2010||Deadline for submission of full details of bid
+|-
+|26–29 July 2010||Inspection committee visits Australia<ref>{{cite press release|url=https://www.fifa.com/worldcup/bidders/2018/newsid=1210979.html |publisher=FIFA.com |title=FIFA receives bidding documents for 2018 and 2022 FIFA World Cups |date=14 May 2010 |accessdate=31 July 2010 |archiveurl=https://web.archive.org/web/20100729211034/http://www.fifa.com/worldcup/bidders/2018/newsid%3D1210979.html |archivedate=29 July 2010 |url-status=dead }}</ref>
+|-
+||2 December 2010||FIFA to appoint hosts for 2018 and 2022 World Cups
+|}
+
+After decades of hypothesising Australia's credentials to host the FIFA World Cup, the Howard Government welcomed tentative investigations into the viability of hosting the tournament as early as 2002. [[Football Australia]], known at the time as Soccer Australia, targeted bidding for the 2014 edition of the tournament.<ref>{{Cite news |title=Australia to bid for 2014 World Cup |url=https://www.irishtimes.com/news/australia-to-bid-for-2014-world-cup-1.432093 |access-date=2022-09-18 |newspaper=The Irish Times |language=en |archive-date=20 September 2022 |archive-url=https://web.archive.org/web/20220920170919/https://www.irishtimes.com/news/australia-to-bid-for-2014-world-cup-1.432093 |url-status=live }}</ref> After realising that Brazil were overwhelmingly likely to receive the hosting rights - which they did in 2007 - [[Football Federation Australia]] focused on a formal bid for the 2018 FIFA World Cup, announcing their intention to do so in November 2007. After FIFA in December 2008 announced they would be accepting bids for both the 2018 and 2022 FIFA World Cup, Australia registered their intention to bid with FIFA for the 2022 FIFA World Cup in February 2009.
+
+The bid was officially launched on 14 June 2009 at Parliament House in Canberra.<ref name="launch">{{Cite news |url=http://www.abc.net.au/news/stories/2009/06/14/2597675.htm |title=Australia launches dual World Cup bid |accessdate=17 September 2009|work=ABC|date=14 June 2009 | archiveurl= https://web.archive.org/web/20091002063747/http://www.abc.net.au/news/stories/2009/06/14/2597675.htm| archivedate= 2 October 2009 | url-status= live}}</ref>
+
+==Voting==
+{| class="wikitable"
+|+ 2022 FIFA World Cup host vote results
+! rowspan="2" | Country Australia 
+! colspan="4" | Vote 100
+|-
+! 1
+! 2
+! 3
+! 4
+|- bgcolor=#90EE90
+| align=left | '''{{QAT}}'''
+|11
+|10
+|11
+|'''14'''
+|-
+| align=left | {{USA}}
+| 3
+| 5
+| 6
+| 8
+|-
+| align=left | {{KOR}}
+| 4
+| 5
+| 5
+| bgcolor=#F08080|<del>0</del>
+|-
+| align=left | {{JAP}}
+| 3
+| 2
+| bgcolor=#F08080|<del>0</del>
+| bgcolor=#F08080|<del>0</del>
+|-
+| align=left | {{AUS}}
+| 1
+| bgcolor=#F08080|<del>0</del>
+| bgcolor=#F08080|<del>0</del>
+| bgcolor=#F08080|<del>0</del>
+|-
+! align=left |Total Votes
+! 22
+! 22
+! 22
+! 22
+|}
+
+==Potential venues==
+
+===Submitted bid venues===
+{{location map+ |float=none |Australia |width=600 |caption= |places=
+{{location map~ |Australia |lat=-19.25 |long=146.81 |label='''[[Townsville]]''' |position=left }}
+{{location map~ |Australia |lat=-27.46 |long=153.03 |label='''[[Brisbane]]''' |position=top }}
+{{location map~ |Australia |lat=-28.01 |long=153.04 |label='''[[Gold Coast, Queensland|Gold Coast]]''' |position=left }}
+{{location map~ |Australia |lat=-32.91 |long=151.20 |label='''[[Newcastle, New South Wales|Newcastle]]''' |position=top }}
+{{location map~ |Australia |lat=-33.77 |long=150.90 |label='''[[Blacktown]]''' |position=left }}
+{{location map~ |Australia |lat=-33.86 |long=151.12 |label='''[[Sydney]]''' |position=bottom }}
+{{location map~ |Australia |lat=-35.30 |long=149.12 |label='''[[Canberra]]''' |position=left }}
+{{location map~ |Australia |lat=-37.81 |long=144.96 |label='''[[Melbourne]]''' |position=right }}
+{{location map~ |Australia |lat=-38.15 |long=144.35 |label='''[[Geelong]]''' |position=bottom }}
+{{location map~ |Australia |lat=-34.92 |long=138.60 |label='''[[Adelaide]]''' |position=left }}
+{{location map~ |Australia |lat=-31.95 |long=115.85 |label='''[[Perth]]''' |position=right }}
+}}
+
+The following are the 12 venues that were submitted to FIFA on 14 May 2010 as part of the FFA's bid to host the 2022 FIFA World Cup:<ref>{{cite web|title=AUSTRALIAN WORLD CUP STADIUMS|url=http://www.austadiums.com/australiaworldcup/|publisher=austadiums.com|accessdate=12 April 2014|archive-url=https://web.archive.org/web/20140413143514/http://www.austadiums.com/australiaworldcup/|archive-date=13 April 2014|url-status=dead}}</ref>
+
+{| class="sortable wikitable"
+|-
+! Stadium<br /><small>(Official bid name)</small>
+! Image
+! Host city
+! State
+! Current capacity
+! Notes and redevelopment plans
+! Construction
+|-
+| [[Melbourne Cricket Ground]]
+| [[File:CG-MelbCricketGround-Pano.jpg|100px]]
+| [[Melbourne]]
+| {{flag|Victoria}}
+| 100,024
+| Due to the quality of the stadium, and the stadium's capacity, it is already in FIFA standards, and was proposed to host the opening match for the tournament, in addition to group stage, round of 16, quarterfinal, semifinal and the final.
+| rowspan=2|Existing stadium
+|-
+| [[Stadium Australia]]
+| [[File:Telstra Stadium at Night.jpg|100px]]
+| [[Sydney]]
+| {{flag|New South Wales}}
+| 84,000
+| Having been the centrepiece of the [[2000 Summer Olympics|2000 Sydney Olympic Games]], as well as the final match of the [[2015 AFC Asian Cup]], this existing stadium is already in FIFA standards form to host tournament matches. Australia's bid proposes the stadium host the final match, as well as group stage, round of 16, quarterfinal, and semifinal matches.
+|-
+| [[Perth Stadium]]
+|<!-- Deleted image removed:  [[File:Subiaco Oval Panorama.jpg|100px]] -->
+| [[Perth]]
+| {{flag|Western Australia}}
+| 60,000
+| The new stadium built on the [[Burswood, Western Australia|Burswood]] Peninsula is a stadium to replace [[Subiaco Oval]] and the [[WACA Ground|WACA]]. The stadium can be upgraded to 70,000 seats.
+| New stadium
+|- 
+| [[Adelaide Oval]]
+| [[File:Adelaide Oval 13.png|100px]]
+| [[Adelaide]]
+| {{flag|South Australia}}
+| 53,583
+| Upgrades completed in 2010 replaced the western stand. For the tournament, the stadium will have a 48,000-seat capacity to house group stage, round of 16, and quarterfinal (or third place) matches. Further development of eastern and southern stands completed in 2014 regardless of bid failure. Overall capacity following re-development is 53,583 with 50,083 seats and standing room for a further 3,500.
+| rowspan=2|Existing stadium
+|-
+| [[Lang Park]]
+| [[File:Suncorpstadium071006.JPG|100px]]
+| [[Brisbane]]
+| {{flagicon|Queensland}} [[Queensland]]
+| 52,500
+| Regarded as the best rectangular sports stadium in Australia, the Brisbane Stadium is already acceptable by FIFA standards for the tournament. Proposed group stages, round of 16, and quarterfinal/third place matches will find a home here.
+|- 
+| [[Sydney Football Stadium (1988)|Sydney Football Stadium]]
+| [[File:Sfc v nqf.jpg|100px]]
+| [[Sydney]]
+| rowspan=2|{{flag|New South Wales}}
+| 45,500
+| Only minor upgrades would have been needed for the Sydney Football Stadium to meet FIFA standards for the tournament. Group stage, round of 16, and quarterfinal matches have been proposed for the stadium.
+| Minor upgrade
+|-
+| [[Newcastle International Sports Centre]]
+| [[File:NewcastleKnights.jpg|100px]]
+| [[Newcastle, New South Wales|Newcastle]]
+| 33,000
+| New grandstand is currently under construction bringing capacity to 33,000 for 2011. Further expansion for the tournament will bring capacity to 42,000. Stadium is possible destination for round of 16 and quarterfinal matches in addition to the group stage matches.
+| rowspan=2|Major upgrade
+|-
+| [[Willows Sports Complex|Townsville Stadium]] 
+| [[File:14-05-2005-dairy farmers at dusk.JPG|100px]]
+| [[Townsville]]
+| {{flag|Queensland}}
+| 26,500
+| Major upgrades to the stadium will bring the capacity to 40,000. Potential tournament matches include group stage, round of 16, and quarterfinals.
+|-
+| [[Canberra Stadium]]
+| [[File:BruceStadium19032005.JPG|100px]]
+| [[Canberra]]
+| {{flag|Australian Capital Territory}}
+| 25,011
+| A modern 40,000-seat stadium will be built alongside the existing stadium.<ref>{{cite web| url = http://www.canberratimes.com.au/news/local/news/general/new-act-stadium-in-world-cup-bid/1830922.aspx| url-status = dead| archive-url = https://web.archive.org/web/20100516164535/http://www.canberratimes.com.au/news/local/news/general/new-act-stadium-in-world-cup-bid/1830922.aspx| archive-date = 2010-05-16| title = New ACT stadium in World Cup bid - Local News - News - General - The Canberra Times}}</ref> Potential matches during the tournament include group stage, round of 16, and quarterfinal matches.
+| New stadium
+|- 
+| [[Carrara Stadium]]
+| [[File:Carrara stadium.jpg|150px]]
+| [[Gold Coast, Queensland|Gold Coast]]
+| {{flag|Queensland}}
+| 25,000
+| Stadium was upgraded to 40,000-seat capacity. Redevelopment was completed in 2011 to become a principal feature for the [[2018 Commonwealth Games]] bid. Group stage, round of 16, and quarterfinal matches are planned for Gold Coast Stadium.
+| Major upgrade
+|-
+| [[Blacktown International Sportspark|Blacktown Stadium]]
+| 
+| [[Blacktown, New South Wales|Blacktown]]
+| {{flag|New South Wales}}
+| 41,000
+| New 41,000-seat stadium located in the western Sydney suburb of Blacktown. The stadium will be located in Blacktown Olympic Park, which was created for the [[2000 Summer Olympics|2000 Sydney Olympic Games]] to host softball and baseball events. Blacktown Stadium has been proposed to host group stage, round of 16, and quarterfinal matches in the submitted bid.
+| New stadium
+|-
+| [[Kardinia Park (stadium)|Kardinia Park]]
+| [[File:Skilled-stadium-geelong.jpg|100px]]
+| [[Geelong]]
+| {{flag|Victoria}}
+| 35,000
+| Stadium capacity would be increased to 44,000 for the tournament. Currently undergoing construction of multi-tier eastern and southwestern stands. Proposed to host group stage, round of 16, and quarterfinal matches.
+| Major upgrade
+|}
+
+===Rejected bid venues===
+The following is a list of stadiums that were considered at one time as part of the FFA's bid to host the 2022 FIFA World Cup, but did not make the final cut:
+{| class="wikitable" width="100%"
+|-
+! Stadium
+! Image
+! Host city
+! State
+! Current capacity
+! Remarks
+! Current FIFA non-compliant field dimensions
+|-
+| [[Docklands Stadium]]
+| [[File:Etihad Stadium crop.jpg|100px]]
+| [[Melbourne]]
+| {{flag|Victoria}}
+| 53,359
+| Reconfigurable stadium. ''availability ruled out – see below: Ground sharing issues''
+| 170 m (length)
+|-
+| [[WACA Ground]]
+| [[File:Lille Marsh ZOOMED OUT edit.jpg|100px]]
+| [[Perth]]
+| {{flag|Western Australia}}
+| 24,500
+|
+|
+|- 
+| [[Wollongong Showground]]
+| [[File:WIN Stadium2.jpg|100px]]
+| [[Wollongong]]
+| {{flag|New South Wales}}
+| 20,000
+| Western grandstand to be redeveloped from 2010 increasing capacity to 23,750.<ref>{{Cite web |url=http://www.northernleader.com.au/article/win_stadium_gets_29m_boost1/ |title=Archived copy |access-date=26 March 2010 |archive-date=27 March 2022 |archive-url=https://web.archive.org/web/20220327071142/http://www.northernleader.com.au/article/win_stadium_gets_29m_boost1/ |url-status=live }}</ref>{{dead link|date=November 2020|fix-attempted=yes}} Due to a road on Western side and beach on Eastern side of the stadium, it is not possible to upgrade the existing stadium, however a greenfield site has been suggested for a new stadium.
+|
+|-
+| [[Football Park]]
+| [[File:As-east.jpg|100px|AAMI Stadium Round 1 2007]]
+| [[Adelaide]]
+| {{flag|South Australia}}
+| 51,240
+| Oval stadium with main seating bowl section too shallow and far from a proposed football pitch. Superseded by newly re-developed Adelaide Oval
+| 177 x 145 m 
+|-
+| [[Sydney Cricket Ground]]
+| [[File:Sydney Cricket Ground, Warne final balls, 2007.jpg|100px]]
+| [[Sydney]]
+| {{flag|New South Wales}}
+| 48,000
+|
+| 153 x 137 m
+|-
+| [[The Gabba]]
+| [[File:Gabba ashes 24112006.jpg|100px]]
+| [[Woolloongabba, Queensland|Brisbane]]
+| {{flag|Queensland}}
+| 42,000
+|
+| 171 x 150 m
+|}
+
+==Ground sharing issues==
+Of the Australian stadiums that meet FIFA's seating criteria, none are primary [[association football]] venues. They are predominantly [[Cricket field|cricket]], [[Australian rules football]] and [[Rugby league playing field|rugby league]] playing [[List of sports venues in Australia|venues]]. At the proposed time of the World Cup during the northern hemisphere summer, these facilities are normally in regular season use by Australian rules football and the rugby codes. Former England international, [[Peter Withe]], now living in Australia, observed that "... there are some great stadiums in Australia but a lot of them are Aussie rules arenas. These are not great for the round ball."<ref>{{Cite web |url=http://www.heraldsun.com.au/news/afl-fuming-over-soccer-world-cup-demands/story-e6frf7jo-1225807505412 |title=AFL fuming over soccer World Cup demands |accessdate=6 December 2009|work=Herald Sun}}</ref>
+
+The need for all World Cup stadia to be used only for World Cup games prior to and during the World Cup caused controversy with the [[Australian Football League]],<ref>{{Cite news|url=http://www.abc.net.au/news/stories/2009/12/14/2770679.htm?site=sport&section=football|title=AFL concerns over world cup run deep.|accessdate=21 December 2009|work=ABC|date=14 December 2009|archive-date=30 April 2011|archive-url=https://web.archive.org/web/20110430034758/http://www.abc.net.au/news/stories/2009/12/14/2770679.htm?site=sport&section=football|url-status=live}}</ref> and [[National Rugby League]],<ref>{{Cite web |url=http://www.dailytelegraph.com.au/sport/nrl/soccers-plan-to-displace-nrl/story-e6frexnr-1225808419104 |title=Soccer's plan to displace NRL |accessdate=21 September 2009 |work=The Daily Telegraph |archive-date=1 May 2011 |archive-url=https://web.archive.org/web/20110501021425/http://www.dailytelegraph.com.au/sport/nrl/soccers-plan-to-displace-nrl/story-e6frexnr-1225808419104 |url-status=live }}</ref> who claim that loss of access to almost all their major venues for eight weeks would severely disrupt their seasons and even impact the viability of their clubs. The AFL advised it would not give up Docklands Stadium in Melbourne,<ref>{{cite news | url=https://www.smh.com.au/sport/football/cup-bid-needs-to-share-the-vision-20091212-kpim.html | work=The Sydney Morning Herald | title=Cup bid needs to share the vision | date=13 December 2009 | access-date=16 April 2020 | archive-date=15 December 2009 | archive-url=https://web.archive.org/web/20091215061257/https://www.smh.com.au/sport/football/cup-bid-needs-to-share-the-vision-20091212-kpim.html | url-status=live }}</ref><ref>{{Cite news |url=http://news.theage.com.au/breaking-news-sport/we-wont-be-second-to-world-cup-afl-ceo-20100318-qian.html|title=We won't be second to World Cup: AFL CEO |accessdate=20 March 2010|work=The Age|location=Melbourne|first=Roger|last=Vaughan|date=18 March 2010| archiveurl= https://web.archive.org/web/20100322233319/http://news.theage.com.au/breaking-news-sport/we-wont-be-second-to-world-cup-afl-ceo-20100318-qian.html| archivedate= 22 March 2010 | url-status= live}}</ref> and the management of Docklands Stadium (which includes the AFL as part owners of the venue) ruled out use of the stadium for the bid.<ref>{{Cite web |url=http://www.heraldsun.com.au/sport/soccer/etihad-stadium-chief-rules-out-world-cup-games/story-fn4k63e5-1225829604242|title=Etihad stadium chief rules out world cup games |accessdate=27 February 2010 |work=Herald Sun}}</ref> The use of these shared venues remains the only option for the bid, with the Australian authorities unwilling to invest massive amounts of money in new association football-only stadia.<ref>{{cite news |url=https://www.smh.com.au/sport/football/two-white-elephants-are-born-in-africa--australia-mustnt-breed-own-20091204-kb0c.html |title=Two white elephants are born in Africa – Australia mustn't breed own|accessdate=6 December 2009|work=The Sydney Morning Herald| first=Michael | last=Cockerill|date=5 December 2009| archiveurl= https://web.archive.org/web/20091205160102/http://www.smh.com.au/sport/football/two-white-elephants-are-born-in-africa--australia-mustnt-breed-own-20091204-kb0c.html| archivedate= 5 December 2009 | url-status= live}}</ref> The development of [[Kardinia Park (stadium)|Kardinia Park]] (Skilled Stadium) in Geelong has been proposed to replace the loss of Docklands Stadium in the FFA bid, following the World Cup the stadium would be reconfigured to a larger oval for AFL use.<ref>{{Cite web|url=http://www.dailytelegraph.com.au/sport/nrl/stadium-plans-to-seal-the-deal/story-e6frexnr-1225808841638|title=Geelong World Cup stadium push|accessdate=1 March 2010|work=Herald Sun|archive-date=2 September 2012|archive-url=https://web.archive.org/web/20120902050818/http://www.dailytelegraph.com.au/sport/nrl/stadium-plans-to-seal-the-deal/story-e6frexnr-1225808841638|url-status=live}}</ref> Compensation claims for the disrupted seasons of the local codes may run into several hundred million [[Australian dollar|dollars]]. The AFL and NRL and possibly also the [[Australian Rugby Union]] (ARU) will lobby for equity from government.
+
+The AFL, NRL and FFA announced it had signed a Memorandum of Understanding on 9 May 2010, guaranteeing the AFL and NRL seasons will continue, should the bid be successful, and compensation for the other football codes may be awarded as a result of any disruptions caused by hosting the World Cup.<ref>{{cite news |url= https://www.smh.com.au/sport/football/rival-codes-finally-shake-hands-on-deal-to-play-through-world-cup-20100509-uluq.html |title= Rival codes finally shake hands on deal to play through World Cup |first= Brad |last= Walter |date= 10 May 2010 |accessdate= 19 May 2010 |work=[[The Sydney Morning Herald]]| archiveurl= https://web.archive.org/web/20100512122253/http://www.smh.com.au/sport/football/rival-codes-finally-shake-hands-on-deal-to-play-through-world-cup-20100509-uluq.html| archivedate= 12 May 2010 | url-status= live}}</ref>
+
+The seasons for Australia's football codes are as follows:
+
+*"'''Q'''" denotes pre-competition qualifiers
+*"'''S'''" denotes the start of the regular-season.
+*"'''P'''" denotes playoff(s)/postseason/knockout stages. 
+*"'''F'''" denotes Final(s).
+
+{|class="wikitable sortable" style="font-size:90%; text-align:center;"
+|-
+! League !! Sport !! Countries !!width="4.5%" class="unsortable"| Jan !!width="4.5%" class="unsortable"| Feb !!width="4.5%" class="unsortable"| Mar !!width="4.5%" class="unsortable"| Apr !!width="4.5%" class="unsortable"| May !!width="4.5%" class="unsortable"| Jun !!width="4.5%" class="unsortable"| Jul !!width="4.5%" class="unsortable"| Aug !!width="4.5%" class="unsortable"| Sep !!width="4.5%" class="unsortable"| Oct !!width="4.5%" class="unsortable"| Nov !!width="4.5%" class="unsortable"| Dec
+|-
+![[A-League]]
+| [[Association football]] || {{flagicon|AUS}} {{flagicon|NZL}}
+|style="background: green"| &nbsp;
+|style="background: green"| &nbsp;
+|style="background: green"| '''P'''
+|style="background: green"| '''F'''
+| &nbsp;
+| &nbsp;
+| &nbsp;
+| &nbsp;
+|style="background: green"| '''S'''
+|style="background: green"| &nbsp;
+|style="background: green"| &nbsp;
+|style="background: green"| &nbsp;
+|-
+![[Australian Football League|AFL]]
+| [[Australian rules football]] || {{flagicon|AUS}}
+| &nbsp;
+| &nbsp;
+|style="background: #28418b"| '''S'''
+|style="background: #28418b"| &nbsp;
+|style="background: #28418b"| &nbsp;
+|style="background: #28418b"| &nbsp;
+|style="background: #28418b"| &nbsp;
+|style="background: #28418b"| &nbsp;
+|style="background: #28418b"| '''P'''&nbsp;'''F'''
+| &nbsp;
+| &nbsp;
+| &nbsp;
+|-
+![[National Rugby League|NRL]]
+| [[Rugby league]] || {{flagicon|AUS}} {{flagicon|NZL}}
+| &nbsp;
+| &nbsp;
+|style="background: red"| '''S'''
+|style="background: red"| &nbsp;
+|style="background: red"| &nbsp;
+|style="background: red"| &nbsp;
+|style="background: red"| &nbsp;
+|style="background: red"| &nbsp;
+|style="background: red"| '''P'''
+|style="background: red"| '''F'''
+| &nbsp;
+| &nbsp;
+|-
+![[Super Rugby]]
+| [[Rugby union]] ||  {{flagicon|AUS}} {{flagicon|NZL}} {{flagicon|RSA}}
+|&nbsp;
+|style="background: #DC143C"| '''S'''
+|style="background: #DC143C"| &nbsp;
+|style="background: #DC143C"| &nbsp;
+|style="background: #DC143C"| &nbsp;
+|style="background: #DC143C"| '''P'''
+|style="background: #DC143C"| '''P'''&nbsp;'''F'''
+| &nbsp;
+| &nbsp;
+| &nbsp;
+| &nbsp;
+| &nbsp;
+|-
+|}
+
+==Cost concerns and benefits==
+Several stories<ref name="strings">{{Cite web|url=http://www.watoday.com.au/wa-news/strings-attached-to-world-cup-bid-20091214-kr0a.html |title=Strings attached to world cup bid. |accessdate=21 December 2009|work=WA Today|date=13 December 2009 | archiveurl= https://web.archive.org/web/20091217091632/http://www.watoday.com.au/wa-news/strings-attached-to-world-cup-bid-20091214-kr0a.html| archivedate= 17 December 2009 | url-status= live}}</ref><ref name="circus">{{cite news|url=https://www.smh.com.au/business/beware-the-coming-soccer-circus-20091214-krcb.html |title=Beware the coming soccer circus. |accessdate=21 December 2009|work=The Sydney Morning Herald | first=Michael | last=Pascoe |date=14 December 2009| archiveurl= https://web.archive.org/web/20100117142546/http://www.smh.com.au/business/beware-the-coming-soccer-circus-20091214-krcb.html| archivedate= 17 January 2010 | url-status= live}}</ref><ref name="Kennett">{{cite news|url=http://www.theage.com.au/sport/soccer/kennett-criticises-world-cup-planning-20091214-kr4r.html |title=Kennett criticises world cup planning. |accessdate=21 December 2009|work=The Age | location=Melbourne | first=Will | last=Brodie |date=14 December 2009| archiveurl= https://web.archive.org/web/20100117070929/http://www.theage.com.au/sport/soccer/kennett-criticises-world-cup-planning-20091214-kr4r.html| archivedate= 17 January 2010 | url-status= live}}</ref> in the Australian media question the restrictions and privileges that FIFA will demand of host cities at taxpayer expense, in addition to the need to build and improve so many stadia<ref name="cheque">{{Cite web|url=http://www.heraldsun.com.au/opinion/world-cup-bid-needs-reality-cheque/story-e6frfifo-1225809729751 |title=World cup bid needs reality cheque. |accessdate=21 December 2009|work=Sunday Herald Sun}}</ref><ref name= "pocket">{{Cite web|url=http://www.theaustralian.com.au/news/sport/up-to-200m-to-upgrade-stadium-for-world-cup-out-of-whose-pocket/story-e6frg7mf-1225809208232 |title=Up to $200m to upgrade stadium for world cup – out of whose pocket? |accessdate=21 December 2009|work=The Australian}}</ref> or whether "mega-events" like the World Cup are cost-effective.<ref name= "mega-events">{{cite news|url=https://www.smh.com.au/opinion/politics/buying-our-love-with-our-money-is-just-not-sporting-20091226-lfn6.html |title=Buying our love with our money is just not sporting. |accessdate=27 December 2009|work=The Sydney Morning Herald | first=Chris | last=Berg |date=27 December 2009| archiveurl= https://web.archive.org/web/20091231050038/http://www.smh.com.au/opinion/politics/buying-our-love-with-our-money-is-just-not-sporting-20091226-lfn6.html| archivedate= 31 December 2009 | url-status= live}}</ref> The FFA has argued that these costs are overstated.<ref name="scoffs">{{Cite web|url=http://www.watoday.com.au/sport/soccer/ffa-scoffs-at-world-cup-takeover-20091215-kt0n.html |title=FFA scoffs at world cup takeover. |accessdate=21 December 2009|work=WA Today|date=14 December 2009 | archiveurl= https://web.archive.org/web/20091216071106/http://www.watoday.com.au/sport/soccer/ffa-scoffs-at-world-cup-takeover-20091215-kt0n.html| archivedate= 16 December 2009 | url-status= live}}</ref>
+
+A report conducted by [[McKinsey & Company|McKinsey]] consultants on behalf of FIFA, rated an Australian World Cup to be the worst in term of revenue. The United States were rated at 100%, Japan 73%, South Korea 71%, Qatar 70%, and Australia on 68%.<ref>{{Cite web |last= |date=2010-11-30 |title=Fifa report backs England and US World Cup bids as most profitable |url=http://www.theguardian.com/football/2010/nov/30/england-us-world-cup-fifa |access-date=2022-11-25 |website=the Guardian |language=en |archive-date=25 November 2022 |archive-url=https://web.archive.org/web/20221125100642/https://www.theguardian.com/football/2010/nov/30/england-us-world-cup-fifa |url-status=live }}</ref>
+
+A study by global research firm IBISWorld claimed that the 2022 World Cup would be worth $35.5&nbsp;billion to the Australian economy – four times the amount generated by the 2000 Sydney Olympics.<ref>{{Cite web|url = http://www.sportbusiness.com/news/178981/australia-2022-world-cup-would-generate-36-billion|title = Australia 2022 World Cup "would generate $36 billion"|date = 13 July 2010|access-date = 13 July 2010|archive-date = 16 July 2010|archive-url = https://web.archive.org/web/20100716192317/http://www.sportbusiness.com/news/178981/australia-2022-world-cup-would-generate-36-billion|url-status = live}}</ref>
+
+== Government support ==
+Australia's bid has received government support from an early stage, with former-Prime Minister John Howard announcing federal and state/territory government support before FFA announced their intention to bid.<ref name="earlysupport">{{cite news |url=http://www.theage.com.au/news/soccer/world-cup-bid-for-2018-gets-political-clout/2006/07/14/1152637870779.html |title=World Cup bid for 2018 gets political clout |accessdate=3 January 2010 |work=The Age |location=Melbourne |date=15 July 2006 |first=Jessica |last=Halloran |archive-date=20 September 2009 |archive-url=https://web.archive.org/web/20090920225012/http://www.theage.com.au/news/soccer/world-cup-bid-for-2018-gets-political-clout/2006/07/14/1152637870779.html |url-status=live }}</ref>
+
+Bid Chairman Frank Lowy AC announced at the bid launch that he has the personal commitment of the then-Australian Prime Minister, Kevin Rudd, who announced the Federal Government's support for the bid in February 2008. In December 2008, Federal minister for sport Kate Ellis announced that the federal government would give Football Federation Australia $45.6&nbsp;million<ref name="funding">{{Cite web |url=http://www.sportbusiness.com/news/168438/ffa-receive-a45m-world-cup-bid |title=FFA receive A$45m for World Cup bid |accessdate=20 November 2009 |work=Sport Business |archive-date=4 September 2009 |archive-url=https://web.archive.org/web/20090904073254/http://www.sportbusiness.com/news/168438/ffa-receive-a45m-world-cup-bid |url-status=live }}</ref> to fund its World Cup bid preparation. Leader of the Opposition [[Malcolm Turnbull]] affirmed the support of the Opposition on 11 December 2008<ref name="turnbullfirst">{{Cite web |url=http://www.malcolmturnbull.com.au/Media/LatestNews/tabid/110/articleType/ArticleView/articleId/9/2018-Soccer-World-Cup.aspx |title=2018 Soccer World Cup – Malcolm Turnbull |accessdate=20 November 2009 |work=malcolmturnbull.com.au |archiveurl=https://web.archive.org/web/20091013012641/http://malcolmturnbull.com.au/Media/LatestNews/tabid/110/articleType/ArticleView/articleId/9/2018-Soccer-World-Cup.aspx |archivedate=13 October 2009 |url-status=dead }}</ref><ref>{{Cite web |url=http://www.soccerfield24.com/world-cup-2018/ |title=Russia World Cup |access-date=18 August 2014 |archive-url=https://web.archive.org/web/20140819094021/http://www.soccerfield24.com/world-cup-2018/ |archive-date=19 August 2014 |url-status=dead }}</ref> and again at the formal launch of the bid in June 2009.<ref name="turnbulllaunch">{{Cite web |url=http://www.malcolmturnbull.com.au/Media/LatestNews/tabid/110/articleType/ArticleView/articleId/503/categoryId/5/Australias-Bid-for-the-20182022-FIFA-World-Cup.aspx |title=Australia's Bid for the 2018–2022 FIFA World Cup – Malcolm Turnbull |accessdate=20 November 2009 |work=malcolmturnbull.com.au |archive-url=https://web.archive.org/web/20091004002002/http://malcolmturnbull.com.au/Media/LatestNews/tabid/110/articleType/ArticleView/articleId/503/categoryId/5/Australias-Bid-for-the-20182022-FIFA-World-Cup.aspx |archive-date=4 October 2009 |url-status=dead }} {{webarchive |url=https://web.archive.org/web/20140819094021/http://www.soccerfield24.com/world-cup-2018/ |title=World Cup 2018 stadium|date=19 August 2014 }}</ref>
+
+Rudd met with [[Sepp Blatter]] to discuss the Federal Government's support of the bid in Zurich in July 2009.<ref name="zurich">{{Cite web |url=http://www.goal.com/en/news/808/australia/2009/07/08/1371418/australian-prime-minister-kevin-rudd-meets-sepp-blatter-to |title=Australian Prime Minister Kevin Rudd Meets Sepp Blatter To Discuss World Cup Bid |accessdate=20 November 2009 |work=Goal.com website |archive-date=25 August 2009 |archive-url=https://web.archive.org/web/20090825214909/http://goal.com/en/news/808/australia/2009/07/08/1371418/australian-prime-minister-kevin-rudd-meets-sepp-blatter-to |url-status=live }}</ref>
+
+On 23 December 2009, with concerns over costs and effects of the bid upon other sporting codes, the Federal Government established a task force to take over much of the communication lacking by the bid in Australia. The taskforce will negotiate with governments regarding responsibility for stadium improvements, new facilities and financial guarantees. It will also organise and clarify ground-sharing arrangements with other sports and possible compensation for loss of venues.<ref name="taskforce">{{cite news |url=http://www.theage.com.au/sport/soccer/cup-bid-takeover-conveniently-buried-in-christmas-crush-20091226-lfs3.html |title=Cup bid takeover conveniently buried in Christmas crush |accessdate=27 December 2009|work=The Age | location=Melbourne | first=Dan | last=Silkstone |date=27 December 2009| archiveurl= https://web.archive.org/web/20100130065657/http://www.theage.com.au/sport/soccer/cup-bid-takeover-conveniently-buried-in-christmas-crush-20091226-lfs3.html| archivedate= 30 January 2010 | url-status= live}}</ref>
+
+== Bid website ==
+Australia's bid website was launched 14 June 2009 and contained bid information as well as being a social media platform where users could share content and connect with each other.
+
+At the launch, FFA chairman Frank Lowy AC said the people of Australia were its "secret weapon" to snaring the 2018 or 2022 FIFA World Cup and encouraged the public to join the Association football-themed social networking web site. The public campaign was the first bid for a major event driven almost entirely by social media.<ref name="smdriver">{{Cite web |url=http://www.theaustralian.com.au/news/australians-asked-to-twitter-way-to-world-cup-bid-glory/story-0-1225734957493 |archive-url=https://archive.today/20121231120454/http://www.theaustralian.com.au/news/australians-asked-to-twitter-way-to-world-cup-bid-glory/story-0-1225734957493 |url-status=dead |archive-date=31 December 2012 |title=Australians asked to Twitter way to World Cup bid glory |accessdate=20 November 2009|work=The Australian }}</ref> Actress [[Nicole Kidman]], actor [[Hugh Jackman]], model [[Elle Macpherson]]<ref>{{cite news|url=http://theworldgame.sbs.com.au/australia/news/1008881/Elle-joins-World-Cup-bid|title=Elle joins World Cup bid|publisher=[[Special Broadcasting Service]]|date=17 June 2010|access-date=17 June 2010|archive-date=20 June 2010|archive-url=https://web.archive.org/web/20100620204722/http://theworldgame.sbs.com.au/australia/news/1008881/Elle-joins-World-Cup-bid|url-status=live}}</ref> and sports stars [[Ian Thorpe]] ([[Swimming (sport)|swimming]]), [[Liz Ellis]] ([[netball]]), [[Mark Webber (racing driver)|Mark Webber]] ([[Formula One]]) and [[Steve Waugh]] ([[cricket]])<ref>{{cite news|url=http://au.fourfourtwo.com/news/168707,waugh-backs-oz-cup-bid.aspx|title=Waugh backs Oz Cup bid|date=13 June 2010|publisher=[[FourFourTwo (Australia)]]|access-date=17 June 2010|archive-date=29 September 2012|archive-url=https://web.archive.org/web/20120929021110/http://au.fourfourtwo.com/news/168707,waugh-backs-oz-cup-bid.aspx|url-status=live}}</ref> joined to help promote the bid.
+
+==Official bid partners==
+* [[Qantas]]<ref>[http://www.australiabid.com.au/news-updates_detail.aspx?view=52 Qantas announced as Australia's first Official 2018/2022 FIFA World Cup Bid Partner] {{Webarchive|url=https://web.archive.org/web/20101119213315/http://australiabid.com.au/news-updates_detail.aspx?view=52 |date=19 November 2010 }}. 31 March 2010. Retrieved 23 November 2010.</ref>
+* [[Cisco Systems]]<ref>[http://www.itwire.com/it-industry-news/deals/38833?start=1 Cisco backs Australia's bid for 2018–2022 World Cup] {{Webarchive|url=https://web.archive.org/web/20160304001106/http://www.itwire.com/it-industry-news/deals/38833?start=1 |date=4 March 2016 }}. 6 May 2010. Retrieved 23 November 2010.</ref>
+* [[PwC|PricewaterhouseCoopers]]<ref>[http://www.sportbusiness.com/news/182057/pwc-backs-australia-2022-world-cup-bid PwC backs Australia 2022 World Cup bid] {{Webarchive|url=https://web.archive.org/web/20120913021253/http://www.sportbusiness.com/news/182057/pwc-backs-australia-2022-world-cup-bid |date=13 September 2012 }}. 23 September 2010. Retrieved 23 November 2010.</ref>
+
+==References==
+{{Reflist}}
+
+==External links==
+*[https://web.archive.org/web/20090914195549/http://www.australia2018-2022.com.au/ Official website]
+*[https://web.archive.org/web/20101214044947/http://www.fifa.com/mm/document/tournament/competition/01/33/74/50/b3ause.pdf 2022 FIFA World Cup Bid Evaluation Report: Australia]
+
+{{Bids for the 2018 and 2022 FIFA World Cup}}
+{{FIFA World Cup bids}}
+
+{{DEFAULTSORT:Australian 2022 Fifa World Cup Bid}}
+[[Category:2022 FIFA World Cup bids]]
+[[Category:Football Australia]]
+[[Category:Soccer in Australia]]
+[[Category:2022 in Australian sport]]
+[[Category:2022 in Australian soccer]]

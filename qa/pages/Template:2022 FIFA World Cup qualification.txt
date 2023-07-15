@@ -1,0 +1,52 @@
+{{Navbox
+| name       = 2022 FIFA World Cup qualification
+| title      = [[2022 FIFA World Cup]] [[2022 FIFA World Cup qualification|qualification]]
+|listclass = hlist
+| above = {{align|left| « {{smaller|[[:Template:2018 FIFA World Cup qualification|2018]]}} }} {{align|right|{{smaller|[[:Template:2026 FIFA World Cup qualification|2026]]}} » }}
+|group1 = [[2022 FIFA World Cup qualification (AFC)|AFC]]
+|list1 =
+* [[2022 FIFA World Cup qualification – AFC first round|First round]]
+* [[2022 FIFA World Cup qualification – AFC second round|Second round]]
+* [[2022 FIFA World Cup qualification – AFC third round|Third round]]
+* [[2022 FIFA World Cup qualification – AFC fourth round|Fourth round (play-off)]]
+|group2 = [[2022 FIFA World Cup qualification (CAF)|CAF]]
+|list2 =
+* [[2022 FIFA World Cup qualification – CAF first round|First round]]
+* [[2022 FIFA World Cup qualification – CAF second round|Second round]]
+* [[2022 FIFA World Cup qualification – CAF third round|Third round]]
+|group3 = [[2022 FIFA World Cup qualification (CONCACAF)|CONCACAF]]
+|list3 =
+* [[2022 FIFA World Cup qualification – CONCACAF first round|First round]]
+* [[2022 FIFA World Cup qualification – CONCACAF second round|Second round]]
+* [[2022 FIFA World Cup qualification – CONCACAF third round|Third round]]
+** [[Canada v Mexico (2022 FIFA World Cup qualification)|Canada v Mexico]]
+|group4 = [[2022 FIFA World Cup qualification (CONMEBOL)|CONMEBOL]]
+|list4 =
+* Round robin
+|group5 = [[2022 FIFA World Cup qualification (OFC)|OFC]]
+|list5 =
+* Qualification tournament
+|group6 = [[2022 FIFA World Cup qualification (UEFA)|UEFA]]
+|list6 =
+* First round
+** [[2022 FIFA World Cup qualification – UEFA Group A|Group A]]
+** [[2022 FIFA World Cup qualification – UEFA Group B|Group B]]
+** [[2022 FIFA World Cup qualification – UEFA Group C|Group C]]
+** [[2022 FIFA World Cup qualification – UEFA Group D|Group D]]
+** [[2022 FIFA World Cup qualification – UEFA Group E|Group E]]
+** [[2022 FIFA World Cup qualification – UEFA Group F|Group F]]
+** [[2022 FIFA World Cup qualification – UEFA Group G|Group G]]
+** [[2022 FIFA World Cup qualification – UEFA Group H|Group H]]
+** [[2022 FIFA World Cup qualification – UEFA Group I|Group I]]
+** [[2022 FIFA World Cup qualification – UEFA Group J|Group J]]
+* [[2022 FIFA World Cup qualification – UEFA second round|Second round (play-offs)]]
+** related: [[2020–21 UEFA Nations League|Nations League]]
+|group7 = [[2022 FIFA World Cup qualification (inter-confederation play-offs)|Play-offs]]
+|list7 =
+* [[2022 FIFA World Cup qualification (AFC–CONMEBOL play-off)|AFC v CONMEBOL]]
+* [[2022 FIFA World Cup qualification (CONCACAF–OFC play-off)|CONCACAF v OFC]]
+}}<noinclude>
+
+[[Category:2022 FIFA World Cup qualification templates]]
+[[Category:FIFA World Cup qualification templates]]
+</noinclude>

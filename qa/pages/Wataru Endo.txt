@@ -1,0 +1,301 @@
+{{short description|Japanese footballer (born 1993)}}
+{{Use dmy dates|date=November 2022}}
+{{Infobox football biography
+| name = Wataru Endo
+| image = Wataru endo.jpg
+| caption = Endo with [[VfB Stuttgart]] in 2019
+| fullname = Wataru Endo<ref name="FIFA 2022">{{cite web |url=https://fdp.fifa.org/assetspublic/ce44/pdf/SquadLists-English.pdf |title=FIFA World Cup Qatar 2022 – Squad list: Japan (JPN) |publisher=[[FIFA]] |page=16 |date=15 November 2022 |access-date=15 November 2022}}</ref>
+| birth_date = {{Birth date and age|1993|2|9|df=y}}
+| birth_place = [[Totsuka-ku, Yokohama]], Japan
+| height = 1.78 m<ref>{{cite web |url=https://tournament.fifadata.com/documents/FWC/2018/pdf/FWC_2018_SQUADLISTS.PDF |title=2018 FIFA World Cup Russia – List of Players |website=FIFA.com |publisher=Fédération Internationale de Football Association |date=4 June 2018 |access-date=19 June 2018 |archive-url=https://web.archive.org/web/20180619164139/https://tournament.fifadata.com/documents/FWC/2018/pdf/FWC_2018_SQUADLISTS.PDF |archive-date=19 June 2018 |url-status=dead}}</ref>
+| position = [[Midfielder (association football)#Defensive midfielder|Defensive midfielder]], [[Defender (association football)#Centre-back|centre back]]
+| currentclub = [[VfB Stuttgart]]
+| clubnumber = 3
+| youthyears1 = 2008–2010
+| youthclubs1 = [[Shonan Bellmare]]
+| years1 = 2010–2015
+| clubs1 = [[Shonan Bellmare]]
+| caps1 = 158
+| goals1 = 23
+| years2 = 2016–2018
+| clubs2 = [[Urawa Red Diamonds]]
+| caps2 = 73
+| goals2 = 5
+| years3 = 2018–2020
+| clubs3 = [[Sint-Truidense V.V.|Sint-Truiden]]
+| caps3 = 20
+| goals3 = 2
+| years4 = 2019–2020
+| clubs4 = → [[VfB Stuttgart]] (loan)
+| caps4 = 21
+| goals4 = 1
+| years5 = 2020–
+| clubs5 = [[VfB Stuttgart]]
+| caps5 = 99
+| goals5 = 12
+| nationalyears1 = 2012
+| nationalteam1 = [[Japan national under-20 football team|Japan U19]]
+| nationalcaps1 = 4
+| nationalgoals1 = 0
+| nationalyears2 = 2015–2016
+| nationalteam2 = [[Japan national under-23 football team|Japan U23]]
+| nationalcaps2 = 11
+| nationalgoals2 = 2
+| nationalyears3 = 2021
+| nationalteam3 = [[Japan national under-23 football team|Japan Olympic]] ([[List of overage players in Olympic football|O.P.]])
+| nationalcaps3 = 6
+| nationalgoals3 = 0
+| nationalyears4 = 2015–
+| nationalteam4 = [[Japan national football team|Japan]]<ref>{{Cite web|url=https://www.national-football-teams.com/player/59992/Wataru_Endo.html|title=Wataru Endo}}</ref>
+| nationalcaps4 = 50
+| nationalgoals4 = 2
+| medaltemplates = 
+{{Medal|Country|{{Fb|JPN}}}}
+{{Medal|Competition|[[AFC Asian Cup]]}}
+{{Medal|RU|[[2019 AFC Asian Cup|2019 United Arab Emirates]]|}}
+{{Medal|Competition|[[AFC U-23 Championship]]}}
+{{Medal|G|[[2016 AFC U-23 Championship|2016 Qatar]]|}}
+| club-update = 23:27, 27 May 2023 (UTC)
+| nationalteam-update = 16:44, 20 June 2023 (UTC)
+}}
+{{Nihongo|'''Wataru Endo'''|遠藤 航|Endō Wataru|born 9 February 1993}} is a Japanese professional [[association football|footballer]] who plays as a [[Midfielder (association football)#Defensive midfielder|defensive midfielder]] or a [[Defender (association football)#Centre-back|centre back]]. He is a [[Captain (association football)|captains]] for both [[Bundesliga]] club [[VfB Stuttgart]] and the [[Japan national football team|Japan national team]].
+
+==Club career==
+Endo began his professional career with [[Shonan Bellmare]]. He later played for [[Sint-Truidense V.V.|Sint-Truiden]] until 2019.<ref>[https://int.soccerway.com/players/wataru-endo/124613/ W. Endo at Soccerway.com]</ref>
+
+On 13 August 2019, Endo was loaned out to [[VfB Stuttgart]] until the end of the season.<ref>{{cite web|url=https://www.vfb.de/en/vfb/latest/news/professionals/2019/neuzugang-wataru-endo/|title=Wataru Endo joins VfB|work=vfb.de|publisher=[[VfB Stuttgart]]|date=13 August 2019|access-date=13 August 2019}}</ref> In April 2020, Stuttgart signed Endo permanently.<ref>{{cite web|url=https://www.stvv.com/en/news/first-team/wataru-endo-transfers-to-vfb-stuttgart|title=Wataru Endo Transfers to VfB Stuttgart|work=stvv.com|publisher=[[Sint-Truidense V.V.]]|date=28 April 2020|access-date=1 July 2020}}</ref> On 26 November 2020, Endo extended his contract with VfB Stuttgart until June 2024.<ref>{{cite web|url=https://www.vfb.de/en/vfb/latest/news/professionals/2020/vertragsverlaengerung-wataru-endo/|title=Wataru Endo commits until 2024|work=vfb.de|publisher=[[VfB Stuttgart]]|date=26 November 2020|access-date=26 November 2020}}</ref>
+
+On 25 February 2022, Endo scored Stuttgart's only goal in a 1–2 loss to [[TSG Hoffenheim]].<ref name="Hoffenheim 2-1 Stuttgart: Kicker">{{cite web |title=TSG Hoffenheim - VfB Stuttgart |url=https://www.kicker.de/hoffenheim-gegen-stuttgart-2022-bundesliga-4721707/ticker |website=kicker.de |publisher=kicker.de |access-date=25 February 2022}}</ref> He scored again in the club's 3–2 win over [[Borussia Mönchengladbach]].<ref name="Stuttgart 3-2 Gladbach">{{cite web |title=Der coole Kalajdzic krönt eine famose VfB-Aufholjagd |url=https://www.kicker.de/stuttgart-gegen-gladbach-2022-bundesliga-4721714/spielbericht |website=kicker.de |publisher=kicker.de |access-date=6 March 2022}}</ref> On 14 May 2022, he scored the winning goal in stoppage time in a 2–1 win over [[1. FC Köln]] to save Stuttgart from the relegation playoffs and secure their place in the [[2022–23 Bundesliga]].<ref>{{Cite web |title=Bundesliga {{!}} Wataru Endo's injury-time winner over Cologne seals dramatic salvation for VfB Stuttgart |url=https://www.bundesliga.com/en/bundesliga/news/stuttgart-cologne-live-team-news-match-stats-modeste-marmoush-sosa-kalajdzic-19904 |access-date=15 May 2022 |website=www.bundesliga.com}}</ref>
+
+==International career==
+On 23 July 2015, [[Japan national football team|Japan]]'s coach [[Vahid Halilhodžić]] called Endo up to the squad for the upcoming [[2015 EAFF East Asian Cup]].<ref>{{cite web | url=http://www.jfa.jp/national_team/news/00006836/ | title=EAFF東アジアカップ2015（8/2～9＠中国／武漢） SAMURAI BLUE（日本代表）メンバー・スケジュール | date=23 July 2015 | publisher=JFA | access-date=28 May 2017 }}</ref> He was named in Japan's squad for the [[2018 FIFA World Cup]] in Russia,<ref>{{cite web|title= World Cup 2018: All the confirmed squads for this summer's finals in Russia|url= https://www.bbc.co.uk/sport/football/440833652018}}</ref> although he did not play in any of their matches.
+
+==Career statistics==
+===Club===
+{{updated|match played 5 June 2023}}
+
+{| class="wikitable" style="text-align: center"
+|+Appearances and goals by club, season and competition
+|-
+!rowspan="2"|Club
+!rowspan="2"|Season
+!colspan="3"|League
+!colspan="2"|National cup
+!colspan="2"|League cup
+!colspan="2"|Other
+!colspan="2"|Total
+|-
+!Division!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals
+|-
+|rowspan="7"|[[Shonan Bellmare]]
+|[[2010 J.League Division 1|2010]]
+|[[J.League Division 1]]
+|6||1||0||0||1||0||colspan=2|—||7||1
+|-
+|[[2011 J.League Division 2|2011]]
+|[[J2 League]]
+|34||1||4||0||colspan="2"|—
+|colspan="2"|—||38||1
+|-
+|[[2012 J.League Division 2|2012]]
+|J2 League
+|32||7||1||0||colspan="2"|—
+|colspan="2"|—||33||7
+|-
+|[[2013 J.League Division 1|2013]]
+|[[J1 League]]
+|17||3||1||0||colspan="2"|—
+|colspan="2"|—||18||3
+|-
+|[[2014 J.League Division 2|2014]]
+|J2 League
+|38||7||1||0||colspan="2"|—
+|colspan="2"|—||39||7
+|-
+|[[2015 J1 League|2015]]
+|J1 League
+|31||4||0||0||1||0||colspan="2"|—||32||4
+|-
+!colspan="2"|Total
+!158!!23!!7!!0!!2!!0!!colspan="2"|—!!167!!23
+|-
+|rowspan="4"|[[Urawa Red Diamonds]]
+|[[2016 J1 League|2016]]
+|J1 League
+|29||0||1||0||3||0||6||0||39||0
+|-
+|[[2017 J1 League|2017]]
+|J1 League
+|30||3||1||0||2||0||13||1||46||4
+|-
+|[[2018 J1 League|2018]]
+|J1 League
+|16||2||4||0||4||0||colspan="2"|—||24||2
+|-
+!colspan="2"|Total
+!75!!5!!6!!0!!9!!0!!19!!1!!109!!6
+|-
+|rowspan="3"|[[Sint-Truidense V.V.|Sint-Truiden]]
+|[[2018–19 Belgian First Division A|2018–19]]
+|[[Belgian Pro League]] 
+|26||2||2||0||colspan="2"|—||colspan="2"|—||28||2
+|-
+|[[2019–20 Belgian First Division A|2019–20]]
+|Belgian Pro League
+|3||0||0||0||colspan="2"|—||colspan="2"|—||3||0
+|-
+!colspan="2"|Total
+!29!!2!!2!!0!!colspan="2"|—!!colspan="2"|—!!31!!2
+|-
+|[[VfB Stuttgart]] (loan)
+|[[2019–20 VfB Stuttgart season|2019–20]]
+|[[2. Bundesliga]]
+|21||1||1||0||colspan="2"|—||colspan="2"|—||22||1
+|-
+|rowspan="4"|VfB Stuttgart
+|[[2020–21 VfB Stuttgart season|2020–21]]
+|[[Bundesliga]]
+|33||3||3||0||colspan="2"|—||colspan="2"|—||36||3
+|-
+|[[2021–22 VfB Stuttgart season|2021–22]]
+|Bundesliga
+|33||4||1||0||colspan="2"|—||colspan="2"|—||34||4
+|-
+|[[2022–23 VfB Stuttgart season|2022–23]]
+|Bundesliga
+|33||5||5||1||colspan="2"|—||2||0||40||6
+|-
+!colspan="2"|Total
+!120!!13!!10!!1!!colspan="2"|—!!2!!0!!132!!14
+|-
+!colspan="3"|Career total
+!382!!42!!25!!1!!11!!0!!21!!1!!439!!44
+|}
+
+===International===
+{{updated|match played 20 June 2023.|<ref name="JNFTD">[http://www.jfootball-db.com/players_a/wataru_endo.html Japan National Football Team Database] {{in lang|ja}}</ref>}}
+
+{| class="wikitable" style="text-align:center"
+|+ Appearances and goals by national team and year
+|-
+!National team!!Year!!Apps!!Goals
+|-
+|rowspan="9"|[[Japan national football team|Japan]]
+|[[2015 Japan national football team|2015]]||5||0
+|-
+|[[2016 Japan national football team|2016]]||2||0
+|-
+|[[2017 Japan national football team|2017]]||4||0
+|-
+|[[2018 Japan national football team|2018]]||4||0
+|-
+|2019||7||1
+|-
+|2020||3||0
+|-
+|2021||9||1
+|-
+|2022||13||0
+|-
+|2023||3||0
+|-
+!colspan="2"|Total!!50!!2
+|}
+
+{{updated|match played 20 June 2023.}}<ref name="NFT">{{NFT player|id=59992|access-date=10 October 2019}}</ref>
+:''Scores and results list Japan's goal tally first, score column indicates score after each Endo goal.''
+
+{| class="wikitable sortable"
+|+ List of international goals scored by Wataru Endo
+|-
+!scope="col"|No.
+!scope="col" data-sort-type="date"|Date
+!scope="col"|Venue
+!scope="col"|Cap
+!scope="col"|Opponent
+!scope="col"|Score
+!scope="col"|Result
+!scope="col"|Competition
+|-
+|align="center"|1
+|10 October 2019||[[Saitama Stadium 2002]], [[Saitama (city)|Saitama]], Japan||align="center"|21||{{fb|MNG}}||align="center"|5–0||align="center"|6–0||[[2022 FIFA World Cup qualification – AFC second round|2022 FIFA World Cup qualification]]
+|-
+|align="center"|2
+|25 March 2021||[[Nissan Stadium (Yokohama)|Nissan Stadium]], [[Yokohama]], Japan||align="center"|26||{{fb|KOR}}||align="center"|3–0||align="center"|3–0||[[Exhibition game#Association football|Friendly]]
+|}
+
+==Honours==
+'''Shonan Bellmare'''
+*[[J2 League|J.League Division 2]]: [[2014 J.League Division 2|2014]]
+
+'''Urawa Red Diamonds'''
+*[[J.League Cup]]: [[2016 J.League Cup|2016]]
+*[[Suruga Bank Championship]]: [[2017 Suruga Bank Championship|2017]]
+*[[AFC Champions League]]: [[2017 AFC Champions League|2017]]
+
+'''Japan U23'''
+*[[AFC U-23 Championship]]: [[2016 AFC U-23 Championship|2016]]
+
+'''Japan'''
+*[[AFC Asian Cup]] runner-up: [[2019 AFC Asian Cup|2019]]
+'''Individual'''
+
+* Japan Pro-Footballers Association awards: Best XI (2022)<ref>[[:ja:日本プロサッカー選手会#JPFAアワード|Japan Pro-Footballers Association awards]]</ref>
+
+==References==
+{{Reflist}}
+
+==External links==
+{{Commons category}}
+*{{FIFA player|395318}}
+*{{NFT}}
+*{{J.League player}}
+*[https://www.urawa-reds.co.jp/players/%E9%81%A0%E8%97%A4%E8%88%AA/ Profile at Urawa Reds]
+*{{Soccerway}}
+
+{{VfB Stuttgart squad}}{{JPFA Best XI (DF)}}{{Navboxes
+|title= Japan squads
+|bg= #0000C8
+|fg= white
+|bordercolor= red
+|list1=
+{{Japan men's football squad 2016 Summer Olympics}}
+{{Japan squad 2018 FIFA World Cup}}
+{{Japan squad 2019 AFC Asian Cup}}
+{{Japan men's football squad 2020 Summer Olympics}}
+{{Japan squad 2022 FIFA World Cup}}
+}}
+
+{{DEFAULTSORT:Endo, Wataru}}
+[[Category:1993 births]]
+[[Category:Living people]]
+[[Category:Association football people from Kanagawa Prefecture]]
+[[Category:Japanese men's footballers]]
+[[Category:Men's association football defenders]]
+[[Category:Japan men's international footballers]]
+[[Category:Japan men's youth international footballers]]
+[[Category:J1 League players]]
+[[Category:J2 League players]]
+[[Category:Belgian Pro League players]]
+[[Category:Bundesliga players]]
+[[Category:2. Bundesliga players]]
+[[Category:Shonan Bellmare players]]
+[[Category:Urawa Red Diamonds players]]
+[[Category:Sint-Truidense V.V. players]]
+[[Category:VfB Stuttgart players]]
+[[Category:Footballers at the 2014 Asian Games]]
+[[Category:Footballers at the 2016 Summer Olympics]]
+[[Category:Olympic footballers for Japan]]
+[[Category:2018 FIFA World Cup players]]
+[[Category:2019 AFC Asian Cup players]]
+[[Category:Asian Games competitors for Japan]]
+[[Category:Footballers at the 2020 Summer Olympics]]
+[[Category:Japanese expatriate men's footballers]]
+[[Category:Japanese expatriate sportspeople in Belgium]]
+[[Category:Expatriate men's footballers in Belgium]]
+[[Category:Japanese expatriate sportspeople in Germany]]
+[[Category:Expatriate men's footballers in Germany]]
+[[Category:2022 FIFA World Cup players]]
+
+
+{{Japan-footy-defender-1990s-stub}}

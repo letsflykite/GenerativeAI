@@ -1,0 +1,41 @@
+{{National squad
+ | name        = Belgium squad 2022 FIFA World Cup
+ | bg          = #E20E0E
+ | fg          = #FDDA25
+ | bordercolor = black
+ | country     = Belgium
+ | comp link   = 2022 FIFA World Cup
+ | comp        = 2022 FIFA World Cup
+ | p1          = [[Thibaut Courtois|Courtois]]
+ | p2          = [[Toby Alderweireld|Alderweireld]]
+ | p3          = [[Arthur Theate|Theate]]
+ | p4          = [[Wout Faes|Faes]]
+ | p5          = [[Jan Vertonghen|Vertonghen]]
+ | p6          = [[Axel Witsel|Witsel]]
+ | p7          = [[Kevin De Bruyne|De Bruyne]]
+ | p8          = [[Youri Tielemans|Tielemans]]
+ | p9          = [[Romelu Lukaku|Lukaku]]
+ | p10         = [[Eden Hazard|E. Hazard]]&nbsp;([[Captain (association football)|c]])
+ | p11         = [[Yannick Carrasco|Carrasco]]
+ | p12         = [[Simon Mignolet|Mignolet]]
+ | p13         = [[Koen Casteels|Casteels]]
+ | p14         = [[Dries Mertens|Mertens]]
+ | p15         = [[Thomas Meunier|Meunier]]
+ | p16         = [[Thorgan Hazard|T. Hazard]]
+ | p17         = [[Leandro Trossard|Trossard]]
+ | p18         = [[Amadou Onana|Onana]]
+ | p19         = [[Leander Dendoncker|Dendoncker]]
+ | p20         = [[Hans Vanaken|Vanaken]]
+ | p21         = [[Timothy Castagne|Castagne]]
+ | p22         = [[Charles De Ketelaere|De Ketelaere]]
+ | p23         = [[Michy Batshuayi|Batshuayi]]
+ | p24         = [[Loïs Openda|Openda]]
+ | p25         = [[Jérémy Doku|Doku]]
+ | p26         = [[Zeno Debast|Debast]]
+ | coach       = [[Roberto Martínez|Martínez]]
+}}<noinclude>
+{{Squad maintenance}}
+[[Category:2022 FIFA World Cup squad navigational boxes|Belgium]]
+[[Category:Belgium FIFA World Cup squad navigational boxes|2022]]
+[[Category:Belgium at the 2022 FIFA World Cup|squad]]
+</noinclude>

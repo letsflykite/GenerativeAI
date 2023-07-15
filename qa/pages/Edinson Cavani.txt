@@ -1,0 +1,660 @@
+{{short description|Uruguayan footballer (born 1987)}}
+{{EngvarB|date=May 2021}}
+{{Use dmy dates|date=November 2022}}
+{{family name hatnote|Cavani|Gómez|lang=Spanish}}
+{{Infobox football biography
+| name = Edinson Cavani
+| image = Edinson Cavani 2018 (cropped).jpg
+| caption = Cavani playing for [[Uruguay national football team|Uruguay]] at the [[2018 FIFA World Cup|2018 World Cup]]
+| full_name = Edinson Roberto Cavani Gómez<ref name="full name">{{cite web|url=http://www.sscnapoli.it/client/render.aspx?content=1&root=3459 |publisher=SSC Napoli |title=Edinson Roberto CAVANI GOMEZ |access-date=14 February 2013 |url-status=dead |archive-url=https://web.archive.org/web/20120829012440/http://www.sscnapoli.it/client/render.aspx?content=1&root=3459 |archive-date=29 August 2012 }}</ref>
+| birth_date = {{birth date and age|df=y|1987|2|14}}<ref name="FIFA 2022">{{cite web |url=https://fdp.fifa.org/assetspublic/ce44/pdf/SquadLists-English.pdf |title=FIFA World Cup Qatar 2022™: List of Players: Uruguay |publisher=FIFA |page=30 |date=15 November 2022 |access-date=22 November 2022 |archive-url=https://web.archive.org/web/20221218195301/https://fdp.fifa.org/assetspublic/ce44/pdf/SquadLists-English.pdf |archive-date=18 December 2022 |url-status=live}}</ref>
+| birth_place = [[Salto, Uruguay|Salto]], Uruguay
+| height = 1.84 m<ref>{{cite web |url=https://www.laliga.com/en-GB/player/edinson-cavani |title=Edinson Cavani |publisher=La Liga |access-date=27 June 2023}}</ref>
+| position = [[Striker (association football)|Striker]]
+| currentclub = [[Valencia CF|Valencia]]
+| clubnumber = 7
+| youthyears1 = 2000–2005
+| youthclubs1 = [[Danubio F.C.|Danubio]]
+| years1 = 2005–2007
+| clubs1 = [[Danubio F.C.|Danubio]]
+| caps1 = 25
+| goals1 = 9
+| years2 = 2007–2011
+| clubs2 = [[Palermo F.C.|Palermo]]
+| caps2 = 109
+| goals2 = 34
+| years3 = 2010–2011
+| clubs3 = → [[S.S.C. Napoli|Napoli]] (loan)
+| caps3 = 35
+| goals3 = 26
+| years4 = 2011–2013
+| clubs4 = [[S.S.C. Napoli|Napoli]]
+| caps4 = 69
+| goals4 = 52
+| years5 = 2013–2020
+| clubs5 = [[Paris Saint-Germain F.C.|Paris Saint-Germain]]
+| caps5 = 200
+| goals5 = 138
+| years6 = 2020–2022
+| clubs6 = [[Manchester United F.C.|Manchester United]]
+| caps6 = 41
+| goals6 = 12
+| years7 = 2022–
+| clubs7 = [[Valencia CF|Valencia]]
+| caps7 = 25
+| goals7 = 5
+| nationalyears1 = 2006–2007
+| nationalteam1 = [[Uruguay national under-20 football team|Uruguay U20]]
+| nationalcaps1 = 15
+| nationalgoals1 = 11
+| nationalyears2 = 2012
+| nationalteam2 = [[Uruguay national under-23 football team|Uruguay Olympic]] ([[List of overage players in Olympic football|O.P.]])
+| nationalcaps2 = 5
+| nationalgoals2 = 3
+| nationalyears3 = 2008–
+| nationalteam3 = [[Uruguay national football team|Uruguay]]
+| nationalcaps3 = 136
+| nationalgoals3 = 58
+| medaltemplates = {{MedalSport|Men's [[Association football|football]]}}
+{{MedalCountry|{{fb|URU}}}}
+{{MedalCompetition|[[Copa América]]}}
+{{Medal|Winner|[[2011 Copa América|2011 Argentina]]|}}
+| club-update = 23:30, 28 May 2023 (UTC)
+| nationalteam-update = 17:03, 2 December 2022 (UTC)
+}}
+
+'''Edinson Roberto Cavani Gómez''' ({{IPA-es|ˈeðinsoŋ kaˈβani}}; born 14 February 1987) is a Uruguayan professional [[Association football|footballer]] who plays as a striker for Spanish [[La Liga]] club [[Valencia CF|Valencia]] and the [[Uruguay national football team|Uruguay national team]]. He is nicknamed ''El Matador'' ("The Killer") or ''Cazador'' ("Hunter") for his clinical finishing as well as his celebration, in which he makes a gesture resembling a [[bow and arrow]] . Cavani is widely considered one of the greatest strikers of his generation and one of Uruguay's best players.
+
+Cavani began his career playing for [[Danubio F.C.|Danubio]] in Montevideo, where he played for two years, before moving to Italian side [[Palermo F.C.|Palermo]] in 2007. In 2010, Cavani signed for [[S.S.C. Napoli|Napoli]], who signed him on an initial loan deal before buying him for a total fee of €17 million. He helped them win the [[2011–12 Coppa Italia|Coppa Italia]] in 2012 and established himself as the most dominant striker in [[Serie A]].<ref>{{cite web |last=O'Brien |first=Colin |title=Napoli's Edinson Cavani: Serie A's Most Wanted Striker |url=https://bleacherreport.com/articles/1591104-napolis-edinson-cavani-serie-as-most-wanted-striker |access-date=31 May 2022 |website=Bleacher Report}}</ref> In mid-2013, Cavani joined [[Paris Saint-Germain F.C.|Paris Saint-Germain]] in France for a reported €64 million, at the time the most expensive signing in French football history.<ref>{{cite news |title=Ligue 1 - Cavani completes blockbuster £55.4m move to PSG - Yahoo! Eurosport UK |url=http://uk.eurosport.yahoo.com/news/serie-cavani-completes-blockbuster-move-psg-161808142.html |url-status=dead |access-date=16 July 2013 |archive-url=https://web.archive.org/web/20130719080138/http://uk.eurosport.yahoo.com/news/serie-cavani-completes-blockbuster-move-psg-161808142.html |archive-date=19 July 2013}}></ref> With PSG, Cavani won six [[List of French football champions|Ligue 1 titles]], five [[Coupe de la Ligue|Coupes de la Ligue]] and four [[Coupe de France|Coupes de France]].<ref>{{cite news|url=http://www.ligue1.com/joueur/cavani-edinson-roberto|title=Edinson CAVANI|access-date=31 May 2015|work=Ligue 1}}</ref> He also ranks as the [[List of Paris Saint-Germain F.C. records and statistics#All-time top scorers|club's second all-time top goalscorer]].<ref name="auto">{{Cite news|url=http://www.espn.co.uk/football/french-ligue-1/story/3127050/edinson-cavani-and-kylian-mbappe-scoop-up-top-ligue-1-awards|title=Cavani and Mbappe win top Ligue 1 awards|publisher=ESPN|access-date=16 May 2017}}</ref> In 2020, Cavani signed with [[Manchester United F.C.|Manchester United]], scoring 17 goals in his first season, including a goal in the [[2021 UEFA Europa League final|UEFA Europa League final]], before signing for Valencia in 2022.
+
+Cavani scored on his [[Uruguay national football team|Uruguay]] debut against [[Colombia national football team|Colombia]] in 2008, and has since then earned 136 caps and scored 58 international goals, only behind strike partner [[Luis Suárez]] among Uruguayan internationals. He has participated in ten major international tournaments: four [[FIFA World Cup]]s ([[2010 FIFA World Cup|2010]], [[2014 FIFA World Cup|2014]], [[2018 FIFA World Cup|2018]] and [[2022 FIFA World Cup|2022]]), five [[Copa América|Copas América]] ([[2011 Copa América|2011]], [[2015 Copa América|2015]], [[Copa América Centenario|2016]], [[2019 Copa América|2019]] and [[2021 Copa América|2021]]), and one [[FIFA Confederations Cup]] ([[2013 FIFA Confederations Cup|2013]]). Cavani scored at the 2010 World Cup to help Uruguay to fourth place in the tournament, and in 2011 was part of the Uruguay squad that won a record fifteenth Copa América title. He finished as the [[2018 FIFA World Cup qualification (CONMEBOL)|CONMEBOL 2018 World Cup qualification]] top scorer with ten goals.
+
+During his time in Serie A, Cavani was named in the [[Serie A Team of the Year]] three times and was [[Capocannoniere|Serie A top scorer]] in the [[2012–13 Serie A|2012–13 season]]. During his time in [[Ligue 1]], he was named in the [[National Union of Professional Footballers|UNFP]] [[Trophées UNFP du football|Ligue 1 Team of the Year]] three times, was awarded [[Ligue 1 Player of the Year]] for the [[2016–17 Ligue 1|2016–17 season]], and was the league's [[List of Ligue 1 top scorers|top scorer]] in the 2016–17 and [[2017–18 Ligue 1|2017–18]] seasons. He was awarded the [[Golden Foot]] in 2018 for his achievements in football.
+
+==Club career==
+===Palermo===
+{{quote box |width=27% |align=right |quote=To this day. Batistuta wasn't a typical striker. A powerful footballer who was incredibly effective in front of goal. I always tried to copy him.|source=—Cavani on his idol growing up, [[Gabriel Batistuta]].<ref name="copy Batistuta">{{cite news |title=Cavani: I always tried to copy Batistuta |url=https://www.fifa.com/worldcup/news/cavani-i-always-tried-to-copy-batistuta-2892104 |access-date=10 September 2018 |agency=FIFA.com}}</ref>}}
+
+After his breakthrough at the 2007 South American Youth Championship, several big teams were reportedly interested in signing Cavani, including [[Juventus F.C.|Juventus]] and [[A.C. Milan|Milan]].<ref>{{cite web|url=http://www.calciomercato.biz/news/news425276.html |language=it |website=Calciomercato.biz |title=Cavani, il Palermo sorpassa tutti |access-date=30 January 2007 |url-status=dead |archive-url=https://web.archive.org/web/20070315213722/http://www.calciomercato.biz/news/news425276.html |archive-date=15 March 2007 }}</ref> On 29 January 2007, however, [[U.S. Città di Palermo|Palermo]] chairman [[Maurizio Zamparini]] announced the signing of the promising Uruguayan.<ref>{{cite web |url=http://sport.repubblica.it/news/sport/calcio-ippolito-domani-cavani-al-palermo/2013017|language=it|work=[[La Repubblica]] |title=Calcio, Palermo; D'Ippolito: Domani Cavani al Palermo|access-date=29 January 2007}}</ref> The bid was officially confirmed on 31 January<ref>{{cite web |url=http://www.gazzetta.it/Calcio/Squadre/Palermo/Primo_Piano/2007/01_Gennaio/31/CAVANI.shtml |language=it|work=[[Gazzetta dello Sport]] |title=Palermo, arriva il gioiello Cavani|access-date=31 January 2007}}</ref> for €4.475&nbsp;million.<ref>US Città di Palermo Report and Accounts on 30 June 2007 {{in lang|it}}</ref> Cavani made his debut on 11 March 2007 in a home league match against [[ACF Fiorentina|Fiorentina]],<ref>{{cite web|title=Tactical Formation|work=Football-Lineups.com|url=http://www.football-lineups.com/games/?game=5061|access-date=14 March 2007|archive-date=11 October 2007|archive-url=https://web.archive.org/web/20071011110210/http://www.football-lineups.com/games/?game=5061|url-status=dead}}</ref> coming on in the 55th minute with his team 1–0 down and scoring an impressive equaliser only 15 minutes later, a goal reminiscent of [[Marco van Basten]]'s strike in the [[1988 UEFA European Football Championship]] final.<ref name="cbcsports">{{cite news|url=http://www.cbc.ca/sports/fifau20/newsmakers/cavani.html|publisher=[[CBC Sports]]|title=Edison Cavani: South America's best-kept secret|access-date=5 September 2007}}</ref> In his second season with the ''Rosanero'', Cavani found himself fighting for a first team place with [[Fabrizio Miccoli]] and [[Amauri]].
+
+After Amauri's departure to Juventus in June 2008, Cavani cemented his place in the starting line-up, forming a striking partnership with Fabrizio Miccoli and scoring a total 14 goals in the [[2008–09 Serie A|2008–09 season]], earning the nickname "''El Matador''" due to his composure in front of goal.<ref name="nickname">{{cite news|last1=Norrito|first1=Massimo|title=Cavani lancia la sfida a Pato|url=http://ricerca.repubblica.it/repubblica/archivio/repubblica/2008/02/24/cavani-lancia-la-sfida-pato.html|newspaper=La Repubblica|access-date=4 March 2015|language=it |trans-title=Cavani challenges Pato|date=28 February 2008}}</ref> He retained his place for the [[2009–10 Serie A|2009–10 season]] under new boss [[Walter Zenga]], and also under successor [[Delio Rossi]], being instrumental in the team's successful run in [[Serie A]] which took Palermo to European qualification and potential qualification to the [[UEFA Champions League]] with two games remaining. In April 2010, he signed a new contract with Palermo valid to June 2014.<ref>{{cite news|url=http://www.mediagol.it/articolo.asp?idNotizia=176625 |publisher=Mediagol.it |access-date=5 May 2010 |date=29 April 2010 |title=Ag.Cavani: "Contratto? C´è stato adeguamento |language=it |url-status=dead |archive-url=https://web.archive.org/web/20100503091703/http://www.mediagol.it/articolo.asp?idNotizia=176625 |archive-date=3 May 2010 }}</ref>
+
+===Napoli===
+====2010–11: move to Europe====
+In July 2010, Cavani signed for [[S.S.C. Napoli|Napoli]]. The transfer, however, was a loan of €5&nbsp;million plus an option/obligation to buy outright for €12&nbsp;million,<ref>SSC Napoli Report and Accounts on 30 June 2011 {{in lang|it}}</ref><ref>US Città di Palermo Report and Accounts on 30 June 2010 {{in lang|it}}, [http://www.registroimprese.it/ Require purchase in CCIAA]</ref> which made the total fee €17&nbsp;million.<ref>{{cite news|url=http://www.palermocalcio.it/it/1112/news/scheda.jsp?id=23025|title=ZAMPARINI: LETTERA APERTA AI TIFOSI ROSANERO|date=2 March 2011|access-date=24 March 2012|publisher=US Città di Palermo|language=it|archive-url=https://web.archive.org/web/20130615080901/http://palermocalcio.it/it/1112/news/scheda.jsp?id=23025|archive-date=15 June 2013|url-status=dead}}</ref> After debuting for Napoli as a substitute in the previous game, Cavani scored twice in his first start, as Napoli beat [[IF Elfsborg|Elfsborg]] in the [[2010–11 UEFA Europa League|UEFA Europa League]] 2–0 and qualified for the main tournament. He then started his Serie A tenure with Napoli scoring a controversial goal against Fiorentina after just seven minutes, with replays showing the ball landing on the line. Cavani also scored on his home debut against [[A.S. Bari|Bari]] before adding a late winner against [[U.C. Sampdoria|Sampdoria]], meaning he had scored in his first four competitive matches with Napoli.
+
+On 26 September, Cavani came on as a late replacement with 30 minutes left in a game against [[A.C. Cesena|Cesena]] which Napoli was losing 1–0. After assisting the equalising goal, he went on to score two more, with the scoreline finishing at 4–1. That meant Cavani shared the lead as top scorer in the league alongside [[Inter Milan|Internazionale]]'s [[Samuel Eto'o]].<ref>{{cite web|url=http://soccernet.espn.go.com/report?id=304837&cc=5739&league=ITA.1|archive-url=https://archive.today/20120717015020/http://soccernet.espn.go.com/report?id=304837&cc=5739&league=ITA.1|url-status=dead|archive-date=17 July 2012|title=Cavani completes comeback|date=26 September 2010|work=ESPN Soccernet|access-date=30 September 2010}}</ref> Cavani's partnership with fellow forwards [[Ezequiel Lavezzi]] and [[Marek Hamšík]] led the Italian sporting media to dub them "The Three Tenors" after the famous [[The Three Tenors|singing group]] of the same name. On 15 December, Cavani netted a 92nd-minute goal against [[FC Steaua București|Steaua București]] to help his team to a 1–0 win and progress beyond the group stage of the [[UEFA Europa League|Europa League]]. In the first match, which was held on Romanian soil, he had scored an equalising goal in the 97th minute. On 9 January 2011, Cavani scored a hat-trick during a 3–0 win over [[Juventus F.C.|Juventus]], the third goal coming by way of a diving header.<ref>{{cite web|url=https://www.theguardian.com/football/blog/2011/jan/10/edison-cavani-napoli-serie-a|title=Frantic Sunday sees Edinson Cavani fire again to flatten Juventus|date=10 January 2011|work=The Guardian|access-date=19 August 2020}}</ref> On 30 January, Cavani scored another hat-trick, this time in a 4–0 win over Sampdoria.<ref>[https://archive.today/20120718114715/http://soccernet.espn.go.com/gamecast/_/id/304664?cc=5901 Gamecast: Napoli v Sampdoria – Italian Serie A – ESPN Soccernet]. ESPN.go.com (30 January 2011). Retrieved 30 January 2012.</ref> Cavani continued his fine form scoring a brace against [[A.S. Roma|Roma]], with Napoli winning 2–0.
+
+On 20 March, Cavani scored another brace against [[Cagliari Calcio|Cagliari]] in a 2–1 win. This win kept them within three points of leaders Milan with eight games left. On 3 April, Cavani scored yet another hat-trick in a 4–3 comeback win over [[S.S. Lazio|Lazio]], having been 2–0 and 3–2 down during the game. He also became the highest league goalscorer in a single season in Napoli's history, netting 25 goals in Serie A.<ref>[http://soccernet.espn.go.com/report?id=304704&cc=5901 Report: Napoli v Lazio – Italian Serie A – ESPN Soccernet]. ESPN.go.com (3 April 2011). Retrieved 30 January 2012.</ref> On 8 May, in a 2–1 away loss against [[U.S. Lecce|Lecce]], he received a red card for two bookable offences. He sarcastically applauded the referee after the decision and was handed a two-match ban for the action.<ref>{{cite web|url=http://www.goal.com/en-gb/news/3276/serie-a/2011/05/17/2491254/edinson-cavanis-three-game-ban-reduced-following-napoli |title=Edinson Cavani's three-game ban reduced following Napoli appeal |website=Goal |publisher=DAZN Group |location=Leeds |date=17 May 2011 |access-date=30 January 2012}}</ref> As Napoli only had two more games of the season, it meant that his season was over and that he would not be able to regain his top position in the Serie A scoring charts, as [[Antonio Di Natale]] had surpassed him with 26 goals. Cavani signed a new five-year contract on 19 May, keeping him at Napoli until 2016.<ref>{{cite news|url=http://www.sscnapoli.it/client/render.aspx?root=707&fwd=4073&content=0|title=De Laurentiis: Con Cavani fino al 2016|trans-title=De Laurentiis: With Cavani until 2016|date=19 May 2011|access-date=19 May 2011|work=SSC Napoli|language=it}}</ref>
+
+====2011–12: Coppa Italia win====
+On 14 September, Cavani scored the opener in Napoli's first game of their [[2011–12 UEFA Champions League|Champions League campaign]], a 1–1 away draw at [[Manchester City F.C.|Manchester City]].<ref>{{cite web |url=http://www.goal.com/en/match/65906/man-city-vs-napoli/report |title=Manchester City vs Napoli – report |website=Goal |publisher=DAZN Group |location=Leeds |date=14 September 2011 |access-date=30 January 2012 |archive-date=8 March 2014 |archive-url=https://web.archive.org/web/20140308113150/http://www.goal.com/en/match/65906/man-city-vs-napoli/report |url-status=dead }}</ref> Four days later, on 18 September, he scored a hat-trick against Milan in Napoli's 3–1 home win.<ref>{{cite web |url=http://www.goal.com/en/match/63870/napoli-vs-ac-milan/report |title=Napoli vs AC Milan – report |website=Goal |publisher=DAZN Group |location=Leeds |date=18 September 2011 |access-date=30 January 2012 |archive-date=8 March 2014 |archive-url=https://web.archive.org/web/20140308113147/http://www.goal.com/en/match/63870/napoli-vs-ac-milan/report |url-status=dead }}</ref><ref>[https://archive.today/20120717230931/http://soccernet.espn.go.com/report/_/id/327175?cc=5901 Report: Napoli v AC Milan – Italian Serie A]. ESPN Soccernet (18 September 2011). Retrieved 30 January 2012.</ref> On 22 November, Cavani scored both goals in the match winning brace 2–1 at home against Manchester City in the Champions League, leaving Napoli in pole position to follow [[FC Bayern Munich|Bayern Munich]] into the knockout stage.<ref>Hughes, Rob. [https://www.nytimes.com/2011/11/24/sports/soccer/24iht-soccer24.html?_r=1&ref=global-home Manchester City Pays for Overlooking Its Opponent]. ''[[The New York Times]]'', 23 November 2011. Retrieved 23 November 2011.</ref> On 26 November, Cavani scored a 94th-minute equaliser against [[Atalanta B.C.|Atalanta]] after Napoli went a goal down in the 64th minute through on-loan Napoli striker [[Germán Denis]]. On 21 December, Cavani netted a brace in Napoli's 6–1 thrashing of [[Genoa C.F.C.|Genoa]], helping the ''Azzurri'' finish 2011 strong and end the first half of the season in sixth place.<ref>{{cite web |url=http://www.goal.com/en-gb/match/63849/napoli-vs-genoa/report |title=Napoli 6–1 Genoa: Cavani at the double |website=Goal |publisher=DAZN Group |location=Leeds |date=21 December 2011 |access-date=30 January 2012 |archive-date=8 March 2014 |archive-url=https://web.archive.org/web/20140308113153/http://www.goal.com/en-gb/match/63849/napoli-vs-genoa/report |url-status=dead }}</ref>
+
+On 17 February 2012, Cavani scored two goals against Fiorentina, helping Napoli go in fifth place ahead of Internazionale.<ref>[http://www.sportinglife.com/football/overseas/italy/news/story_get.cgi?STORY_NAME=soccer/12/02/17/SOCCER_Fiorentina_Nightlead.html&BID=253 Fiorentina 0–3 Napoli: Cavani Double Sinks Fiorentina]{{Dead link|date=December 2021 |bot=InternetArchiveBot |fix-attempted=yes }}. Sportinglife.com (17 February 2012). Retrieved 18 February 2012.</ref> On 21 February, Cavani scored the second goal against [[Chelsea F.C.|Chelsea]] in the Champions League round of 16 first leg in [[Naples]]. He also provided the assists for both of Ezequiel Lavezzi's goals that game. Napoli subsequently went on to win this game 3–1.<ref>{{cite web |url=http://www.goal.com/en/match/71878/ssc-napoli-vs-chelsea-fc/report |title=Napoli 3–1 Chelsea |website=Goal |publisher=DAZN Group |location=Leeds |date=21 February 2012 |access-date=1 March 2012 |archive-date=8 March 2014 |archive-url=https://web.archive.org/web/20140308113133/http://www.goal.com/en/match/71878/ssc-napoli-vs-chelsea-fc/report |url-status=dead }}</ref> Following Napoli's exit from the Champions League at the hands of Chelsea, Cavani scored two goals against [[Udinese Calcio|Udinese]] in the last ten minutes to earn a much-needed draw to keep Napoli in the hunt for the last Champions League qualifying spot. A few days later, he converted a fantastic counter-attack against [[S.S. Robur Siena|Siena]] to book Napoli a place in the [[2012 Coppa Italia Final|Coppa Italia final]]. On 21 April, he celebrated his 200th career league appearance by scoring in a 2–0 win against [[Novara Calcio|Novara]].<ref>[http://uk.eurosport.yahoo.com/21042012/58/serie-napoli-ease-past-novara-fifth.html "Napoli ease past Novara to go fifth"] Yahoo!Eurosport. 21 April 2012. Retrieved 22 April 2012.</ref> Cavani finished the league season with 23 goals,<ref>{{cite web|url=http://soccernet.espn.go.com/news/story/_/id/1072271/napoli's-edinson-cavani-voices-olympic-ambition?cc=5901 |title=Napoli's Edinson Cavani voices Olympic ambition – ESPNFC |publisher=ESPN Soccernet |date=17 May 2012 }}</ref> tied for third on the goal scoring charts with Udinese striker Antonio Di Natale.<ref>{{cite news|url=http://www.gazzetta.it/speciali/risultati_classifiche/2012/calcio/seriea/classifiche.shtml |title=Serie A 2011/2012 |newspaper=La Gazzetta dello Sport |url-status=dead |archive-url=https://web.archive.org/web/20120613221035/http://www.gazzetta.it/speciali/risultati_classifiche/2012/calcio/seriea/classifiche.shtml |archive-date=13 June 2012}}</ref> On 20 May, Cavani scored a penalty against Juventus in the 2012 Coppa Italia final at the [[Stadio Olimpico]], Rome, which Napoli won 2–0.<ref>{{cite web|url=http://www1.skysports.com/football/news/11854/7768322/Cup-glory-for-Napoli |title=Cup glory for Napoli |date=20 May 2012 |access-date=11 January 2013 |website=SkySports}}</ref> Cavani finished the tournament as the top goalscorer, with five goals.<ref>{{cite web|title=Juventus 0 vs 2 Napoli |url=http://www.goal.com/en-gb/match/78417/juventus-vs-napoli/report |website=Goal |first=Vasil |last=Kotsev |publisher=DAZN Group |location=Leeds |date=20 May 2012 |access-date=21 May 2012 |url-status=dead |archive-url=https://web.archive.org/web/20120522225128/http://www.goal.com/en-gb/match/78417/juventus-vs-napoli/report |archive-date=22 May 2012}}</ref>
+
+====2012–13: Serie A top scorer====
+[[File:Edinson Cavani (vs. AIK in 2012, cropped).jpg|thumb|Cavani playing against [[AIK Fotboll|AIK]] in the Europa League in 2012|left]]
+
+Cavani's first goal of the [[2012–13 Serie A|Serie A]] season came on 26 August, netting the final goal of Napoli's 3–0 defeat of former club Palermo.<ref>{{cite web |url=http://www.goal.com/en-us/match/88043/palermo-vs-napoli/lineup-stats |title=Palermo 0 vs 3 Napoli |website=Goal |publisher=DAZN Group |location=Leeds |date=26 August 2012 |access-date=9 November 2012 |archive-date=8 March 2014 |archive-url=https://web.archive.org/web/20140308113139/http://www.goal.com/en-us/match/88043/palermo-vs-napoli/lineup-stats |url-status=dead }}</ref> A month later, on 26 September, Cavani scored a mesmerising hat-trick against Lazio to maintain Napoli's undefeated start to the Serie A season in a 3–0 win.<ref>{{cite web |url=http://soccernet.espn.go.com/report?id=352043&cc=5901 |archive-url=https://archive.today/20130103103508/http://soccernet.espn.go.com/report?id=352043&cc=5901 |url-status=dead |archive-date=3 January 2013 |title=Napoli 3–0 Lazio |publisher=ESPNFC |date=26 September 2012 }}</ref>
+
+On 8 November, Cavani scored all four goals, including a half-volley from outside the box and a tremendous free kick, as Napoli came back from 2–1 down to defeat [[FC Dnipro Dnipropetrovsk|Dnipro Dnipropetrovsk]] 4–2 in the group stage of the [[2012–13 UEFA Europa League|Europa League]].<ref>{{cite web|url=http://www.uefa.com/uefaeuropaleague/season=2013/matches/round=2000356/match=2009974/postmatch/quotes/ |title=Cavani the daddy with four goals for Napoli |publisher=UEFA |date=8 November 2012}}</ref> Cavani scored a late penalty in the 94th minute to secure a 2–1 victory over Swedish side [[AIK Fotboll|AIK]] on 22 November, sending Napoli through to the next round of the Europa League.<ref>{{cite web|url=http://espnfc.com/us/en/report/355845/report.html?soccernet=true&cc=5901 |title=Last-gasp Cavani sends Napoli through |publisher=ESPNFC |date=22 November 2012}}</ref> Cavani was the last player ever to score on the [[Råsunda Stadium]] which was the stadium that hosted the [[1958 FIFA World Cup]] final.<ref>{{cite web|url=https://www.svt.se/sport/artikel/cavani-blev-siste-malskytt-pa-rasunda |title=Edison Cavani blev siste målskytt på Råsunda |publisher=SVT |date=22 November 2012}}</ref> On 6 January 2013, Cavani netted a perfect hat-trick as Napoli thumped Roma 4–1, gaining ground in the race for the league title as champions Juventus fell to a shock win.<ref>{{cite web|url=http://espnfc.com/uk/en/report/351904/report.html?soccernet=true&cc=5739 |title=Napoli 4–1 AS Roma |publisher=ESPNFC |date=6 January 2013 }}</ref> Cavani finished the season as leading Serie A goalscorer, with 29 goals, six ahead of Udinese striker Antonio Di Natale in second.<ref>{{cite web|url=https://www.thescore.com/seri/stats|archive-url=https://archive.today/20130411230119/http://www.thescore.com/seri/stats|url-status=dead|archive-date=11 April 2013|title=Player Statistics – SERI|publisher=theScore|date=25 February 2013}}</ref>
+
+Towards the end of the season, reports emerged that Cavani would leave Napoli, with Chelsea, Manchester City, [[Paris Saint-Germain F.C.|Paris Saint-Germain]] and [[Real Madrid C.F.|Real Madrid]] all believed to be interested.<ref>{{cite web|url=http://www.sportsmole.co.uk/football/napoli/transfer-talk/news/cavani-decision-imminent_84965.html|title=Napoli's Edinson Cavani decision imminent?|publisher=Sports Mole|date=18 May 2013}}</ref> On 27 May 2013, however, he told that he was not thinking of moving, saying, "Real Madrid, Chelsea and [Manchester] City are interested in me? I just think about Napoli." Nonetheless, he continued, "If an important offer were to come in, I will talk with president [Aurelio] De Laurentiis". He then paid tribute to his time in Italy, saying, "I'm fine in Italy, I have grown as a man there and as a player with the Serie A experience".<ref>{{cite web|url=http://www1.skysports.com/football/news/12691/8738427/Napoli-striker-Edinson-Cavani-plays-down-talk-of-a-move-away-from-the-club |title=Cavani plays down talk of a move away from Napoli|publisher=sky Sports|date=27 May 2013 }}</ref> Cavani was asked about the interest Chelsea and Manchester City took in him, saying, "I don't know if they made an offer for me, I just know that to be coached by someone like [Man City manager] [[Manuel Pellegrini]] or [Chelsea manager] [[José Mourinho]] would always be a pleasure".<ref>{{cite web|url=http://www1.skysports.com/football/news/11668/8769020/Transfer-news-Edinson-Cavani-open-to-playing-for-Chelsea-boss-Jose-Mourinho |title=Cavani open to playing for Chelsea boss Jose Mourinho|publisher=sky Sports|date=10 June 2013 }}</ref> On 23 June, Napoli club president [[Aurelio De Laurentiis]] revealed that Cavani's reported £53&nbsp;million "buyout clause expires" on 10 August 2013.<ref>{{Cite web|url=http://www.standard.co.uk/sport/football/edinson-cavani-says-hes-not-worth-53m-as-chelsea-step-up-bid-8672588.html|title=Edinson Cavani says he's not worth £53m as Chelsea step up bid|date=25 June 2013|website=Evening Standard}}</ref>
+
+=== Paris Saint-Germain ===
+[[File:Edinson_Cavani,_PSG.JPG|thumb|Cavani with PSG in 2014|alt=|246x246px]]
+
+On 16 July 2013, Cavani joined French champions Paris Saint-Germain on a five-year contract,<ref>{{cite news|url=http://www.psg.fr/en/News/003001/Article/62850/Edinson-Cavani-signs-5-year-deal-with-Paris-Saint-Germain|title=Edinson Cavani signs 5 year deal with Paris Saint-Germain|date=16 July 2013|access-date=16 July 2013|publisher=Paris Saint-Germain F.C.|archive-date=19 July 2013|archive-url=https://web.archive.org/web/20130719034959/http://www.psg.fr/en/News/003001/Article/62850/Edinson-Cavani-signs-5-year-deal-with-Paris-Saint-Germain|url-status=dead}}</ref> for a fee believed to be around €64&nbsp;million,<ref>{{cite web|url=http://www.goal.com/en/news/11/transfer-zone/2013/07/16/4114477/breaking-news-paris-saint-germain-seal-cavani-signing?ICID=HP_BN_1 |title=Paris Saint-Germain seal Cavani signing |website=Goal |publisher=DAZN Group |location=Leeds |date=16 July 2013 |access-date=16 July 2013}}</ref> making it the sixth [[List of most expensive association football transfers|largest transfer in history]], at the time. The reported sum made Cavani the record signing in French football, breaking [[Radamel Falcao]]'s €60&nbsp;million move to [[AS Monaco FC|Monaco]] earlier in the summer, and saw him link up with former Napoli teammate Ezequiel Lavezzi in Paris.<ref>{{cite web|url=https://www.fifa.com/worldfootball/clubfootball/news/newsid=2137104.html |archive-url=https://web.archive.org/web/20130719043154/http://www.fifa.com/worldfootball/clubfootball/news/newsid=2137104.html |url-status=dead |archive-date=19 July 2013 |title=Cavani joins PSG in record French transfer |publisher=FIFA |date=16 July 2013 |access-date=16 July 2013 }}</ref>
+
+====2013–14: debut season====
+Cavani debuted for PSG on 9 August, coming on as a 72nd-minute substitute for Lavezzi in a league match against [[Montpellier HSC|Montpellier]].<ref>{{cite web|url=http://espnfc.com/us/en/report/369581/report.html?soccernet=true&cc=5901 |title=Cavani debuts as PSG held |publisher=ESPN |date=8 August 2013 |access-date=18 August 2013 }}</ref> He started the following game on 18 August and scored his first goal for the club, a late equaliser against [[AC Ajaccio|Ajaccio]].<ref>{{cite web|url=http://espnfc.com/us/en/report/369562/report.html?soccernet=true&cc=5901 |title=Cavani nets late leveller |publisher=ESPN |date=18 August 2013 |access-date=18 August 2013 }}</ref>
+
+Cavani scored his first Champions League goal for the club in their European season opener against [[Olympiacos F.C.|Olympiacos]] on 17 September.<ref name=uefa>{{cite news|url=http://www.uefa.com/uefachampionsleague/season=2014/clubs/player=1905813/index.html|title=Edinson Cavani|access-date=20 April 2014|publisher=UEFA}}</ref> He ended the [[2013–14 UEFA Champions League group stage|group stage]] with four goals from five matches as PSG qualified with a 100% win record.<ref name=uefa/>
+
+On 22 January 2014, Cavani scored his 20th goal of the season in PSG's 2–1 [[2013–14 Coupe de France|Coupe de France]] defeat at home to Montpellier.<ref>{{cite news|url=http://sportsillustrated.cnn.com/soccer/news/20140122/paris-st-germain-montpellier-french-cup.ap/|title=PSG falls to Montpellier, crashes out of French Cup|date=22 January 2014|access-date=20 April 2014|work=Sports Illustrated}}</ref> On 2 March, after missing a month of the season with a thigh injury, Cavani scored on his return to the team in a 2–0 win over ''[[Le Classique]]'' rivals [[Olympique de Marseille|Marseille]] at the [[Parc des Princes]].<ref>{{cite news|url=https://www.bbc.co.uk/sport/0/football/26411416|title=Paris St-Germain|date=2 March 2014|access-date=20 April 2014|publisher=BBC}}</ref>
+
+On 19 April, he scored both goals for PSG as they beat [[Olympique Lyonnais|Lyon]] 2–1 in the [[2014 Coupe de la Ligue Final]].<ref>{{cite news|title=Paris St-Germain beat Lyon in French League Cup final|url=https://www.bbc.co.uk/sport/0/football/27091829|work=BBC Sport}}</ref> He finished his first season with 25 goals in 43 games across all competitions, including 16 in 30 league games.
+
+====2014–16: back-to-back domestic quadruples====
+[[File:PSG-Shakhter15 (8).jpg|thumb|upright|Cavani playing for PSG in the [[UEFA Champions League]] in October 2015|alt=|206x206px]]
+
+Cavani scored a penalty to secure a 3–1 win at [[RC Lens|Lens]] on 17 October 2014, and [[Goal celebration|celebrated]] by shooting an imaginary bow and arrow. Referee Nicolas Rainville booked him for this, and sent him off for dissent after Cavani complained about it. PSG club president [[Nasser Al-Khelaifi]] said to [[Canal+]], "Why did he get the yellow card before? He always celebrates the same way."<ref name="Lens 1–3 PSG">{{cite news|title=Lens 1–3 Paris St G|url=https://www.bbc.co.uk/sport/0/football/29657648|access-date=18 October 2014|work=BBC Sport|date=18 October 2014}}</ref> On 5 November 2014, it took Cavani 56 seconds to score the only goal of the game against Cypriot club [[APOEL FC|APOEL]], a result which put PSG into the [[2014–15 UEFA Champions League|Champions League]] [[2014–15 UEFA Champions League knockout phase|knock-out stage]] with two games to spare.<ref>{{cite news|last1=Burke|first1=Chris|title=Quick-fire Cavani sends Paris through, APOEL out|url=http://www.uefa.com/uefachampionsleague/season=2015/matches/round=2000548/match=2014357/postmatch/report/index.html|access-date=5 November 2014|publisher=UEFA|date=5 November 2014}}</ref>
+
+In January 2015, Cavani and Ezequiel Lavezzi were fined and suspended for two matches by PSG manager [[Laurent Blanc]] for missing a mid-season training camp in Morocco and the first training session after the winter break.<ref>{{cite news|title=Paris St-Germain punish Ezequiel Lavezzi & Edinson Cavani|url=https://www.bbc.co.uk/sport/0/football/30673508|access-date=4 January 2015|work=BBC Sport|date=4 January 2015}}</ref> On 11 April, he scored two goals as a second-half substitute for Lavezzi as PSG defeated [[SC Bastia|Bastia]] 4–0 to win the [[2015 Coupe de la Ligue Final]].<ref>{{cite web|title=Paris St-Germain beat Bastia 4–0 to win the French League Cup |url=https://www.bbc.co.uk/sport/football/32243202 |website=BBC Sport |last=Davis |first=Matt |date=11 April 2015 |access-date=11 April 2015}}</ref> On 8 May, he scored a hat-trick in a 6–0 defeat of [[En Avant de Guingamp|Guingamp]], which gave PSG a six-point lead in [[2014–15 Ligue 1|Ligue 1]] with two matches remaining.<ref>{{cite news|url=https://www.bbc.co.uk/sport/0/football/32661404|title=Paris St G 6–0 Guingamp|date=9 May 2015|publisher=BBC}}</ref> With the title retained, PSG sealed a domestic treble on 30 May when Cavani headed the only goal of the game – his 31st in all competitions that season – to defeat [[AJ Auxerre|Auxerre]] in the Coupe de France final.<ref>{{cite web|title=Auxerre 0–1 PSG: Cavani goal bags domestic treble in Coupe de France final |url=http://www.goal.com/en/match/auxerre-vs-psg/2027601/report?ICID=MP_MS_5 |website=Goal |publisher=DAZN Group |location=Leeds |date=30 May 2015 |access-date=30 May 2015}}</ref>
+
+Cavani and PSG kicked off the season against Lyon for the [[2015 Trophée des Champions]] on 1 August, with him scoring the second goal of a 2–0 victory.<ref>{{cite news|url=http://m.bleacherreport.com/articles/2537059-psg-vs-lyon-score-and-reaction-from-2015-champions-trophy|title=PSG vs. Lyon: Score and Reaction from 2015 Champions Trophy|work=bleacherreport.com|date=2 August 2015|access-date=2 August 2015}}</ref> On 21 May 2016, Cavani scored the decisive third goal of PSG's 4–2 [[2016 Coupe de France Final]] win over Marseille to record a second consecutive [[2015–16 Ligue 1|Ligue 1]]–[[2015–16 Coupe de France|Coupe de France]]–[[2015–16 Coupe de la Ligue|Coupe de la Ligue]] domestic treble for the club.<ref>{{cite news|url=https://www.bbc.co.uk/sport/football/36211853|title=Marseille 2–4 Paris Saint Germain|publisher=BBC|date=21 May 2016}}</ref>
+
+====2016–18: Ligue 1 Player of the Year, back-to-back Golden Boots====
+On 13 September 2016, in the opening [[2016–17 UEFA Champions League group stage|2016–17 Champions League]] Group A match against [[Arsenal F.C.|Arsenal]] at the Parc des Princes, Cavani scored after just 44 seconds had elapsed in the first half by heading in [[Serge Aurier]]'s cross from the right for PSG's fastest-ever Champions League goal. The match ended in a 1–1 draw.<ref>{{cite news|url=http://www.uefa.com/uefachampionsleague/season=2017/matches/round=2000783/match=2019282/postmatch/report/index.html|title=Sánchez strike ensures Arsenal deny Paris|publisher=UEFA|date=13 September 2016}}</ref> On 16 September, Cavani scored four times (his first ever four-goal haul with PSG) in the first half as PSG trounced [[Stade Malherbe Caen|Caen]] 6–0 away in a [[2016–17 Ligue 1|Ligue 1]] match to end PSG's streak of three competitive matches without victory, two of them in Ligue 1.<ref>{{cite news|url=http://www.ligue1.com/ligue1/article/cavani-to-the-four-as-psg-cane-caen.htm|title=Cavani to the four as PSG cane Caen|work=ligue1.com|date=16 September 2016}}</ref><ref>{{cite news|url=http://www.uefa.com/uefachampionsleague/news/newsid=2405597.html#big+wins+barcelona+dortmund+paris+city|title=Big wins for Barcelona, Dortmund, Paris and City|publisher=UEFA|date=18 September 2016}}</ref> On 30 November, he scored a penalty in a 2–0 home win against [[Angers SCO|Angers]] to take his Ligue 1 tally to 14 goals in 14 matches,<ref>{{cite news|url=http://www.ligue1.com/ligue1/feuille_match/81941|title=Match Stats, Paris Saint-German – Angers SCO|publisher=ligue1.com|date=30 November 2016}}</ref> which also saw him become only the fourth player in PSG history to score 100 competitive goals for the club.<ref>{{cite news|url=http://www.ligue1.com/ligue1/article/cavani-100-not-out.htm|title=Cavani: 100 Not Out|publisher=ligue1.com|date=1 December 2016}}</ref>
+
+Cavani scored one goal in each leg of PSG's 6–5 aggregate loss to [[FC Barcelona]] in their [[2016–17 UEFA Champions League knockout phase|UEFA Champions League round of 16]] tie, taking him to eight goals from eight matches in the season's competition. On 1 April 2017, he scored two-second-half goals in PSG's 4–1 win over [[AS Monaco FC|Monaco]] in the [[2016–17 Coupe de la Ligue#Final|2017 Coupe de la Ligue Final]].<ref>{{cite news|url=http://www.ligue1.com/coupeLigue/feuille_match/82777–|title=AS Monaco 4–1 Paris Saint-Germain|date=1 April 2017|work=Ligue 1}}</ref> On 15 May 2017, he was named [[Ligue 1 Player of the Year]] for scoring 35 goals.<ref name="auto"/>
+
+[[File:2015 CHE PSG DSC02652 (16172587073).jpg|thumb|right|Cavani (number 9, standing next to [[Zlatan Ibrahimović]], number 10, in March 2015) surpassed his former PSG teammate to become the club's all-time record goalscorer in 2018. ]]
+
+Prior to the 2017–18 season, Cavani was joined at the club by Brazilian forward [[Neymar]], who moved to PSG in a transaction worth €222&nbsp;million making him [[List of most expensive association football transfers|the world's most expensive player]],<ref>{{cite news|url=https://www.bbc.co.uk/sport/football/40762417|title=Neymar: Paris St-Germain sign Barcelona forward for world record 222m euros|date=3 August 2017|access-date=4 August 2017|publisher=BBC|url-status=live|archive-url=https://web.archive.org/web/20170803235435/http://www.bbc.co.uk/sport/football/40762417|archive-date=3 August 2017}}</ref> and 18-year-old French prodigy [[Kylian Mbappé]], a loan signing with the club having an option to sign him for €180&nbsp;million.<ref>{{cite news|title=Kylian Mbappe: Paris St-Germain sign Monaco forward on loan|url=https://www.bbc.co.uk/sport/football/40715851|publisher=BBC|date=30 September 2017}}</ref> Cavani, Neymar and Mbappé immediately formed a formidable attacking trio, with Cavani scoring in each of PSG's opening three games of the [[2017–18 UEFA Champions League group stage]], twice in the team's 5–0 win at [[Celtic F.C.|Celtic]], once in the 3–0 win at home to [[FC Bayern Munich|Bayern Munich]], and once in the 4–0 win at [[R.S.C. Anderlecht|Anderlecht]].<ref>{{cite web|url=http://www.goal.com/en/news/mbappe-creates-champions-league-history-with-goal-for-psg/1fq7caitbaofg1npeqftd4n1e7 |title=Mbappé creates Champions League history with goal for PSG against Celtic |website=Goal |publisher=DAZN Group |location=Leeds |date=12 September 2017 |access-date=29 September 2017}}</ref><ref>{{cite news|title=PSG 3 Bayern Munich 0: Kylian Mbappe, Edinson Cavani and Neymar star in Champions League heavyweight battle |url=https://www.standard.co.uk/sport/football/psg-3-bayern-munich-0-champions-league-kylian-mbappe-edinson-cavani-neymar-star-a3645456.html |newspaper=London Evening Stanard |date=30 September 2017}}</ref><ref>{{cite news|url=https://abcnews.go.com/Sports/wireStory/psg-rolls-anderlecht-lead-group-50570465 |title=PSG beats Anderlecht 4–0 to keep lead in Group B |work=ABC News |access-date=27 October 2017}}</ref>
+
+On 22 October, Cavani scored a curling free kick off the crossbar to earn PSG a 2–2 draw in [[Le Classique]] away to [[Olympique de Marseille|Marseille]].<ref>{{cite news|url=https://www.bbc.co.uk/sport/football/41715721|title=Marseille 2–2 Paris St-Germain|date=22 October 2017|work=BBC Sport|access-date=27 October 2017}}</ref> The following month, he scored twice in the return leg against Celtic in a 7–1 win. The result saw PSG break the record for the most goals scored by a club in the group stages of the Champions League, with 24.<ref>{{cite web|url=http://www.goal.com/en-za/news/psg-shatters-champions-league-record-in-celtic-demolition/jn5dhv2usnum19z7dl3nr9lje |title=PSG shatter Champions League record in Celtic Demolition |website=Goal |publisher=DAZN Group |location=Leeds |last=Valentine |first=Ben |date=23 November 2017 |access-date=23 November 2017}}</ref> On 4 November, Cavani's goals in a 5–0 win at [[Angers SCO|Angers]] made him only the third player to score 100 times in two of Europe's five best leagues, after Ibrahimović and [[Gonzalo Higuaín]].<ref>{{cite news|title=PSG's Edinson Cavani Becomes 3rd Player to Score 100 Goals in Two Top Divisions|url=https://www.si.com/soccer/2017/11/05/psg-striker-edinson-cavani-becomes-3rd-player-100-goals-ligue-serie-a|access-date=27 March 2018|work=Sports Illustrated|date=5 November 2017}}</ref>
+
+Cavani became PSG's all-time top scorer on 27 January 2018 with a goal in a 4–0 home win over [[Montpellier HSC|Montpellier]]. He surpassed [[Zlatan Ibrahimović]]'s record with his 157th goal in his 229th match.<ref>{{cite web|title=Cavani becomes PSG's all-time leading goal scorer |url=https://www.eurosport.com/football/ligue-1/2017-2018/cavani-becomes-psg-s-all-time-leading-goal-scorer_sto6502009/story.shtml |agency=Reuters |website=Eurosport |date=27 January 2018 |access-date=27 March 2018}}</ref> On 8 May 2018, he scored as PSG won 2–0 against [[Les Herbiers VF]] to clinch the [[2017–18 Coupe de France]].<ref>{{cite web|url=https://www.bbc.co.uk/sport/live/football/43949707 |title=French Cup final – PSG beat Les Herbiers |website=BBC Sport |date=8 May 2018 |access-date=12 March 2020}}</ref>
+
+====2018–20: final seasons in Paris====
+On 25 August 2018, Cavani played his first game of the season after missing PSG's first three games following his injury at the 2018 World Cup. The front three of Cavani, Neymar and Mbappé all scored in a 3–1 league win over [[Angers SCO|Angers]] at home, with Cavani scoring the opener from Neymar's assist.<ref>{{cite web|title=Cavani, Mbappe & Neymar all score as PSG maintain 100% start |url=https://www.bbc.co.uk/sport/football/45310948 |website=BBC Sport |date=25 August 2018 |access-date=26 August 2018}}</ref> On 11 November 2018, Cavani scored a hat-trick in a 4–0 win over [[AS Monaco FC|Monaco]].<ref>{{cite web|url=https://www.bbc.co.uk/sport/football/46174979 |title=Cavani scores a hattrick against AS Monaco |website=BBC Sport |date=11 November 2018 |access-date=30 November 2018}}</ref> On 18 December, Cavani scored in PSG's 2–1 win over [[US Orléans|Orléans]] in the Coupe de La Ligue; this was his 15th goal all-time in the competition, tying [[Pauleta]]'s record for most goals in the tournament.<ref>{{cite web |url=https://www.channelnewsasia.com/news/sport/football-cavani-ties-league-cup-goals-record-as-psg-advance-11044736 |title=Football: Cavani ties League Cup goals record as PSG advance |publisher=Channel News Asia |date=18 December 2018 |access-date=19 December 2018 |archive-date=30 July 2020 |archive-url=https://web.archive.org/web/20200730224918/https://www.channelnewsasia.com/news/sport/football-cavani-ties-league-cup-goals-record-as-psg-advance-11044736 |url-status=dead }}</ref>
+
+In April 2020, PSG were assigned the [[2019–20 Ligue 1]] title after the season was ended prematurely due to the outbreak of the [[COVID-19 pandemic]]; at the time of the League's suspension, PSG were in first place, with a twelve–point lead over second-placed Marseille.<ref>{{cite news |url=https://www.theguardian.com/football/2020/apr/30/psg-awarded-ligue-1-title-after-season-stopped-by-coronavirus-crisis |title=PSG awarded Ligue 1 title and two teams are relegated after season is scrapped |newspaper=The Guardian |location=London |agency=Reuters |date=30 April 2020 |access-date=13 June 2020 }}</ref> On 13 June, PSG's sporting director [[Leonardo Araújo|Leonardo]] revealed that Cavani would be leaving the club at the end of the [[2019–20 UEFA Champions League|Champions League]] campaign in August, alongside his teammate [[Thiago Silva]].<ref>{{cite news |url=https://www.espn.com/soccer/paris-saint-germain/story/4111424/psgs-leonardo-on-edinson-cavani-and-thiago-silva-coming-to-an-end |title=PSG's Leonardo on Edinson Cavani, Thiago Silva: 'Coming to an end' |publisher=ESPN |date=13 June 2020 |access-date=14 July 2020}}</ref> However, it was later revealed that, unlike Silva, Cavani had refused a short-term two-month contract extension that would allow him to see out the rest of the delayed Champions League campaign (including [[2020 UEFA Champions League final|the final]]), the [[2020 Coupe de la Ligue final|Coupe de la Ligue final]] and the [[2020 Coupe de France final|Coupe de France final]], and he left the club upon the expiry of his original contract on 30 June.<ref>{{cite web|url=https://www.eurosport.co.uk/football/transfers/2019-2020/edinson-cavani-thomas-meunier-to-miss-psg-s-champions-league-push-after-rejecting-contracts_sto7782020/story.shtml|title=Edinson Cavani, Thomas Meunier To Miss Psg's Champions League Push 'after Rejecting Contracts'|website=Eurosport|date=21 June 2020|access-date=15 May 2020}}</ref>
+
+===Manchester United===
+
+==== 2020–21: debut season and Europa League runner-up ====
+On 5 October 2020, Cavani joined Premier League club [[Manchester United F.C.|Manchester United]] on a one-year deal with an option to extend for a further year.<ref>{{cite web|title=Man Utd confirm the signing of former PSG striker Edinson Cavani|url=https://www.manutd.com/en/news/detail/man-utd-confirms-the-signing-of-former-psg-striker-edinson-cavani |publisher=Manchester United|date=5 October 2020 |access-date=5 October 2020}}</ref><ref>{{cite web|title=Edinson Cavani: Man Utd sign ex-PSG striker on free transfer|url=https://www.bbc.co.uk/sport/football/54405144 |work=BBC Sport |date=5 October 2020 |access-date=5 October 2020 }}</ref> He was given the prestigious number 7 shirt.<ref>{{cite web|title=Man Utd shirt number confirmed for Edinson Cavani|url=https://www.manutd.com/en/news/detail/man-utd-shirt-number-confirmed-for-edinson-cavani |publisher=Manchester United |date=6 October 2020 |access-date=6 October 2020}}</ref> On 24 October, he made his Premier League debut from the bench in a 0–0 draw against Chelsea.<ref>{{cite news |first=Simon |last=Stone |title=Manchester United 0–0 Chelsea: Hosts still searching for first home win this season |url=https://www.bbc.co.uk/sport/football/54580512 |work=BBC Sport |date=24 October 2020 |access-date=24 October 2020 }}</ref> On 7 November, Cavani scored his first goal in the [[Premier League]] in a 3–1 away win against [[Everton F.C.|Everton]].<ref>{{cite web |url=https://www.bbc.co.uk/sport/football/54758065 |title=Everton 1–3 Manchester United |website=BBC Sport |date=7 November 2020 }}</ref> On 29 November, Cavani scored twice, including the winning goal in added time, in a 3–2 comeback win against [[Southampton F.C.|Southampton]] after coming on as a half time substitute.<ref>{{cite web |url=https://www.skysports.com/football/news/11661/12145964/southampton-2-3-man-utd-edinson-cavani-scores-twice-in-comeback-win-for-united |title=Southampton 2-3 Man Utd: Edinson Cavani scores twice in comeback win for United |website=Sky Sports |date=29 November 2020 }}</ref>[[File:Manchester United v Aston Villa, 25 September 2021 (35).jpg|thumb|287x287px|Cavani playing for [[Manchester United F.C.|Manchester United]] in 2021]]On 2 February 2021, he scored the fourth goal in United's Premier League record-equalling [[Manchester United F.C. 9–0 Southampton F.C.|9–0]] win against Southampton.<ref>{{cite news |last=Stone |first=Simon |url=https://www.bbc.co.uk/sport/football/55806211 |title=Manchester United 9-0 Southampton: Man Utd thrash nine-man Saints |date=2 February 2021 |access-date=3 February 2021 |work=BBC Sport}}</ref> On 29 April, he scored twice and assisted two more goals in a 6–2 home win over Roma in the first leg of the [[2020–21 UEFA Europa League|Europa League]] semi-finals;<ref>{{cite news |first=Simon |last=Stone |title=Manchester United 6-2 Roma: United win eight-goal thriller in Europa League semi-final |url=https://www.bbc.co.uk/sport/football/56892065 |work=BBC Sport |date=29 April 2021 |access-date=29 April 2021 }}</ref> he scored another two in a 3–2 defeat in the return leg, which allowed United to advance to the final 8–5 on aggregate.<ref>{{cite news |first=Simon |last=Stone |title=Roma 3-2 Man Utd (5-8 on aggregate): Solskjaer's side through to Europa League final |url=https://www.bbc.co.uk/sport/football/56973031|work=BBC Sport |date=6 May 2021 |access-date=6 May 2021 }}</ref> Across April, Cavani scored five goals and collected three man of the match award from four starts which lead to him winning his first Manchester United player of the month award.<ref>{{Cite web|url=https://www.manutd.com/en/amp/news/detail/edinson-cavani-wins-man-utd-player-of-the-month-award-for-april-2021|title=Edinson Cavani wins Man Utd Player of the Month award for April 2021|website=ManUtd.com.com}}</ref>
+
+On 10 May, Cavani officially extended his stay for another season.<ref>{{cite web|title=Cavani extends contract |url=https://www.manutd.com/en/news/detail/manchester-united-extend-edinson-cavani-contract|publisher=Manchester United|date=10 May 2021|access-date=10 May 2021}}</ref> On 18 May, in an eventual 1–1 home draw against [[Fulham F.C.|Fulham]], Cavani scored the first goal at [[Old Trafford]] with fans in attendance since the start of the [[COVID-19 pandemic in the United Kingdom|COVID-19 pandemic]], a 40-yard lob.<ref>{{cite news |url=https://www.bbc.co.uk/sport/football/57066741 |title=Cavani scores stunner in Man Utd draw |work=BBC Sport |last1=Stone |first1=Simon |date=18 May 2021 |access-date=19 May 2021 }}</ref> He was later awarded [[Premier League Goal of the Month]] for his effort.<ref>{{cite news|url=https://www.manutd.com/en/news/detail/edinson-cavani-wins-premier-league-goal-of-the-month-for-may-2021|title=Cavani wins Premier League Goal of the Month for May|publisher=Manchester United|date=29 May 2021|access-date=29 May 2021}}</ref> On 26 May, he scored the equalising goal in a 1–1 draw against [[Villarreal CF|Villarreal]] in the [[2021 UEFA Europa League Final|Europa League Final]]; however, Manchester United lost eventually on penalties, despite Cavani netting his spot kick in the shoot-out.<ref>{{cite web |url=https://www.uefa.com/uefaeuropaleague/match/2029909--villarreal-vs-man-united/postmatch/report/ |title=Villarreal 1-1 Manchester United (aet, 11-10 pens): Spanish side win Europa League in marathon shoot-out |website=UEFA |date=26 May 2021 }}</ref>
+
+==== 2021–22: final season in England ====
+Even though Cavani played his first match of the [[2021–22 Manchester United F.C. season|2021–22]] season against [[Wolverhampton Wanderers F.C.|Wolverhampton Wanderers]] in the number 7 shirt, upon the arrival of [[Cristiano Ronaldo]], he agreed to switch to the number 21 shirt, the same number he wears for the Uruguay national team.<ref>{{cite news |first=Lars Magnus |last=Igland Røys |title=Confirmed: Ronaldo's shirt number |url=https://www.manutd.com/en/news/detail/cristiano-ronaldo-to-wear-the-number-7-shirt-for-man-utd |website=ManUtd.com |publisher=Manchester United |date=2 September 2021 |accessdate=2 September 2021 }}</ref> He scored his first goal of the season, in a 3–0 away win on 30 October against [[Tottenham Hotspur F.C.|Tottenham Hotspur]], assisted by Ronaldo.<ref>{{cite web|url=https://www.bbc.co.uk/sport/football/59019333|title=Tottenham Hotspur 0-3 Manchester United|last=McNulty|first=Phil|date=30 October 2021|work=BBC Sport|accessdate=31 October 2021}}</ref>
+
+On 22 May 2022, interim-manager [[Ralf Rangnick]] announced that Cavani would be leaving the club when his contract expired at the end of season.<ref>{{cite news |first=Adam |last=Marshall |title=Rangnick confirms Edinson Cavani's farewell |url=https://www.manutd.com/en/news/detail/ralf-rangnick-confirms-edinson-cavani-final-match-at-palace |website=ManUtd.com |publisher=Manchester United |date=22 May 2022 |access-date=25 May 2022 }}</ref>
+
+===Valencia===
+On 29 August 2022, [[Valencia CF|Valencia]] announced the signing of Cavani with a two-year contract.<ref>{{cite press release |title=OFFICIAL STATEMENT {{!}} EDINSON CAVANI |url=https://www.valenciacf.com/en/article/en-official-statement-edinson-cavani-2022-08-29 |access-date=29 August 2022 |publisher=Valencia CF |date=29 August 2022}}</ref>
+
+He made his mark in [[La Liga|Spain]] against [[Elche CF]] on October 15, where he scored twice and got the Man of the match-award. <ref>{{Cite web |title=Valencia Club de Fútbol |url=https://www.valenciacf.com/en/article/en-cavani-i-hope-that-these-goals-are-the-first-of-many-2022-10-15 |access-date=2023-02-16 |website=www.valenciacf.com}}</ref>
+
+==International career==
+===Youth===
+
+In January 2007, Cavani was selected to join the [[Uruguay national under-20 football team|Uruguay national under-20 team]] to play in the [[2007 South American Youth Championship]] in Paraguay.<ref>{{cite web|title=21 - Edinson Cavani|url=https://www.auf.org.uy/21-edinson-cavani/|date=1 June 2018|access-date=4 April 2021}}</ref> He finished the tournament as top scorer with seven goals in nine games, helping Uruguay to finish in third place, thereby earning them a place in the [[2007 FIFA U-20 World Cup]].
+
+===Senior===
+[[File:Schaars Cavani (cropped).jpg|thumb|Cavani (right) with [[Stijn Schaars]] of the Netherlands in June 2011|238x238px]]
+====2010 World Cup and 2011 Copa América====
+
+On 6 February 2008, Cavani made his first senior appearance for the [[Uruguay national football team|Uruguayan senior team]], scoring in a 2–2 draw with [[Colombia national football team|Colombia]]. He scored from his own area on the counterattack from a corner.
+
+On 22 June 2010, in the final match of the group stage of the [[2010 FIFA World Cup|2010 World Cup]], Cavani set-up a goal for [[Luis Suárez]] in a 1–0 win over [[Mexico national football team|Mexico]].<ref name="FIFA Uru-Mex">{{cite web|url=https://www.fifa.com/worldcup/archive/southafrica2010/matches/round=249722/match=300061450/summary.html |title=Uruguay edge Mexico, both advance |work=FIFA.com |date=22 June 2010 |access-date=23 August 2011 |url-status=dead |archive-url=https://web.archive.org/web/20110808144502/http://www.fifa.com/worldcup/archive/southafrica2010/matches/round%3D249722/match%3D300061450/summary.html |archive-date=8 August 2011 }}</ref><ref name="Hassan">{{cite news|url=http://news.bbc.co.uk/sport2/hi/football/world_cup_2010/matches/match_33/default.stm |title=Mexico 0–1 Uruguay |date=22 June 2010 |work=BBC Sport |access-date=28 June 2010 |first=Nabil |last=Hassan}}</ref> Uruguay won [[2010 FIFA World Cup Group A|Group A]] and advanced to the [[Single-elimination tournament|knockout stage]].<ref name="FIFA Uru-Mex"/><ref name="Hassan"/> On 10 July 2010, he scored against [[Germany national football team|Germany]] in the third place match to make the score 1–1; Germany went on to win 3–2.<ref>{{cite web|url=http://soccernet.espn.go.com/gamecast?id=264122&cc=5739&ver=global |title=Uruguay 2 – 3 Germany |date=10 July 2010 |work=ESPN Soccernet |access-date=30 September 2010 |url-status=dead |archive-url=https://web.archive.org/web/20100714171901/http://soccernet.espn.go.com/gamecast?id=264122&cc=5739&ver=global |archive-date=14 July 2010 }}</ref>
+
+On 8 October 2010, he scored his first international [[hat-trick]] in a friendly match against [[Indonesia national football team|Indonesia]], a 7–1 win in [[Jakarta]] in which Luis Suárez also scored a hat-trick.<ref>{{cite web |url=http://www.goal.com/en/match/52583/indonesia-vs-uruguay/report? |title=Uruguay 7 Indonesia 1 |website=Goal |publisher=DAZN Group |location=Leeds |date=8 October 2010 |access-date=18 June 2013 |archive-date=26 April 2014 |archive-url=https://web.archive.org/web/20140426063815/http://www.goal.com/en/match/52583/indonesia-vs-uruguay/report |url-status=dead }}</ref>
+
+Cavani was included in the [[2011 Copa América squads#Uruguay|Uruguayan squad]] at the [[2011 Copa América]] in Argentina. He started the first two group games, but a knee injury in the second game against [[Chile national football team|Chile]] ruled him out until the final. In the [[2011 Copa América Final|final]], he replaced [[Álvaro Pereira]] after 63 minutes, and was involved in his team's final goal as Uruguay beat [[Paraguay national football team|Paraguay]] 3–0 won a record 15th title.<ref>{{cite news|last1=Steinburg|first1=Jacob|title=Copa América 2011: Uruguay v Paraguay – as it happened|url=https://www.theguardian.com/football/2011/jul/24/copa-america-2011-uruguay-paraguay|access-date=16 June 2014|work=[[The Guardian]]|date=24 July 2011}}</ref>
+
+====2012 Olympics, 2013 Confederations Cup, and 2014 World Cup====
+[[File:1 edinson cavani 2014.jpg|thumb|right|Cavani waiting to take a free-kick in the Round of 16 game against [[Colombia national football team|Colombia]] at the [[2014 FIFA World Cup#Round of 16|2014 World Cup]]]]
+
+Cavani was one of the three over-age players selected by Uruguay for the [[2012 Summer Olympics]].<ref>{{Cite web|url=https://www.sports-reference.com/olympics/athletes/ca/edinson-cavani-1.html|archive-url=https://web.archive.org/web/20200418114414/https://www.sports-reference.com/olympics/athletes/ca/edinson-cavani-1.html|url-status=dead|archive-date=18 April 2020|title=Edinson Cavani Bio, Stats, and Results|website=Olympics at Sports-Reference.com|access-date=23 July 2016}}</ref>
+
+At the [[2013 FIFA Confederations Cup]], Cavani equalised in the semi-final against the hosts and eventual champions [[Brazil national football team|Brazil]], who eventually won 2–1.<ref>{{cite news|title=Paulinho header edges Brazil past Uruguay into Confederations Cup final|url=https://www.theguardian.com/football/2013/jun/27/brazil-uruguay-confederations-cup-report|access-date=16 June 2014|work=[[The Guardian]]|agency=[[Associated Press]]|date=27 June 2013}}</ref> In the match for third place, he equalised twice against [[Italy national football team|Italy]], his second goal coming from a free kick, taking the game to penalties. Although Cavani scored his spot kick, Uruguay lost; he was named man of the match for his performance.<ref>{{cite news|title=Buffon stars as Italy win shootout & bronze |url=https://www.fifa.com/confederationscup/matches/round=255209/match=300222463/summary.html |access-date=16 June 2014 |publisher=[[FIFA]] |date=30 June 2014 |url-status=dead |archive-url=https://web.archive.org/web/20140709035458/http://www.fifa.com/confederationscup/matches/round%3D255209/match%3D300222463/summary.html |archive-date=9 July 2014 }}</ref>
+
+On 13 November 2013, Cavani scored the last goal in Uruguay's 5–0 away win over [[Jordan national football team|Jordan]] in a play-off for the [[2014 FIFA World Cup|2014 World Cup]].<ref>{{cite news|url=http://www.fourfourtwo.com/sg/news/fifa-world-cup-play-jordan-0-uruguay-5|title=FIFA World Cup Play-off: Jordan 0 Uruguay 5|publisher=[[Four Four Two]]|date=13 November 2013|access-date=31 May 2014|archive-url=https://web.archive.org/web/20140606233507/http://www.fourfourtwo.com/sg/news/fifa-world-cup-play-jordan-0-uruguay-5|archive-date=6 June 2014|url-status=dead}}</ref> In their first group game of the finals, against [[Costa Rica national football team|Costa Rica]] in [[Fortaleza]], Cavani opened the scoring with a penalty after [[Diego Lugano]] had been pulled down. Uruguay, however, eventually lost 3–1.<ref>{{cite news|last1=Smith|first1=Ben|title=Costa Rica 3–1 Uruguay|url=https://www.bbc.co.uk/sport/0/football/25285064|access-date=15 June 2014|work=[[BBC Sport]]|date=14 June 2014}}</ref> Uruguay were eliminated by Colombia, following a 2–0 defeat in the round of 16 on 28 June 2014.<ref>{{cite news|title=Colombia 2–0 Uruguay|url=https://www.fifa.com/worldcup/matches/round=255951/match=300186491/|archive-url=https://web.archive.org/web/20140630075700/http://www.fifa.com/worldcup/matches/round=255951/match=300186491/|url-status=dead|archive-date=30 June 2014|work=[[FIFA|FIFA.com]]|date=28 June 2014|access-date=29 June 2014}}</ref>
+
+====Post-World Cup====
+With Suárez suspended for the entire tournament, Cavani was an undisputed starter for Uruguay at the [[2015 Copa América]] in Chile. In the quarter-finals against the hosts at the [[Estadio Nacional Julio Martínez Prádanos|Estadio Nacional]], Cavani was sent off for two bookings: the first for a foul on [[Arturo Vidal]], the second for flicking at [[Gonzalo Jara (footballer, born 1985)|Gonzalo Jara]]'s face after Jara had poked him in the buttocks. The incident received almost immediate and prominent international coverage from newspapers and the internet, mostly in defence of Cavani. Massive coverage included articles, columns, blogs, memes and cartoons. Press in Australia drew comparisons to what the press referred to as "[[John Hopoate|Hopoate]]", comparing it to a similar infamous onfield anus-poking incident from rugby.<ref>{{cite web|url=http://www.foxsports.com.au/football/edinson-cavani-red-card-gonzalo-jara-dive-video-uruguay-star-sent-off-after-hoppa-style-incident/story-e6frf423-1227414271272|title=Edinson Cavani red card Gonzalo Jara dive video: Uruguay striker sent off at Copa America|date=25 June 2015}}</ref><ref>{{cite web|url=http://www.wwos.ninemsn.com.au/article.aspx?id=9001382|title=Chile star gives Uruguay rival a 'Hopoate' poke|work=wwos}}</ref> Other massive international coverage of the incident came from China,<ref>{{cite web|url=http://www.chinadaily.com.cn/sports/2015-06/25/content_21104588.htm|title=Uruguay exit Copa with 'bitter taste' in their mouths |last=赵思远|website=China Daily}}</ref> the United Kingdom,<ref>{{cite news|url=https://www.mirror.co.uk/sport/football/news/watch-gonzalo-jara-stick-finger-5945101|title=Watch Gonzalo Jara stick his finger up Edinson Cavani's BACKSIDE during unsavoury Copa America clash |first=Liam |last=Prenderville |date=25 June 2015 |newspaper=Daily Mirror}}</ref> France,<ref>{{cite web|url=http://www.france24.com/en/20150626-coaches-players-slam-jara-over-cavani-assault |title=Flash – Coaches, players slam Jara over Cavani assault |publisher=France 24 |url-status=dead |archive-url=https://web.archive.org/web/20150626192131/http://www.france24.com/en/20150626-coaches-players-slam-jara-over-cavani-assault |archive-date=26 June 2015 }}</ref> and the United States.<ref>{{cite web|url=https://www.washingtonpost.com/blogs/early-lead/wp/2015/06/24/edinson-cavani-had-good-reason-to-be-irate-over-chile-players-cheeky-move-and-flop/|title=Edinson Cavani could get redemption as officials investigate Gonzalo Jara's Copa America rear poke|first1=Des |last1=Bieler |first2=Marissa |last2=Payne|date=25 June 2015|newspaper=The Washington Post}}</ref> Internet coverage included Goal.com,<ref>{{cite web|url=http://www.goal.com/en/news/596/exclusive/2015/06/25/13053832/jara-must-be-charged-for-cavani-rear-assault |title=Jara must be charged for Cavani assault |website=Goal |publisher=DAZN Group |location=Leeds |first=Chris |last=Davie |date=25 June 2015}}</ref> Business Insider,<ref>{{cite web|url=http://www.businessinsider.com/afp-coaches-players-slam-jara-over-cavani-assault-2015-6 |title=Coaches, players slam Jara over Cavani assault |date=25 June 2015 |website=Business Insider}}</ref> ESPNFC,<ref>{{cite web|url=http://www.espnfc.com/copa-america/story/2504196/conmebol-to-probe-gonzalo-jara-gesture-to-edinson-cavani |title=CONMEBOL to probe Gonzalo Jara gesture to Edinson Cavani |website=ESPN FC|date=25 June 2015 }}</ref> Bleacher Report<ref>{{cite web|url=http://bleacherreport.com/articles/2506085-gonzalo-jara-pokes-edinson-cavani-from-behind-in-2015-copa-america-quarter-final |title=Gonzalo Jara Pokes Edinson Cavani from Behind in 2015 Copa America Quarter-Final |first=Mark |last=Patterson |website=Bleacher Report}}</ref> ''[[The World Game]]'',<ref>{{cite web|url=http://theworldgame.sbs.com.au/article/2015/06/25/tabarez-furious-over-cavani-jara-incident|title=Tabarez furious over Cavani-Jara incident|work=The World Game}}</ref> ''[[The Huffington Post]]'',<ref>{{cite web|url=http://www.huffingtonpost.com/2015/06/25/edinson-cavani-copa-america_n_7662304.html|title=Gonzalo Jara Reportedly Banned From Copa America After, Uh, Inappropriately Touching Edinson Cavani|work=HuffPost|date=25 June 2015 }}</ref> and Dirty Tackle.<ref>{{cite web|url=http://www.dirtytackle.net/2015/06/25/dtotd-chiles-gonzalo-jara-gets-edinson-cavani-sent-off-with-a-bad-touch/|title=DTotD: Chile's Gonzalo Jara gets Edinson Cavani sent off with a bad touch|work=Dirty Tackle|date=25 June 2015 }}</ref> Teammate [[Jorge Fucile]] was later also dismissed, and holders Uruguay were eliminated with a 1–0 defeat.<ref>{{cite news|title=Edinson Cavani sent-off after Gonzalo Jara 'inserted finger into his anus' during Uruguay's 1–0 Copa America defeat to Chile |url=https://www.independent.co.uk/sport/football/international/edinson-cavani-sentoff-after-gonzalo-jara-appears-to-poke-his-backside-during-uruguays-10-copa-america-defeat-to-chile-10343914.html |newspaper=[[The Independent]] |last=De Menezes |first=Jack |date=25 June 2015 |access-date=25 June 2015}}</ref> Cavani also took part in the [[Copa América Centenario]] the following year, but he once again went scoreless in the competition, as Uruguay were eliminated in the first round.<ref>{{cite news |url=https://ftw.usatoday.com/2016/06/uruguay-copa-america-edinson-cavani-miss-venezuela-group-c |title=Uruguay heading home from Copa after striker's heartbreaking miss in the 90th minute |newspaper=USA Today |first=Andrew |last=Joseph |date=9 June 2016 |access-date=1 July 2018 }}</ref><ref>{{cite web |url=https://theworldgame.sbs.com.au/uruguay-ease-past-jamaica-to-round-out-copa-america-campaign |title=Uruguay ease past Jamaica to round out Copa America campaign |publisher=The World Game |date=14 June 2016 |access-date=1 July 2018 }}</ref><ref>{{cite web |url=http://www.espn.co.uk/football/report?gameId=444706 |title=Abel Hernandez, Mathias Corujo help Uruguay end Copa campaign with a win |publisher=ESPN FC |date=14 June 2016 |access-date=1 July 2018 }}</ref>
+
+In 2018, Uruguay participated in the [[2018 China Cup|China Cup]]. Cavani led Uruguay to the trophy by scoring the only goal in the final match against [[Wales national football team|Wales]].
+
+====2018 World Cup====
+
+[[File:URU-POR (13).jpg|thumb|Cavani being helped off the field by [[Cristiano Ronaldo]] after Uruguay's win over Portugal at the 2018 World Cup|alt=|200x200px]]
+Cavani finished as the top scorer in the [[CONMEBOL]] [[2018 FIFA World Cup qualification (CONMEBOL)|2018 FIFA World Cup qualification]], with 10 goals.<ref name="auto1">{{Cite web|url=http://www.espnfc.com/world-cup-qualifying-conmebol/65/statistics/scorers|title=World Cup Qualifying – CONMEBOL Statistics – ESPN FC|website=espnfc.com|access-date=11 October 2017}}</ref> In March 2018, Cavani was part of the Uruguay squad that won the [[China Cup]]. He scored in the 2–0 semi-final win over the [[Czech Republic national football team|Czech Republic]], and in the final he scored the only goal against [[Wales national football team|Wales]], his [[List of men's footballers with 100 or more international caps|100th cap]].<ref>{{cite news|title=Edinson Cavani fires Uruguay to China Cup with win over Wales|url=https://www.theguardian.com/football/2018/mar/26/edinson-cavani-fires-uruguay-to-china-cup-with-win-over-wales|access-date=26 March 2018|work=The Guardian|agency=Press Association|date=26 March 2018}}</ref>
+
+In his nation's final group game of the [[2018 FIFA World Cup]] on 25 June, Cavani scored Uruguay's final goal in a 3–0 win over hosts [[Russia national football team|Russia]].<ref>{{cite news |url=https://www.bbc.co.uk/sport/football/44439221 |title=Suarez and Cavani score as Uruguay beat Russia to win Group A |publisher=BBC |date=25 June 2018 }}</ref> Cavani then went on to score both of Uruguay's goals against [[Portugal national football team|Portugal]] in a 2–1 victory in the Round of 16 on 30 June,<ref>{{cite news|url=http://ricerca.repubblica.it/repubblica/archivio/repubblica/2018/07/01/la-forza-di-tabarez-e-i-gioielli-di-cavani-per-la-caduta-di-cr724.html|title=La forza di Tabarez e i gioielli di Cavani per la caduta di CR7|first=Enrico |last=Currò|newspaper=la Repubblica|date=1 July 2018|page=24|language=it}}</ref> though he was withdrawn in the second-half with an apparent hamstring injury.<ref>{{cite news |url=https://www.theguardian.com/football/2018/jun/30/uruguay-portugal-world-cup-last-16-match-report |title=Edinson Cavani sends Uruguay to World Cup last eight as Portugal bow out|newspaper=The Guardian |date=29 June 2018 }}</ref><ref>{{cite news|url=http://kwese.espn.com/football/blog/the-match/60/post/3550792/edinson-cavani-outshines-cristiano-ronaldo-but-injury-could-dampen-uruguays-long-term-hopes|title=Edinson Cavani outshines Ronaldo but injury could dampen Uruguay's long-term hopes|publisher=ESPN|last=Ogden|first=Mark|date=30 June 2018|access-date=30 June 2018}}</ref> Because of his injury, he was ruled out of Uruguay's 2–0 defeat to [[France national football team|France]] in the quarter-finals on 6 July.<ref>{{cite news |last1=Bevan |first1=Chris |title=Uruguay 0 France 2 |url=https://www.bbc.co.uk/sport/football/44652179 |work=BBC Sport |access-date=6 July 2018 |location=Nizhny Novgorod |date=6 July 2018}}</ref>
+
+====2019 Copa América====
+In March 2019, manager [[Óscar Tabárez]] included Cavani in the final 23-man Uruguay squad for the [[2019 Copa América]] in Brazil.<ref>{{cite news |url=https://copaamerica2019.live/uruguay-team-squads/ |title=Uruguay Team Squads Copa America 2019 |work=copaamerica2019.live |date=7 March 2019 |access-date=13 June 2019 |archive-date=16 April 2021 |archive-url=https://web.archive.org/web/20210416112817/https://copaamerica2019.live/uruguay-team-squads/ |url-status=dead }}</ref> On 16 June, Cavani scored "an acrobatic [[Bicycle kick|bicycle-kick]]" in a 4–0 win over [[Ecuador national football team|Ecuador]] in the team's opening group match of the tournament;<ref>{{cite news |url=https://www.bbc.com/sport/football/48655964 |title=Uruguay 4–0 Ecuador |work=BBC Sport |date=17 June 2019 |access-date=17 June 2019 }}</ref> this was his first goal ever in the Copa América.<ref>{{cite news |url=https://www.afp.com/en/news/824/suarez-cavani-score-uruguay-crush-10-man-ecuador-copa-america-doc-1hk7zf2 |title=Suarez, Cavani score as Uruguay crush 10-man Ecuador in Copa America |work=Agence France Presse |date=17 June 2019 |access-date=17 June 2019 }}</ref> In the quarter-finals against [[Peru national football team|Peru]] on 29 June, he had a goal disallowed by VAR for offside in regulation time; following a 0–0 draw, the match went to a penalty shoot-out. Although Cavani was able to convert his spot-kick, Peru won the shoot-out 5–4, which saw Uruguay eliminated from the competition.<ref>{{cite web|url=https://www.bbc.com/sport/football/48777158 |title=Uruguay 0–0 Peru |work=BBC Sport |date=29 June 2019 |access-date=30 June 2019 }}</ref>
+
+==Style of play==
+[[File:Cavani 2 v Chelsea 2014.jpg|thumb|250x250px|Cavani striking the ball for PSG in 2014]]
+A quick, strong, opportunistic and prolific forward with good technique, and a tall, slender frame, Cavani is considered to be one of the greatest strikers of his generation, and has been described as a "modern striker".<ref>{{cite web |url=http://www.tuttopalermo.net/editoriale/palermo-cavani-il-ragazzo-che-a-cresciuto-12165|title=Palermo, Cavani il ragazzo che è cresciuto |last=Carraffa |first=Rosario |date=21 July 2009|publisher=tuttopalermo.net|access-date=10 March 2015}}</ref><ref>{{cite web |last=Schmidt |first=Felipe |url=https://globoesporte.globo.com/futebol/futebol-internacional/noticia/cavani-o-campones-que-furou-a-fila-e-passou-como-furacao-pelo-uruguai.ghtml |title=Cavani, o camponês que furou a fila e passou como furacão pelo Uruguai |publisher=Globo Esporte |language=pt |date=6 March 2018 |access-date=16 June 2020 }}</ref><ref>{{cite web |url=https://www.fourfourtwo.com/features/ranked-the-20-highest-scoring-champions-league-players-ever |title=Ranked! The 20 all-time Champions League top scorers |publisher=fourfourtwo.com |last1=Victor |first1=Tom |date=27 May 2022 |access-date=11 December 2022 }}</ref><ref name="bully">{{cite news |url=https://www.thetimes.co.uk/article/edinson-cavani-a-flat-track-bully-or-one-of-the-finest-strikers-of-his-generation-mlchdhmb7 |title=Edinson Cavani: a flat-track bully or one of the finest strikers of his generation? |work=The Times |last=Gheerbrant |first=James |date=22 January 2020 |access-date=15 June 2020 }}</ref><ref>{{cite web |url=https://www.sportskeeda.com/football/opinion-edinson-cavani-is-one-of-the-great-strikers-of-his-generation |title=Opinion: Edinson Cavani is one of the great strikers of his generation |publisher=www.sportskeeda.com |last1=Gales |first1=Aaron |date=25 February 2020 |access-date=11 December 2022 }}</ref> Possessing an excellent first touch, intelligent movement off the ball, and clinical finishing, he is a well-rounded striker,<ref>{{cite news |url=https://www.seattletimes.com/sports/soccer/mauro-icardi-joins-psg-from-inter-milan-on-a-4-year-deal/ |title=Icardi's arrival at PSG could push Cavani to look elsewhere |work=The Seattle Times |last=Pugmire |first=Jerome |date=31 May 2020 |access-date=15 June 2020 }}</ref><ref>{{cite web |url=https://www.football-italia.net/node/2000 |title=A gamble only Napoli wanted |publisher=Football Italia |last1=Labbate |first1=Antonio |date=11 January 2011 |access-date=15 June 2020 }}</ref><ref name="CavaniPSG">{{cite web |last=Simpson |first=Christopher |url=https://bleacherreport.com/articles/2763441-edinson-cavani-reportedly-eyeing-psg-exit-amid-man-united-chelsea-interest |title=Edinson Cavani Reportedly Eyeing PSG Exit Amid Man United, Chelsea Interest |publisher=Bleacher Report |date=9 March 2018 |access-date=15 June 2020 }}</ref> who is known for his ability to score impressive goals, both with his head and with his feet, and for his tireless work-rate and energy across the pitch, as well as his willingness to track back and help his team defensively; moreover, he is an athletic player, who is also strong in the air, and who has a penchant for scoring from acrobatic goals. He is also an accurate [[Set piece (football)|set-piece]] taker,<ref>{{cite web|url=http://bleacherreport.com/articles/1402486-messi-falcao-dont-forget-napolis-edinson-cavani|title=Messi? Falcao? Don't forget Napoli's Edinson Cavani |publisher=[[Bleacher Report]]|last=Landolina|first=Salvatore|date=9 November 2012|access-date=8 January 2013}}</ref><ref>{{cite web |last=Johnson |first=Jonathan |url=https://bleacherreport.com/articles/1999678 |title=Why Edinson Cavani Should Be Satisfied with His 1st Season at PSG So Far |publisher=Bleacher Report |date=20 March 2014 |access-date=15 June 2020 }}</ref><ref name="CavaniThrive">{{cite web |url=https://bleacherreport.com/articles/1591050-why-edinson-cavani-and-luis-suarez-would-thrive-leading-liverpools-attack |title=Why Edinson Cavani and Luis Suarez Would Thrive Leading Liverpool's Attack |publisher=Bleacher Report |last1=Matchett |first1=Karl |date=3 April 2013 |access-date=15 June 2020 }}</ref><ref>{{cite web |url=https://www.espn.com/soccer/copa-america-tournament/story/2876149/uruguays-edinson-cavani-12th-in-copa-rank |title=Edinson Cavani, FW, PSG & Uruguay: #CopaRank: No. 12 |publisher=ESPN FC |last1=Davis |first1=Jason |date=1 June 2016 |access-date=15 June 2020 }}</ref><ref>{{cite web |url=https://www.tuttomercatoweb.com/il-volto-nuovo/edison-cavani-il-futuro-idolo-di-palermo-50773 |title=Edison Cavani: il futuro idolo di Palermo |publisher=Tutto Mercato Web |language=it |last=Letizia |first=Francesco |date=5 February 2007 |access-date=15 June 2020 }}</ref> and is generally a competent [[Penalty kick (association football)|penalty]] taker, even though his record from the spot has been inconsistent at times throughout his career.<ref>{{cite web |url=https://www.ilnapolista.it/2015/12/napoli-rigori-hamsik-higuain/ |title=Il Napoli di De Laurentiis ha sbagliato 29 rigori (su 75). L'ultimo rigorista è stato Domizzi. Hamsik ne ha falliti nove, Cavani otto |website=ilnapolista.it |language=it |first=Alfonso |last=Fasano |date=22 December 2015 |access-date=28 March 2019 }}</ref>
+
+In addition to his goalscoring, he is also known for his ability to create space for his teammates.<ref name="CavaniDisplay">{{cite web |url=https://www.espn.in/football/league-name/story/2066929/headline |title=Edinson Cavani defends display as PSG beat Barcelona in Champions League |publisher=ESPN FC |date=2 October 2014 |access-date=15 June 2020 }}</ref><ref>{{cite web |url=https://www.skysports.com/football/news/11800/8864321 |title=Paris Saint-Germain's Edinson Cavani wants to win trophies with his new club |publisher=Sky Sports |date=10 August 2013 |access-date=15 June 2020 }}</ref> However, despite being a prolific player, and having a reputation as one of the best strikers of his generation,<ref name="bully"/><ref name="CavaniPSG"/><ref>{{cite web |url=https://www.fourfourtwo.com/edinson-cavani |title=Edinson Cavani News and Features |date=29 May 2020 |publisher=FourFourTwo |access-date=15 June 2020 }}</ref><ref>{{cite web |url=https://bleacherreport.com/articles/857848-edinson-cavani-the-worlds-next-elite-striker-deserves-more-credit |title=Edinson Cavani: The World's Next Elite Striker Deserves More Credit |publisher=Bleacher Report |last=Pedersen |first=Justin |date=20 September 2011 |access-date=15 June 2020 }}</ref><ref>{{cite news |url=https://www.telegraph.co.uk/football/2020/01/21/stampede-foredinson-cavani-highlights-value-top-striker/ |archive-url=https://ghostarchive.org/archive/20220110/https://www.telegraph.co.uk/football/2020/01/21/stampede-foredinson-cavani-highlights-value-top-striker/ |archive-date=10 January 2022 |url-access=subscription |url-status=live |title=Stampede for Edinson Cavani highlights value of a top striker |work=The Telegraph |last=Burt |first=Jason |date=21 January 2020 |access-date=15 June 2020 }}{{cbignore}}</ref><ref>{{cite web |url=https://soccer.nbcsports.com/2020/01/20/cavani-linked-with-man-united-spurs-chelsea/ |title=Transfer news: Cavani freed by Icardi signing, Saul teases new home |publisher=NBC Sports |last=Mendola |first=Nicholas |date=31 May 2020 |access-date=15 June 2020 }}</ref> he has been accused at times in the media of missing an excessive number of chances, and has also been criticised on occasion for his performances in important matches.<ref name="CavaniPSG"/><ref>{{cite web |url=https://bleacherreport.com/articles/2478782-ranking-the-top-50-players-at-the-2015-copa-america |title=Ranking the Top 50 Players at the 2015 Copa America |publisher=Bleacher Report |last1=Tighe |first1=Sam |date=28 June 2015 |access-date=15 June 2020 }}</ref> Although he primarily plays either as a [[centre forward]] or as a [[Striker (association football)|main striker]], he is capable of playing in several offensive positions, and has also been deployed as a [[supporting striker]] or as a [[Forward (association football)#Winger|winger]].<ref name="CavaniThrive"/><ref name="CavaniDisplay"/><ref>{{cite news|url=http://ricerca.repubblica.it/repubblica/archivio/repubblica/2008/02/17/ultimatum-di-guidolin.html|title=L' ultimatum di Guidolin|date=17 February 2008|newspaper=La Repubblica|access-date=10 March 2015}}</ref><ref>{{cite news |url=http://www.repubblica.it/2008/12/sport/calcio/serie-a/palermo/cavani-vs-di-vaio/cavani-vs-di-vaio.html|title=Cavani vs Di Vaio 'Arbitra' Guidolin|date=16 April 2009|newspaper=La Repubblica|access-date=10 March 2015}}</ref> Writing for ''[[The Guardian]]'' in 2018, [[Jorge Valdano]] remarked upon "the generous endeavour of Cavani, a striker who covers the entire pitch".<ref>{{cite news |url=https://www.theguardian.com/football/2018/jul/04/france-kylian-mbappe-closer-summit-argentina|title=Without asking permission, Kylian Mbappé has burst into footballing history |work=The Guardian|author-link=Jorge Valdano |last=Valdano |first=Jorge |date=4 July 2018|access-date=4 July 2018}}</ref> Due to his composure in front of goal, Cavani was given the nickname "''[[Bullfighter|El Matador]]''" ('The Bullfighter', in Spanish) during his time in Italy.<ref name="nickname" /><ref>{{Cite web |url=https://www.sports-king.com/nicknames.php?q=el-matador |title=El Matador Nickname - What does it mean and how did it come about? - Player Biography and Profile |website=www.sports-king.com |access-date=30 May 2022 }}</ref> Despite his ability, he has struggled with injuries throughout his career.<ref>{{cite news |url=https://theathletic.com/3500945/2022/03/30/manchester-united-forward-edinson-cavani-picks-up-fresh-injury-knock/ |title=Manchester United forward Edinson Cavani picks up fresh injury knock |work=The Athletic |last1=Hay |first1=Anthony |date=30 March 2022 |access-date=6 December 2022 }}</ref><ref>{{cite web |url=https://www.90min.com/posts/edinson-cavani-injury-man-utd-tendon-problem |title=Edinson Cavani injury: Man Utd striker reveals tendon problem |publisher=90min.com |date=10 November 2021 |access-date=6 December 2022 }}</ref><ref>{{cite web |url=https://www.90min.com/posts/6488455-thomas-tuchel-admits-edinson-cavani-is-not-completely-happy-with-psg-role-after-injury-woes |title=Thomas Tuchel Admits Edinson Cavani Is 'Not Completely Happy' With PSG Role After Injury Woes |publisher=90min.com |date=1 November 2019 |access-date=6 December 2022 }}</ref>
+
+Like his idol, Argentine striker Gabriel Batisuta, Cavani often celebrates scoring a goal by pretending to fire an imaginary bow and arrow.<ref name="copy Batistuta"/><ref name="Lens 1–3 PSG"/><ref>{{cite web |url=https://sport.sky.it/calcio/serie-a/2018/10/02/defrel-piatek-gol-tutte-le-esultanze-mitraglia-pistolero#16 |title=Da Defrel a Piatek: le esultanze da 'pistolero' |publisher=sport.sky.it |language=it |date=2 October 2018 |access-date=11 December 2022 }}</ref><ref name="Master of his own Destiny">{{cite web|url=http://backpagefootball.com/edinson-cavani-the-master-of-his-own-destiny/33437/|title=Cavani the Master of his own Destiny |publisher=Back Page Football |date=17 February 2012}}</ref>
+
+==Personal life==
+Cavani was born in [[Salto, Uruguay]] on 14 February 1987 to Luis Cavani and Berta Gómez.<ref>{{cite web|title=Cavani's mother – Berta |url=http://www.goal.com/en-ng/news/4102/transfer-zone/2013/04/19/3915176/cavani-wants-to-leave-napoli-says-mother |website=Goal |publisher=DAZN Group |location=Leeds |date=19 April 2013 |access-date=19 April 2013}}</ref><ref>{{cite web|url=http://www.football-italia.net/32462/cavanis-father-50-cent-real-madrid|title=Cavani's Father – Luis |publisher=Football Italia|access-date=30 March 2013|date=30 March 2013}}</ref> His elder brothers, striker [[Walter Guglielmone]]<ref>{{cite news |url=http://archiviostorico.gazzetta.it/2009/gennaio/28/Amauri_considera_suo_erede__ga_10_090128026.shtml|title=Amauri mi considera suo erede|newspaper=La Gazzetta dello Sport|language=it|access-date=9 October 2009|date=28 January 2009}}</ref> and Christian Cavani, are also professional footballers.<ref>{{cite web |url=http://www.tuttonapoli.net/?action=read&idnotizia=80799|title=Christian Cavani in prova al Benevento|publisher=Tutto Napoli|language=it|access-date=24 January 2012 |date=24 January 2012}}</ref> Cavani holds an [[Italian passport]] as a result of playing in Italy and his [[Italian Uruguayans|Italian]] heritage; Cavani's paternal grandparents were originally from [[Maranello]], which later became the hometown of car maker [[Ferrari]]. In 1929, they migrated to Argentina and later to [[Montevideo]].<ref>{{Cite web|last=Fahy|first=Dylan|date=9 October 2011|title=Edinson Cavani At Napoli: 'El Matador' Making His Mark |url=https://www.sbnation.com/soccer/2011/10/9/2477516/edinson-cavani-napoli|access-date=8 October 2020|website=SBNation.com}}</ref> Cavani is [[Multilingualism|trilingual]]; he is fluent in [[Spanish language|Spanish]], [[Italian language|Italian]] and [[French language|French]].<ref>{{Cite web |last=Whitfield |first=Jonny |date=27 January 2021 |title=Solskjaer offers insight into Man Utd quartet's close ties with Cavani |url=https://www.teamtalk.com/news/solskjaer-insight-man-utd-quartet-edinson-cavani |access-date=30 August 2022 |website=TEAMtalk}}</ref>
+
+Cavani was married to Maria Soledad Cabris Yarrús, with whom he has two sons, Bautista (born 22 March 2011) and Lucas (born 8 March 2013).<ref>{{cite web|url=http://www.givemefootball.com/premier-league/mugging-could-push-cavani-towards-chelsea?state=00cae4ebd79540569b31a9952e36dbe0|title=Mugging could push Cavani towards Chelsea|publisher=GiveMeFootball|date=26 July 2012|access-date=26 July 2012|archive-date=4 August 2020|archive-url=https://web.archive.org/web/20200804164754/https://www.givemesport.com/?state=00cae4ebd79540569b31a9952e36dbe0|url-status=dead}}</ref> In 2013, Cavani announced that he and his wife were to get a divorce, following a split between the two the year before.<ref>{{cite web|url=http://www.football-italia.net/34068/cavani-confirms-divorce|title=Cavani confirms divorce |publisher=Football Italia |date=11 May 2013}}</ref> Then he had a daughter, India (born 17 May 2019), with his girlfriend Jocelyn Burgardt.<ref>{{cite web |url=https://meaww.com/edinson-cavani-girlfriend-jocelyn-burgardt-love-story-ugly-divorce-first-marriage-affair |title=Who is Edinson Cavani's girlfriend Jocelyn Burgardt? How Manchester United player found love after ugly divorce |website=meaww.com |date=14 October 2020 }}</ref>
+
+He is a devout [[Evangelicalism|Evangelical]] Christian.<ref>{{cite news|url=https://www.theguardian.com/football/2012/feb/20/edinson-cavani-napoli-chelsea-champions-league|title=Chelsea beware – Edinson Cavani has faith in Napoli's success|date=20 February 2012|access-date=11 January 2013|publisher=The Guardian's The Sport Blog}}</ref> As a child, Cavani idolised Argentine striker [[Gabriel Batistuta]].<ref name="Master of his own Destiny"/> Cavani also enjoys [[ballet]] dancing.<ref>{{cite web |url=https://www.espn.com/soccer/blog-the-toe-poke/story/4201639/man-uniteds-new-signing-edinson-cavani-the-striker-with-a-passion-for-ballet |title=Man United's new signing Edinson Cavani: The striker with a passion for ballet |website=ESPN |date=6 October 2020 }}</ref> His resemblance with the cartoon character [[Tarzan]] is a popular reference among football fans.
+
+==Career statistics==
+===Club===
+{{updated|match played 28 May 2023}}<ref name=SW>{{cite web|url=https://int.soccerway.com/players/edison-cavani/5920/|title=E. Cavani|work=Soccerway|access-date=24 November 2022}}</ref><ref>{{Cite web|title=Edinson Cavani - Manchester United Player Profile & Stats|url=http://www.mufcinfo.com/manupag/a-z_player_archive/a-z_player_archive_pages/cavani_edinson.html|access-date=24 November 2022|website=www.mufcinfo.com}}</ref>
+
+{| class="wikitable" style="text-align:center"
+|+ Appearances and goals by club, season and competition
+|-
+!rowspan="2"|Club
+!rowspan="2"|Season
+!colspan="3"|League
+!colspan="2"|National cup
+!colspan="2"|League cup
+!colspan="2"|Continental
+!colspan="2"|Other
+!colspan="2"|Total
+|-
+!Division!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals
+|-
+|rowspan="3"|[[Danubio F.C.|Danubio]]
+|[[2005–06 Uruguayan Primera División|2005–06]]
+|[[Uruguayan Primera División]]
+|10||4||5||3||colspan="2"|—||colspan="2"|—||colspan="2"|—||15||7
+|-
+|[[2006–07 Uruguayan Primera División|2006–07]]
+|Uruguayan Primera División
+|15||5||colspan="2"|—||colspan="2"|—||colspan="2"|—||colspan="2"|—||15||5
+|-
+!colspan="2"|Total
+!25!!9!!5!!3!! colspan="2" |—!! colspan="2" |—!! colspan="2" |—!!30!!12
+|-
+|rowspan="5"|[[U.S. Città di Palermo|Palermo]]
+|[[2006–07 U.S. Città di Palermo season|2006–07]]
+|[[Serie A]]
+|7||2||colspan="2"|—||colspan="2"|—||colspan="2"|—||colspan="2"|—||7||2
+|-
+|[[2007–08 U.S. Città di Palermo season|2007–08]]
+|Serie A
+|33||5||2||0||colspan="2"|—||2||0||colspan="2"|—||37||5
+|-
+|[[2008–09 U.S. Città di Palermo season|2008–09]]
+|Serie A
+|35||14||1||1||colspan="2"|—||colspan="2"|—||colspan="2"|—||36||15
+|-
+|[[2009–10 U.S. Città di Palermo season|2009–10]]
+|Serie A
+|34||13||3||2||colspan="2"|—||colspan="2"|—||colspan="2"|—||37||15
+|-
+!colspan="2"|Total
+!109!!34!!6!!3!! colspan="2" |—!!2!!0!! colspan="2" |—!!117!!37
+|-
+|rowspan="4"|[[S.S.C. Napoli|Napoli]]
+|[[2010–11 S.S.C. Napoli season|2010–11]]
+|Serie A
+|35||26||2||0||colspan="2"|—||10||7||colspan="2"|—||47||33
+|-
+|[[2011–12 S.S.C. Napoli season|2011–12]]
+|Serie A
+|35||23||5||5||colspan="2"|—||8||5||colspan="2"|—||48||33
+|-
+|[[2012–13 S.S.C. Napoli season|2012–13]]
+|Serie A
+|34||29||1||1||colspan="2"|—||7||7||1<ref group="lower-alpha">Appearance in [[Supercoppa Italiana]]</ref>||1||43||38
+|-
+!colspan="2"|Total
+!104!!78!!8!!6!! colspan="2" |—!!25!!19!!1!!1!!138!!104
+|-
+|rowspan="8"|[[Paris Saint-Germain F.C.|Paris Saint-Germain]]
+|[[2013–14 Paris Saint-Germain F.C. season|2013–14]]
+|[[Ligue 1]]
+|30||16||2||1||3||4||8||4||0||0||43||25
+|-
+|[[2014–15 Paris Saint-Germain F.C. season|2014–15]]
+|Ligue 1
+|35||18||4||4||3||3||10||6||1<ref group="lower-alpha" name="TCh">Appearance in [[Trophée des Champions]]</ref>||0||53||31
+|-
+|[[2015–16 Paris Saint-Germain F.C. season|2015–16]]
+|Ligue 1
+||32||19||5||2||4||1||10||2||1<ref group="lower-alpha" name="TCh"/>||1||52||25
+|-
+|[[2016–17 Paris Saint-Germain F.C. season|2016–17]]
+|Ligue 1
+||36||35||3||2||3||4||8||8||0||0||50||49
+|-
+|[[2017–18 Paris Saint-Germain F.C. season|2017–18]]
+|Ligue 1
+|32||28||5||3||2||2||8||7||1<ref group="lower-alpha" name="TCh"/>||0||48||40
+|-
+|[[2018–19 Paris Saint-Germain F.C. season|2018–19]]
+|Ligue 1
+||21||18||3||2||2||1||7||2||0||0||33||23
+|-
+|[[2019–20 Paris Saint-Germain F.C. season|2019–20]]
+|Ligue 1
+|14||4||2||2||2||0||3||1||1<ref group="lower-alpha" name="TCh"/>||0||22||7
+|-
+!colspan="2"|Total
+!200!!138!!24!!16!!19!!15!!54!!30!!4!!1!!301!!200
+|-
+|rowspan="3"|[[Manchester United F.C.|Manchester United]]
+|[[2020–21 Manchester United F.C. season|2020–21]]
+|[[Premier League]]
+|26||10||3||0||1||1||9||6||colspan="2"|—||39||17
+|-
+|[[2021–22 Manchester United F.C. season|2021–22]]
+|Premier League
+|15||2||1||0||0||0||4||0||colspan="2"|—||20||2
+|-
+!colspan="2"|Total
+!41!!12!!4!!0!!1!!1!!13!!6!!colspan="2"|—!!59!!19
+|-
+|[[Valencia CF|Valencia]]
+|[[2022–23 Valencia CF season|2022–23]]
+|[[La Liga]]
+|25||5||2||2||colspan="2"|—||colspan="2"|—||1<ref group="lower-alpha">Appearance in [[Supercopa de España]]</ref>||0||28||7
+|-
+!colspan="3"|Career total
+!504!!276!!49!!30!!20!!16!!94!!55!!6!!2!!673!!379
+|}
+
+'''Notes'''
+{{notelist}}
+
+===International===
+{{updated|match played 2 December 2022}}<ref name="NFT">{{NFT player|25130|name=Cavani, Edinson|access-date=2 December 2022}}</ref>
+
+{| class="wikitable" style="text-align:center"
+|+ Appearances and goals by national team and year
+|-
+!National team!!Year!!Apps!!Goals
+|-
+|rowspan="15"|[[Uruguay national football team|Uruguay]]
+|2008||4||1
+|-
+|2009||8||0
+|-
+|2010||12||7
+|-
+|2011||12||2
+|-
+|2012||9||3
+|-
+|2013||15||7
+|-
+|2014||10||4
+|-
+|2015||8||4
+|-
+|2016||11||9
+|-
+|2017||9||3
+|-
+|2018||11||6
+|-
+|2019||7||4
+|-
+|2020||2||1
+|-
+|2021||8||2
+|-
+|2022||10||5
+|-
+!colspan="2"|Total!!136!!58
+|}
+
+:''Scores and results list Uruguay's goal tally first, score column indicates score after each Cavani goal.''
+
+{| class="wikitable sortable"
+|+ List of international goals scored by Edinson Cavani<ref name="NFT"/>
+|-
+!scope="col"|No.
+!scope="col"|Date
+!scope="col"|Venue
+!scope="col"|Opponent
+!scope="col"|Score
+!scope="col"|Result
+!scope="col"|Competition
+|-
+| style="text-align:center"|1 || 6 February 2008 || [[Estadio Centenario]], [[Montevideo]], Uruguay || {{fb|COL}} || style="text-align:center"|1–2 || style="text-align:center"|2–2 || [[Friendly (association football)|Friendly]]
+|-
+| style="text-align:center"|2 || 3 March 2010 || [[AFG Arena]], [[St. Gallen]], Switzerland || {{fb|SUI}} || style="text-align:center"|3–1 || style="text-align:center"|3–1 || Friendly
+|-
+| style="text-align:center"|3 || 10 July 2010 || [[Nelson Mandela Bay Stadium]], [[Port Elizabeth]], South Africa || {{fb|GER}} || style="text-align:center"|1–1 || style="text-align:center"|2–3 || [[2010 FIFA World Cup knockout stage|2010 FIFA World Cup]]
+|-
+| style="text-align:center"|4 || 11 August 2010 || [[Estádio do Restelo]], [[Lisbon]], Portugal || {{fb|ANG}} || style="text-align:center"|1–0 || style="text-align:center"|2–0 || Friendly
+|-
+| style="text-align:center"|5 || rowspan="3"|8 October 2010 || rowspan="3"|[[Gelora Bung Karno Stadium]], [[Jakarta]], Indonesia || rowspan="3"|{{fb|IDN}} || style="text-align:center"|1–1 || rowspan="3" style="text-align:center"|7–1 || rowspan="3"|Friendly
+|-
+| style="text-align:center"|6 || style="text-align:center"|6–1
+|-
+| style="text-align:center"|7 || style="text-align:center"|7–1
+|-
+| style="text-align:center"|8 || 12 October 2010 || [[Wuhan Sports Center Stadium]], [[Wuhan]], China || {{fb|CHN}} || style="text-align:center"|2–0 || style="text-align:center"|4–0 || Friendly
+|-
+| style="text-align:center"|9 || 30 March 2011 || [[Aviva Stadium]], [[Dublin]], Republic of Ireland || {{fb|IRL}} || style="text-align:center"|2–1 || style="text-align:center"|3–2 || Friendly
+|-
+| style="text-align:center"|10 || 7 October 2011 || Estadio Centenario, Montevideo, Uruguay || {{fb|BOL}} || style="text-align:center"|3–1 || style="text-align:center"|4–2 || [[2014 FIFA World Cup qualification (CONMEBOL)|2014 FIFA World Cup qualification]]
+|-
+| style="text-align:center"|11 || 29 February 2012 || [[Arena Națională]], [[Bucharest]], Romania || {{fb|ROU}} || style="text-align:center"|1–0 || style="text-align:center"|1–1 || Friendly
+|-
+| style="text-align:center"|12 || 11 September 2012 || Estadio Centenario, Montevideo, Uruguay || {{fb|ECU}} || style="text-align:center"|1–1 || style="text-align:center"|1–1 || 2014 FIFA World Cup qualification
+|-
+| style="text-align:center"|13 || 14 November 2012 || [[PGE Arena Gdańsk]], [[Gdańsk]], Poland || {{fb|POL}} || style="text-align:center"|2–0 || style="text-align:center"|3–1 || Friendly
+|-
+| style="text-align:center"|14 || 12 June 2013 || [[Polideportivo Cachamay]], [[Puerto Ordaz and San Felix|Puerto Ordaz]], Venezuela || {{fb|VEN}} || style="text-align:center"|1–0 || style="text-align:center"|1–0 || 2014 FIFA World Cup qualification
+|-
+| style="text-align:center"|15 || 26 June 2013 || [[Mineirão]], [[Belo Horizonte]], Brazil || {{fb|BRA}} || style="text-align:center"|1–1 || style="text-align:center"|1–2 || [[2013 FIFA Confederations Cup knockout stage|2013 FIFA Confederations Cup]]
+|-
+| style="text-align:center"|16 || rowspan="2"|30 June 2013 || rowspan="2"|[[Itaipava Arena Fonte Nova]], [[Salvador, Bahia|Salvador]], Brazil || rowspan="2"|{{fb|ITA}} || style="text-align:center"|1–1 || rowspan="2" style="text-align:center"|2–2 {{aet}} || rowspan="2"|[[2013 FIFA Confederations Cup knockout stage|2013 FIFA Confederations Cup]]
+|-
+| style="text-align:center"|17 || style="text-align:center"|2–2
+|-
+| style="text-align:center"|18 || 10 September 2013 || Estadio Centenario, Montevideo, Uruguay || {{fb|COL}} || style="text-align:center"|1–0 || style="text-align:center"|2–0 || 2014 FIFA World Cup qualification
+|-
+| style="text-align:center"|19 || 15 October 2013 || Estadio Centenario, Montevideo, Uruguay || {{fb|ARG}} || style="text-align:center"|3–2 || style="text-align:center"|3–2 || 2014 FIFA World Cup qualification
+|-
+| style="text-align:center"|20 || 13 November 2013 || [[Amman International Stadium]], [[Amman]], Jordan || {{fb|JOR}} || style="text-align:center"|5–0 || style="text-align:center"|5–0 || [[2014 FIFA World Cup qualification (AFC – CONMEBOL play-off)|2014 FIFA World Cup qualification]]
+|-
+| style="text-align:center"|21 || 4 June 2014 || Estadio Centenario, Montevideo, Uruguay || {{fb|SLO}} || style="text-align:center"|1–0 || style="text-align:center"|2–0 || Friendly
+|-
+| style="text-align:center"|22 || 14 June 2014 || [[Estádio Castelão]], [[Fortaleza]], Brazil || {{fb|CRC}} || style="text-align:center"|1–0 || style="text-align:center"|1–3 || [[2014 FIFA World Cup Group D|2014 FIFA World Cup]]
+|-
+| style="text-align:center"|23 || 5 September 2014 || [[Sapporo Dome]], [[Sapporo]], Japan || {{fb|JPN}} || style="text-align:center"|1–0 || style="text-align:center"|2–0 || Friendly
+|-
+| style="text-align:center"|24 || 13 November 2014 || Estadio Centenario, Montevideo, Uruguay || {{fb|CRC}} || style="text-align:center"|3–2 || style="text-align:center"|3–3 || Friendly
+|-
+| style="text-align:center"|25 || 28 March 2015 || [[Stade Adrar]], [[Agadir]], Morocco || {{fb|MAR}} || style="text-align:center"|1–0 || style="text-align:center"|1–0 || Friendly
+|-
+| style="text-align:center"|26 || rowspan="2"|6 June 2015 || rowspan="2"|Estadio Centenario, Montevideo, Uruguay || rowspan="2"|{{fb|GUA}} || style="text-align:center"|2–0 || rowspan="2" style="text-align:center"|5–1 || rowspan="2"|Friendly
+|-
+| style="text-align:center"|27 || style="text-align:center"|3–0
+|-
+| style="text-align:center"|28 || 12 November 2015 || [[Estadio Olímpico Atahualpa]], [[Quito]], Ecuador || {{fb|ECU}} || style="text-align:center"|1–1 || style="text-align:center"|1–2 || [[2018 FIFA World Cup qualification (CONMEBOL)|2018 FIFA World Cup qualification]]
+|-
+| style="text-align:center"|29 || 25 March 2016 || [[Itaipava Arena Pernambuco]], [[Recife]], Brazil || {{fb|BRA}} || style="text-align:center"|1–2 || style="text-align:center"|2–2 || 2018 FIFA World Cup qualification
+|-
+| style="text-align:center"|30 || 29 March 2016 || Estadio Centenario, Montevideo, Uruguay || {{fb|PER}} || style="text-align:center"|1–0 || style="text-align:center"|1–0 || 2018 FIFA World Cup qualification
+|-
+| style="text-align:center"|31 || rowspan="2"|27 May 2016 || rowspan="2"|Estadio Centenario, Montevideo, Uruguay || rowspan="2"|{{fb|TRI}} || style="text-align:center"|1–1 || rowspan="2" align=center| 3–1 || rowspan="2"|Friendly
+|-
+| style="text-align:center"|32 || style="text-align:center"|2–1
+|-
+| style="text-align:center"|33 || rowspan="2"|6 September 2016 || rowspan="2"|Estadio Centenario, Montevideo, Uruguay || rowspan="2"|{{fb|PAR}} || style="text-align:center"|1–0 || rowspan="2" align=center| 4–0 || rowspan="2"|2018 FIFA World Cup qualification
+|-
+| style="text-align:center"|34 || style="text-align:center"|4–0
+|-
+| style="text-align:center"|35 || rowspan="2"|6 October 2016 || rowspan="2"|Estadio Centenario, Montevideo, Uruguay || rowspan="2"|{{fb|VEN}} || style="text-align:center"|2–0 || rowspan="2" align=center| 3–0 || rowspan="2"|2018 FIFA World Cup qualification
+|-
+| style="text-align:center"|36 || style="text-align:center"|3–0
+|-
+| style="text-align:center"|37 || 15 November 2016 || [[Estadio Nacional Julio Martínez Prádanos]], [[Santiago]], Chile || {{fb|CHI}} || style="text-align:center"|1–0 || style="text-align:center"|1–3 || 2018 FIFA World Cup qualification
+|-
+| style="text-align:center"|38 || 23 March 2017 || Estadio Centenario, Montevideo, Uruguay || {{fb|BRA}} || style="text-align:center"|1–0 || style="text-align:center"|1–4 || 2018 FIFA World Cup qualification
+|-
+| style="text-align:center"|39 || 10 October 2017 || Estadio Centenario, Montevideo, Uruguay || {{fb|BOL}} || style="text-align:center"|2–1 || style="text-align:center"|4–2 || 2018 FIFA World Cup qualification
+|-
+| style="text-align:center"|40 || 14 November 2017 || [[Ernst-Happel-Stadion]], [[Vienna]], Austria || {{fb|AUT}} || style="text-align:center"|1–1 || style="text-align:center"|1–2 || Friendly
+|-
+| style="text-align:center"|41 || 23 March 2018 || [[Guangxi Sports Center]], [[Nanning]], China || {{fb|CZE}} || style="text-align:center"|2–0 || style="text-align:center"|2–0 || [[2018 China Cup]]
+|-
+| style="text-align:center"|42 || 26 March 2018 || Guangxi Sports Center, Nanning, China || {{fb|WAL}} || style="text-align:center"|1–0 || style="text-align:center"|1–0 || 2018 China Cup
+|-
+| style="text-align:center"|43 || 25 June 2018 || [[Cosmos Arena]], [[Samara]], Russia || {{fb|RUS}} || style="text-align:center"|3–0 || style="text-align:center"|3–0 || [[2018 FIFA World Cup Group A|2018 FIFA World Cup]]
+|-
+| style="text-align:center"|44 || rowspan="2"|30 June 2018 || rowspan="2"|[[Fisht Olympic Stadium]], [[Sochi]], Russia || rowspan="2"|{{fb|POR}} || style="text-align:center"|1–0 || rowspan="2" align=center| 2–1 || rowspan="2"|[[2018 FIFA World Cup knockout stage|2018 FIFA World Cup]]
+|-
+| style="text-align:center"|45 || style="text-align:center"|2–1
+|-
+| style="text-align:center"|46 || 16 October 2018 || [[Saitama Stadium 2002]], [[Saitama (city)|Saitama]], Japan || {{fb|JPN}} || style="text-align:center"|2–2 || style="text-align:center"|3–4 || Friendly
+|-
+| style="text-align:center"|47 || 16 June 2019 || Estádio Mineirão, Belo Horizonte, Brazil || {{fb|ECU}} || style="text-align:center"|2–0 || style="text-align:center"|4–0 || [[2019 Copa América Group C|2019 Copa América]]
+|-
+| style="text-align:center"|48 || 24 June 2019 || [[Maracanã Stadium|Estádio do Maracanã]], [[Rio de Janeiro]], Brazil || {{fb|CHI}} || style="text-align:center"|1–0 || style="text-align:center"|1–0 || 2019 Copa América
+|-
+| style="text-align:center"|49 || 15 November 2019 || [[Puskás Aréna]], [[Budapest]], Hungary || {{fb|HUN}} || style="text-align:center"|1–0 || style="text-align:center"|2–1 || Friendly
+|-
+| style="text-align:center"|50 || 18 November 2019 || [[Bloomfield Stadium]], [[Tel Aviv]], Israel || {{fb|ARG}} || style="text-align:center"|1–0 || style="text-align:center"|2–2 || Friendly
+|-
+| style="text-align:center"|51 || 13 November 2020 || [[Estadio Metropolitano Roberto Meléndez]], [[Barranquilla]], Colombia || {{fb|COL}} || style="text-align:center"|1–0 || style="text-align:center"|3–0 || [[2022 FIFA World Cup qualification (CONMEBOL)|2022 FIFA World Cup qualification]]
+|-
+| style="text-align:center"|52 || 24 June 2021 || [[Arena Pantanal]], [[Cuiabá]], Brazil || {{fb|BOL}} || style="text-align:center"|2–0 || style="text-align:center"|2–0 || [[2021 Copa América Group A|2021 Copa América]]
+|-
+| style="text-align:center"|53 || 28 June 2021 || [[Estádio Olímpico Nilton Santos]], [[Rio de Janeiro]], Brazil || {{fb|PAR}} || style="text-align:center"|1–0 || style="text-align:center"|1–0 || 2021 Copa América
+|-
+| style="text-align:center"|54 || 1 February 2022 || Estadio Centenario, Montevideo, Uruguay || {{fb|VEN}} || style="text-align:center"|3–0 || style="text-align:center"|4–1 || 2022 FIFA World Cup qualification
+|-
+| style="text-align:center"|55 || rowspan="2"|2 June 2022 || rowspan="2"|[[State Farm Stadium]], [[Glendale, Arizona|Glendale]], United States || rowspan="2"|{{fb|MEX}} || style="text-align:center"|2–0 || rowspan="2" style="text-align:center"|3–0 || rowspan="2"|Friendly
+|-
+| style="text-align:center"|56 || style="text-align:center"|3–0
+|-
+| style="text-align:center"|57 || rowspan="2"|11 June 2022 || rowspan="2"|Estadio Centenario, Montevideo, Uruguay || rowspan="2"|{{fb|PAN}} || style="text-align:center"|1–0 || rowspan="2" style="text-align:center"|5–0 || rowspan="2"|Friendly
+|-
+| style="text-align:center"|58 || style="text-align:center"|2–0
+|}
+
+==Honours==
+[[File:Paris Saint-Germain, vainqueur Coupe de la Ligue 2014.JPG|thumb|Cavani holding the [[Coupe de la Ligue]] after PSG's win in [[2014 Coupe de la Ligue Final|2014]]]]
+
+'''Danubio'''<ref name=SW/>
+*[[Uruguayan Primera División|Primera División]]: [[2006–07 Uruguayan Primera División|2006–07]]
+
+'''Napoli'''<ref name=SW/>
+*[[Coppa Italia]]: [[2011–12 Coppa Italia|2011–12]]
+
+'''Paris Saint-Germain'''<ref name=SW/>
+*[[Ligue 1]]: [[2013–14 Ligue 1|2013–14]], [[2014–15 Ligue 1|2014–15]], [[2015–16 Ligue 1|2015–16]], [[2017–18 Ligue 1|2017–18]],<ref>{{cite web |url=https://www.goal.com/en-my/news/psg-clinch-ligue-1-title-by-thrashing-monaco/1ty70ovdroka415jkim9oc0zsj |title=PSG wrap up Ligue 1 title with Monaco win |website=Goal |publisher=DAZN Group |location=Leeds |first=Ryan |last=Benson |date=15 April 2018 |access-date=24 August 2020 |archive-date=25 April 2019 |archive-url=https://web.archive.org/web/20190425054339/https://www.goal.com/en-my/news/psg-clinch-ligue-1-title-by-thrashing-monaco/1ty70ovdroka415jkim9oc0zsj |url-status=dead }}</ref> [[2018–19 Ligue 1|2018–19]],<ref>{{cite web |url=https://www.ligue1.com/ligue1/article/psg-champions-as-lille-held-at-toulouse.htm |title=PSG Champions as Lille held at Toulouse |date=21 April 2019 |access-date=21 April 2019 |publisher=Ligue 1 |archive-date=26 June 2019 |archive-url=https://web.archive.org/web/20190626220236/https://www.ligue1.com/ligue1/article/psg-champions-as-lille-held-at-toulouse.htm |url-status=dead }}</ref> [[2019–20 Ligue 1|2019–20]]<ref>{{Cite web|title=PSG champions as season ended |url=https://www.ligue1.com/Articles/NEWS/2020/04/30/psg-champions-season-ended-ligue-1 |website=Ligue 1}}</ref>
+*[[Coupe de France]]: [[2014–15 Coupe de France|2014–15]], [[2015–16 Coupe de France|2015–16]], [[2016–17 Coupe de France|2016–17]], [[2017–18 Coupe de France|2017–18]],<ref>{{cite web|url=https://www.goal.com/en-ng/amp/news/paris-saint-germain-set-record-with-fourth-straight-coupe-de/1ubb1rik0lw6b1pwatka3l5nh6|title=Paris Saint-Germain set record with fourth straight Coupe De France crown|website=[[Goal (website)|Goal]]|access-date=8 May 2018}}</ref> [[2019–20 Coupe de France|2019–20]]
+*[[Coupe de la Ligue]]: [[2013–14 Coupe de la Ligue|2013–14]], [[2014–15 Coupe de la Ligue|2014–15]], [[2015–16 Coupe de la Ligue|2015–16]], [[2016–17 Coupe de la Ligue|2016–17]], [[2017–18 Coupe de la Ligue|2017–18]], [[2019–20 Coupe de la Ligue|2019–20]]
+*[[Trophée des Champions]]: [[2014 Trophée des Champions|2014]], [[2015 Trophée des Champions|2015]], [[2017 Trophée des Champions|2017]], [[2019 Trophée des Champions|2019]]<ref name="Statistics">{{cite web|url=https://www.edicavaniofficial.com/statistiques|title=Statistiques|website=EdiCavaniOfficial.com|language=fr|access-date=12 January 2021}}</ref>
+*[[UEFA Champions League]] runner-up: [[2019–20 UEFA Champions League|2019–20]]
+
+'''Manchester United'''
+*[[UEFA Europa League]] runner-up: [[2020–21 UEFA Europa League|2020–21]]<ref>{{cite web |first=Simon |last=Stone |title=Villarreal 1–1 Manchester United (11–10 on pens): David de Gea spot kick saved in epic Europa League final shootout |url=https://www.bbc.co.uk/sport/football/57224112 |work=BBC Sport |date=26 May 2021 |access-date=26 May 2021 }}</ref>
+
+'''Uruguay'''<ref name="SW" />
+*[[Copa América]]: [[2011 Copa América|2011]]
+
+'''Individual'''
+* [[South American Youth Championship]] top scorer: [[2007 South American Youth Championship|2007]] (7 goals)<ref name="uefa.com">{{cite web|url=http://www.uefa.com/teamsandplayers/players/player=1905813/profile/index.html|title=Edinson Cavani|publisher=UEFA|access-date=24 May 2016}}</ref><ref name="FIFA.com">{{cite web|url=https://www.fifa.com/u20worldcup/news/y=2007/m=6/news=uruguay-new-goal-machine-541440.html|archive-url=https://web.archive.org/web/20160617183815/http://www.fifa.com/u20worldcup/news/y=2007/m=6/news=uruguay-new-goal-machine-541440.html|url-status=dead|archive-date=17 June 2016|title=Uruguay's new goal machine|publisher=FIFA|date=30 June 2007|access-date=24 May 2016}}</ref>
+* [[Oscar del Calcio#Serie A Fan Award|Serie A Fan Award]]: 2010<ref>{{cite web|url=http://www.tuttonapoli.net/brevi/votiamo-tutti-insieme-cavani-per-il-gol-pia-bello-ed-il-fan-award-agli-oscar-del-calcio-79593|title=Votiamo tutti insieme Cavani per il "Gol più bello" ed il "Fan Award" agli Oscar del Calcio|publisher=Tutto Napoli|language=it|date=15 January 2012|access-date=24 May 2016}}</ref>
+* [[Serie A Team of the Year]]: [[2010–11 Serie A|2010–11]], [[2011–12 Serie A|2011–12]], [[2012–13 Serie A|2012–13]]<ref>{{cite news|url=http://www.aia-figc.it/dettaglio.asp?ID=6050 |title=Gran Cala' del Calcio 2011: Rizzoli premiato miglior arbitro |publisher=FIGC.it |language=it |date=24 January 2012 |access-date=21 June 2014 |url-status=dead |archive-url=https://web.archive.org/web/20131103212125/http://aia-figc.it/dettaglio.asp?ID=6050 |archive-date=3 November 2013}}</ref><ref>{{cite web|url=http://www.tuttosport.com/calcio/serie_a/2013/01/27-242192/Gran+Gal%26%23224%3B+del+Calcio+Aic.+E%26apos%3B+Pirlo+il+migliore+del+2012|title=Gran Galà del Calcio Aic. E' Pirlo il migliore del 2012|trans-title=Gran Galà del Calcio Aic. Pirlo is the best of 2012|publisher=Tutto Sport|language=it|date=27 January 2013|access-date=1 June 2015|url-status=dead|archive-url=https://web.archive.org/web/20150624042901/http://www.tuttosport.com/calcio/serie_a/2013/01/27-242192/Gran+Gal%26%23224%3B+del+Calcio+Aic.+E%26apos%3B+Pirlo+il+migliore+del+2012|archive-date=24 June 2015}}</ref><ref>{{cite news|url=http://www.tuttosport.com/calcio/serie_a/2014/01/27-283890/Oscar+del+calcio%3A+Vidal+e+Pirlo+sono+il+top.+La+Juve+%C3%A8+la+pi%C3%B9+forte+d%27Italia?print|title=Oscar del calcio: Vidal e Pirlo sono il top. La Juve è la più forte d'Italia|newspaper=Tuttosport|language=it|date=27 January 2014|access-date=19 June 2015|url-status=dead|archive-url=https://web.archive.org/web/20150620001027/http://www.tuttosport.com/calcio/serie_a/2014/01/27-283890/Oscar+del+calcio%3A+Vidal+e+Pirlo+sono+il+top.+La+Juve+%C3%A8+la+pi%C3%B9+forte+d%27Italia?print|archive-date=20 June 2015}}</ref>
+* [[Coppa Italia]] top scorer: [[2011–12 Coppa Italia|2011–12]] (5 goals)<ref>{{cite web|url=https://www.rsssf.org/tablesi/italcuptops.html |title=Italy – Coppa Italia Top Scorers |publisher=Rec.Sport.Soccer Statistics Foundation |first1=Roberto |last1=Di Maggio |first2=Davide |last2=Rota |date=4 June 2015 |access-date=15 June 2015 |url-status=live |archive-url=https://web.archive.org/web/20151029033413/http://www.rsssf.com/tablesi/italcuptops.html |archive-date=29 October 2015 }}</ref>
+* [[Capocannoniere]]: 2012–13<ref>{{cite web|url=https://www.rsssf.org/tablesi/italtops.html |title=Italy – Serie A Top Scorers |publisher=Rec.Sport.Soccer Statistics Foundation |first1=Roberto |last1=Di Maggio |first2=Igor |last2=Kramarsic |first3=Alberto |last3=Novello |date=11 June 2015 |access-date=2 December 2015 |url-status=live |archive-url=https://web.archive.org/web/20151031163443/http://www.rsssf.com/tablesi/italtops.html |archive-date=31 October 2015 }}</ref>
+* [[Guerin d'Oro]]: 2012–13<ref>{{cite web|url=https://www.rsssf.org/miscellaneous/italpoy.html |title=Italy – Footballer of the Year |publisher=Rec.Sport.Soccer Statistics Foundation |access-date=10 April 2015 |url-status=live |archive-url=https://web.archive.org/web/20150121013030/http://www.rsssf.com/miscellaneous/italpoy.html |archive-date=21 January 2015}}</ref>
+* [[National Union of Professional Footballers|UNFP]] [[Trophées UNFP du football|Ligue 1 Team of the Year]]: [[2013–14 Ligue 1|2013–14]], [[2016–17 Ligue 1|2016–17]], [[2017–18 Ligue 1|2017–18]]<ref>{{cite web|url=http://www.ligue1.com/ligue1/article/ibrahimovic-named-player-of-year.htm|title=Ibrahimovic named Player of Year|publisher=Ligue 1|date=12 May 2014|access-date=24 May 2016|archive-date=30 July 2020|archive-url=https://web.archive.org/web/20200730230720/http://www.ligue1.com/ligue1/article/ibrahimovic-named-player-of-year.htm|url-status=dead}}</ref><ref>{{Cite news|url=http://www.squawka.com/news/edinson-cavani-named-ligue-1-player-of-the-year-as-six-monaco-players-make-team-of-the-season/948119|title=Cavani named Ligue 1 player of the year as six Monaco players make team of the season|work=Squawka News|access-date=16 May 2017}}</ref>
+* UNFP [[Trophées UNFP du football#Player of the Year|Ligue 1 Player of the Year]]: 2016–17<ref name="auto"/>
+* [[List of Ligue 1 top scorers|Ligue 1 top scorer]]: 2016–17 (35 goals), 2017–18 (28 goals)<ref>{{cite web|url=https://www.bdfutbol.com/en/j/j97175.html |title=Cavani |website=BDFutbol |access-date=29 October 2020}}</ref>
+* [[Coupe de la Ligue]] top scorer: [[2013–14 Coupe de la Ligue|2013–14]] (four goals), [[2014–15 Coupe de la Ligue|2014–15]] (three goals), [[2016–17 Coupe de la Ligue|2016–17]] (four goals)<ref>{{cite web|url=http://www.ligue1.com/coupeLigue/classementButeurs#sai=83&journee1=47&journee2=60&cat=G&poste=Tous|title=Official Top Scorer Chart|publisher=Ligue 1|access-date=24 May 2016}}</ref><ref>{{cite web|url=http://www.worldfootball.net/goalgetter/fra-coupe-de-la-ligue-2016-2017/|title=Coupe de la Ligue 2016/2017 – Top Scorer|publisher=Ligue 1|date=15 May 2017|access-date=15 May 2017}}</ref>
+* [[Coupe de France]] top scorer: [[2014–15 Coupe de France|2014–15]] (four goals)<ref>{{cite web |url=http://www.worldfootball.net/goalgetter/fra-coupe-de-france-2014-2015/ |title=Coupe de France 2014/2015 " Top Scorer |access-date=22 October 2017}}</ref>
+* UNFP [[Ligue 1]] [[UNFP Player of the Month|Player of the Month]]: September 2016, October 2016
+* [[European Sports Media#ESM Team of the Season|ESM Team of the Year]]: [[European Sports Media#2010s|2016–17]]<ref name="AZ2017">{{cite work |title=ESM Top-Elf: Ein Bayern-Star in Europas Elite |url=http://www.abendzeitung-muenchen.de/inhalt.team-der-saison-esm-top-elf-ein-bayern-star-in-europas-elite.8ee28a4c-2d49-4f49-93a4-d4dc9575ded2.html |work=Abendzeitung |language=de |date=8 June 2017 |access-date=12 June 2017 }}</ref>
+* [[CONMEBOL]] [[FIFA World Cup qualification]] top scorer: [[2018 FIFA World Cup qualification (CONMEBOL)|2018]] (ten goals)<ref name="auto1"/>
+* Ligue 1 Best Foreign Player: 2017<ref>{{Cite news|url=http://www.espn.com/soccer/paris-saint-germain/story/3326725/psgs-edinson-cavani-voted-best-foreign-player-in-ligue-1|title=Cavani voted best foreign star in Ligue 1|publisher=ESPN|access-date=28 December 2017}}</ref>
+* [[Golden Foot]]: 2018<ref>{{Cite news|url=https://punchng.com/edinson-cavani-wins-2018-golden-foot-award/|title=Cavani von Golden Foot |publisher=punchng|access-date=22 November 2017}}</ref>
+* [[Premier League Goal of the Month]]: [[2020–21 Premier League#Monthly awards|May 2021]]<ref>{{cite news |url=https://www.premierleague.com/news/2161355|title=Cavani wonder strike voted Budweiser Goal of the Month|publisher=Premier League |date=29 May 2021|access-date=29 May 2021}}</ref>
+* [[UEFA Europa League]] Squad of the Season: [[2020–21 UEFA Europa League#Squad of the season|2020–21]]<ref>{{cite news|title=UEFA Europa League Squad of the Season 2020/21|url=https://www.uefa.com/uefaeuropaleague/news/0269-1262ae3ac85f-0a3f996ae443-1000--uefa-europa-league-squad-of-the-season-2020-21/|date=28 May 2021|access-date=30 May 2021|website=UEFA.com |publisher=Union of European Football Associations}}</ref>
+
+==See also==
+*[[List of men's footballers with 100 or more international caps]]
+*[[List of men's footballers with 50 or more international goals]]
+
+==References==
+{{reflist}}
+
+==External links==
+{{Commons category}}
+* [https://www.edicavaniofficial.com/ Edinson Cavani] – Official website
+* [https://www.valenciacf.com/en/sports/en-first-team-01/player/edinson-cavani Edinson Cavani] – Valencia CF official profile
+* {{UEFA player}}
+* {{FIFA player}}
+* {{Soccerbase}}
+* {{LFP Ligue 1|edinson-roberto-cavani}}
+* {{Olympics.com|edinson-cavani}}
+* {{Olympedia}}
+
+{{Valencia CF squad}}
+{{Navboxes
+| title = Uruguay squads
+| bg = #5CBFEB
+| fg = black
+| bordercolor = gold
+| list1 = 
+{{Uruguay squad 2010 FIFA World Cup}}
+{{Uruguay squad 2011 Copa América}}
+{{Uruguay men's football squad 2012 Summer Olympics}}
+{{Uruguay squad 2013 FIFA Confederations Cup}}
+{{Uruguay squad 2014 FIFA World Cup}}
+{{Uruguay squad 2015 Copa América}}
+{{Uruguay squad Copa América Centenario}}
+{{Uruguay squad 2018 FIFA World Cup}}
+{{Uruguay squad 2019 Copa América}}
+{{Uruguay squad 2021 Copa América}}
+{{Uruguay squad 2022 FIFA World Cup}}
+}}
+{{Navboxes
+| title = Awards
+| bg = gold
+| fg = navy
+| list1 = 
+{{South American Youth Football Championship awards}}
+{{2010–11 Serie A Team of the Year}}
+{{2011–12 Serie A Team of the Year}}
+{{2012–13 Serie A Team of the Year}}
+{{2013–14 Ligue 1 UNFP Team of the Year}}
+{{2016–17 Ligue 1 UNFP Team of the Year}}
+{{2017–18 Ligue 1 UNFP Team of the Year}}
+{{Serie A top scorers}}
+{{Coppa Italia top scorers}}
+{{Ligue 1 top scorers}}
+{{Ligue 1 Player of the Year}}
+{{Golden Foot winners}}
+{{Trofeo EFE}}
+}}
+{{Portal bar|Association football|Uruguay}}
+{{Authority control}}
+
+{{DEFAULTSORT:Cavani, Edinson}}
+[[Category:1987 births]]
+[[Category:Living people]]
+[[Category:Footballers from Salto, Uruguay]]
+[[Category:Uruguayan people of Italian descent]]
+[[Category:Uruguayan evangelicals]]
+[[Category:Uruguayan men's footballers]]
+[[Category:Men's association football forwards]]
+[[Category:Danubio F.C. players]]
+[[Category:Palermo FC players]]
+[[Category:SSC Napoli players]]
+[[Category:Paris Saint-Germain F.C. players]]
+[[Category:Manchester United F.C. players]]
+[[Category:Valencia CF players]]
+[[Category:Uruguayan Primera División players]]
+[[Category:Serie A players]]
+[[Category:Ligue 1 players]]
+[[Category:Premier League players]]
+<!--[[Category:La Liga players]]-->
+[[Category:Uruguay men's youth international footballers]]
+[[Category:Uruguay men's under-20 international footballers]]
+[[Category:Olympic footballers for Uruguay]]
+[[Category:Uruguay men's international footballers]]
+[[Category:2010 FIFA World Cup players]]
+[[Category:2011 Copa América players]]
+[[Category:Footballers at the 2012 Summer Olympics]]
+[[Category:2013 FIFA Confederations Cup players]]
+[[Category:2014 FIFA World Cup players]]
+[[Category:2015 Copa América players]]
+[[Category:Copa América Centenario players]]
+[[Category:2018 FIFA World Cup players]]
+[[Category:2019 Copa América players]]
+[[Category:2021 Copa América players]]
+[[Category:2022 FIFA World Cup players]]
+[[Category:Copa América-winning players]]
+[[Category:FIFA Men's Century Club]]
+[[Category:Uruguayan expatriate men's footballers]]
+[[Category:Uruguayan expatriate sportspeople in Italy]]
+[[Category:Uruguayan expatriate sportspeople in France]]
+[[Category:Uruguayan expatriate sportspeople in England]]
+[[Category:Uruguayan expatriate sportspeople in Spain]]
+[[Category:Expatriate men's footballers in Italy]]
+[[Category:Expatriate men's footballers in France]]
+[[Category:Expatriate men's footballers in England]]
+[[Category:Expatriate men's footballers in Spain]]
+[[Category:Race-related controversies in the United Kingdom]]
+[[Category:La Liga players]]
+[[Category:Naturalised citizens of Italy]]

@@ -1,0 +1,41 @@
+{{National squad
+ | name        = Brazil squad 2022 FIFA World Cup
+ | bg          = #FEDF00
+ | fg          = #009B3A
+ | bordercolor = #002776
+ | country     = Brazil
+ | comp link   = 2022 FIFA World Cup
+ | comp        = 2022 FIFA World Cup
+ | p1          = [[Alisson Becker|Alisson]]
+ | p2          = [[Danilo (footballer, born July 1991)|Danilo]]
+ | p3          = [[Thiago Silva]]&nbsp;([[Captain (association football)|c]])
+ | p4          = [[Marquinhos]]
+ | p5          = [[Casemiro]]
+ | p6          = [[Alex Sandro]]
+ | p7          = [[Lucas Paquetá|Paquetá]]
+ | p8          = [[Fred (footballer, born 1993)|Fred]]
+ | p9          = [[Richarlison]]
+ | p10         = [[Neymar]]
+ | p11         = [[Raphinha]]
+ | p12         = [[Weverton (footballer, born 1987)|Weverton]]
+ | p13         = [[Dani Alves]]
+ | p14         = [[Éder Militão|Militão]]
+ | p15         = [[Fabinho (footballer, born 1993)|Fabinho]]
+ | p16         = [[Alex Telles|Telles]]
+ | p17         = [[Bruno Guimarães]]
+ | p18         = [[Gabriel Jesus]]
+ | p19         = [[Antony (footballer, born 2000)|Antony]]
+ | p20         = [[Vinícius Júnior|Vinícius Jr.]]
+ | p21         = [[Rodrygo]]
+ | p22         = [[Éverton Ribeiro|Ribeiro]]
+ | p23         = [[Ederson (footballer, born 1993)|Ederson]]
+ | p24         = [[Gleison Bremer|Bremer]]
+ | p25         = [[Pedro (footballer, born 1997)|Pedro]]
+ | p26         = [[Gabriel Martinelli|Martinelli]]
+ | coach       = [[Tite (football manager)|Tite]]
+}}<noinclude>
+{{Squad maintenance}}
+[[Category:2022 FIFA World Cup squad navigational boxes|Brazil]]
+[[Category:Brazil FIFA World Cup squad navigational boxes|2022]]
+[[Category:Brazil at the 2022 FIFA World Cup|squad]]
+</noinclude>

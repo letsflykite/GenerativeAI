@@ -1,0 +1,66 @@
+{{short description|Costa Rican footballer (born 2001)}}
+{{Use dmy dates|date=November 2022}}
+{{family name hatnote|Hernández|González|lang=Spanish}}
+{{Infobox football biography
+| name = Anthony Hernández
+| image = 
+| caption = 
+| fullname = Anthony William Hernández González<ref name="FIFA 2022">{{cite web |url=https://fdp.fifa.org/assetspublic/ce44/pdf/SquadLists-English.pdf |title=FIFA World Cup Qatar 2022 – Squad list: Costa Rica (CRC) |publisher=[[FIFA]] |page=7 |date=15 November 2022 |access-date=15 November 2022}}</ref>
+| birth_date = {{Birth date and age|2001|10|11|df=y}}<ref name="FIFA 2022"/>
+| birth_place = [[Puntarenas]], Costa Rica
+| height = 1.79 m<ref name="FIFA 2022"/>
+| position = [[Forward (association football)|Forward]]
+| currentclub = [[Puntarenas F.C.|Puntarenas]]
+| clubnumber = 
+| youthyears1 = 
+| youthclubs1 = 
+| years1 = 2020–
+| clubs1 = [[Puntarenas F.C.|Puntarenas]]
+| caps1 = 35
+| goals1 = 7
+| nationalyears1 = 2022–
+| nationalteam1 = [[Costa Rica national football team|Costa Rica]]
+| nationalcaps1 = 3
+| nationalgoals1 = 1
+| medaltemplates = 
+| club-update = 12:44 (UTC) 11 May 2023
+| nationalteam-update = 06:19 (UTC) 5 February 2023
+}}
+
+'''Anthony William Hernández González''' (born 11 October 2001) is a Costa Rican professional [[association football|footballer]] who plays as a [[forward (association football)|forward]] for [[Liga FPD]] club [[Puntarenas F.C.|Puntarenas]] and the [[Costa Rica national football team|Costa Rica national team]].
+
+==Club career==
+Hernández started playing for Puntarenas in 2020. In May 2022, Puntarenas beat Carmelita 3–0 on aggregate to earn promotion from [[Segunda División de Costa Rica]] to Costa Rica’s top flight for the first time since 2014. Hernández made his debut in the top flight on 20 July 2022 as his side won 3–0 against [[A.D. San Carlos]].<ref>{{Cite web|url=https://www.infobae.com/noticias/2022/07/20/puntarenas-y-ad-san-carlos-se-encuentran-en-la-fecha-1/|title=Puntarenas beat AD San Carlos 3-0|website=infobae.com}}</ref> He scored his first professional goal on 11 August 2022, in a 3–1 win against [[Municipal Grecia]].<ref>{{Cite web|url=https://www.hoyeneldeportecr.com/puntarenas-vencio-a-grecia-y-sigue-firmo-como-lider-del-grupo-b/|title=Puntarenas venció a Grecia y sigue firme como lider del Grupo B|website=hoyeneldeportecr.com|date=11 August 2022 }}</ref>
+
+==International career==
+Born in Costa Rica, Hernández is of Jamaican descent.<ref>{{Cite web|url=https://www.youtube.com/watch?v=rsqNSuRu2rQ|title=How many players of Jamaican Heritage will be at the World Cup?|via=www.youtube.com}}</ref> On 23 August 2022 he made his debut for the [[Costa Rica national football team|Costa Rica national team]] against [[South Korea national football team|South Korea]], coming on in the 65th minute for [[Jewison Bennette]] in a 2–2 draw.<ref>{{Cite web|url=https://everardoherrera.com/index.php/futbol-costa-rica-5/94094-costa-rica-iguala-2-2-frente-a-una-exigente-corea-del-sur|title= Costa Rica draws 2-2 against a demanding South Korea|website=everadoherrera.com}}</ref> Hernández scored his first goal for Costa Rica on 27 September 2022 against Uzbekistan.<ref>{{Cite web|url=https://ticotimes.net/2022/10/11/costa-rica-wins-2-1-in-pre-world-cup-match-with-uzbekistan|title=Costa Rica Wins 2-1 in Pre-World Cup Match with Uzbekistan|website=Ticotimes.net|date=11 October 2022 }}</ref> He was named in the Costa Rica squad for the [[2022 FIFA World Cup]].<ref>{{Cite web|url=https://www.espn.com.mx/futbol/costa-rica/nota/_/id/11184697/anthony-hernandez-incredulo-joel-campbell-cuando-dijo-estaba-mundial%3Fplatform%3D|title=Anthony Hernández fue incrédulo hasta de Joel Campbell cuando le dijo que estaba en Mundial|website=ESPN.com|date=5 November 2022 }}</ref>
+
+==Career statistics==
+{| class="wikitable"
+|-
+! No. !! Date !! Venue !! Opponent !! Score !! Result !! Competition 
+|-
+| 1. || 27 September 2022 || [[Suwon World Cup Stadium]], [[Suwon]], [[South Korea]] || {{fbw|UZB}} || align=center|'''1'''–1 || align=center| 2–1 || [[Exhibition match|Friendly]]
+|-
+|}
+
+==References==
+{{Reflist}}
+
+==External links==
+{{Soccerway|852824}}
+
+{{Costa Rica squad 2022 FIFA World Cup}}
+
+{{DEFAULTSORT:Hernandez, Anthony}}
+[[Category:2001 births]]
+[[Category:Living people]]
+[[Category:Costa Rican people of Jamaican descent]]
+[[Category:Costa Rican men's footballers]]
+[[Category:Men's association football forwards]]
+[[Category:Costa Rica men's international footballers]]
+[[Category:2022 FIFA World Cup players]]
+[[Category:Puntarenas F.C. players]]
+
+
+{{CostaRica-footy-bio-stub}}

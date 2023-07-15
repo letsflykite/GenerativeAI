@@ -1,0 +1,2575 @@
+{{short description|none}}
+The '''second round''' of [[2022 FIFA World Cup qualification (CAF)|CAF matches]] for '''[[2022 FIFA World Cup qualification]]''' was played over six matchdays, from 1 September to 16 November 2021.
+
+==Format==
+The second round saw the top 26 ranked CAF teams joined by the 14 winners from the [[2022 FIFA World Cup qualification – CAF first round|first round]]. These teams were drawn into ten groups of four teams to play home-and-away [[round-robin tournament|round-robin]] matches. The winners of each group advanced to the [[2022 FIFA World Cup qualification – CAF third round|third round]].
+
+==Seeding==
+The draw for the second round was held on 21 January 2020, 19:00 [[Central Africa Time|CAT]] ([[UTC+02:00|UTC+2]]), at the Nile Ritz-Carlton in [[Cairo]], Egypt.<ref>{{Cite web|url=https://www.fifa.com/worldcup/news/fifa-world-cup-2022-qualifiers-draws-to-take-centre-stage-in-south-america-and-a |title=FIFA World Cup 2022 qualifiers: draws to take centre stage in South America and Africa |date=11 December 2019 |website=[[FIFA]] |access-date=11 December 2019}}</ref>
+
+The seeding was based on the [[FIFA World Rankings]] of December 2019 (shown in parentheses below).<ref>{{cite web |url=https://www.fifa.com/fifa-world-ranking/ranking-table/men/rank/id12770/#CAF |archive-url=https://web.archive.org/web/20200115181312/https://www.fifa.com/fifa-world-ranking/ranking-table/men/rank/id12770/#CAF |url-status=dead |archive-date=January 15, 2020 |title=FIFA Men's Ranking – December 2019 (CAF) |publisher=FIFA.com |date=19 December 2019}}</ref>
+
+Note: '''Bolded''' teams qualified for the third round.
+
+{| class="wikitable"
+|-
+!width=25%|Pot 1
+!width=25%|Pot 2
+!width=25%|Pot 3
+!width=25%|Pot 4
+|-
+|{{ordered list|start=1
+|'''{{fb|SEN}}''' (20)
+|'''{{fb|TUN}}''' (27)
+|'''{{fb|NGA}}''' (31)
+|'''{{fb|ALG}}''' (35)
+|'''{{fb|MAR}}''' (43)
+|'''{{fb|GHA}}''' (47)
+|'''{{fb|EGY}}''' (51)
+|'''{{fb|CMR}}''' (53)
+|'''{{fb|MLI}}''' (56)
+|'''{{fb|COD}}''' (56)
+ }}
+|{{ordered list|start=11
+|{{fb|BFA}} (59)
+|{{fb|CIV}} (61)
+|{{fb|RSA}} (71)
+|{{fb|GUI}} (74)
+|{{fb|UGA}} (77)
+|{{fb|CPV}} (78)
+|{{fb|GAB}} (83)
+|{{fb|BEN}} (84)
+|{{fb|ZAM}} (88)
+|{{fb|CGO}} (89)
+ }}
+|{{ordered list|start=21
+|{{fb|MAD}} (91)
+|{{fb|MTN}} (100)
+|{{fb|LBY}} (101)
+|{{fb|MOZ}} (105)<sup>†</sup>
+|{{fb|KEN}} (106)
+|{{fb|CTA}} (109)
+|{{fb|ZIM}} (111)<sup>†</sup>
+|{{fb|NIG}} (112)
+|{{fb|NAM}} (117)<sup>†</sup>
+|{{fb|GNB}} (118)<sup>†</sup>
+ }}
+|{{ordered list|start=31
+|{{fb|MWI}} (123)<sup>†</sup>
+|{{fb|ANG}} (124)<sup>†</sup>
+|{{fb|TOG}} (126)<sup>†</sup>
+|{{fb|SDN}} (128)<sup>†</sup>
+|{{fb|RWA}} (131)<sup>†</sup>
+|{{fb|TAN}} (134)<sup>†</sup>
+|{{fb|EQG}} (145)<sup>†</sup>
+|{{fb|ETH}} (146)<sup>†</sup>
+|{{fb|LBR}} (152)<sup>†</sup>
+|{{fb|DJI}} (184)<sup>†</sup>
+ }}
+|}
+
+<sup>†</sup> [[2022 FIFA World Cup qualification – CAF first round|First round]] winners
+
+==Schedule==
+Below is the schedule of the second round of CAF 2022 FIFA World Cup qualification.<ref name="fifacalendar">{{cite web |title=INTERNATIONAL MATCH CALENDAR 2020–2024 |url=https://digitalhub.fifa.com/m/11f7fa1dc502361/original/Enclosure_Circular-1766_Updates-to-the-Men-s-International-Match-Calendar_EN.pdf |publisher=FIFA |date=October 2019 }}</ref> After the rescheduling of the [[2021 Africa Cup of Nations]] final tournament from June/July to January/February, the dates of Matchdays 1 and 2 of the second round were rescheduled.<ref>{{cite web|url=http://english.ahram.org.eg/NewsContent/6/52/359713/Sports/National-Teams/CAF-reschedules-dates-of-Nations-Cup-and-World-Cup.aspx|title=CAF reschedules dates of Nations Cup and World Cup qualifiers|publisher=Ahram Online|date=16 January 2020}}</ref> Because the competition was interrupted by the [[COVID-19 pandemic]], the schedule of the second round was revised again and on 19 August 2020 CAF announced the new dates, and the entire second round was postponed to 2021.<ref>{{cite web|url=https://www.cafonline.com/news-center/news/cameroon-2021-qualifiers-resume-november-qatar-2022-set-for-may-2021|title=Cameroon 2021 qualifiers resume November, Qatar 2022 set for May 2021|publisher=cafonline.com|date=19 August 2020}}</ref> On 6 May 2021, the second round was once again postponed due to the pandemic, and all matches were rescheduled to be played between September and November 2021.<ref>{{cite web|url=https://www.fifa.com/worldcup/news/update-on-african-qualifiers-for-fifa-world-cup-qatar-2022tm |title=Update on African qualifiers for FIFA World Cup Qatar 2022 |publisher=fifa.com |date=6 May 2021}}</ref>
+
+{| class="wikitable"
+! Matchday
+! Dates
+! Matches
+|-
+| Matchday 1
+| 1–3 September 2021{{efn|Matchday 1 originally scheduled for 23–31 March 2020, later for 5–13 October 2020, then 5–8 June 2021.}}
+| 1 v 4, 3 v 2
+|-
+| Matchday 2
+| 5–7 September 2021{{efn|Matchday 2 originally scheduled for 1–9 June 2020, later for 9–17 November 2020, then 11–14 June 2021.}}
+| 2 v 1, 4 v 3
+|-
+| Matchday 3
+| 6–9 October 2021{{efn|Matchday 3 originally scheduled for 22–26 March 2021, later for 1–4 June 2021, then 1–4 September 2021.}}
+| 1 v 3, 4 v 2
+|-
+| Matchday 4
+| 10–12 October 2021{{efn|Matchday 4 originally scheduled for 27–30 March 2021, later for 5–8 June 2021, then 5–8 September 2021.}}
+| 3 v 1, 2 v 4
+|-
+| Matchday 5
+| 11–13 November 2021{{efn|Matchday 5 originally scheduled for 30 August – 7 September 2021, then 6–9 October 2021.}}
+| 4 v 1, 2 v 3
+|-
+| Matchday 6
+| 14–16 November 2021{{efn|Matchday 6 originally scheduled for 4–12 October 2021, then 10–12 October 2021.}}
+| 1 v 2, 3 v 4
+|}
+{{notelist}}
+
+==Groups==
+===Group A===
+<onlyinclude>{{#invoke:Sports table|main|style=WDL
+|section=Group A
+|show_matches=y
+|class_rules=[[2022 FIFA World Cup qualification#Tiebreakers|Tiebreakers]]
+|source=[https://www.fifa.com/tournaments/mens/worldcup/qatar2022/qualifiers/caf FIFA], [https://int.soccerway.com/international/africa/wc-qualifying-africa/2022-qatar/2nd-round/group-a/g14992/ Soccerway]
+
+<!--Update team positions below (check tiebreakers)-->
+|team_order=ALG, BFA, NIG, DJI
+
+<!--Update team results below (including date)-->
+|update=complete
+|win_ALG=4 |draw_ALG=2 |loss_ALG=0 |gf_ALG=25|ga_ALG=4
+|win_BFA=3 |draw_BFA=3 |loss_BFA=0 |gf_BFA=12|ga_BFA=4
+|win_NIG=2 |draw_NIG=1 |loss_NIG=3 |gf_NIG=13|ga_NIG=17
+|win_DJI=0 |draw_DJI=0 |loss_DJI=6 |gf_DJI=4 |ga_DJI=29
+
+<!--Update results below-->
+|match_ALG_BFA=[[2022 FIFA World Cup qualification – CAF second round#ALG v BFA|2–2]]
+|match_ALG_NIG=[[2022 FIFA World Cup qualification – CAF second round#ALG v NIG|6–1]]
+|match_ALG_DJI=[[2022 FIFA World Cup qualification – CAF second round#ALG v DJI|8–0]]
+
+|match_BFA_ALG=[[2022 FIFA World Cup qualification – CAF second round#BFA v ALG|1–1]]
+|match_BFA_NIG=[[2022 FIFA World Cup qualification – CAF second round#BFA v NIG|1–1]]
+|match_BFA_DJI=[[2022 FIFA World Cup qualification – CAF second round#BFA v DJI|2–0]]
+
+|match_NIG_ALG=[[2022 FIFA World Cup qualification – CAF second round#NIG v ALG|0–4]]
+|match_NIG_BFA=[[2022 FIFA World Cup qualification – CAF second round#NIG v BFA|0–2]]
+|match_NIG_DJI=[[2022 FIFA World Cup qualification – CAF second round#NIG v DJI|7–2]]
+
+|match_DJI_ALG=[[2022 FIFA World Cup qualification – CAF second round#DJI v ALG|0–4]]
+|match_DJI_BFA=[[2022 FIFA World Cup qualification – CAF second round#DJI v BFA|0–4]]
+|match_DJI_NIG=[[2022 FIFA World Cup qualification – CAF second round#DJI v NIG|2–4]]
+
+<!--Team definitions-->
+|name_ALG={{fb|ALG}} |short_ALG={{flagdeco|ALG}}
+|name_BFA={{fb|BFA}} |short_BFA={{flagdeco|BFA}}
+|name_NIG={{fb|NIG}} |short_NIG={{flagdeco|NIG}}
+|name_DJI={{fb|DJI}} |short_DJI={{flagdeco|DJI}}
+
+<!--Qualification column definitions-->
+|res_col_header=Q
+|result1=Q
+|col_Q=green1 |text_Q=Advance to [[2022 FIFA World Cup qualification – CAF third round|third round]]
+}}</onlyinclude>
+{{Football box
+|id         = NIG v BFA
+|date       = {{Start date|2021|9|2|df=y}}
+|time       = {{UTZ|17:00|1}}
+|team1      = {{fb-rt|NIG}}
+|score      = 0–2
+|team2      = {{fb|BFA}}
+|goals1     =
+|goals2     =
+*[[Lassina Traoré|L. Traoré]] {{goal|76|pen.}}
+*[[Mohamed Konaté (footballer, born 1997)|Konaté]] {{goal|79}}
+|stadium    = [[Stade de Marrakech]], [[Marrakesh]] (Morocco)
+|attendance = 0
+|referee    = Samuel Uwikunda ([[Rwanda Football Federation|Rwanda]])
+|report     = https://www.fifa.com/tournaments/mens/worldcup/qatar2022/qualifiers/caf/match-center/400197988
+}}
+{{Football box
+|id         = ALG v DJI
+|date       = {{Start date|2021|9|2|df=y}}
+|time       = {{UTZ|20:00|1}}
+|team1      = {{fb-rt|ALG}}
+|score      = 8–0
+|team2      = {{fb|DJI}}
+|goals1     =
+*[[Islam Slimani|Slimani]] {{goal|5||25|pen.|46||53}}
+*[[Ramy Bensebaini|Bensebaini]] {{goal|27}}
+*[[Baghdad Bounedjah|Bounedjah]] {{goal|40|pen.}}
+*[[Riyad Mahrez|Mahrez]] {{goal|67}}
+*[[Ramiz Zerrouki|Zerrouki]] {{goal|69}}
+|goals2     =
+|stadium    = [[Mustapha Tchaker Stadium]], [[Blida]]
+|attendance = 0
+|referee    = Blaise Yuven Ngwa ([[Cameroonian Football Federation|Cameroon]])
+|report     = https://www.fifa.com/tournaments/mens/worldcup/qatar2022/qualifiers/caf/match-center/400197986
+}}
+----
+{{Football box
+|id         = DJI v NIG
+|date       = {{Start date|2021|9|6|df=y}}
+|time       = {{UTZ|14:00|1}}
+|team1      = {{fb-rt|DJI}}
+|score      = 2–4
+|team2      = {{fb|NIG}}
+|goals1     =
+*[[Anas Farah Ali|Farah Ali]] {{goal|32}}
+*[[Warsama Hassan|Hassan]] {{goal|90}}
+|goals2     =
+*[[Victorien Adebayor|Adebayor]] {{goal|49||56}}
+*[[Mohamed Wonkoye|Wonkoye]] {{goal|65|pen.}}
+*[[Amadou Sabo|Sabo]] {{goal|68}}
+|stadium    = [[Prince Moulay Abdellah Stadium]], [[Rabat]] (Morocco)
+|attendance = 0
+|referee    = Celso Alvação ([[Mozambican Football Federation|Mozambique]])
+|report     = https://www.fifa.com/tournaments/mens/worldcup/qatar2022/qualifiers/caf/match-center/400197989
+}}
+{{Football box
+|id         = BFA v ALG
+|date       = {{Start date|2021|9|7|df=y}}
+|time       = {{UTZ|20:00|1}}
+|team1      = {{fb-rt|BFA}}
+|score      = 1–1
+|team2      = {{fb|ALG}}
+|goals1     =
+*[[Abdoul Tapsoba|Tapsoba]] {{goal|64}}
+|goals2     =
+*[[Sofiane Feghouli|Feghouli]] {{goal|18}}
+|stadium    = [[Stade de Marrakech]], [[Marrakesh]] (Morocco)
+|attendance = 0
+|referee    = Joshua Bondo ([[Botswana Football Association|Botswana]])
+|report     = https://www.fifa.com/tournaments/mens/worldcup/qatar2022/qualifiers/caf/match-center/400197987
+}}
+----
+{{Football box
+|id         = ALG v NIG
+|date       = {{Start date|2021|10|8|df=y}}
+|time       = {{UTZ|20:00|1}}
+|team1      = {{fb-rt|ALG}}
+|score      = 6–1
+|team2      = {{fb|NIG}}
+|goals1     =
+*[[Riyad Mahrez|Mahrez]] {{goal|27||60|pen.}}
+*[[Youssouf Oumarou|Oumarou]] {{goal|47|o.g.}}
+*[[Zakariya Souleymane|Souleymane]] {{goal|70|o.g.}}
+*[[Islam Slimani|Slimani]] {{goal|76||88}}
+|goals2     =
+*[[Daniel Sosah|Sosah]] {{goal|50}}
+|stadium    = [[Mustapha Tchaker Stadium]], [[Blida]]
+|attendance = 0
+|referee    = Daniel Nii Ayi Laryea ([[Ghana Football Association|Ghana]])
+|report     = https://www.fifa.com/tournaments/mens/worldcup/qatar2022/qualifiers/caf/match-center/400204233
+}}
+{{Football box
+|id         = DJI v BFA
+|date       = {{Start date|2021|10|8|df=y}}
+|time       = {{UTZ|20:00|1}}
+|team1      = {{fb-rt|DJI}}
+|score      = 0–4
+|team2      = {{fb|BFA}}
+|goals1     =
+|goals2     =
+*[[Abdoul Tapsoba|Tapsoba]] {{goal|45+2||48}}
+*[[Issa Kaboré|Kaboré]] {{goal|51}}
+*[[Mohamed Konaté (footballer, born 1997)|Konaté]] {{goal|60}}
+|stadium    = [[Stade de Marrakech]], [[Marrakesh]] (Morocco)
+|attendance = 0
+|referee    = Ali Sabilla ([[Federation of Uganda Football Associations|Uganda]])
+|report     = https://www.fifa.com/tournaments/mens/worldcup/qatar2022/qualifiers/caf/match-center/400204236
+}}
+----
+{{Football box
+|id         = BFA v DJI
+|date       = {{Start date|2021|10|11|df=y}}
+|time       = {{UTZ|17:00|1}}
+|team1      = {{fb-rt|BFA}}
+|score      = 2–0
+|team2      = {{fb|DJI}}
+|goals1     = 
+*[[Issoufou Dayo|Dayo]] {{goal|30}}
+*[[Abdoul Tapsoba|Tapsoba]] {{goal|63}}
+|goals2     =
+|stadium    = [[Stade de Marrakech]], [[Marrakesh]] (Morocco)
+|attendance = 0
+|referee    = Hassen Corneh ([[Liberia Football Association|Liberia]])
+|report     = https://www.fifa.com/tournaments/mens/worldcup/qatar2022/qualifiers/caf/match-center/400204234
+}}
+{{Football box
+|id         = NIG v ALG
+|date       = {{Start date|2021|10|12|df=y}}
+|time       = {{UTZ|17:00|1}}
+|team1      = {{fb-rt|NIG}}
+|score      = 0–4
+|team2      = {{fb|ALG}}
+|goals1     =
+|goals2     =
+*[[Riyad Mahrez|Mahrez]] {{goal|21}}
+*[[Aïssa Mandi|Mandi]] {{goal|33}}
+*[[Ismaël Bennacer|Bennacer]] {{goal|48}}
+*[[Baghdad Bounedjah|Bounedjah]] {{goal|54}}
+|stadium    = [[Stade Général Seyni Kountché]], [[Niamey]]
+|attendance = 2,000<ref>{{cite news |url=https://dzballon.com/2021/10/11/niger-algerie-2000-spectateurs-presents-a-niamey |title=Niger-Algérie : 2000 spectateurs présents à Niamey |work=dzballon.com |publisher=Farid Kada Rabah |date=11 October 2021}}</ref>
+|referee    = Issa Sy ([[Senegalese Football Federation|Senegal]])
+|report     = https://www.fifa.com/tournaments/mens/worldcup/qatar2022/qualifiers/caf/match-center/400204235
+}}
+----
+{{Football box
+|id         = BFA v NIG
+|date       = {{Start date|2021|11|12|df=y}}
+|time       = {{UTZ|14:00|1}}
+|team1      = {{fb-rt|BFA}}
+|score      = 1–1
+|team2      = {{fb|NIG}}
+|goals1     =
+*[[Issoufou Dayo|Dayo]] {{goal|55|pen.}}
+|goals2     =
+*[[Youssouf Oumarou|Oumarou]] {{goal|34|pen.}}
+|stadium    = [[Stade de Marrakech]], [[Marrakesh]] (Morocco)
+|attendance = 0
+|referee    = Samir Guezzaz ([[Royal Moroccan Football Federation|Morocco]])
+|report     = https://www.fifa.com/tournaments/mens/worldcup/qatar2022/qualifiers/caf/match-center/400209467
+}}
+{{Football box
+|id         = DJI v ALG
+|date       = {{Start date|2021|11|12|df=y}}
+|time       = {{UTZ|15:00|2}}
+|team1      = {{fb-rt|DJI}}
+|score      = 0–4
+|team2      = {{fb|ALG}}
+|goals1     =
+|goals2     =
+*[[Youcef Belaïli|Belaïli]] {{goal|29}}
+*[[Saïd Benrahma|Benrahma]] {{goal|40}}
+*[[Sofiane Feghouli|Feghouli]] {{goal|42}}
+*[[Islam Slimani|Slimani]] {{goal|87}}
+|stadium    = [[Cairo International Stadium]], [[Cairo]] (Egypt)
+|attendance = 0
+|referee    = Djindo Louis Houngnandande ([[Benin Football Federation|Benin]])
+|report     = https://www.fifa.com/tournaments/mens/worldcup/qatar2022/qualifiers/caf/match-center/400209469
+}}
+----
+{{Football box
+|id         = NIG v DJI
+|date       = {{Start date|2021|11|15|df=y}}
+|time       = {{UTZ|17:00|1}}
+|team1      = {{fb-rt|NIG}}
+|score      = 7–2
+|team2      = {{fb|DJI}}
+|goals1     =
+*[[Victorien Adebayor|Adebayor]] {{goal|14||36||75}}
+*[[Mohamed Wonkoye|Wonkoye]] {{goal|62}}
+*[[Daniel Sosah|Sosah]] {{goal|64}}
+*[[Issa Djibrilla|Djibrilla]] {{goal|85||87}}
+|goals2     =
+*[[Youssouf Abdi Ahmed|Ahmed]] {{goal|33}}
+*[[Yabe Siad Isman|Siad Isman]] {{goal|84}}
+|stadium    = [[Stade Général Seyni Kountché]], [[Niamey]]
+|attendance = 3,000
+|referee    = Mohamed Youssouf Athoumani ([[Comoros Football Federation|Comoros]])
+|report     = https://www.fifa.com/tournaments/mens/worldcup/qatar2022/qualifiers/caf/match-center/400209468
+}}
+{{Football box
+|id         = ALG v BFA
+|date       = {{Start date|2021|11|16|df=y}}
+|time       = {{UTZ|20:00|1}}
+|team1      = {{fb-rt|ALG}}
+|score      = 2–2
+|team2      = {{fb|BFA}}
+|goals1     =
+*[[Riyad Mahrez|Mahrez]] {{goal|21}}
+*[[Sofiane Feghouli|Feghouli]] {{goal|68}}
+|goals2     =
+*[[Zakaria Sanogo|Sanogo]] {{goal|37}}
+*[[Issoufou Dayo|Dayo]] {{goal|84|pen.}}
+|stadium    = [[Mustapha Tchaker Stadium]], [[Blida]]
+|attendance = 17,000
+|referee    = [[Victor Gomes]] ([[South African Football Association|South Africa]])
+|report     = https://www.fifa.com/tournaments/mens/worldcup/qatar2022/qualifiers/caf/match-center/400209466
+}}
+
+===Group B===
+<onlyinclude>{{#invoke:Sports table|main|style=WDL
+|section=Group B
+|show_matches=y
+|class_rules=[[2022 FIFA World Cup qualification#Tiebreakers|Tiebreakers]]
+|source=[https://www.fifa.com/tournaments/mens/worldcup/qatar2022/qualifiers/caf FIFA], [https://int.soccerway.com/international/africa/wc-qualifying-africa/2022-qatar/2nd-round/group-b/g14993/ Soccerway]
+<!--Update team positions below (check tiebreakers)-->
+|team_order=TUN, EQG, ZAM, MTN
+
+<!--Update team results below (including date)-->
+|update=complete
+|win_TUN=4 |draw_TUN=1 |loss_TUN=1 |gf_TUN=11|ga_TUN=2
+|win_ZAM=2 |draw_ZAM=1 |loss_ZAM=3 |gf_ZAM=8 |ga_ZAM=9
+|win_MTN=0 |draw_MTN=2 |loss_MTN=4 |gf_MTN=2 |ga_MTN=11
+|win_EQG=3 |draw_EQG=2 |loss_EQG=1 |gf_EQG=6 |ga_EQG=5
+
+<!--Update results below-->
+|match_TUN_ZAM=[[2022 FIFA World Cup qualification – CAF second round#TUN v ZAM|3–1]]
+|match_TUN_MTN=[[2022 FIFA World Cup qualification – CAF second round#TUN v MTN|3–0]]
+|match_TUN_EQG=[[2022 FIFA World Cup qualification – CAF second round#TUN v EQG|3–0]]
+
+|match_ZAM_TUN=[[2022 FIFA World Cup qualification – CAF second round#ZAM v TUN|0–2]]
+|match_ZAM_MTN=[[2022 FIFA World Cup qualification – CAF second round#ZAM v MTN|4–0]]
+|match_ZAM_EQG=[[2022 FIFA World Cup qualification – CAF second round#ZAM v EQG|1–1]]
+
+|match_MTN_TUN=[[2022 FIFA World Cup qualification – CAF second round#MTN v TUN|0–0]]
+|match_MTN_ZAM=[[2022 FIFA World Cup qualification – CAF second round#MTN v ZAM|1–2]]
+|match_MTN_EQG=[[2022 FIFA World Cup qualification – CAF second round#MTN v EQG|1–1]]
+
+|match_EQG_TUN=[[2022 FIFA World Cup qualification – CAF second round#EQG v TUN|1–0]]
+|match_EQG_ZAM=[[2022 FIFA World Cup qualification – CAF second round#EQG v ZAM|2–0]]
+|match_EQG_MTN=[[2022 FIFA World Cup qualification – CAF second round#EQG v MTN|1–0]]
+
+<!--Team definitions-->
+|name_TUN={{fb|TUN}} |short_TUN={{flagdeco|TUN}}
+|name_ZAM={{fb|ZAM}} |short_ZAM={{flagdeco|ZAM}}
+|name_MTN={{fb|MTN}} |short_MTN={{flagdeco|MTN}}
+|name_EQG={{fb|EQG}} |short_EQG={{flagdeco|EQG}}
+
+<!--Qualification column definitions-->
+|res_col_header=Q
+|result1=Q
+|col_Q=green1 |text_Q=Advance to [[2022 FIFA World Cup qualification – CAF third round|third round]]
+}}</onlyinclude>
+{{Football box
+|id         = MTN v ZAM
+|date       = {{Start date|2021|9|3|df=y}}
+|time       = {{UTZ|16:00|0}}
+|team1      = {{fb-rt|MTN}}
+|score      = 1–2
+|team2      = {{fb|ZAM}}
+|goals1     = 
+*[[Mamadou Niass|Niass]] {{goal|69}}
+|goals2     = 
+*[[Enock Mwepu|Mwepu]] {{goal|10}}
+*[[Prince Mumba (footballer)|Mumba]] {{goal|57}}
+|stadium    = [[Stade Olympique (Nouakchott)|Stade Olympique de Nouakchott]], [[Nouakchott]]
+|attendance = 0
+|referee    = [[Ibrahim Nour El Din]] ([[Egyptian Football Association|Egypt]])
+|report     = https://www.fifa.com/tournaments/mens/worldcup/qatar2022/qualifiers/caf/match-center/400197991
+}}
+{{Football box
+|id         = TUN v EQG
+|date       = {{Start date|2021|9|3|df=y}}
+|time       = {{UTZ|20:00|1}}
+|team1      = {{fb-rt|TUN}}
+|score      = 3–0
+|team2      = {{fb|EQG}}
+|goals1     = 
+*[[Dylan Bronn|Bronn]] {{goal|54}}
+*[[Ellyes Skhiri|Skhiri]] {{goal|78}}
+*[[Wahbi Khazri|Khazri]] {{goal|82|pen.}}
+|goals2     =
+|stadium    = [[Stade Olympique Hammadi Agrebi|Stade Hammadi Agrebi]], [[Tunis]]
+|attendance = 0
+|referee    = Daniel Laryea Nii Ayi ([[Ghana Football Association|Ghana]])
+|report     = https://www.fifa.com/tournaments/mens/worldcup/qatar2022/qualifiers/caf/match-center/400197993
+}}
+----
+{{Football box
+|id         = ZAM v TUN
+|date       = {{Start date|2021|9|7|df=y}}
+|time       = {{UTZ|15:00|2}}
+|team1      = {{fb-rt|ZAM}}
+|score      = 0–2
+|team2      = {{fb|TUN}}
+|goals1     =
+|goals2     =
+*[[Wahbi Khazri|Khazri]] {{goal|8|pen.}}
+*[[Anis Ben Slimane|Ben Slimane]] {{goal|90+2}}
+|stadium    = [[Levy Mwanawasa Stadium]], [[Ndola]]
+|attendance = 5,000
+|referee    = [[Eric Otogo-Castane]] ([[Gabonese Football Federation|Gabon]])
+|report     = https://www.fifa.com/tournaments/mens/worldcup/qatar2022/qualifiers/caf/match-center/400197992
+}}
+{{Football box
+|id         = EQG v MTN
+|date       = {{Start date|2021|9|7|df=y}}
+|time       = {{UTZ|17:00|1}}
+|team1      = {{fb-rt|EQG}}
+|score      = 1–0
+|team2      = {{fb|MTN}}
+|goals1     =
+*[[Iban Salvador|Iban]] {{goal|59|pen.}}
+|goals2     =
+|stadium    = [[Estadio de Malabo]], [[Malabo]]
+|attendance = 0
+|referee    = Hélder Martins de Carvalho ([[Angolan Football Federation|Angola]])
+|report     = https://www.fifa.com/tournaments/mens/worldcup/qatar2022/qualifiers/caf/match-center/400197990
+}}
+----
+{{Football box
+|id         = EQG v ZAM
+|date       = {{Start date|2021|10|7|df=y}}
+|time       = {{UTZ|17:00|1}}
+|team1      = {{fb-rt|EQG}}
+|score      = 2–0
+|team2      = {{fb|ZAM}}
+|goals1     = 
+*[[Saúl Coco|Coco]] {{goal|35}}
+*[[Emilio Nsue|Nsue]] {{goal|88}}
+|goals2     =
+|stadium    = [[Estadio de Malabo]], [[Malabo]]
+|attendance = 0
+|referee    = Noureddine El Jaafari ([[Royal Moroccan Football Federation|Morocco]])
+|report     = https://www.fifa.com/tournaments/mens/worldcup/qatar2022/qualifiers/caf/match-center/400204237
+}}
+{{Football box
+|id         = TUN v MTN
+|date       = {{Start date|2021|10|7|df=y}}
+|time       = {{UTZ|20:00|1}}
+|team1      = {{fb-rt|TUN}}
+|score      = 3–0
+|team2      = {{fb|MTN}}
+|goals1     =
+*[[Ellyes Skhiri|Skhiri]] {{goal|15}}
+*[[Wahbi Khazri|Khazri]] {{goal|42}}
+*[[Seifeddine Jaziri|Jaziri]] {{goal|86}}
+|goals2     =
+|stadium    = [[Stade Olympique Hammadi Agrebi|Stade Hammadi Agrebi]], [[Tunis]]
+|attendance = 0
+|referee    = [[Bamlak Tessema Weyesa]] ([[Ethiopian Football Federation|Ethiopia]])
+|report     = https://www.fifa.com/tournaments/mens/worldcup/qatar2022/qualifiers/caf/match-center/400204239
+}}
+----
+{{Football box
+|id         = ZAM v EQG
+|date       = {{Start date|2021|10|10|df=y}}
+|time       = {{UTZ|18:00|2}}
+|team1      = {{fb-rt|ZAM}}
+|score      = 1–1
+|team2      = {{fb|EQG}}
+|goals1     =
+*[[Fashion Sakala|F. Sakala]] {{goal|65}}
+|goals2     =
+*[[Federico Bikoro|Bikoro]] {{goal|82}}
+|stadium    = [[National Heroes Stadium]], [[Lusaka]]
+|attendance = 45,000
+|referee    = [[Bakary Gassama]] ([[Gambia Football Association|Gambia]])
+|report     = https://www.fifa.com/tournaments/mens/worldcup/qatar2022/qualifiers/caf/match-center/400204240
+}}
+{{Football box
+|id         = MTN v TUN
+|date       = {{Start date|2021|10|10|df=y}}
+|time       = {{UTZ|19:00|0}}
+|team1      = {{fb-rt|MTN}}
+|score      = 0–0
+|team2      = {{fb|TUN}}
+|goals1     =
+|goals2     =
+|stadium    = [[Stade Olympique (Nouakchott)|Stade Olympique de Nouakchott]], [[Nouakchott]]
+|attendance = 500
+|referee    = [[Mehdi Abid Charef]] ([[Algerian Football Federation|Algeria]])
+|report     = https://www.fifa.com/tournaments/mens/worldcup/qatar2022/qualifiers/caf/match-center/400204238
+}}
+----
+{{Football box
+|id         = ZAM v MTN
+|date       = {{Start date|2021|11|13|df=y}}
+|time       = {{UTZ|15:00|2}}
+|team1      = {{fb-rt|ZAM}}
+|score      = 4–0
+|team2      = {{fb|MTN}}
+|goals1     =
+*[[Patson Daka|Daka]] {{goal|34}}
+*[[Fashion Sakala|F. Sakala]] {{goal|37||45+1|pen.|63}}
+|goals2     =
+|stadium    =[[National Heroes Stadium]], [[Lusaka]]
+|attendance = 5,000
+|referee    = Mahmood Ali Mahmood Ismail ([[Sudan Football Association|Sudan]])
+|report     = https://www.fifa.com/tournaments/mens/worldcup/qatar2022/qualifiers/caf/match-center/400209473
+}}
+{{Football box
+|id         = EQG v TUN
+|date       = {{Start date|2021|11|13|df=y}}
+|time       = {{UTZ|17:00|1}}
+|team1      = {{fb-rt|EQG}}
+|score      = 1–0
+|team2      = {{fb|TUN}}
+|goals1     =
+*[[Pablo Ganet|Ganet]] {{goal|84}}
+|goals2     =
+|stadium    = [[Estadio de Malabo]], [[Malabo]]
+|attendance = 500
+|referee    = Boubou Traoré ([[Malian Football Federation|Mali]])
+|report     = https://www.fifa.com/tournaments/mens/worldcup/qatar2022/qualifiers/caf/match-center/400209472
+}}
+----
+{{Football box
+|id         = TUN v ZAM
+|date       = {{Start date|2021|11|16|df=y}}
+|time       = {{UTZ|20:00|1}}
+|team1      = {{fb-rt|TUN}}
+|score      = 3–1
+|team2      = {{fb|ZAM}}
+|goals1     =
+*[[Aïssa Laïdouni|Laïdouni]] {{goal|18}}
+*[[Mohamed Dräger|Dräger]] {{goal|31}}
+*[[Ali Maâloul|Maâloul]] {{goal|43}}
+|goals2     =
+*[[Fashion Sakala|F. Sakala]] {{goal|80}}
+|stadium    = [[Stade Olympique Hammadi Agrebi|Stade Hammadi Agrebi]], [[Tunis]]
+|attendance = 0
+|referee    = Pacifique Ndabihawenimana ([[Football Federation of Burundi|Burundi]])
+|report     = https://www.fifa.com/tournaments/mens/worldcup/qatar2022/qualifiers/caf/match-center/400209471
+}}
+{{Football box
+|id         = MTN v EQG
+|date       = {{Start date|2021|11|16|df=y}}
+|time       = {{UTZ|19:00|0}}
+|team1      = {{fb-rt|MTN}}
+|score      = 1–1
+|team2      = {{fb|EQG}}
+|goals1     =
+*[[Aboubakar Kamara|Kamara]] {{goal|22}}
+|goals2     =
+*[[Saúl Coco|Coco]] {{goal|59}}
+|stadium    = [[Stade Olympique (Nouakchott)|Stade Olympique de Nouakchott]], [[Nouakchott]]
+|attendance = 500
+|referee    = Ahmad Imtehaz Heeralall ([[Mauritius Football Association|Mauritius]])
+|report     = https://www.fifa.com/tournaments/mens/worldcup/qatar2022/qualifiers/caf/match-center/400209470
+}}
+
+===Group C===
+<onlyinclude>{{#invoke:Sports table|main|style=WDL
+|section=Group C
+|show_matches=y
+|class_rules=[[2022 FIFA World Cup qualification#Tiebreakers|Tiebreakers]]
+|source=[https://www.fifa.com/tournaments/mens/worldcup/qatar2022/qualifiers/caf FIFA], [https://int.soccerway.com/international/africa/wc-qualifying-africa/2022-qatar/2nd-round/group-c/g14994/ Soccerway]
+<!--Update team positions below (check tiebreakers)-->
+|team_order=NGA, CPV, LBR, CTA
+
+<!--Update team results below (including date)-->
+|update=complete
+|win_NGA=4 |draw_NGA=1 |loss_NGA=1 |gf_NGA=9 |ga_NGA=3
+|win_CPV=3 |draw_CPV=2 |loss_CPV=1 |gf_CPV=8 |ga_CPV=6
+|win_CTA=1 |draw_CTA=1 |loss_CTA=4 |gf_CTA=4 |ga_CTA=9
+|win_LBR=2 |draw_LBR=0 |loss_LBR=4 |gf_LBR=5 |ga_LBR=8
+
+<!--Update results below-->
+|match_NGA_CPV=[[2022 FIFA World Cup qualification – CAF second round#NGA v CPV|1–1]]
+|match_NGA_CTA=[[2022 FIFA World Cup qualification – CAF second round#NGA v CTA|0–1]]
+|match_NGA_LBR=[[2022 FIFA World Cup qualification – CAF second round#NGA v LBR|2–0]]
+
+|match_CPV_NGA=[[2022 FIFA World Cup qualification – CAF second round#CPV v NGA|1–2]]
+|match_CPV_CTA=[[2022 FIFA World Cup qualification – CAF second round#CPV v CTA|2–1]]
+|match_CPV_LBR=[[2022 FIFA World Cup qualification – CAF second round#CPV v LBR|1–0]]
+
+|match_CTA_NGA=[[2022 FIFA World Cup qualification – CAF second round#CTA v NGA|0–2]]
+|match_CTA_CPV=[[2022 FIFA World Cup qualification – CAF second round#CTA v CPV|1–1]]
+|match_CTA_LBR=[[2022 FIFA World Cup qualification – CAF second round#CTA v LBR|0–1]]
+
+|match_LBR_NGA=[[2022 FIFA World Cup qualification – CAF second round#LBR v NGA|0–2]]
+|match_LBR_CPV=[[2022 FIFA World Cup qualification – CAF second round#LBR v CPV|1–2]]
+|match_LBR_CTA=[[2022 FIFA World Cup qualification – CAF second round#LBR v CTA|3–1]]
+
+<!--Team definitions-->
+|name_NGA={{fb|NGA}} |short_NGA={{flagdeco|NGA}}
+|name_CPV={{fb|CPV}} |short_CPV={{flagdeco|CPV}}
+|name_CTA={{fb|CTA}} |short_CTA={{flagdeco|CTA}}
+|name_LBR={{fb|LBR}} |short_LBR={{flagdeco|LBR}}
+
+<!--Qualification column definitions-->
+|res_col_header=Q
+|result1=Q
+|col_Q=green1 |text_Q=Advance to [[2022 FIFA World Cup qualification – CAF third round|third round]]
+}}</onlyinclude>
+{{Football box
+|id         = CTA v CPV
+|date       = {{Start date|2021|9|1|df=y}}
+|time       = {{UTZ|14:00|1}}
+|team1      = {{fb-rt|CTA}}
+|score      = 1–1
+|team2      = {{fb|CPV}}
+|goals1     =
+*Toropité {{goal|53}}
+|goals2     =
+*[[Júlio Tavares|J. Tavares]] {{goal|36}}
+|stadium    = [[Japoma Stadium]], [[Douala]] (Cameroon)
+|attendance = 0
+|referee    = Peter Waweru ([[Football Kenya Federation|Kenya]])
+|report     = https://www.fifa.com/tournaments/mens/worldcup/qatar2022/qualifiers/caf/match-center/400197995
+}}
+{{Football box
+|id         = NGA v LBR
+|date       = {{Start date|2021|9|3|df=y}}
+|time       = {{UTZ|17:00|1}}
+|team1      = {{fb-rt|NGA}}
+|score      = 2–0
+|team2      = {{fb|LBR}}
+|goals1     = [[Kelechi Iheanacho|Iheanacho]] {{goal|22||44}}
+|goals2     =
+|stadium    = [[Teslim Balogun Stadium]], [[Lagos]]
+|attendance = 5,000
+|referee    = Kouassi Attisso Attiogbe ([[Togolese Football Federation|Togo]])
+|report     = https://www.fifa.com/tournaments/mens/worldcup/qatar2022/qualifiers/caf/match-center/400197994
+}}
+----
+{{Football box
+|id         = CTA v LBR
+|date       = {{Start date|2021|9|6|df=y}}
+|time       = {{UTZ|16:00|0}}
+|team1      = {{fb-rt|CTA}}
+|score      = 0–1
+|team2      = {{fb|LBR}}
+|goals1     = 
+|goals2     = 
+*[[Kpah Sherman|Sherman]] {{goal|86}}
+|stadium    = [[Japoma Stadium]], [[Douala]] (Cameroon)
+|attendance = 0
+|referee    = Sekou Ahmed Touré ([[Guinean Football Federation|Guinea]])
+|report     = https://www.fifa.com/tournaments/mens/worldcup/qatar2022/qualifiers/caf/match-center/400201138
+}}
+{{Football box
+|id         = CPV v NGA
+|date       = {{Start date|2021|9|7|df=y}}
+|time       = {{UTZ|15:00|-1}}
+|team1      = {{fb-rt|CPV}}
+|score      = 1–2
+|team2      = {{fb|NGA}}
+|goals1     =
+*[[Dylan Tavares|D. Tavares]] {{goal|19}}
+|goals2     =
+*[[Victor Osimhen|Osimhen]] {{goal|30}}
+*[[Kenny Rocha Santos|Rocha Santos]] {{goal|76|o.g.}}
+|stadium    = [[Estádio Municipal Adérito Sena]], [[Mindelo]]
+|attendance = 500
+|referee    = Samir Guezzaz ([[Royal Moroccan Football Federation|Morocco]])
+|report     = https://www.fifa.com/tournaments/mens/worldcup/qatar2022/qualifiers/caf/match-center/400197997
+}}
+----
+{{Football box
+|id         = LBR v CPV
+|date       = {{Start date|2021|10|7|df=y}}
+|time       = {{UTZ|13:00|0}}
+|team1      = {{fb-rt|LBR}}
+|score      = 1–2
+|team2      = {{fb|CPV}}
+|goals1     = 
+*[[Van-Dave Harmon|Harmon]] {{goal|45+3}}
+|goals2     = 
+*[[Jamiro Monteiro|Monteiro]] {{goal|52}}
+*[[Garry Rodrigues|Rodrigues]] {{goal|90+2}}
+|stadium    = [[Accra Sports Stadium]], [[Accra]] (Ghana)
+|attendance = 0
+|referee    = Jean Ouattara ([[Burkinabé Football Federation|Burkina Faso]])
+|report     = https://www.fifa.com/tournaments/mens/worldcup/qatar2022/qualifiers/caf/match-center/400204243
+}}
+{{Football box
+|id         = NGA v CTA
+|date       = {{Start date|2021|10|7|df=y}}
+|time       = {{UTZ|17:00|1}}
+|team1      = {{fb-rt|NGA}}
+|score      = 0–1
+|team2      = {{fb|CTA}}
+|goals1     =
+|goals2     = [[Karl Namnganda|Namnganda]] {{goal|90+1}}
+|stadium    = [[Teslim Balogun Stadium]], [[Lagos]]
+|attendance = 5,000
+|referee    = Abdelaziz Bouh ([[Football Federation of the Islamic Republic of Mauritania|Mauritania]])
+|report     = https://www.fifa.com/tournaments/mens/worldcup/qatar2022/qualifiers/caf/match-center/400204244
+}}
+----
+{{Football box
+|id         = CTA v NGA
+|date       = {{Start date|2021|10|10|df=y}}
+|time       = {{UTZ|14:00|1}}
+|team1      = {{fb-rt|CTA}}
+|score      = 0–2
+|team2      = {{fb|NGA}}
+|goals1     =
+|goals2     =
+*[[Leon Balogun|Balogun]] {{goal|29}}
+*[[Victor Osimhen|Osimhen]] {{goal|45+1}}
+|stadium    = [[Japoma Stadium]], [[Douala]] (Cameroon)
+|attendance = 450
+|referee    = Louis Hakizimana ([[Rwanda Football Federation|Rwanda]])
+|report     = https://www.fifa.com/tournaments/mens/worldcup/qatar2022/qualifiers/caf/match-center/400204242
+}}
+{{Football box
+|id         = CPV v LBR
+|date       = {{Start date|2021|10|10|df=y}}
+|time       = {{UTZ|15:00|-1}}
+|team1      = {{fb-rt|CPV}}
+|score      = 1–0
+|team2      = {{fb|LBR}}
+|goals1     = 
+*[[Ryan Mendes|Mendes]] {{goal|90}}
+|goals2     =
+|stadium    = [[Estádio Municipal Adérito Sena]], [[Mindelo]]
+|attendance = 2,000
+|referee    = Mohamed Ali Moussa ([[Nigerien Football Federation|Niger]])
+|report     = https://www.fifa.com/tournaments/mens/worldcup/qatar2022/qualifiers/caf/match-center/400204241
+}}
+----
+{{Football box
+|id         = LBR v NGA
+|date       = {{Start date|2021|11|13|df=y}}
+|time       = {{UTZ|17:00|1}}
+|team1      = {{fb-rt|LBR}}
+|score      = 0–2
+|team2      = {{fb|NGA}}
+|goals1     =
+|goals2     =
+*[[Victor Osimhen|Osimhen]] {{goal|15|pen.}}
+*[[Ahmed Musa|Musa]] {{goal|90+4|pen.}}
+|stadium    = [[Stade Ibn Batouta]], [[Tangier]] (Morocco)
+|attendance = 0
+|referee    = Youssef Essrayri ([[Tunisian Football Federation|Tunisia]])
+|report     = https://www.fifa.com/tournaments/mens/worldcup/qatar2022/qualifiers/caf/match-center/400209476
+}}
+{{Football box
+|id         = CPV v CTA
+|date       = {{Start date|2021|11|13|df=y}}
+|time       = {{UTZ|15:00|-1}}
+|team1      = {{fb-rt|CPV}}
+|score      = 2–1
+|team2      = {{fb|CTA}}
+|goals1     =
+*[[Júlio Tavares|J. Tavares]] {{goal|51}}
+*[[Stopira]] {{goal|75}}
+|goals2     =
+*[[Isaac Ngoma|Ngoma]] {{goal|11}}
+|stadium    = [[Estádio Municipal Adérito Sena]], [[Mindelo]]
+|attendance = 3,000
+|referee    = Daniel Nii Ayi Laryea ([[Ghana Football Association|Ghana]])
+|report     = https://www.fifa.com/tournaments/mens/worldcup/qatar2022/qualifiers/caf/match-center/400209475
+}}
+----
+{{Football box
+|id         = NGA v CPV
+|date       = {{Start date|2021|11|16|df=y}}
+|time       = {{UTZ|17:00|1}}
+|team1      = {{fb-rt|NGA}}
+|score      = 1–1
+|team2      = {{fb|CPV}}
+|goals1     =
+*[[Victor Osimhen|Osimhen]] {{goal|1}}
+|goals2     =
+*[[Stopira]] {{goal|5}}
+|stadium    = [[Teslim Balogun Stadium]], [[Lagos]]
+|attendance = 8,000
+|referee    = [[Mustapha Ghorbal]] ([[Algerian Football Federation|Algeria]])
+|report     = https://www.fifa.com/tournaments/mens/worldcup/qatar2022/qualifiers/caf/match-center/400209474
+}}
+{{Football box
+|id         = LBR v CTA
+|date       = {{Start date|2021|11|16|df=y}}
+|time       = {{UTZ|17:00|1}}
+|team1      = {{fb-rt|LBR}}
+|score      = 3–1
+|team2      = {{fb|CTA}}
+|goals1     =
+*[[Marcus Macauley|Macauley]] {{goal|2}}
+*[[Peter Wilson (footballer, born 1996)|Wilson]] {{goal|8||74}}
+|goals2     =
+*[[Isaac Ngoma|Ngoma]] {{goal|61}}
+|stadium    = [[Stade Ibn Batouta]], [[Tangier]] (Morocco)
+|attendance = 0
+|referee    = Kalilou Ibrahim Traore ([[Ivorian Football Federation|Ivory Coast]])
+|report     = https://www.fifa.com/tournaments/mens/worldcup/qatar2022/qualifiers/caf/match-center/400197996
+}}
+
+===Group D===
+<onlyinclude>{{#invoke:Sports table|main|style=WDL
+|section=Group D
+|show_matches=y
+|class_rules=[[2022 FIFA World Cup qualification#Tiebreakers|Tiebreakers]]
+|source=[https://www.fifa.com/tournaments/mens/worldcup/qatar2022/qualifiers/caf FIFA], [https://int.soccerway.com/international/africa/wc-qualifying-africa/2022-qatar/2nd-round/group-d/g14995/ Soccerway]
+<!--Update team positions below (check tiebreakers)-->
+|team_order=CMR, CIV, MOZ, MWI
+
+<!--Update team results below (including date)-->
+|update=complete
+|win_CMR=5 |draw_CMR=0 |loss_CMR=1 |gf_CMR=12|ga_CMR=3
+|win_CIV=4 |draw_CIV=1 |loss_CIV=1 |gf_CIV=10|ga_CIV=3
+|win_MOZ=1 |draw_MOZ=1 |loss_MOZ=4 |gf_MOZ=2 |ga_MOZ=8
+|win_MWI=1 |draw_MWI=0 |loss_MWI=5 |gf_MWI=2 |ga_MWI=12
+
+<!--Update results below-->
+|match_CMR_CIV=[[2022 FIFA World Cup qualification – CAF second round#CMR v CIV|1–0]]
+|match_CMR_MOZ=[[2022 FIFA World Cup qualification – CAF second round#CMR v MOZ|3–1]]
+|match_CMR_MWI=[[2022 FIFA World Cup qualification – CAF second round#CMR v MWI|2–0]]
+
+|match_CIV_CMR=[[2022 FIFA World Cup qualification – CAF second round#CIV v CMR|2–1]]
+|match_CIV_MOZ=[[2022 FIFA World Cup qualification – CAF second round#CIV v MOZ|3–0]]
+|match_CIV_MWI=[[2022 FIFA World Cup qualification – CAF second round#CIV v MWI|2–1]]
+
+|match_MOZ_CMR=[[2022 FIFA World Cup qualification – CAF second round#MOZ v CMR|0–1]]
+|match_MOZ_CIV=[[2022 FIFA World Cup qualification – CAF second round#MOZ v CIV|0–0]]
+|match_MOZ_MWI=[[2022 FIFA World Cup qualification – CAF second round#MOZ v MWI|1–0]]
+
+|match_MWI_CMR=[[2022 FIFA World Cup qualification – CAF second round#MWI v CMR|0–4]]
+|match_MWI_CIV=[[2022 FIFA World Cup qualification – CAF second round#MWI v CIV|0–3]]
+|match_MWI_MOZ=[[2022 FIFA World Cup qualification – CAF second round#MWI v MOZ|1–0]]
+
+<!--Team definitions-->
+|name_CMR={{fb|CMR}} |short_CMR={{flagdeco|CMR}}
+|name_CIV={{fb|CIV}} |short_CIV={{flagdeco|CIV}}
+|name_MOZ={{fb|MOZ}} |short_MOZ={{flagdeco|MOZ}}
+|name_MWI={{fb|MWI}} |short_MWI={{flagdeco|MWI}}
+
+<!--Qualification column definitions-->
+|res_col_header=Q
+|result1=Q
+|col_Q=green1 |text_Q=Advance to [[2022 FIFA World Cup qualification – CAF third round|third round]]
+}}</onlyinclude>
+{{Football box
+|id         = MOZ v CIV
+|date       = {{Start date|2021|9|3|df=y}}
+|time       = {{UTZ|15:00|2}}
+|team1      = {{fb-rt|MOZ}}
+|score      = 0–0
+|team2      = {{fb|CIV}}
+|goals1     =
+|goals2     =
+|stadium    = [[Estádio Nacional do Zimpeto]], [[Maputo]]
+|attendance = 0
+|referee    = Pacifique Ndabihawenimana ([[Football Federation of Burundi|Burundi]])
+|report     = https://www.fifa.com/tournaments/mens/worldcup/qatar2022/qualifiers/caf/match-center/400197998
+}}
+{{Football box
+|id         = CMR v MWI
+|date       = {{Start date|2021|9|3|df=y}}
+|time       = {{UTZ|20:00|1}}
+|team1      = {{fb-rt|CMR}}
+|score      = 2–0
+|team2      = {{fb|MWI}}
+|goals1     = 
+*[[Vincent Aboubakar|Aboubakar]] {{goal|9}}
+*[[Michael Ngadeu-Ngadjui|Ngadeu-Ngadjui]] {{goal|22}}
+|goals2     =
+|stadium    = [[Olembe Stadium|Paul Biya Stadium]], [[Yaoundé]]
+|attendance = 250
+|referee    = Jean Jacques Ndala Ngambo ([[Congolese Association Football Federation|Democratic Republic of the Congo]])
+|report     = https://www.fifa.com/tournaments/mens/worldcup/qatar2022/qualifiers/caf/match-center/400198001
+}}
+----
+{{Football box
+|id         = CIV v CMR
+|date       = {{Start date|2021|9|6|df=y}}
+|time       = {{UTZ|19:00|0}}
+|team1      = {{fb-rt|CIV}}
+|score      = 2–1
+|team2      = {{fb|CMR}}
+|goals1     =
+*[[Sébastien Haller|Haller]] {{goal|20|pen.|29}}
+|goals2     =
+*[[Moumi Ngamaleu|Ngamaleu]] {{goal|61|pen.}}
+|stadium    = [[Stade National de la Côte d'Ivoire|Stade Olympique Alassane Ouattara]], [[Abidjan]]
+|attendance = 10,000
+|referee    = [[Mehdi Abid Charef]] ([[Algerian Football Federation|Algeria]])
+|report     = https://www.fifa.com/tournaments/mens/worldcup/qatar2022/qualifiers/caf/match-center/400198000
+}}
+{{Football box
+|id         = MWI v MOZ
+|date       = {{Start date|2021|9|7|df=y}}
+|time       = {{UTZ|15:00|2}}
+|team1      = {{fb-rt|MWI}}
+|score      = 1–0
+|team2      = {{fb|MOZ}}
+|goals1     =
+*[[Richard Mbulu|Mbulu]] {{goal|10}}
+|goals2     =
+|stadium    = [[Orlando Stadium]], [[Johannesburg]] (South Africa)
+|attendance = 0
+|referee    = Souleiman Ahmed Djama ([[Djiboutian Football Federation|Djibouti]])
+|report     = https://www.fifa.com/tournaments/mens/worldcup/qatar2022/qualifiers/caf/match-center/400197999
+}}
+----
+{{Football box
+|id         = MWI v CIV
+|date       = {{Start date|2021|10|8|df=y}}
+|time       = {{UTZ|15:00|2}}
+|team1      = {{fb-rt|MWI}}
+|score      = 0–3
+|team2      = {{fb|CIV}}
+|goals1     =
+|goals2     = 
+*[[Max Gradel|Gradel]] {{goal|36}}
+*[[Ibrahim Sangaré (Ivorian footballer)|I. Sangaré]] {{goal|85}}
+*[[Jérémie Boga|Boga]] {{goal|90+5}}
+|stadium    = [[Orlando Stadium]], [[Johannesburg]] (South Africa)
+|attendance = 0
+|referee    = Peter Waweru ([[Football Kenya Federation|Kenya]])
+|report     = https://www.fifa.com/tournaments/mens/worldcup/qatar2022/qualifiers/caf/match-center/400204247
+}}
+{{Football box
+|id         = CMR v MOZ
+|date       = {{Start date|2021|10|8|df=y}}
+|time       = {{UTZ|17:00|1}}
+|team1      = {{fb-rt|CMR}}
+|score      = 3–1
+|team2      = {{fb|MOZ}}
+|goals1     = 
+*[[Eric Maxim Choupo-Moting|Choupo-Moting]] {{goal|28||51}}
+*[[Karl Toko Ekambi|Toko Ekambi]] {{goal|63}}
+|goals2     = 
+*[[Geny Catamo|Catamo]] {{goal|81}}
+|stadium    = [[Japoma Stadium]], [[Douala]]
+|attendance = 10,000
+|referee    = Mohamed Marouf ([[Egyptian Football Association|Egypt]])
+|report     = https://www.fifa.com/tournaments/mens/worldcup/qatar2022/qualifiers/caf/match-center/400204245
+}}
+----
+{{Football box
+|id         = MOZ v CMR
+|date       = {{Start date|2021|10|11|df=y}}
+|time       = {{UTZ|14:00|1}}
+|team1      = {{fb-rt|MOZ}}
+|score      = 0–1
+|team2      = {{fb|CMR}}
+|goals1     =
+|goals2     = 
+*[[Michael Ngadeu-Ngadjui|Ngadeu-Ngadjui]] {{goal|68}}
+|stadium    = [[Stade Ibn Batouta]], [[Tangier]] (Morocco)
+|attendance = 0
+|referee    = Sabri Mohamed Fadul ([[Sudan Football Association|Sudan]])
+|report     = https://www.fifa.com/tournaments/mens/worldcup/qatar2022/qualifiers/caf/match-center/400204248
+}}
+{{Football box
+|id         = CIV v MWI
+|date       = {{Start date|2021|10|11|df=y}}
+|time       = {{UTZ|17:00|1}}
+|team1      = {{fb-rt|CIV}}
+|score      = 2–1
+|team2      = {{fb|MWI}}
+|goals1     =
+*[[Nicolas Pépé|Pépé]] {{goal|2}}
+*[[Franck Kessié|Kessié]] {{goal|66|pen.}}
+|goals2     =
+*[[Khuda Muyaba|Muyaba]] {{goal|20}}
+|stadium    = [[Stade de l'Amitié]], [[Cotonou]] (Benin)
+|attendance = 1,000
+|referee    = [[Bernard Camille]] ([[Seychelles Football Federation|Seychelles]])
+|report     = https://www.fifa.com/tournaments/mens/worldcup/qatar2022/qualifiers/caf/match-center/400204246
+}}
+----
+{{Football box
+|id         = MWI v CMR
+|date       = {{Start date|2021|11|13|df=y}}
+|time       = {{UTZ|15:00|2}}
+|team1      = {{fb-rt|MWI}}
+|score      = 0–4
+|team2      = {{fb|CMR}}
+|goals1     =
+|goals2     =
+*[[Vincent Aboubakar|Aboubakar]] {{goal|22|pen.}}
+*[[André-Frank Zambo Anguissa|Zambo Anguissa]] {{goal|42}}
+*[[Christian Bassogog|Bassogog]] {{goal|85||87}}
+|stadium    = [[Orlando Stadium]], [[Johannesburg]] (South Africa)
+|attendance = 0
+|referee    = Issa Sy ([[Senegalese Football Federation|Senegal]])
+|report     = https://www.fifa.com/tournaments/mens/worldcup/qatar2022/qualifiers/caf/match-center/400209479
+}}
+{{Football box
+|id         = CIV v MOZ
+|date       = {{Start date|2021|11|13|df=y}}
+|time       = {{UTZ|20:00|1}}
+|team1      = {{fb-rt|CIV}}
+|score      = 3–0
+|team2      = {{fb|MOZ}}
+|goals1     =
+*[[Max Gradel|Gradel]] {{goal|10}}
+*[[Maxwel Cornet|Cornet]] {{goal|61}}
+*[[Jean Michaël Seri|Seri]] {{goal|90}}
+|goals2     =
+|stadium    = [[Stade de l'Amitié]], [[Cotonou]] (Benin)
+|attendance = 0
+|referee    = Ahmed El Ghandour ([[Egyptian Football Association|Egypt]])
+|report     = https://www.fifa.com/tournaments/mens/worldcup/qatar2022/qualifiers/caf/match-center/400209480
+}}
+----
+{{Football box
+|id         = MOZ v MWI
+|date       = {{Start date|2021|11|16|df=y}}
+|time       = {{UTZ|14:00|1}}
+|team1      = {{fb-rt|MOZ}}
+|score      = 1–0
+|team2      = {{fb|MWI}}
+|goals1     =
+*[[Limbikani Mzava|Mzava]] {{goal|51|o.g.}}
+|goals2     =
+|stadium    = [[Stade de l'Amitié]], [[Cotonou]] (Benin)
+|attendance = 0
+|referee    = Hassan Mohamed Hagi ([[Somali Football Federation|Somalia]])
+|report     = https://www.fifa.com/tournaments/mens/worldcup/qatar2022/qualifiers/caf/match-center/400209478
+}}
+{{Football box
+|id         = CMR v CIV
+|date       = {{Start date|2021|11|16|df=y}}
+|time       = {{UTZ|20:00|1}}
+|team1      = {{fb-rt|CMR}}
+|score      = 1–0
+|team2      = {{fb|CIV}}
+|goals1     =
+*[[Karl Toko Ekambi|Toko Ekambi]] {{goal|21}}
+|goals2     =
+|stadium    = [[Japoma Stadium]], [[Douala]]
+|attendance = 25,000
+|referee    = [[Janny Sikazwe]] ([[Football Association of Zambia|Zambia]])
+|report     = https://www.fifa.com/tournaments/mens/worldcup/qatar2022/qualifiers/caf/match-center/400209477
+}}
+
+===Group E===
+<onlyinclude>{{#invoke:Sports table|main|style=WDL
+|section=Group E
+|show_matches=y
+|class_rules=[[2022 FIFA World Cup qualification#Tiebreakers|Tiebreakers]]
+|source=[https://www.fifa.com/tournaments/mens/worldcup/qatar2022/qualifiers/caf FIFA], [https://int.soccerway.com/international/africa/wc-qualifying-africa/2022-qatar/2nd-round/group-e/g14996/ Soccerway]
+<!--Update team positions below (check tiebreakers)-->
+|team_order=MLI, UGA, KEN, RWA
+
+<!--Update team results below (including date)-->
+|update=complete
+|win_MLI=5 |draw_MLI=1 |loss_MLI=0 |gf_MLI=11|ga_MLI=0
+|win_UGA=2 |draw_UGA=3 |loss_UGA=1 |gf_UGA=3 |ga_UGA=2
+|win_KEN=1 |draw_KEN=3 |loss_KEN=2 |gf_KEN=4 |ga_KEN=9
+|win_RWA=0 |draw_RWA=1 |loss_RWA=5 |gf_RWA=2 |ga_RWA=9
+
+<!--Update results below-->
+|match_MLI_UGA=[[2022 FIFA World Cup qualification – CAF second round#MLI v UGA|1–0]]
+|match_MLI_KEN=[[2022 FIFA World Cup qualification – CAF second round#MLI v KEN|5–0]]
+|match_MLI_RWA=[[2022 FIFA World Cup qualification – CAF second round#MLI v RWA|1–0]]
+
+|match_UGA_MLI=[[2022 FIFA World Cup qualification – CAF second round#UGA v MLI|0–0]]
+|match_UGA_KEN=[[2022 FIFA World Cup qualification – CAF second round#UGA v KEN|1–1]]
+|match_UGA_RWA=[[2022 FIFA World Cup qualification – CAF second round#UGA v RWA|1–0]]
+
+|match_KEN_MLI=[[2022 FIFA World Cup qualification – CAF second round#KEN v MLI|0–1]]
+|match_KEN_UGA=[[2022 FIFA World Cup qualification – CAF second round#KEN v UGA|0–0]]
+|match_KEN_RWA=[[2022 FIFA World Cup qualification – CAF second round#KEN v RWA|2–1]]
+
+|match_RWA_MLI=[[2022 FIFA World Cup qualification – CAF second round#RWA v MLI|0–3]]
+|match_RWA_UGA=[[2022 FIFA World Cup qualification – CAF second round#RWA v UGA|0–1]]
+|match_RWA_KEN=[[2022 FIFA World Cup qualification – CAF second round#RWA v KEN|1–1]]
+
+<!--Team definitions-->
+|name_UGA={{fb|UGA}} |short_UGA={{flagdeco|UGA}}
+|name_MLI={{fb|MLI}} |short_MLI={{flagdeco|MLI}}
+|name_KEN={{fb|KEN}} |short_KEN={{flagdeco|KEN}}
+|name_RWA={{fb|RWA}} |short_RWA={{flagdeco|RWA}}
+
+<!--Qualification column definitions-->
+|res_col_header=Q
+|result1=Q
+|col_Q=green1 |text_Q=Advance to [[2022 FIFA World Cup qualification – CAF third round|third round]]
+}}</onlyinclude>
+{{Football box
+|id         = MLI v RWA
+|date       = {{Start date|2021|9|1|df=y}}
+|time       = {{UTZ|20:00|1}}
+|team1      = {{fb-rt|MLI}}
+|score      = 1–0
+|team2      = {{fb|RWA}}
+|goals1     =
+*[[Adama Traoré (footballer, born 5 June 1995)|A. M. Traoré]] {{goal|19}}
+|goals2     =
+|stadium    = [[Stade Adrar]], [[Agadir]] (Morocco)
+|attendance = 0
+|referee    = Beida Dahane ([[Football Federation of the Islamic Republic of Mauritania|Mauritania]])
+|report     = https://www.fifa.com/tournaments/mens/worldcup/qatar2022/qualifiers/caf/match-center/400198002
+}}
+{{Football box
+|id         = KEN v UGA
+|date       = {{Start date|2021|9|2|df=y}}
+|time       = {{UTZ|16:00|3}}
+|team1      = {{fb-rt|KEN}}
+|score      = 0–0
+|team2      = {{fb|UGA}}
+|goals1     =
+|goals2     =
+|stadium    = [[Nyayo National Stadium]], [[Nairobi]]
+|attendance = 560
+|referee    = Mahmood Ali Mahmood Ismail ([[Sudan Football Association|Sudan]])
+|report     = https://www.fifa.com/tournaments/mens/worldcup/qatar2022/qualifiers/caf/match-center/400198003
+}}
+----
+{{Football box
+|id         = RWA v KEN
+|date       = {{Start date|2021|9|5|df=y}}
+|time       = {{UTZ|15:00|2}}
+|team1      = {{fb-rt|RWA}}
+|score      = 1–1
+|team2      = {{fb|KEN}}
+|goals1     =
+*[[Abdul Rwatubyaye|Rwatubyaye]] {{goal|21}}
+|goals2     =
+*[[Michael Olunga|Olunga]] {{goal|10}}
+|stadium    = [[Nyamirambo Regional Stadium]], [[Kigali]]
+|attendance = 0
+|referee    = Joseph Odey Ogabor ([[Nigeria Football Federation|Nigeria]])
+|report     = https://www.fifa.com/tournaments/mens/worldcup/qatar2022/qualifiers/caf/match-center/400198004
+}}
+{{Football box
+|id         = UGA v MLI
+|date       = {{Start date|2021|9|6|df=y}}
+|time       = {{UTZ|16:00|3}}
+|team1      = {{fb-rt|UGA}}
+|score      = 0–0
+|team2      = {{fb|MLI}}
+|goals1     =
+|goals2     =
+|stadium    = [[St. Mary's Stadium-Kitende]], [[Entebbe]]
+|attendance = 0
+|referee    = Ahmad Imtehaz Heeralall ([[Mauritius Football Association|Mauritius]])
+|report     = https://www.fifa.com/tournaments/mens/worldcup/qatar2022/qualifiers/caf/match-center/400198005
+}}
+----
+{{Football box
+|id         = RWA v UGA
+|date       = {{Start date|2021|10|7|df=y}}
+|time       = {{UTZ|18:00|2}}
+|team1      = {{fb-rt|RWA}}
+|score      = 0–1
+|team2      = {{fb|UGA}}
+|goals1     =
+|goals2     = [[Fahad Bayo|Bayo]] {{goal|41}}
+|stadium    = [[Nyamirambo Regional Stadium]], [[Kigali]]
+|attendance = 0
+|referee    = Joshua Bondo ([[Botswana Football Association|Botswana]])
+|report     = https://www.fifa.com/tournaments/mens/worldcup/qatar2022/qualifiers/caf/match-center/400204251
+}}
+{{Football box
+|id         = MLI v KEN
+|date       = {{Start date|2021|10|7|df=y}}
+|time       = {{UTZ|20:00|1}}
+|team1      = {{fb-rt|MLI}}
+|score      = 5–0
+|team2      = {{fb|KEN}}
+|goals1     =
+*[[Adama Traoré (footballer, born 5 June 1995)|A. M. Traoré]] {{goal|8}}
+*[[Ibrahima Koné (footballer, born 1999)|Koné]] {{goal|22||36||45|pen.}}
+*[[Moussa Doumbia (footballer, born 1994)|Doumbia]] {{goal|85}}
+|goals2     =
+|stadium    = [[Stade Adrar]], [[Agadir]] (Morocco)
+|attendance = 0
+|referee    = Youssef Essrayri ([[Tunisian Football Federation|Tunisia]])
+|report     = https://www.fifa.com/tournaments/mens/worldcup/qatar2022/qualifiers/caf/match-center/400204250
+}}
+----
+{{Football box
+|id         = KEN v MLI
+|date       = {{Start date|2021|10|10|df=y}}
+|time       = {{UTZ|16:00|3}}
+|team1      = {{fb-rt|KEN}}
+|score      = 0–1
+|team2      = {{fb|MLI}}
+|goals1     =
+|goals2     = 
+*[[Ibrahima Koné (footballer, born 1999)|Koné]] {{goal|55}}
+|stadium    = [[Nyayo National Stadium]], [[Nairobi]]
+|attendance = 0
+|referee    = Blaise Yuven Ngwa ([[Cameroonian Football Federation|Cameroon]])
+|report     = https://www.fifa.com/tournaments/mens/worldcup/qatar2022/qualifiers/caf/match-center/400204249
+}}
+{{Football box
+|id         = UGA v RWA
+|date       = {{Start date|2021|10|10|df=y}}
+|time       = {{UTZ|16:00|3}}
+|team1      = {{fb-rt|UGA}}
+|score      = 1–0
+|team2      = {{fb|RWA}}
+|goals1     = 
+*[[Fahad Bayo|Bayo]] {{goal|22}}
+|goals2     =
+|stadium    = [[St. Mary's Stadium-Kitende]], [[Entebbe]]
+|attendance = 0
+|referee    = Haythem Guirat ([[Tunisian Football Federation|Tunisia]])
+|report     = https://www.fifa.com/tournaments/mens/worldcup/qatar2022/qualifiers/caf/match-center/400204252
+}}
+----
+{{Football box
+|id         = UGA v KEN
+|date       = {{Start date|2021|11|11|df=y}}
+|time       = {{UTZ|16:00|3}}
+|team1      = {{fb-rt|UGA}}
+|score      = 1–1
+|team2      = {{fb|KEN}}
+|goals1     =
+*[[Fahad Bayo|Bayo]] {{goal|89}}
+|goals2     =
+*[[Michael Olunga|Olunga]] {{goal|62}}
+|stadium    = [[St. Mary's Stadium-Kitende]], [[Entebbe]]
+|attendance = 500
+|referee    = Souleiman Ahmed Djama ([[Djiboutian Football Federation|Djibouti]])
+|report     = https://www.fifa.com/tournaments/mens/worldcup/qatar2022/qualifiers/caf/match-center/400209484
+}}
+{{Football box
+|id         = RWA v MLI
+|date       = {{Start date|2021|11|11|df=y}}
+|time       = {{UTZ|18:00|2}}
+|team1      = {{fb-rt|RWA}}
+|score      = 0–3
+|team2      = {{fb|MLI}}
+|goals1     =
+|goals2     =
+*[[Moussa Djenepo|Djenepo]] {{goal|19}}
+*[[Ibrahima Koné (footballer, born 1999)|Koné]] {{goal|21}}
+*[[Kalifa Coulibaly|K. Coulibaly]] {{goal|87}}
+|stadium    = [[Nyamirambo Regional Stadium]], [[Kigali]]
+|attendance = 0
+|referee    = Hélder Martins de Carvalho ([[Angolan Football Federation|Angola]])
+|report     = https://www.fifa.com/tournaments/mens/worldcup/qatar2022/qualifiers/caf/match-center/400209483
+}}
+----
+{{Football box
+|id         = MLI v UGA
+|date       = {{Start date|2021|11|14|df=y}}
+|time       = {{UTZ|17:00|1}}
+|team1      = {{fb-rt|MLI}}
+|score      = 1–0
+|team2      = {{fb|UGA}}
+|goals1     =
+*[[Kalifa Coulibaly|K. Coulibaly]] {{goal|19}}
+|goals2     =
+|stadium    = [[Stade Adrar]], [[Agadir]] (Morocco)
+|attendance = 0
+|referee    = [[Bamlak Tessema Weyesa]] ([[Ethiopian Football Federation|Ethiopia]])
+|report     = https://www.fifa.com/tournaments/mens/worldcup/qatar2022/qualifiers/caf/match-center/400209482
+}}
+{{Football box
+|id         = KEN v RWA
+|date       = {{Start date|2021|11|15|df=y}}
+|time       = {{UTZ|16:00|3}}
+|team1      = {{fb-rt|KEN}}
+|score      = 2–1
+|team2      = {{fb|RWA}}
+|goals1     = 
+*[[Michael Olunga|Olunga]] {{goal|2}}
+*[[Richard Odada|Odada]] {{goal|15|pen.}}
+|goals2     = 
+*[[Olivier Niyonzima|Niyonzima]] {{goal|66}}
+|stadium    = [[Nyayo National Stadium]], [[Nairobi]]
+|attendance = 0
+|referee    = Celso Alvação ([[Mozambican Football Federation|Mozambique]])
+|report     = https://www.fifa.com/tournaments/mens/worldcup/qatar2022/qualifiers/caf/match-center/400209481
+}}
+
+===Group F===
+<onlyinclude>{{#invoke:Sports table|main|style=WDL
+|section=Group F
+|show_matches=y
+|class_rules=[[2022 FIFA World Cup qualification#Tiebreakers|Tiebreakers]]
+|source=[https://www.fifa.com/tournaments/mens/worldcup/qatar2022/qualifiers/caf FIFA], [https://int.soccerway.com/international/africa/wc-qualifying-africa/2022-qatar/2nd-round/group-f/g14997/ Soccerway]
+
+<!--Update team positions below (check tiebreakers)-->
+|team_order=EGY, GAB, LBY, ANG
+
+<!--Update team results below (including date)-->
+|update=complete
+|win_EGY=4 |draw_EGY=2 |loss_EGY=0 |gf_EGY=10|ga_EGY=4
+|win_GAB=2 |draw_GAB=1 |loss_GAB=3 |gf_GAB=7 |ga_GAB=8
+|win_LBY=2 |draw_LBY=1 |loss_LBY=3 |gf_LBY=4 |ga_LBY=7
+|win_ANG=1 |draw_ANG=2 |loss_ANG=3 |gf_ANG=6 |ga_ANG=8
+
+<!--Update results below-->
+|match_EGY_GAB=[[2022 FIFA World Cup qualification – CAF second round#EGY v GAB|2–1]]
+|match_EGY_LBY=[[2022 FIFA World Cup qualification – CAF second round#EGY v LBY|1–0]]
+|match_EGY_ANG=[[2022 FIFA World Cup qualification – CAF second round#EGY v ANG|1–0]]
+
+|match_GAB_EGY=[[2022 FIFA World Cup qualification – CAF second round#GAB v EGY|1–1]]
+|match_GAB_LBY=[[2022 FIFA World Cup qualification – CAF second round#GAB v LBY|1–0]]
+|match_GAB_ANG=[[2022 FIFA World Cup qualification – CAF second round#GAB v ANG|2–0]]
+
+|match_LBY_EGY=[[2022 FIFA World Cup qualification – CAF second round#LBY v EGY|0–3]]
+|match_LBY_GAB=[[2022 FIFA World Cup qualification – CAF second round#LBY v GAB|2–1]]
+|match_LBY_ANG=[[2022 FIFA World Cup qualification – CAF second round#LBY v ANG|1–1]]
+
+|match_ANG_EGY=[[2022 FIFA World Cup qualification – CAF second round#ANG v EGY|2–2]]
+|match_ANG_GAB=[[2022 FIFA World Cup qualification – CAF second round#ANG v GAB|3–1]]
+|match_ANG_LBY=[[2022 FIFA World Cup qualification – CAF second round#ANG v LBY|0–1]]
+
+<!--Team definitions-->
+|name_EGY={{fb|EGY}} |short_EGY={{flagdeco|EGY}}
+|name_GAB={{fb|GAB}} |short_GAB={{flagdeco|GAB}}
+|name_LBY={{fb|LBY}} |short_LBY={{flagdeco|LBY}}
+|name_ANG={{fb|ANG}} |short_ANG={{flagdeco|ANG}}
+
+<!--Qualification column definitions-->
+|res_col_header=Q
+|result1=Q
+|col_Q=green1 |text_Q=Advance to [[2022 FIFA World Cup qualification – CAF third round|third round]]
+}}</onlyinclude>
+{{Football box
+|id         = EGY v ANG
+|date       = {{Start date|2021|9|1|df=y}}
+|time       = {{UTZ|21:00|2}}
+|team1      = {{fb-rt|EGY}}
+|score      = 1–0
+|team2      = {{fb|ANG}}
+|goals1     =
+*[[Mohamed Magdy|Magdy]] {{goal|5|pen.}}
+|goals2     =
+|stadium    = [[30 June Stadium]], [[Cairo]]
+|attendance = 0
+|referee    = Boubou Traoré ([[Malian Football Federation|Mali]])
+|report     = https://www.fifa.com/tournaments/mens/worldcup/qatar2022/qualifiers/caf/match-center/400198007
+}}
+{{Football box
+|id         = LBY v GAB
+|date       = {{Start date|2021|9|1|df=y}}
+|time       = {{UTZ|21:00|2}}
+|team1      = {{fb-rt|LBY}}
+|score      = 2–1 
+|team2      = {{fb|GAB}}
+|goals1     =
+*[[Ali Salama|Salama]] {{goal|27}}
+*[[Sanad Al Warfali|Al Warfali]] {{goal|90+5}}
+|goals2     =
+*[[André Biyogo Poko|Biyogo Poko]] {{goal|11}}
+|stadium    = [[Martyrs of February Stadium|Benina Martyrs Stadium]], [[Benghazi]]
+|attendance = 0
+|referee    = [[Bamlak Tessema Weyesa]] ([[Ethiopian Football Federation|Ethiopia]])
+|report     = https://www.fifa.com/tournaments/mens/worldcup/qatar2022/qualifiers/caf/match-center/400198009
+}}
+----
+{{Football box
+|id         = GAB v EGY
+|date       = {{Start date|2021|9|5|df=y}}
+|time       = {{UTZ|20:00|1}}
+|team1      = {{fb-rt|GAB}}
+|score      = 1–1
+|team2      = {{fb|EGY}}
+|goals1     =
+*[[Jim Allevinah|Allevinah]] {{goal|73}}
+|goals2     =
+*[[Mostafa Mohamed (footballer)|Mohamed]] {{goal|90}}
+|stadium    = [[Stade de Franceville]], [[Franceville]]
+|attendance = 0
+|referee    = [[Bakary Gassama]] ([[Gambia Football Federation|Gambia]])
+|report     = https://www.fifa.com/tournaments/mens/worldcup/qatar2022/qualifiers/caf/match-center/400198008
+}}
+{{Football box
+|id         = ANG v LBY
+|date       = {{Start date|2021|9|7|df=y}}
+|time       = {{UTZ|20:00|1}}
+|team1      = {{fb-rt|ANG}}
+|score      = 0–1
+|team2      = {{fb|LBY}}
+|goals1     =
+|goals2     =
+*[[Omar Al Khouja|Al Khouja]] {{goal|43}}
+|stadium    = [[Estádio 11 de Novembro]], [[Luanda]]
+|attendance = 10,000
+|referee    = Messie Nkounkou ([[Congolese Football Federation|Congo]])
+|report     = https://www.fifa.com/tournaments/mens/worldcup/qatar2022/qualifiers/caf/match-center/400198006
+}}
+----
+{{Football box
+|id         = ANG v GAB
+|date       = {{Start date|2021|10|8|df=y}}
+|time       = {{UTZ|18:30|1}}{{refn|group=note|The Angola v Gabon match, originally to be played at 17:00 UTC+1, was delayed by 90 minutes because the Gabonese players did not undergo COVID-19 tests when arriving Luanda.<ref>{{cite web |url=https://middleeast.in-24.com/News/294332.html |title=Postponing the start of the match between Angola and Gabon, amid possibilities of cancellation |website=middleeast.in-24.com |date=8 October 2021 |access-date=8 October 2021}}</ref>}}
+|team1      = {{fb-rt|ANG}}
+|score      = 3–1
+|team2      = {{fb|GAB}}
+|goals1     = 
+*[[Zini (Angolan footballer)|Zini]] {{goal|25}}
+*[[Ary Papel]] {{goal|56}}
+*[[Jonathan Buatu|Buatu]] {{goal|90+1}}
+|goals2     = 
+*[[Axel Méyé|Méyé]] {{goal|83}}
+|stadium    = [[Estádio 11 de Novembro]], [[Luanda]]
+|attendance = 5,000
+|referee    = Souleiman Ahmed Djama ([[Djiboutian Football Federation|Djibouti]])
+|report     = https://www.fifa.com/tournaments/mens/worldcup/qatar2022/qualifiers/caf/match-center/400204253
+}}
+{{Football box
+|id         = EGY v LBY
+|date       = {{Start date|2021|10|8|df=y}}
+|time       = {{UTZ|21:00|2}}
+|team1      = {{fb-rt|EGY}}
+|score      = 1–0
+|team2      = {{fb|LBY}}
+|goals1     = 
+*[[Omar Marmoush|Marmoush]] {{goal|49}}
+|goals2     =
+|stadium    = [[Borg El Arab Stadium]], [[Alexandria]]
+|attendance = 0
+|referee    = Pacifique Ndabihawenimana ([[Football Federation of Burundi|Burundi]])
+|report     = https://www.fifa.com/tournaments/mens/worldcup/qatar2022/qualifiers/caf/match-center/400204254
+}}
+----
+{{Football box
+| id = GAB v ANG
+| date = {{Start date|2021|10|11|df=y}}
+| time = {{UTZ|14:00|1}}
+| team1 = {{fb-rt|GAB}}
+| score = 2–0
+| team2 = {{fb|ANG}}
+| goals1 = *[[Pierre-Emerick Aubameyang|Aubameyang]] {{goal|74}}
+*[[Alex Moucketou-Moussounda|Moussounda]] {{goal|84}}
+| goals2 = 
+| stadium = [[Stade de Franceville]], [[Franceville]]
+| attendance = 0
+| referee = Maguette N'Diaye ([[Senegalese Football Federation|Senegal]])
+| report = https://www.fifa.com/tournaments/mens/worldcup/qatar2022/qualifiers/caf/match-center/400204255
+| event = 
+| round = 
+| score1 = 
+| score2 = 
+}}
+{{Football box
+|id         = LBY v EGY
+|date       = {{Start date|2021|10|11|df=y}}
+|time       = {{UTZ|21:00|2}}
+|team1      = {{fb-rt|LBY}}
+|score      = 0–3
+|team2      = {{fb|EGY}}
+|goals1     =
+|goals2     =
+*[[Ahmed Abou El Fotouh|Fatouh]] {{goal|39}}
+*[[Mostafa Mohamed (footballer)|Mohamed]] {{goal|45+4}}
+*[[Ramadan Sobhi|Sobhi]] {{goal|72}}
+|stadium    = [[Martyrs of February Stadium|Benina Martyrs Stadium]], [[Benghazi]]
+|attendance = 0
+|referee    = [[Victor Gomes]] ([[South African Football Association|South Africa]])
+|report     = https://www.fifa.com/tournaments/mens/worldcup/qatar2022/qualifiers/caf/match-center/400204256
+}}
+----
+{{Football box
+|id         = GAB v LBY
+|date       = {{Start date|2021|11|12|df=y}}
+|time       = {{UTZ|17:00|1}}
+|team1      = {{fb-rt|GAB}}
+|score      = 1–0
+|team2      = {{fb|LBY}}
+|goals1     = 
+*[[Pierre-Emerick Aubameyang|Aubameyang]] {{goal|54|pen.}}
+|goals2     =
+|stadium    = [[Stade de Franceville]], [[Franceville]]
+|attendance = 0
+|referee    = Mashood Ssali ([[Federation of Uganda Football Associations|Uganda]])
+|report     = https://www.fifa.com/tournaments/mens/worldcup/qatar2022/qualifiers/caf/match-center/400209488
+}}
+{{Football box
+|id         = ANG v EGY
+|date       = {{Start date|2021|11|12|df=y}}
+|time       = {{UTZ|20:00|1}}
+|team1      = {{fb-rt|ANG}}
+|score      = 2–2
+|team2      = {{fb|EGY}}
+|goals1     =
+*[[Hélder Costa|Costa]] {{goal|25}}
+*[[M'Bala Nzola|Nzola]] {{goal|35|pen.}}
+|goals2     =
+*[[Mohamed Elneny|Elneny]] {{goal|45+1}}
+*[[Akram Tawfik|Tawfik]] {{goal|59}}
+|stadium    = [[Estádio 11 de Novembro]], [[Luanda]]
+|attendance = 15,000
+|referee    = Jean Jacques Ndala Ngambo ([[Congolese Association Football Federation|Democratic Republic of the Congo]])
+|report     = https://www.fifa.com/tournaments/mens/worldcup/qatar2022/qualifiers/caf/match-center/400209487
+}}
+----
+{{Football box
+|id         = EGY v GAB
+|date       = {{Start date|2021|11|16|df=y}}
+|time       = {{UTZ|15:00|2}}
+|team1      = {{fb-rt|EGY}}
+|score      = 2–1
+|team2      = {{fb|GAB}}
+|goals1     =
+*[[Mohamed Magdy|Magdy]] {{goal|4|pen.}}
+*[[Johann Obiang|Obiang]] {{goal|75|o.g.}}
+|goals2     =
+*[[Jim Allevinah|Allevinah]] {{goal|54}}
+|stadium    = [[Borg El Arab Stadium]], [[Alexandria]]
+|attendance = 1,000
+|referee    = Georges Gatogato ([[Football Federation of Burundi|Burundi]])
+|report     = https://www.fifa.com/tournaments/mens/worldcup/qatar2022/qualifiers/caf/match-center/400209485
+}}
+{{Football box
+|id         = LBY v ANG
+|date       = {{Start date|2021|11|16|df=y}}
+|time       = {{UTZ|15:00|2}}
+|team1      = {{fb-rt|LBY}}
+|score      = 1–1
+|team2      = {{fb|ANG}}
+|goals1     = 
+*[[Sanad Al Warfali|Al Warfali]] {{goal|49|pen.}}
+|goals2     =
+*[[Zini (Angolan footballer)|Zini]] {{goal|81}}
+|stadium    = [[28 March Stadium]], [[Benghazi]]
+|attendance = 0
+|referee    = Beida Dahane ([[Football Federation of the Islamic Republic of Mauritania|Mauritania]])
+|report     = https://www.fifa.com/tournaments/mens/worldcup/qatar2022/qualifiers/caf/match-center/400209486
+}}
+
+===Group G===
+<onlyinclude>{{#invoke:Sports table|main|style=WDL
+|section=Group G
+|show_matches=y
+|class_rules=[[2022 FIFA World Cup qualification#Tiebreakers|Tiebreakers]]
+|source=[https://www.fifa.com/tournaments/mens/worldcup/qatar2022/qualifiers/caf FIFA], [https://int.soccerway.com/international/africa/wc-qualifying-africa/2022-qatar/2nd-round/group-g/g14998/ Soccerway]
+<!--Update team positions below (check tiebreakers)-->
+|team_order=GHA, RSA, ETH, ZIM
+
+<!--Update team results below (including date)-->
+|update=complete
+|win_GHA=4 |draw_GHA=1 |loss_GHA=1 |gf_GHA=7 |ga_GHA=3
+|win_RSA=4 |draw_RSA=1 |loss_RSA=1 |gf_RSA=6 |ga_RSA=2
+|win_ZIM=0 |draw_ZIM=2 |loss_ZIM=4 |gf_ZIM=2 |ga_ZIM=7
+|win_ETH=1 |draw_ETH=2 |loss_ETH=3 |gf_ETH=4 |ga_ETH=7
+
+<!--Update results below-->
+|match_GHA_RSA=[[2022 FIFA World Cup qualification – CAF second round#GHA v RSA|1–0]]
+|match_GHA_ZIM=[[2022 FIFA World Cup qualification – CAF second round#GHA v ZIM|3–1]]
+|match_GHA_ETH=[[2022 FIFA World Cup qualification – CAF second round#GHA v ETH|1–0]]
+
+|match_RSA_GHA=[[2022 FIFA World Cup qualification – CAF second round#RSA v GHA|1–0]]
+|match_RSA_ZIM=[[2022 FIFA World Cup qualification – CAF second round#RSA v ZIM|1–0]]
+|match_RSA_ETH=[[2022 FIFA World Cup qualification – CAF second round#RSA v ETH|1–0]]
+
+|match_ZIM_GHA=[[2022 FIFA World Cup qualification – CAF second round#ZIM v GHA|0–1]]
+|match_ZIM_RSA=[[2022 FIFA World Cup qualification – CAF second round#ZIM v RSA|0–0]]
+|match_ZIM_ETH=[[2022 FIFA World Cup qualification – CAF second round#ZIM v ETH|1–1]]
+
+|match_ETH_GHA=[[2022 FIFA World Cup qualification – CAF second round#ETH v GHA|1–1]]
+|match_ETH_RSA=[[2022 FIFA World Cup qualification – CAF second round#ETH v RSA|1–3]]
+|match_ETH_ZIM=[[2022 FIFA World Cup qualification – CAF second round#ETH v ZIM|1–0]]
+
+<!--Team definitions-->
+|name_GHA={{fb|GHA}} |short_GHA={{flagdeco|GHA}}
+|name_RSA={{fb|RSA}} |short_RSA={{flagdeco|RSA}}
+|name_ZIM={{fb|ZIM}} |short_ZIM={{flagdeco|ZIM}}
+|name_ETH={{fb|ETH}} |short_ETH={{flagdeco|ETH}}
+
+<!--Qualification column definitions-->
+|res_col_header=Q
+|result1=Q
+|col_Q=green1 |text_Q=Advance to [[2022 FIFA World Cup qualification – CAF third round|third round]]
+}}</onlyinclude>
+{{Football box
+|id         = ZIM v RSA
+|date       = {{Start date|2021|9|3|df=y}}
+|time       = {{UTZ|15:00|2}}
+|team1      = {{fb-rt|ZIM}}
+|score      = 0–0
+|team2      = {{fb|RSA}}
+|goals1     =
+|goals2     =
+|stadium    = [[National Sports Stadium (Zimbabwe)|National Sports Stadium]], [[Harare]]
+|attendance = 0
+|referee    = Mahmoud El Banna ([[Egyptian Football Association|Egypt]])
+|report     = https://www.fifa.com/tournaments/mens/worldcup/qatar2022/qualifiers/caf/match-center/400198011
+}}
+{{Football box
+|id         = GHA v ETH
+|date       = {{Start date|2021|9|3|df=y}}
+|time       = {{UTZ|19:00|0}}
+|team1      = {{fb-rt|GHA}}
+|score      = 1–0
+|team2      = {{fb|ETH}}
+|goals1     = [[Mubarak Wakaso|Wakaso]] {{goal|35}}
+|goals2     =
+|stadium    = [[Cape Coast Sports Stadium]], [[Cape Coast]]
+|attendance = 2,250
+|referee    = Redouane Jiyed ([[Royal Moroccan Football Federation|Morocco]])
+|report     = https://www.fifa.com/tournaments/mens/worldcup/qatar2022/qualifiers/caf/match-center/400198013
+}}
+----
+{{Football box
+|id         = RSA v GHA
+|date       = {{Start date|2021|9|6|df=y}}
+|time       = {{UTZ|18:00|2}}
+|team1      = {{fb-rt|RSA}}
+|score      = 1–0
+|team2      = {{fb|GHA}}
+|goals1     =
+*[[Bongokuhle Hlongwane|Hlongwane]] {{goal|83}}
+|goals2     =
+|stadium    = [[FNB Stadium]], [[Johannesburg]]
+|attendance = 0
+|referee    = Derrick Kasokota Kafuli ([[Football Association of Zambia|Zambia]])
+|report     = https://www.fifa.com/tournaments/mens/worldcup/qatar2022/qualifiers/caf/match-center/400198012
+}}
+{{Football box
+|id         = ETH v ZIM
+|date       = {{Start date|2021|9|7|df=y}}
+|time       = {{UTZ|19:00|3}}
+|team1      = {{fb-rt|ETH}}
+|score      = 1–0
+|team2      = {{fb|ZIM}}
+|goals1     =
+*[[Aschalew Tamene|Tamene]] {{goal|90+4|pen.}}
+|goals2     =
+|stadium    = [[Bahir Dar Stadium]], [[Bahir Dar]]
+|attendance = 0
+|referee    = [[Bernard Camille]] ([[Seychelles Football Federation|Seychelles]])
+|report     = https://www.fifa.com/tournaments/mens/worldcup/qatar2022/qualifiers/caf/match-center/400198010
+}}
+----
+{{Football box
+|id         = ETH v RSA
+|date       = {{Start date|2021|10|9|df=y}}
+|time       = {{UTZ|16:00|3}}
+|team1      = {{fb-rt|ETH}}
+|score      = 1–3
+|team2      = {{fb|RSA}}
+|goals1     =
+*[[Getaneh Kebede|Kebede]] {{goal|67}}
+|goals2     =
+*[[Teboho Mokoena (soccer, born 1997)|Mokoena]] {{goal|45+1}}
+*[[Mothobi Mvala|Mvala]] {{goal|71}}
+*[[Evidence Makgopa|Makgopa]] {{goal|90+1}}
+|stadium    = [[Bahir Dar Stadium]], [[Bahir Dar]]
+|attendance = 0
+|referee    = Shuhoub Abdulbasit ([[Libyan Football Federation|Libya]])
+|report     = https://www.fifa.com/tournaments/mens/worldcup/qatar2022/qualifiers/caf/match-center/400204257
+}}
+{{Football box
+|id         = GHA v ZIM
+|date       = {{Start date|2021|10|9|df=y}}
+|time       = {{UTZ|16:00|0}}
+|team1      = {{fb-rt|GHA}}
+|score      = 3–1
+|team2      = {{fb|ZIM}}
+|goals1     = 
+*[[Mohammed Kudus|Kudus]] {{goal|5}}
+*[[Thomas Partey|Partey]] {{goal|66}}
+*[[André Ayew|A. Ayew]] {{goal|87}}
+|goals2     = 
+*[[Knowledge Musona|Musona]] {{goal|49|pen.}}
+|stadium    = [[Cape Coast Sports Stadium]], [[Cape Coast]]
+|attendance =
+|referee    = Pierre Atcho ([[Gabonese Football Federation|Gabon]])
+|report     = https://www.fifa.com/tournaments/mens/worldcup/qatar2022/qualifiers/caf/match-center/400204258
+}}
+----
+{{Football box
+|id         = ZIM v GHA
+|date       = {{Start date|2021|10|12|df=y}}
+|time       = {{UTZ|15:00|2}}
+|team1      = {{fb-rt|ZIM}}
+|score      = 0–1
+|team2      = {{fb|GHA}}
+|goals1     =
+|goals2     =
+*[[Thomas Partey|Partey]] {{goal|31}}
+|stadium    = [[National Sports Stadium (Zimbabwe)|National Sports Stadium]], [[Harare]]
+|attendance = 0
+|referee    = [[Amin Omar]] ([[Egyptian Football Association|Egypt]])
+|report     = https://www.fifa.com/tournaments/mens/worldcup/qatar2022/qualifiers/caf/match-center/400204260
+}}
+{{Football box
+|id         = RSA v ETH
+|date       = {{Start date|2021|10|12|df=y}}
+|time       = {{UTZ|18:00|2}}
+|team1      = {{fb-rt|RSA}}
+|score      = 1–0
+|team2      = {{fb|ETH}}
+|goals1     =
+*[[Getaneh Kebede|Kebede]] {{goal|11|o.g.}}
+|goals2     =
+|stadium    = [[FNB Stadium]], [[Johannesburg]]
+|attendance =
+|referee    = Georges Gatogato ([[Football Federation of Burundi|Burundi]])
+|report     = https://www.fifa.com/tournaments/mens/worldcup/qatar2022/qualifiers/caf/match-center/400204259
+}}
+----
+{{Football box
+|id         = ETH v GHA
+|date       = {{Start date|2021|11|11|df=y}}
+|time       = {{UTZ|15:00|2}}
+|team1      = {{fb-rt|ETH}}
+|score      = 1–1
+|team2      = {{fb|GHA}}
+|goals1     =
+*[[Getaneh Kebede|Kebede]] {{goal|72}}
+|goals2     =
+*[[André Ayew|A. Ayew]] {{goal|22}}
+|stadium    = [[Orlando Stadium]], [[Johannesburg]] (South Africa)
+|attendance = 0
+|referee    = Blaise Yuven Ngwa ([[Cameroonian Football Federation|Cameroon]])
+|report     = https://www.fifa.com/tournaments/mens/worldcup/qatar2022/qualifiers/caf/match-center/400209489
+}}
+{{Football box
+|id         = RSA v ZIM
+|date       = {{Start date|2021|11|11|df=y}}
+|time       = {{UTZ|21:00|2}}
+|team1      = {{fb-rt|RSA}}
+|score      = 1–0
+|team2      = {{fb|ZIM}}
+|goals1     =
+*[[Teboho Mokoena (soccer, born 1997)|Mokoena]] {{goal|26}}
+|goals2     =
+|stadium    = [[FNB Stadium]], [[Johannesburg]]
+|attendance = 0
+|referee    = Sadok Selmi ([[Tunisian Football Federation|Tunisia]])
+|report     = https://www.fifa.com/tournaments/mens/worldcup/qatar2022/qualifiers/caf/match-center/400209492
+}}
+----
+{{Football box
+|id         = ZIM v ETH
+|date       = {{Start date|2021|11|14|df=y}}
+|time       = {{UTZ|15:00|2}}
+|team1      = {{fb-rt|ZIM}}
+|score      = 1–1
+|team2      = {{fb|ETH}}
+|goals1     =
+*[[Kudakwashe Mahachi|Mahachi]] {{goal|39}}
+|goals2     =
+*[[Abubeker Nassir|Nassir]] {{goal|86}}
+|stadium    = [[National Sports Stadium (Zimbabwe)|National Sports Stadium]], [[Harare]]
+|attendance = 0
+|referee    = Mohamed Ali Moussa ([[Nigerien Football Federation|Niger]])
+|report     = https://www.fifa.com/tournaments/mens/worldcup/qatar2022/qualifiers/caf/match-center/400209491
+}}
+{{Football box
+|id         = GHA v RSA
+|date       = {{Start date|2021|11|14|df=y}}
+|time       = {{UTZ|21:00|0}}
+|team1      = {{fb-rt|GHA}}
+|score      = 1–0{{refn|group=note|An appeal by the South African Football Association alleging that the match had been fixed was declared inadmissible by FIFA.<ref>{{cite web| url=https://www.bbc.com/sport/africa/59320969 |title=South Africa claim betting spike during Ghana World Cup qualifying game |publisher=BBC |date=17 November 2021 |access-date=26 November 2021}}</ref><ref>{{Cite web |last=Ntloko |first=Mninawa |title=D-Day for SA as Fifa committee meets to decide Bafana's World Cup fate |url=https://www.timeslive.co.za/sport/soccer/2021-11-22-d-day-for-sa-as-fifa-committee-meets-to-decide-bafanas-world-cup-fate/ |date=22 November 2021 |publisher=TimesLIVE}}</ref><ref name="FIFA Decision">{{cite web |url=https://www.fresnobee.com/sports/article256310532.html |title=Protests by South Africa and Benin dismissed by FIFA |publisher=Fresno Bee |date=4 December 2021}}</ref>}}
+|team2      = {{fb|RSA}}
+|goals1     =
+*[[André Ayew|A. Ayew]] {{goal|33|pen.}}
+|goals2     =
+|stadium    = [[Cape Coast Sports Stadium]], [[Cape Coast]]
+|attendance = 5,000
+|referee    = Maguette N'Diaye ([[Senegalese Football Federation|Senegal]])
+|report     = https://www.fifa.com/tournaments/mens/worldcup/qatar2022/qualifiers/caf/match-center/400209490
+}}
+
+===Group H===
+<onlyinclude>{{#invoke:Sports table|main|style=WDL
+|section=Group H
+|show_matches=y
+|class_rules=[[2022 FIFA World Cup qualification#Tiebreakers|Tiebreakers]]
+|source=[https://www.fifa.com/tournaments/mens/worldcup/qatar2022/qualifiers/caf FIFA], [https://int.soccerway.com/international/africa/wc-qualifying-africa/2022-qatar/2nd-round/group-h/g14999/ Soccerway]
+<!--Update team positions below (check tiebreakers)-->
+|team_order=SEN, TOG, NAM, CGO
+
+<!--Update team results below (including date)-->
+|update=complete
+|win_SEN=5 |draw_SEN=1 |loss_SEN=0 |gf_SEN=15|ga_SEN=4
+|win_CGO=0 |draw_CGO=3 |loss_CGO=3 |gf_CGO=5 |ga_CGO=10
+|win_NAM=1 |draw_NAM=2 |loss_NAM=3 |gf_NAM=5 |ga_NAM=10
+|win_TOG=2 |draw_TOG=2 |loss_TOG=2 |gf_TOG=5 |ga_TOG=6
+
+<!--Update results below-->
+|match_SEN_CGO=[[2022 FIFA World Cup qualification – CAF second round#SEN v CGO|2–0]]
+|match_SEN_NAM=[[2022 FIFA World Cup qualification – CAF second round#SEN v NAM|4–1]]
+|match_SEN_TOG=[[2022 FIFA World Cup qualification – CAF second round#SEN v TOG|2–0]]
+
+|match_CGO_SEN=[[2022 FIFA World Cup qualification – CAF second round#CGO v SEN|1–3]]
+|match_CGO_NAM=[[2022 FIFA World Cup qualification – CAF second round#CGO v NAM|1–1]]
+|match_CGO_TOG=[[2022 FIFA World Cup qualification – CAF second round#CGO v TOG|1–2]]
+
+|match_NAM_SEN=[[2022 FIFA World Cup qualification – CAF second round#NAM v SEN|1–3]]
+|match_NAM_CGO=[[2022 FIFA World Cup qualification – CAF second round#NAM v CGO|1–1]]
+|match_NAM_TOG=[[2022 FIFA World Cup qualification – CAF second round#NAM v TOG|0–1]]
+
+|match_TOG_SEN=[[2022 FIFA World Cup qualification – CAF second round#TOG v SEN|1–1]]
+|match_TOG_CGO=[[2022 FIFA World Cup qualification – CAF second round#TOG v CGO|1–1]]
+|match_TOG_NAM=[[2022 FIFA World Cup qualification – CAF second round#TOG v NAM|0–1]]
+
+<!--Team definitions-->
+|name_SEN={{fb|SEN}} |short_SEN={{flagdeco|SEN}}
+|name_CGO={{fb|CGO}} |short_CGO={{flagdeco|CGO}}
+|name_NAM={{fb|NAM}} |short_NAM={{flagdeco|NAM}}
+|name_TOG={{fb|TOG}} |short_TOG={{flagdeco|TOG}}
+
+<!--Qualification column definitions-->
+|res_col_header=Q
+|result1=Q
+|col_Q=green1 |text_Q=Advance to [[2022 FIFA World Cup qualification – CAF third round|third round]]
+}}</onlyinclude>
+{{Football box
+|id         = SEN v TOG
+|date       = {{Start date|2021|9|1|df=y}}
+|time       = {{UTZ|16:00|0}}
+|team1      = {{fb-rt|SEN}}
+|score      = 2–0
+|team2      = {{fb|TOG}}
+|goals1     =
+*[[Sadio Mané|Mané]] {{goal|56}}
+*[[Abdou Diallo|A. Diallo]] {{goal|81}}
+|goals2     =
+|stadium    = [[Stade Lat-Dior]], [[Thiès]]
+|attendance = 0
+|referee    = Sadok Selmi ([[Tunisian Football Federation|Tunisia]])
+|report     = https://www.fifa.com/tournaments/mens/worldcup/qatar2022/qualifiers/caf/match-center/400198017
+}}
+{{Football box
+|id         = NAM v CGO
+|date       = {{Start date|2021|9|2|df=y}}
+|time       = {{UTZ|18:00|2}}
+|team1      = {{fb-rt|NAM}}
+|score      = 1–1 
+|team2      = {{fb|CGO}}
+|goals1     =
+*[[Charles Hambira|Hambira]] {{goal|24}}
+|goals2     =
+*[[Charles Hambira|Hambira]] {{goal|57|o.g.}}
+|stadium    = [[Orlando Stadium]], [[Johannesburg]] (South Africa)
+|attendance = 0
+|referee    = Andofetra Rakotojaona ([[Malagasy Football Federation|Madagascar]])
+|report     = https://www.fifa.com/tournaments/mens/worldcup/qatar2022/qualifiers/caf/match-center/400198015
+}}
+----
+{{Football box
+|id         = TOG v NAM
+|date       = {{Start date|2021|9|5|df=y}}
+|time       = {{UTZ|16:00|0}}
+|team1      = {{fb-rt|TOG}}
+|score      = 0–1
+|team2      = {{fb|NAM}}
+|goals1     =
+|goals2     =
+*[[Elmo Kambindu|Kambindu]] {{goal|53}}
+|stadium    = [[Stade de Kégué]], [[Lomé]]
+|attendance = 0
+|referee    = Omar Abdulkadir Artan ([[Somali Football Federation|Somalia]])
+|report     = https://www.fifa.com/tournaments/mens/worldcup/qatar2022/qualifiers/caf/match-center/400198014
+}}
+{{Football box
+|id         = CGO v SEN
+|date       = {{Start date|2021|9|7|df=y}}
+|time       = {{UTZ|17:00|1}}
+|team1      = {{fb-rt|CGO}}
+|score      = 1–3
+|team2      = {{fb|SEN}}
+|goals1     =
+*[[Silvère Ganvoula|Ganvoula]] {{goal|45+2|pen.}}
+|goals2     =
+*[[Boulaye Dia|Dia]] {{goal|27}}
+*[[Ismaïla Sarr|I. Sarr]] {{goal|82}}
+*[[Sadio Mané|Mané]] {{goal|87|pen.}}
+|stadium    = [[Stade Alphonse Massemba-Débat]], [[Brazzaville]]
+|attendance = 0
+|referee    = Mohamed Ali Moussa ([[Nigerien Football Federation|Niger]])
+|report     = https://www.fifa.com/tournaments/mens/worldcup/qatar2022/qualifiers/caf/match-center/400198016
+}}
+----
+{{Football box
+|id         = TOG v CGO
+|date       = {{Start date|2021|10|9|df=y}}
+|time       = {{UTZ|16:00|0}}
+|team1      = {{fb-rt|TOG}}
+|score      = 1–1
+|team2      = {{fb|CGO}}
+|goals1     = 
+*[[Euloge Placca Fessou|Placca Fessou]] {{goal|56}}
+|goals2     = 
+*[[Alaixys Romao|Romao]] {{goal|21|o.g.}}
+|stadium    = [[Stade de Kégué]], [[Lomé]]
+|attendance =
+|referee    = Sekou Ahmed Touré ([[Guinean Football Federation|Guinea]])
+|report     = https://www.fifa.com/tournaments/mens/worldcup/qatar2022/qualifiers/caf/match-center/400204264
+}}
+{{Football box
+|id         = SEN v NAM
+|date       = {{Start date|2021|10|9|df=y}}
+|time       = {{UTZ|19:00|0}}
+|team1      = {{fb-rt|SEN}}
+|score      = 4–1
+|team2      = {{fb|NAM}}
+|goals1     =
+*[[Idrissa Gueye|Gueye]] {{goal|10}}
+*[[Famara Diédhiou|Diédhiou]] {{goal|38}}
+*[[Sadio Mané|Mané]] {{goal|54}}
+*[[Keita Baldé|Keita]] {{goal|83}}
+|goals2     =
+*[[Joslin Kamatuka|Kamatuka]] {{goal|75}}
+|stadium    = [[Stade Lat-Dior]], [[Thiès]]
+|attendance =
+|referee    = Kalilou Traoré ([[Ivorian Football Federation|Ivory Coast]])
+|report     = https://www.fifa.com/tournaments/mens/worldcup/qatar2022/qualifiers/caf/match-center/400204263
+}}
+----
+{{Football box
+|id         = NAM v SEN
+|date       = {{Start date|2021|10|12|df=y}}
+|time       = {{UTZ|15:00|2}}
+|team1      = {{fb-rt|NAM}}
+|score      = 1–3
+|team2      = {{fb|SEN}}
+|goals1     =
+*[[Peter Shalulile|Shalulile]] {{goal|27}}
+|goals2     =
+*[[Famara Diédhiou|Diédhiou]] {{goal|22||51||84}}
+|stadium    = [[Orlando Stadium]], [[Johannesburg]] (South Africa)
+|attendance = 0
+|referee    = Mohamed Youssouf Athoumani ([[Comoros Football Federation|Comoros]])
+|report     = https://www.fifa.com/tournaments/mens/worldcup/qatar2022/qualifiers/caf/match-center/400204262
+}}
+{{Football box
+|id         = CGO v TOG
+|date       = {{Start date|2021|10|12|df=y}}
+|time       = {{UTZ|17:00|1}}
+|team1      = {{fb-rt|CGO}}
+|score      = 1–2
+|team2      = {{fb|TOG}}
+|goals1     =
+*[[Guy Mbenza|Mbenza]] {{goal|71}}
+|goals2     =
+*[[Euloge Placca Fessou|Placca Fessou]] {{goal|43}}
+*[[Kévin Denkey|Denkey]] {{goal|77}}
+|stadium    = [[Stade Alphonse Massemba-Débat]], [[Brazzaville]]
+|attendance = 0
+|referee    = Djindo Louis Houngnandande ([[Benin Football Federation|Benin]])
+|report     = https://www.fifa.com/tournaments/mens/worldcup/qatar2022/qualifiers/caf/match-center/400204261
+}}
+----
+{{Football box
+|id         = CGO v NAM
+|date       = {{Start date|2021|11|11|df=y}}
+|time       = {{UTZ|17:00|1}}
+|team1      = {{fb-rt|CGO}}
+|score      = 1–1
+|team2      = {{fb|NAM}}
+|goals1     =
+*[[Guy Mbenza|Mbenza]] {{goal|54}}
+|goals2     =
+*[[Peter Shalulile|Shalulile]] {{goal|42}}
+|stadium    = [[Stade Alphonse Massemba-Débat]], [[Brazzaville]]
+|attendance = 0
+|referee    = Samuel Uwikunda ([[Rwanda Football Federation|Rwanda]])
+|report     = https://www.fifa.com/tournaments/mens/worldcup/qatar2022/qualifiers/caf/match-center/400209496
+}}
+{{Football box
+|id         = TOG v SEN
+|date       = {{Start date|2021|11|11|df=y}}
+|time       = {{UTZ|19:00|0}}
+|team1      = {{fb-rt|TOG}}
+|score      = 1–1
+|team2      = {{fb|SEN}}
+|goals1     =
+*[[Pape Abou Cissé|Cissé]] {{goal|45+1|o.g.}}
+|goals2     =
+*[[Habib Diallo|H. Diallo]] {{goal|90+3}}
+|stadium    = [[Stade de Kégué]], [[Lomé]]
+|attendance = 0
+|referee    = Jalal Jayed ([[Royal Moroccan Football Federation|Morocco]])
+|report     = https://www.fifa.com/tournaments/mens/worldcup/qatar2022/qualifiers/caf/match-center/400209495
+}}
+----
+{{Football box
+|id         = SEN v CGO
+|date       = {{Start date|2021|11|14|df=y}}
+|time       = {{UTZ|21:00|0}}
+|team1      = {{fb-rt|SEN}}
+|score      = 2–0
+|team2      = {{fb|CGO}}
+|goals1     =
+*[[Ismaïla Sarr|I. Sarr]] {{goal|14||24}}
+|goals2     =
+|stadium    = [[Stade Lat-Dior]], [[Thiès]]
+|attendance = 5,000
+|referee    = Fabricio Duarte ([[Cape Verdean Football Federation|Cape Verde]])
+|report     = https://www.fifa.com/tournaments/mens/worldcup/qatar2022/qualifiers/caf/match-center/400209494
+}}
+{{Football box
+|id         = NAM v TOG
+|date       = {{Start date|2021|11|15|df=y}}
+|time       = {{UTZ|15:00|2}}
+|team1      = {{fb-rt|NAM}}
+|score      = 0–1
+|team2      = {{fb|TOG}}
+|goals1     =
+|goals2     =
+*[[Euloge Placca Fessou|Placca Fessou]] {{goal|88}}
+|stadium    = [[Orlando Stadium]], [[Johannesburg]] (South Africa)
+|attendance = 0
+|referee    = Pierre Atcho ([[Gabonese Football Federation|Gabon]])
+|report     = https://www.fifa.com/tournaments/mens/worldcup/qatar2022/qualifiers/caf/match-center/400209493
+}}
+
+===Group I===
+<onlyinclude>{{#invoke:Sports table|main|style=WDL
+|section=Group I
+|show_matches=y
+|class_rules=[[2022 FIFA World Cup qualification#Tiebreakers|Tiebreakers]]
+|source=[https://www.fifa.com/tournaments/mens/worldcup/qatar2022/qualifiers/caf FIFA], [https://int.soccerway.com/international/africa/wc-qualifying-africa/2022-qatar/2nd-round/group-i/g15000/ Soccerway]
+
+<!--Update team positions below (check tiebreakers)-->
+|team_order=MAR, GNB, GUI, SDN
+
+<!--Update team results below (including date)-->
+|update=complete
+|win_MAR=6 |draw_MAR=0 |loss_MAR=0 |gf_MAR=20|ga_MAR=1
+|win_GUI=0 |draw_GUI=4 |loss_GUI=2 |gf_GUI=5 |ga_GUI=11
+|win_GNB=1 |draw_GNB=3 |loss_GNB=2 |gf_GNB=5 |ga_GNB=11
+|win_SDN=0 |draw_SDN=3 |loss_SDN=3 |gf_SDN=5 |ga_SDN=12
+
+<!--Update results below-->
+|match_MAR_GUI=[[2022 FIFA World Cup qualification – CAF second round#MAR v GUI|3–0]]
+|match_MAR_GNB=[[2022 FIFA World Cup qualification – CAF second round#MAR v GNB|5–0]]
+|match_MAR_SDN=[[2022 FIFA World Cup qualification – CAF second round#MAR v SDN|2–0]]
+
+|match_GUI_MAR=[[2022 FIFA World Cup qualification – CAF second round#GUI v MAR|1–4]]
+|match_GUI_GNB=[[2022 FIFA World Cup qualification – CAF second round#GUI v GNB|0–0]]
+|match_GUI_SDN=[[2022 FIFA World Cup qualification – CAF second round#GUI v SDN|2–2]]
+
+|match_GNB_MAR=[[2022 FIFA World Cup qualification – CAF second round#GNB v MAR|0–3]]
+|match_GNB_GUI=[[2022 FIFA World Cup qualification – CAF second round#GNB v GUI|1–1]]
+|match_GNB_SDN=[[2022 FIFA World Cup qualification – CAF second round#GNB v SDN|0–0]]
+
+|match_SDN_MAR=[[2022 FIFA World Cup qualification – CAF second round#SDN v MAR|0–3]]
+|match_SDN_GUI=[[2022 FIFA World Cup qualification – CAF second round#SDN v GUI|1–1]]
+|match_SDN_GNB=[[2022 FIFA World Cup qualification – CAF second round#SDN v GNB|2–4]]
+
+<!--Team definitions-->
+|name_MAR={{fb|MAR}} |short_MAR={{flagdeco|MAR}}
+|name_GUI={{fb|GUI}} |short_GUI={{flagdeco|GUI}}
+|name_GNB={{fb|GNB}} |short_GNB={{flagdeco|GNB}}
+|name_SDN={{fb|SDN}} |short_SDN={{flagdeco|SDN}}
+
+<!--Qualification column definitions-->
+|res_col_header=Q
+|result1=Q
+|col_Q=green1 |text_Q=Advance to [[2022 FIFA World Cup qualification – CAF third round|third round]]
+}}</onlyinclude>
+{{Football box
+|id         = GNB v GUI
+|date       = {{Start date|2021|9|1|df=y}}
+|time       = {{UTZ|16:00|0}}
+|team1      = {{fb-rt|GNB}}
+|score      = 1–1
+|team2      = {{fb|GUI}}
+|goals1     =
+*[[Joseph Mendes|Jos. Mendes]] {{goal|51}}
+|goals2     =
+*[[François Kamano|Kamano]] {{goal|7}}
+|stadium    = [[Stade Olympique (Nouakchott)|Stade Olympique]], [[Nouakchott]] (Mauritania)
+|attendance = 500
+|referee    = Mutaz Ibrahim ([[Libyan Football Federation|Libya]])
+|report     = https://www.fifa.com/tournaments/mens/worldcup/qatar2022/qualifiers/caf/match-center/400198018
+}}
+{{Football box
+|id         = MAR v SDN
+|date       = {{Start date|2021|9|2|df=y}}
+|time       = {{UTZ|20:00|1}}
+|team1      = {{fb-rt|MAR}}
+|score      = 2–0
+|team2      = {{fb|SDN}}
+|goals1     =
+*[[Nayef Aguerd|Aguerd]] {{goal|10}}
+*[[Abuaagla Abdalla|Ab. Abdalla]] {{goal|53|o.g.}}
+|goals2     =
+|stadium    = [[Prince Moulay Abdellah Stadium]], [[Rabat]]
+|attendance = 0
+|referee    = Maguette N'Diaye ([[Senegalese Football Federation|Senegal]])
+|report     = https://www.fifa.com/tournaments/mens/worldcup/qatar2022/qualifiers/caf/match-center/400198019
+}}
+----
+{{Football box
+|id         = SDN v GNB
+|date       = {{Start date|2021|9|7|df=y}}
+|time       = {{UTZ|21:00|2}}
+|team1      = {{fb-rt|SDN}}
+|score      = 2–4
+|team2      = {{fb|GNB}}
+|goals1     =
+*[[Mohamed Abdelrahman (footballer, born 1993)|Abdel Rahman]] {{goal|55||90+2}}
+|goals2     =
+*[[Piqueti]] {{goal|8||39}}
+*[[Frédéric Mendy (footballer, born 1988)|F. Mendy]] {{goal|11}}
+*[[Mama Baldé|Mam. Baldé]] {{goal|82}}
+|stadium    = [[Al-Hilal Stadium]], [[Omdurman]]
+|attendance = 0
+|referee    = [[Victor Gomes]] ([[South African Football Association|South Africa]])
+|report     = https://www.fifa.com/tournaments/mens/worldcup/qatar2022/qualifiers/caf/match-center/400198021
+}}
+----
+{{Football box
+|id         = SDN v GUI
+|date       = {{Start date|2021|10|6|df=y}}
+|time       = {{UTZ|17:00|1}}
+|team1      = {{fb-rt|SDN}}
+|score      = 1–1
+|team2      = {{fb|GUI}}
+|goals1     =
+*[[Seif Teiri|Teiri]] {{goal|72}}
+|goals2     =
+*[[Mohamed Bayo|Bayo]] {{goal|56}}
+|stadium    = [[Stade de Marrakech]], [[Marrakech]] (Morocco)
+|attendance = 0
+|referee    = [[Janny Sikazwe]] ([[Football Association of Zambia|Zambia]])
+|report     = https://www.fifa.com/tournaments/mens/worldcup/qatar2022/qualifiers/caf/match-center/400204268
+}}
+{{Football box
+|id         = MAR v GNB
+|date       = {{Start date|2021|10|6|df=y}}
+|time       = {{UTZ|20:00|1}}
+|team1      = {{fb-rt|MAR}}
+|score      = 5–0
+|team2      = {{fb|GNB}}
+|goals1     = 
+*[[Achraf Hakimi|Hakimi]] {{goal|31}}
+*[[Imran Louza|Louza]] {{goal|45+1|pen.}}
+*[[Ilias Chair|Chair]] {{goal|49}}
+*[[Ayoub El Kaabi|El Kaabi]] {{goal|62}}
+*[[Munir El Haddadi|Munir]] {{goal|82}}
+|goals2     =
+|stadium    = [[Prince Moulay Abdellah Stadium]], [[Rabat]]
+|attendance = 0
+|referee    = Boubou Traoré ([[Malian Football Federation|Mali]])
+|report     = https://www.fifa.com/tournaments/mens/worldcup/qatar2022/qualifiers/caf/match-center/400204267
+}}
+----
+{{Football box
+|id         = GUI v SDN
+|date       = {{Start date|2021|10|9|df=y}}
+|time       = {{UTZ|14:00|1}}
+|team1      = {{fb-rt|GUI}}
+|score      = 2–2
+|team2      = {{fb|SDN}}
+|goals1     =
+*[[José Kanté|J. Kanté]] {{goal|48}}
+*[[Mohamed Bayo|Bayo]] {{goal|67}}
+|goals2     =
+*[[Ahmed Al-Tash|Al-Tash]] {{goal|64}}
+*[[Amir Kamal|Kamal]] {{goal|88}}
+|stadium    = [[Stade Adrar]], [[Agadir]] (Morocco)
+|attendance = 0
+|referee    = [[Mustapha Ghorbal]] ([[Algerian Football Federation|Algeria]])
+|report     = https://www.fifa.com/tournaments/mens/worldcup/qatar2022/qualifiers/caf/match-center/400204265
+}}
+{{Football box
+|id         = GNB v MAR
+|date       = {{Start date|2021|10|9|df=y}}
+|time       = {{UTZ|20:00|1}}
+|team1      = {{fb-rt|GNB}}
+|score      = 0–3
+|team2      = {{fb|MAR}}
+|goals1     =
+|goals2     =
+*[[Ayoub El Kaabi|El Kaabi]] {{goal|10||70}}
+*[[Aymen Barkok|Barkok]] {{goal|20}}
+|stadium    = [[Stade Mohamed V]], [[Casablanca]] (Morocco)
+|attendance =
+|referee    = Jean Jacques Ndala Ngambo ([[Congolese Association Football Federation|Democratic Republic of the Congo]])
+|report     = https://www.fifa.com/tournaments/mens/worldcup/qatar2022/qualifiers/caf/match-center/400204266
+}}
+----
+{{Football box
+|id         = GUI v MAR
+|date       = {{Start date|2021|10|12|df=y}}{{refn|group=note|Originally to be played on 6 September 2021 at the [[General Lansana Conté Stadium]] in [[Conakry]], the Guinea v Morocco match was postponed and relocated due to security concerns following the [[2021 Guinean coup d'état]].}}
+|time       = {{UTZ|20:00|1}}
+|team1      = {{fb-rt|GUI}}
+|score      = 1–4
+|team2      = {{fb|MAR}}
+|goals1     =
+*[[Mamadou Kané|Kané]] {{goal|31}}
+|goals2     =
+*[[Ayoub El Kaabi|El Kaabi]] {{goal|21}}
+*[[Selim Amallah|Amallah]] {{goal|43||65}}
+*[[Sofiane Boufal|Boufal]] {{goal|89}}
+|stadium    = [[Prince Moulay Abdellah Stadium]], [[Rabat]] (Morocco)
+|attendance =
+|referee    = [[Sidi Alioum]] ([[Cameroonian Football Federation|Cameroon]])
+|report     = https://www.fifa.com/tournaments/mens/worldcup/qatar2022/qualifiers/caf/match-center/400198020
+}}
+----
+{{Football box
+|id         = GUI v GNB
+|date       = {{Start date|2021|11|12|df=y}}
+|time       = {{UTZ|16:00|0}}
+|team1      = {{fb-rt|GUI}}
+|score      = 0–0
+|team2      = {{fb|GNB}}
+|goals1     =
+|goals2     =
+|stadium    = [[General Lansana Conté Stadium]], [[Conakry]]
+|attendance = 0
+|referee    = Mohamed Marouf ([[Egyptian Football Association|Egypt]])
+|report     = https://www.fifa.com/tournaments/mens/worldcup/qatar2022/qualifiers/caf/match-center/400209499
+}}
+{{Football box
+|id         = SDN v MAR
+|date       = {{Start date|2021|11|12|df=y}}
+|time       = {{UTZ|20:00|1}}
+|team1      = {{fb-rt|SDN}}
+|score      = 0–3
+|team2      = {{fb|MAR}}
+|goals1     =
+|goals2     =
+*[[Ryan Mmaee|Mmaee]] {{goal|3||61}}
+*[[Imran Louza|Louza]] {{goal|90+3}}
+|stadium    = [[Prince Moulay Abdellah Stadium]], [[Rabat]] (Morocco)
+|attendance = 0
+|referee    = Peter Waweru ([[Football Kenya Federation|Kenya]])
+|report     = https://www.fifa.com/tournaments/mens/worldcup/qatar2022/qualifiers/caf/match-center/400209500
+}}
+----
+{{Football box
+|id         = GNB v SDN
+|date       = {{Start date|2021|11|15|df=y}}
+|time       = {{UTZ|17:00|1}}
+|team1      = {{fb-rt|GNB}}
+|score      = 0–0
+|team2      = {{fb|SDN}}
+|goals1     =
+|goals2     =
+|stadium    = [[Stade de Marrakech]], [[Marrakech]] (Morocco)
+|attendance = 0
+|referee    = Jean Ouattara ([[Burkinabé Football Federation|Burkina Faso]])
+|report     = https://www.fifa.com/tournaments/mens/worldcup/qatar2022/qualifiers/caf/match-center/400209497
+}}
+{{Football box
+|id         = MAR v GUI
+|date       = {{Start date|2021|11|16|df=y}}
+|time       = {{UTZ|20:00|1}}
+|team1      = {{fb-rt|MAR}}
+|score      = 3–0
+|team2      = {{fb|GUI}}
+|goals1     =
+*[[Ryan Mmaee|Mmaee]] {{goal|21|pen.|29}}
+*[[Ayoub El Kaabi|El Kaabi]] {{goal|60}}
+|goals2     =
+|stadium    = [[Stade Mohamed V]], [[Casablanca]]
+|attendance = 0
+|referee    = Joshua Bondo ([[Botswana Football Association|Botswana]])
+|report     = https://www.fifa.com/tournaments/mens/worldcup/qatar2022/qualifiers/caf/match-center/400209498
+}}
+
+===Group J===
+<onlyinclude>{{#invoke:Sports table|main|style=WDL
+|section=Group J
+|show_matches=y
+|class_rules=[[2022 FIFA World Cup qualification#Tiebreakers|Tiebreakers]]
+|source=[https://www.fifa.com/tournaments/mens/worldcup/qatar2022/qualifiers/caf FIFA], [https://int.soccerway.com/international/africa/wc-qualifying-africa/2022-qatar/2nd-round/group-j/g15001/ Soccerway]
+
+<!--Update team positions below (check tiebreakers)-->
+|team_order=COD, BEN, TAN, MAD
+
+<!--Update team results below (including date)-->
+|update=complete
+|win_COD=3 |draw_COD=2 |loss_COD=1 |gf_COD=9 |ga_COD=3
+|win_BEN=3 |draw_BEN=1 |loss_BEN=2 |gf_BEN=5 |ga_BEN=4
+|win_MAD=1 |draw_MAD=1 |loss_MAD=4 |gf_MAD=4 |ga_MAD=9
+|win_TAN=2 |draw_TAN=2 |loss_TAN=2 |gf_TAN=6 |ga_TAN=8
+
+<!--Update results below-->
+|match_COD_BEN=[[2022 FIFA World Cup qualification – CAF second round#COD v BEN|2–0]]
+|match_COD_MAD=[[2022 FIFA World Cup qualification – CAF second round#COD v MAD|2–0]]
+|match_COD_TAN=[[2022 FIFA World Cup qualification – CAF second round#COD v TAN|1–1]]
+
+|match_BEN_COD=[[2022 FIFA World Cup qualification – CAF second round#BEN v COD|1–1]]
+|match_BEN_MAD=[[2022 FIFA World Cup qualification – CAF second round#BEN v MAD|2–0]]
+|match_BEN_TAN=[[2022 FIFA World Cup qualification – CAF second round#BEN v TAN|0–1]]
+
+|match_MAD_COD=[[2022 FIFA World Cup qualification – CAF second round#MAD v COD|1–0]]
+|match_MAD_BEN=[[2022 FIFA World Cup qualification – CAF second round#MAD v BEN|0–1]]
+|match_MAD_TAN=[[2022 FIFA World Cup qualification – CAF second round#MAD v TAN|1–1]]
+
+|match_TAN_COD=[[2022 FIFA World Cup qualification – CAF second round#TAN v COD|0–3]]
+|match_TAN_BEN=[[2022 FIFA World Cup qualification – CAF second round#TAN v BEN|0–1]]
+|match_TAN_MAD=[[2022 FIFA World Cup qualification – CAF second round#TAN v MAD|3–2]]
+
+<!--Team definitions-->
+|name_COD={{fb|COD}} |short_COD={{flagdeco|COD}}
+|name_BEN={{fb|BEN}} |short_BEN={{flagdeco|BEN}}
+|name_MAD={{fb|MAD}} |short_MAD={{flagdeco|MAD}}
+|name_TAN={{fb|TAN}} |short_TAN={{flagdeco|TAN}}
+
+<!--Qualification column definitions-->
+|res_col_header=Q
+|result1=Q
+|col_Q=green1 |text_Q=Advance to [[2022 FIFA World Cup qualification – CAF third round|third round]]
+}}</onlyinclude>
+{{Football box
+|id         = COD v TAN
+|date       = {{Start date|2021|9|2|df=y}}
+|time       = {{UTZ|15:00|2}}
+|team1      = {{fb-rt|COD}}
+|score      = 1–1
+|team2      = {{fb|TAN}}
+|goals1     = [[Dieumerci Mbokani|Mbokani]] {{goal|23}}
+|goals2     = [[Simon Msuva|Msuva]] {{goal|36}}
+|stadium    = [[Stade TP Mazembe]], [[Lubumbashi]]
+|attendance = 0
+|referee    = Kalilou Ibrahim Traore ([[Ivorian Football Federation|Ivory Coast]])
+|report     = https://www.fifa.com/tournaments/mens/worldcup/qatar2022/qualifiers/caf/match-center/400198024
+}}
+{{Football box
+|id         = MAD v BEN
+|date       = {{Start date|2021|9|2|df=y}}
+|time       = {{UTZ|19:00|3}}
+|team1      = {{fb-rt|MAD}}
+|score      = 0–1
+|team2      = {{fb|BEN}}
+|goals1     =
+|goals2     =
+*[[Steve Mounié|Mounié]] {{goal|22}}
+|stadium    = [[Mahamasina Municipal Stadium]], [[Antananarivo]]
+|attendance = 10,000
+|referee    = Brighton Chimene ([[Zimbabwe Football Association|Zimbabwe]])
+|report     = https://www.fifa.com/tournaments/mens/worldcup/qatar2022/qualifiers/caf/match-center/400198023
+}}
+----
+{{Football box
+|id         = BEN v COD
+|date       = {{Start date|2021|9|6|df=y}}
+|time       = {{UTZ|14:00|1}}
+|team1      = {{fb-rt|BEN}}
+|score      = 1–1
+|team2      = {{fb|COD}}
+|goals1     =
+*[[Jordan Adéoti|Adéoti]] {{goal|33}}
+|goals2     =
+*[[Dieumerci Mbokani|Mbokani]] {{goal|11}}
+|stadium    = [[Stade de l'Amitié]], [[Cotonou]]
+|attendance = 5,000
+|referee    = Jean Ouattara ([[Burkinabé Football Federation|Burkina Faso]])
+|report     = https://www.fifa.com/tournaments/mens/worldcup/qatar2022/qualifiers/caf/match-center/400198025
+}}
+{{Football box
+|id         = TAN v MAD
+|date       = {{Start date|2021|9|7|df=y}}
+|time       = {{UTZ|21:00|3}}
+|team1      = {{fb-rt|TAN}}
+|score      = 3–2
+|team2      = {{fb|MAD}}
+|goals1     =
+*[[Erasto Nyoni|Nyoni]] {{goal|2|pen.}}
+*[[Novatus Dismas|Dismas]] {{goal|26}}
+*[[Feisal Salum|Salum]] {{goal|53}}
+|goals2     =
+*[[Njiva Rakotoharimalala|Rakotoharimalala]] {{goal|36}}
+*[[Thomas Fontaine|Fontaine]] {{goal|45+2}}
+|stadium    = [[National Stadium (Tanzania)|National Stadium]], [[Dar es Salaam]]
+|attendance = 0
+|referee    = Mashood Ssali ([[Federation of Uganda Football Associations|Uganda]])
+|report     = https://www.fifa.com/tournaments/mens/worldcup/qatar2022/qualifiers/caf/match-center/400198022
+}}
+----
+{{Football box
+|id         = COD v MAD
+|date       = {{Start date|2021|10|7|df=y}}
+|time       = {{UTZ|14:00|1}}
+|team1      = {{fb-rt|COD}}
+|score      = 2–0
+|team2      = {{fb|MAD}}
+|goals1     = 
+*[[Chadrac Akolo|Akolo]] {{goal|35}}
+*[[Dieumerci Mbokani|Mbokani]] {{goal|78|pen.}}
+|goals2     =
+|stadium    = [[Stade des Martyrs]], [[Kinshasa]]
+|attendance = 0
+|referee    = Antonio Caluassi Dungula ([[Angolan Football Federation|Angola]])
+|report     = https://www.fifa.com/tournaments/mens/worldcup/qatar2022/qualifiers/caf/match-center/400204269
+}}
+{{Football box
+|id         = TAN v BEN
+|date       = {{Start date|2021|10|7|df=y}}
+|time       = {{UTZ|16:00|3}}
+|team1      = {{fb-rt|TAN}}
+|score      = 0–1
+|team2      = {{fb|BEN}}
+|goals1     =
+|goals2     = 
+*[[Steve Mounié|Mounié]] {{goal|72}}
+|stadium    = [[National Stadium (Tanzania)|National Stadium]], [[Dar es Salaam]]
+|attendance = 500
+|referee    = Celso Alvação ([[Mozambican Football Federation|Mozambique]])
+|report     = https://www.fifa.com/tournaments/mens/worldcup/qatar2022/qualifiers/caf/match-center/400204272
+}}
+----
+{{Football box
+|id         = BEN v TAN
+|date       = {{Start date|2021|10|10|df=y}}
+|time       = {{UTZ|14:00|1}}
+|team1      = {{fb-rt|BEN}}
+|score      = 0–1
+|team2      = {{fb|TAN}}
+|goals1     =
+|goals2     = 
+*[[Simon Msuva|Msuva]] {{goal|6}}
+|stadium    = [[Stade de l'Amitié]], [[Cotonou]]
+|attendance = 15,000
+|referee    = Omar Abdulkadir Artan ([[Somali Football Federation|Somalia]])
+|report     = https://www.fifa.com/tournaments/mens/worldcup/qatar2022/qualifiers/caf/match-center/400204270
+}}
+{{Football box
+|id         = MAD v COD
+|date       = {{Start date|2021|10|10|df=y}}
+|time       = {{UTZ|19:00|3}}
+|team1      = {{fb-rt|MAD}}
+|score      = 1–0
+|team2      = {{fb|COD}}
+|goals1     = 
+*[[Njiva Rakotoharimalala|Rakotoharimalala]] {{goal|1}}
+|goals2     =
+|stadium    = [[Mahamasina Municipal Stadium]], [[Antananarivo]]
+|attendance = 1,500
+|referee    = Patrice Milazare ([[Mauritius Football Association|Mauritius]])
+|report     = https://www.fifa.com/tournaments/mens/worldcup/qatar2022/qualifiers/caf/match-center/400204271
+}}
+----
+{{Football box
+|id         = TAN v COD
+|date       = {{Start date|2021|11|11|df=y}}
+|time       = {{UTZ|16:00|3}}
+|team1      = {{fb-rt|TAN}}
+|score      = 0–3
+|team2      = {{fb|COD}}
+|goals1     =
+|goals2     =
+*[[Gaël Kakuta|Kakuta]] {{goal|6}}
+*[[Nathan Fasika|Fasika]] {{goal|66}}
+*[[Ben Malango|Malango]] {{goal|85}}
+|stadium    = [[National Stadium (Tanzania)|National Stadium]], [[Dar es Salaam]]
+|attendance = 10,000
+|referee    = [[Bernard Camille]] ([[Seychelles Football Federation|Seychelles]])
+|report     = https://www.fifa.com/tournaments/mens/worldcup/qatar2022/qualifiers/caf/match-center/400209503
+}}
+{{Football box
+|id         = BEN v MAD
+|date       = {{Start date|2021|11|11|df=y}}
+|time       = {{UTZ|17:00|1}}
+|team1      = {{fb-rt|BEN}}
+|score      = 2–0
+|team2      = {{fb|MAD}}
+|goals1     =
+*[[Jodel Dossou|Dossou]] {{goal|43}}
+*[[Steve Mounié|Mounié]] {{goal|79}}
+|goals2     =
+|stadium    = [[Stade de l'Amitié]], [[Cotonou]]
+|attendance = 15,000
+|referee    = [[Bakary Gassama]] ([[Gambia Football Association|Gambia]])
+|report     = https://www.fifa.com/tournaments/mens/worldcup/qatar2022/qualifiers/caf/match-center/400209504
+}}
+----
+{{Football box
+|id         = COD v BEN
+|date       = {{Start date|2021|11|14|df=y}}
+|time       = {{UTZ|14:00|1}}
+|team1      = {{fb-rt|COD}}
+|score      = 2–0{{refn|group=note|An appeal by the Benin Football Federation alleging that DR Congo had violated the substitution rules in the match was declared inadmissible by FIFA.<ref>{{Cite web |title=Fifa confirms receipt of Benin protest over DR Congo substitutes |url=https://www.bbc.com/sport/africa/59309726 |date=17 November 2021 |access-date=22 November 2021 |publisher=BBC}}</ref><ref name="FIFA Decision" />}}
+|team2      = {{fb|BEN}}
+|goals1     =
+*[[Dieumerci Mbokani|Mbokani]] {{goal|10|pen.}}
+*[[Ben Malango|Malango]] {{goal|74}}
+|goals2     =
+|stadium    = [[Stade des Martyrs]], [[Kinshasa]]
+|attendance = 500
+|referee    = [[Eric Otogo-Castane]] ([[Gabonese Football Federation|Gabon]])
+|report     = https://www.fifa.com/tournaments/mens/worldcup/qatar2022/qualifiers/caf/match-center/400209501
+}}
+{{Football box
+|id         = MAD v TAN
+|date       = {{Start date|2021|11|14|df=y}}
+|time       = {{UTZ|16:00|3}}
+|team1      = {{fb-rt|MAD}}
+|score      = 1–1
+|team2      = {{fb|TAN}}
+|goals1     =
+*[[Hakim Abdallah|Abdallah]] {{goal|74}}
+|goals2     =
+*[[Saimon Msuva|Msuva]] {{goal|25}}
+|stadium    = [[Mahamasina Municipal Stadium]], [[Antananarivo]]
+|attendance = 30,000
+|referee    = Messie Nkounkou ([[Congolese Football Federation|Republic of Congo]])
+|report     = https://www.fifa.com/tournaments/mens/worldcup/qatar2022/qualifiers/caf/match-center/400209502
+}}
+
+==Goalscorers==
+{{#invoke:Goalscorers|main|2022 FIFA World Cup qualification (CAF)|round=group}}<!--CAREFULLY update goalscorers at Module:Goalscorers/data/2022 FIFA World Cup qualification (CAF)-->
+
+==Notes==
+{{reflist|group=note}}
+
+==References==
+{{reflist}}
+
+==External links==
+*{{Official website|https://www.fifa.com/tournaments/mens/worldcup/qatar2022/qualifiers|Official FIFA World Cup website}}
+*[https://www.fifa.com/tournaments/mens/worldcup/qatar2022/qualifiers/caf Qualifiers – Africa Matches: Round 2], FIFA.com
+
+{{2022 FIFA World Cup qualifiers}}
+
+{{DEFAULTSORT:2022 FIFA World Cup qualification - CAF second round}}
+[[Category:2022 FIFA World Cup qualification (CAF)|2]]
+[[Category:2021 in African football|Qual]]
+[[Category:September 2021 sports events in Africa|FIFA World Cup qualification, CAF Round 2]]
+[[Category:October 2021 sports events in Africa|FIFA World Cup qualification, CAF Round 2]]
+[[Category:November 2021 sports events in Africa|FIFA World Cup qualification, CAF Round 2]]
+[[Category:Cameroon at the 2022 FIFA World Cup]]
+[[Category:Ghana at the 2022 FIFA World Cup]]
+[[Category:Morocco at the 2022 FIFA World Cup]]
+[[Category:Senegal at the 2022 FIFA World Cup]]
+[[Category:Tunisia at the 2022 FIFA World Cup]]

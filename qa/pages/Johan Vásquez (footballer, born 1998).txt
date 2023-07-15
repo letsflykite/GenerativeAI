@@ -1,0 +1,253 @@
+{{short description|Mexican footballer}}
+{{Use dmy dates|date=September 2022}}
+{{family name hatnote|Vásquez|Ibarra|lang=Spanish}}
+{{Infobox football biography
+| name = Johan Vásquez
+| image = Johan Vásquez.jpg
+| caption = Vásquez in 2022
+| fullname = Johan Felipe Vásquez Ibarra<ref name="FIFA 2022">{{cite web |url=https://fdp.fifa.org/assetspublic/ce44/pdf/SquadLists-English.pdf |title=FIFA World Cup Qatar 2022™: List of Players: Mixeco |publisher=FIFA |page=18 |date=15 November 2022 |access-date=15 November 2022 |archive-url=https://web.archive.org/web/20221218195301/https://fdp.fifa.org/assetspublic/ce44/pdf/SquadLists-English.pdf |archive-date=18 December 2022 |url-status=live}}</ref>
+| birth_date = {{Birth date and age|df=yes|1998|10|22}}<ref name="FCWC 2019">{{cite web |url=https://tournament.fifadata.com/documents/FCWC/2019/pdf/FCWC_2019_SQUADLISTS.PDF |title=FIFA Club World Cup Qatar 2019: List of Players: CF Monterrey |publisher=FIFA |page=3 |date=5 December 2019 |archive-url=https://web.archive.org/web/20191205105526/https://tournament.fifadata.com/documents/FCWC/2019/pdf/FCWC_2019_SQUADLISTS.PDF |archive-date=5 December 2019 |url-status=dead}}</ref>
+| birth_place = [[Navojoa]], [[Sonora]], Mexico
+| height = 1.84 m<ref>{{cite web|title=Johan Vasquez |url=https://genoacfc.it/team/johan-vasquez/ |publisher=Genoa CFC}}</ref>
+| position = [[Defender (association football)|Centre-back]]
+| currentclub = [[Genoa CFC|Genoa]]
+| clubnumber = 
+| youthyears1 = 2015
+| youthclubs1 = [[Tigres UANL|UANL]] 
+| youthyears2 = 2016
+| youthclubs2 = Poblado Miguel Alemán FC
+| youthyears3 = 2016–2017
+| youthclubs3 = [[Cimarrones de Sonora|Sonora]]
+| years1 = 2017–2018
+| clubs1 = [[Cimarrones de Sonora|Sonora]]
+| caps1 = 25
+| goals1 = 0
+| years2 = 2018–2019
+| clubs2 = → [[C.F. Monterrey|Monterrey]] (loan)
+| caps2 = 11
+| goals2 = 1
+| years3 = 2019–2020
+| clubs3 = [[C.F. Monterrey|Monterrey]]
+| caps3 = 2
+| goals3 = 0
+| years4 = 2020
+| clubs4 = → [[Club Universidad Nacional|UNAM]] (loan)
+| caps4 = 10
+| goals4 = 1
+| years5 = 2020–2021
+| clubs5 = [[Club Universidad Nacional|UNAM]]
+| caps5 = 39
+| goals5 = 1
+| years6 = 2021–2022
+| clubs6 = → [[Genoa CFC|Genoa]] (loan)
+| caps6 = 28
+| goals6 = 1
+| years7 = 2022–
+| clubs7 = [[Genoa CFC|Genoa]]
+| caps7 = 0
+| goals7 = 0
+| years8 = 2022–2023
+| clubs8 = → [[US Cremonese|Cremonese]] (loan)
+| caps8 = 25
+| goals8 = 1
+| nationalyears1 = 2019–2021
+| nationalteam1 = [[Mexico national under-23 football team|Mexico U23]]
+| nationalcaps1 = 17
+| nationalgoals1 = 3
+| nationalyears2 = 2019–
+| nationalteam2 = [[Mexico national football team|Mexico]]
+| nationalcaps2 = 12
+| nationalgoals2 = 1
+| medaltemplates =
+{{MedalCountry|{{MEX}}}}
+{{MedalSport | Men's [[Association football|football]]}}
+{{MedalCompetition|[[Pan American Games]]}}
+{{MedalBronze| [[2019 Pan American Games|2019 Lima]] |[[Football at the 2019 Pan American Games – Men's team squads#Mexico|Team]]}}
+{{Medal|Competition|[[Football at the Summer Olympics|Olympic Games]]}}
+{{Medal|Bronze|[[2020 Summer Olympics|2020 Tokyo]]|[[Football at the 2020 Summer Olympics – Men's tournament|Team]]}}
+| club-update = 3 June 2023
+| nationalteam-update = 8 July 2023
+}}
+
+'''Johan Felipe Vásquez Ibarra''' (born 22 October 1998) is a Mexican professional [[association football|footballer]] who plays as a [[centre-back]] for {{Italian football updater|Genoa}} club [[Genoa CFC|Genoa]] and the [[Mexico national football team|Mexico national team]].
+
+==Club career==
+After a couple of years in Pumas UNAM academy, Vásquez first joined [[Tigres UANL|Tigres UANL youth academy]] in 2015. He then briefly transferred to Poblado Miguel Alemán FC in 2016 before settling in [[Cimarrones de Sonora]], successfully going through the ranks until reaching the first team and making his professional debut in the [[Ascenso MX]].<ref>{{cite web|title=Johan Vásquez|url=https://ligamx.net/cancha/jugador/111222/eyJpZENsdWIiOiAxNH0=/johan-felipe-vasquez-ibarra|website=ligamx.net|accessdate=2 September 2017|language=es-MX}}</ref>
+
+In April 2018, Vásquez joined [[C.F. Monterrey|Monterrey]] on a two-year loan deal with the option to buy.<ref>{{cite web|title=Johan Vásquez, nuevo jugador de Rayados|date=18 April 2018|url=https://www.multimedios.com/deportes/futbol/rayados/johan-vasquez-nuevo-jugador-rayados.html}}</ref> He was eventually purchased by Monterrey for [[US$]]2 million, making him the most expensive transfer between the top two levels of Mexican football.<ref>{{cite web|title=Cimarrones de Sonora, una cantera para la Liga MX|date=20 May 2021|url=https://www.futboltotal.com.mx/futbol-mexicano/liga-mx/cimarrones-de-sonora-una-cantera-para-la-liga-mx/2021/05}}</ref>
+
+In December 2019, Vásquez joined [[Club Universidad Nacional|UNAM]] on loan with the option to buy.<ref>{{cite web|title=Johan Vásquez llegará a Pumas UNAM con un préstamo a dos años con opción a compra|url=https://dalepumas.bolavip.com/ligamx/Johan-Vasquez-llegara-a-Pumas-UNAM-con-un-prestamo-a-dos-anos-con-opcion-a-compra-20191223-0005.html}}</ref> Two months later, following impressive performances, 50 percent of his rights were purchased by UNAM.<ref>{{cite web|title=Pumas habría comprado parte de la carta de Johan Vásquez|url=https://www.soyfutbol.com/ligas/Pumas-habria-comprado-parte-de-la-carta-de-Johan-Vasquez-20200221-0032.html}}</ref>
+
+On 16 August 2021, Vásquez joined [[Serie A]] club [[Genoa C.F.C.|Genoa]] on a season-long loan with an obligation to buy after one played match.<ref>{{cite news|title=Johan Vásquez es oficialmente nuevo jugador del Genoa de la Serie A.|url=https://www.marca.com/claro-mx/futbol/mexicanos-mundo/2021/08/16/611a6b70e2704e4a7f8b45bc.html|publisher=Marca Claro|date=16 August 2021}}</ref><ref>{{cite web|title=Genoa loan Vásquez from UNAM Pumas - Purchase option after one game|url=https://www.transfermarkt.us/genoa-loan-vasquez-from-unam-pumas-purchase-option-after-one-game/view/news/391120}}</ref> On 17 October, Vásquez made his debut with the team in a league match against [[U.S. Sassuolo Calcio|Sassuolo]], scoring the equalizing goal for his team for a 2–2 draw.<ref>{{cite web|title=Johan Vásquez, el 'nómada' del futbol mexicano que cumple su sueño en Italia al debutar con un gol|date=18 October 2021 |url=https://espndeportes.espn.com/futbol/italia/nota/_/id/9374440/johan-vasquez-gol-debut-genoa-nomada-liga-mx-historia}}</ref>
+
+On 18 June 2022, Vásquez moved to recently promoted [[U.S. Cremonese|Cremonese]] on loan with an option to buy.<ref>{{cite web|publisher=Cremonese|url=https://www.uscremonese.it/johan-vasquez-e-un-nuovo-giocatore-della-cremonese/|title=JOHAN VASQUEZ È UN NUOVO GIOCATORE DELLA CREMONESE|date=18 June 2022|access-date=20 June 2022|language=it}}</ref>
+
+==International career==
+===Youth===
+Vásquez began his international career with the [[Mexico national under-23 football team|under-23]] side, featuring at the [[Football at the 2019 Pan American Games – Men's tournament|2019 Pan American Games]]<ref>{{cite web|url=https://wrsd.lima2019.pe/PAG2019/resPAG2019/pdf/PAG2019/FBL/PAG2019_FBL_C33_FBLMTEAM11------------TEAM01------C_MEX.pdf|title=Football Men – Mexico Team Roster|publisher=Lima 2019|date=29 July 2019|access-date=25 August 2020|archive-date=29 July 2019|archive-url=https://web.archive.org/web/20190729232226/https://wrsd.lima2019.pe/PAG2019/resPAG2019/pdf/PAG2019/FBL/PAG2019_FBL_C33_FBLMTEAM11------------TEAM01------C_MEX.pdf|url-status=dead}}</ref> where Mexico won the bronze medal.<ref>{{cite web|title=México rescató el Bronce en Panamericanos tras vencer a Uruguay con muchos apuros|url=https://www.mediotiempo.com/deportes-olimpicos/juegos-panamericanos/mexico-1-0-uruguay-bronce-tricolor-lima-2019-cronica-video}}</ref> He also participated at the [[2020 CONCACAF Men's Olympic Qualifying Championship|2020 CONCACAF Olympic Qualifying Championship]], scoring one goal in five appearances, where Mexico won the competition. He was included in the tournament's Best XI.<ref name=CONCACAF>{{cite web|title=Ellos son los 4 mexicanos que encabezan el 11 ideal de Concacaf del Preolímpico 2021|url=https://soyreferee.com/futbolinternacional/Ellos-son-los-4-mexicanos-que-encabezan-el-11-ideal-de-Concacaf-del-Preolimpico-2021-20210331-0016.html}}</ref> Vásquez was subsequently called up to participate in the [[2020 Summer Olympics]]. He won the [[bronze medal]] with the Olympic team.<ref>{{cite web|title=Revelan lista oficial de la Selección Sub-23 que acudirá a Tokio 2020|date=5 July 2021|url=https://espndeportes.espn.com/futbol/selecciones/nota/_/id/8854207/mexico-sub23-convocatoria-jaime-lozano-tokio-2020}}</ref>
+
+===Senior===
+On 2 October 2019, Vásquez made his [[Mexico national football team|senior national team]] debut in a friendly against [[Trinidad & Tobago national football team|Trinidad & Tobago]]. He came on as a substitute replacing [[Paolo Yrizar]] in the 63rd minute in Mexico's 2–0 win.<ref>{{cite web|publisher=[[ESPN]]|url=https://www.espn.com/soccer/lineups?gameId=557649|title=Mexico v Trinidad & Tobago game report|date=2 October 2019}}</ref>
+
+In October 2022, Vásquez was named in Mexico's preliminary 31-man [[Mexico national football team|squad]] for the [[2022 FIFA World Cup]], and in November, he was ultimately included in the final 26-man roster, but did not receive any minutes on the field during the tournament.<ref>{{cite web|title=Lista de convocados de la Selección Mexicana al Mundial de Qatar 2022|url=https://www.tvazteca.com/aztecadeportes/lista-oficial-convocados-seleccion-mexicana-mundial-qatar-2022|work=Tvazteca.com|first=Omar|last=Moro|date=14 November 2022|language=Spanish}}</ref>
+
+==Career statistics==
+===Club===
+{{updated|match played 3 June 2023}}<ref name="soccerway">{{soccerway|johan-felipe-vasquez-ibarra/490114}}</ref>
+
+{| class="wikitable" style="text-align:center"
+|+ Appearances and goals by club, season and competition
+! rowspan="2" |Club
+! rowspan="2" |Season
+! colspan="3" |League
+! colspan="2" |Cup{{efn|Includes [[Copa MX]] and [[Coppa Italia]]}}
+! colspan="2" |Continental
+! colspan="2" |Other
+! colspan="2" |Total
+|-
+!Division
+!Apps
+!Goals
+!Apps
+!Goals
+!Apps
+!Goals
+!Apps
+!Goals
+!Apps
+!Goals
+|-
+|[[Cimarrones de Sonora|Sonora]]
+|[[2017–18 Ascenso MX season|2017–18]]
+|[[Ascenso MX]]
+|25||0||8||0||colspan="2"|—||colspan="2"|—||33||0
+|-
+|[[C.F. Monterrey|Monterrey]] (loan)
+|[[2018–19 Liga MX season|2018–19]]
+|[[Liga MX]]
+|11||1||8||0||2{{efn|name=CCL|Appearances in [[CONCACAF Champions League]]}}||0||colspan="2"|—||21||1
+|-
+|Monterrey
+|[[2019–20 Liga MX season|2019–20]]
+|Liga MX
+|2||0||2||0||colspan="2"|—||1{{efn|name=FCWC|Appearance in [[FIFA Club World Cup]]}}||0||5||0
+|-
+|[[Club Universidad Nacional|UNAM]] (loan)
+|[[2019–20 Liga MX season|2019–20]]
+|Liga MX
+|10||1||colspan="2"|—||colspan="2"|—||colspan="2"|—||10||1
+|-
+|UNAM
+|[[2020–21 Liga MX season|2020–21]]
+|Liga MX
+|39||1||colspan="2"|—||colspan="2"|—||colspan="2"|—||39||1
+|-
+|[[Genoa C.F.C.|Genoa]] (loan)
+|[[2021–22 Genoa C.F.C. season|2021–22]]
+|[[Serie A]]
+|28||1||2||0||colspan="2"|—||colspan="2"|—||30||1
+|-
+|[[U.S. Cremonese|Cremonese]] (loan)
+|[[2022–23 U.S. Cremonese season|2022–23]]
+|Serie A
+|25||1||4||0||colspan="2"|—||colspan="2"|—||29||1
+|-
+!colspan="3"|Career total
+!140!!5!!24!!0!!2!!0!!1!!0!!167!!5
+|}
+
+{{notelist}}
+
+===International===
+{{updated|match played 8 July 2023|<ref name="NFT">{{NFT player|75649}}</ref>}}
+
+{| class="wikitable" style="text-align:center"
+|+ Appearances and goals by national team and year
+|-
+!National team!!Year!!Apps!!Goals
+|-
+|rowspan="4"|[[Mexico national football team|Mexico]]
+|2019||1||0
+|-
+|2021||3||0
+|-
+|2022||3||0
+|-
+|2023||5||1
+|-
+!colspan="2"|Total!!12!!1
+|}
+
+====International goals====
+''Scores and results list Mexico's goal tally first.''
+{| class="wikitable"
+|-
+! No. !! Date !! Venue !! Opponent !! Score !! Result !! Competition
+|-
+| 1. || 23 March 2023 || [[Dr. Ir. Franklin Essed Stadion|Frank Essed Stadion]], [[Paramaribo]], Suriname || {{fb|SUR}} || align=center| 1–0 || align=center| 2–0|| [[2022–23 CONCACAF Nations League A]]
+|}
+
+==Honours==
+'''Monterrey'''
+*[[Liga MX]]: [[2019–20 Liga MX season#Torneo Apertura|Apertura 2019]]
+*[[CONCACAF Champions League]]: [[2019 CONCACAF Champions League|2019]]
+
+'''Mexico U23'''
+*[[Football at the Pan American Games|Pan American Bronze Medal]]: [[Football at the 2019 Pan American Games – Men's tournament|2019]]
+*[[CONCACAF Men's Olympic Qualifying Championship|CONCACAF Olympic Qualifying Championship]]: [[2020 CONCACAF Men's Olympic Qualifying Championship|2020]]
+*[[Football at the Summer Olympics|Olympic Bronze Medal]]: [[Football at the 2020 Summer Olympics – Men's tournament|2020]]<ref>{{cite web|url=https://www.goal.com/en/news/mexico-win-olympic-bronze-medal-after-beating-hosts-japan-at/xfw3o7f3tzte1pp4ern8bzrb6|title=Mexico win Olympic bronze medal after beating hosts Japan at Tokyo 2020|website=Goal|date=6 August 2021|accessdate=6 August 2021}}</ref>
+
+'''Individual'''
+*[[Liga MX]] Best XI: [[2020–21 Liga MX season#Torneo Guardianes 2020|Guardianes 2020]]<ref>{{cite web|title=Liga MX: León, Pumas y Cruz Azul se 'roban' el 11 ideal del Guardianes 2020|url=https://www.soyfutbol.com/ligas/Liga-MX-Leon-Pumas-y-Cruz-Azul-se-roban-el-11-ideal-del-Guardianes-2020-20201216-0041.html|work=SoyFutbol.com|language=Spanish|first=Luis|last=De la Cruz|date=16 December 2020}}</ref>
+*[[CONCACAF Men's Olympic Qualifying Championship|CONCACAF Olympic Qualifying Championship]] Best XI: [[2020 CONCACAF Men's Olympic Qualifying Championship|2020]]<ref name=CONCACAF/>
+
+==References==
+{{reflist}}
+
+==External links==
+*{{Soccerway|johan-felipe-vasquez-ibarra/490114}}
+*{{NFT player|75649}}
+
+{{U.S. Cremonese squad}}
+{{Navboxes
+|title=Mexico squads
+|bg = #016549
+|fg = White
+|bordercolor =#CE1126
+|list1=
+{{Mexico men's football squad 2020 Summer Olympics}}
+{{Mexico squad 2022 FIFA World Cup}}
+{{Mexico squad 2023 CONCACAF Gold Cup}}
+}}
+{{2020–21 Liga MX Best XI}}
+
+{{DEFAULTSORT:Vasquez, Johan}}
+[[Category:1998 births]]
+[[Category:Living people]]
+[[Category:Mexican men's footballers]]
+[[Category:Mexico men's international footballers]]
+[[Category:Men's association football defenders]]
+[[Category:Cimarrones de Sonora players]]
+[[Category:C.F. Monterrey players]]
+[[Category:Club Universidad Nacional footballers]]
+[[Category:Genoa CFC players]]
+[[Category:US Cremonese players]]
+[[Category:Ascenso MX players]]
+[[Category:Liga MX players]]
+[[Category:Serie A players]]
+[[Category:Mexican expatriate men's footballers]]
+[[Category:Mexican expatriate sportspeople in Italy]]
+[[Category:Expatriate men's footballers in Italy]]
+[[Category:Footballers from Sonora]]
+[[Category:People from Navojoa]]
+[[Category:Pan American Games medalists in football]]
+[[Category:Pan American Games bronze medalists for Mexico]]
+[[Category:Footballers at the 2019 Pan American Games]]
+[[Category:Medalists at the 2019 Pan American Games]]
+[[Category:Footballers at the 2020 Summer Olympics]]
+[[Category:Olympic footballers for Mexico]]
+[[Category:Olympic medalists in football]]
+[[Category:Olympic bronze medalists for Mexico]]
+[[Category:Medalists at the 2020 Summer Olympics]]
+[[Category:2022 FIFA World Cup players]]
+[[Category:2023 CONCACAF Gold Cup players]]

@@ -1,0 +1,161 @@
+{{short description|Saudi Arabian footballer}}
+{{Use dmy dates|date=November 2022}}
+{{Infobox football biography
+| name        = Ali Al-Hassan
+| image       =  
+| full_name   = Ali Sadiq Nasser Al-Hassan<ref name=soccerway/>
+| birth_date  = {{birth date and age|1997|03|04|df=yes}}
+| birth_place = [[Hofuf|Al-Hasa]], Saudi Arabia
+| height      = {{height|m=1.82|precision=0}}<ref>{{cite web |title=Alhassan, Ali |url=https://s5.sir.sportradar.com/sportradar/en/1/season/55589/team/56023/player/1576272 |website=sportradar.com}}</ref>
+| position    = [[Midfielder]]
+| currentclub = [[Al Nassr FC|Al Nassr]]
+| clubnumber  = 19
+| youthyears1 = 
+| youthclubs1 =
+| years1 = 2018–2020
+| clubs1 = [[Al-Fateh SC|Al-Fateh]]
+| caps1  = 43
+| goals1 = 4
+| years2 = 2020–
+| clubs2 = [[Al Nassr FC|Al Nassr]]
+| caps2  = 68
+| goals2 = 0
+| nationalyears1 = 2018–2021
+| nationalteam1  = [[Saudi Arabia national under-23 football team|Saudi Arabia U23]]
+| nationalcaps1  = 
+| nationalgoals1 = 
+| nationalyears2 = 2021–
+| nationalteam2  = [[Saudi Arabia national football team|Saudi Arabia]]
+| nationalcaps2  = 14
+| nationalgoals2 = 1
+| pcupdate       = 23 May 2023
+| ntupdate       = 30 November 2022
+}}
+
+'''Ali Sadiq Nasser Al-Hassan''' ({{lang-ar|علي صادق ناصر الحسن}}; born 4 March 1997) is a Saudi Arabian professional [[Association football|footballer]] who plays as a [[midfielder]] for [[Saudi Professional League]] club [[Al Nassr FC|Al Nassr]] and the [[Saudi Arabia national football team|Saudi Arabia national team]].<ref>{{cite web |title=علي الحسن - Ali Al Hassan |url=https://www.kooora.com/?player=143037 |website=kooora.com |language=ar}}</ref><ref name="soccerway">{{cite web |title=ALI AL HASSAN |url=https://int.soccerway.com/players/ali-al-hassan/538526/ |website=soccerway.com}}</ref>
+
+==Personal life==
+Ali is the brother of the player Abbas Al-Hassan.
+
+==Career==
+===Al-Fateh===
+Al-Hassan started his career at [[Al-Fateh SC|Al-Fateh]] and is a product of the Al-Fateh's youth system. On 17 February 2018, Al-Hassan made his professional debut for Al-Fateh against [[Al-Ittihad Club (Jeddah)|Al-Ittihad]] in the Pro League, replacing [[Abdelkader Oueslati]].<ref>{{cite web |title=الفتح بمعاونة "العكايشي" يمنع الاتحاد من النقاط الثلاث |trans-title=Al-Fateh with the help of “Al-Akayshi” prevents the union from the three points |url=https://www.khlais.sa/65933019/ |website=khlais.sa |language=ar}}</ref> On 6 March 2018, Al-Hassan scored his first goal for the club in the 5–2 win against [[Al-Batin FC|Al-Batin]].<ref>{{cite web |title=الدوري السعودي: الفتح يقسو على الباطن بخماسية |trans-title=Saudi League: Al-Fateh is hardening the sub with five |url=https://saudileague.com/news/saudi-premier-league/%D8%A7%D9%84%D8%AF%D9%88%D8%B1%D9%8A-%D8%A7%D9%84%D8%B3%D8%B9%D9%88%D8%AF%D9%8A-%D8%A7%D9%84%D9%81%D8%AA%D8%AD-%D9%8A%D9%82%D8%B3%D9%88-%D8%B9%D9%84%D9%89-%D8%A7%D9%84%D8%A8%D8%A7%D8%B7%D9%86-%D8%A8/135 |website=saudileague.com |language=ar}}</ref> He went on to make 5 appearances and score once in his first season with the first team.
+
+On 20 November 2018, Al-Hassan underwent surgery in Germany and was sidelined for a month.<ref>{{cite web |title=نجاح العملية الجراحية للاعب#النموذجي "علي الحسن" في برلين |trans-title=The success of the surgery for the #exemplary player "Ali Al-Hassan" in Berlin |url=https://twitter.com/FatehClub/status/1064946548994392064 |website=twitter.com |language=ar}}</ref> He made his return on 21 December 2018 in the league match against [[Ettifaq FC|Al-Ettifaq]].<ref>{{cite web |title=التبديل الثالث لنادي #الفتح |trans-title=The third substitution for Al-Fateh club |url=https://twitter.com/FatehClub/status/1076146350507597825}}</ref> On 5 January 2019, Al-Hassan signed a 5-year professional contract with [[Al-Fateh SC|Al-Fateh]].<ref>{{cite web |title=إدارة نادي #الفتح توقع عقدًا احترافيًا مع اللاعب "علي الحسن" لمدة 5 سنوات |trans-title=The management of Al-Fateh Club signs a professional contract with the player "Ali Al-Hassan" for a period of 5 years |url=https://twitter.com/FatehClub/status/1082389879378595842 |website=twitter.com |language=ar}}</ref> In his second season as a first-team player, Al-Hassan made 16 appearances and scored once against [[Al-Fayha FC|Al-Fayha]].
+
+===Al-Nassr===
+On 5 October 2020, Al-Hassan joined [[Al-Nassr FC|Al-Nassr]] on a five-year contract for a reported fee of [[Saudi riyal|SAR]]25 million.<ref>{{cite web |title=الصفقة الثامنة المحلية.. بعد منتصف الليل "الحسن" نصراوي |trans-title=The eighth local deal... After midnight, "Al-Hassan" Nasrawi |url=https://sabq.org/jYWs9J |website=sabq.org |language=ar}}</ref>
+
+==Career statistics==
+
+===Club===
+{{updated|30 May 2021}}<ref name=soccerway/>
+
+{| class="wikitable" style="text-align: center"
+|-
+!rowspan=2|Club
+!rowspan=2|Season
+!colspan=2|League
+!colspan=2|King Cup
+!colspan=2|Asia
+!colspan=2|Other
+!colspan=2|Total
+|-
+!Apps
+!Goals
+!Apps
+!Goals
+!Apps
+!Goals
+!Apps
+!Goals
+!Apps
+!Goals
+|-
+|rowspan=4 |[[Al-Fateh SC|Al-Fateh]]
+|[[2017–18 Saudi Professional League|2017–18]]
+|5||1||0||0||colspan=2|—||0||0||5||1
+|-
+|[[2018–19 Saudi Professional League|2018–19]]
+|16||1||2||0||colspan=2|—||colspan=2|—||18||1
+|-
+|[[2019–20 Al-Fateh SC season|2019–20]]
+|22||2||1||0||colspan=2|—||colspan=2|—||23||2
+|-
+!Al-Fateh Total
+!43!!4!!3!!0!!0!!0!!0!!0!!46!!4
+|-
+|rowspan=1 |[[Al-Nassr FC|Al-Nassr]]
+|[[2020–21 Saudi Professional League|2020–21]]
+||26||0||4||0||6||0||1{{efn|name=SC|Appearance in [[Saudi Super Cup]]}}||0||37||0
+|-
+! colspan=2 | Career totals
+!69!!4!!7!!0!!6!!0!!1!!0!!83!!4
+|}
+
+{{notelist}}
+
+===International===
+:''Statistics accurate as of match played 30 November 2022.''<ref name="NFT">{{NFT|id=83014|name=Ali Al Hassan|citation=yes}}</ref>
+
+{| class="wikitable" style="text-align:center"
+! colspan=3|[[Saudi Arabia national football team|Saudi Arabia]]
+|-
+!Year!!Apps!!Goals
+|-
+|2021||4||1
+|-
+|2022||10||0
+|-
+!Total||14||1
+|}
+
+===International goals===
+:''Scores and results list Saudi Arabia's goal tally first.''<ref name="NFT" />
+
+{|class="wikitable plainrowheaders sortable"
+|-
+!Goal!!Date!!Venue!!Opponent!!Score!!Result!!Competition
+|-
+| 1. || 15 June 2021 || [[King Saud University Stadium]], [[Riyadh]], [[Saudi Arabia]] || {{fb|UZB}} || align=center | '''3'''–0 || align=center | 3–0 || rowspan=2 | [[2022 FIFA World Cup qualification – AFC second round|2022 FIFA World Cup qualification]]
+|}
+
+==Honours==
+===Club===
+'''Al-Nassr'''
+*[[Saudi Super Cup]]: [[2020 Saudi Super Cup|2020]]
+
+==References==
+{{reflist}}
+
+==External links==
+* {{Soccerway|ali-al-hassan/538526}}
+
+{{Al-Nassr squad}}
+{{Navboxes colour
+|title=Saudi Arabia squads
+|bg=#006C35
+|fg=#FFFFFF
+|bordercolor=#005429
+|list1=
+{{Saudi Arabia men's football squad 2020 Summer Olympics}}
+{{Saudi Arabia squad 2022 FIFA World Cup}}
+}}
+
+{{DEFAULTSORT:Hassan, Ali}}
+[[Category:1997 births]]
+[[Category:Living people]]
+[[Category:Saudi Arabian men's footballers]]
+[[Category:Men's association football midfielders]]
+[[Category:Saudi Professional League players]]
+[[Category:Al Fateh SC players]]
+[[Category:Al Nassr FC players]]
+[[Category:People from Al-Hasa]]
+[[Category:Saudi Arabian Shia Muslims]]
+[[Category:Saudi Arabia men's international footballers]]
+[[Category:Olympic footballers for Saudi Arabia]]
+[[Category:Footballers at the 2020 Summer Olympics]]
+[[Category:2022 FIFA World Cup players]]
+
+
+{{SaudiArabia-footy-bio-stub}}

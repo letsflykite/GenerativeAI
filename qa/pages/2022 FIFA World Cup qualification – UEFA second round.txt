@@ -1,0 +1,537 @@
+{{Short description|none}}
+{{Use dmy dates|date=December 2019}}
+{{EngvarB|date=March 2022}}
+The second round of the [[2022 FIFA World Cup qualification|qualification tournament]] for the [[2022 FIFA World Cup]] from UEFA (also known as the UEFA play-offs) was contested by twelve teams from the [[2022 FIFA World Cup qualification (UEFA)|UEFA segment of qualifying]]. The play-offs determined the final three European teams that joined the group winners at the World Cup in Qatar. The ten runners-up from the UEFA first round groups participated in the play-offs, along with two group winners from the [[2020–21 UEFA Nations League]]. The teams were divided into three paths, each containing four teams, with each play-off path featuring two single-leg semi-finals, and one single-leg final. The matches took place in March and June 2022.
+
+==Format==
+The qualification format was confirmed by the UEFA Executive Committee during their meeting in [[Nyon]], Switzerland on 4 December 2019.<ref>{{cite news |url=https://www.uefa.com/insideuefa/mediaservices/mediareleases/newsid=2634046.html |title=UEFA Executive Committee agenda for Nyon meeting |website=UEFA.com |publisher=Union of European Football Associations |date=27 November 2019 |access-date=28 November 2019}}</ref> The play-offs depended, in part, on results from the [[2020–21 UEFA Nations League]], although to a lesser degree than [[UEFA Euro 2020 qualifying play-offs|play-offs]] of the [[UEFA Euro 2020 qualifying]] tournament.<ref name="ExCo"/>
+
+Unlike previous editions, the play-offs were not contested in two-legged ties. Instead, the twelve teams were split into three play-off paths, each containing four teams. Each play-off path was planned to feature two single-leg semi-finals on 24 March, and one single-leg final on 29 March 2022. The winners of the final in each play-off path qualified for the [[2022 FIFA World Cup]] in Qatar.<ref name="ExCo"/> The semi-finals were hosted by the six best-ranked runners-up of the qualifying group stage, while the host of the final was determined by a draw.<ref name="play-off regulations">{{cite web |url=https://digitalhub.fifa.com/m/205b8634751aa743/original/teq6xtba5j54gogrcemo-pdf.pdf |title=Regulatory articles for the 2020–2022 European qualifiers play-offs |work=[[FIFA]] |format=PDF |date=22 October 2020 |access-date=22 October 2020}}</ref>
+
+The play-offs were played in single-leg knockout matches. If scores were level at the end of normal time, 30 minutes of [[Overtime (sports)#Association football (soccer)|extra time]] would be played, where each team was allowed to make a sixth [[Substitute (association football)|substitution]]. If the scores remained tied, a [[Penalty shoot-out (association football)|penalty shoot-out]] would be used to determine the winner.<ref name="regulations">{{cite web |url=https://digitalhub.fifa.com/m/517ef2ad2bc3665e/original/ytkbpnxyvcghx6bebesv-pdf.pdf |title=Regulations FIFA World Cup 2022 Preliminary Competition: Including COVID-19 Regulations |publisher=[[FIFA|Fédération Internationale de Football Association]] |access-date=29 November 2021}}</ref> Following approval from the UEFA Executive Committee in December 2019, the use of the [[video assistant referee]] system was approved for the entire World Cup qualification tournament.<ref name="ExCo"/>
+
+==Qualified teams==
+Twelve teams advanced to the play-offs. Unlike previous editions, all participants were not decided solely on the results of the first round. Two of the twelve spots were allocated to group winners of the [[2020–21 UEFA Nations League|2020–21 edition]] of the [[UEFA Nations League]].<ref name="ExCo" />
+
+===Second-placed teams (all ten advanced)===
+The ten runners-up from the UEFA first round advanced to the play-offs. Based on the results from the qualifying group stage, the six best-ranked teams were seeded, while the bottom four were unseeded in the semi-final draw.<ref name="ExCo" /><ref name="play-off regulations" />
+
+<section begin=2nd place />{{#invoke:Sports table|main|style=WDL
+|postitle=Seed
+|class_rules=Counting only matches against teams ranked first to fifth in the group, 1. Points; 2. Goal difference; 3. Goals scored; 4. Away goals scored; 5. Wins; 6. Away wins; 7. Lower disciplinary points total; 8. Position in [[2020–21 UEFA Nations League#Seeding|2020–21 UEFA Nations League access list]].<ref name="play-off regulations"/>
+|source=[https://www.fifa.com/tournaments/mens/worldcup/qatar2022/qualifiers/uefa FIFA], [https://www.uefa.com/european-qualifiers/standings/ UEFA]
+
+<!--Update team positions below (check tiebreakers)-->
+|team_order=GrA, GrF, GrC, GrH, GrB, GrE, GrG, GrI, GrJ, GrD
+
+<!--Update team results below (including date)-->
+<!--RESULTS AGAINST SIXTH PLACE TEAMS DO NOT COUNT!-->
+|update=complete
+|win_GrA=5 |draw_GrA=2 |loss_GrA=1 |gf_GrA=17|ga_GrA=6
+|win_GrB=5 |draw_GrB=0 |loss_GrB=3 |gf_GrB=12|ga_GrB=6
+|win_GrC=4 |draw_GrC=4 |loss_GrC=0 |gf_GrC=13|ga_GrC=2
+|win_GrD=2 |draw_GrD=6 |loss_GrD=0 |gf_GrD=11|ga_GrD=8
+|win_GrE=4 |draw_GrE=3 |loss_GrE=1 |gf_GrE=14|ga_GrE=9
+|win_GrF=5 |draw_GrF=2 |loss_GrF=1 |gf_GrF=14|ga_GrF=7
+|win_GrG=4 |draw_GrG=3 |loss_GrG=1 |gf_GrG=18|ga_GrG=16
+|win_GrH=5 |draw_GrH=1 |loss_GrH=2 |gf_GrH=14|ga_GrH=5
+|win_GrI=4 |draw_GrI=2 |loss_GrI=2 |gf_GrI=18|ga_GrI=10
+|win_GrJ=3 |draw_GrJ=3 |loss_GrJ=2 |gf_GrJ=14|ga_GrJ=11
+
+<!--Team definitions-->
+|name_GrA={{fb|POR}}
+|name_GrB={{fb|SWE}}
+|name_GrC={{fb|ITA}}
+|name_GrD={{fb|UKR}}
+|name_GrE={{fb|WAL}}
+|name_GrF={{fb|SCO}}
+|name_GrG={{fb|TUR}}
+|name_GrH={{fb|RUS}}
+|name_GrI={{fb|POL}}
+|name_GrJ={{fb|MKD}}
+
+<!--Group definitions-->
+|show_groups=T
+|group_GrA=[[2022 FIFA World Cup qualification – UEFA Group A|A]]
+|group_GrB=[[2022 FIFA World Cup qualification – UEFA Group B|B]]
+|group_GrC=[[2022 FIFA World Cup qualification – UEFA Group C|C]]
+|group_GrD=[[2022 FIFA World Cup qualification – UEFA Group D|D]]
+|group_GrE=[[2022 FIFA World Cup qualification – UEFA Group E|E]]
+|group_GrF=[[2022 FIFA World Cup qualification – UEFA Group F|F]]
+|group_GrG=[[2022 FIFA World Cup qualification – UEFA Group G|G]]
+|group_GrH=[[2022 FIFA World Cup qualification – UEFA Group H|H]]
+|group_GrI=[[2022 FIFA World Cup qualification – UEFA Group I|I]]
+|group_GrJ=[[2022 FIFA World Cup qualification – UEFA Group J|J]]
+
+<!--Qualification column definitions-->
+|res_col_header=Seeding
+|result1=S |result2=S |result3=S |result4=S |result5=S |result6=S |result7=N |result8=N |result9=N |result10=N
+|col_S=green1 |text_S=Seeded in semi-final draw
+|col_N=blue1  |text_N=Unseeded in semi-final draw
+}}<section end=2nd place />
+
+===Nations League group winners (best two advanced)===
+Based on the [[2020–21 UEFA Nations League#Overall ranking|2020–21 UEFA Nations League overall ranking]],<ref>{{cite web |url=https://editorial.uefa.com/resources/0264-10fc7133decc-0734cf828401-1000/unl_rankings_after_md6_with_criteria_1_december_2020_.pdf |title=Overall ranking of the 2020/21 UEFA Nations League |work=UEFA |format=PDF |date=1 December 2020 |access-date=1 December 2020}}</ref> the best two Nations League group winners that finished outside the top two of their qualifying group advanced to the play-offs and were unseeded in the semi-final draw.<ref name="ExCo"/><ref name="play-off regulations"/>
+<section begin=Nations League />
+{| class="wikitable" style="text-align:center"
+|-
+! {{Abbr|UNL|UEFA Nations League division}}
+! {{Abbr|Rank|Nations League overall ranking}}
+! style="width:190px" | UNL group winner
+! Qualifying<br>group
+|-
+! rowspan="4" | [[2020–21 UEFA Nations League A|A]]
+| 1
+| style="text-align:left; background-color:#FEDCBA;" | {{fb|FRA}} <sup>&</sup>
+| [[2022 FIFA World Cup qualification – UEFA Group D|D]]
+|-
+| 2
+| style="text-align:left; background-color:#FEDCBA;" | {{fb|ESP}} <sup>&</sup>
+| [[2022 FIFA World Cup qualification – UEFA Group B|B]]
+|-
+| 3
+| style="text-align:left; background-color:#FFFFBB;" | {{fb|ITA}} <sup>{{dagger}}</sup>
+| [[2022 FIFA World Cup qualification – UEFA Group C|C]]
+|-
+| 4
+| style="text-align:left; background-color:#FEDCBA;" | {{fb|BEL}} <sup>&</sup>
+| [[2022 FIFA World Cup qualification – UEFA Group E|E]]
+|-
+! rowspan="4" | [[2020–21 UEFA Nations League B|B]]
+| 17
+| style="text-align:left; background-color:#FFFFBB;" | {{fb|WAL}} <sup>{{dagger}}</sup>
+| [[2022 FIFA World Cup qualification – UEFA Group E|E]]
+|-
+| 18
+| style="text-align:left; background-color:#BBF3FF;" | <strong>{{fb|AUT}}</strong> <sup>{{double-dagger}}</sup>
+| [[2022 FIFA World Cup qualification – UEFA Group F|F]]
+|-
+| 19
+| style="text-align:left; background-color:#BBF3FF;" | <strong>{{fb|CZE}}</strong> <sup>{{double-dagger}}</sup>
+| [[2022 FIFA World Cup qualification – UEFA Group E|E]]
+|-
+| 20
+| style="text-align:left; | {{fb|HUN}}
+| [[2022 FIFA World Cup qualification – UEFA Group I|I]]
+|-
+! rowspan="4" | [[2020–21 UEFA Nations League C|C]]
+| 33
+| style="text-align:left;" | {{fb|SVN}}
+| [[2022 FIFA World Cup qualification – UEFA Group H|H]]
+|-
+| 34
+| style="text-align:left;" | {{fb|MNE}}
+| [[2022 FIFA World Cup qualification – UEFA Group G|G]]
+|-
+| 35
+| style="text-align:left;" | {{fb|ALB}}
+| [[2022 FIFA World Cup qualification – UEFA Group I|I]]
+|-
+| 36
+| style="text-align:left;" | {{fb|ARM}}
+| [[2022 FIFA World Cup qualification – UEFA Group J|J]]
+|-
+! rowspan="2" | [[2020–21 UEFA Nations League D|D]]
+| 49
+| style="text-align:left;" | {{fb|GIB}}
+| [[2022 FIFA World Cup qualification – UEFA Group G|G]]
+|-
+| 50
+| style="text-align:left;" | {{fb|FRO}}
+| [[2022 FIFA World Cup qualification – UEFA Group F|F]]
+|}
+'''Key'''
+*{{color box|#FEDCBA|&}} Team qualified directly for World Cup as qualifying group winner
+*{{color box|#FFFFBB|{{dagger}}}} Team advanced to the play-offs as qualifying group runner-up
+*{{color box|#BBF3FF|{{double-dagger}}}} Team (in '''bold''') advanced to the play-offs as one of the best two Nations League group winners outside top two of their qualifying group<section end=Nations League />
+
+==Draw==
+<section begin=Seeding />
+Following the completion of the UEFA first round, the twelve teams that advanced to the play-offs were drawn into three paths of four teams on 26 November 2021, 17:00 [[Central European Time|CET]], in [[Zürich]], Switzerland.<ref>{{Cite web |last=UEFA.com |date=2021-11-26 |title=2022 World Cup play-off draw {{!}} European Qualifiers |url=https://www.uefa.com/european-qualifiers/news/026f-13ac16a363d7-d4a0239a3889-1000--world-cup-play-off-draw/ |access-date=2022-04-03 |website=UEFA.com |language=en}}</ref><ref>{{Cite web |last=UEFA.com |title=2022 World Cup play-off draw {{!}} European Qualifiers |url=https://www.uefa.com/european-qualifiers/draws/2022/2001608/ |access-date=2022-04-03 |website=UEFA.com |language=en}}</ref><ref>{{cite news |url=https://www.fifa.com/tournaments/mens/worldcup/qatar2022/news/fifa-world-cup-european-play-off-draw-to-take-place-on-26-november |title=FIFA World Cup European play-off draw to take place on 26 November |work=[[FIFA]] |date=21 October 2021 |access-date=21 October 2021}}</ref><ref name="ExCo">{{cite news |url=https://www.uefa.com/insideuefa/about-uefa/news/newsid=2635809.html |title=Game changer: group stage for UEFA Women's Champions League |website=UEFA.com |publisher=Union of European Football Associations |date=4 December 2019 |access-date=4 December 2019}}</ref><ref>{{cite web |url=https://digitalhub.fifa.com/m/271202c2bf80db17/original/adjlwts3o6c57g0skqor-pdf.pdf |title=UEFA preliminary competition format for the FIFA World Cup 2022 |work=FIFA |format=PDF |date=4 December 2020 |access-date=7 December 2020}}</ref> The following procedure was applied in the draw:<ref name="play-off regulations"/><ref>{{Cite web |date=November 26, 2021 |title=European Play-Off Tournament for the FIFA World Cup 2022™: Draw Procedures |url=https://digitalhub.fifa.com/m/2baa57ec597ce86f/original/Draw-procedures-European-play-offs.pdf |access-date=April 3, 2022 |website=[[FIFA]]}}</ref>
+* The six seeded teams were allocated to semi-finals 1 to 6 as the host team in the order drawn.
+* The six unseeded teams were allocated to semi-finals 1 to 6 as the away team in the order drawn.
+* Play-off Path A was formed by semi-finals 1 and 2, with the winners of both semi-finals advancing to final A.
+* Play-off Path B was formed by semi-finals 3 and 4, with the winners of both semi-finals advancing to final B.
+* Play-off Path C was formed by semi-finals 5 and 6, with the winners of both semi-finals advancing to final C.
+* The semi-final winners that host play-off finals A, B and C were decided by a draw.
+
+For political reasons related to the [[Russo-Ukrainian War]], Russia and Ukraine could not be drawn into the same play-off path.<ref>{{cite news |url=https://digitalhub.fifa.com/m/20128d6b659f822b/original/UEFA-play-off-draw-procedures_FWC22_EN.pdf |title=European Play-Off Tournament for the FIFA World Cup 2022 |work=[[FIFA]] |date=21 October 2021 |access-date=21 October 2021}}</ref><noinclude> [[Nagorno-Karabakh conflict|Armenia / Azerbaijan]], [[Status of Gibraltar|Gibraltar / Spain]], [[Bosnia and Herzegovina's reaction to the 2008 Kosovo declaration of independence|Kosovo / Bosnia and Herzegovina]], [[Kosovo–Serbia relations|Kosovo / Serbia]] and [[Russia–Serbia relations#Kosovo issue|Kosovo / Russia]] were also identified as prohibited clashes, but among these teams only Russia advanced to the play-offs.</noinclude>
+
+The six runners-up with the best group stage performance were seeded in the semi-final draw, while the remaining four runners-up and two teams advancing via the Nations League were unseeded. The seedings were as follows:
+
+{|
+|- valign=top
+|
+{| class="wikitable"
+|-
+|+ Pot 1 (seeded)
+|-
+! width=200| Team !! Rank
+|-
+| {{fb|POR}} || align=center|1
+|-
+| {{fb|SCO}} || align=center|2
+|-
+| {{fb|ITA}} || align=center|3
+|-
+| {{fb|RUS}} || align=center|4
+|-
+| {{fb|SWE}} || align=center|5
+|-
+| {{fb|WAL}} || align=center|6
+|}
+|
+{| class="wikitable"
+|-
+|+ Pot 2 (unseeded)
+|-
+! width=200| Team !! Rank
+|-
+| {{fb|TUR}} || align=center|7
+|-
+| {{fb|POL}} || align=center|8
+|-
+| {{fb|MKD}} || align=center|9
+|-
+| {{fb|UKR}} || align=center|10
+|-
+| {{fb|AUT}} || align=center|NL–18
+|-
+| {{fb|CZE}} || align=center|NL–19
+|}
+|}<section end=Seeding />
+
+==Effects of the Russian invasion of Ukraine==
+Paths A and B were affected by the [[2022 Russian invasion of Ukraine]] which began on 24 February, a month before the semi-finals.
+
+FIFA suspended [[Russia national football team|Russia]] on 28 February,<ref name="Russia suspended">{{cite news |url=https://www.fifa.com/tournaments/mens/worldcup/qatar2022/media-releases/fifa-uefa-suspend-russian-clubs-and-national-teams-from-all-competitions |title=FIFA/UEFA suspend Russian clubs and national teams from all competitions |work=[[FIFA]] |date=28 February 2022 |access-date=28 February 2022}}</ref><ref>{{Cite web |last=UEFA.com |date=2022-02-28 |title=FIFA/UEFA suspend Russian clubs and national teams from all competitions {{!}} Inside UEFA |url=https://www.uefa.com/insideuefa/news/0272-148df1faf082-6e50b5ea1f84-1000--fifa-uefa-suspend-russian-clubs-and-national-teams-from-a/ |access-date=2023-02-09 |website=UEFA.com |language=en}}</ref> and announced on 8 March that their semi-final opponents [[Poland national football team|Poland]] received a [[Bye (sports)|bye]] to the Path B final;<ref name="Decisions on WC qualifiers">{{cite news |url=https://www.fifa.com/tournaments/mens/worldcup/qatar2022/media-releases/decisions-taken-concerning-fifa-world-cup-qatar-2022-tm-qualifiers |title=Decisions taken concerning FIFA World Cup Qatar 2022 qualifiers |work=[[FIFA]] |date=8 March 2022 |access-date=8 March 2022}}</ref><ref name=":0">{{Cite web |title=Poland advanced, Ukraine postponed: How UEFA World Cup playoffs schedule & format change after FIFA suspends Russia |url=https://www.sportingnews.com/us/soccer/news/russia-uefa-world-cup-qualifying-playoff-schedule-format-ban/oytdvvxczrcyetya9xuvjoma |access-date=2023-02-09 |website=www.sportingnews.com |language=en}}</ref> a request by the [[Russian Football Union]] for a temporary lift of the ban was rejected by the [[Court of Arbitration for Sport]] on 18 March.<ref>{{cite news |url=https://www.bbc.com/sport/football/60607645 |title=Ukraine crisis: Russia to appeal against football ban imposed by Fifa and Uefa |work=[[BBC Sport]] |date=3 March 2022 |access-date=3 March 2022}}</ref><ref>{{cite news |url=https://www.bbc.com/sport/football/60795131 |title=War in Ukraine: Russia request to suspend Fifa ban for World Cup play-offs rejected |work=[[BBC Sport]] |date=18 March 2022 |access-date=18 March 2022}}</ref> An initial decision by FIFA on 27 February had ruled that Russia had to compete under the name "Football Union of Russia" (RFU) and without its flag or anthem, and play its home matches on neutral ground without spectators.<ref>{{cite news |url=https://www.fifa.com/tournaments/mens/worldcup/qatar2022/media-releases/bureau-of-the-fifa-council-takes-initial-measures-with-regard-to-war-in |title=Bureau of the FIFA Council takes initial measures with regard to war in Ukraine |work=[[FIFA]] |date=27 February 2022 |access-date=27 February 2022}}</ref> By that point, the football associations of the other three teams in the Path ([[Football Association of the Czech Republic|Czech Republic]], [[Polish Football Association|Poland]], and [[Swedish Football Association|Sweden]]) had refused to play any matches against Russia, regardless of location,<ref>{{cite news |url=https://facr.fotbal.cz/komunike-z-mimoradneho-zasedani-vv-facr-ze-dne-27-2-2022/a15908/ |title=Komuniké z mimořádného zasedání VV FAČR ze dne 27. 2. 2022 |trans-title=Communiqué from the extraordinary meeting of the FAČR SC of 27 February 2022 |work=[[Football Association of the Czech Republic]] |date=27 February 2022 |access-date=27 February 2022 |language=cs}}</ref><ref>{{cite news |url=https://pzpn.pl/en/national-teams/national-team-a/news/2022-02-26/poland-does-not-intend-to-play-the-play-off-match-against-russia |title=Poland does not intend to play the play-off match against Russia |work=[[Polish Football Association]] |date=26 February 2022 |access-date=26 February 2022}}</ref><ref>{{cite news |url=https://svff.svenskfotboll.se/nyheter/2022/02/svff-herrlandslaget-kommer-inte-att-spela-mot-ryssland/ |title=SvFF: herrlandslaget kommer inte att spela mot Ryssland |trans-title=SvFF: the men's national team will not play against Russia |work=[[Swedish Football Association]] |date=26 February 2022 |access-date=26 February 2022 |language=sv}}</ref> a stance to which they remained committed following FIFA's initial decision.<ref>{{cite news |url=https://www.fotbollskanalen.se/sverige/bekraftat-fifa-exkluderar-inte-ryssland-far-spela-pa-neutral-plan/ |title=Bekräftat: Fifa exkluderar inte Ryssland – får spela på neutral plan |trans-title=Confirmed: FIFA does not exclude Russia – can play on neutral ground |work=Fotbollskanalen |date=27 February 2022 |access-date=27 February 2022 |language=sv}}</ref><ref>{{Cite news |last=McLaughlin |first=Luke |date=2022-02-26 |title=Poland and Sweden will refuse to play Russia in World Cup 2022 playoffs |language=en-GB |work=The Guardian |url=https://www.theguardian.com/football/2022/feb/26/poland-will-refuse-to-play-russia-in-world-cup-2022-playoff-robert-lewandowski |access-date=2023-02-09 |issn=0261-3077}}</ref><ref>{{Cite web |title=Poland, Sweden and Czech Republic refuse to play Russia in FIFA World Cup qualifiers: 'We all want war to end' |url=https://www.cbssports.com/soccer/news/poland-sweden-and-czech-republic-refuse-to-play-russia-in-fifa-world-cup-qualifiers-we-all-want-war-to-end/ |access-date=2023-02-09 |website=CBSSports.com |language=en}}</ref><ref>{{Cite web |title=Poland, Sweden and Czech Republic will refuse to play World Cup play-offs with Russia in opposition to invasion of Ukraine |url=https://www.skysports.com/football/news/13953/12549746/poland-will-refuse-to-play-world-cup-play-offs-with-russia-in-opposition-to-invasion-of-ukraine |access-date=2023-02-09 |website=Sky Sports |language=en}}</ref>
+
+In Path A, following a request by the [[Ukrainian Association of Football]],<ref>{{cite news |url=https://www.bbc.com/sport/football/60606420 |title=World Cup qualifying: Ukraine seek play-off semi-final with Scotland postponement |work=[[BBC Sport]] |date=3 March 2022 |access-date=3 March 2022}}</ref><ref name=":0" /> on 8 March FIFA postponed the semi-final between [[Scotland national football team|Scotland]] and [[Ukraine national football team|Ukraine]] until June 2022, along with the path final. In the interest of preventing further fixture congestion, the other semi-final match between [[Wales national football team|Wales]] and [[Austria national football team|Austria]] would go ahead as scheduled in March.<ref name="Decisions on WC qualifiers"/>
+
+==Schedule==
+Four of the semi-final matches took place on 24 March, and two of the final matches on 29 March 2022.<ref>{{cite web |url=https://documents.uefa.com/v/u/kR6ThiGf9hdVYMlldxMAMw |title=Regulations of the UEFA Nations League, 2020/21 |website=UEFA.com |publisher=Union of European Football Associations |format=PDF |date=13 October 2019 |access-date=13 October 2019 |url-status=live |archive-url=https://web.archive.org/web/20201116082336/https://documents.uefa.com/internal/api/webapp/documents/jJTWTpzi2KN9D8VRYz~Bpg/content |archive-date=16 November 2020}}</ref><ref>{{cite news |url=https://www.uefa.com/european-qualifiers/news/0258-0e2bb3490b69-0abf5d9bc2fa-1000/ |title=2022 World Cup qualifying: all you need to know |website=UEFA.com |publisher=Union of European Football Associations |date=9 December 2019 |access-date=5 January 2020}}</ref> In [[#Path A|Path A]], one semi-final and the final were postponed to 1 and 5 June 2022, respectively, due to the [[2022 Russian invasion of Ukraine|Russian invasion of Ukraine]].<ref name="Play-off Path A">{{cite web|url=https://www.fifa.com/tournaments/mens/worldcup/qatar2022/media-releases/dates-set-for-remaining-european-qualifying-play-off-path-involving-ukraine|title=Dates set for remaining European qualifying play-off path involving Ukraine|work=[[FIFA]]|date=14 April 2022|access-date=15 April 2022}}</ref> The kick-off times were confirmed on 26 November 2021 following the draw.<ref>{{cite news |url=https://www.uefa.com/european-qualifiers/news/026f-13d0cbf45bac-9510fd6ac133-1000/ |title=2022 World Cup play-off draw: Scotland vs Ukraine, Wales vs Austria, Portugal vs Turkey |website=UEFA.com |publisher=Union of European Football Associations |date=26 November 2021 |access-date=26 November 2021}}</ref><ref>{{cite web |url=https://editorial.uefa.com/resources/026f-13d0db3aba44-6f50492158a2-1000/enclosure_1_-_fixture_list.pdf |title=European Qualifiers 2020–22 – Play-offs |website=UEFA.com |publisher=Union of European Football Associations |date=26 November 2021 |access-date=26 November 2021}}</ref> As part of UEFA's scheduling, the losing semi-finalists of each path played a [[Exhibition game#International football|friendly]] match against each other on the day of the play-off finals.<ref>{{cite news |url=https://www.scottishfa.co.uk/news/uefa-confirm-friendly-fixture-for-unsuccessful-world-cup-play-off-semi-finalists/ |title=UEFA confirm friendly fixture for unsuccessful World Cup play-off semi-finalists |work=[[Scottish Football Association]] |date=4 February 2022 |access-date=4 February 2022}}</ref>
+
+Times are [[Central European Time|CET]]/[[Central European Summer Time|CEST]],{{refn|group=note|[[Central European Time|CET]] ([[UTC+01:00|UTC+1]]) for the matches on 24 March, and [[Central European Summer Time|CEST]] ([[UTC+02:00|UTC+2]]) for the matches on 29 March and in June 2022.}} as listed by UEFA (local times, if different, are in parentheses).
+
+==Path A==
+
+===Bracket===
+<section begin=Bracket A />{{#invoke:RoundN|N4
+|style=white-space:nowrap|widescore=yes|bold_winner=high
+|RD1=[[2022 FIFA World Cup qualification – UEFA second round#Semi-finals|Semi-finals]]
+|RD2=[[2022 FIFA World Cup qualification – UEFA second round#Final|Final]]
+<!--Date-Place|Team 1|Score 1|Team 2|Score 2-->
+<!--Semi-finals-->
+|24 March 2022 – [[Cardiff City Stadium|Cardiff]]|{{fb|WAL}}|2|{{fb|AUT}}|1
+|1 June 2022 – [[Hampden Park|Glasgow]]|{{fb|SCO}}|1|{{fb|UKR}}|3
+<!--Final-->
+|5 June 2022 – [[Cardiff City Stadium|Cardiff]]|{{fb|WAL}}|1|{{fb|UKR}}|0
+}}<section end=Bracket A />
+
+===Summary===
+<section begin=Path A />
+{{OneLegStart}}
+|-
+| colspan="3" style="text-align:center; background:whitesmoke;" | '''Semi-finals'''
+{{OneLegResult|{{fb-rt|SCO}}||[[2022 FIFA World Cup qualification – UEFA second round#Scotland v Ukraine|1–3]]|'''{{fb|UKR}}'''}}
+{{OneLegResult|'''{{fb-rt|WAL}}'''||[[2022 FIFA World Cup qualification – UEFA second round#Wales v Austria|2–1]]|{{fb|AUT}}}}
+|-
+| colspan="3" style="text-align:center; background:whitesmoke;" | '''Final'''
+{{OneLegResult|'''{{fb-rt|WAL}}'''||[[2022 FIFA World Cup qualification – UEFA second round#Wales v Ukraine|1–0]]|{{fb|UKR}}}}
+{{end}}<section end=Path A />
+
+===Semi-finals===
+{{Football box
+|id=Wales v Austria
+|date={{Start date|2022|3|24|df=y}}
+|time=20:45 {{small|(19:45 [[UTC±00:00|UTC±0]])}}
+|team1={{fb-rt|WAL}}
+|score=2–1
+|report=[https://www.fifa.com/tournaments/mens/worldcup/qatar2022/qualifiers/uefa/match-center/400212390 Report (FIFA)]<br />[https://www.uefa.com/european-qualifiers/match/2033888/ Report (UEFA)]
+|team2={{fb|AUT}}
+|goals1=
+*[[Gareth Bale|Bale]] {{goal|25||51}}
+|goals2=
+*[[Marcel Sabitzer|Sabitzer]] {{goal|65}}
+|stadium=[[Cardiff City Stadium]], [[Cardiff]]
+|attendance=32,053<ref>{{UEFA match attendance|2033888|Wales vs. Austria|date=24 March 2022|access-date=24 March 2022}}</ref>
+|referee=[[Szymon Marciniak]] ([[Polish Football Association|Poland]])
+}}
+----
+{{Football box
+|id=Scotland v Ukraine
+|date={{Start date|2022|6|1|df=y}}{{refn|group=note|The Scotland v Ukraine match, originally scheduled for 24 March 2022, 20:45 (19:45 UTC±0), was postponed to 1 June 2022, 20:45 (19:45 UTC+1), due to the [[2022 Russian invasion of Ukraine|Russian invasion of Ukraine]].<ref name="Decisions on WC qualifiers"/><ref name="Play-off Path A"/>}}
+|time=20:45 {{small|(19:45 [[UTC+01:00|UTC+1]])}}
+|team1={{fb-rt|SCO}}
+|score=1–3
+|report=[https://www.fifa.com/tournaments/mens/worldcup/qatar2022/qualifiers/uefa/match-center/400212389 Report (FIFA)]<br />[https://www.uefa.com/european-qualifiers/match/2033887/ Report (UEFA)]
+|team2={{fb|UKR}}
+|goals1=
+*[[Callum McGregor|McGregor]] {{goal|79}}
+|goals2=
+*[[Andriy Yarmolenko|Yarmolenko]] {{goal|33}}
+*[[Roman Yaremchuk|Yaremchuk]] {{goal|49}}
+*[[Artem Dovbyk|Dovbyk]] {{goal|90+5}}
+|stadium=[[Hampden Park]], [[Glasgow]]
+|attendance=49,772<ref>{{UEFA match attendance|2033887|Scotland vs. Ukraine|date=1 June 2022|access-date=1 June 2022}}</ref>
+|referee=[[Danny Makkelie]] ([[Royal Dutch Football Association|Netherlands]])
+}}
+
+===Final===
+{{Football box
+|id=Wales v Ukraine
+|date={{Start date|2022|6|5|df=y}}{{refn|group=note|The Path A final, originally scheduled for 29 March 2022, 20:45, was postponed to 5 June 2022, 18:00 (17:00 UTC+1), due to the postponement of the [[2022 FIFA World Cup qualification – UEFA second round#Scotland v Ukraine|Scotland v Ukraine semi-final match]].<ref name="Decisions on WC qualifiers"/><ref name="Play-off Path A"/>}}
+|time=18:00 {{small|(17:00 [[UTC+01:00|UTC+1]])}}
+|team1={{fb-rt|WAL}}
+|score=1–0
+|report=[https://www.fifa.com/tournaments/mens/worldcup/qatar2022/qualifiers/uefa/match-center/400233363 Report (FIFA)]<br />[https://www.uefa.com/european-qualifiers/match/2033893/ Report (UEFA)]
+|team2={{fb|UKR}}
+|goals1=
+*[[Gareth Bale|Bale]] {{goal|34}}{{refn|group=note|FIFA and UEFA initially awarded the goal as an own goal by [[Andriy Yarmolenko]], but FIFA technical experts subsequently awarded the goal to [[Gareth Bale]].<ref>{{cite news |title=Wales 1–0 Ukraine: Dragons seal last World Cup spot |url=https://www.uefa.com/european-qualifiers/news/0276-15511e738a7d-f34cf2a65ed7-1000--wales-seal-last-world-cup-spot/ |website=UEFA.com |publisher=Union of European Football Associations |date=5 June 2022 |accessdate=28 July 2022 }}</ref><ref>{{cite news |title=Gareth Bale awarded goal against Ukraine that sent Wales to World Cup following review |url=https://www.itv.com/news/wales/2022-06-29/gareth-bale-awarded-goal-that-sent-wales-to-world-cup-following-review |work=ITV News |date=29 June 2022 |accessdate=28 July 2022}}</ref>}}
+|goals2=
+|stadium=[[Cardiff City Stadium]], [[Cardiff]]
+|attendance=32,660<ref>{{UEFA match attendance|2033893|Wales vs. Ukraine|date=5 June 2022|access-date=5 June 2022}}</ref>
+|referee=[[Antonio Mateu Lahoz]] ([[Royal Spanish Football Federation|Spain]])
+}}
+
+==Path B==
+
+===Bracket===
+<section begin=Bracket B />{{#invoke:RoundN|N4
+|style=white-space:nowrap|widescore=yes|bold_winner=high
+|RD1=[[2022 FIFA World Cup qualification – UEFA second round#Semi-finals 2|Semi-finals]]
+|RD2=[[2022 FIFA World Cup qualification – UEFA second round#Final 2|Final]]
+<!--Date-Place|Team 1|Score 1|Team 2|Score 2-->
+<!--Semi-finals-->
+|Cancelled|{{fb|RUS}}||{{fb|POL}}{{refn|group=note|name=RUS-POL|Due to the [[2022 Russian invasion of Ukraine|Russian invasion of Ukraine]], Russia were suspended,<ref name="Russia suspended"/> and Poland advanced to the final on a [[walkover]].<ref name="Decisions on WC qualifiers"/>}}|[[Walkover|w/o]]
+|24 March 2022 – [[Friends Arena|Solna]]|{{fb|SWE}} {{aet}}|1|{{fb|CZE}}|0
+<!--Final-->
+|29 March 2022 – [[Stadion Śląski|Chorzów]]|{{fb|POL}}|2|{{fb|SWE}}|0
+}}<section end=Bracket B />
+
+===Summary===
+<section begin=Path B />
+{{OneLegStart}}
+|-
+| colspan="3" style="text-align:center; background:whitesmoke;" | '''Semi-finals'''
+{{OneLegResult|{{fb-rt|RUS}}||[[2022 FIFA World Cup qualification – UEFA second round#Russia v Poland|w/o]]{{refn|group=note|name=RUS-POL<includeonly>|Due to the [[2022 Russian invasion of Ukraine|Russian invasion of Ukraine]], Russia were suspended,<ref name="Russia suspended"/> and Poland advanced to the final on a [[walkover]].<ref name="Decisions on WC qualifiers"/></includeonly>}}|'''{{fb|POL}}'''}}
+{{OneLegResult|'''{{fb-rt|SWE}}'''||[[2022 FIFA World Cup qualification – UEFA second round#Sweden v Czech Republic|1–0]] {{aet}}|{{fb|CZE}}}}
+|-
+| colspan="3" style="text-align:center; background:whitesmoke;" | '''Final'''
+{{OneLegResult|'''{{fb-rt|POL}}'''||[[2022 FIFA World Cup qualification – UEFA second round#Poland v Sweden|2–0]]|{{fb|SWE}}}}
+{{end}}<section end=Path B />
+
+===Semi-finals===
+{{Football box
+|id=Russia v Poland
+|date={{Start date|2022|3|24|df=y}}
+|time=18:00 {{small|(20:00 [[UTC+03:00|UTC+3]])}}
+|team1={{fb-rt|RUS}}
+|score=Cancelled{{refn|group=note|name=RUS-POL}}
+|report=[https://web.archive.org/web/20220227120414/https://www.fifa.com/tournaments/mens/worldcup/qatar2022/qualifiers/uefa/match-center/400212392 Report (FIFA)]<br />[https://web.archive.org/web/20220227120414/https://www.uefa.com/european-qualifiers/match/2033889/ Report (UEFA)]
+|team2={{fb|POL}}
+|goals1=
+|goals2=
+|stadium=[[VTB Arena]], [[Moscow]]{{refn|group=note|The Russia v Poland match, originally scheduled to be played at [[Luzhniki Stadium]], [[Moscow]],<ref>{{cite news |url=https://rfs.ru/news/215032 |title=Сыграем стыковые матчи в "Лужниках" |trans-title=We'll play play-offs at Luzhniki |work=[[Russian Football Union]] |date=10 December 2021 |access-date=28 January 2022 |language=ru |archive-url=https://web.archive.org/web/20220128204125/https://rfs.ru/news/215032 |archive-date=28 January 2022}}</ref> was later moved on 2 February 2022 to VTB Arena, Moscow, due to the epidemiological situation in Moscow and the possible limitations associated with it.<ref>{{cite news |url=https://rfs.ru/news/215210 |title=Сборная России проведет мартовские матчи на "Динамо" |trans-title=Russia national team will play March matches at Dynamo |work=[[Russian Football Union]] |date=2 February 2022 |access-date=2 February 2022 |language=ru |archive-url=https://web.archive.org/web/20220216120642/https://rfs.ru/news/215210 |archive-date=16 February 2022}}</ref>}}
+|attendance=
+|referee=
+}}
+''Poland advanced on walkover.''{{refn|group=note|name=RUS-POL}}
+----
+{{Football box
+|id=Sweden v Czech Republic
+|date={{Start date|2022|3|24|df=y}}
+|time=20:45
+|team1={{fb-rt|SWE}}
+|score=1–0
+|aet=yes
+|report=[https://www.fifa.com/tournaments/mens/worldcup/qatar2022/qualifiers/uefa/match-center/400212393 Report (FIFA)]<br />[https://www.uefa.com/european-qualifiers/match/2033890/ Report (UEFA)]
+|team2={{fb|CZE}}
+|goals1=
+*[[Robin Quaison|Quaison]] {{goal|110}}
+|goals2=
+|stadium=[[Friends Arena]], [[Solna Municipality|Solna]]
+|attendance=48,628<ref>{{UEFA match attendance|2033890|Sweden vs. Czech Republic|date=24 March 2022|access-date=24 March 2022}}</ref>
+|referee=[[Michael Oliver (referee)|Michael Oliver]] ([[The Football Association|England]])
+}}
+
+===Final===
+{{Football box
+|id=Poland v Sweden
+|date={{Start date|2022|3|29|df=y}}
+|time=20:45
+|team1={{fb-rt|POL}}
+|score=2–0
+|report=[https://www.fifa.com/tournaments/mens/worldcup/qatar2022/qualifiers/uefa/match-center/400233364 Report (FIFA)]<br />[https://www.uefa.com/european-qualifiers/match/2033894/ Report (UEFA)]
+|team2={{fb|SWE}}
+|goals1=
+*[[Robert Lewandowski|Lewandowski]] {{goal|49|pen.}}
+*[[Piotr Zieliński|Zieliński]] {{goal|72}}
+|goals2=
+|stadium=[[Stadion Śląski]], [[Chorzów]]{{refn|group=note|The potential final match hosted by Poland, originally scheduled to be played at [[Stadion Narodowy]], [[Warsaw]], was later moved on 19 January 2022 to Stadion Śląski, Chorzów, due to the presence of a temporary hospital at the Stadion Narodowy.<ref>{{cite news |url=https://www.pzpn.pl/reprezentacje/reprezentacja-a/aktualnosci/2022-01-19/stadion-slaski-stadion-wroclaw-i-pge-narodowy-areny-najblizszych-domowych-meczow-reprezentacji |title=Areny najbliższych domowych meczów reprezentacji Polski |trans-title=The stadiums of the upcoming home matches of the Polish national team |work=[[Polish Football Association]] |date=19 January 2022 |access-date=28 January 2022 |language=pl}}</ref>}}
+|attendance=54,078<ref>{{UEFA match attendance|2033894|Poland vs. Sweden|date=29 March 2022|access-date=29 March 2022}}</ref>
+|referee=[[Daniele Orsato]] ([[Italian Football Federation|Italy]])
+}}
+
+==Path C==
+
+===Bracket===
+<section begin=Bracket C />{{#invoke:RoundN|N4
+|style=white-space:nowrap|widescore=yes|bold_winner=high
+|RD1=[[2022 FIFA World Cup qualification – UEFA second round#Semi-finals 3|Semi-finals]]
+|RD2=[[2022 FIFA World Cup qualification – UEFA second round#Final 3|Final]]
+<!--Date-Place|Team 1|Score 1|Team 2|Score 2-->
+<!--Semi-finals-->
+|24 March 2022 – [[Estádio do Dragão|Porto]]|{{fb|POR}}|3|{{fb|TUR}}|1
+|24 March 2022 – [[Stadio Renzo Barbera|Palermo]]|{{fb|ITA}}|0|{{fb|MKD}}|1
+<!--Final-->
+|29 March 2022 – [[Estádio do Dragão|Porto]]|{{fb|POR}}|2|{{fb|MKD}}|0
+}}<section end=Bracket C />
+
+===Summary===
+<section begin=Path C />
+{{OneLegStart}}
+|-
+| colspan="3" style="text-align:center; background:whitesmoke;" | '''Semi-finals'''
+{{OneLegResult|{{fb-rt|ITA}}||[[2022 FIFA World Cup qualification – UEFA second round#Italy v North Macedonia|0–1]]|'''{{fb|MKD}}'''}}
+{{OneLegResult|'''{{fb-rt|POR}}'''||[[2022 FIFA World Cup qualification – UEFA second round#Portugal v Turkey|3–1]]|{{fb|TUR}}}}
+|-
+| colspan="3" style="text-align:center; background:whitesmoke;" | '''Final'''
+{{OneLegResult|'''{{fb-rt|POR}}'''||[[2022 FIFA World Cup qualification – UEFA second round#Portugal v North Macedonia|2–0]]|{{fb|MKD}}}}
+{{end}}<section end=Path C />
+
+===Semi-finals===
+{{Football box
+|id=Italy v North Macedonia
+|date={{Start date|2022|3|24|df=y}}
+|time=20:45
+|team1={{fb-rt|ITA}}
+|score=0–1
+|report=[https://www.fifa.com/tournaments/mens/worldcup/qatar2022/qualifiers/uefa/match-center/400212395 Report (FIFA)]<br />[https://www.uefa.com/european-qualifiers/match/2033891/ Report (UEFA)]
+|team2={{fb|MKD}}
+|goals1=
+|goals2=
+*[[Aleksandar Trajkovski|Trajkovski]] {{goal|90+2}}
+|stadium=[[Stadio Renzo Barbera]], [[Palermo]]
+|attendance=34,129<ref>{{UEFA match attendance|2033891|Italy vs. North Macedonia|date=24 March 2022|access-date=24 March 2022}}</ref>
+|referee=[[Clément Turpin]] ([[French Football Federation|France]])
+}}
+----
+{{Football box
+|id=Portugal v Turkey
+|date={{Start date|2022|3|24|df=y}}
+|time=20:45 {{small|(19:45 [[UTC±00:00|UTC±0]])}}
+|team1={{fb-rt|POR}}
+|score=3–1
+|report=[https://www.fifa.com/tournaments/mens/worldcup/qatar2022/qualifiers/uefa/match-center/400212396 Report (FIFA)]<br />[https://www.uefa.com/european-qualifiers/match/2033892/ Report (UEFA)]
+|team2={{fb|TUR}}
+|goals1=
+*[[Otávio (footballer, born 1995)|Otávio]] {{goal|15}}
+*[[Diogo Jota|Jota]] {{goal|42}}
+*[[Matheus Nunes|Nunes]] {{goal|90+4}}
+|goals2=
+*[[Burak Yılmaz|Yılmaz]] {{goal|65}}
+|stadium=[[Estádio do Dragão]], [[Porto]]
+|attendance=48,010<ref>{{UEFA match attendance|2033892|Portugal vs. Turkey|date=24 March 2022|access-date=24 March 2022}}</ref>
+|referee=[[Daniel Siebert (referee)|Daniel Siebert]] ([[German Football Association|Germany]])
+}}
+
+===Final===
+{{Football box
+|id=Portugal v North Macedonia
+|date={{Start date|2022|3|29|df=y}}
+|time=20:45 {{small|(19:45 [[UTC+01:00|UTC+1]])}}
+|team1={{fb-rt|POR}}
+|score=2–0
+|report=[https://www.fifa.com/tournaments/mens/worldcup/qatar2022/qualifiers/uefa/match-center/400233365 Report (FIFA)]<br />[https://www.uefa.com/european-qualifiers/match/2033895/ Report (UEFA)]
+|team2={{fb|MKD}}
+|goals1=
+*[[Bruno Fernandes|Fernandes]] {{goal|32||65}}
+|goals2=
+|stadium=[[Estádio do Dragão]], [[Porto]]
+|attendance=48,010<ref>{{UEFA match attendance|2033895|Portugal vs. North Macedonia|date=29 March 2022|access-date=29 March 2022}}</ref>
+|referee=[[Anthony Taylor (referee)|Anthony Taylor]] ([[The Football Association|England]])
+}}
+
+==Goalscorers==
+{{#invoke:Goalscorers|main|2022 FIFA World Cup qualification (UEFA)|round=secondround|bold=no}}<!--CAREFULLY update goalscorers at Module:Goalscorers/data/2022 FIFA World Cup qualification (UEFA)-->
+
+==Discipline==
+A player was automatically suspended for the next match for the following offences:<ref name="regulations"/>
+* Receiving a red card (red card suspensions could be extended for serious offences)
+* Receiving two yellow cards in two different qualifying group stage matches (yellow card suspensions were carried forward to the play-off semi-finals, but not the play-off finals, World Cup final tournament or any other future international matches)
+
+On 17 January 2022, following a UEFA request, FIFA announced the expiration of yellow cards received during the qualifying group stage, thus preventing suspensions in the play-off finals due to yellow cards received in the semi-finals. However, yellow card suspensions accumulated at the end of the qualifying group stage were still carried forward to the play-offs.<ref>{{cite news |location=Zürich |url=https://apnews.com/article/soccer-sports-europe-international-soccer-world-cup-bbe0963cfe20787fa0c1c08d49b24e91 |title=Yellow card amnesty agreed for World Cup playoffs in Europe |work=[[Associated Press]] |date=17 January 2022 |access-date=18 January 2022}}</ref>
+
+The following suspensions were served during the second round qualifying matches:<ref>{{cite web |url=https://editorial.uefa.com/resources/0273-14b21d57f216-c552a8b722f6-1000/fifa_wc_eq_before_po_-_1st_leg.pdf |title=FIFA World Cup 2022: Booking List before Play-off |work=UEFA.com |publisher=Union of European Football Associations |date=18 March 2022 |access-date=21 March 2022}}</ref><ref>{{cite web |url=https://editorial.uefa.com/resources/0273-14c0054e62d7-544cf3f61861-1000/fifa_wc_eq_before_po_-_finals.pdf |title=FIFA World Cup 2022: Booking List before Play-off Finals |work=UEFA.com |publisher=Union of European Football Associations |date=25 March 2022 |access-date=25 March 2022}}</ref><ref>{{cite web |url=https://editorial.uefa.com/resources/0273-14b21d57f216-c552a8b722f6-1000/fifa_wc_eq_before_po_-_1st_leg.pdf |title=FIFA World Cup 2022: Booking List before Play-off |work=UEFA.com |publisher=Union of European Football Associations |date=31 May 2022 |access-date=2 June 2022}}</ref><ref>{{cite web |url=https://editorial.uefa.com/resources/0276-154eff3728cb-ae939641f743-1000/fifa_wc_eq_before_po_final_wal_vs_ukr.pdf |title=FIFA World Cup 2022: Booking List before Play-off Final |work=UEFA.com |publisher=Union of European Football Associations |date=4 June 2022 |access-date=5 June 2022}}</ref>
+
+{| class="wikitable sortable" style="font-size:90%"
+|-
+!Team
+!Player
+!Offence(s)
+!Suspended for match(es)
+|-
+|rowspan=2|{{fb|MKD}} ||[[Elif Elmas]] ||{{yel}} vs Germany (31 March 2021)<br>{{yel}} vs Iceland (14 November 2021) ||rowspan=2|vs Italy (24 March 2022)
+|-
+|[[Tihomir Kostadinov]] ||{{yel}} vs Armenia (11 November 2021)<br>{{yel}} vs Iceland (14 November 2021)
+|-
+|{{fb|POL}} ||[[Mateusz Klich]] ||{{yel}} vs Andorra (12 November 2021)<br>{{yel}} vs Hungary (15 November 2021) ||vs Sweden (29 March 2022)
+|-
+|rowspan=2|{{fb|POR}} ||[[João Cancelo]] ||{{yel}} vs Luxembourg (12 October 2021)<br>{{yel}} vs Serbia (14 November 2021) ||rowspan=2|vs Turkey (24 March 2022)
+|-
+|[[Renato Sanches]] ||{{yel}} vs Luxembourg (30 March 2021)<br>{{yel}} vs Serbia (14 November 2021)
+|-
+|rowspan=2|{{fb|SWE}} ||[[Zlatan Ibrahimović]] ||{{yel}} vs Georgia (25 March 2021)<br>{{yel}} vs Spain (14 November 2021) ||rowspan=2|vs Czech Republic (24 March 2022)
+|-
+|[[Emil Krafth]] ||{{yel}} vs Spain (2 September 2021)<br>{{yel}} vs Spain (14 November 2021)
+|-
+|{{fb|WAL}} ||[[Joe Morrell]] ||{{yel}} vs Estonia (8 September 2021)<br>{{yel}} vs Belgium (16 November 2021) ||vs Austria (24 March 2022)
+|}
+
+Prior to their suspension, Russia were to serve the following suspensions in their semi-final:
+
+{| class="wikitable sortable" style="font-size:90%"
+|-
+!Team
+!Player
+!Offence(s)
+!Suspended for match(es)
+|-
+|rowspan=2|{{fb|RUS}} ||[[Aleksandr Golovin (footballer)|Aleksandr Golovin]] ||{{yel}} vs Slovenia (27 March 2021)<br>{{yel}} vs Croatia (14 November 2021) ||rowspan=2|vs Poland (24 March 2022)
+|-
+|[[Fyodor Smolov]] ||{{yel}} vs Cyprus (4 September 2021)<br>{{yel}} vs Croatia (14 November 2021)
+|}
+
+==Notes==
+{{Reflist|group=note}}
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{Official website|https://www.fifa.com/tournaments/mens/worldcup/qatar2022/qualifiers|Official FIFA World Cup website}}
+*[https://www.fifa.com/tournaments/mens/worldcup/qatar2022/qualifiers/uefa Qualifiers – Europe], FIFA.com
+*[https://www.uefa.com/european-qualifiers/ European Qualifiers], UEFA.com
+
+{{2022 FIFA World Cup qualification}}
+
+{{DEFAULTSORT:World Cup play-offs}}
+[[Category:2022 FIFA World Cup qualification (UEFA)|second round]]
+[[Category:March 2022 sports events in Europe|FIFA]]
+[[Category:June 2022 sports events in the United Kingdom|FIFA]]
+[[Category:2021–22 in Austrian football]]
+[[Category:2021–22 in Czech football]]
+[[Category:2021–22 in Italian football]]
+[[Category:2021–22 in North Macedonia football]]
+[[Category:2021–22 in Polish football]]
+[[Category:Poland at the 2022 FIFA World Cup]]
+[[Category:2021–22 in Portuguese football]]
+[[Category:Portugal at the 2022 FIFA World Cup]]
+[[Category:2021–22 in Scottish football]]
+[[Category:2022 in Swedish football]]
+[[Category:2021–22 in Turkish football]]
+[[Category:2021–22 in Ukrainian football]]
+[[Category:2021–22 in Welsh football]]
+[[Category:Wales at the 2022 FIFA World Cup]]
+[[Category:Sports events affected by the Russian invasion of Ukraine|Fifa]]

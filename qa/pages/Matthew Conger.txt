@@ -1,0 +1,73 @@
+{{Short description|New Zealand football referee}}
+{{Use dmy dates|date=June 2020}}
+{{Infobox football official
+|                name = Matthew Conger
+| image = Matthew Conger 2018.jpg
+|            fullname = 
+|          birth_date = {{birth date and age|1978|10|11|df=y}}<ref name="Worldfootball.net">{{cite web|url=http://www.worldfootball.net/referee_summary/matthew-conger/1/1/ |title=Matthew Conger " Matches as referee |publisher=Worldfootball.net |access-date=10 August 2015}}</ref>
+|         birth_place = [[Plano, Texas]], U.S.
+|          death_date = 
+|         death_place = 
+|     otheroccupation = Teacher
+|              years1 = 2007–present
+|             league1 = [[New Zealand Football Championship|NZFC]]
+|               role1 = [[Referee (association football)|Referee]]
+|              years2 = 2014–present
+|             league2 = [[A-League]]
+|               role2 = Referee
+| internationalyears1 = 2013–present
+|      confederation1 = [[FIFA International Referees List|FIFA listed]]
+|  internationalrole1 = Referee
+}}
+
+'''Matthew Conger''' (born 11 October 1978) is a New Zealand [[Association football|football]] [[Referee (association football)|referee]] from [[Palmerston North]]. Born in [[Texas]], [[United States]], Conger operates in the Australian [[A-League]] and the [[New Zealand Football Championship]]. He is also a [[school teacher]] in Palmerston North.<ref name="stuff">{{cite news | url=http://www.stuff.co.nz/manawatu-standard/sport/8111312/Conger-climbs-referees-ladder | title=Conger climbs referees' ladder | work=[[Manawatu Standard]] | date=22 December 2012 | access-date=22 February 2016 | author=Heagney, George}}</ref>
+
+==Refereeing career==
+Conger began refereeing in the United States as a teenager, continuing after moving to New Zealand in his early 20s.<ref name="stuff" />
+
+Conger has refereed at the [[2015 FIFA U-20 World Cup|2015 Under-20 World Cup]] in New Zealand, the [[Football at the 2016 Summer Olympics|2016 Olympic Games]] in Rio de Janeiro, the [[2017 FIFA U-20 World Cup|2017 Under-20 World Cup]] in South Korea, the [[2018 FIFA World Cup]] in Russia, and the [[2022 FIFA World Cup]] in Qatar.<ref name="2018 World Cup"/> He has also officiated in numerous A-League and New Zealand Football Championship games. He has also been the man in the middle for [[OFC Champions League]] games.<ref name="Worldfootball.net"/>
+
+In 2016, Conger left full-time teaching in order to concentrate more on his refereeing, but in 2017 was engaged part-time at Palmerston North's [[Carncot School]].<ref name="2018 World Cup">{{cite web | url=https://www.stuff.co.nz/sport/football/99150012/kiwi-ref-matt-conger-off-to-world-cup-in-russia | title=Kiwi football referee Matt Conger off to 2018 Fifa World Cup finals in Russia | publisher=[[Stuff.co.nz]] | date=29 November 2017 | access-date=1 June 2018 | author=Heagney, George}}</ref>
+
+In 2017, Conger was named the New Zealand referee of the year.<ref name="2018 World Cup"/>
+
+==FIFA World Cup==
+{| class="wikitable" style="margin:1em auto 1em auto; text-align:center; font-size:small;"
+! colspan="4" | 2018 FIFA World Cup – Russia
+|-
+! Date !! Match !! Venue !! Round
+|-
+| 22 June 2018 || {{fb|NGR}} – {{fb|ISL}} || [[Volgograd Arena|Volgograd]] || Group stage
+|-
+|}
+
+{| class="wikitable" style="margin:1em auto 1em auto; text-align:center; font-size:small;"
+! colspan="4" | 2022 FIFA World Cup – Qatar
+|-
+! Date !! Match !! Venue !! Round
+|-
+| 30 November 2022 || {{fb|TUN}} – {{fb|FRA}} || [[Education City Stadium|Al Rayyan]] || Group stage
+|-
+|}
+
+==References==
+{{reflist}}
+
+==External links==
+* {{PRO referee|matthew-conger}}
+* {{WorldReferee.com|matthew_conger}}
+* {{Olympedia}}
+
+{{2018 FIFA World Cup referees}}
+{{2022 FIFA World Cup referees}}
+
+{{DEFAULTSORT:Conger, Matthew}}
+[[Category:1978 births]]
+[[Category:Living people]]
+[[Category:New Zealand association football referees]]
+[[Category:A-League Men referees]]
+[[Category:New Zealand schoolteachers]]
+[[Category:2018 FIFA World Cup referees]]
+[[Category:2022 FIFA World Cup referees]]
+[[Category:FIFA World Cup referees]]
+[[Category:Football referees at the 2016 Summer Olympics]]

@@ -1,0 +1,58 @@
+{{Use dmy dates|date=November 2022}}
+{{Short description|Football referee}}
+{{Infobox football official
+| name                = Slavko Vinčić
+| image               = Slavko Vincic.jpg
+| image_size          = 255 px
+| fullname            = 
+| birth_date          = {{birth date and age|1979|11|25|df=y}}
+| birth_place         = [[Maribor]], [[SR Slovenia]], [[SFR Yugoslavia|Yugoslavia]]
+| otheroccupation     = 
+| years1              = 
+| years2              = 
+| league1             = [[Slovenian PrvaLiga]]
+| league2             = 
+| role1               = [[Referee (association football)|Referee]]
+| role2               = 
+| internationalyears1 = 2010&ndash;
+| confederation1      = [[FIFA]] listed
+| internationalrole1  = Referee
+}}
+
+'''Slavko Vinčić''' (born 25 November 1979) is a Slovenian [[Association football|football]] [[Referee (association football)|referee]].<ref>{{Cite web |url=http://worldreferee.com/site/copy.php?linkType=referee&contextType=bio&linkID=4245 |title=Profile |access-date=19 February 2015 |archive-date=17 September 2016 |archive-url=https://web.archive.org/web/20160917144127/http://worldreferee.com/site/copy.php?linkID=4245&linkType=referee&contextType=bio |url-status=dead }}</ref> He has been an international-listed referee for [[FIFA]] since 2010.<ref>FIFA. [https://web.archive.org/web/20070919045720/http://www.fifa.com/associations/association=svn/footballofficials/referees/peoplekind=ref.html "Slovenia: Referees"].</ref> Vinčić went to [[UEFA Euro 2012]] as additional assistant in the team of [[Damir Skomina]].
+
+As of July 2021 he has been in charge of 12 [[UEFA Champions League|Champions League]] and 19 [[UEFA Europa League|Europa League]] matches, including [[2020–21 UEFA Champions League|2020–21 Champions League]] quarterfinal between [[FC Porto|Porto]] and [[Chelsea F.C.|Chelsea]] and [[2020–21 UEFA Europa League|2020–21 Europa League]] semifinal between [[Arsenal F.C.|Arsenal]] and [[Villarreal CF|Villareal]].
+He was also the referee for the [[2022 UEFA Europa League Final]] between [[Eintracht Frankfurt]] and [[Rangers F.C.| Rangers]].
+
+Vinčić was selected as a match official for [[UEFA Euro 2020|Euro 2020]], where he refereed two group stage matches (Spain-Sweden and Switzerland-Turkey) and the QF clash between Italy and Belgium.
+
+On 30 May 2020, Vinčić was arrested by mistake as part of a police probe into a prostitution and drugs ring in [[Bosnia and Herzegovina]]<ref>{{Cite web |url=https://www.news.com.au/sport/sports-life/champions-league-referee-arrested-following-police-raid-in-bosnia-and-herzegovina/news-story/f3317c820f3d4bfed5c4be83bf8c7c17 |title=Champions League referee arrested following police raid in Bosnia and Herzegovina |access-date=10 June 2020 |archive-date=10 June 2020 |archive-url=https://web.archive.org/web/20200610113328/https://www.news.com.au/sport/sports-life/champions-league-referee-arrested-following-police-raid-in-bosnia-and-herzegovina/news-story/f3317c820f3d4bfed5c4be83bf8c7c17 |url-status=live }}</ref> but was soon cleared of any wrongdoing.<ref>{{Cite web|date=2 July 2021|title=Who is Belgium vs. Italy referee Slavko Vincic?|url=https://footypreviews.com/serie-a/who-is-belgium-vs-italy-referee-slavko-vincic/|access-date=3 July 2021|website=Football Betting Tips {{!}} FootyPreviews.com|language=en-US|archive-date=24 October 2021|archive-url=https://web.archive.org/web/20211024161958/https://footypreviews.com/serie-a/who-is-belgium-vs-italy-referee-slavko-vincic/|url-status=dead}}</ref>
+
+==See also==
+*[[List of football referees]]
+
+== References ==
+{{Reflist}}
+
+{{S-start}}
+{{s-sports}}
+{{s-bef|before={{flagicon|FRA}} [[Clément Turpin]]}}
+{{s-ttl|title=[[UEFA Europa League]] Final Referee|years='''[[2022 UEFA Europa League Final|2022]]'''}}
+{{s-aft|after= {{flagicon|ENG}} [[Anthony Taylor (referee)|Anthony Taylor]]}}
+{{S-end}}
+
+{{UEFA Elite Referees}}
+{{UEFA Euro 2020 referees}}
+{{2022 FIFA World Cup referees}}
+
+{{DEFAULTSORT:Vincic, Slavko}}
+[[Category:1979 births]]
+[[Category:Living people]]
+[[Category:UEFA Europa League referees]]
+[[Category:Slovenian football referees]]
+[[Category:UEFA Euro 2020 referees]]
+[[Category:2022 FIFA World Cup referees]]
+[[Category:FIFA World Cup referees]]
+
+
+{{Slovenia-footy-bio-stub}}

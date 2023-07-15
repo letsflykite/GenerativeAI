@@ -1,0 +1,351 @@
+{{short description|Portuguese footballer}}
+{{other people|André Silva}}
+{{Use dmy dates|date=June 2018}}
+{{Portuguese name|Valente|Silva}}
+{{Infobox football biography
+| name = André Silva
+| image = Mex-por-16 (1cropped).jpg
+| image_size = 
+| caption = Silva with [[Portugal national football team|Portugal]] at the [[2017 FIFA Confederations Cup|2017 Confederations Cup]]
+| full_name = André Miguel Valente da Silva<ref name=FIFA>{{cite web|url=https://tournament.fifadata.com/documents/fcc/2017/pdf/fcc_2017_squadlists.pdf|title=FIFA Confederations Cup Russia 2017: List of players: Portugal|publisher=FIFA|page=7|date=20 March 2018|access-date=29 March 2018|url-status=dead|archive-url=https://web.archive.org/web/20190112155400/http://tournament.fifadata.com/documents/FCC/2017/PDF/FCC_2017_SQUADLISTS.PDF|archive-date=12 January 2019}}</ref>
+| birth_date = {{Birth date and age|1995|11|6|df=y}}<ref name=FIFA/>
+| birth_place = [[Baguim do Monte]], Portugal
+| height = 1.84 m<ref>{{cite web|url=https://fdp.fifa.org/assetspublic/ce44/pdf/SquadLists-English.pdf|title=FIFA World Cup Qatar 2022: List of players: Portugal|publisher=FIFA|page=22|date=15 November 2022|access-date=22 November 2022}}</ref>
+| position = [[Forward (association football)#Striker|Striker]]
+| currentclub = [[RB Leipzig]]
+| clubnumber = 19
+| youthyears1 = 2003–2007 | youthclubs1 = [[S.C. Salgueiros|Salgueiros]]
+| youthyears2 = 2007–2008 | youthclubs2 = [[Boavista F.C.|Boavista]]
+| youthyears3 = 2008–2010 | youthclubs3 = [[S.C. Salgueiros (2008)|Salgueiros]]
+| youthyears4 = 2010–2011 | youthclubs4 = [[Padroense F.C.|Padroense]]
+| youthyears5 = 2011–2014 | youthclubs5 = [[FC Porto Juniors|Porto]]
+| years1 = 2013–2016 | clubs1 = [[FC Porto B|Porto B]] | caps1 = 84 | goals1 = 24
+| years2 = 2015–2017 | clubs2 = [[FC Porto|Porto]] | caps2 = 41 | goals2 = 17
+| years3 = 2017–2020 | clubs3 = [[A.C. Milan|AC Milan]] | caps3 = 25 | goals3 = 2
+| years4 = 2018–2019 | clubs4 = → [[Sevilla FC|Sevilla]] (loan) | caps4 = 27 | goals4 = 9
+| years5 = 2019–2020 | clubs5 = → [[Eintracht Frankfurt]] (loan) | caps5 = 25 | goals5 = 12
+| years6 = 2020–2021 | clubs6 = [[Eintracht Frankfurt]] | caps6 = 32 | goals6 = 28
+| years7 = 2021– | clubs7 = [[RB Leipzig]] | caps7 = 64 | goals7 = 15
+| nationalyears1 = 2009–2010 | nationalteam1 = [[Portugal national under-16 football team|Portugal U16]] | nationalcaps1 = 12 | nationalgoals1 = 2
+| nationalyears2 = 2010–2011 | nationalteam2 = [[Portugal national under-17 football team|Portugal U17]] | nationalcaps2 = 11 | nationalgoals2 = 2
+| nationalyears3 = 2011–2012 | nationalteam3 = [[Portugal national under-18 football team|Portugal U18]] | nationalcaps3 = 10 | nationalgoals3 = 0
+| nationalyears4 = 2012–2014 | nationalteam4 = [[Portugal national under-19 football team|Portugal U19]] | nationalcaps4 = 24 | nationalgoals4 = 16
+| nationalyears5 = 2014–2015 | nationalteam5 = [[Portugal national under-20 football team|Portugal U20]] | nationalcaps5 = 10 | nationalgoals5 = 8
+| nationalyears6 = 2015–2016 | nationalteam6 = [[Portugal national under-21 football team|Portugal U21]] | nationalcaps6 = 3 | nationalgoals6 = 4
+| nationalyears7 = 2016– | nationalteam7 = [[Portugal national football team|Portugal]] | nationalcaps7 = 53 | nationalgoals7 = 19
+| club-update = 18:25, 20 May 2023 (UTC)
+| nationalteam-update = 16:55, 2 December 2022 (UTC)
+| medaltemplates = {{MedalSport|Men's [[association football|football]]}}
+{{MedalCountry|{{fb|POR}}}}
+{{MedalCompetition|[[FIFA Confederations Cup]]}}
+{{medal|3rd|[[2017 FIFA Confederations Cup|2017 Russia]]|}}
+{{Medal|Comp|[[UEFA Nations League]]|}}
+{{medal|W|[[2019 UEFA Nations League Finals|2019]]|}}
+{{MedalCompetition|[[UEFA European Under-19 Championship]]}}
+{{Medal|RU|[[2014 UEFA European Under-19 Championship|2014 Hungary]]|}}
+}}
+'''André Miguel Valente da Silva''' ({{IPA-pt|ɐ̃ˈdɾɛ ˈsilvɐ|eu}}; born 6 November 1995) is a Portuguese professional [[Association football|footballer]] who plays as a [[Forward (association football)#Striker|striker]] for {{German football updater|EinFrank}} club [[RB Leipzig]] and the [[Portugal national football team|Portugal national team]].
+
+An academy graduate of [[FC Porto|Porto]], he impressed during his time with [[FC Porto B|the reserve side]] before making his debut with the first team in 2015. He ultimately made 58 appearances for the club, scoring 24 goals before joining [[A.C. Milan|AC Milan]] in 2017. He went on to represent [[Sevilla FC|Sevilla]] and [[Eintracht Frankfurt]] on loan, signing a permanent contract with the latter in 2020. Following a club record-breaking campaign, in which he scored 28 times, he moved to [[RB Leipzig]] also in the [[Bundesliga]] for a reported fee of €23 million.
+
+Silva represented [[Portugal national youth football teams|Portugal at various youth levels]], and was part of [[Portugal national under-19 football team|the squad]] which came second at the [[2014 UEFA European Under-19 Championship|2014 European Under-19 Championship]]. His [[Portugal national football team|senior]] international debut followed two years later, and he featured at the [[2017 FIFA Confederations Cup|2017 Confederations Cup]] where his team came third, also being selected for two [[FIFA World Cup|World Cups]] and [[UEFA Euro 2020|Euro 2020]].
+
+==Club career==
+===Porto===
+====Reserves====
+Silva was born in [[Baguim do Monte]], a local parish in [[Gondomar, Portugal|Gondomar]], and started playing football with [[Porto]]-based [[S.C. Salgueiros|Salgueiros]] after switching from [[swimming (sport)|swimming]]. He had a brief spell with neighbouring [[Boavista F.C.|Boavista]], but quickly returned to his previous club.<ref>{{cite web|url=https://desporto.sapo.pt/futebol/euro-2020/artigos/andre-silva-o-bom-alemao|title=Os 26 magníficos de Portugal: André Silva, o 'bom alemão'|trans-title=Portugal's 26 magnificent ones: André Silva, the 'good German'|publisher=SAPO|language=pt|date=9 July 2021|access-date=13 October 2021}}</ref>
+
+Silva finished his youth career with [[FC Porto|Porto]], having signed with [[FC Porto Juniors|the juniors]] in 2011 at the age of 15.<ref>{{cite web|url=http://www.maisfutebol.iol.pt/sub19/euro-sub19/andre-silva-o-deco-que-custou-1000-euros-ao-fc-porto|title=André Silva: o Deco que custou 1000 euros ao FC Porto|trans-title=André Silva: the Deco that cost FC Porto 1000 euros|publisher=Mais Futebol|first=Pedro Jorge|last=Cunha|language=pt|date=26 July 2014|access-date=5 August 2015}}</ref> On 12 August 2013, he made his professional debut, coming on as a 77th-minute [[Substitute (association football)|substitute]] for [[Tozé (footballer, born 1993)|Tozé]] as the [[FC Porto B|B team]] won 3–2 away against [[S.C. Beira-Mar|Beira-Mar]] in the [[LigaPro|Segunda Liga]] championship.<ref>{{cite news|url=https://www.record.pt/futebol/futebol-nacional/2--liga/detalhe/beira-mar-fc-porto-b-2-3-dragoes-operam-reviravolta-838346|title=Beira-Mar-FC Porto B, 2–3: Dragões operam reviravolta|trans-title=Beira-Mar-FC Porto B, 2–3: Dragons come from behind|newspaper=[[Record (newspaper)|Record]]|language=pt|date=12 August 2013|access-date=22 March 2021}}</ref>
+
+Silva finished [[2014–15 Segunda Liga|his second season]] with 34 games and seven goals, helping Porto B to the 13th position in the second tier. Highlights included a brace on 4 January 2015, for a 3–0 home victory over [[Vitória S.C. B|Vitória de Guimarães B]].<ref>{{cite news|url=https://www.record.pt/futebol/futebol-nacional/2--liga/detalhe/fc-porto-b-v-guimaraes-b-3-0-segunda-parte-decidiu-923267|title=FC Porto B-V. Guimarães B, 3–0: Segunda parte decidiu|trans-title=FC Porto B-V. Guimarães B, 3–0: Second half the decider|newspaper=Record|language=pt|date=4 January 2015|access-date=29 September 2019}}</ref>
+
+====First team====
+Silva made his competitive debut for the first team on 29 December 2015, playing the full 90 minutes in a [[2015–16 Taça da Liga|1–3 home loss]] against [[C.S. Marítimo|Marítimo]] in the [[Taça da Liga]].<ref>{{cite web|url=https://rr.sapo.pt/noticia/42964/maritimo_vence_no_dragao_e_lopetegui_ve_lencos_brancos|title=Marítimo vence no Dragão e Lopetegui vê lenços brancos|trans-title=Marítimo win at the ''Dragão'' and Lopetegui sees white cloth|publisher=[[Rádio Renascença]]|language=pt|date=29 December 2015|access-date=3 January 2016}}</ref> His maiden appearance in the [[Primeira Liga]] occurred four days later, as he replaced [[Vincent Aboubakar]] for the last 20 minutes of the 2–0 defeat at [[Sporting CP]].<ref>{{cite web|url=https://www.rtp.pt/noticias/desporto/sporting-2-0-fc-porto_e885267|title=Sporting 2–0 FC Porto|publisher=[[Rádio e Televisão de Portugal]]|first=Marcos|last=Celso|language=pt|date=2 January 2016|access-date=17 August 2017}}</ref>
+
+Silva started the [[2015–16 FC Porto season|2015–16 campaign]] as fourth-choice striker behind Aboubakar and [[Dani Osvaldo]], and his plight worsened in January 2016 with the acquisition of [[Suk Hyun-jun]] and [[Moussa Marega]]. However, after [[José Peseiro]] replaced [[Julen Lopetegui]] as manager, he received more opportunities,<ref>{{cite news|url=https://www.ojogo.pt/futebol/1a-liga/porto/noticias/interior/andre-silva-sim-mas-sem-pressa-4916821.html|title=André Silva no ataque sim mas sem pressa|trans-title=André Silva for the attack but taking it easy|newspaper=[[O Jogo]]|first1=André|last1=Morais|first2=Carlos|last2=Gouveia|language=pt|date=5 December 2015|access-date=22 May 2016}}</ref><ref>{{cite web|url=https://desporto.sapo.pt/futebol/primeira_liga/artigo/2016/04/26/andre-silva-sobe-na-hierarquia-e-aponta-ao-classico|title=André Silva sobe na hierarquia e aponta ao clássico|trans-title=André Silva rises up the ranks and is poised for classic|publisher=SAPO|language=pt|date=26 April 2016|access-date=22 May 2016}}</ref> and scored his first league goal in a 4–0 home win over Boavista in [[2015–16 Primeira Liga|the last match]].<ref>{{cite web|url=https://rr.sapo.pt/noticia/54196/andre_silva_marcar_no_dragao_e_um_sonho|title=André Silva: "Marcar no Dragão é um sonho"|trans-title=André Silva: "To score at the ''Dragão'' is a dream"|publisher=Rádio Renascença|language=pt|date=14 May 2016|access-date=22 May 2016}}</ref> He also started in [[2015–16 Taça de Portugal|the final]] of the [[Taça de Portugal]] on 22 May, helping his team recover from a 0–2 deficit against [[S.C. Braga|Braga]] with a brace, which included a [[bicycle kick]] in the [[Last-minute goal|last-minute]] (eventual [[2016 Taça de Portugal Final|4–2 loss]] on [[Penalty shoot-out (association football)|penalties]]).<ref>{{cite web|url=https://rr.sapo.pt/noticia/54785/sp_braga_vence_taca_de_portugal|title=Sp. Braga vence Taça de Portugal|trans-title=Sp. Braga win Portuguese Cup|publisher=Rádio Renascença|language=pt|date=22 May 2016|access-date=22 May 2016}}</ref>
+
+Silva began [[2016–17 FC Porto season|2016–17]] in good form, with goals in his first two league games against [[Rio Ave F.C.|Rio Ave]] and [[G.D. Estoril Praia|Estoril]], while also scoring in Porto's 1–1 draw at home to [[A.S. Roma|Roma]] in the [[UEFA Champions League]] [[2016–17 UEFA Champions League|play-off round]]. On 21 August 2016 he signed a new five-year contract, which included a release clause of €60&nbsp;million.<ref>{{cite web|url=http://www.espnfc.us/story/2934459/andre-silva-signs-new-fc-porto-contract-with-60m-release-clause|title=Andre Silva signs new FC Porto contract with €60m release clause|publisher=[[ESPN FC]]|date=21 August 2016|access-date=22 August 2016}}</ref>
+
+===Milan===
+On 12 June 2017, Silva moved to [[A.C. Milan]] on a five-year contract for a fee of €38 million<ref>{{cite web|url=https://www.acmilan.com/en/news/official-statement/2017-06-12/official-andre-silva-is-a-new-ac-milans-player|title=Official: André Silva is a new AC Milan player|publisher=A.C. Milan|date=12 June 2017|access-date=12 June 2017}}</ref><ref>{{cite press release|url=http://web3.cmvm.pt/sdi/emitentes/docs/FR64874.pdf|title=Comunicado|trans-title=Announcement|publisher=[[Portuguese Securities Market Commission]]|language=pt|date=12 June 2017|access-date=12 June 2017}}</ref> with the additional €2 million depending on objectives. Upon signing, he told the press: "I'm very happy to have joined such a prestigious club with such a great history."<ref>{{cite web|url=https://global.espn.com/football/story/3142517/ac-milan-sign-andre-silva-from-porto?src=com|title=AC Milan sign Andre Silva from Porto for €38 million on five-year contract|publisher=[[ESPN]]|first=Ben|last=Gladwell|date=12 June 2017|access-date=14 September 2019}}</ref> He was given the number 9 shirt, previously worn by [[Gianluca Lapadula]].<ref>{{cite web|url=https://www.acmilan.com/en/news/first-team/2017-08-12/serie-a-redblacks-shirt-numbers-announced|title=Serie A: Red&blacks' shirt numbers announced|publisher=A.C. Milan|date=12 August 2017|access-date=19 September 2017}}</ref>
+
+Silva made his debut for the Italian club on 27 July, playing 24 minutes in the 1–0 win against [[CS Universitatea Craiova|Universitatea Craiova]] in the [[2017–18 UEFA Europa League|third qualifying round]] of the [[UEFA Europa League]].<ref>{{cite web|url=http://www.espnfc.com/club/ac-milan/103/blog/post/3166878/newcomers-ricardo-rodriguez-franck-kessie-lift-milan-past-universitatea-craiova|title=Newcomers Ricardo Rodriguez, Franck Kessie lift Milan past FC U Craiova|publisher=ESPN FC|first=Sumeet|last=Paul|date=27 July 2017|access-date=28 July 2017}}</ref> On 17 August, for the same competition but in the play-off round, he contributed two goals and one [[Assist (association football)|assist]] to a 6–0 home rout of [[KF Shkëndija|Shkëndija]].<ref>{{cite news|url=http://www.corrieredellosport.it/news/calcio/europa-league/2017/08/17-29382609/europa_league_il_milan_schianta_lo_shkendija_6-0_doppiette_di_andr_silva_e_montolivo/|title=Europa League, il Milan schianta lo Shkendija 6–0: doppiette di André Silva e Montolivo|trans-title=Europa League, Milan steamroll Shkendija 6–0: braces from André Silva and Montolivo|newspaper=[[Corriere dello Sport – Stadio|Corriere dello Sport]]|language=it|date=17 August 2017|access-date=17 August 2017}}</ref> On 14 September, already in the group stage, he scored a [[hat-trick]] to help the visitors defeat [[FK Austria Wien|Austria Wien]] 5–1;<ref>{{cite news|url=https://www.repubblica.it/sport/calcio/serie-a/milan/2017/09/14/news/europa_league_austria_vienna-milan_1-5_il_diavolo_rialza_la_testa_scatenato_andre_silva-175514747/|title=Austria Vienna-Milan 1–5: il diavolo rialza la testa, tripletta di Andrè Silva|trans-title=Austria Wien-Milan 1–5: devil holds head up again, André Silva hat-trick|newspaper=[[La Repubblica]]|first=Antonio|last=Farinola|language=it|date=14 September 2017|access-date=22 December 2022}}</ref> in the process, he became the first player to achieve the feat for Milan in Europe since [[Kaká]] in 2006,<ref>{{cite web|url=https://football-italia.net/andre-silva-revels-in-milan-hat-trick/|title=Andre Silva revels in Milan hat-trick|publisher=Football Italia|first=Susy|last=Campanale|date=14 September 2017|access-date=22 December 2022}}</ref> and he was included in UEFA's Europa League Team of the Week due to his performance.<ref>{{cite web|url=http://www.uefa.com/uefaeuropaleague/news/newsid=2500825.html|title=Who makes our Europa League Team of the Week|publisher=UEFA|date=15 September 2017|access-date=19 September 2017}}</ref>
+
+Silva scored his maiden goal in the [[Serie A]] on 11 March 2018, from a [[Last-minute goal|last-minute]] header in the 1–0 away win over [[Genoa C.F.C.|Genoa]].<ref>{{cite news|url=http://www.gazzetta.it/Calcio/Serie-A/Genoa/11-03-2018/genoa-milan-andre-silva-250854511486.shtml|title=Genoa-Milan 0–1, André Silva regala la vittoria allo scadere|trans-title=Genoa-Milan 0–1, André Silva gives victory in the very end|newspaper=[[La Gazzetta dello Sport]]|first=Alessandra|last=Gozzini|language=it|date=11 March 2018|access-date=11 March 2018}}</ref>
+
+===Loan to Sevilla===
+[[file:AndreSilva.jpg|thumb|Silva with Frankfurt in 2019|251x251px]]
+On 11 August 2018, Silva joined Spanish club [[Sevilla FC|Sevilla]] on a [[2018–19 La Liga|season]]-long loan with the option to purchase for €35 million.<ref>{{cite news|url=http://www.marca.com/en/football/spanish-football/2018/08/11/5b6ebfcc22601de9318b45b9.html|title=Sevilla secure seventh signing with Andre Silva arrival|newspaper=[[Marca (newspaper)|Marca]]|first1=Rocío|last1=Guevara|first2=Padraig|last2=Whelan|date=11 August 2018|access-date=11 August 2018|url-status=dead|archive-url=https://web.archive.org/web/20180813162631/http://www.marca.com/en/football/spanish-football/2018/08/11/5b6ebfcc22601de9318b45b9.html|archive-date=13 August 2018}}</ref> He made his debut the following day, coming on for [[Luis Muriel]] at the hour mark of an eventual [[2018 Supercopa de España|2–1 loss]] against [[FC Barcelona|Barcelona]] in the [[Supercopa de España]].<ref>{{cite web|url=https://www.football-espana.net/73638/barca-comeback-seals-supercopa|title=Barca comeback seals Supercopa|publisher=Football España|date=12 August 2018|access-date=14 August 2018}}</ref> He scored a [[hat-trick]] in his first [[La Liga]] match on 19 August in a 4–1 victory at [[Rayo Vallecano]], equalling the feat of [[Romário]] who achieved this in 1993,<ref>{{cite news|url=https://sevilla.abc.es/deportes/orgullodenervion/noticias/sevilla-fc/rayo-vallecano-sevilla-1-4-hat-trick-de-andre-silva-para-debutar-con-rotundidad-152943-1534709576.html|title=Rayo Vallecano-Sevilla (1–4): 'Hat-trick' de André Silva para debutar con rotundidad|trans-title=Rayo Vallecano-Sevilla (1–4): André Silva hat-trick for resounding debut|newspaper=[[ABC (newspaper)|ABC]]|first=Juan|last=Arbide|language=es|date=19 August 2018|access-date=19 August 2018}}</ref> and also scored a brace in a 3–0 home defeat of [[Real Madrid CF|Real Madrid]] on 26 September.<ref>{{cite web|url=http://www.espn.in/football/report?gameId=521869|title=Andre Silva's brace gives Sevilla emphatic win over Real Madrid|publisher=ESPN|date=26 September 2018|access-date=30 September 2018}}</ref>
+
+On 25 November 2018, Silva scored the only goal in a win over [[Real Valladolid]] as Sevilla temporarily led the table.<ref>{{cite news|url=https://as.com/futbol/2018/11/25/primera/1543155706_080575.html|title=Sevilla 1–0 Valladolid: resumen, resultado y goles del partido|trans-title=Sevilla 1–0 Valladolid: highlights, score and match goals|newspaper=[[Diario AS]]|first=Simón|last=Escudero|language=es|date=25 November 2018|access-date=26 November 2021}}</ref> His performances declined over the course of the campaign, leading the [[Andalusia]]ns to not sign him on a permanent basis.<ref>{{cite news|url=https://www.gazzetta.it/Calcio/Serie-A/Milan/18-04-2019/milan-sara-andre-silva-vice-piatek-siviglia-non-riscatta-330864768908.shtml|title=Milan, sarà André Silva il vice Piatek? Il Siviglia non lo riscatta|trans-title=Milan, will André Silva be Piatek's stand-in? Sevilla do not retain him|newspaper=La Gazzetta dello Sport|first=Alessandra|last=Gozzini|language=it|date=18 April 2019|access-date=26 November 2021}}</ref><ref>{{cite web|url=https://www.rivistaundici.com/2019/05/14/andre-silva-siviglia-portogallo/|title=André Silva è diventato un caso internazionale al Siviglia|trans-title=André Silva became an international case at Sevilla|publisher=Rivista Undici|language=it|date=14 May 2019|access-date=26 November 2021}}</ref>
+
+===Eintracht Frankfurt===
+On 2 September 2019, Silva moved to [[Eintracht Frankfurt]] on a two-year loan deal, with [[Ante Rebić]] heading in the opposite direction.<ref>{{cite web|url=https://www.eintracht.de/news/artikel/neuer-adlertraeger-kommt-vom-ac-milan-andre-silva-verstaerkt-die-eintracht-75287/|title=Neuer Adlerträger kommt von AC Milan: André Silva verstärkt die Eintracht|trans-title=Newest eagle carrier comes from AC Milan: André Silva strengthens Eintracht|publisher=Eintracht Frankfurt|language=de|date=2 September 2019|access-date=2 September 2019|url-status=dead|archive-url=https://web.archive.org/web/20190902184129/https://www.eintracht.de/news/artikel/neuer-adlertraeger-kommt-vom-ac-milan-andre-silva-verstaerkt-die-eintracht-75287/|archive-date=2 September 2019}}</ref> He made his [[Bundesliga]] debut 12 days later, playing the entire 2–1 defeat at [[FC Augsburg|Augsburg]] and partnering compatriot and former Porto teammate [[Gonçalo Paciência]] up front.<ref>{{cite news|url=https://www.augsburger-allgemeine.de/sport/fc-augsburg/Drei-Punkte-gegen-Frankfurt-Der-FCA-ist-in-der-Bundesliga-angekommen-id55429171.html|title=Drei Punkte gegen Frankfurt! Der FCA ist in der Bundesliga angekommen|trans-title=Three points against Frankfurt! FCA have arrived in the Bundesliga|newspaper=[[Augsburger Allgemeine]]|first=Johannes|last=Graf|language=de|date=14 September 2019|access-date=14 September 2019}}</ref> He scored his first goal in the competition on 22 September, netting the first in a 2–2 home draw against [[Borussia Dortmund]].<ref>{{cite news|url=https://www.jn.pt/desporto/interior/amp/andre-silva-marca-no-empate-do-eintracht-frankfurt-11327869.html|title=André Silva marca no empate do Eintracht Frankfurt|trans-title=André Silva scores in Eintracht Frankfurt draw|newspaper=[[Jornal de Notícias]]|language=pt|date=22 September 2019|access-date=22 September 2019}}</ref>
+
+With the restart of the German league following the [[COVID-19 pandemic]], Silva scored eight goals in ten games for a total of 12 in [[2019–20 Bundesliga|the campaign]].<ref>{{cite news|url=https://observador.pt/2020/06/27/andre-silva-termina-bundesliga-com-mais-um-golo-e-ganha-titulo-de-melhor-marcador-da-retoma/|title=André Silva termina Bundesliga com mais um golo e ganha "título" de melhor marcador da retoma (extra Lewandowski)|trans-title=André Silva ends Bundesliga with another goal and earns top scorer "title" after the return (except Lewandowski)|newspaper=[[Observador]]|first=Bruno|last=Roseiro|language=pt|date=27 June 2020|access-date=30 June 2020}}</ref> This surpassed by one goal the record for top-scoring Portuguese in a German top-flight season, by [[SV Werder Bremen|Werder Bremen]]'s [[Hugo Almeida]].<ref>{{cite news|url=https://www.abola.pt/nnh/2020-06-14/alemanha-andre-silva-iguala-feito-de-hugo-almeida/849130|title=André Silva iguala feito de Hugo Almeida|trans-title=André Silva equals Hugo Almeida's feat|newspaper=[[A Bola]]|language=pt|date=14 June 2020|access-date=17 July 2020}}</ref>
+
+On 10 September 2020, Silva signed a permanent three-year contract.<ref>{{cite web|url=https://profis.eintracht.de/news/eintracht-kauft-andre-silva-127534/|title=Eintracht kauft André Silva|trans-title=Eintracht buy André Silva|publisher=Eintracht Frankfurt|language=de|date=10 September 2020|access-date=10 September 2020}}</ref> He was Player of the Month for the following January, with seven goals from six games including three braces.<ref name=POTM>{{cite web|url=https://www.bundesliga.com/de/bundesliga/news/spieler-des-monats-januar-2021-andre-silva-eintracht-frankfurt-potm-gewinner-14838|title=Andre Silva von Eintracht Frankfurt ist der Spieler des Monats Januar 2021|trans-title=Eintracht Frankfurt's André Silva is the January 2021 Player of the Month|publisher=[[Bundesliga]]|language=de|date=February 2021|access-date=22 March 2021}}</ref> With 28 goals, he bettered [[Bernd Hölzenbein]]'s 44-year-old club record for goals in a top-flight campaign by one;<ref>{{cite web|url=https://portugoal.net/portuguese-abroad/2086-portugal-striker-andre-silva-breaks-eintracht-frankfurt-goalscoring-record|title=Portugal striker André Silva breaks Eintracht Frankfurt goalscoring record|publisher=PortuGOAL|first=Sean|last=Gillen|date=15 May 2021|access-date=22 May 2021}}</ref> only [[FC Bayern Munich|Bayern Munich]]'s [[Robert Lewandowski]] scored more over [[2020–21 Bundesliga|the season]].<ref>{{cite web|url=https://www.bundesliga.com/en/bundesliga/news/eintracht-frankfurt-freiburg-live-line-ups-stats-silva-jovic-kostic-demirovic-15947|title=Andre Silva on target as Eintracht Frankfurt end Freiburg's faint European hopes|publisher=Bundesliga|date=22 May 2021|access-date=22 May 2021}}</ref>
+
+===RB Leipzig===
+[[File:André Silva 2021.jpg|thumb|200x200px|Silva playing for RB Leipzig in 2021]]
+Silva joined [[RB Leipzig]] on 2 July 2021, on a five-year contract for a fee of €23 million.<ref>{{cite web|url=https://www.dierotenbullen.com/en/news/articles/2020-21-season/Andre-Silva-transfer.html|title=RB Leipzig sign forward André Silva|publisher=RB Leipzig|date=2 July 2021|access-date=2 July 2021}}</ref><ref>{{cite news|url=https://www.ojogo.pt/internacional/portugueses/noticias/oficial-andre-silva-continua-na-bundesliga-e-e-reforco-do-leipzig-13900356.html|title=André Silva reforça o Leipzig: o contrato e os valores do negócio|trans-title=André Silva bolsters Leipzig: the contract and the values of the deal|newspaper=O Jogo|language=pt|date=2 July 2021|access-date=26 June 2022}}</ref> On 20 August, he scored his first goal in a 4–0 win over [[VfB Stuttgart]].<ref>{{cite web|url=https://www.bundesliga.com/en/bundesliga/news/rb-leipzig-stuttgart-live-line-ups-stats-sabitzer-silva-adams-marsch-kalajdzic-16946|title=Dominik Szoboszlai double earns RB Leipzig crushing win over VfB Stuttgart|publisher=Bundesliga|date=20 August 2021|access-date=21 August 2021}}</ref> His first in the Champions League came on 19 October, in a 3–2 away loss against [[Paris Saint-Germain F.C.|Paris Saint-Germain]] in [[2021–22 UEFA Champions League|the group stage]].<ref>{{cite web|url=https://www.eurosport.it/calcio/champions-league/2021-2022/champions-league-psg-lipsia-3-2-bastano-messi-e-mbappe-3-2-at-leipzig-and-1-over-manchester-city_sto8592711/story.shtml|title=Champions League, PSG-Lipsia 3–2 – Bastano Messi e Mbappé: 3–2 al Lipsia e +1 sul Manchester City|trans-title=Champions League, PSG-Leipzig 3–2 – Messi and Mbappé are enough: 3–2 to Leipzig and +1 over Manchester City|publisher=[[Eurosport]]|first=Luca|last=Stamerra|language=it|date=19 October 2021|access-date=23 November 2021}}</ref> He added two in six appearances in their [[2021–22 DFB-Pokal|victorious run]] in the [[DFB-Pokal]].<ref>{{cite web|url=https://www.bundesliga.com/de/bundesliga/news/dfb-pokal-viertelfinale-2022-hannover-96-rb-leipzig-liveticker-spielbericht-19012|title=4:0 bei Hannover 96: RB Leipzig zieht ins DFB-Pokal-Halbfinale ein|trans-title=4–0 at Hannover 96: RB Leipzig reach German Cup semi-finals|publisher=Bundesliga|language=de|date=2 March 2022|access-date=22 May 2022}}</ref><ref>{{cite web|url=https://apnews.com/article/entertainment-sports-soccer-germany-europe-d066d973bd8f9e5928a4103df6948372|title=Leipzig beats Union 2–1 to reach German Cup final again|publisher=[[Associated Press]]|date=20 April 2022|access-date=22 May 2022}}</ref><ref name=MF>{{cite web|url=https://maisfutebol.iol.pt/alemanha/taca-alemanha/alemanha-leipzig-de-andre-silva-vence-a-taca-nos-penaltis|title=Alemanha: Leipzig de André Silva vence a Taça nos penáltis|trans-title=Germany: André Silva's Leipzig win Cup on penalties|publisher=Mais Futebol|language=pt|date=21 May 2022|access-date=22 May 2022}}</ref>
+
+==International career==
+===Youth===
+Silva represented [[Portugal national football team|Portugal]] at every youth level. He participated with the [[Portugal national under-20 football team|under-20 team]] at the [[2015 FIFA U-20 World Cup|2015 FIFA World Cup]], scoring four goals in the group stage<ref>{{cite web|url=https://www.fifa.com/u20worldcup/matches/round=271602/match=300269525/match-report.html|title=Portugal stay perfect, Colombia sneak through|publisher=FIFA|date=6 June 2015|access-date=11 September 2015|url-status=dead|archive-url=https://web.archive.org/web/20150606230914/http://www.fifa.com/u20worldcup/matches/round=271602/match=300269525/match-report.html|archive-date=6 June 2015}}</ref> as the nation reached the quarter-finals.<ref>{{cite web|url=https://www.fifa.com/u20worldcup/news/y=2015/m=6/news=porto-duo-spearheading-portugal-challenge-2639762.html|title=Porto pair propelling Portugal's title tilt|publisher=FIFA|date=10 June 2015|access-date=11 September 2015|url-status=dead|archive-url=https://web.archive.org/web/20150611143838/http://www.fifa.com/u20worldcup/news/y=2015/m=6/news=porto-duo-spearheading-portugal-challenge-2639762.html|archive-date=11 June 2015}}</ref><ref>{{cite web|url=https://www.fifa.com/u20worldcup/matches/round=271598/match=300269537/match-report.html|title=Brazil through as profligate Portugal pay the penalty|publisher=FIFA|date=14 June 2015|access-date=11 September 2015|url-status=dead|archive-url=https://web.archive.org/web/20150616174100/http://www.fifa.com/u20worldcup/matches/round=271598/match=300269537/match-report.html|archive-date=16 June 2015}}</ref> Previously, at the [[2014 UEFA European Under-19 Championship]], he became the first player ever to net four times in a single match (6–1 group stage defeat of [[Hungary national under-19 football team|Hungary]]), in an eventual runner-up finish for the [[Portugal national under-19 football team|under-19s]].<ref>{{cite web|url=http://www.uefa.com/under19/history/season=2014/index.html|title=Germany secure second title in Hungary|publisher=UEFA|date=2014|access-date=16 May 2016}}</ref>
+
+On 8 September 2015, in his first appearance with the [[Portugal national under-21 football team|under-21 side]], Silva scored a hat-trick in 19 minutes (both halves combined), contributing to a 6–1 win against [[Albania national under-21 football team|Albania]] for the [[2017 UEFA European Under-21 Championship|2017 European Under-21 Championship]] [[2017 UEFA European Under-21 Championship qualification|qualifiers]].<ref>{{cite web|url=https://rr.sapo.pt/bolabranca_detalhe.aspx?fid=48&did=198621|title=Caminhada rumo à Polónia começa com goleada|trans-title=Road to Poland starts with routing|publisher=Rádio Renascença|language=pt|date=8 September 2015|access-date=11 September 2015}}</ref>
+
+===Senior===
+[[File:Russia-Portugal CC2017 (8).jpg|thumb|Silva (left) and [[Russia national football team|Russia's]] [[Viktor Vasin]] at the [[2017 FIFA Confederations Cup|2017 Confederations Cup]]]]
+Silva was called up for the first time to the senior team by head coach [[Fernando Santos (Portuguese footballer)|Fernando Santos]] on 26 August 2016,<ref>{{cite web|url=http://www.portugoal.net/selecao/524-andre-silva-and-joao-cancelo-called-into-portugal-squad|title=André Silva and João Cancelo called into Portugal squad|publisher=PortuGOAL|first=Tom|last=Kundert|date=28 August 2016|access-date=29 August 2016}}</ref> playing the second half of a 5–0 [[Exhibition game|friendly]] victory over [[Gibraltar national football team|Gibraltar]] in Porto on 1 September.<ref name=Azzoni>{{cite web|url=https://apnews.com/a76c20edafbd4325a0f368ba49973c28/Youngster-Andre-Silva-becoming-Ronaldo%27s-perfect-wingman|title=Youngster Andre Silva becoming Ronaldo's perfect wingman|publisher=[[Associated Press]]|first=Tales|last=Azzoni|date=17 June 2017|access-date=15 September 2020}}</ref> He scored his first goal with Portugal's main squad on 7 October, featuring the entire 6–0 defeat of [[Andorra national football team|Andorra]] for the [[2018 FIFA World Cup]] [[2018 FIFA World Cup qualification (UEFA)|qualifiers]].<ref name=Azzoni/> Three days later, for the same competition, he netted three times in the first half of an eventual 6–0 thrashing of the [[Faroe Islands national football team|Faroe Islands]].<ref>{{cite web|url=https://www.rtp.pt/noticias/desporto/chapa-seis-as-ilhas-faroe-com-hat-trick-de-andre-silva_e953053|title=Chapa seis às Ilhas Faroé com "hat-trick" de André Silva|trans-title=Six past the Faroe Islands with André Silva hat-trick|publisher=Rádio e Televisão de Portugal|language=pt|date=11 October 2016|access-date=18 June 2017}}</ref>
+
+Silva was selected for the [[2017 FIFA Confederations Cup]],<ref>{{cite news|url=https://www.ojogo.pt/internacional/selecao/noticias/interior/direto--os-convocados-de-portugal-para-a-taca-das-confederacoes-8506152.html|title=Éder fica fora dos convocados, Beto e José Sá nas escolhas|trans-title=Éder out of squad, Beto and José Sá picked|newspaper=O Jogo|language=pt|date=25 May 2017|access-date=17 June 2017}}</ref> making his tournament debut when he replaced [[Ricardo Quaresma]] for the last eight minutes of the 2–2 group stage draw with [[Mexico national football team|Mexico]].<ref>{{cite news|url=https://www.theguardian.com/football/2017/jun/18/portugal-mexico-confederations-cup-match-report|title=Héctor Moreno's stoppage-time header earns Mexico draw against Portugal|newspaper=[[The Guardian]]|first=Nick|last=Ames|date=18 June 2017|access-date=18 June 2017}}</ref> He scored his first goal in the competition on 24 June, playing the full 90 minutes in the 4–0 win against [[New Zealand national football team|New Zealand]].<ref>{{cite web|url=https://www.fifa.com/confederationscup/matches/round=274633/match=300334887/match-report.html|title=Portugal cruise into semi-finals|publisher=FIFA|date=24 June 2017|access-date=24 June 2017|url-status=dead|archive-url=https://web.archive.org/web/20170504011629/http://www.fifa.com/confederationscup/matches/round=274633/match=300334887/match-report.html|archive-date=4 May 2017}}</ref> In the [[2017 FIFA Confederations Cup#Third place play-off|third-place play-off]], in which his team eventually defeated Mexico 2–1 after [[Overtime (sports)|extra time]], he had his early [[Penalty kick (association football)|penalty]] saved by [[Guillermo Ochoa]].<ref>{{cite web|url=https://www.fifa.com/confederationscup/matches/round=274643/match=300334886/match-report.html|title=Portugal come from behind to finish third|publisher=FIFA|date=2 July 2017|access-date=15 September 2017|url-status=dead|archive-url=https://web.archive.org/web/20170504000633/http://www.fifa.com/confederationscup/matches/round=274643/match=300334886/match-report.html|archive-date=4 May 2017}}</ref>
+
+In May 2018, Silva was named in Portugal's final squad for the [[FIFA World Cup]], also to be held in Russia.<ref>{{cite web|url=https://www.sbs.com.au/news/portugal-world-cup-squad|title=Nearly half Portugal's Euro squad to miss World Cup|publisher=[[Special Broadcasting Service]]|date=17 May 2018|access-date=17 May 2018}}</ref> Late into that month, he scored the 1000th goal in the national team's history during the first half of a friendly with [[Tunisia national football team|Tunisia]] in [[Braga]].<ref>{{cite web|url=https://24.sapo.pt/desporto/artigos/andre-silva-marcou-o-1-000-o-golo-da-historia-da-selecao-portuguesa|title=André Silva marcou o 1.000.º golo da história da seleção portuguesa|trans-title=André Silva scored 1.000th goal in the history of the Portuguese national team|publisher=SAPO|language=pt|date=28 May 2018|access-date=28 May 2018}}</ref> He made his debut in the competition on 15 June, replacing [[Gonçalo Guedes]] in the 80th minute of the 3–3 group stage draw against [[Spain national football team|Spain]].<ref>{{cite web|url=https://www.fifa.com/worldcup/matches/match/300331524/#match-summary|archive-url=https://web.archive.org/web/20180612212732/https://www.fifa.com/worldcup/matches/match/300331524/#match-summary|url-status=dead|archive-date=12 June 2018|title=Ronaldo illuminates stellar draw with Spain|publisher=FIFA|date=15 June 2018|access-date=16 June 2018}}</ref>
+
+Silva was selected for the delayed [[UEFA Euro 2020]] tournament on 20 May 2021,<ref>{{cite web|url=https://pt.uefa.com/uefaeuro-2020/news/0269-1252942bc164-e2eac2467985-1000--convocados-de-portugal-para-o-euro/|title=Convocados de Portugal para o EURO 2020|trans-title=Portugal squad for EURO 2020|publisher=UEFA|language=pt|date=20 May 2021|access-date=13 October 2021}}</ref><ref>{{cite web|url=https://www.fourfourtwo.com/us/features/portugal-euro-2020-squad-the-complete-line-up-for-marchs-internationals|title=Portugal Euro 2020 squad update: full team preview|publisher=[[FourFourTwo]]|date=13 June 2021|access-date=29 November 2021|url-status=live|archive-url=https://web.archive.org/web/20210606213508/https://www.fourfourtwo.com/us/features/portugal-euro-2020-squad-the-complete-line-up-for-marchs-internationals|archive-date=6 June 2021}}</ref> replacing [[Diogo Jota]] in the 70th minute of a 1–0 loss to [[Belgium national football team|Belgium]] in the round of 16.<ref>{{cite web|url=https://www.uefa.com/uefaeuro-2020/match/2024479--belgium-vs-portugal/postmatch/report/|title=Belgium 1–0 Portugal: Holders dethroned by Thorgan Hazard|publisher=UEFA|date=27 June 2021|access-date=29 November 2021}}</ref> In November 2022, he made the final squad for the [[2022 FIFA World Cup|World Cup in Qatar]].<ref>{{cite web|url=https://desporto.sapo.pt/futebol/mundial/artigos/os-26-convocados-de-portugal-para-o-mundial2022|title=Os 26 convocados de Portugal: Gonçalo Ramos, António Silva, Otávio e Matheus Nunes chamados|trans-title=Portugal select 26: Gonçalo Ramos, António Silva, Otávio and Matheus Nunes called|publisher=SAPO|language=pt|date=10 November 2022|access-date=10 November 2022}}</ref> His only appearance in an eventual quarter-final exit consisted of 30 minutes of the 2–1 defeat against [[South Korea national football team|South Korea]] in the group stage.<ref>{{cite web|url=https://www.bbc.com/sport/football/63752148|title=South Korea 2–1 Portugal|publisher=[[BBC Sport]]|first=Chris|last=Bevan|date=2 December 2022|access-date=22 December 2022}}</ref><ref>{{cite web|url=https://www.bbc.com/sport/football/63843785|title=Morocco 1–0 Portugal|publisher=BBC Sport|first=Shamoon|last=Hafez|date=10 December 2022|access-date=22 December 2022}}</ref>
+
+==Career statistics==
+===Club===
+{{updated|match played 20 May 2023}}<ref name=SW>{{Soccerway|andre-miguel-valente-silva/214897}}</ref>
+{| class="wikitable" style="text-align:center"
+|+ Appearances and goals by club, season and competition
+|-
+!rowspan="2"|Club
+!rowspan="2"|Season
+!colspan="3"|League
+!colspan="2"|National Cup
+!colspan="2"|League Cup
+!colspan="2"|[[UEFA#Club|Europe]]
+!colspan="2"|Other
+!colspan="2"|Total
+|-
+!Division!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals
+|-
+|rowspan="4"|[[FC Porto B|Porto B]]
+|[[2013–14 Segunda Liga|2013–14]]
+|[[Segunda Liga]]
+|21||3||colspan="2"|—||colspan="2"|—||colspan="2"|—||colspan="2"|—||21||3
+|-
+|[[2014–15 Segunda Liga|2014–15]]
+|Segunda Liga
+|34||7||colspan="2"|—||colspan="2"|—||colspan="2"|—||colspan="2"|—||34||7
+|-
+|[[2015–16 Segunda Liga|2015–16]]
+|Segunda Liga
+|29||14||colspan="2"|—||colspan="2"|—||colspan="2"|—||colspan="2"|—||29||14
+|-
+!colspan="2"|Total
+!84!!24!!colspan="2"|—!!colspan="2"|—!!colspan="2"|—!!colspan="2"|—!!84!!24
+|-
+|rowspan="3"|[[FC Porto|Porto]]
+|[[2015–16 FC Porto season|2015–16]]
+|[[Primeira Liga]]
+|9||1||2||2||3||0||0||0||colspan="2"|—||14||3
+|-
+|[[2016–17 FC Porto season|2016–17]]
+|Primeira Liga
+|32||16||2||0||0||0||10{{efn|name=UCL|Appearances in [[UEFA Champions League]]}}||5||colspan="2"|—||44||21
+|-
+!colspan="2"|Total
+!41!!17!!4!!2!!3!!0!!10!!5!!colspan="2"|—!!58!!24
+|-
+|rowspan="3"|[[A.C. Milan|Milan]]
+|[[2017–18 A.C. Milan season|2017–18]]
+|[[Serie A]]
+|24||2||2||0||colspan="2"|—||14{{efn|name=UEL|Appearances in [[UEFA Europa League]]}}||8||colspan="2"|—||40||10
+|-
+|[[2019–20 A.C. Milan season|2019–20]]
+|Serie A
+|1||0||0||0||colspan="2"|—||colspan="2"|—||colspan="2"|—||1||0
+|-
+!colspan="2"|Total
+!25!!2!!2!!0!!colspan="2"|—!!14!!8!!colspan="2"|—!!41!!10
+|-
+|[[Sevilla FC|Sevilla]] (loan)
+|[[2018–19 Sevilla FC season|2018–19]]
+|[[La Liga]]
+|27||9||4||2||colspan="2"|—||8{{efn|name=UEL}}||0||1{{efn|name=SCE|Appearance in [[Supercopa de España]]}}||0||40||11
+|-
+|[[Eintracht Frankfurt]] (loan)
+|[[2019–20 Eintracht Frankfurt season|2019–20]]
+|[[Bundesliga]]
+|25||12||3||2||colspan="2"|—||9{{efn|name=UEL}}||2||colspan="2"|—||37||16
+|-
+|rowspan="2"|Eintracht Frankfurt
+|[[2020–21 Eintracht Frankfurt season|2020–21]]
+|Bundesliga
+|32||28||2||1||colspan="2"|—||colspan="2"|—||colspan="2"|—||34||29
+|-
+!colspan="2"|Total
+!57!!40!!5!!3!!colspan="2"|—!!9!!2!!colspan="2"|—!!71!!45
+|-
+|rowspan="3"|[[RB Leipzig]]
+|[[2021–22 RB Leipzig season|2021–22]]
+|Bundesliga
+|33||11||6||2||colspan="2"|—||12{{efn|Six appearances and three goals in UEFA Champions League, six appearances and one goal in UEFA Europa League}}||4||colspan="2"|—||51||17
+|-
+|[[2022–23 RB Leipzig season|2022–23]]
+|Bundesliga
+|31||4||4||2||colspan="2"|—||8{{efn|name=UCL}}||3||1{{efn|name=GSC|Appearance in [[DFL-Supercup]]}}||0||44||9
+|-
+!colspan="2"|Total
+!64!!15!!10!!4!!colspan="2"|—!!20!!7!!1!!0!!95!!26
+|-
+!colspan="3"|Career total
+!298!!107!!25!!11!!3!!0!!61!!22!!2!!0!!389!!140
+|}
+{{notelist}}
+
+===International===
+{{updated|match played 2 December 2022}}<ref name=EU>{{cite web|url=https://eu-football.info/_player.php?id=29505|title=André Silva|publisher=European Football|access-date=19 June 2017}}</ref>
+{|class="wikitable" style="text-align: center"
+|-
+!National team||Year||Apps||Goals
+|-
+|rowspan="7"|[[Portugal national football team|Portugal]]
+|2016||5||4
+|-
+|2017||13||7
+|-
+|2018||13||4
+|-
+|2019||3||0
+|-
+|2020||3||1
+|-
+|2021||12||3
+|-
+|2022||4||0
+|-
+!colspan="2"|Total!!53!!19
+|}
+
+{{updated|match played 9 October 2021.}} ''Scores and results list Portugal's goal tally first, score column indicates score after each Silva goal''.<ref name=EU/>
+{| class="wikitable sortable"
+|+ List of international goals scored by André Silva
+|-
+! No. !! Date !! Venue !! Opponent !! Score !! Result !! Competition
+|-
+| align=center | 1 || 7 October 2016 || [[Estádio Municipal de Aveiro|Estádio Municipal]], [[Aveiro, Portugal]] || {{fb|AND}} || align=center | 6–0 || align=center | 6–0 || rowspan="5"|[[2018 FIFA World Cup qualification – UEFA Group B|2018 FIFA World Cup qualification]]
+|-
+| align=center | 2 || rowspan="3"|10 October 2016 || rowspan="3"|[[Tórsvøllur]], [[Tórshavn]], Faroe Islands || rowspan="3"|{{fb|FAR}} || align=center | 1–0 || rowspan="3" align=center | 6–0
+|-
+| align=center | 3 || align=center | 2–0
+|-
+| align=center | 4 || align=center | 3–0
+|-
+| align=center | 5 || 25 March 2017 || [[Estádio da Luz]], [[Lisbon]], Portugal || {{fb|HUN}} || align=center | 1–0 || align=center | 3–0
+|-
+| align=center | 6 || 3 June 2017 || [[Estádio António Coimbra da Mota|António Coimbra da Mota]], [[Estoril]], Portugal || {{fb|CYP}} || align=center | 4–0 || align=center | 4–0 || [[Exhibition game#Association football|Friendly]]
+|-
+| align=center | 7 || 9 June 2017 || [[Skonto Stadium]], [[Riga]], Latvia || {{fb|LAT}} || align=center | 3–0 || align=center | 3–0 || 2018 FIFA World Cup qualification
+|-
+| align=center | 8 || 24 June 2017 || [[Krestovsky Stadium]], [[Saint Petersburg]], Russia || {{fb|NZL}} || align=center | 3–0 || align=center | 4–0 || [[2017 FIFA Confederations Cup Group A|2017 FIFA Confederations Cup]]
+|-
+| align=center | 9 || 3 September 2017 || [[Groupama Arena]], [[Budapest]], Hungary || {{fb|HUN}} || align=center | 1–0 || align=center | 1–0 || rowspan="3"|2018 FIFA World Cup qualification
+|-
+| align=center | 10 || 7 October 2017 || [[Estadi Nacional]], [[Andorra la Vella]], Andorra || {{fb|AND}} || align=center | 2–0 || align=center | 2–0
+|-
+| align=center | 11 || 10 October 2017 || Estádio da Luz, Lisbon, Portugal || {{fb|SUI}} || align=center | 2–0 || align=center | 2–0
+|-
+| align=center | 12 || 28 May 2018 || [[Estádio Municipal de Braga|Estádio Municipal]], [[Braga]], Portugal || {{fb|TUN}} || align=center | 1–0 || align=center | 2–2 || Friendly
+|-
+| align=center | 13 || 10 September 2018 || Estádio da Luz, Lisbon, Portugal || {{fb|ITA}} || align=center | 1–0 || align=center | 1–0 || rowspan="3"|[[2018–19 UEFA Nations League A]]
+|-
+| align=center | 14 || 11 October 2018 || [[Silesian Stadium]], [[Chorzów]], Poland || rowspan="2"|{{fb|POL}} || align=center | 1–1 || align=center | 3–2
+|-
+| align=center | 15 || 20 November 2018 || [[Estádio D. Afonso Henriques|D. Afonso Henriques]], [[Guimarães]], Portugal || align=center | 1–0 || align=center | 1–1
+|-
+| align=center | 16 || 5 September 2020 || [[Estádio do Dragão]], [[Porto]], Portugal || {{fb|CRO}} || align=center | 4–1 || align=center | 4–1 || [[2020–21 UEFA Nations League A]]
+|-
+| align=center | 17 || 4 September 2021 || [[Nagyerdei Stadion]], [[Debrecen]], Hungary || {{fb|QAT}} || align=center | 1–0 || align=center | 3–1 || Friendly
+|-
+| align=center | 18 || 7 September 2021 || [[Baku Olympic Stadium|Olympic Stadium]], [[Baku]], Azerbaijan || {{fb|AZE}} || align=center | 2–0 || align=center | 3–0 || [[2022 FIFA World Cup qualification – UEFA Group A|2022 FIFA World Cup qualification]]
+|-
+| align=center | 19 || 9 October 2021 || [[Estádio Algarve]], [[Faro, Portugal]] || {{fb|QAT}} || align=center | 3–0 || align=center | 3–0 || Friendly
+|}
+
+==Honours==
+'''Porto B'''
+*[[LigaPro]]: [[2015–16 LigaPro|2015–16]]<ref>{{cite news|url=https://www.record.pt/futebol/futebol-nacional/liga-nos/fc-porto/detalhe/equipa-b-entrega-trofeu-da-2-liga-a-pinto-da-costa|title=Equipa B entrega troféu da 2.ª Liga a Pinto da Costa|trans-title=B team give 2nd League trophy to Pinto da Costa|newspaper=Record|first=André|last=Monteiro|language=pt|date=12 May 2016|access-date=15 September 2020}}</ref>
+
+'''RB Leipzig'''
+*[[DFB-Pokal]]: [[2021–22 DFB-Pokal|2021–22]],<ref name=MF/> [[2022–23 DFB-Pokal|2022–23]]<ref name=SW/>
+
+'''Portugal'''
+*[[UEFA Nations League]]: [[2018–19 UEFA Nations League|2018–19]]<ref>{{cite web|url=https://desporto.sapo.pt/futebol/liga-das-nacoes/artigos/portugal-regressa-ao-topo-da-europa-liga-das-nacoes-fica-em-casa|title=Portugal regressa ao topo da Europa. Liga das Nações fica em casa|trans-title=Portugal return to the top of Europe. Nations League stays home|publisher=SAPO|language=pt|date=9 June 2019|access-date=10 June 2019}}</ref>
+*[[FIFA Confederations Cup]] third place: [[2017 FIFA Confederations Cup|2017]]<ref>{{cite web|url=http://www.tsf.pt/desporto/interior/portugal-tenta-o-terceiro-lugar-na-despedida-da-taca-das-confederacoes-8607365.html|title="Portugal fez uma prova excelente", diz Fernando Santos|trans-title="Portugal had an excellent tournament", Fernando Santos says|publisher=[[TSF (radio station)|TSF]]|language=pt|date=2 July 2017|access-date=4 July 2017}}</ref>
+
+'''Individual'''
+*[[SJPF Segunda Liga Player of the Month]]: August/September 2015,<ref>{{cite web|url=https://desporto.sapo.pt/futebol/primeira_liga/artigo/2015/10/15/andre-andre-eleito-o-melhor-jogador-da-liga|title=André André eleito o melhor jogador da Liga|trans-title=André André voted best League player|publisher=SAPO|language=pt|date=15 October 2015|access-date=28 May 2016}}</ref> December 2015<ref>{{cite web|url=https://desporto.sapo.pt/futebol/primeira_liga/artigo/2016/01/19/slimani-eleito-melhor-jogador-de-dezembro|title=Slimani eleito melhor jogador de dezembro|trans-title=Slimani voted best player of December|publisher=SAPO|language=pt|date=19 January 2016|access-date=28 May 2016}}</ref>
+*[[LPFP Awards#Segunda Liga|Segunda Liga Player of the Year]]: 2015–16<ref>{{cite web|url=https://rr.sapo.pt/2016/10/12/porto/andre-silva-recebe-premio-de-melhor-jogador-da-ii-liga-201516/noticia/65807/|title=André Silva recebe prémio de melhor jogador da II Liga 2015/16|trans-title=André Silva receives 2015/16 II League award for best player|publisher=Rádio Renascença|language=pt|date=12 October 2016|access-date=12 July 2021}}</ref>
+*Segunda Liga Breakthrough Player of the Year: 2015–16<ref>{{cite news|url=https://www.record.pt/futebol/futebol-nacional/detalhe/todos-os-premios-da-liga-20152016|title=Todos os prémios da Liga 2015/2016|trans-title=All 2015/2016 League awards|newspaper=Record|language=pt|date=15 July 2016|access-date=12 July 2021}}</ref>
+*[[UEFA Champions League]] Breakthrough XI: 2016<ref>{{cite web|url=http://www.uefa.com/uefachampionsleague/news/newsid=2431805.html|title=Our Champions League breakthrough team of 2016|publisher=UEFA|date=24 December 2016|access-date=25 December 2016}}</ref>
+*[[Bundesliga]] Goal of the Month: [[2019–20 Bundesliga#Monthly awards|June 2020]]<ref>{{cite web|url=https://www.bundesliga.com/en/bundesliga/news/goal-of-the-month-2019-20-bayern-munich-borussia-dortmund-rb-leipzig-6796|title=Andre Silva's back-heel voted Bundesliga Goal of the Month for June!|publisher=Bundesliga|date=July 2020|access-date=10 July 2020}}</ref>
+*Bundesliga Player of the Month: [[2020–21 Bundesliga#Monthly awards|January 2021]]<ref name=POTM/>
+*Bundesliga Team of the Season: [[2020–21 Bundesliga|2020–21]]<ref>{{cite web|url=https://www.bundesliga.com/en/bundesliga/news/team-of-the-season-2021-vote-fifa-21-ea-sports-haaland-lewandowski-overview-4204|title=The 2020/21 Bundesliga Team of the Season!|publisher=Bundesliga|date=15 May 2021|access-date=17 May 2021}}</ref>
+*''[[Kicker (sports magazine)|Kicker]]'' Bundesliga Team of the Season: 2020–21<ref>{{cite web|url=https://www.kicker.de/sechs-klubs-dabei-die-kicker-elf-der-saison-2020-21-805773/slideshow|title=Sechs Klubs dabei: Die kicker-Elf der Saison (2020/21)|trans-title=Six clubs represented: The Kicker team of the season (2020/21)|publisher=[[Kicker (sports magazine)|Kicker]]|language=de|date=1 June 2021|access-date=15 November 2022}}</ref>
+
+==References==
+{{reflist}}
+
+==External links==
+{{Commons category|André Silva}}
+*{{ForaDeJogo}}
+*{{Fussballdaten|andre-silva}}
+*{{FPF national player|720347}}
+*{{NFT player}}
+*{{FIFA player}}
+
+{{RB Leipzig squad}}
+{{Navboxes
+| title = Portugal squads
+| bg = #B50000
+| fg = gold
+| bordercolor = #006600
+| list1 = 
+{{Portugal squad 2017 FIFA Confederations Cup}}
+{{Portugal squad 2018 FIFA World Cup}}
+{{Portugal squad UEFA Euro 2020}}
+{{Portugal squad 2022 FIFA World Cup}}
+}}
+{{2020–21 kicker Bundesliga Team of the Season}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Silva, Andre}}
+[[Category:1995 births]]
+[[Category:Living people]]
+[[Category:People from Gondomar, Portugal]]
+[[Category:Portuguese men's footballers]]
+[[Category:Footballers from Porto District]]
+[[Category:Men's association football forwards]]
+[[Category:Primeira Liga players]]
+[[Category:Liga Portugal 2 players]]
+[[Category:S.C. Salgueiros players]]
+[[Category:Padroense F.C. players]]
+[[Category:FC Porto B players]]
+[[Category:FC Porto players]]
+[[Category:Serie A players]]
+[[Category:AC Milan players]]
+[[Category:La Liga players]]
+[[Category:Sevilla FC players]]
+[[Category:Bundesliga players]]
+[[Category:Eintracht Frankfurt players]]
+[[Category:RB Leipzig players]]
+[[Category:Portugal men's youth international footballers]]
+[[Category:Portugal men's under-21 international footballers]]
+[[Category:Portugal men's international footballers]]
+[[Category:2017 FIFA Confederations Cup players]]
+[[Category:2018 FIFA World Cup players]]
+[[Category:UEFA Euro 2020 players]]
+[[Category:2022 FIFA World Cup players]]
+[[Category:Portuguese expatriate men's footballers]]
+[[Category:Expatriate men's footballers in Italy]]
+[[Category:Expatriate men's footballers in Spain]]
+[[Category:Expatriate men's footballers in Germany]]
+[[Category:Portuguese expatriate sportspeople in Italy]]
+[[Category:Portuguese expatriate sportspeople in Spain]]
+[[Category:Portuguese expatriate sportspeople in Germany]]

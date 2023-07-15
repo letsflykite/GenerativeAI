@@ -1,0 +1,698 @@
+{{short description|none}}
+{{Use dmy dates|date=December 2020}}
+The '''2022 FIFA World Cup qualification UEFA Group J''' was one of the ten [[2022 FIFA World Cup qualification (UEFA)|UEFA groups]] in the [[2022 FIFA World Cup qualification|World Cup qualification]] tournament to decide which teams would qualify for the [[2022 FIFA World Cup]] finals tournament in Qatar.<ref>{{cite news |url=https://digitalhub.fifa.com/m/58b8109657d40e3d/original/ijoruwm3ly5kgz9wbu6j-pdf.pdf |title=UEFA preliminary competition for the FIFA World Cup 2022: Draw procedures |work=[[FIFA]] |format=PDF |date=22 October 2020 |access-date=22 October 2020}}</ref> Group J consisted of six teams: [[Armenia national football team|Armenia]], [[Germany national football team|Germany]], [[Iceland national football team|Iceland]], [[Liechtenstein national football team|Liechtenstein]], [[North Macedonia national football team|North Macedonia]], and [[Romania national football team|Romania]].<ref>{{cite web |url=https://editorial.uefa.com/resources/0264-1108c702e548-758110ebe57c-1000/draw_result_sheet.pdf |title=FIFA World Cup Preliminary Competition – Draw Results |work=UEFA |format=PDF |date=7 December 2020 |access-date=7 December 2020}}</ref> The teams played against each other home-and-away in a [[round-robin tournament|round-robin format]].<ref>{{cite web |url=https://digitalhub.fifa.com/m/271202c2bf80db17/original/adjlwts3o6c57g0skqor-pdf.pdf |title=UEFA preliminary competition format for the FIFA World Cup 2022 |work=FIFA |format=PDF |date=4 December 2020 |access-date=7 December 2020}}</ref>
+
+The group winners, Germany, qualified directly for the World Cup finals, while the runners-up, North Macedonia, advanced to the [[2022 FIFA World Cup qualification – UEFA second round|second round (play-offs)]].
+
+==Standings==
+<onlyinclude>{{#invoke:Sports table|main|style=WDL
+|show_matches=y
+|class_rules=[[2022 FIFA World Cup qualification#Tiebreakers|Tiebreakers]]
+|source=[https://www.fifa.com/tournaments/mens/worldcup/qatar2022/qualifiers/uefa FIFA], [https://www.uefa.com/european-qualifiers/standings/#grp-2008227 UEFA]
+
+<!--Update team positions below (check tiebreakers)-->
+|team_order=GER, MKD, ROU, ARM, ISL, LIE
+
+<!--Update team results below (including date)-->
+|update=complete
+|win_GER=9 |draw_GER=0 |loss_GER=1 |gf_GER=36|ga_GER=4
+|win_ROU=5 |draw_ROU=2 |loss_ROU=3 |gf_ROU=13|ga_ROU=8
+|win_ISL=2 |draw_ISL=3 |loss_ISL=5 |gf_ISL=12|ga_ISL=18
+|win_MKD=5 |draw_MKD=3 |loss_MKD=2 |gf_MKD=23|ga_MKD=11
+|win_ARM=3 |draw_ARM=3 |loss_ARM=4 |gf_ARM=9 |ga_ARM=20
+|win_LIE=0 |draw_LIE=1 |loss_LIE=9 |gf_LIE=2 |ga_LIE=34
+
+<!--Update match results below-->
+|match_GER_ROU=[[2022 FIFA World Cup qualification – UEFA Group J#Germany v Romania|2–1]]
+|match_GER_ISL=[[2022 FIFA World Cup qualification – UEFA Group J#Germany v Iceland|3–0]]
+|match_GER_MKD=[[2022 FIFA World Cup qualification – UEFA Group J#Germany v North Macedonia|1–2]]
+|match_GER_ARM=[[2022 FIFA World Cup qualification – UEFA Group J#Germany v Armenia|6–0]]
+|match_GER_LIE=[[2022 FIFA World Cup qualification – UEFA Group J#Germany v Liechtenstein|9–0]]
+
+|match_ROU_GER=[[2022 FIFA World Cup qualification – UEFA Group J#Romania v Germany|0–1]]
+|match_ROU_ISL=[[2022 FIFA World Cup qualification – UEFA Group J#Romania v Iceland|0–0]]
+|match_ROU_MKD=[[2022 FIFA World Cup qualification – UEFA Group J#Romania v North Macedonia|3–2]]
+|match_ROU_ARM=[[2022 FIFA World Cup qualification – UEFA Group J#Romania v Armenia|1–0]]
+|match_ROU_LIE=[[2022 FIFA World Cup qualification – UEFA Group J#Romania v Liechtenstein|2–0]]
+
+|match_ISL_GER=[[2022 FIFA World Cup qualification – UEFA Group J#Iceland v Germany|0–4]]
+|match_ISL_ROU=[[2022 FIFA World Cup qualification – UEFA Group J#Iceland v Romania|0–2]]
+|match_ISL_MKD=[[2022 FIFA World Cup qualification – UEFA Group J#Iceland v North Macedonia|2–2]]
+|match_ISL_ARM=[[2022 FIFA World Cup qualification – UEFA Group J#Iceland v Armenia|1–1]]
+|match_ISL_LIE=[[2022 FIFA World Cup qualification – UEFA Group J#Iceland v Liechtenstein|4–0]]
+
+|match_MKD_GER=[[2022 FIFA World Cup qualification – UEFA Group J#North Macedonia v Germany|0–4]]
+|match_MKD_ROU=[[2022 FIFA World Cup qualification – UEFA Group J#North Macedonia v Romania|0–0]]
+|match_MKD_ISL=[[2022 FIFA World Cup qualification – UEFA Group J#North Macedonia v Iceland|3–1]]
+|match_MKD_ARM=[[2022 FIFA World Cup qualification – UEFA Group J#North Macedonia v Armenia|0–0]]
+|match_MKD_LIE=[[2022 FIFA World Cup qualification – UEFA Group J#North Macedonia v Liechtenstein|5–0]]
+
+|match_ARM_GER=[[2022 FIFA World Cup qualification – UEFA Group J#Armenia v Germany|1–4]]
+|match_ARM_ROU=[[2022 FIFA World Cup qualification – UEFA Group J#Armenia v Romania|3–2]]
+|match_ARM_ISL=[[2022 FIFA World Cup qualification – UEFA Group J#Armenia v Iceland|2–0]]
+|match_ARM_MKD=[[2022 FIFA World Cup qualification – UEFA Group J#Armenia v North Macedonia|0–5]]
+|match_ARM_LIE=[[2022 FIFA World Cup qualification – UEFA Group J#Armenia v Liechtenstein|1–1]]
+
+|match_LIE_GER=[[2022 FIFA World Cup qualification – UEFA Group J#Liechtenstein v Germany|0–2]]
+|match_LIE_ROU=[[2022 FIFA World Cup qualification – UEFA Group J#Liechtenstein v Romania|0–2]]
+|match_LIE_ISL=[[2022 FIFA World Cup qualification – UEFA Group J#Liechtenstein v Iceland|1–4]]
+|match_LIE_MKD=[[2022 FIFA World Cup qualification – UEFA Group J#Liechtenstein v North Macedonia|0–4]]
+|match_LIE_ARM=[[2022 FIFA World Cup qualification – UEFA Group J#Liechtenstein v Armenia|0–1]]
+<!--Team definitions-->
+|name_GER={{fb|GER}} |short_GER={{flagdeco|GER}}
+|name_ROU={{fb|ROU}} |short_ROU={{flagdeco|ROU}}
+|name_ISL={{fb|ISL}} |short_ISL={{flagdeco|ISL}}
+|name_MKD={{fb|MKD}} |short_MKD={{flagdeco|MKD}}
+|name_ARM={{fb|ARM}} |short_ARM={{flagdeco|ARM}}
+|name_LIE={{fb|LIE}} |short_LIE={{flagdeco|LIE}}
+
+<!--Qualification column definitions-->
+|res_col_header=Q
+|result1=WC |result2=PO
+|col_WC=green1 |text_WC=Qualification for [[2022 FIFA World Cup]]
+|col_PO=blue1  |text_PO=Advance to [[2022 FIFA World Cup qualification – UEFA second round|play-offs]]
+}}</onlyinclude>
+
+==Matches==
+The fixture list was confirmed by UEFA on 8 December 2020, the day following the draw.<ref>{{cite web |url=https://www.uefa.com/european-qualifiers/news/0264-110cbe0bf3c8-20065adb8f46-1000/ |title=European Qualifiers for 2022 World Cup: all the fixtures |work=UEFA |date=9 December 2020 |access-date=12 December 2020}}</ref><ref>{{cite web |url=https://editorial.uefa.com/resources/0264-110ace207077-148a7a2a0834-1000/worldcupfixtures.pdf |title=Fixture List – European Qualifiers 2020–2022: FIFA World Cup Preliminary Competition |work=UEFA |date=8 December 2020 |access-date=8 December 2020}}</ref><ref>{{cite web |url=https://editorial.uefa.com/resources/0264-110ad8d233bb-8b2abff6c4d7-1000/eq_2020-22_-_fixtures_list_by_groups.pdf |title=Fixture List by Group – European Qualifiers 2020–2022: FIFA World Cup Preliminary Competition |work=UEFA |date=8 December 2020 |access-date=8 December 2020}}</ref> Times are [[Central European Time|CET]]/[[Central European Summer Time|CEST]],{{refn|group=note|[[Central European Time|CET]] ([[UTC+01:00|UTC+1]]) for matches until 27 March and from 31 October (matchday 1 and 9–10), and [[Central European Summer Time|CEST]] ([[UTC+02:00|UTC+2]]) for matches from 28 March to 30 October 2021 (matchday 2–8).}} as listed by UEFA (local times, if different, are in parentheses).
+
+{{Football box
+|id=Germany v Iceland
+|date={{Start date|2021|3|25|df=y}}
+|time=20:45
+|team1={{fb-rt|GER}}
+|score=3–0
+|report=[https://www.fifa.com/tournaments/mens/worldcup/qatar2022/qualifiers/uefa/match-center/400155769 Report (FIFA)]<br />[https://www.uefa.com/european-qualifiers/match/2030774/ Report (UEFA)]
+|team2={{fb|ISL}}
+|goals1=
+*[[Leon Goretzka|Goretzka]] {{goal|3}}
+*[[Kai Havertz|Havertz]] {{goal|7}}
+*[[İlkay Gündoğan|Gündoğan]] {{goal|56}}
+|goals2=
+|stadium=[[MSV-Arena]], [[Duisburg]]
+|attendance=0<ref>{{UEFA match attendance|2030774|Germany vs. Iceland |date=25 March 2021|access-date=1 April 2021}}</ref>{{refn|group=note|name=Behind closed doors|Due to the [[COVID-19 pandemic in Europe]], the match was played [[Behind closed doors (sport)|behind closed doors]].}}
+|referee=[[Srđan Jovanović (referee)|Srđan Jovanović]] ([[Serbian Football Association|Serbia]])
+}}
+{{Football box
+|id=Liechtenstein v Armenia
+|date={{Start date|2021|3|25|df=y}}
+|time=20:45
+|team1={{fb-rt|LIE}}
+|score=0–1
+|report=[https://www.fifa.com/tournaments/mens/worldcup/qatar2022/qualifiers/uefa/match-center/400155755 Report (FIFA)]<br />[https://www.uefa.com/european-qualifiers/match/2030786/ Report (UEFA)]
+|team2={{fb|ARM}}
+|goals1=
+|goals2=
+*[[Noah Frommelt|Frommelt]] {{goal|83|o.g.}}
+|stadium=[[Rheinpark Stadion]], [[Vaduz]]
+|attendance=0<ref>{{UEFA match attendance|2030786|Liechtenstein vs. Armenia |date=25 March 2021|access-date=1 April 2021}}</ref>{{refn|group=note|name=Behind closed doors}}
+|referee=[[Julian Weinberger]] ([[Austrian Football Association|Austria]]) 
+}}
+{{Football box
+|id=Romania v North Macedonia
+|date={{Start date|2021|3|25|df=y}}
+|time=20:45 {{small|(21:45 [[UTC+02:00|UTC+2]])}}
+|team1={{fb-rt|ROU}}
+|score=3–2
+|report=[https://www.fifa.com/tournaments/mens/worldcup/qatar2022/qualifiers/uefa/match-center/400155760 Report (FIFA)]<br />[https://www.uefa.com/european-qualifiers/match/2030782/ Report (UEFA)]
+|team2={{fb|MKD}}
+|goals1=
+*[[Florin Tănase|Tănase]] {{goal|28}}
+*[[Valentin Mihăilă|Mihăilă]] {{goal|50}}
+*[[Ianis Hagi|Hagi]] {{goal|86}}
+|goals2=
+*[[Arijan Ademi|Ademi]] {{goal|82}}
+*[[Aleksandar Trajkovski|Trajkovski]] {{goal|83}}
+|stadium=[[Arena Națională]], [[Bucharest]]
+|attendance=0<ref>{{UEFA match attendance|2030782|Romania vs. North Macedonia |date=25 March 2021|access-date=1 April 2021}}</ref>{{refn|group=note|name=Behind closed doors}}
+|referee= [[Fábio Veríssimo]] ([[Portuguese Football Federation|Portugal]])
+}}
+----
+{{Football box
+|id=Armenia v Iceland
+|date={{Start date|2021|3|28|df=y}}
+|time=18:00 {{small|(20:00 [[UTC+04:00|UTC+4]])}}
+|team1={{fb-rt|ARM}}
+|score=2–0
+|report=[https://www.fifa.com/tournaments/mens/worldcup/qatar2022/qualifiers/uefa/match-center/400155770 Report (FIFA)]<br />[https://www.uefa.com/european-qualifiers/match/2030805/ Report (UEFA)]
+|team2={{fb|ISL}}
+|goals1=
+*[[Tigran Barseghyan|Barseghyan]] {{goal|53}}
+*[[Khoren Bayramyan|Bayramyan]] {{goal|74}}
+|goals2=
+|stadium=[[Vazgen Sargsyan Republican Stadium]], [[Yerevan]]
+|attendance=4,300<ref>{{UEFA match attendance|2030805|Armenia vs. Iceland |date=28 March 2021|access-date=1 April 2021}}</ref>
+|referee=[[Enea Jorgji]] ([[Albanian Football Association|Albania]])
+}}
+{{Football box
+|id=North Macedonia v Liechtenstein
+|date={{Start date|2021|3|28|df=y}}
+|time=20:45
+|team1={{fb-rt|MKD}}
+|score=5–0
+|report=[https://www.fifa.com/tournaments/mens/worldcup/qatar2022/qualifiers/uefa/match-center/400155750 Report (FIFA)]<br />[https://www.uefa.com/european-qualifiers/match/2030811/ Report (UEFA)]
+|team2={{fb|LIE}}
+|goals1=
+*[[Enis Bardhi|Bardhi]] {{goal|7}}
+*[[Aleksandar Trajkovski|Trajkovski]] {{goal|51||54}}
+*[[Eljif Elmas|Elmas]] {{goal|62}}
+*[[Ilija Nestorovski|Nestorovski]] {{goal|82|pen.}}
+|goals2=
+|stadium=[[Toše Proeski Arena]], [[Skopje]]
+|attendance=0<ref>{{UEFA match attendance|2030811|North Macedonia vs. Liechtenstein |date=28 March 2021|access-date=1 April 2021}}</ref>{{refn|group=note|name=Behind closed doors}}
+|referee=[[Mykola Balakin]] ([[Ukrainian Association of Football|Ukraine]])
+}}
+{{Football box
+|id=Romania v Germany
+|date={{Start date|2021|3|28|df=y}}
+|time=20:45 {{small|(21:45 [[UTC+03:00|UTC+3]])}}
+|team1={{fb-rt|ROU}}
+|score=0–1
+|report=[https://www.fifa.com/tournaments/mens/worldcup/qatar2022/qualifiers/uefa/match-center/400155764 Report (FIFA)]<br />[https://www.uefa.com/european-qualifiers/match/2030809/ Report (UEFA)]
+|team2={{fb|GER}}
+|goals1=
+|goals2=
+*[[Serge Gnabry|Gnabry]] {{goal|17}}
+|stadium=[[Arena Națională]], [[Bucharest]]
+|attendance=0<ref>{{UEFA match attendance|2030809|Romania vs. Germany |date=28 March 2021|access-date=1 April 2021}}</ref>{{refn|group=note|name=Behind closed doors}}
+|referee=[[Clément Turpin]] ([[French Football Federation|France]])
+}}
+----
+{{Football box
+|id=Armenia v Romania
+|date={{Start date|2021|3|31|df=y}}
+|time=18:00 {{small|(20:00 [[UTC+04:00|UTC+4]])}}
+|team1={{fb-rt|ARM}}
+|score=3–2
+|report=[https://www.fifa.com/tournaments/mens/worldcup/qatar2022/qualifiers/uefa/match-center/400155744 Report (FIFA)]<br />[https://www.uefa.com/european-qualifiers/match/2030824/ Report (UEFA)]
+|team2={{fb|ROU}}
+|goals1=
+*[[Eduard Spertsyan|Spertsyan]] {{goal|56}}
+*[[Varazdat Haroyan|Haroyan]] {{goal|87}}
+*[[Tigran Barseghyan|Barseghyan]] {{goal|89|pen.}}
+|goals2=
+*[[Alexandru Cicâldău|Cicâldău]] {{goal|62||72}}
+|stadium=[[Vazgen Sargsyan Republican Stadium]], [[Yerevan]]
+|attendance=4,300<ref>{{UEFA match attendance|2030824|Armenia vs. Romania |date=31 March 2021|access-date=1 April 2021}}</ref>
+|referee=[[Andris Treimanis]] ([[Latvian Football Federation|Latvia]])
+}}
+{{Football box
+|id=Germany v North Macedonia
+|date={{Start date|2021|3|31|df=y}}
+|time=20:45
+|team1={{fb-rt|GER}}
+|score=1–2
+|report=[https://www.fifa.com/tournaments/mens/worldcup/qatar2022/qualifiers/uefa/match-center/400155754 Report (FIFA)]<br />[https://www.uefa.com/european-qualifiers/match/2030825/ Report (UEFA)]
+|team2={{fb|MKD}}
+|goals1=
+*[[İlkay Gündoğan|Gündoğan]] {{goal|63|pen.}}
+|goals2=
+*[[Goran Pandev|Pandev]] {{goal|45+2}}
+*[[Elif Elmas|Elmas]] {{goal|85}}
+|stadium=[[MSV-Arena]], [[Duisburg]]
+|attendance=0<ref>{{UEFA match attendance|2030825|Germany vs. North Macedonia |date=31 March 2021|access-date=1 April 2021}}</ref>{{refn|group=note|name=Behind closed doors}}
+|referee=[[Sergei Karasev]] ([[Russian Football Union|Russia]])
+}}
+{{Football box
+|id=Liechtenstein v Iceland
+|date={{Start date|2021|3|31|df=y}}
+|time=20:45
+|team1={{fb-rt|LIE}}
+|score=1–4
+|report=[https://www.fifa.com/tournaments/mens/worldcup/qatar2022/qualifiers/uefa/match-center/400155759 Report (FIFA)]<br />[https://www.uefa.com/european-qualifiers/match/2030836/ Report (UEFA)]
+|team2={{fb|ISL}}
+|goals1=
+*[[Yanik Frick|Y. Frick]] {{goal|79}}
+|goals2=
+*[[Birkir Már Sævarsson|Sævarsson]] {{goal|12}}
+*[[Birkir Bjarnason|Bi. Bjarnason]] {{goal|45+1}}
+*[[Victor Pálsson|Pálsson]] {{goal|77}}
+*[[Rúnar Már Sigurjónsson|Sigurjónsson]] {{goal|90+4|pen.}}
+|stadium=[[Rheinpark Stadion]], [[Vaduz]]
+|attendance=0<ref>{{UEFA match attendance|2030836|Liechtenstein vs. Iceland |date=31 March 2021|access-date=1 April 2021}}</ref>{{refn|group=note|name=Behind closed doors}}
+|referee=[[Mohammed Al-Hakim]] ([[Swedish Football Association|Sweden]])
+}}
+----
+{{Football box
+|id=Iceland v Romania
+|date={{Start date|2021|9|2|df=y}}
+|time=20:45 {{small|(18:45 [[UTC±00:00|UTC±0]])}}
+|team1={{fb-rt|ISL}}
+|score=0–2
+|report=[https://www.fifa.com/tournaments/mens/worldcup/qatar2022/qualifiers/uefa/match-center/400155748 Report (FIFA)]<br />[https://www.uefa.com/european-qualifiers/match/2030851/ Report (UEFA)]
+|team2={{fb|ROU}}
+|goals1=
+|goals2=
+*[[Dennis Man|Man]] {{goal|47}}
+*[[Nicolae Stanciu (footballer, born 1993)|Stanciu]] {{goal|83}}
+|stadium=[[Laugardalsvöllur]], [[Reykjavík]]
+|attendance=1,961<ref>{{UEFA match attendance|2030851|Iceland vs. Romania |date=2 September 2021|access-date=2 September 2021}}</ref>
+|referee=[[Aleksei Kulbakov]] ([[Football Federation of Belarus|Belarus]])
+}}
+{{Football box
+|id=Liechtenstein v Germany
+|date={{Start date|2021|9|2|df=y}}
+|time=20:45
+|team1={{fb-rt|LIE}}
+|score=0–2
+|report=[https://www.fifa.com/tournaments/mens/worldcup/qatar2022/qualifiers/uefa/match-center/400155751 Report (FIFA)]<br />[https://www.uefa.com/european-qualifiers/match/2030861/ Report (UEFA)]
+|team2={{fb|GER}}
+|goals1=
+|goals2=
+*[[Timo Werner|Werner]] {{goal|41}}
+*[[Leroy Sané|Sané]] {{goal|77}}
+|stadium=[[Kybunpark]], [[St. Gallen]] (Switzerland){{refn|group=note|Liechtenstein played their home match against Germany at Kybunpark in St. Gallen, Switzerland, instead of their regular home stadium, the [[Rheinpark Stadion]] in [[Vaduz]], which was being renovated.<ref>{{cite web |url=https://www.lfv.li/news?tx_news_pi1%5Baction%5D=detail&tx_news_pi1%5Bcontroller%5D=News&tx_news_pi1%5Bnews%5D=1646&cHash=1426e0ff0a5b5540833975bc251a3649 |title=Heimspiel gegen Deutschland in St. Gallen |trans-title=Home match against Germany in St. Gallen |website=lfv.li |publisher=[[Liechtenstein Football Association]] |date=15 January 2021 |access-date=27 February 2021 |language=de}}</ref>}}
+|attendance=7,958<ref>{{UEFA match attendance|2030861|Liechtenstein vs. Germany |date=2 September 2021|access-date=2 September 2021}}</ref>
+|referee=[[Fábio Veríssimo]] ([[Portuguese Football Federation|Portugal]])
+}}
+{{Football box
+|id=North Macedonia v Armenia
+|date={{Start date|2021|9|2|df=y}}
+|time=20:45
+|team1={{fb-rt|MKD}}
+|score=0–0
+|report=[https://www.fifa.com/tournaments/mens/worldcup/qatar2022/qualifiers/uefa/match-center/400155771 Report (FIFA)]<br />[https://www.uefa.com/european-qualifiers/match/2030860/ Report (UEFA)]
+|team2={{fb|ARM}}
+|goals1=
+|goals2=
+|stadium=[[Toše Proeski Arena]], [[Skopje]]
+|attendance=3,147<ref>{{UEFA match attendance|2030860|North Macedonia vs. Armenia |date=2 September 2021|access-date=2 September 2021}}</ref>
+|referee=[[Artur Soares Dias]] ([[Portuguese Football Federation|Portugal]])
+}}
+----
+{{Football box
+|id=Iceland v North Macedonia
+|date={{Start date|2021|9|5|df=y}}
+|time=18:00 {{small|(16:00 [[UTC±00:00|UTC±0]])}}
+|team1={{fb-rt|ISL}}
+|score=2–2
+|report=[https://www.fifa.com/tournaments/mens/worldcup/qatar2022/qualifiers/uefa/match-center/400155745 Report (FIFA)]<br />[https://www.uefa.com/european-qualifiers/match/2030876/ Report (UEFA)]
+|team2={{fb|MKD}}
+|goals1=
+*[[Brynjar Ingi Bjarnason|Br. Bjarnason]] {{goal|78}}
+*[[Andri Guðjohnsen|Guðjohnsen]] {{goal|84}}
+|goals2=
+*[[Darko Velkovski|Velkovski]] {{goal|12}}
+*[[Ezgjan Alioski|Alioski]] {{goal|54}}
+|stadium=[[Laugardalsvöllur]], [[Reykjavík]]
+|attendance=1,862<ref>{{UEFA match attendance|2030876|Iceland vs. North Macedonia |date=5 September 2021|access-date=5 September 2021}}</ref>
+|referee=[[Ivan Kružliak]] ([[Slovak Football Association|Slovakia]])
+}}
+{{Football box
+|id=Germany v Armenia
+|date={{Start date|2021|9|5|df=y}}
+|time=20:45
+|team1={{fb-rt|GER}}
+|score=6–0
+|report=[https://www.fifa.com/tournaments/mens/worldcup/qatar2022/qualifiers/uefa/match-center/400155756 Report (FIFA)]<br />[https://www.uefa.com/european-qualifiers/match/2030881/ Report (UEFA)]
+|team2={{fb|ARM}}
+|goals1=
+*[[Serge Gnabry|Gnabry]] {{goal|6||15}}
+*[[Marco Reus|Reus]] {{goal|35}}
+*[[Timo Werner|Werner]] {{goal|45}}
+*[[Jonas Hofmann|Hofmann]] {{goal|52}}
+*[[Karim Adeyemi|Adeyemi]] {{goal|90+1}}
+|goals2=
+|stadium=[[Mercedes-Benz Arena (Stuttgart)|Mercedes-Benz Arena]], [[Stuttgart]]
+|attendance=18,086<ref>{{UEFA match attendance|2030881|Germany vs. Armenia |date=5 September 2021|access-date=5 September 2021}}</ref>
+|referee=[[William Collum]] ([[Scottish Football Association|Scotland]])
+}}
+{{Football box
+|id=Romania v Liechtenstein
+|date={{Start date|2021|9|5|df=y}}
+|time=20:45 {{small|(21:45 [[UTC+03:00|UTC+3]])}}
+|team1={{fb-rt|ROU}}
+|score=2–0
+|report=[https://www.fifa.com/tournaments/mens/worldcup/qatar2022/qualifiers/uefa/match-center/400155766 Report (FIFA)]<br />[https://www.uefa.com/european-qualifiers/match/2030886/ Report (UEFA)]
+|team2={{fb|LIE}}
+|goals1=
+*[[Alin Toșca|Toșca]] {{goal|11}}
+*[[Cristian Manea|Manea]] {{goal|18}}
+|goals2=
+|stadium=[[Arena Națională]], [[Bucharest]]
+|attendance=9,404<ref>{{UEFA match attendance|2030886|Romania vs. Liechtenstein |date=5 September 2021|access-date=5 September 2021}}</ref>
+|referee=[[Kateryna Monzul]] ([[Ukrainian Association of Football|Ukraine]])
+}}
+----
+{{Football box
+|id=Armenia v Liechtenstein
+|date={{Start date|2021|9|8|df=y}}
+|time=18:00 {{small|(20:00 [[UTC+04:00|UTC+4]])}}
+|team1={{fb-rt|ARM}}
+|score=1–1
+|report=[https://www.fifa.com/tournaments/mens/worldcup/qatar2022/qualifiers/uefa/match-center/400155747 Report (FIFA)]<br />[https://www.uefa.com/european-qualifiers/match/2030900/ Report (UEFA)]
+|team2={{fb|LIE}}
+|goals1=
+*[[Henrikh Mkhitaryan|Mkhitaryan]] {{goal|45+5|pen.}}
+|goals2=
+*[[Noah Frick|N. Frick]] {{goal|80}}
+|stadium=[[Vazgen Sargsyan Republican Stadium]], [[Yerevan]]
+|attendance=14,400<ref>{{UEFA match attendance|2030900|Armenia vs. Liechtenstein |date=8 September 2021|access-date=8 September 2021}}</ref>
+|referee=[[Duje Strukan]] ([[Croatian Football Federation|Croatia]])
+}}
+{{Football box
+|id=Iceland v Germany
+|date={{Start date|2021|9|8|df=y}}
+|time=20:45 {{small|(18:45 [[UTC±00:00|UTC±0]])}}
+|team1={{fb-rt|ISL}}
+|score=0–4
+|report=[https://www.fifa.com/tournaments/mens/worldcup/qatar2022/qualifiers/uefa/match-center/400155761 Report (FIFA)]<br />[https://www.uefa.com/european-qualifiers/match/2030902/ Report (UEFA)]
+|team2={{fb|GER}}
+|goals1=
+|goals2=
+*[[Serge Gnabry|Gnabry]] {{goal|4}}
+*[[Antonio Rüdiger|Rüdiger]] {{goal|24}}
+*[[Leroy Sané|Sané]] {{goal|56}}
+*[[Timo Werner|Werner]] {{goal|89}}
+|stadium=[[Laugardalsvöllur]], [[Reykjavík]]
+|attendance=3,505<ref>{{UEFA match attendance|2030902|Iceland vs. Germany |date=8 September 2021|access-date=8 September 2021}}</ref>
+|referee=[[Andreas Ekberg]] ([[Swedish Football Association|Sweden]])
+}}
+{{Football box
+|id=North Macedonia v Romania
+|date={{Start date|2021|9|8|df=y}}
+|time=20:45
+|team1={{fb-rt|MKD}}
+|score=0–0
+|report=[https://www.fifa.com/tournaments/mens/worldcup/qatar2022/qualifiers/uefa/match-center/400155767 Report (FIFA)]<br />[https://www.uefa.com/european-qualifiers/match/2030911/ Report (UEFA)]
+|team2={{fb|ROU}}
+|goals1=
+|goals2=
+|stadium=[[Toše Proeski Arena]], [[Skopje]]
+|attendance=5,260<ref>{{UEFA match attendance|2030911|North Macedonia vs. Romania |date=8 September 2021|access-date=8 September 2021}}</ref>
+|referee=[[Antonio Mateu Lahoz]] ([[Royal Spanish Football Federation|Spain]])
+}}
+----
+{{Football box
+|id=Germany v Romania
+|date={{Start date|2021|10|8|df=y}}
+|time=20:45
+|team1={{fb-rt|GER}}
+|score=2–1
+|report=[https://www.fifa.com/tournaments/mens/worldcup/qatar2022/qualifiers/uefa/match-center/400155742 Report (FIFA)]<br />[https://www.uefa.com/european-qualifiers/match/2030912/ Report (UEFA)]
+|team2={{fb|ROU}}
+|goals1=
+*[[Serge Gnabry|Gnabry]] {{goal|52}}
+*[[Thomas Müller|Müller]] {{goal|81}}
+|goals2=
+*[[Ianis Hagi|Hagi]] {{goal|9}}
+|stadium=[[Volksparkstadion]], [[Hamburg]]
+|attendance=25,000<ref>{{UEFA match attendance|2030912|Germany vs. Romania |date=8 October 2021|access-date=8 October 2021}}</ref>
+|referee=[[Cüneyt Çakır]] ([[Turkish Football Federation|Turkey]])
+}}
+{{Football box
+|id=Iceland v Armenia
+|date={{Start date|2021|10|8|df=y}}
+|time=20:45 {{small|(18:45 [[UTC±00:00|UTC±0]])}}
+|team1={{fb-rt|ISL}}
+|score=1–1
+|report=[https://www.fifa.com/tournaments/mens/worldcup/qatar2022/qualifiers/uefa/match-center/400155762 Report (FIFA)]<br />[https://www.uefa.com/european-qualifiers/match/2030913/ Report (UEFA)]
+|team2={{fb|ARM}}
+|goals1=
+*[[Ísak Bergmann Jóhannesson|Jóhannesson]] {{goal|77}}
+|goals2=
+*[[Kamo Hovhannisyan|Hovhannisyan]] {{goal|35}}
+|stadium=[[Laugardalsvöllur]], [[Reykjavík]]
+|attendance=1,697<ref>{{UEFA match attendance|2030913|Iceland vs. Armenia |date=8 October 2021|access-date=8 October 2021}}</ref>
+|referee=[[Nikola Dabanović]] ([[Football Association of Montenegro|Montenegro]])
+}}
+{{Football box
+|id=Liechtenstein v North Macedonia
+|date={{Start date|2021|10|8|df=y}}
+|time=20:45
+|team1={{fb-rt|LIE}}
+|score=0–4
+|report=[https://www.fifa.com/tournaments/mens/worldcup/qatar2022/qualifiers/uefa/match-center/400155765 Report (FIFA)]<br />[https://www.uefa.com/european-qualifiers/match/2030921/ Report (UEFA)]
+|team2={{fb|MKD}}
+|goals1=
+|goals2=
+*[[Darko Velkovski|Velkovski]] {{goal|39}}
+*[[Ezgjan Alioski|Alioski]] {{goal|66|pen.}}
+*[[Boban Nikolov|Nikolov]] {{goal|74}}
+*[[Darko Churlinov|Churlinov]] {{goal|83}}
+|stadium=[[Rheinpark Stadion]], [[Vaduz]]
+|attendance=1,628<ref>{{UEFA match attendance|2030921|Liechtenstein vs. North Macedonia |date=8 October 2021|access-date=8 October 2021}}</ref>
+|referee=[[Bartosz Frankowski]] ([[Polish Football Association|Poland]])
+}}
+----
+{{Football box
+|id=Iceland v Liechtenstein
+|date={{Start date|2021|10|11|df=y}}
+|time=20:45 {{small|(18:45 [[UTC±00:00|UTC±0]])}}
+|team1={{fb-rt|ISL}}
+|score=4–0
+|report=[https://www.fifa.com/tournaments/mens/worldcup/qatar2022/qualifiers/uefa/match-center/400155752 Report (FIFA)]<br />[https://www.uefa.com/european-qualifiers/match/2030938/ Report (UEFA)]
+|team2={{fb|LIE}}
+|goals1=
+*[[Stefán Teitur Þórðarson|Þórðarson]] {{goal|19}}
+*[[Albert Guðmundsson (footballer, born 1997)|Guðmundsson]] {{goal|35|pen.|79|pen.}}
+*[[Andri Guðjohnsen|Guðjohnsen]] {{goal|89}}
+|goals2=
+|stadium=[[Laugardalsvöllur]], [[Reykjavík]]
+|attendance=4,461<ref>{{UEFA match attendance|2030938|Iceland vs. Liechtenstein |date=11 October 2021|access-date=11 October 2021}}</ref>
+|referee=[[Ioannis Papadopoulos (referee)|Ioannis Papadopoulos]] ([[Hellenic Football Federation|Greece]])
+}}
+{{Football box
+|id=North Macedonia v Germany
+|date={{Start date|2021|10|11|df=y}}
+|time=20:45
+|team1={{fb-rt|MKD}}
+|score=0–4
+|report=[https://www.fifa.com/tournaments/mens/worldcup/qatar2022/qualifiers/uefa/match-center/400155757 Report (FIFA)]<br />[https://www.uefa.com/european-qualifiers/match/2030947/ Report (UEFA)]
+|team2={{fb|GER}}
+|goals1=
+|goals2=
+*[[Kai Havertz|Havertz]] {{goal|50}}
+*[[Timo Werner|Werner]] {{goal|70||73}}
+*[[Jamal Musiala|Musiala]] {{goal|83}}
+|stadium=[[Toše Proeski Arena]], [[Skopje]]
+|attendance=16,182<ref>{{UEFA match attendance|2030947|North Macedonia vs. Germany |date=11 October 2021|access-date=11 October 2021}}</ref>
+|referee=[[Danny Makkelie]] ([[Royal Dutch Football Association|Netherlands]])
+}}
+{{Football box
+|id=Romania v Armenia
+|date={{Start date|2021|10|11|df=y}}
+|time=20:45 {{small|(21:45 [[UTC+03:00|UTC+3]])}}
+|team1={{fb-rt|ROU}}
+|score=1–0
+|report=[https://www.fifa.com/tournaments/mens/worldcup/qatar2022/qualifiers/uefa/match-center/400155768 Report (FIFA)]<br />[https://www.uefa.com/european-qualifiers/match/2030944/ Report (UEFA)]
+|team2={{fb|ARM}}
+|goals1=
+*[[Alexandru Mitriță|Mitriță]] {{goal|26}}
+|goals2=
+|stadium=[[Stadionul Steaua (2021)|Stadionul Steaua]], [[Bucharest]]
+|attendance=13,576<ref>{{UEFA match attendance|2030944|Romania vs. Armenia |date=11 October 2021|access-date=11 October 2021}}</ref>
+|referee=[[Daniele Orsato]] ([[Italian Football Federation|Italy]])
+}}
+----
+{{Football box
+|id=Armenia v North Macedonia
+|date={{Start date|2021|11|11|df=y}}
+|time=18:00 {{small|(21:00 [[UTC+04:00|UTC+4]])}}
+|team1={{fb-rt|ARM}}
+|score=0–5
+|report=[https://www.fifa.com/tournaments/mens/worldcup/qatar2022/qualifiers/uefa/match-center/400155749 Report (FIFA)]<br />[https://www.uefa.com/european-qualifiers/match/2030965/ Report (UEFA)]
+|team2={{fb|MKD}}
+|goals1=
+|goals2=
+*[[Aleksandar Trajkovski|Trajkovski]] {{goal|22}}
+*[[Enis Bardhi|Bardhi]] {{goal|36||67|pen.|90|pen.}}
+*[[Milan Ristovski|Ristovski]] {{goal|79}}
+|stadium=[[Vazgen Sargsyan Republican Stadium]], [[Yerevan]]
+|attendance=7,200<ref>{{UEFA match attendance|2030965|Armenia vs. North Macedonia |date=11 November 2021|access-date=11 November 2021}}</ref>
+|referee=[[José María Sánchez Martínez]] ([[Royal Spanish Football Federation|Spain]])
+}}
+{{Football box
+|id=Germany v Liechtenstein
+|date={{Start date|2021|11|11|df=y}}
+|time=20:45
+|team1={{fb-rt|GER}}
+|score=9–0
+|report=[https://www.fifa.com/tournaments/mens/worldcup/qatar2022/qualifiers/uefa/match-center/400155763 Report (FIFA)]<br />[https://www.uefa.com/european-qualifiers/match/2030966/ Report (UEFA)]
+|team2={{fb|LIE}}
+|goals1=
+*[[İlkay Gündoğan|Gündoğan]] {{goal|11|pen.}}
+*[[Daniel Kaufmann (footballer)|Kaufmann]] {{goal|20|o.g.}}
+*[[Leroy Sané|Sané]] {{goal|22||49}}
+*[[Marco Reus|Reus]] {{goal|23}}
+*[[Thomas Müller|Müller]] {{goal|76||86}}
+*[[Ridle Baku|Baku]] {{goal|80}}
+*[[Maximilian Göppel|Göppel]] {{goal|89|o.g.}}
+|goals2=
+|stadium=[[Volkswagen Arena]], [[Wolfsburg]]
+|attendance=25,984<ref>{{UEFA match attendance|2030966|Germany vs. Liechtenstein |date=11 November 2021|access-date=11 November 2021}}</ref>
+|referee=[[Ivana Martinčić]] ([[Croatian Football Federation|Croatia]])
+}}
+{{Football box
+|id=Romania v Iceland
+|date={{Start date|2021|11|11|df=y}}
+|time=20:45 {{small|(21:45 [[UTC+02:00|UTC+2]])}}
+|team1={{fb-rt|ROU}}
+|score=0–0
+|report=[https://www.fifa.com/tournaments/mens/worldcup/qatar2022/qualifiers/uefa/match-center/400155743 Report (FIFA)]<br />[https://www.uefa.com/european-qualifiers/match/2030970/ Report (UEFA)]
+|team2={{fb|ISL}}
+|goals1=
+|goals2=
+|stadium=[[Stadionul Steaua (2021)|Stadionul Steaua]], [[Bucharest]]
+|attendance=0<ref>{{UEFA match attendance|2030970|Romania vs. Iceland |date=11 November 2021|access-date=11 November 2021}}</ref>{{refn|group=note|name=Behind closed doors}}
+|referee=[[Sergei Karasev]] ([[Russian Football Union|Russia]])
+}}
+----
+{{Football box
+|id=Armenia v Germany
+|date={{Start date|2021|11|14|df=y}}
+|time=18:00 {{small|(21:00 [[UTC+04:00|UTC+4]])}}
+|team1={{fb-rt|ARM}}
+|score=1–4
+|report=[https://www.fifa.com/tournaments/mens/worldcup/qatar2022/qualifiers/uefa/match-center/400155753 Report (FIFA)]<br />[https://www.uefa.com/european-qualifiers/match/2030988/ Report (UEFA)]
+|team2={{fb|GER}}
+|goals1=
+*[[Henrikh Mkhitaryan|Mkhitaryan]] {{goal|59|pen.}}
+|goals2=
+*[[Kai Havertz|Havertz]] {{goal|15}}
+*[[İlkay Gündoğan|Gündoğan]] {{goal|45+4|pen.|50}}
+*[[Jonas Hofmann|Hofmann]] {{goal|64}}
+|stadium=[[Vazgen Sargsyan Republican Stadium]], [[Yerevan]]
+|attendance=12,800<ref>{{UEFA match attendance|2030988|Armenia vs. Germany |date=14 November 2021|access-date=14 November 2021}}</ref>
+|referee=[[François Letexier]] ([[French Football Federation|France]])
+}}
+{{Football box
+|id=Liechtenstein v Romania
+|date={{Start date|2021|11|14|df=y}}
+|time=18:00
+|team1={{fb-rt|LIE}}
+|score=0–2
+|report=[https://www.fifa.com/tournaments/mens/worldcup/qatar2022/qualifiers/uefa/match-center/400155758 Report (FIFA)]<br />[https://www.uefa.com/european-qualifiers/match/2030989/ Report (UEFA)]
+|team2={{fb|ROU}}
+|goals1=
+|goals2=
+*[[Dennis Man|Man]] {{goal|8}}
+*[[Nicușor Bancu|Bancu]] {{goal|87}}
+|stadium=[[Rheinpark Stadion]], [[Vaduz]]
+|attendance=2,237<ref>{{UEFA match attendance|2030989|Liechtenstein vs. Romania |date=14 November 2021|access-date=14 November 2021}}</ref>
+|referee=[[Matej Jug]] ([[Football Association of Slovenia|Slovenia]])
+}}
+{{Football box
+|id=North Macedonia v Iceland
+|date={{Start date|2021|11|14|df=y}}
+|time=18:00
+|team1={{fb-rt|MKD}}
+|score=3–1
+|report=[https://www.fifa.com/tournaments/mens/worldcup/qatar2022/qualifiers/uefa/match-center/400155746 Report (FIFA)]<br />[https://www.uefa.com/european-qualifiers/match/2030987/ Report (UEFA)]
+|team2={{fb|ISL}}
+|goals1=
+*[[Ezgjan Alioski|Alioski]] {{goal|7}}
+*[[Elif Elmas|Elmas]] {{goal|65||86}}
+|goals2=
+*[[Jón Dagur Þorsteinsson|Þorsteinsson]] {{goal|54}}
+|stadium=[[Toše Proeski Arena]], [[Skopje]]
+|attendance=15,986<ref>{{UEFA match attendance|2030987|North Macedonia vs. Iceland |date=14 November 2021|access-date=14 November 2021}}</ref>
+|referee=[[Davide Massa]] ([[Italian Football Federation|Italy]])
+}}
+
+==Goalscorers==
+{{#invoke:Goalscorers|main|2022 FIFA World Cup qualification (UEFA)|round=group|group=J}}<!--CAREFULLY update goalscorers at Module:Goalscorers/data/2022 FIFA World Cup qualification (UEFA)-->
+
+==Discipline==
+A player was automatically suspended for the next match for the following offences:<ref name="regulations">{{cite web |url=https://digitalhub.fifa.com/m/517ef2ad2bc3665e/original/ytkbpnxyvcghx6bebesv-pdf.pdf |title=Regulations FIFA World Cup 2022 Preliminary Competition |website=FIFA.com |publisher=Fédération Internationale de Football Association |format=PDF |year=2020 |access-date=7 December 2020}}</ref>
+* Receiving a red card (red card suspensions could be extended for serious offences)
+* Receiving two yellow cards in two different matches (yellow card suspensions were carried forward to the play-offs, but not the finals or any other future international matches)
+The following suspensions were served during the qualifying matches:
+
+{|class="wikitable" style="font-size:90%"
+|-
+!Team
+!Player
+!Offence(s)
+!Suspended for match(es)
+|-
+|rowspan=7|{{fb|ARM}} ||[[Sargis Adamyan]] ||{{yel}} vs Liechtenstein (25 March 2021)<br>{{yel}} vs Romania (11 October 2021) ||vs North Macedonia (11 November 2021)
+|-
+|[[Tigran Barseghyan]] ||{{yel}} vs Iceland (28 March 2021)<br>{{yel}} vs Romania (31 March 2021) ||rowspan=3|vs North Macedonia (2 September 2021)
+|-
+|[[Khoren Bayramyan]] ||{{yel}} vs Liechtenstein (25 March 2021)<br>{{yel}} vs Romania (31 March 2021)
+|-
+|rowspan=2|[[Varazdat Haroyan]] ||{{yel}} vs Iceland (28 March 2021)<br>{{yel}} vs Romania (31 March 2021)
+|-
+|{{yel}} vs Germany (5 September 2021)<br>{{yel}} vs Romania (11 October 2021) ||rowspan=3|vs North Macedonia (11 November 2021)
+|-
+|[[Eduard Spertsyan]] ||{{yel}} vs Iceland (8 October 2021)<br>{{yel}} vs Romania (11 October 2021)
+|-
+|[[Taron Voskanyan]] ||{{yel}} vs North Macedonia (2 September 2021)<br>{{yel}} vs Romania (11 October 2021)
+|-
+|rowspan=2|{{fb|GER}} ||[[Kai Havertz]] ||{{yel}} vs Iceland (25 March 2021)<br>{{yel}} vs North Macedonia (11 October 2021) ||vs Liechtenstein (11 November 2021)
+|-
+|[[Antonio Rüdiger]] ||{{yel}} vs North Macedonia (31 March 2021)<br>{{yel}} vs Liechtenstein (11 November 2021) ||vs Armenia (14 November 2021)
+|-
+|rowspan=5|{{fb|ISL}} ||[[Albert Guðmundsson (footballer, born 1997)|Albert Guðmundsson]] ||{{yel}} vs Germany (25 March 2021)<br>{{yel}} vs Armenia (28 March 2021) ||vs Liechtenstein (31 March 2021)
+|-
+|[[Ísak Bergmann Jóhannesson]] ||{{yel}} vs Romania (2 September 2021)<br>{{yel}} vs Armenia (8 October 2021) ||vs Liechtenstein (11 October 2021)
+|-
+|rowspan=2|[[Birkir Már Sævarsson]] ||{{sent off|2}} vs England in [[2020–21 UEFA Nations League]] (18 November 2020) ||vs Germany (25 March 2021)<ref>{{cite web |url=https://editorial.uefa.com/resources/0267-11dfdf89f41c-bb5a45afaa07-1000/fifa_eq_booking_list_before_md1_20210324170843.pdf |title=Disciplinary matters |website=UEFA.com |date=24 March 2021 |access-date=24 March 2021}}</ref>
+|-
+|{{yel}} vs North Macedonia (5 September 2021)<br>{{yel}} vs Armenia (8 October 2021) ||rowspan=2|vs Liechtenstein (11 October 2021)
+|-
+|[[Ari Freyr Skúlason]] ||{{yel}} vs Armenia (28 March 2021)<br>{{yel}} vs Armenia (8 October 2021)
+|-
+|rowspan=5|{{fb|LIE}} ||[[Noah Frommelt]] ||{{yel}} vs North Macedonia (28 March 2021)<br>{{yel}} vs Armenia (8 September 2021) ||vs North Macedonia (8 October 2021)
+|-
+|[[Jens Hofer]] ||{{sent off|0}} vs Germany (11 November 2021) ||vs Romania (14 November 2021)
+|-
+|[[Daniel Kaufmann (footballer)|Daniel Kaufmann]] ||{{yel}} vs Armenia (8 September 2021)<br>{{yel}} vs North Macedonia (8 October 2021) ||vs Iceland (11 October 2021)
+|-
+|[[Martin Marxer]] ||{{sent off|2}} vs Iceland (11 October 2021) ||vs Germany (11 November 2021)
+|-
+|[[Fabio Wolfinger]] ||{{yel}} vs North Macedonia (28 March 2021)<br>{{yel}} vs North Macedonia (8 October 2021) ||vs Iceland (11 October 2021)
+|-
+|rowspan=5|{{fb|MKD}} ||[[Tihomir Kostadinov]] ||rowspan=2|{{yel}} vs Armenia (2 September 2021)<br>{{yel}} vs Romania (8 September 2021) ||rowspan=2|vs Liechtenstein (8 October 2021)
+|-
+|[[Visar Musliu]]
+|-
+|[[Goran Pandev]] ||{{yel}} vs Romania (25 March 2021)<br>{{yel}} vs Germany (31 March 2021) ||vs Armenia (2 September 2021)
+|-
+|[[Milan Ristovski]] ||{{yel}} vs Romania (8 September 2021)<br>{{yel}} vs Liechtenstein (8 October 2021) ||vs Germany (11 October 2021)
+|-
+|[[Stefan Ristovski]] ||{{yel}} vs Iceland (5 September 2021)<br>{{yel}} vs Germany (11 October 2021) ||vs Armenia (11 November 2021)
+|-
+|rowspan=7|{{fb|ROU}} ||[[Nicușor Bancu]] ||rowspan=2|{{yel}} vs North Macedonia (25 March 2021)<br>{{yel}} vs Armenia (31 March 2021) ||rowspan=2|vs Iceland (2 September 2021)
+|-
+|[[Alexandru Maxim]]
+|-
+|[[Valentin Mihăilă]] ||{{yel}} vs North Macedonia (25 March 2021)<br>{{yel}} vs Armenia (11 October 2021) ||vs Iceland (11 November 2021)
+|-
+|[[Dragoș Nedelcu]] ||{{yel}} vs Iceland (2 September 2021)<br>{{yel}} vs North Macedonia (8 September 2021) ||vs Germany (8 October 2021)
+|-
+|rowspan=2|[[George Pușcaș]] ||{{sent off|0}} vs Armenia (31 March 2021) ||vs Iceland (2 September 2021)<br>vs Liechtenstein (5 September 2021)<ref>{{cite web |url=https://editorial.uefa.com/resources/026c-12fb25f711c9-fd6859a07b41-1000/fifa_wc_eq_all_groups_before_md4.pdf |title=Booking list |website=UEFA.com |date=10 August 2021 |access-date=1 September 2021}}</ref>
+|-
+|{{yel}} vs Armenia (31 March 2021)<br>{{yel}} vs Germany (8 October 2021) ||vs Armenia (11 October 2021)
+|-
+|[[Andrei Rațiu]] ||{{yel}} vs Germany (8 October 2021)<br>{{yel}} vs Iceland (11 November 2021) ||vs Liechtenstein (14 November 2021)
+|}
+
+==Notes==
+{{reflist|group=note}}
+
+==References==
+{{reflist}}
+
+==External links==
+*{{Official website|https://www.fifa.com/tournaments/mens/worldcup/qatar2022/qualifiers|Official FIFA World Cup website}}
+*[https://www.fifa.com/tournaments/mens/worldcup/qatar2022/qualifiers/uefa Qualifiers – Europe], FIFA.com
+*[https://www.uefa.com/european-qualifiers/ European Qualifiers], UEFA.com
+
+{{2022 FIFA World Cup qualification}}
+
+{{DEFAULTSORT:World Cup qualifying}}
+[[Category:2022 FIFA World Cup qualification (UEFA)|Group J]]
+[[Category:2020–21 in Armenian football]]
+[[Category:2021–22 in Armenian football]]
+[[Category:2020–21 in German football]]
+[[Category:2021–22 in German football]]
+[[Category:Germany at the 2022 FIFA World Cup]]
+[[Category:2021 in Icelandic football]]
+[[Category:2020–21 in Liechtenstein football]]
+[[Category:2021–22 in Liechtenstein football]]
+[[Category:2020–21 in North Macedonia football]]
+[[Category:2021–22 in North Macedonia football]]
+[[Category:2020–21 in Romanian football]]
+[[Category:2021–22 in Romanian football]]

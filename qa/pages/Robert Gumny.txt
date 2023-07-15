@@ -1,0 +1,224 @@
+{{short description|Polish footballer}}
+{{Use dmy dates|date=August 2020}}
+{{Infobox football biography
+| name = Robert Gumny
+| image = Robert Gumny 2017.jpg
+| fullname = Robert Krzysztof Gumny<ref name="FIFA 2022">{{cite web |url=https://fdp.fifa.org/assetspublic/ce44/pdf/SquadLists-English.pdf |title=FIFA World Cup Qatar 2022 – Squad list: Poland (POL) |publisher=[[FIFA]] |page=21 |date=15 November 2022 |access-date=15 November 2022}}</ref>
+| birth_date = {{birth date and age|df=yes|1998|6|4}}
+| birth_place = [[Poznań]], Poland
+| height = 1.82 m<ref>{{cite web |url=https://www.fcaugsburg.de/en/team/player/robert-gumny-1-139 |title=Robert Gumny |publisher=FC Augsburg |access-date=1 September 2022}}</ref>
+| position = [[Defender (association football)|Defender]]
+| currentclub = [[FC Augsburg]]
+| clubnumber = 2
+| youthyears1 = {{0|0000}}–2016
+| youthclubs1 = [[Lech Poznań]]
+| years1 = 2016–2020
+| caps1 = 12
+| goals1 = 1
+| clubs1 = [[Lech Poznań II]]
+| years2 = 2016–2020
+| caps2 = 84
+| goals2 = 2
+| clubs2 = [[Lech Poznań]]
+| years3 = 2016–2017
+| caps3 = 14
+| goals3 = 2
+| clubs3 = → [[Podbeskidzie Bielsko-Biała|Podbeskidzie]] (loan)
+| years4 = 2020–
+| caps4 = 81
+| goals4 = 2
+| clubs4 = [[FC Augsburg]]
+| nationalyears1 = 2015
+| nationalteam1 = [[Poland national under-17 football team|Poland U17]]
+| nationalcaps1 = 4
+| nationalgoals1 = 0
+| nationalyears2 = 2015–2016
+| nationalteam2 = [[Poland national under-18 football team|Poland U18]]
+| nationalcaps2 = 2
+| nationalgoals2 = 1
+| nationalyears3 = 2015–2017
+| nationalteam3 = [[Poland national under-19 football team|Poland U19]]
+| nationalcaps3 = 15
+| nationalgoals3 = 0
+| nationalyears4 = 2019–2020
+| nationalteam4 = [[Poland under-21 national football team|Poland U21]]
+| nationalcaps4 = 17
+| nationalgoals4 = 1
+| nationalyears5 = 2020–
+| nationalteam5 = [[Poland national football team|Poland]]
+| nationalcaps5 = 6
+| nationalgoals5 = 0
+| club-update = 27 May 2023
+| nationalteam-update = 14 April 2023
+| caption = Robert Gumny with [[Lech Poznań]] in 2017
+}}
+
+'''Robert Krzysztof Gumny''' (born 4 June 1998) is a Polish professional [[association football|footballer]] who plays as a [[Defender (association football)|defender]] for [[Bundesliga]] club [[FC Augsburg]] and the [[Poland national football team|Poland national team]].
+
+==Club career==
+In September 2020, Gumny joined [[Bundesliga]] club [[FC Augsburg]] on a five-year contract. The transfer fee paid to [[Lech Poznań]] was reported as €2 million plus possible bonuses.<ref>{{cite web |title=Langfristig gebunden: FCA verpflichtet Gumny |url=https://www.kicker.de/783411/artikel/langfristig_gebunden_fca_verpflichtet_gumny |website=kicker |accessdate=2 September 2020 |language=German |date=2 September 2020}}</ref>
+
+==International career==
+He made his debut for [[Poland national football team]] on 11 November 2020 in a friendly game against [[Ukraine national football team|Ukraine]], as a starter.<ref>{{cite web|publisher=[[Eurosport]]|url=https://www.eurosport.com/football/international-friendlies/2020/live-poland-ukraine_mtc1208838/live.shtml|title=Poland v Ukraine game report|date=11 November 2020}}</ref>
+
+==Career statistics==
+
+===Club===
+{{updated|match played 27 May 2023}}
+
+{| class="wikitable" style="text-align: center;"
+|+ Appearances and goals by club, season and competition
+|-
+!rowspan="2"|Club
+!rowspan="2"|Season
+!colspan="3"|League
+!colspan="2"|Cup
+!colspan="2"|[[UEFA|Europe]]
+!colspan="2"|Other{{efn|Includes [[Polish Super Cup]]}}
+!colspan="2"|Total
+|-
+!Division
+!Apps
+!Goals
+!Apps
+!Goals
+!Apps
+!Goals
+!Apps
+!Goals
+!Apps
+!Goals
+|-
+|rowspan="5"|[[Lech Poznań II]]
+|2015–16<ref name="Sezon 2015/16">{{cite web |url=http://www.90minut.pl/wystepy.php?id=27743&id_sezon=87 |title=Sezon 2015/16 |publisher=90minut |accessdate=24 July 2019 |language=Polish}}</ref>
+|[[III liga]]
+|5||0||colspan="2"|—||colspan="2"|—||colspan="2"|—||5||0
+|-
+|2016–17<ref name="Sezon 2016/17">{{cite web |url=http://www.90minut.pl/wystepy.php?id=27743&id_sezon=89 |title=Sezon 2016/17 |publisher=90minut |accessdate=24 July 2019 |language=Polish}}</ref>
+|III liga
+|5||0||colspan="2"|—||colspan="2"|—||colspan="2"|—||5||0
+|-
+|2018–19<ref name="Sezon 2018/19">{{cite web |url=http://www.90minut.pl/wystepy.php?id=27743&id_sezon=93 |title=Sezon 2018/19 |publisher=90minut |accessdate=24 July 2019 |language=Polish}}</ref>
+|III liga
+|1||0||colspan="2"|—||colspan="2"|—||colspan="2"|—||1||0
+|-
+|[[2019–20 II liga|2019–20]]<ref name="Sezon 2019/20">{{cite web |url=http://www.90minut.pl/wystepy.php?id=27743&id_sezon=95 |title=Sezon 2019/20 |publisher=90minut |accessdate=24 July 2019 |language=Polish}}</ref>
+|[[II liga]]
+|1||1||colspan="2"|—||colspan="2"|—||colspan="2"|–||1||1
+|-
+!colspan="2"|Total
+!12||1||colspan="2"|—||colspan="2"|—||colspan="2"|—||12||1
+|-
+|rowspan="7"|[[Lech Poznań]]
+|[[2015–16 Ekstraklasa|2015–16]]<ref name="Sezon 2015/16"/>
+|[[Ekstraklasa]]
+|4||0||1||0||colspan="2"|—||colspan="2"|—||5||0
+|-
+|[[2016–17 Ekstraklasa|2016–17]]<ref name="Sezon 2016/17"/>
+|Ekstraklasa
+|6||0||1||0||colspan="2"|—||1||0||8||0
+|-
+|[[2017–18 Ekstraklasa|2017–18]]<ref name="Sezon 2017/18">{{cite web |url=http://www.90minut.pl/wystepy.php?id=27743&id_sezon=91 |title=Sezon 2017/18 |publisher=90minut |accessdate=24 July 2019 |language=Polish}}</ref>
+|Ekstraklasa
+|33||0||0||0||5||0||colspan="2"|—||38||0
+|-
+|[[2018–19 Ekstraklasa|2018–19]]<ref name="Sezon 2018/19"/>
+|Ekstraklasa
+|19||1||1||0||0||0||colspan="2"|—||20||1
+|-
+|[[2019–20 Ekstraklasa|2019–20]]<ref name="Sezon 2019/20"/>
+|Ekstraklasa
+|21||1||2||0||colspan="2"|—||colspan="2"|–||23||1
+|-
+|[[2020–21 Ekstraklasa|2020–21]]<ref name="Sezon 2020/21">{{cite web |url=http://www.90minut.pl/wystepy.php?id=27743&id_sezon=97 |title=Sezon 2020/21 |publisher=90minut |accessdate=3 September 2020 |language=Polish}}</ref>
+|Ekstraklasa
+|1||0||1||0||1||0||colspan="2"|—||3||0
+|-
+!colspan="2"|Total
+!84||2||6||0||6||0||1||0||97||2
+|-
+|[[Podbeskidzie Bielsko-Biała|Podbeskidzie]] (loan)
+|[[2016–17 I liga|2016–17]]<ref name="Sezon 2016/17"/>
+|[[I liga]]
+|14||2||colspan="2"|—||colspan="2"|—||colspan="2"|—||14||2
+|-
+|rowspan="4"|[[FC Augsburg]]
+|[[2020–21 FC Augsburg season|2020–21]]
+|[[Bundesliga]]
+|24||1||2||0||colspan="2"|—||colspan="2"|—||26||1
+|-
+|[[2021–22 FC Augsburg season|2021–22]]
+|Bundesliga
+|28||0||2||0||colspan="2"|—||colspan="2"|—||30||0
+|-
+|[[2022–23 FC Augsburg season|2022–23]]
+|Bundesliga
+|29||1||1||0||colspan="2"|—||colspan="2"|—||30||1
+|-
+!colspan="2"|Total
+!81||2||5||0||0||0||0||0||86||2
+|-
+!colspan="3"|Career total
+!191!!7!!11!!0!!6!!0!!1!!0!!209!!7
+|}
+{{notelist}}
+
+===International===
+{{updated|match played 16 November 2022|<ref name="NFT">{{NFT player|id=80328|name= Gumny, Robert|accessdate=7 September 2021}}</ref>}}
+
+{| class="wikitable" style="text-align:center"
+|+ Appearances and goals by national team and year
+|-
+!National team!!Year!!Apps!!Goals
+|-
+|rowspan="4"|[[Poland national football team|Poland]]
+|-
+|2020||1||0
+|-
+|2021||1||0
+|-
+|2022||3||0
+|-
+!colspan="2"|Total||5||0
+|}
+
+==Honours==
+
+===Club===
+'''Lech Poznań'''
+* [[Polish Super Cup]]: [[2016 Polish Super Cup|2016]]
+
+==References==
+{{reflist}}
+
+==External links==
+*{{soccerway|robert-gumny/401016}}
+*{{90minut|27743}}
+
+{{FC Augsburg squad}}
+{{Poland squad 2022 FIFA World Cup}}
+
+{{DEFAULTSORT:Gumny, Robert}}
+[[Category:Living people]]
+[[Category:1998 births]]
+[[Category:Footballers from Poznań]]
+[[Category:Polish men's footballers]]
+[[Category:Poland men's youth international footballers]]
+[[Category:Poland men's under-21 international footballers]]
+[[Category:Poland men's international footballers]]
+[[Category:Men's association football defenders]]
+[[Category:Lech Poznań II players]]
+[[Category:Lech Poznań players]]
+[[Category:Podbeskidzie Bielsko-Biała players]]
+[[Category:FC Augsburg players]]
+[[Category:Ekstraklasa players]]
+[[Category:I liga players]]
+[[Category:II liga players]]
+[[Category:III liga players]]
+[[Category:Bundesliga players]]
+[[Category:2022 FIFA World Cup players]]
+[[Category:Polish expatriate men's footballers]]
+[[Category:Expatriate men's footballers in Germany]]
+[[Category:Polish expatriate sportspeople in Germany]]
+
+{{Poland-footy-bio-stub}}

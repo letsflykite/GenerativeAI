@@ -1,0 +1,207 @@
+{{pp|small=yes}}
+{{Current sports transaction|sport=Football|trans=transfer}}
+{{Use dmy dates|date=November 2022}}
+{{short description|Spanish footballer (born 1997)}}
+{{for|the footballer born 1987|Pau Torres (footballer, born 1987)}}
+{{distinguish|Paul Torres}}
+{{family name hatnote|Francisco|Torres|lang=Spanish}}
+{{Infobox football biography
+| name = Pau Torres
+| image = Manchester United v Villarreal CF, 29 September 2021 (22) (cropped).jpg
+| caption = Torres playing for [[Villarreal CF|Villarreal]] in 2021
+| full_name = Pau Francisco Torres<ref>{{cite web|url=https://fdp.fifa.org/assetspublic/ce4/pdf/SquadLists-English.pdf|title=Squad List: Men's Olympic Football Tournament Tokyo 2020: Spain (ESP)|publisher=FIFA|page=16|date=22 July 2021|access-date=28 August 2021}}</ref>
+| birth_date = {{birth date and age|1997|1|16|df=y}}<ref name=Bio>{{cite web|url=https://www.eurosport.com/football/pau-torres_prs483193/person.shtml|title=Pau Torres|publisher=[[Eurosport]]|access-date=12 January 2021}}</ref>
+| birth_place = [[Villarreal]], Spain
+| height = 1.91 m<ref name=Bio/>
+| position = [[Centre-back]]
+| currentclub = [[Villarreal CF|Villarreal]]
+| clubnumber = 4
+| youthyears1 = 2002–2016 | youthclubs1 = [[Villarreal CF|Villarreal]]
+| years1 = 2016–2018 | clubs1 = [[Villarreal CF B|Villarreal B]] | caps1 = 59 | goals1 = 2
+| years2 = 2017– | clubs2 = [[Villarreal CF|Villarreal]] | caps2 = 136 | goals2 = 10
+| years3 = 2018–2019 | clubs3 = → [[Málaga CF|Málaga]] (loan) | caps3 = 38 | goals3 = 1
+| nationalyears1 = 2018 | nationalteam1 = [[Spain national under-21 football team|Spain U21]] | nationalcaps1 = 1 | nationalgoals1 = 0
+| nationalyears2 = 2021 | nationalteam2 = [[Spain national under-23 football team|Spain U23]] | nationalcaps2 = 7 | nationalgoals2 = 0
+| nationalyears3 = 2019– | nationalteam3 = [[Spain national football team|Spain]] | nationalcaps3 = 23 | nationalgoals3 = 1
+| club-update = 23:43, 4 June 2023 (UTC)
+| nationalteam-update = 20:53, 1 December 2022 (UTC)
+| medaltemplates = {{MedalCountry|{{fb|ESP}}}}
+{{MedalSport|Men's [[Association football|Football]]}}
+{{Medal|Comp|[[UEFA Nations League]]}}
+{{Medal|RU|[[2021 UEFA Nations League Finals|2021 Italy]]|}}
+{{MedalCompetition|[[Football at the Summer Olympics|Olympic Games]]}}
+{{MedalSilver|[[Football at the 2020 Summer Olympics|2020 Tokyo]]|[[Football at the 2020 Summer Olympics – Men's team squads#Spain|Team]]}}
+}}
+'''Pau Francisco Torres''' (born 16 January 1997) is a Spanish professional [[Association football|footballer]] who plays as a [[centre-back]] for [[La Liga]] club [[Villarreal CF|Villarreal]] and the [[Spain national football team|Spain national team]].
+
+==Club career==
+Born in [[Villarreal]], [[Province of Castellón]], [[Valencian Community]],<ref>{{cite web|url=https://www.ondacero.es/emisoras/comunidad-valenciana/castellon/deportes/pau-torres-cumple-100-partidos-villarreal_202111046183da8124761b000131b40b.html|title=Pau Torres cumple 100 partidos con el Villarreal|trans-title=Pau Torres celebrates 100 matches with Villarreal|publisher=[[Onda Cero]]|language=es|date=4 November 2021|access-date=3 January 2022}}</ref> Torres played youth football with [[Villarreal CF|Villarreal]]. He made his league debut with [[Villarreal CF B|the reserves]] on 21 August 2016, starting in a 1–0 [[Segunda División B]] away loss against [[UE Cornellà|Cornellà]].<ref>{{cite web|url=https://www.castelloninformacion.com/filial-villarreal-derrota-gol-descuento-cornella-puerto-ocasiones/|title=El Villarreal B se estrenó con derrota en Cornellà con un solitario gol encajado en el minuto 91 (1–0)|trans-title=Villarreal B had losing debut in Cornellà with lone goal against in the 91st minute (1–0)|publisher=Castellón Información|language=es|date=21 August 2016|access-date=18 December 2019}}</ref>
+
+Torres scored his first senior goal on 8 October 2016, the first in a 2–2 home draw with [[CF Badalona|Badalona]].<ref>{{cite web|url=http://www.castelloninformacion.com/filial-villarreal-empate-polemico-goles-anulados-badalona-descuento/|title=Al Villarreal B le anulan dos goles legales ante un Badalona que el empató en el minuto 94 (2–2)|trans-title=Villarreal B have two legal goals disallowed against a Badalona who drew in the 94th minute (2–2)|publisher=Castellón Información|language=es|date=9 October 2016|access-date=18 December 2019}}</ref> His maiden competitive appearance for the first team took place on 20 December, when he came on as a late [[Substitute (association football)|substitute]] for [[Víctor Ruiz (footballer, born 1989)|Víctor Ruiz]] in the 1–1 home draw against [[CD Toledo|Toledo]] in [[2016–17 Copa del Rey|the round of 32]] of [[Copa del Rey]];<ref>{{cite news|url=https://as.com/futbol/2016/12/20/copa_del_rey/1482253090_726650.html|title=Pato evita la sorpresa del Toledo y Manolo, la goleada|trans-title=Pato avoids Toledo's surprise and Manolo, a rout|newspaper=[[Diario AS]]|first=Alfredo|last=Matilla|language=es|date=20 December 2016|access-date=27 October 2017}}</ref> by doing so, he became the first player born in Villarreal to debut for the club in 13 years.<ref>{{cite news|url=http://www.sport.es/es/noticias/laliga/pau-torres-primer-futbolista-nacido-vila-real-que-debuta-13-anos-5707549|title=Pau Torres, primer futbolista nacido en Vila-real que debuta en 13 años|trans-title=Pau Torres, first footballer born in Villarreal to debut in 13 years|newspaper=[[Sport (Spanish newspaper)|Sport]]|language=es|date=22 December 2016|access-date=27 October 2017}}</ref>
+
+Torres played his first match in [[La Liga]] on 26 November 2017, replacing fellow youth graduate [[Manu Trigueros]] late into a 2–3 home loss to [[Sevilla FC|Sevilla]].<ref>{{cite web|url=http://www.rtve.es/deportes/20171126/sevilla-remonta-dos-goles-se-lleva-victoria-villarreal/1638723.shtml|title=El Sevilla remonta dos goles y se lleva la victoria de Villarreal|trans-title=Sevilla come back from two goals and take win from Villarreal|publisher=[[RTVE]]|language=es|date=26 November 2017|access-date=18 December 2019}}</ref> He made his [[UEFA Europa League]] debut ten days later, starting and finishing the [[2017–18 UEFA Europa League|0–1 group stage defeat]] against [[Maccabi Tel Aviv F.C.|Maccabi Tel Aviv]] also at the [[Estadio de la Cerámica]].<ref>{{cite news|url=https://www.lavanguardia.com/deportes/futbol/20171207/433479671309/villarreal-europa-league-maccabi-tel-aviv.html|title=El Villarreal cierra con derrota un partido intrascendente|trans-title=Villarreal complete formality of a match with loss|newspaper=[[La Vanguardia]]|language=es|date=7 December 2017|access-date=19 December 2019}}</ref>
+
+On 6 August 2018, Torres was loaned to [[Málaga CF|Málaga]] for one year.<ref>{{cite news|url=https://www.laopiniondemalaga.es/malagacf/2018/08/08/pau-torres-oferta-malaga-cf/1025522.html|title=Pau Torres: "La oferta del Málaga CF era irrechazable"|trans-title=Pau Torres: "Málaga CF's offer could not be refused"|newspaper=La Opinión de Málaga|first=Manu|last=Puga|language=es|date=8 August 2018|access-date=9 August 2018}}</ref> He only missed four [[Segunda División]] games during his spell as the side reached the [[2019 Segunda División play-offs|promotion play-offs]] and, subsequently, was recalled by his parent club.<ref>{{cite news|url=https://www.laopiniondemalaga.es/malagacf/2019/06/05/pau-torres-volvera-villarreal/1093421.html|title=Pau Torres volverá al Villarreal|trans-title=Pau Torres will return to Villarreal|newspaper=La Opinión de Málaga|language=es|date=5 June 2019|access-date=3 October 2019}}</ref>
+
+Torres subsequently cemented his place in Villarreal's starting XI, playing every minute in the league.<ref>{{cite news|url=https://www.lavanguardia.com/deportes/20191007/47853482340/pau-torres-entre-los-once-que-han-disputado-todos-los-minutos-en-liga.html|title=Pau Torres, entre los once que han disputado todos los minutos en Liga|trans-title=Pau Torres, amongst eleven who have played every minute in League|newspaper=La Vanguardia|language=es|date=7 October 2019|access-date=19 December 2019}}</ref> In October 2019, he was rewarded with a contract extension until 2024,<ref>{{cite web|url=https://www.villarrealcf.es/noticias/todas-las-noticias/item/25614-el-villarreal-cf-renueva-a-pau-hasta-2024|title=El Villarreal CF renueva a Pau hasta 2024|trans-title=Villarreal CF renew Pau until 2024|publisher=Villarreal CF|language=es|date=2 October 2019|access-date=3 October 2019}}</ref> and the same month scored his first goal in the [[Spanish football league system|Spanish top tier]], opening a 2–1 loss at [[CA Osasuna|Osasuna]].<ref>{{cite news|url=https://www.marca.com/en/football/spanish-football/cronica/2019/10/05/5d9904a422601db5518b4578.html|title=Villarreal are the latest to suffer at El Sadar|newspaper=Marca|first=Euan|last=McTear|date=5 October 2019|access-date=6 October 2019}}</ref>
+
+==International career==
+Torres got his first call up for the [[Spain national football team|Spain national team]] by [[Robert Moreno]] on 4 October 2019, for [[UEFA Euro 2020]] [[UEFA Euro 2020 qualifying|qualifiers]] against [[Norway national football team|Norway]] and [[Sweden national football team|Sweden]].<ref>{{cite news|url=https://www.marca.com/en/football/spanish-football/2019/10/04/5d971507e2704e76198b4571.html|title=Reguilon, Pau Torres and Gerard Moreno named in Spain squad for first time|newspaper=Marca|first1=José Félix|last1=Díaz|first2=Conor|last2=Clancy|date=4 October 2019|access-date=6 October 2019}}</ref> He did not debut until 15 November when he scored in a 7–0 rout of [[Malta national football team|Malta]] for the already qualified hosts, within a minute of replacing [[Sergio Ramos]]; [[Dani Olmo]] also scored on his first [[Cap (sport)|cap]] in that game, the first time that two Spaniards did so in exactly 30 years.<ref>{{cite news|url=https://en.as.com/en/2019/11/15/football/1573854279_669899.html|title=Dani Olmo and Pau Torres make history in Spain stroll|newspaper=Diario AS|date=15 November 2019|access-date=16 November 2019}}</ref>
+
+Torres was included in [[Luis Enrique]]'s [[UEFA Euro 2020 squads#Spain|24-man squad]] for the finals.<ref>{{cite news|url=https://www.independent.co.uk/sport/football/euro-2020-news-live-england-squad-b1852654.html|title=Euro 2020 news LIVE: Sergio Ramos left out of Spain squad plus latest before England announcement|newspaper=[[The Independent]]|first=Jamie|last=Braidwood|date=24 May 2021|access-date=24 May 2021|url-status=live|url-access=subscription|archive-url=https://ghostarchive.org/archive/20220525/https://www.independent.co.uk/sport/football/euro-2020-news-live-england-squad-b1852654.html|archive-date=25 May 2022}}</ref> He was also selected for the [[Spain national under-23 football team|Olympic team]] that won a silver medal at the [[Football at the 2020 Summer Olympics – Men's tournament|Summer Olympics in Tokyo]].<ref>{{cite web|url=https://www.si.com/soccer/2021/06/29/spain-olympics-squad-euro-2020-pedri-dani-olmo|title=Spain names six from Euro squad to Olympic roster|publisher=[[Sports Illustrated]]|date=29 June 2021|access-date=1 July 2021}}</ref>
+
+==Career statistics==
+===Club===
+{{updated|match played 4 June 2023}}<ref>{{Soccerway|pau-francisco-torres/423623}}</ref>
+{| class="wikitable" style="text-align:center"
+|+ Appearances and goals by club, season and competition
+|-
+!rowspan="2"|Club
+!rowspan="2"|Season
+!colspan="3"|League
+!colspan="2"|National cup
+!colspan="2"|Europe
+!colspan="2"|Other
+!colspan="2"|Total
+|-
+!Division||Apps||Goals||Apps||Goals||Apps||Goals||Apps||Goals||Apps||Goals
+|-
+|rowspan="3"|[[Villarreal CF B|Villarreal B]]
+|[[2016–17 Segunda División B|2016–17]]
+|[[Segunda División B]]
+|34||2||colspan="2"|—||colspan="2"|—||colspan="2"|—||34||2
+|-
+|[[2017–18 Segunda División B|2017–18]]
+|Segunda División B
+|25||0||colspan="2"|—||colspan="2"|—||6{{efn|Appearance(s) in [[Segunda División B play-offs|Segunda División B promotion play-offs]]}}||0||31||0
+|-
+!colspan="2"|Total
+!59||2||colspan="2"|—||colspan="2"|—||6||0||65||2
+|-
+|rowspan="7"|[[Villarreal CF|Villarreal]]
+|[[2016–17 Villarreal CF season|2016–17]]
+|[[La Liga]]
+|0||0||1||0||0||0||colspan="2"|—||1||0
+|-
+|[[2017–18 Villarreal CF season|2017–18]]
+|La Liga
+|2||0||3||0||1{{efn|Appearance(s) in [[UEFA Europa League]]|name=UEL}}||0||colspan="2"|—||6||0
+|-
+|[[2019–20 Villarreal CF season|2019–20]]
+|La Liga
+|34||2||2||0||colspan="2"|—||colspan="2"|—||36||2
+|-
+|[[2020–21 Villarreal CF season|2020–21]]
+|La Liga
+|33||2||2||0||9{{efn|name=UEL}}||1||colspan="2"|—||44||3
+|-
+|[[2021–22 Villarreal CF season|2021–22]]
+|La Liga
+|33||5||1||0||12{{efn|Appearance(s) in [[UEFA Champions League]]|name=UCL}}||1||1{{efn|Appearance in [[UEFA Super Cup]]|name=USC}}||0||47||6
+|-
+|[[2022–23 Villarreal CF season|2022–23]]
+|La Liga
+|34||1||2||0||3{{efn|Appearance(s) in [[UEFA Europa Conference League]]|name=UECL}}||0||colspan="2"|—||39||1
+|-
+!colspan="2"|Total
+!136||10||11||0||25||2||1||0||173||12
+|-
+|[[Málaga CF|Málaga]] (loan)
+|[[2018–19 Málaga CF season|2018–19]]
+|[[Segunda División]]
+|38||1||0||0||colspan="2"|—||2{{efn|Appearance(s) in [[Segunda División play-offs]]}}||0||40||1
+|-
+!colspan="3"|Career total
+!233||13||11||0||25||2||9||0||278||15
+|}
+{{notelist}}
+
+===International===
+{{updated|match played 1 December 2022}}<ref name=EU>{{cite web|url=https://eu-football.info/_player.php?id=30836|title=Pau Torres|website=EU-Football.info|access-date=18 December 2019}}</ref>
+{| class=wikitable style="text-align:center"
+|+ Appearances and goals by national team and year
+|-
+!National team!!Year!!Apps!!Goals
+|-
+|rowspan="4"|[[Spain national football team|Spain]]
+|2019||1||1
+|-
+|2020||6||0
+|-
+|2021||9||0
+|-
+|2022||7||0
+|-
+!colspan="2"|Total!!23!!1
+|}
+
+{{updated|match played 15 November 2019.}}
+:''Spain score listed first, score column indicates score after each Torres goal.''<ref name=EU/>
+{| class="wikitable"
+|+ List of international goals scored by Pau Torres
+! No. !! Date !! Venue !! Opponent !! Score !! Result !! Competition
+|-
+| align=center | 1 || 15 November 2019 || [[Estadio Ramón de Carranza]], Cádiz, Spain || {{fb|MLT}} || align=center | 3–0 || align=center | 7–0 || [[UEFA Euro 2020 qualifying]]
+|}
+
+==Honours==
+'''Villarreal'''
+*[[UEFA Europa League]]: [[2020–21 UEFA Europa League|2020–21]]<ref>{{cite web|url=https://www.bbc.com/sport/football/57224112|title=Villarreal 1–1 Manchester United|publisher=[[BBC Sport]]|first=Simon|last=Stone|date=26 May 2021|access-date=26 May 2021}}</ref>
+
+'''Spain U23'''
+*[[Football at the Summer Olympics|Summer Olympics]] silver medal: [[Football at the 2020 Summer Olympics – Men's tournament|2020]]<ref>{{cite news|url=https://en.as.com/en/2021/08/07/olympic_games/1628315614_315184.html|title=Tokyo Olympics 2021 medal count updates: who has won more? Tally by country, today, 7 August|newspaper=Diario AS|date=7 August 2021|access-date=23 August 2021}}</ref>
+
+'''Spain'''
+*[[UEFA Nations League]] runner up: [[2020–21 UEFA Nations League|2020–21]]<ref>{{cite web|url=https://www.uefa.com/uefanationsleague/match/2030761--spain-vs-france/|title=Spain 1–2 France|publisher=UEFA|date=10 October 2021|access-date=12 October 2021|url-status=live}}</ref>
+
+'''Individual'''
+*UEFA Europa League Squad of the Season: [[2020–21 UEFA Europa League#Squad of the season|2020–21]]<ref>{{cite web|url=https://www.uefa.com/uefaeuropaleague/news/0269-1262ae3ac85f-0a3f996ae443-1000--uefa-europa-league-squad-of-the-season-2020-21/|title=UEFA Europa League Squad of the Season 2020/21|publisher=UEFA|date=28 May 2021|access-date=30 May 2021}}</ref>
+
+==References==
+{{Reflist}}
+
+==External links==
+{{commons category}}
+*[https://villarrealcf.es/en/player/pau-torres/ Villarreal official profile]
+*{{BDFutbol|23355}}
+*{{LaPreferente|210559<!-- /pau-torres -->}}
+*{{NFT player|76186}}
+
+{{Villarreal CF squad}}
+{{Navboxes
+| title = Spain squads
+| bg = #C60B1E
+| fg = #FBEA0E
+| bordercolor = #000033
+| list1 = 
+{{Spain squad UEFA Euro 2020}}
+{{Spain men's football squad 2020 Summer Olympics}}
+{{Spain squad 2022 FIFA World Cup}}
+}}
+
+{{DEFAULTSORT:Torres, Pau}}
+[[Category:1997 births]]
+[[Category:Living people]]
+[[Category:People from Villarreal]]
+[[Category:Sportspeople from the Province of Castellón]]
+[[Category:Spanish men's footballers]]
+[[Category:Footballers from the Valencian Community]]
+[[Category:Men's association football defenders]]
+[[Category:La Liga players]]
+[[Category:Segunda División players]]
+[[Category:Segunda División B players]]
+[[Category:Villarreal CF C players]]
+[[Category:Villarreal CF B players]]
+[[Category:Villarreal CF players]]
+[[Category:Málaga CF players]]
+[[Category:UEFA Europa League winning players]]
+[[Category:Spain men's under-21 international footballers]]
+[[Category:Spain men's under-23 international footballers]]
+[[Category:Spain men's international footballers]]
+[[Category:UEFA Euro 2020 players]]
+[[Category:2022 FIFA World Cup players]]
+[[Category:Olympic footballers for Spain]]
+[[Category:Footballers at the 2020 Summer Olympics]]
+[[Category:Olympic medalists in football]]
+[[Category:Olympic silver medalists for Spain]]
+[[Category:Medalists at the 2020 Summer Olympics]]

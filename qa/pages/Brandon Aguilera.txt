@@ -1,0 +1,174 @@
+{{Use dmy dates|date=November 2022}}
+{{short description|Costa Rican  footballer (born 2003)}}
+{{family name hatnote|Aguilera|Zamora|lang=Spanish}}
+{{Infobox football biography
+| name = Brandon Aguilera
+| image = 
+| fullname = Brandon Aguilera Zamora<ref name="FIFA 2022">{{cite web |url=https://fdp.fifa.org/assetspublic/ce44/pdf/SquadLists-English.pdf |title=FIFA World Cup Qatar 2022 – Squad list: Costa Rica (CRC) |publisher=[[FIFA]] |page=7 |date=15 November 2022 |access-date=15 November 2022}}</ref>
+| birth_date = {{birth date and age|2003|6|28|df=y}}<ref name="FIFA 2022"/>
+| birth_place = [[Naranjo de Alajuela|Naranjo]], Costa Rica
+| height = 1.79 m<ref name="FIFA 2022"/>
+| position = [[Midfielder]]
+| currentclub = [[G.D. Estoril Praia|Estoril]] <br  /> (on loan from [[Nottingham Forest F.C.|Nottingham Forest]])
+| clubnumber = 
+| youthyears1 = 
+| youthclubs1 = 
+| years1 = 2018–2019
+| clubs1 = [[A.D. Carmelita|Carmelita]]
+| caps1 = 4
+| goals1 = 1
+| years2 = 2019–2022
+| clubs2 = [[Liga Deportiva Alajuelense|Alajuelense]]
+| caps2 = 40
+| goals2 = 1
+| years3 = 2021–2022
+| clubs3 = → [[A.D. Guanacasteca|Guanacasteca]] (loan)
+| caps3 = 18
+| goals3 = 4
+| years4 = 2022–
+| clubs4 = [[Nottingham Forest F.C.|Nottingham Forest]]
+| caps4 = 0
+| goals4 = 0
+| years5 = 2022
+| clubs5 = → [[A.D. Guanacasteca|Guanacasteca]] (loan)
+| caps5 = 10
+| goals5 = 0
+| years6 = 2023–
+| clubs6 = → [[G.D. Estoril Praia|Estoril]] (loan)
+| caps6 = 0
+| goals6 = 0
+| nationalyears1   = 2018
+| nationalteam1    = Costa Rica U15
+| nationalcaps1    = 1
+| nationalgoals1   = 0
+| nationalyears2   = 2018–2019
+| nationalteam2    = [[Costa Rica national under-17 football team|Costa Rica U17]]
+| nationalcaps2    = 4
+| nationalgoals2   = 0
+| nationalyears3   = 2022–
+| nationalteam3    = [[Costa Rica national under-20 football team|Costa Rica U20]]
+| nationalcaps3    = 4
+| nationalgoals3   = 0
+| nationalyears4   = 2022–
+| nationalteam4    = [[Costa Rica national football team|Costa Rica]]
+| nationalcaps4    = 8
+| nationalgoals4   = 0
+| club-update      = 17:18, 7 December 2022 (UTC)
+| nationalteam-update = 17:18, 7 December 2022 (UTC)
+}}
+
+'''Brandon Aguilera Zamora''' (born 28 June 2003) is a Costa Rican professional [[Association football|footballer]] who plays as a [[midfielder]] for [[G.D. Estoril Praia|Estoril]], on loan from [[Premier League]] club [[Nottingham Forest F.C.|Nottingham Forest]], and the [[Costa Rica national football team|Costa Rica national team]].
+
+==Career==
+===Club===
+In July 2022 [[Premier League]] side [[Nottingham Forest F.C.|Nottingham Forest]] announced they had signed Aguilera on a four-year deal from [[Liga Deportiva Alajuelense|Alajuelense]], and would immediately be loaned to fellow Costa Rican side [[A.D. Guanacasteca|Guanacasteca]] for six months.<ref>{{cite web|url=https://www.nottinghamforest.co.uk/news/2022/july/17/nottingham-forest-secure-costa-rica-international-aguilera/|title=FOREST SECURE COSTA RICA INTERNATIONAL AGUILERA|date=17 July 2022|work=[[Nottingham Forest F.C.|Nottingham Forest]]}}</ref> In January 2023, Aguilera joined [[Primeira Liga]] club [[G.D. Estoril Praia|Estoril]] on loan until the end of the season.<ref> {{cite web|url=https://www.nottinghamforest.co.uk/news/2023/january/31/aguilera-joins-estoril-on-loan/|title=Agiulera joins Estoril on loan|website=www.nottinghamforest.co.uk|date=31 January 2023|accessdate=31 January 2023}}</ref>
+
+===International===
+A youth international for [[Costa Rica]] since 2018, Aguilera made his [[Costa Rica national football team|senior team]] debut against the [[United States men's national soccer team|United States]] on 30 March 2022.<ref>{{cite web|url=https://www.bbc.com/sport/football/62201165|title=Brandon Aguilera: Nottingham Forest sign Costa Rica midfielder|date=17 July 2022|work=[[BBC Sport]]}}</ref><ref>{{cite web|url=https://www.fourfourtwo.com/news/nottingham-forest-sign-costa-rica-teenager-brandon-aguilera-from-ld-alajuelense-1658079602000|work=[[FourFourTwo]]|title=Nottingham Forest sign Costa Rica teenager Brandon Aguilera from LD Alajuelense}}</ref> In November 2022 he was named to the 26-man Costa Rica squad for the [[2022 FIFA World Cup]].<ref>{{cite tweet|author=[[Costa Rican Football Federation|FCRF]]|user=fedefutbolcrc|number=1588191966612914177|title=Les dejamos la imagen también|date=3 November 2022|access-date=3 November 2022}}</ref>
+
+==Career statistics==
+
+===Club===
+{{updated|match played 2 October 2022}}<ref>{{Soccerway|brandon-aguilera/562962|accessdate=27 July 2022}}</ref>
+
+{| class="wikitable" style="text-align: center"
+|-
+!rowspan="2"|Club
+!rowspan="2"|Season
+!colspan="3"|League
+!colspan="2"|Cup
+!colspan="2"|Continental
+!colspan="2"|Other
+!colspan="2"|Total
+|-
+!Division
+!Apps
+!Goals
+!Apps
+!Goals
+!Apps
+!Goals
+!Apps
+!Goals
+!Apps
+!Goals
+|-
+|[[A.D. Carmelita|Carmelita]]
+|[[2018–19 Liga FPD|2018–19]]
+|[[Liga FPD]]
+|4||1||0||0||0||0||0||0||4||1
+|-
+|rowspan="4"|[[Liga Deportiva Alajuelense|Alajuelense]]
+|[[2019–20 Liga FPD|2019–20]]
+|Liga FPD
+|2||0||0||0||0||0||0||0||2||0
+|-
+|[[2020–21 Liga FPD|2020–21]]
+|Liga FPD
+|26||1||0||0||3||0||0||0||29||1
+|-
+|[[2021–22 Liga FPD|2021–22]]
+|Liga FPD
+|12||0||1||0||1||0||0||0||14||0
+|-
+! colspan="2" |Total
+!40!!1!!1!!0!!4!!0!!0!!0!!45!!1
+|-
+|[[Nottingham Forest F.C.|Nottingham Forest]]
+|[[2022–23 Nottingham Forest F.C. season|2022–23]]
+|[[Premier League]]
+|0||0||0||0||0||0||0||0||0||0
+|-
+|[[A.D. Guanacasteca|Guanacasteca]] (loan)
+|[[2021–22 Liga FPD|2021–22]]
+|Liga FPD
+|18||4||0||0||0||0||0||0||18||4
+|-
+|Guanacasteca (loan)
+|[[2022–23 Liga FPD|2022–23]]
+|Liga FPD
+|10||0||0||0||0||0||0||0||10||0
+|-
+|[[Estoril Praia|Estoril]] (loan)
+|[[2022–23 Primeira Liga|2022–23]]
+|[[Primeira Liga]]
+|0||0||0||0||0||0||0||0||0||0
+|-
+!colspan="3" |Career total
+!68!!6!!1!!0!!4!!0!!0!!0!!73!!6
+|}
+;Notes
+{{Reflist|group=lower-alpha}}
+
+==Honours==
+'''Alajuelense'''
+* [[Liga FPD]]: [[2020–21 Liga FPD|Apertura 2020]]
+* [[CONCACAF League]]: [[2020 CONCACAF League|2020]]
+
+==References==
+{{reflist}}
+
+{{G.D. Estoril Praia squad}}
+{{Costa Rica squad 2022 FIFA World Cup}}
+
+{{DEFAULTSORT:Aguilera, Brandon}}
+[[Category:2003 births]]
+[[Category:Living people]]
+[[Category:People from Grecia (canton)]]
+[[Category:Sportspeople from Alajuela Province]]
+[[Category:Costa Rican men's footballers]]
+[[Category:Costa Rica men's youth international footballers]]
+[[Category:Men's association football midfielders]]
+[[Category:A.D. Carmelita footballers]]
+[[Category:Liga Deportiva Alajuelense footballers]]
+[[Category:Nottingham Forest F.C. players]]
+[[Category:G.D. Estoril Praia players]]
+[[Category:Liga FPD players]]
+[[Category:2022 FIFA World Cup players]]
+[[Category:Costa Rican expatriate men's footballers]]
+[[Category:Expatriate men's footballers in England]]
+[[Category:Costa Rican expatriate sportspeople in England]]
+[[Category:Expatriate men's footballers in Portugal]]
+[[Category:Costa Rican expatriate sportspeople in Portugal]]
+
+{{CostaRica-footy-bio-stub}}

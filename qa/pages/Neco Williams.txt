@@ -1,0 +1,215 @@
+{{short description|Welsh footballer (born 2001)}}
+{{Lead too short|date=April 2023}}
+{{EngvarB|date=April 2020}}
+{{Use dmy dates|date=November 2022}}
+{{about|the Welsh footballer|the Spanish footballer|Nico Williams}}
+{{Infobox football biography
+| name = Neco Williams
+| image = 2022 FIFA World Cup United States 1–1 Wales - (24) (cropped).jpg
+| caption = Williams with [[Wales national football team|Wales]] at the [[2022 FIFA World Cup]]
+| full_name = Neco Shay Williams<ref>{{cite web |url=https://tournament.fifadata.com/documents/FCWC/2019/pdf/FCWC_2019_SQUADLISTS.PDF |title=FIFA Club World Cup Qatar 2019: List of Players: Liverpool FC |publisher=FIFA |page=7 |date=5 December 2019 |access-date=17 January 2020 |archive-url=https://web.archive.org/web/20191205105526/https://tournament.fifadata.com/documents/FCWC/2019/pdf/FCWC_2019_SQUADLISTS.PDF |archive-date=5 December 2019}}</ref>
+| birth_date = {{birth date and age|2001|4|13|df=y}}<ref name=Soccerway>{{cite web |url=https://int.soccerway.com/players/neco-shay-williams/459370/|title=N. Williams: Summary |website=Soccerway |publisher=Perform Group |access-date=26 April 2020}}</ref>
+| birth_place = [[Wrexham]], Wales<ref name='FULProfile"/>
+| height = {{convert|1.83|m|order=flip}}<ref name='FULProfile">{{cite web |url=https://www.fulhamfc.com/players/neco-williams/ |title=Neco Williams |publisher=Fulham F.C |access-date=28 June 2022 |archive-url=https://web.archive.org/web/20220628115553/https://www.fulhamfc.com/players/neco-williams/ |archive-date=28 June 2022 }}</ref>
+| position = [[Full-back (association football)|Full-back]]<ref>{{cite web |title=Neco Williams: Player Info |url=https://www.nottinghamforest.co.uk/players/necowilliams |website=Nottingham Forest |access-date=16 November 2022}}</ref>
+| currentclub = [[Nottingham Forest F.C.|Nottingham Forest]]
+| clubnumber = 7
+| youthyears1 = 2009–2019
+| youthclubs1 = [[Liverpool F.C. Reserves and Academy|Liverpool]]
+| years1 = 2019–2022
+| clubs1 = [[Liverpool F.C.|Liverpool]]
+| caps1 = 13
+| goals1 = 0
+| years2 = 2022
+| clubs2 = → [[Fulham F.C.|Fulham]] (loan)
+| caps2 = 14
+| goals2 = 2
+| years3 = 2022–
+| clubs3 = [[Nottingham Forest F.C.|Nottingham Forest]]
+| caps3 = 31
+| goals3 = 1
+| nationalyears1 = 2018–2020
+| nationalteam1 = [[Wales national under-19 football team|Wales U19]]<ref name=Soccerway/>
+| nationalcaps1 = 8
+| nationalgoals1 = 4
+| nationalyears2 = 2020–
+| nationalteam2 = [[Wales national football team|Wales]]
+| nationalcaps2 = 30
+| nationalgoals2 = 2
+| club-update = 23:05, 26 April 2023 (UTC)
+| nationalteam-update = 23:49, 19 June 2023 (UTC)
+}}
+'''Neco Shay Williams''' (born 13 April 2001) is a Welsh professional [[Association football|footballer]] who plays as a [[Full-back (association football)|full-back]] for {{English football updater|NottingF}} club [[Nottingham Forest F.C.|Nottingham Forest]] and the [[Wales national football team|Wales national team]].
+
+Williams was a member of the [[Wales national football team|Wales]] squad that qualified for the [[2022 FIFA World Cup]], becoming the first to do so since 1958.
+
+==Club career==
+===Liverpool===
+[[File:Neco Williams LFCU19 2019.jpg|thumb|upright|Williams playing for [[Liverpool F.C. Reserves and Academy|Liverpool U19]] in 2019]]
+
+Williams joined the academy of [[Liverpool F.C.|Liverpool]] at the age of six and progressed through the youth ranks, representing the club at U18, U19 and U23 level, as well as in the [[UEFA Youth League]].<ref>{{cite news |url=https://www.goal.com/en-ae/news/neco-williams-set-to-make-liverpool-debut-in-carabao-cup-tie/ty89ttsmu31d1lfhzq6yi19kk |title=Neco Williams set to make Liverpool debut in Carabao Cup tie against Arsenal |website=Goal.com |last=Jones |first=Neil |date=30 October 2019 |access-date=30 October 2019}}</ref><ref>{{cite news |url=https://www.bbc.com/sport/football/50436341 |title=Neco Williams: Wales youngster aims to seize Liverpool chance |website=BBC Sport |last=Vincet |first=Gareth |date=15 November 2019 |access-date=29 November 2019}}</ref><ref>{{cite news |url=https://www.soccerladuma.co.za/news/articles/international/categories/english-premier-league/who-is-neco-williams-liverpool-s-latest-academy-graduate/666416?next=true |title=Who Is Neco Williams, Liverpool's Latest Academy Graduate? |website=Soccer Laduma |date=31 October 2019 |access-date=29 November 2019 |last=Bekker |first=Liam}}</ref> He suffered a serious back injury which ruled him out for most of the 2017–18 season, but recovered his place to feature in the club's victorious [[FA Youth Cup]] campaign two years later.<ref>{{cite news |url=https://www.liverpoolecho.co.uk/sport/football/football-news/meet-neco-williams-liverpool-youngster-17157988 |title=Meet Neco Williams – Liverpool youngster described by Steven Gerrard as 'magnificent' in contention for Arsenal clash |newspaper=Liverpool Echo |last=Batte |first=Kathryn |date=28 October 2019 |access-date=30 October 2019}}</ref> 
+
+Williams' form at youth level was rewarded when, on 30 October 2019, he made his debut for the senior side, starting in a 5–5 (5–4) [[penalty shoot-out (association football)|penalty shoot-out]] win over [[Arsenal F.C.|Arsenal]] in the [[EFL Cup]]. He featured prominently in the match and recorded a last-minute [[Assist (association football)|assist]] for [[Divock Origi]]'s goal to send the match to penalties, where Liverpool emerged victorious.<ref>{{cite news |url=https://www.standard.co.uk/sport/football/liverpool-vs-arsenal-result-carabao-cup-liverpool-win-penalty-shootout-anfield-a4274851.html |title=Liverpool 5–5 Arsenal: Liverpool win penalty shootout after 10-goal thriller at Anfield |newspaper=London Evening Standard |last=Krishnan |first=Joe |date=30 October 2019 |access-date=30 October 2019}}</ref><ref>{{cite web |url=https://www.liverpoolfc.com/news/first-team/371335-neco-williams-liverpool-arsenal-debut-reaction |title=Neco Williams: Anfield debut a dream come true |publisher=Liverpool F.C. |last=Williams |first=Sam |date=31 October 2019 |access-date=31 October 2019}}</ref> In December, he was included in Liverpool's squad which won the [[2019 FIFA Club World Cup]], although he was an unused substitute in both of the club's matches in the competition.<ref>{{cite news |url=https://www.bbc.com/sport/football/50869633 |title=Flamengo 0–1: Roberto Firmino's extra-time strike delivers first Club World Cup for Liverpool |website=BBC Sport |date=21 December 2019 |access-date=22 December 2019 |last=Poole |first=Harry}}</ref> 
+
+Following the turn of the year, he starred in a team largely made up of teenagers and reserves that defeated [[Merseyside derby|Merseyside]] rivals [[Everton F.C.|Everton]] in the [[FA Cup]] 3rd round, and [[Shrewsbury Town F.C.|Shrewsbury Town]] in the 4th round replay, forcing an [[own goal]] from [[Ro-Shaun Williams]] in the latter fixture to secure his side's progression in the competition.<ref>{{cite news |title=Klopp's teenagers and reserves serve Ancelotti with a painful reality-check |url=https://www.theguardian.com/football/2020/jan/05/jurgen-klopp-liverpool-carlo-ancelotti-everton-teenagers-reserves-reality-check |access-date=5 January 2019 |newspaper=The Guardian}}</ref><ref>{{cite web |url=https://www.liverpoolfc.com/news/first-team/385938-neco-williams-liverpool-shrewsbury-fa-cup-reaction |title=Neco Williams: That was a special night for all of us |publisher=Liverpool F.C. |date=4 February 2020 |access-date=5 February 2020 |last=Williams |first=Sam}}</ref> In the match against Shrewsbury, Williams was also part of a starting line-up that was the youngest in Liverpool's history, with an average age of 19 years and two days.<ref>{{cite news |url=https://www.soccerladuma.co.za/news/articles/international/categories/fa-cup/three-liverpool-records-broken-in-one-night/672548 |title=Three Liverpool Records Broken in One Night |website=Soccer Laduma |access-date=7 February 2020 |date=5 February 2020 |last=Bekker |first=Liam}}</ref> His [[Premier League]] debut followed on 24 June 2020, shortly after campaign resumed following a three-month long suspension caused by the [[COVID-19 pandemic in the United Kingdom|COVID-19 outbreak]], when he featured as a 74th-minute substitute in a 4–0 win over [[Crystal Palace F.C.|Crystal Palace]].<ref>{{cite news |title=Liverpool 4–0 Crystal Palace: Reds move within two points of league title |url=https://www.bbc.com/sport/football/51884264 |access-date=24 June 2020 |website=BBC Sport |date=24 June 2020}}</ref> Williams would go on to make enough appearances to secure his league winners' medal,<ref>{{Cite web|last=Ellis|first=Callum|date=11 July 2020|title=Neco Williams set for Premier League medal after fifth league appearance|url=https://clwbpeldroed.org/2020/07/11/neco-williams-fifth-welshman-league-medal/|access-date=19 August 2020|website=Y Clwb Pêl-Droed}}</ref> and a few weeks later on 17 August, he signed a new long-term deal with the Reds.<ref>{{Cite web|title=Neco Williams signs new long-term contract with Liverpool FC|url=https://www.liverpoolfc.com/news/first-team/405719-neco-williams-new-long-term-contract|access-date=19 August 2020|publisher=Liverpool F.C.}}</ref>
+
+On 31 January 2022, Williams joined [[EFL Championship|Championship]] club [[Fulham F.C.|Fulham]] on loan until the end of the [[2021–22 Fulham F.C. season|2021–22 season]].<ref>{{cite web|title=Williams Arrives On Loan|url=https://www.fulhamfc.com/news/2022/february/01/williams-arrives-on-loan/|publisher=Fulham F.C. |date=31 January 2022|access-date=31 January 2022}}</ref> He scored the first senior club goals of his career when he scored twice in a 5–1 win over [[Swansea City A.F.C.|Swansea City]] on 8 March 2022.<ref>{{cite news 
+|url=https://www.bbc.co.uk/sport/football/59798428
+|title=Swansea 1–5 Fulham
+|website=BBC Sport
+|date=8 March 2022 |access-date=9 March 2022}}</ref>
+
+===Nottingham Forest===
+Williams signed for newly promoted Premier League club [[Nottingham Forest F.C.|Nottingham Forest]] on 10 July 2022 on a four-year contract for a fee reported to be around £17&nbsp;million.<ref>{{cite web |url=https://www.nottinghamforest.co.uk/news/2022/july/10/forest-secure-wales-international-williams/ |title=Forest secure Wales international Williams |publisher=Nottingham Forest F.C. |date=10 July 2022 |access-date=7 August 2022}}</ref><ref>{{cite web |url=https://theathletic.com/news/nottingham-forest-neco-williams-liverpool-transfer/wSi5kNICpcCp/ |title=Forest confirm £17m Williams signing from Liverpool |first=Amitai |last=Winehouse |website=The Athletic |date=13 July 2022 |access-date=7 August 2022}}</ref>
+
+==International career==
+Williams was born in [[Wrexham]] and has represented Wales at Under 19 level.<ref name=worldfootball>{{cite web |url=https://www.worldfootball.net/player_summary/neco-williams/ |title=Neco Williams: Profile |website=worldfootball.net |publisher=HEIM:SPIEL |access-date=24 July 2020}}</ref> In August 2020 he was called into the senior Wales squad for the first time.<ref>{{Cite news|url=https://www.bbc.co.uk/sport/football/53903132|title=Wales call up Liverpool's Williams|website=BBC Sport }}</ref>  Williams made his [[Wales national football team|Wales]] debut in a 1–0 [[2020–21 UEFA Nations League B|UEFA Nations League]] win over [[Finland national football team|Finland]] on 3 September 2020.<ref>{{Cite web|url=https://uk.soccerway.com/matches/2020/09/03/europe/uefa-nations-league/finland/wales/3243448/|title=Finland vs. Wales – 3 September 2020 |website=Soccerway}}</ref> He scored his first goal for the senior team on 6 September 2020 against [[Bulgaria national football team|Bulgaria]] in the UEFA Nations League, scoring the winning goal in a 1–0 victory for Wales.<ref name=Bulgaria>{{Cite web|url=https://www.espn.com/soccer/matchstats?gameId=570767|title=Wales vs. Bulgaria – Football Match Stats – September 6, 2020 |publisher=ESPN|date=6 September 2020|access-date=6 September 2020}}</ref> In May 2021 he was selected for the Wales squad for the delayed [[UEFA Euro 2020]] tournament.<ref>{{Cite news|url=https://www.bbc.co.uk/sport/football/57301006|title=Uncapped Colwill in Wales Euro 2020 squad|website=BBC Sport }}</ref>
+
+Williams helped Wales qualify for the [[FIFA World Cup]] in 2022 for the first time since 1958.<ref>{{Cite web |last=UEFA.com |title=Wales-Ukraine {{!}} European Qualifiers 2022 |url=https://www.uefa.com/european-qualifiers/match/2033893--wales-vs-ukraine/ |access-date=14 June 2022 |publisher=UEFA}}</ref> In November 2022 he was named in the [[2022 FIFA World Cup squads#Wales|Wales squad]] for the [[2022 FIFA World Cup]] in [[Qatar]].<ref>[https://www.bbc.co.uk/sport/football/63545011 2022 Wales World Cup squad]</ref>
+
+==Personal life==
+Williams has a younger brother, Keelan Williams, who plays for [[Burnley F.C.|Burnley]]'s [[Burnley F.C. Under-23s and Academy|Under 18 side]].<ref>{{cite web |title=5-goal Liverpool U18s thrash Burnley in final game of 2021 |url=https://www.thisisanfield.com/2021/12/5-goal-liverpool-u18s-thrash-burnley-in-final-game-of-2021/ |website=This Is Anfield |date=18 December 2021 |access-date=24 December 2021}}</ref>
+
+Williams' grandfather, Kelvin Jones, died in November 2022, the day before Williams started in Wales' opening game of the World Cup; he revealed the loss after game, dedicating his performance to Jones.<ref>{{cite news |title=World Cup 2022: Neco Williams played after suffering family bereavement |work=BBC Sport |url=https://www.bbc.co.uk/sport/football/63711673 |access-date=23 November 2022}}</ref><ref>{{cite web |title=Liverpool players rally as Neco Williams reveals heartache behind World Cup debut |url=https://www.thisisanfield.com/2022/11/liverpool-players-rally-as-neco-williams-reveals-heartache-behind-world-cup-debut/ |website=This is Anfield |date=22 November 2022 |access-date=23 November 2022}}</ref>
+
+==Career statistics==
+===Club===
+{{Updated|match played 26 April 2023}}
+
+{| class="wikitable" style="text-align: center;"
+|+ Appearances and goals by club, season and competition
+|-
+!rowspan=2|Club
+!rowspan=2|Season
+!colspan=3|League
+!colspan=2|[[FA Cup]]
+!colspan=2|[[EFL Cup]]
+!colspan=2|Europe
+!colspan=2|Other
+!colspan=2|Total
+|-
+!Division!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals
+|-
+|[[Liverpool F.C. Reserves and Academy|Liverpool U21]]
+|2019–20<ref name=sb1920/>
+|colspan=1|—||colspan=2|—||colspan=2|—||colspan=2|—||colspan=2|—||2{{efn|Appearances in [[EFL Trophy]]}}||2||2||2
+|-
+|rowspan=4|[[Liverpool F.C.|Liverpool]]
+|[[2019–20 Liverpool F.C. season|2019–20]]<ref name=sb1920>{{soccerbase season|123801|2019|access-date=22 November 2020}}</ref>
+|[[Premier League]]
+|6||0||4||0||1||0||0||0||0||0||11||0
+|-
+|[[2020–21 Liverpool F.C. season|2020–21]]<ref name=sb2021>{{soccerbase season|123801|2020|access-date=27 May 2021}}</ref>
+|Premier League
+|6||0||1||0||2||0||4{{efn|name=UCL|Appearances in [[UEFA Champions League]]}}||0||1{{efn|Appearance in [[FA Community Shield]]}}||0||14||0
+|-
+|[[2021–22 Liverpool F.C. season|2021–22]]<ref name=sb2122/>
+|Premier League
+|1||0||0||0||4||0||3{{efn|name=UCL}}||0||colspan=2|—||8||0
+|-
+!colspan=2|Total
+!13||0||5||0||7||0||7||0||1||0||33||0
+|-
+|[[Fulham F.C.|Fulham]] (loan)
+|[[2021–22 Fulham F.C. season|2021–22]]<ref name=sb2122>{{soccerbase season|123801|2021|access-date=7 August 2022}}</ref>
+|[[EFL Championship|Championship]]
+|14||2||1||0||colspan=2|—||colspan=2|—||colspan=2|—||15||2
+|-
+|[[Nottingham Forest F.C.|Nottingham Forest]]
+|[[2022–23 Nottingham Forest F.C. season|2022–23]]<ref name=sb2223>{{soccerbase season|123801|2022|access-date=7 August 2022}}</ref>
+|Premier League
+|31||1||1||0||4||0||colspan=2|—||colspan=2|—||36||1
+|-
+!colspan=3|Career total
+!58||3||7||0||11||0||7||0||3||2||86||5
+|}
+
+{{notelist}}
+
+===International===
+{{updated|match played 19 June 2023}}<ref name=NFT>{{NFT player |id=79207 |name=Neco Williams |access-date=7 August 2022}}</ref>
+
+{| class="wikitable" style="text-align: center;"
+|+ Appearances and goals by national team and year
+|-
+!National team!!Year!!Apps!!Goals
+|-
+|rowspan=4|[[Wales national football team|Wales]]
+|2020||6||1
+|-
+|2021||11||1
+|-
+|2022||9||0
+|-
+|2023||4||0
+|-
+!colspan=2|Total||30||2
+|}
+
+{{updated|match played 19 June 2023}}
+:''Wales' score listed first, score column indicates score after each Williams goal''<ref name=NFT/>
+
+{| class="wikitable sortable"
+|+ List of international goals scored by Neco Williams
+|-
+!scope=col|No.
+!scope=col|Date
+!scope=col|Venue
+!scope=col|Cap
+!scope=col|Opponent
+!scope=col|Score
+!scope=col|Result
+!scope=col|Competition
+!scope=col class=unsortable|{{abbr|Ref.|Reference}}
+|-
+|align=center|1||6 September 2020||[[Cardiff City Stadium]], Cardiff, Wales||align=center|2||{{fb|BUL}}||align=center|1–0||align=center|1–0||[[2020–21 UEFA Nations League B]]||align=center|<ref>{{cite web |url=https://uk.soccerway.com/matches/2020/09/06/europe/uefa-nations-league/wales/bulgaria/3243449/ |title=Wales vs. Bulgaria 1–0: Summary |website=Soccerway |publisher=Perform Group |access-date=20 February 2022}}</ref>
+|-
+|align=center|2||13 November 2021||[[Cardiff City Stadium]], Cardiff, Wales||align=center|16||{{fb|BLR}}||align=center|2–0||align=center|5–1||[[2022 FIFA World Cup qualification]]||align=center|<ref>{{cite web |url=https://uk.soccerway.com/matches/2021/11/13/europe/wc-qualifying-europe/wales/belarus/3430116/ |title=Wales vs. Belarus 5–1: Summary |website=Soccerway |publisher=Perform Group |access-date=20 February 2022}}</ref>
+|}
+
+==Honours==
+'''Liverpool Youth'''
+*[[FA Youth Cup]]: [[2018–19 FA Youth Cup|2018–19]]<ref>{{cite news |url=https://www.telegraph.co.uk/football/2019/04/25/liverpool-crowned-fa-youth-cup-winners-beating-manchester-city/ |title=Liverpool crowned FA Youth Cup winners after beating Manchester City on penalties |date=25 April 2019 |newspaper=The Daily Telegraph |access-date=6 January 2020}}</ref>
+
+'''Liverpool'''
+*[[Premier League]]: [[2019–20 Premier League|2019–20]]<ref>{{cite web |url=https://www.premierleague.com/players/23811/Neco-Williams/overview |title=Neco Williams: Overview |publisher=Premier League |access-date=27 May 2021}}</ref>
+*[[FIFA Club World Cup]]: [[2019 FIFA Club World Cup|2019]]<ref>{{cite web |url=https://www.fifa.com/clubworldcup/matches/match/400089362/#match-lineups |title=Liverpool FC 1–0 CR Flamengo: Line-ups |publisher=FIFA |archive-url=https://web.archive.org/web/20201115134305/https://www.fifa.com/clubworldcup/matches/match/400089362/#match-lineups |archive-date=15 November 2020}}</ref>
+
+'''Fulham'''
+*[[EFL Championship]]: [[2021–22 EFL Championship|2021–22]]<ref>{{cite web |url=https://www.soccerbase.com/tournaments/tournament.sd?tourn_id=1849 |title=Championship: 2021/22: Current table |website=Soccerbase |publisher=Centurycomm |access-date=9 May 2022}}<br />{{cite web |url=https://www.soccerbase.com/teams/team.sd?team_id=1055&teamTabs=stats&season_id=154 |title=Fulham: Squad details: 2021/22 |website=Soccerbase |publisher=Centurycomm |access-date=9 May 2022}}</ref>
+
+==References==
+{{reflist}}
+
+==External links==
+{{Commons category}}
+* [https://www.nottinghamforest.co.uk/players/necowilliams Neco Williams] at the Nottingham Forest F.C. website
+* [https://www.premierleague.com/players/23811/ Neco Williams] at the Premier League website
+* {{UEFA player|250113272}}
+
+{{Nottingham Forest F.C. squad}}
+{{Navboxes
+| title = Wales squads
+| bg = #D81E05
+| fg = white
+| bordercolor = green
+| list1 =
+{{Wales squad UEFA Euro 2020}}
+{{Wales squad 2022 FIFA World Cup}}
+}}
+
+{{DEFAULTSORT:Williams, Neco}}
+[[Category:2001 births]]
+[[Category:Living people]]
+[[Category:Footballers from Wrexham]]
+[[Category:Welsh men's footballers]]
+[[Category:Men's association football defenders]]
+[[Category:Liverpool F.C. players]]
+[[Category:Fulham F.C. players]]
+[[Category:Nottingham Forest F.C. players]]
+[[Category:Premier League players]]
+[[Category:English Football League players]]
+[[Category:Wales men's youth international footballers]]
+[[Category:Wales men's international footballers]]
+[[Category:UEFA Euro 2020 players]]
+[[Category:2022 FIFA World Cup players]]

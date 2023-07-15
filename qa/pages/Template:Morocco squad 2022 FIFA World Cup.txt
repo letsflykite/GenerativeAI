@@ -1,0 +1,41 @@
+{{National squad
+ | name        = Morocco squad 2022 FIFA World Cup
+ | bg          = #C1272D
+ | fg          = white
+ | bordercolor = #006233
+ | country     = Morocco
+ | comp link   = 2022 FIFA World Cup
+ | comp        = 2022 FIFA World Cup fourth place
+ | p1          = [[Yassine Bounou|Bounou]]
+ | p2          = [[Achraf Hakimi|Hakimi]]
+ | p3          = [[Noussair Mazraoui|Mazraoui]]
+ | p4          = [[Sofyan Amrabat|Amrabat]]
+ | p5          = [[Nayef Aguerd|Aguerd]]
+ | p6          = [[Romain Saïss|Saïss]]&nbsp;([[Captain (association football)|c]])
+ | p7          = [[Hakim Ziyech|Ziyech]]
+ | p8          = [[Azzedine Ounahi|Ounahi]]
+ | p9          = [[Abderrazak Hamdallah|Hamdallah]]
+ | p10         = [[Anass Zaroury|Zaroury]]
+ | p11         = [[Abdelhamid Sabiri|Sabiri]]
+ | p12         = [[Munir Mohamedi|Munir]]
+ | p13         = [[Ilias Chair|Chair]]
+ | p14         = [[Zakaria Aboukhlal|Aboukhlal]]
+ | p15         = [[Selim Amallah|Amallah]]
+ | p16         = [[Abde Ezzalzouli|Ezzalzouli]]
+ | p17         = [[Sofiane Boufal|Boufal]]
+ | p18         = [[Jawad El Yamiq|El Yamiq]]
+ | p19         = [[Youssef En-Nesyri|En-Nesyri]]
+ | p20         = [[Achraf Dari|Dari]]
+ | p21         = [[Walid Cheddira|Cheddira]]
+ | p22         = [[Ahmed Reda Tagnaouti|Tagnaouti]]
+ | p23         = [[Bilal El Khannous|El Khannous]]
+ | p24         = [[Badr Benoun|Benoun]]
+ | p25         = [[Yahia Attiyat Allah|Attiyat Allah]]
+ | p26         = [[Yahya Jabrane|Jabrane]]
+ | coach       = [[Walid Regragui|Regragui]]
+}}<noinclude>
+{{Squad maintenance}}
+[[Category:2022 FIFA World Cup squad navigational boxes|Morocco]]
+[[Category:Morocco FIFA World Cup squad navigational boxes|2022]]
+[[Category:Morocco at the 2022 FIFA World Cup|squad]]
+</noinclude>

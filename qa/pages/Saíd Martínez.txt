@@ -1,0 +1,49 @@
+{{Use dmy dates|date=November 2022}}
+{{short description|Honduran football referee}}
+{{family name hatnote|Martínez|Sorto|lang=Spanish}}
+{{Infobox football official
+|name= Said Martínez
+|fullname = Héctor Said Martínez Sorto
+|birth_date={{birth date and age|1991|8|7|df=y}}
+|birth_place = [[Tocoa, Colón|Tocoa]], [[Honduras]]
+| years1  = 
+| league1 = [[Liga Nacional de Fútbol Profesional de Honduras]]
+| role1   = Referee
+|internationalyears1=2017–|internationalyears2=|confederation1=[[FIFA]]|confederation2=[[CONCACAF]]
+|internationalrole1=Referee|internationalrole2=Referee}}
+
+'''Héctor Said Martínez Sorto''' (born 7 August 1991) is a Honduran  [[soccer|football]] referee who is a listed international referee for FIFA since 2017.<ref>{{cite web|url=https://digitalhub.fifa.com/m/73018d1c158c1fd5/original/2021-FIFA-Refereeing-International-Lists.pdf|title=FIFA list of referees |publisher=resources.fifa.com |date=2021 |accessdate=30 January 2021}}</ref> He is also one of the referees for the [[Liga Nacional de Fútbol de Honduras]].
+
+==Biography==
+Said Martínez was born in Tocoa on 7 August 1991. At the age of ten, he began the dream of being a referee with the example of his father, and made the decision in becoming a referee. With dedication and determination, he was the youngest to make his debut in football matches in the [[Liga Nacional de Fútbol Profesional de Honduras]] at just 18 years of age.<ref>{{cite web|title=Said Martínez: El joven que soñó con ser árbitro|url=https://fidesdiariodigital.com/2017/08/04/said-martinez-el-joven-que-sono-con-ser-arbitro/|accessdate=28 May 2019}}</ref><ref>{{cite web|title=Said Martínez: 'Con el jugador hay que ser ‘cara de tubo’ - Diario El Heraldo|url=https://www.elheraldo.hn/deportes/972880-466/said-mart%C3%ADnez-con-el-jugador-hay-que-ser-cara-de-tubo|accessdate=28 May 2019}}</ref>
+
+With many hopes in his professional life, he decided to move to [[Tegucigalpa]] due to the lack of opportunities in Tocoa. He entered the [[Francisco Morazán National Pedagogical University]], where in a few years he would become a professional in mathematics, which makes this promise of refereeing one of the most prepared in this career.<ref>{{cite web|title='Un maestro me descubrió el don de los números...': Saíd Martínez, tocapitos y matemático|url=https://www.elheraldo.hn/revistas/tic-tac/1142781-466/un-maestro-me-descubri%C3%B3-el-don-de-los-n%C3%BAmeros-sa%C3%ADd-mart%C3%ADnez-tocapitos|accessdate=28 May 2019}}</ref><ref>{{cite web|title=Said Martínez, el licenciado en matemáticas que pitará la final en Honduras|url=https://www.diez.hn/futboldeprimera/motagua/909849-99/said-mart%C3%ADnez-el-licenciado-en-matem%C3%A1ticas-que-pitar%C3%A1-la-final-en-honduras|accessdate=28 May 2019}}</ref>
+
+===Refereeing career===
+Martínez became an international referee for FIFA and [[CONCACAF]] in 2017.<ref>{{cite web|url=https://digitalhub.fifa.com/m/73018d1c158c1fd5/original/2021-FIFA-Refereeing-International-Lists.pdf|title=FIFA list of referees |publisher=resources.fifa.com |date=2021 |accessdate=30 January 2021}}</ref> He had officiated at the [[2019 CONCACAF Gold Cup]] in the [[United States]], [[Costa Rica]] and [[Jamaica]],<ref>{{cite web|title=Concacaf Golden Cup - List Of Match Officials|url=https://gallery.mailchimp.com/78d3589fb61466b549ff752e5/files/15c8d73a-75b0-4767-a3b0-b860519e805a/19_GC_Referees_List_final.01.pdf|accessdate=28 May 2019}}</ref> the [[CONCACAF U-20 Championship]], and the [[2019 FIFA U-20 World Cup]] in [[Poland]].<ref>{{cite web|title=List of appointed Match Officials|url=https://digitalhub.fifa.com/m/728311cd6a4bcde1/original/kvqoxni6cxaddiqqpuhi-pdf.pdf|accessdate=25 May 2019}}</ref>
+
+Martínez had recently officiated the [[2021 CONCACAF Gold Cup]],<ref>{{cite web|url=https://www.concacaf.com/gold-cup/article/match-officials-appointed-for-2021-concacaf-gold-cup/|title=Match Officials Appointed for 2021 Concacaf Gold Cup|website=www.concacaf.com|publisher=CONCACAF|date=29 June 2021 |access-date=29 June 2021}}</ref> and had officiated the [[2021 CONCACAF Gold Cup|final]] between the [[United States men's national soccer team|United States]] and [[Mexico national football team|Mexico]].<ref>{{Cite web|date=11 March 2021|title=Game Details|url=https://www.concacaf.com/en/gold-cup/game-details?matchid=568668|access-date=12 August 2021|website=Gold Cup}}</ref>
+
+In June 2023, Martínez was chosen to referee the [[2023 CONCACAF Nations League final|CONCACAF Nations League final]] between Canada and the United States.<ref>{{cite news |title=Said Martínez pitará la gran final de la Nations League de Concacaf entre Canadá-Estados Unidos |trans-title=Saíd Martínez will referee the great final of the Concacaf Nations League between Canada and the United States|url=https://www.diez.hn/laseleccion/said-martinez-pitara-gran-final-nations-league-concacaf-2023-estados-unidos-canada-NO13951682 |access-date=18 June 2023 |work=Diez Honduras |date=18 June 2023|language=es}}</ref>
+
+==References==
+{{reflist}}
+
+{{s-start}}
+{{s-sports}}
+{{succession box
+|title= [[2021 CONCACAF Gold Cup final]] referee
+|before= [[2019 CONCACAF Gold Cup final|2019]]: {{fbaicon|GUA}} [[Mario Escobar (referee)|Mario Escobar]] 
+|after= [[2023 CONCACAF Gold Cup final|2023]]: TBD
+|years=}}
+{{s-end}}
+{{2022 FIFA World Cup referees}}
+
+{{DEFAULTSORT:Martinez, Said}}
+[[Category:1991 births]]
+[[Category:Living people]]
+[[Category:Honduran football referees]]
+[[Category:People from Colón Department (Honduras)]]
+[[Category:CONCACAF Champions League referees]]
+[[Category:CONCACAF Gold Cup referees]]
+[[Category:2022 FIFA World Cup referees]]

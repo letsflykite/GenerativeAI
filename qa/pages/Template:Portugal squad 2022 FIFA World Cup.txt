@@ -1,0 +1,41 @@
+{{National squad
+ | name        = Portugal squad 2022 FIFA World Cup
+ | bg          = #B50000
+ | fg          = gold
+ | bordercolor = #006600
+ | country     = Portugal
+ | comp link   = 2022 FIFA World Cup
+ | comp        = 2022 FIFA World Cup
+ | p1          = [[Rui Patrício|Patrício]]
+ | p2          = [[Diogo Dalot|Dalot]]
+ | p3          = [[Pepe (footballer, born 1983)|Pepe]]
+ | p4          = [[Rúben Dias|Dias]]
+ | p5          = [[Raphaël Guerreiro|Guerreiro]]
+ | p6          = [[João Palhinha|Palhinha]]
+ | p7          = [[Cristiano Ronaldo|Ronaldo]]&nbsp;([[Captain (association football)|c]])
+ | p8          = [[Bruno Fernandes|Fernandes]]
+ | p9          = [[André Silva (footballer, born 1995)|André Silva]]
+ | p10         = [[Bernardo Silva|B. Silva]]
+ | p11         = [[João Félix|Félix]]
+ | p12         = [[José Sá|Sá]]
+ | p13         = [[Danilo Pereira|Pereira]]
+ | p14         = [[William Carvalho|Carvalho]]
+ | p15         = [[Rafael Leão|Leão]]
+ | p16         = [[Vitinha (footballer, born February 2000)|Vitinha]]
+ | p17         = [[João Mário (footballer, born January 1993)|João Mário]]
+ | p18         = [[Rúben Neves|Neves]]
+ | p19         = [[Nuno Mendes (footballer, born 2002)|Mendes]]
+ | p20         = [[João Cancelo|Cancelo]]
+ | p21         = [[Ricardo Horta|Horta]]
+ | p22         = [[Diogo Costa|Costa]]
+ | p23         = [[Matheus Nunes|Nunes]]
+ | p24         = [[António Silva (footballer)|António Silva]]
+ | p25         = [[Otávio (footballer, born 1995)|Otávio]]
+ | p26         = [[Gonçalo Ramos|Ramos]]
+ | coach       = [[Fernando Santos (footballer, born 1954)|Santos]]
+}}<noinclude>
+{{Squad maintenance}}
+[[Category:2022 FIFA World Cup squad navigational boxes|Portugal]]
+[[Category:Portugal FIFA World Cup squad navigational boxes|2022]]
+[[Category:Portugal at the 2022 FIFA World Cup|squad]]
+</noinclude>

@@ -1,0 +1,212 @@
+{{Use dmy dates|date=November 2022}}
+{{Short description|Footballer (born 1997)}}
+{{Infobox football biography
+| name = Fodé Ballo-Touré
+| image = Fodé Ballo-Touré (cropped).jpg
+| caption = Ballo-Touré with [[AS Monaco FC|Monaco]] in 2021
+| full_name = 
+| birth_date = {{birth date and age|1997|01|03|df=yes}}
+| birth_place = [[Conflans-Sainte-Honorine]], France
+| height = 1.82 m<ref>{{Cite web |url=https://www.acmilan.com/it/squadre/prima-squadra-maschile/giocatori/ballo-toure/biografia |title=Archived copy |access-date=10 August 2021 |archive-date=10 August 2021 |archive-url=https://web.archive.org/web/20210810233050/https://www.acmilan.com/it/squadre/prima-squadra-maschile/giocatori/ballo-toure/biografia |url-status=dead }}</ref>
+| position = [[Left-back]]
+| currentclub = [[A.C. Milan|AC Milan]]
+| clubnumber = 5
+| youthyears1 = 2003–2005
+| youthclubs1 = AS Éragny
+| youthyears2 = 2005–2017
+| youthclubs2 = [[Paris Saint-Germain Academy|Paris Saint-Germain]]
+| years1 = 2014–2017
+| clubs1 = [[Paris Saint-Germain Academy|Paris Saint-Germain B]]
+| caps1 = 53
+| goals1 = 1
+| years2 = 2017–2019
+| clubs2 = [[Lille OSC|Lille]]
+| caps2 = 45
+| goals2 = 0
+| years3 = 2019–2021
+| clubs3 = [[AS Monaco FC|Monaco]]
+| caps3 = 63
+| goals3 = 0
+| years4 = 2021–
+| clubs4 = [[A.C. Milan|AC Milan]]
+| caps4 = 20
+| goals4 = 1
+| nationalyears1 = 2012–2013
+| nationalteam1 = [[France national under-16 football team|France U16]]
+| nationalcaps1 = 9
+| nationalgoals1 = 0
+| nationalyears2 = 2018–2019
+| nationalteam2 = [[France national under-21 football team|France U21]]
+| nationalcaps2 = 9
+| nationalgoals2 = 0
+| nationalyears3 = 2021–
+| nationalteam3 = [[Senegal national football team|Senegal]]
+| nationalcaps3 = 15
+| nationalgoals3 = 0
+| club-update = 17:06, 29 May 2023 (UTC)
+| nationalteam-update = 21:11, 5 December 2022 (UTC)
+| medaltemplates = {{Medal|Sport|Men's [[Association football|football]]}}
+{{Medal|Country|{{fb| SEN}}}}
+{{Medal|Competition|[[Africa Cup of Nations]]}}
+{{Medal|W|[[2021 Africa Cup of Nations|2021 Cameroon]]|}}
+}}
+
+'''Fodé Ballo-Touré''' (born 3 January 1997) is a Senegalese professional [[Association football|footballer]] who plays as a [[left-back]] for {{Italian football updater|Milan}} club [[A.C. Milan|AC Milan]]. Born in France, he plays for the [[Senegal national football team|Senegal national team]].<ref name="soccerway">{{Soccerway|fode-ballo-toure/320252}}</ref>
+
+==Club career==
+===Lille===
+Ballo-Touré developed through the [[Paris Saint-Germain Academy|Paris Saint-Germain]] academy. On 1 July 2017, his contract with PSG expired and he signed with [[Lille OSC]] managed by Head Coach [[Marcelo Bielsa]].<ref>{{cite web |url=https://www.lequipe.fr/Football/Actualites/Transferts-fode-ballo-toure-psg-a-lille/815016 |title=Transferts : Fodé Ballo-Touré (ex-PSG) à Lille |publisher=[[L'Équipe]] |accessdate=6 August 2017 |language=French}}</ref> He made his [[Ligue 1]] debut on 6 August 2017 in a 3–0 home win against [[FC Nantes|Nantes]]. He started the match and was replaced by [[Rominigue Kouamé]] at halftime.<ref name="soccerway2">{{cite web |url=https://int.soccerway.com/matches/2017/08/06/france/ligue-1/lille-olympique-sporting-club-metropole/fc-nantes/2464906/ |title=Lille vs. Nantes - 6 August 2017 - Soccerway |publisher=soccerway.com |accessdate=6 August 2017}}</ref>
+
+===Monaco===
+On 10 January 2019, Ballo-Touré signed with [[AS Monaco FC|Monaco]].<ref>{{cite web |url=https://www.lequipe.fr/Football/Actualites/Fode-ballo-toure-a-monaco-jusqu-en-2023-officiel/976140 |title=Fodé Ballo-Touré à Monaco jusqu'en 2023 (officiel) |publisher=[[L'Équipe]] |accessdate=10 January 2019 |language=French}}</ref>
+
+===AC Milan===
+On 18 July 2021, Ballo-Touré signed a contract with [[A.C. Milan|AC Milan]] until June 2025.<ref>{{cite web |url=https://www.acmilan.com/en/news/articles/media/2021-07-18/official-statement-fode-ballo-toure |title=Official Statement: Fodé Ballo-Touré |website=A.C. Milan |date=18 July 2021 }}</ref>
+
+==International career==
+Ballo-Touré was born in France to Malian father and Senegalese mother. He was a youth international for France.<ref>{{cite web |url=http://www.footmali.com/malifoot/fod%C3%A9-ballo-tour%C3%A9-un-autre-talent-dorigine-malienne-se-r%C3%A9v%C3%A8le-%C3%A0-l%E2%80%99hexagone+-+footmali.com |title=Fodé Ballo Touré : Un autre talent d'origine malienne se révèle à l'Hexagone |date=13 October 2016 |publisher=}}</ref> However, he decided to represent Senegal on senior level, over France and Mali. He made his debut for [[Senegal national football team|Senegal]] in a 0–0 draw against [[Congo national football team|Congo]] on 26 March 2021.<ref>{{Cite web |date=26 March 2021 |title=Congo vs Sénégal : Les compositions officielles - Equipe nationale Football, Football |url=https://wiwsport.com/2021/03/26/congo-vs-senegal-les-compositions-officielles/ |access-date=26 March 2021 |website=wiwsport |language=fr-FR}}</ref>
+
+He was part of [[2021 Africa Cup of Nations squads#Senegal|Senegal's squad]] for the [[2021 Africa Cup of Nations]]; the Lions of Teranga went on to win the tournament for the first time in their history.<ref>{{cite web|url=https://www.cafonline.com/total-africa-cup-of-nations/news/cisse-unveils-senegal-squad-hopes-for-elusive-totalenergies-afcon-title|title=Cisse unveils Senegal squad, hopes for elusive TotalEnergies AFCON title|publisher=[[Confederation of African Football]]|date=25 December 2021|access-date=28 March 2023|archive-date=9 January 2022|archive-url=https://web.archive.org/web/20220109145849/https://www.cafonline.com/total-africa-cup-of-nations/news/cisse-unveils-senegal-squad-hopes-for-elusive-totalenergies-afcon-title|url-status=live}}</ref><ref>{{cite web |title=Senegal 0-0 Egypt |url=https://www.bbc.co.uk/sport/football/60186276 |website=[[BBC Sport]] |access-date=28 March 2023 |date=7 February 2022}}</ref>
+
+Ballo-Touré was appointed a [[National Order of the Lion|Grand Officer of the National Order of the Lion]] by [[President of Senegal]] [[Macky Sall]] following the nation's victory at the tournament.<ref name= "reuters">{{cite web |title=Cash prizes, real estate, and highest honours as Senegal celebrates Nations Cup heroes |url=https://www.reuters.com/lifestyle/sports/cash-prizes-real-estate-highest-honours-senegal-celebrates-nations-cup-heroes-2022-02-08/ |website=[[Reuters]] |access-date=28 March 2023 |date=8 February 2022}}</ref>
+
+==Career statistics==
+
+===Club===
+{{updated|match played 28 May 2023}}<ref name="soccerway"/>
+
+{| class="wikitable" style="text-align: center;"
+|-
+!rowspan="2"|Club
+!rowspan="2"|Season
+!colspan="3"|League
+!colspan="2"|National Cup
+!colspan="2"|League Cup
+!colspan="2"|Europe
+!colspan="2"|Other
+!colspan="2"|Total
+|-
+!Division||Apps||Goals||Apps||Goals||Apps||Goals||Apps||Goals||Apps||Goals||Apps||Goals
+|-
+|rowspan="3"|[[Lille OSC|Lille]]
+|[[2017–18 Lille OSC season|2017–18]]
+|rowspan="2"|[[Ligue 1]]
+|27||0||1||0||1||0||colspan="2"|—||colspan="2"|—||29||0
+|-
+|[[2018–19 Lille OSC season|2018–19]]
+|18||0||0||0||0||0||colspan="2"|—||colspan="2"|—||18||0
+|-
+!colspan="2"|Total
+!45!!0!!1!!0!!1!!0!!0!!0!!0!!0!!47!!0
+|-
+|rowspan="4"|[[AS Monaco FC|Monaco]]
+|[[2018–19 AS Monaco FC season|2018–19]]
+|rowspan="3"|Ligue 1
+|18||0||2||0||0||0||colspan="2"|—||colspan="2"|—||20||0
+|-
+|[[2019–20 AS Monaco FC season|2019–20]]
+|21||0||2||0||2||0||colspan="2"|—||colspan="2"|—||25||0
+|-
+|[[2020–21 AS Monaco FC season|2020–21]]
+|24||0||5||0||0||0||colspan="2"|—||colspan="2"|—||29||0
+|-
+!colspan="2"|Total
+!63!!0!!9!!0!!2!!0!!0!!0!!0!!0!!74!!0
+|-
+|rowspan="3"|[[A.C. Milan|AC Milan]]
+|[[2021–22 A.C. Milan season|2021–22]]
+|rowspan="2"|[[Serie A]]
+|10||0||0||0||colspan="2"|—||2{{efn|Appearance(s) in [[UEFA Champions League]]|name=CL}}||0||colspan="2"|—||12||0
+|-
+|[[2022–23 A.C. Milan season|2022–23]]
+|10||1||0||0||colspan="2"|—||4{{efn|Appearance(s) in [[UEFA Champions League]]|name=CL}}||0||colspan="2"|—||14||1
+|-
+!colspan="2"|Total
+!20!!1!!0!!0!!0!!0!!6!!0!!0!!0!!26!!1
+|-
+!colspan="3"|Career total
+!128!!1!!10!!0!!3!!0!!6!!0!!0!!0!!147!!1
+|}
+
+{{Notelist}}
+
+===International===
+{{updated|match played 24 September 2022}}<ref name="NFT">{{NFT player|82036|access-date=25 January 2022}}</ref>
+
+{| class="wikitable" style="text-align:center"
+|+ Appearances and goals by national team and year
+|-
+!National team!!Year!!Apps!!Goals
+|-
+|rowspan="2"|[[Senegal national football team|Senegal]]
+|2021||8||0
+|-
+|2022||6||0
+|-
+!colspan="2"|Total!!14!!0
+|}
+
+==Honours==
+'''Lille'''
+*[[Ligue 1]] runner-up: [[2018–19 Ligue 1|2018–19]]<ref>{{cite news |url=https://medium.com/@thanoschelasklmt/https-medium-com-thanoschelas-christophe-galtiers-2018-2019-lille-osc-tactical-analysis-cfd15358a368 |title=Christophe Galtier’s 2018/2019 Lille OSC — Tactical Analysis |last=Chelas |first=Thanos |date=27 July 2019 |website=[[Medium (website)|Medium]] |access-date=20 April 2023}}</ref>
+
+'''AC Milan'''
+*[[Serie A]]: [[2021–22 Serie A|2021–22]]<ref>{{cite web |url=https://www.news18.com/news/football/ac-milan-secure-1st-serie-a-title-in-11-years-5225965.html |title=Milan Secure 1st Serie A Title in 11 Years |website=news18.com |date=23 May 2022 |access-date=23 May 2022}}</ref>
+
+'''Senegal'''
+*[[Africa Cup of Nations]]: [[2021 Africa Cup of Nations|2021]]<ref>{{cite news|url=https://www.si.com/soccer/liverpool/news/africa-cup-of-nations-senegal-beat-egypt-to-win-final-afcon|title=Africa Cup Of Nations: Senegal Beat Egypt To Win Final (AFCON)|publisher=Sports Illustrated|date=6 February 2022|access-date=6 February 2022}}</ref>
+
+'''Individual'''
+*[[National Order of the Lion|Grand Officer of the National Order of the Lion]]: 2022<ref name="reuters" />
+
+==References==
+{{Reflist}}
+
+==External links==
+{{cc}}
+* [https://www.acmilan.com/en/teams/men-first-team/players/fode-ballo-toure/biography Profile] at the AC Milan website
+* {{FFF player|9043-ballo-toure-fode|Fodé Ballo Touré}}
+* {{FFF male|2338160619-fode-ballo-toure|Fodé Ballo-Touré|archive=20200804151139}}
+
+{{A.C. Milan squad}}
+{{Navboxes
+| title = Senegal squads
+| bg = #00853F
+| fg = #FDEF42
+| bordercolor = red
+| list1 = 
+{{Senegal squad 2021 Africa Cup of Nations}}
+{{Senegal squad 2022 FIFA World Cup}}
+}}
+
+{{DEFAULTSORT:Ballo-Toure, Fode}}
+[[Category:1997 births]]
+[[Category:Living people]]
+[[Category:People from Conflans-Sainte-Honorine]]
+[[Category:Footballers from Yvelines]]
+[[Category:Citizens of Senegal through descent]]
+[[Category:Senegalese men's footballers]]
+[[Category:Senegal men's international footballers]]
+[[Category:French men's footballers]]
+[[Category:France men's youth international footballers]]
+[[Category:France men's under-21 international footballers]]
+[[Category:French sportspeople of Senegalese descent]]
+[[Category:Men's association football defenders]]
+[[Category:Ligue 1 players]]
+[[Category:Serie A players]]
+[[Category:Lille OSC players]]
+[[Category:AS Monaco FC players]]
+[[Category:AC Milan players]]
+[[Category:2021 Africa Cup of Nations players]]
+[[Category:2022 FIFA World Cup players]]
+[[Category:Africa Cup of Nations-winning players]]
+[[Category:French expatriate men's footballers]]
+[[Category:Senegalese expatriate men's footballers]]
+[[Category:Expatriate men's footballers in Italy]]
+[[Category:Recipients of orders, decorations, and medals of Senegal]]
+[[Category:French expatriate sportspeople in Italy]]
+[[Category:Senegalese expatriate sportspeople in Italy]]
+
+
+{{Senegal-footy-bio-stub}}
+{{France-footy-defender-1990s-stub}}

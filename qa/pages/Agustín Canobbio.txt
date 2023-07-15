@@ -1,0 +1,126 @@
+{{Use dmy dates|date=November 2022}}
+{{short description|Uruguayan football player (born 1998)}}
+{{family name hatnote|Canobbio|Graviz|lang=Spanish}}
+{{Infobox football biography
+| name = Agustín Canobbio
+| image = Agustín Canobbio 2018.jpg
+| caption = Canobbio with [[Peñarol]] in 2018
+| fullname = Agustín Canobbio Graviz<ref name="FIFA 2022">{{cite web |url=https://fdp.fifa.org/assetspublic/ce44/pdf/SquadLists-English.pdf |title=FIFA World Cup Qatar 2022™: List of Players: Uruguay |publisher=FIFA |page=30 |date=15 November 2022 |access-date=15 November 2022 |archive-url=https://web.archive.org/web/20221218195301/https://fdp.fifa.org/assetspublic/ce44/pdf/SquadLists-English.pdf |archive-date=18 December 2022 |url-status=live}}</ref>
+| birth_date = {{Birth date and age|1998|10|1|df=y}}
+| birth_place = [[Montevideo]], Uruguay
+| height = {{height|m=1.75}}
+| position = [[Forward (association football)|Winger]]
+| currentclub = [[Club Athletico Paranaense|Athletico Paranaense]]
+| clubnumber = 14
+| youthyears1 = 2011–2016
+| youthclubs1 = [[Centro Atlético Fénix|Fénix]]
+| years1 = 2016–2018
+| clubs1 = [[Centro Atlético Fénix|Fénix]]
+| caps1 = 41
+| goals1 = 3
+| years2 = 2018–2019
+| clubs2 = [[Peñarol]]
+| caps2 = 58
+| goals2 = 3
+| years3 = 2020–2021
+| clubs3 = [[Centro Atlético Fénix|Fénix]]
+| caps3 = 22
+| goals3 = 5
+| years4 = 2021–2022
+| clubs4 = [[Peñarol]]
+| caps4 = 34
+| goals4 = 4
+| years5 = 2022–
+| clubs5 = [[Club Athletico Paranaense|Athletico Paranaense]]
+| caps5 = 49
+| goals5 = 5
+| nationalyears1 = 2016–2017
+| nationalteam1 = [[Uruguay national under-20 football team|Uruguay U20]]
+| nationalcaps1 = 21
+| nationalgoals1 = 0
+| nationalyears2 = 2022–
+| nationalteam2 = [[Uruguay national football team|Uruguay]]
+| nationalcaps2 = 7
+| nationalgoals2 = 0
+| medaltemplates = {{MedalSport|Men's [[Association football|football]]}}
+{{MedalCountry|{{fb|URU}}}}
+{{MedalCompetition|[[South American Youth Football Championship|South American U-20 Championship]]}}
+{{Medal|Winner|[[2017 South American U-20 Championship|2017 Ecuador]]|}}
+| club-update = 2 July 2023
+| ntupdate = 20 June 2023
+}}
+
+'''Agustín Canobbio Graviz''' (born 1 October 1998) is a Uruguayan professional [[association football|footballer]] who plays as a [[Forward (association football)|winger]] for Brazilian club [[Club Athletico Paranaense|Athletico Paranaense]] and the [[Uruguay national football team|Uruguay national team]].<ref name="soccerway">{{Soccerway|452566}}</ref>
+
+==Club career==
+Canobbio is a youth academy graduate of [[Centro Atlético Fénix|Fénix]]. He made his professional debut for the club on 30 August 2016 in a 1–0 league defeat against [[C.A. Cerro|Cerro]].<ref>{{cite web|title=Fénix vs. Cerro - 30 August 2016|url=https://int.soccerway.com/matches/2016/08/30/uruguay/primera-division/centro-atletico-fenix/club-atletico-cerro/2346665/|access-date=16 July 2021}}</ref> He joined [[Peñarol]] in January 2018.<ref>{{cite web|title=Agustín Canobbio se convirtió en nuevo jugador de Peñarol|url=https://ladiaria.com.uy/articulo/2018/1/agustin-canobbio-se-convirtio-en-nuevo-jugador-de-penarol/|date=11 January 2018|access-date=16 July 2021}}</ref>
+
+==International career==
+Canobbio is a former Uruguayan youth national team player.<ref>{{cite web|title=19 - Agustín Canobbio|url=https://www.auf.org.uy/19-agust-iacute-n-canobbio-2017/|date=18 May 2017|access-date=16 July 2021}}</ref> He was part of [[Uruguay national under-20 football team|under-20 team]] which won [[2017 South American U-20 Championship]] and reached semi-finals of [[2017 FIFA U-20 World Cup]].
+
+On 7 January 2022, Canobbio was named in Uruguay's 50-man preliminary squad for [[2022 FIFA World Cup qualification (CONMEBOL)|FIFA World Cup qualifying]] matches against [[Paraguay national football team|Paraguay]] and [[Venezuela national football team|Venezuela]].<ref>{{cite web|url=https://www.auf.org.uy/reservados-vs-paraguay-venezuela/|title=Reservados vs. Paraguay y Venezuela|publisher=[[Uruguayan Football Association]]|date=7 January 2022|access-date=18 January 2022}}</ref> He made his senior team debut on 27 January 2022 in a 1–0 win against Paraguay.<ref>{{cite web|url=https://espndeportes.espn.com/futbol/mundial/nota/_/id/9847021/uruguay-debut-diego-alonso-rochet-pellistri-mathias-olivera-analisis-actuacion-paraguay|title=La solvencia de Olivera, la seguridad de Rochet y la aplicación de Pellistri - así jugaron los debutantes de Uruguay|date=28 January 2022|access-date=29 January 2022}}</ref>
+
+==Personal life==
+Canobbio is son of former Uruguayan international [[Osvaldo Canobbio]].<ref>{{cite web|title=Un Canobbio se puso la de Peñarol|url=https://www.elobservador.com.uy/nota/un-canobbio-se-puso-la-de-penarol-20181108250|date=10 January 2018|access-date=16 July 2021}}</ref>
+
+==Career statistics==
+===International===
+{{updated|match played 20 June 2023}}<ref name="soccerway"/>
+{| class="wikitable" style="text-align:center"
+|+ Appearances and goals by national team and year
+|-
+!National team!!Year!!Apps!!Goals
+|-
+|rowspan="2"|[[Uruguay national football team|Uruguay]]
+|2022||4||0
+|-
+|2023||3||0
+|-
+!colspan="2"|Total||7||0
+|}
+
+==Honours==
+'''Peñarol'''
+* [[Uruguayan Primera División]]: [[2018 Uruguayan Primera División season|2018]], [[2021 Uruguayan Primera División season|2021]]
+* [[Supercopa Uruguaya]]: [[2018 Supercopa Uruguaya|2018]]
+
+'''Athletico Paranaense'''
+* [[Campeonato Paranaense]]: [[2023 Campeonato Paranaense|2023]]
+
+'''Uruguay U20'''
+* [[South American Youth Football Championship]]: [[2017 South American U-20 Championship|2017]]
+
+'''Individual'''
+* [[Uruguayan Primera División]] Player of the Year: [[2021 Uruguayan Primera División season|2021]]<ref name="auf2021">{{cite web|title=Se definieron los Premios AUF anuales 2021|url=https://www.auf.org.uy/se-definieron-los-premios-auf-anuales-2021/|date=28 December 2021|access-date=23 December 2022}}</ref>
+* [[Uruguayan Primera División]] Team of the Year: [[2021 Uruguayan Primera División season|2021]]<ref name=auf2021/>
+
+==References==
+{{reflist}}
+
+==External links==
+* {{WorldFootball.net|agustin-canobbio}}
+
+{{Club Athletico Paranaense squad}}
+{{Uruguay squad 2022 FIFA World Cup}}
+
+{{DEFAULTSORT:Canobbio, Agustin}}
+[[Category:1998 births]]
+[[Category:Living people]]
+[[Category:Footballers from Montevideo]]
+[[Category:Uruguayan sportspeople of Italian descent]]
+[[Category:Men's association football forwards]]
+[[Category:Uruguayan men's footballers]]
+[[Category:Uruguay men's youth international footballers]]
+[[Category:Uruguay men's under-20 international footballers]]
+[[Category:Uruguay men's international footballers]]
+[[Category:Uruguayan Primera División players]]
+[[Category:Campeonato Brasileiro Série A players]]
+[[Category:Centro Atlético Fénix players]]
+[[Category:Peñarol players]]
+[[Category:Club Athletico Paranaense players]]
+[[Category:2022 FIFA World Cup players]]
+[[Category:Uruguayan expatriate men's footballers]]
+[[Category:Uruguayan expatriate sportspeople in Brazil]]
+[[Category:Expatriate men's footballers in Brazil]]
+
+{{Uruguay-footy-forward-1990s-stub}}

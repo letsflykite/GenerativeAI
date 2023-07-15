@@ -1,0 +1,719 @@
+{{short description|none}}
+{{Use dmy dates|date=December 2020}}
+The '''2022 FIFA World Cup qualification UEFA Group I''' was one of the ten [[2022 FIFA World Cup qualification (UEFA)|UEFA groups]] in the [[2022 FIFA World Cup qualification|World Cup qualification]] tournament to decide which teams would qualify for the [[2022 FIFA World Cup]] tournament in Qatar.<ref>{{cite news |url=https://digitalhub.fifa.com/m/58b8109657d40e3d/original/ijoruwm3ly5kgz9wbu6j-pdf.pdf |title=UEFA preliminary competition for the FIFA World Cup 2022: Draw procedures |work=[[FIFA]] |format=PDF |date=22 October 2020 |access-date=22 October 2020}}</ref> Group I consisted of six teams: [[Albania national football team|Albania]], [[Andorra national football team|Andorra]], [[England national football team|England]], [[Hungary national football team|Hungary]], [[Poland national football team|Poland]] and [[San Marino national football team|San Marino]].<ref>{{cite web |url=https://editorial.uefa.com/resources/0264-1108c702e548-758110ebe57c-1000/draw_result_sheet.pdf |title=FIFA World Cup Preliminary Competition – Draw Results |work=UEFA |format=PDF |date=7 December 2020 |access-date=7 December 2020}}</ref> The teams played against each other home-and-away in a [[round-robin tournament|round-robin format]].<ref>{{cite web |url=https://digitalhub.fifa.com/m/271202c2bf80db17/original/adjlwts3o6c57g0skqor-pdf.pdf |title=UEFA preliminary competition format for the FIFA World Cup 2022 |work=FIFA |format=PDF |date=4 December 2020 |access-date=7 December 2020}}</ref>
+
+The group winners, England, qualified directly for the World Cup finals, while the runners-up, Poland, advanced to the [[2022 FIFA World Cup qualification – UEFA second round|second round (play-offs)]].
+
+==Standings==
+<onlyinclude>{{#invoke:Sports table|main|style=WDL
+|show_matches=y
+|class_rules=[[2022 FIFA World Cup qualification#Tiebreakers|Tiebreakers]]
+|source=[https://www.fifa.com/tournaments/mens/worldcup/qatar2022/qualifiers/uefa FIFA], [https://www.uefa.com/european-qualifiers/standings/#grp-2007936 UEFA]
+
+<!--Update team positions below (check tiebreakers)-->
+|team_order=ENG, POL, ALB, HUN, AND, SMR
+
+<!--Update team results below (including date)-->
+|update=complete
+|win_ENG=8 |draw_ENG=2 |loss_ENG=0 |gf_ENG=39|ga_ENG=3
+|win_POL=6 |draw_POL=2 |loss_POL=2 |gf_POL=30|ga_POL=11
+|win_HUN=5 |draw_HUN=2 |loss_HUN=3 |gf_HUN=19|ga_HUN=13
+|win_ALB=6 |draw_ALB=0 |loss_ALB=4 |gf_ALB=12|ga_ALB=12
+|win_AND=2 |draw_AND=0 |loss_AND=8 |gf_AND=8 |ga_AND=24
+|win_SMR=0 |draw_SMR=0 |loss_SMR=10|gf_SMR=1 |ga_SMR=46
+
+<!--Update match results below-->
+|match_ENG_POL=[[2022 FIFA World Cup qualification – UEFA Group I#England v Poland|2–1]]
+|match_ENG_HUN=[[2022 FIFA World Cup qualification – UEFA Group I#England v Hungary|1–1]]
+|match_ENG_ALB=[[2022 FIFA World Cup qualification – UEFA Group I#England v Albania|5–0]]
+|match_ENG_AND=[[2022 FIFA World Cup qualification – UEFA Group I#England v Andorra|4–0]]
+|match_ENG_SMR=[[2022 FIFA World Cup qualification – UEFA Group I#England v San Marino|5–0]]
+
+|match_POL_ENG=[[2022 FIFA World Cup qualification – UEFA Group I#Poland v England|1–1]]
+|match_POL_HUN=[[2022 FIFA World Cup qualification – UEFA Group I#Poland v Hungary|1–2]]
+|match_POL_ALB=[[2022 FIFA World Cup qualification – UEFA Group I#Poland v Albania|4–1]]
+|match_POL_AND=[[2022 FIFA World Cup qualification – UEFA Group I#Poland v Andorra|3–0]]
+|match_POL_SMR=[[2022 FIFA World Cup qualification – UEFA Group I#Poland v San Marino|5–0]]
+
+|match_HUN_ENG=[[2022 FIFA World Cup qualification – UEFA Group I#Hungary v England|0–4]]
+|match_HUN_POL=[[2022 FIFA World Cup qualification – UEFA Group I#Hungary v Poland|3–3]]
+|match_HUN_ALB=[[2022 FIFA World Cup qualification – UEFA Group I#Hungary v Albania|0–1]]
+|match_HUN_AND=[[2022 FIFA World Cup qualification – UEFA Group I#Hungary v Andorra|2–1]]
+|match_HUN_SMR=[[2022 FIFA World Cup qualification – UEFA Group I#Hungary v San Marino|4–0]]
+
+|match_ALB_ENG=[[2022 FIFA World Cup qualification – UEFA Group I#Albania v England|0–2]]
+|match_ALB_POL=[[2022 FIFA World Cup qualification – UEFA Group I#Albania v Poland|0–1]]
+|match_ALB_HUN=[[2022 FIFA World Cup qualification – UEFA Group I#Albania v Hungary|1–0]]
+|match_ALB_AND=[[2022 FIFA World Cup qualification – UEFA Group I#Albania v Andorra|1–0]]
+|match_ALB_SMR=[[2022 FIFA World Cup qualification – UEFA Group I#Albania v San Marino|5–0]]
+
+|match_AND_ENG=[[2022 FIFA World Cup qualification – UEFA Group I#Andorra v England|0–5]]
+|match_AND_POL=[[2022 FIFA World Cup qualification – UEFA Group I#Andorra v Poland|1–4]]
+|match_AND_HUN=[[2022 FIFA World Cup qualification – UEFA Group I#Andorra v Hungary|1–4]]
+|match_AND_ALB=[[2022 FIFA World Cup qualification – UEFA Group I#Andorra v Albania|0–1]]
+|match_AND_SMR=[[2022 FIFA World Cup qualification – UEFA Group I#Andorra v San Marino|2–0]]
+
+|match_SMR_ENG=[[2022 FIFA World Cup qualification – UEFA Group I#San Marino v England|0–10]]
+|match_SMR_POL=[[2022 FIFA World Cup qualification – UEFA Group I#San Marino v Poland|1–7]]
+|match_SMR_HUN=[[2022 FIFA World Cup qualification – UEFA Group I#San Marino v Hungary|0–3]]
+|match_SMR_ALB=[[2022 FIFA World Cup qualification – UEFA Group I#San Marino v Albania|0–2]]
+|match_SMR_AND=[[2022 FIFA World Cup qualification – UEFA Group I#San Marino v Andorra|0–3]]
+
+<!--Team definitions-->
+|name_ENG={{fb|ENG}} |short_ENG={{flagdeco|ENG}}
+|name_POL={{fb|POL}} |short_POL={{flagdeco|POL}}
+|name_HUN={{fb|HUN}} |short_HUN={{flagdeco|HUN}}
+|name_ALB={{fb|ALB}} |short_ALB={{flagdeco|ALB}}
+|name_AND={{fb|AND}} |short_AND={{flagdeco|AND}}
+|name_SMR={{fb|SMR}} |short_SMR={{flagdeco|SMR}}
+
+<!--Qualification column definitions-->
+|res_col_header=Q
+|result1=WC |result2=PO
+|col_WC=green1 |text_WC=Qualification for [[2022 FIFA World Cup]]
+|col_PO=blue1  |text_PO=Advance to [[2022 FIFA World Cup qualification – UEFA second round|play-offs]]
+}}</onlyinclude>
+
+==Matches==
+The fixture list was confirmed by UEFA on 8 December 2020, the day following the draw.<ref>{{cite web |url=https://www.uefa.com/european-qualifiers/news/0264-110cbe0bf3c8-20065adb8f46-1000/ |title=European Qualifiers for 2022 World Cup: all the fixtures |work=UEFA |date=9 December 2020 |access-date=12 December 2020}}</ref><ref>{{cite web |url=https://editorial.uefa.com/resources/0264-110ace207077-148a7a2a0834-1000/worldcupfixtures.pdf |title=Fixture List – European Qualifiers 2020–2022: FIFA World Cup Preliminary Competition |work=UEFA |date=8 December 2020 |access-date=8 December 2020}}</ref><ref>{{cite web |url=https://editorial.uefa.com/resources/0264-110ad8d233bb-8b2abff6c4d7-1000/eq_2020-22_-_fixtures_list_by_groups.pdf |title=Fixture List by Group – European Qualifiers 2020–2022: FIFA World Cup Preliminary Competition |work=UEFA |date=8 December 2020 |access-date=8 December 2020}}</ref> Times are [[Central European Time|CET]]/[[Central European Summer Time|CEST]],{{refn|group=note|[[Central European Time|CET]] ([[UTC+01:00|UTC+1]]) for matches until 27 March and from 31 October (matchday 1 and 9–10), and [[Central European Summer Time|CEST]] ([[UTC+02:00|UTC+2]]) for matches from 28 March to 30 October 2021 (matchday 2–8).}} as listed by UEFA (local times, if different, are in parentheses).
+
+{{Football box
+|id=Andorra v Albania
+|date={{Start date|2021|3|25|df=y}}
+|time=20:45
+|team1={{fb-rt|AND}}
+|score=0–1
+|report=[https://www.fifa.com/tournaments/mens/worldcup/qatar2022/qualifiers/uefa/match-center/400155534 Report (FIFA)]<br />[https://www.uefa.com/european-qualifiers/match/2030784/ Report (UEFA)]
+|team2={{fb|ALB}}
+|goals1=
+|goals2=
+*[[Ermir Lenjani|Lenjani]] {{goal|41}}
+|stadium=[[Estadi Nacional]], [[Andorra la Vella]]
+|attendance=285<ref>{{UEFA match attendance|2030784|Andorra vs. Albania |date=25 March 2021|access-date=1 April 2021}}</ref>
+|referee= [[Volen Chinkov]] ([[Bulgarian Football Union|Bulgaria]])
+}}
+{{Football box
+|id=England v San Marino
+|date={{Start date|2021|3|25|df=y}}
+|time=20:45 {{small|(19:45 [[UTC±00:00|UTC±0]])}}
+|team1={{fb-rt|ENG}}
+|score=5–0
+|report=[https://www.fifa.com/tournaments/mens/worldcup/qatar2022/qualifiers/uefa/match-center/400155552 Report (FIFA)]<br />[https://www.uefa.com/european-qualifiers/match/2030777/ Report (UEFA)]
+|team2={{fb|SMR}}
+|goals1=
+*[[James Ward-Prowse|Ward-Prowse]] {{goal|14}}
+*[[Dominic Calvert-Lewin|Calvert-Lewin]] {{goal|21||53}}
+*[[Raheem Sterling|Sterling]] {{goal|31}}
+*[[Ollie Watkins|Watkins]] {{goal|83}}
+|goals2=
+|stadium=[[Wembley Stadium]], [[London]]
+|attendance=0<ref>{{UEFA match attendance|2030777|England vs. San Marino |date=25 March 2021|access-date=1 April 2021}}</ref>{{refn|group=note|name=Behind closed doors|Due to the [[COVID-19 pandemic in Europe]], the match was played [[Behind closed doors (sport)|behind closed doors]].}}
+|referee= [[Kirill Levnikov]] ([[Russian Football Union|Russia]])
+}}
+{{Football box
+|id=Hungary v Poland
+|date={{Start date|2021|3|25|df=y}}
+|time=20:45
+|team1={{fb-rt|HUN}}
+|score=3–3
+|report=[https://www.fifa.com/tournaments/mens/worldcup/qatar2022/qualifiers/uefa/match-center/400155525 Report (FIFA)]<br />[https://www.uefa.com/european-qualifiers/match/2030781/ Report (UEFA)]
+|team2={{fb|POL}}
+|goals1=
+*[[Roland Sallai|Sallai]] {{goal|6}}
+*[[Ádám Szalai|Ád. Szalai]] {{goal|53}}
+*[[Willi Orbán|Orbán]] {{goal|78}}
+|goals2=
+*[[Krzysztof Piątek|Piątek]] {{goal|60}}
+*[[Kamil Jóźwiak|Jóźwiak]] {{goal|61}}
+*[[Robert Lewandowski|Lewandowski]] {{goal|83}}
+|stadium=[[Puskás Aréna]], [[Budapest]]
+|attendance=0<ref>{{UEFA match attendance|2030781|Hungary vs. Poland |date=25 March 2021|access-date=1 April 2021}}</ref>{{refn|group=note|name=Behind closed doors}}
+|referee= [[Felix Brych]] ([[German Football Association|Germany]])
+}}
+----
+{{Football box
+|id=Albania v England
+|date={{Start date|2021|3|28|df=y}}
+|time=18:00
+|team1={{fb-rt|ALB}}
+|score=0–2
+|report=[https://www.fifa.com/tournaments/mens/worldcup/qatar2022/qualifiers/uefa/match-center/400155536 Report (FIFA)]<br />[https://www.uefa.com/european-qualifiers/match/2030802/ Report (UEFA)]
+|team2={{fb|ENG}}
+|goals1=
+|goals2=
+*[[Harry Kane|Kane]] {{goal|38}}
+*[[Mason Mount|Mount]] {{goal|63}}
+|stadium=[[Arena Kombëtare]], [[Tirana]]
+|attendance=200<ref>{{UEFA match attendance|2030802|Albania vs. England |date=28 March 2021|access-date=1 April 2021}}</ref>
+|referee= [[Orel Grinfeld]] ([[Israel Football Association|Israel]])
+}}
+{{Football box
+|id=Poland v Andorra
+|date={{Start date|2021|3|28|df=y}}
+|time=20:45
+|team1={{fb-rt|POL}}
+|score=3–0
+|report=[https://www.fifa.com/tournaments/mens/worldcup/qatar2022/qualifiers/uefa/match-center/400155547 Report (FIFA)]<br />[https://www.uefa.com/european-qualifiers/match/2030799/ Report (UEFA)]
+|team2={{fb|AND}}
+|goals1=
+*[[Robert Lewandowski|Lewandowski]] {{goal|30||55}}
+*[[Karol Świderski|Świderski]] {{goal|88}}
+|goals2=
+|stadium= [[Stadion Wojska Polskiego]], [[Warsaw]]
+|attendance=0<ref>{{UEFA match attendance|2030799|Poland vs. Andorra |date=28 March 2021|access-date=1 April 2021}}</ref>{{refn|group=note|name=Behind closed doors}}
+|referee= [[Erik Lambrechts]] ([[Royal Belgian Football Association|Belgium]])
+}}
+{{Football box
+|id=San Marino v Hungary
+|date={{Start date|2021|3|28|df=y}}
+|time=20:45
+|team1={{fb-rt|SMR}}
+|score=0–3
+|report=[https://www.fifa.com/tournaments/mens/worldcup/qatar2022/qualifiers/uefa/match-center/400155529 Report (FIFA)]<br />[https://www.uefa.com/european-qualifiers/match/2030804/ Report (UEFA)]
+|team2={{fb|HUN}}
+|goals1=
+|goals2=
+*[[Ádám Szalai|Ád. Szalai]] {{goal|13|pen.}}
+*[[Roland Sallai|Sallai]] {{goal|71}}
+*[[Nemanja Nikolić (footballer, born 1987)|Nikolić]] {{goal|88|pen.}}
+|stadium=[[San Marino Stadium]], [[Serravalle (San Marino)|Serravalle]]
+|attendance=0<ref>{{UEFA match attendance|2030804|San Marino vs. Hungary |date=28 March 2021|access-date=1 April 2021}}</ref>{{refn|group=note|name=Behind closed doors}}
+|referee= [[Nick Walsh (referee)|Nicholas Walsh]] ([[Scottish Football Association|Scotland]])
+}}
+----
+{{Football box
+|id=Andorra v Hungary
+|date={{Start date|2021|3|31|df=y}}
+|time=20:45
+|team1={{fb-rt|AND}}
+|score=1–4
+|report=[https://www.fifa.com/tournaments/mens/worldcup/qatar2022/qualifiers/uefa/match-center/400155541 Report (FIFA)]<br />[https://www.uefa.com/european-qualifiers/match/2030833/ Report (UEFA)]
+|team2={{fb|HUN}}
+|goals1=
+*[[Marc Pujol|Pujol]] {{goal|90+3|pen.}}
+|goals2=
+*[[Attila Fiola|Fiola]] {{goal|45+2}}
+*[[Dániel Gazdag|Gazdag]] {{goal|51}}
+*[[László Kleinheisler|Kleinheisler]] {{goal|58}}
+*[[Loïc Négo|Négo]] {{goal|90}}
+|stadium=[[Estadi Nacional]], [[Andorra la Vella]]
+|attendance=338<ref>{{UEFA match attendance|2030833|Andorra vs. Hungary |date=31 March 2021|access-date=1 April 2021}}</ref>
+|referee=[[Vilhjalmur Thorarinsson]] ([[Football Association of Iceland|Iceland]])
+}}
+{{Football box
+|id=England v Poland
+|date={{Start date|2021|3|31|df=y}}
+|time=20:45 {{small|(19:45 [[UTC+01:00|UTC+1]])}}
+|team1={{fb-rt|ENG}}
+|score=2–1
+|report=[https://www.fifa.com/tournaments/mens/worldcup/qatar2022/qualifiers/uefa/match-center/400155553 Report (FIFA)]<br />[https://www.uefa.com/european-qualifiers/match/2030829/ Report (UEFA)]
+|team2={{fb|POL}}
+|goals1=
+*[[Harry Kane|Kane]] {{goal|19|pen.}}
+*[[Harry Maguire|Maguire]] {{goal|85}}
+|goals2=
+*[[Jakub Moder|Moder]] {{goal|58}}
+|stadium=[[Wembley Stadium]], [[London]]
+|attendance=0<ref>{{UEFA match attendance|2030829|England vs. Poland |date=31 March 2021|access-date=1 April 2021}}</ref>{{refn|group=note|name=Behind closed doors}}
+|referee=[[Björn Kuipers]] ([[Royal Dutch Football Association|Netherlands]])
+}}
+{{Football box
+|id=San Marino v Albania
+|date={{Start date|2021|3|31|df=y}}
+|time=20:45
+|team1={{fb-rt|SMR}}
+|score=0–2
+|report=[https://www.fifa.com/tournaments/mens/worldcup/qatar2022/qualifiers/uefa/match-center/400155527 Report (FIFA)]<br />[https://www.uefa.com/european-qualifiers/match/2030835/ Report (UEFA)]
+|team2={{fb|ALB}}
+|goals1=
+|goals2=
+*[[Rey Manaj|Manaj]] {{goal|63}}
+*[[Myrto Uzuni|Uzuni]] {{goal|85}}
+|stadium=[[San Marino Stadium]], [[Serravalle (San Marino)|Serravalle]]
+|attendance=0<ref>{{UEFA match attendance|2030835|San Marino vs. Albania |date=31 March 2021|access-date=1 April 2021}}</ref>{{refn|group=note|name=Behind closed doors}}
+|referee=[[Kai Erik Steen]] ([[Norwegian Football Federation|Norway]])
+}}
+----
+{{Football box
+|id=Andorra v San Marino
+|date={{Start date|2021|9|2|df=y}}
+|time=20:45
+|team1={{fb-rt|AND}}
+|score=2–0
+|report=[https://www.fifa.com/tournaments/mens/worldcup/qatar2022/qualifiers/uefa/match-center/400155545 Report (FIFA)]<br />[https://www.uefa.com/european-qualifiers/match/2030859/ Report (UEFA)]
+|team2={{fb|SMR}}
+|goals1=
+*[[Marc Vales|Vales]] {{goal|18||24}}
+|goals2=
+|stadium=[[Estadi Nacional]], [[Andorra la Vella]]
+|attendance=1,400<ref>{{UEFA match attendance|2030859|Andorra vs. San Marino |date=2 September 2021|access-date=2 September 2021}}</ref>
+|referee=[[Jakob Kehlet]] ([[Danish Football Association|Denmark]])
+}}
+{{Football box
+|id=Hungary v England
+|date={{Start date|2021|9|2|df=y}}
+|time=20:45
+|team1={{fb-rt|HUN}}
+|score=0–4
+|report=[https://www.fifa.com/tournaments/mens/worldcup/qatar2022/qualifiers/uefa/match-center/400155549 Report (FIFA)]<br />[https://www.uefa.com/european-qualifiers/match/2030855/ Report (UEFA)]
+|team2={{fb|ENG}}
+|goals1=
+|goals2=
+*[[Raheem Sterling|Sterling]] {{goal|55}}
+*[[Harry Kane|Kane]] {{goal|63}}
+*[[Harry Maguire|Maguire]] {{goal|69}}
+*[[Declan Rice|Rice]] {{goal|87}}
+|stadium=[[Puskás Aréna]], [[Budapest]]
+|attendance=58,260<ref>{{UEFA match attendance|2030855|Hungary vs. England |date=2 September 2021|access-date=2 September 2021}}</ref>
+|referee=[[Cüneyt Çakır]] ([[Turkish Football Federation|Turkey]])
+}}
+{{Football box
+|id=Poland v Albania
+|date={{Start date|2021|9|2|df=y}}
+|time=20:45
+|team1={{fb-rt|POL}}
+|score=4–1
+|report=[https://www.fifa.com/tournaments/mens/worldcup/qatar2022/qualifiers/uefa/match-center/400155538 Report (FIFA)]<br />[https://www.uefa.com/european-qualifiers/match/2030852/ Report (UEFA)]
+|team2={{fb|ALB}}
+|goals1=
+*[[Robert Lewandowski|Lewandowski]] {{goal|12}}
+*[[Adam Buksa|Buksa]] {{goal|44}}
+*[[Grzegorz Krychowiak|Krychowiak]] {{goal|54}}
+*[[Karol Linetty|Linetty]] {{goal|89}}
+|goals2=
+*[[Sokol Cikalleshi|Cikalleshi]] {{goal|25}}
+|stadium=[[Stadion Narodowy|PGE Narodowy]], [[Warsaw]]
+|attendance=38,254<ref>{{UEFA match attendance|2030852|Poland vs. Albania |date=2 September 2021|access-date=2 September 2021}}</ref>
+|referee=[[Maurizio Mariani]] ([[Italian Football Federation|Italy]])
+}}
+----
+{{Football box
+|id=Albania v Hungary
+|date={{Start date|2021|9|5|df=y}}
+|time=18:00
+|team1={{fb-rt|ALB}}
+|score=1–0
+|report=[https://www.fifa.com/tournaments/mens/worldcup/qatar2022/qualifiers/uefa/match-center/400155542 Report (FIFA)]<br />[https://www.uefa.com/european-qualifiers/match/2030885/ Report (UEFA)]
+|team2={{fb|HUN}}
+|goals1=
+*[[Armando Broja|Broja]] {{goal|87}}
+|goals2=
+|stadium=[[Elbasan Arena]], [[Elbasan]]
+|attendance=4,135<ref>{{UEFA match attendance|2030885|Albania vs. Hungary |date=5 September 2021|access-date=5 September 2021}}</ref>
+|referee=[[Danny Makkelie]] ([[Royal Dutch Football Association|Netherlands]])
+}}
+{{Football box
+|id=England v Andorra
+|date={{Start date|2021|9|5|df=y}}
+|time=18:00 {{small|(17:00 [[UTC+01:00|UTC+1]])}}
+|team1={{fb-rt|ENG}}
+|score=4–0
+|report=[https://www.fifa.com/tournaments/mens/worldcup/qatar2022/qualifiers/uefa/match-center/400155554 Report (FIFA)]<br />[https://www.uefa.com/european-qualifiers/match/2030877/ Report (UEFA)]
+|team2={{fb|AND}}
+|goals1=
+*[[Jesse Lingard|Lingard]] {{goal|18||78}}
+*[[Harry Kane|Kane]] {{goal|72|pen.}}
+*[[Bukayo Saka|Saka]] {{goal|85}}
+|goals2=
+|stadium=[[Wembley Stadium]], [[London]]
+|attendance=67,171<ref>{{UEFA match attendance|2030877|England vs. Andorra |date=5 September 2021|access-date=5 September 2021}}</ref>
+|referee=[[Anastasios Papapetrou]] ([[Hellenic Football Federation|Greece]])
+}}
+{{Football box
+|id=San Marino v Poland
+|date={{Start date|2021|9|5|df=y}}
+|time=20:45
+|team1={{fb-rt|SMR}}
+|score=1–7
+|report=[https://www.fifa.com/tournaments/mens/worldcup/qatar2022/qualifiers/uefa/match-center/400155539 Report (FIFA)]<br />[https://www.uefa.com/european-qualifiers/match/2030879/ Report (UEFA)]
+|team2={{fb|POL}}
+|goals1=
+*[[Nicola Nanni|Nanni]] {{goal|48}}
+|goals2=
+*[[Robert Lewandowski|Lewandowski]] {{goal|4||21}}
+*[[Karol Świderski|Świderski]] {{goal|16}}
+*[[Karol Linetty|Linetty]] {{goal|44}}
+*[[Adam Buksa|Buksa]] {{goal|67||90+2||90+4}}
+|stadium=[[San Marino Stadium]], [[Serravalle (San Marino)|Serravalle]]
+|attendance=500<ref>{{UEFA match attendance|2030879|San Marino vs. Poland |date=5 September 2021|access-date=5 September 2021}}</ref>
+|referee=[[Mattias Gestranius]] ([[Football Association of Finland|Finland]])
+}}
+----
+{{Football box
+|id=Albania v San Marino
+|date={{Start date|2021|9|8|df=y}}
+|time=20:45
+|team1={{fb-rt|ALB}}
+|score=5–0
+|report=[https://www.fifa.com/tournaments/mens/worldcup/qatar2022/qualifiers/uefa/match-center/400155543 Report (FIFA)]<br />[https://www.uefa.com/european-qualifiers/match/2030906/ Report (UEFA)]
+|team2={{fb|SMR}}
+|goals1=
+*[[Rey Manaj|Manaj]] {{goal|32}}
+*[[Qazim Laçi|Laçi]] {{goal|58}}
+*[[Armando Broja|Broja]] {{goal|61}}
+*[[Elseid Hysaj|Hysaj]] {{goal|68}}
+*[[Myrto Uzuni|Uzuni]] {{goal|80}}
+|goals2=
+|stadium=[[Elbasan Arena]], [[Elbasan]]
+|attendance=3,850<ref>{{UEFA match attendance|2030906|Albania vs. San Marino |date=8 September 2021|access-date=8 September 2021}}</ref>
+|referee=[[Lukas Fähndrich]] ([[Swiss Football Association|Switzerland]])
+}}
+{{Football box
+|id=Hungary v Andorra
+|date={{Start date|2021|9|8|df=y}}
+|time=20:45
+|team1={{fb-rt|HUN}}
+|score=2–1
+|report=[https://www.fifa.com/tournaments/mens/worldcup/qatar2022/qualifiers/uefa/match-center/400155532 Report (FIFA)]<br />[https://www.uefa.com/european-qualifiers/match/2030907/ Report (UEFA)]
+|team2={{fb|AND}}
+|goals1=
+*[[Ádám Szalai|Ád. Szalai]] {{goal|9|pen.}}
+*[[Endre Botka|Botka]] {{goal|18}}
+|goals2=
+*[[Max Llovera|Llovera]] {{goal|82}}
+|stadium=[[Puskás Aréna]], [[Budapest]]
+|attendance=46,240<ref>{{UEFA match attendance|2030907|Hungary vs. Andorra |date=8 September 2021|access-date=8 September 2021}}</ref>
+|referee=[[Rade Obrenovič]] ([[Football Association of Slovenia|Slovenia]])
+}}
+{{Football box
+|id=Poland v England
+|date={{Start date|2021|9|8|df=y}}
+|time=20:45
+|team1={{fb-rt|POL}}
+|score=1–1
+|report=[https://www.fifa.com/tournaments/mens/worldcup/qatar2022/qualifiers/uefa/match-center/400155535 Report (FIFA)]<br />[https://www.uefa.com/european-qualifiers/match/2030903/ Report (UEFA)]
+|team2={{fb|ENG}}
+|goals1=
+*[[Damian Szymański|Szymański]] {{goal|90+2}}
+|goals2=
+*[[Harry Kane|Kane]] {{goal|72}}
+|stadium=[[Stadion Narodowy|PGE Narodowy]], [[Warsaw]]
+|attendance=56,212<ref>{{UEFA match attendance|2030903|Poland vs. England |date=8 September 2021|access-date=8 September 2021}}</ref>
+|referee=[[Daniel Siebert (referee)|Daniel Siebert]] ([[German Football Association|Germany]])
+}}
+----
+{{Football box
+|id=Andorra v England
+|date={{Start date|2021|10|9|df=y}}
+|time=20:45
+|team1={{fb-rt|AND}}
+|score=0–5
+|report=[https://www.fifa.com/tournaments/mens/worldcup/qatar2022/qualifiers/uefa/match-center/400155546 Report (FIFA)]<br />[https://www.uefa.com/european-qualifiers/match/2030933/ Report (UEFA)]
+|team2={{fb|ENG}}
+|goals1=
+|goals2=
+*[[Ben Chilwell|Chilwell]] {{goal|17}}
+*[[Bukayo Saka|Saka]] {{goal|40}}
+*[[Tammy Abraham|Abraham]] {{goal|59}}
+*[[James Ward-Prowse|Ward-Prowse]] {{goal|79}}
+*[[Jack Grealish|Grealish]] {{goal|86}}
+|stadium=[[Estadi Nacional]], [[Andorra la Vella]]
+|attendance=2,285<ref>{{UEFA match attendance|2030933|Andorra vs. England |date=9 October 2021|access-date=9 October 2021}}</ref>
+|referee=[[Kateryna Monzul]] ([[Ukrainian Association of Football|Ukraine]])
+}}
+{{Football box
+|id=Hungary v Albania
+|date={{Start date|2021|10|9|df=y}}
+|time=20:45
+|team1={{fb-rt|HUN}}
+|score=0–1
+|report=[https://www.fifa.com/tournaments/mens/worldcup/qatar2022/qualifiers/uefa/match-center/400155528 Report (FIFA)]<br />[https://www.uefa.com/european-qualifiers/match/2030925/ Report (UEFA)]
+|team2={{fb|ALB}}
+|goals1=
+|goals2=
+*[[Armando Broja|Broja]] {{goal|80}}
+|stadium=[[Puskás Aréna]], [[Budapest]]
+|attendance=273<ref>{{UEFA match attendance|2030925|Hungary vs. Albania |date=9 October 2021|access-date=9 October 2021}}</ref>
+|referee=[[Carlos del Cerro Grande]] ([[Royal Spanish Football Federation|Spain]])
+}}
+{{Football box
+|id=Poland v San Marino
+|date={{Start date|2021|10|9|df=y}}
+|time=20:45
+|team1={{fb-rt|POL}}
+|score=5–0
+|report=[https://www.fifa.com/tournaments/mens/worldcup/qatar2022/qualifiers/uefa/match-center/400155537 Report (FIFA)]<br />[https://www.uefa.com/european-qualifiers/match/2030923/ Report (UEFA)]
+|team2={{fb|SMR}}
+|goals1=
+*[[Karol Świderski|Świderski]] {{goal|10}}
+*[[Cristian Brolli|Brolli]] {{goal|20|o.g.}}
+*[[Tomasz Kędziora|Kędziora]] {{goal|50}}
+*[[Adam Buksa|Buksa]] {{goal|84}}
+*[[Krzysztof Piątek|Piątek]] {{goal|90+1}}
+|goals2=
+|stadium=[[Stadion Narodowy|PGE Narodowy]], [[Warsaw]]
+|attendance=56,128<ref>{{UEFA match attendance|2030923|Poland vs. San Marino |date=9 October 2021|access-date=9 October 2021}}</ref>
+|referee=[[Fran Jović]] ([[Croatian Football Federation|Croatia]])
+}}
+----
+{{Football box
+|id=Albania v Poland
+|date={{Start date|2021|10|12|df=y}}
+|time=20:45
+|team1={{fb-rt|ALB}}
+|score=0–1
+|report=[https://www.fifa.com/tournaments/mens/worldcup/qatar2022/qualifiers/uefa/match-center/400155550 Report (FIFA)]<br />[https://www.uefa.com/european-qualifiers/match/2030955/ Report (UEFA)]
+|team2={{fb|POL}}
+|goals1=
+|goals2=
+*[[Karol Świderski|Świderski]] {{goal|77}}
+|stadium=[[Arena Kombëtare]], [[Tirana]]
+|attendance=21,000<ref>{{UEFA match attendance|2030955|Albania vs. Poland |date=12 October 2021|access-date=12 October 2021}}</ref>
+|referee=[[Clément Turpin]] ([[French Football Federation|France]])
+}}
+{{Football box
+|id=England v Hungary
+|date={{Start date|2021|10|12|df=y}}
+|time=20:45 {{small|(19:45 [[UTC+01:00|UTC+1]])}}
+|team1={{fb-rt|ENG}}
+|score=1–1
+|report=[https://www.fifa.com/tournaments/mens/worldcup/qatar2022/qualifiers/uefa/match-center/400155531 Report (FIFA)]<br />[https://www.uefa.com/european-qualifiers/match/2030950/ Report (UEFA)]
+|team2={{fb|HUN}}
+|goals1=
+*[[John Stones|Stones]] {{goal|37}}
+|goals2=
+*[[Roland Sallai|Sallai]] {{goal|24|pen.}}
+|stadium=[[Wembley Stadium]], [[London]]
+|attendance=69,380<ref>{{UEFA match attendance|2030950|England vs. Hungary |date=12 October 2021|access-date=12 October 2021}}</ref>
+|referee=[[Alejandro Hernández Hernández]] ([[Royal Spanish Football Federation|Spain]])
+}}
+{{Football box
+|id=San Marino v Andorra
+|date={{Start date|2021|10|12|df=y}}
+|time=20:45
+|team1={{fb-rt|SMR}}
+|score=0–3
+|report=[https://www.fifa.com/tournaments/mens/worldcup/qatar2022/qualifiers/uefa/match-center/400155533 Report (FIFA)]<br />[https://www.uefa.com/european-qualifiers/match/2030959/ Report (UEFA)]
+|team2={{fb|AND}}
+|goals1=
+|goals2=
+*[[Marc Pujol|Pujol]] {{goal|10}}
+*[[Sergi Moreno|Moreno]] {{goal|53}}
+*[[Ricard Fernández|Fernández]] {{goal|89}}
+|stadium=[[San Marino Stadium]], [[Serravalle (San Marino)|Serravalle]]
+|attendance=243<ref>{{UEFA match attendance|2030959|San Marino vs. Andorra |date=12 October 2021|access-date=12 October 2021}}</ref>
+|referee=[[Halil Umut Meler]] ([[Turkish Football Federation|Turkey]])
+}}
+----
+{{Football box
+|id=Andorra v Poland
+|date={{Start date|2021|11|12|df=y}}
+|time=20:45
+|team1={{fb-rt|AND}}
+|score=1–4
+|report=[https://www.fifa.com/tournaments/mens/worldcup/qatar2022/qualifiers/uefa/match-center/400155551 Report (FIFA)]<br />[https://www.uefa.com/european-qualifiers/match/2030978/ Report (UEFA)]
+|team2={{fb|POL}}
+|goals1=
+*[[Marc Vales|Vales]] {{goal|45}}
+|goals2=
+*[[Robert Lewandowski|Lewandowski]] {{goal|5||73}}
+*[[Kamil Jóźwiak|Jóźwiak]] {{goal|11}}
+*[[Arkadiusz Milik|Milik]] {{goal|45+2}}
+|stadium=[[Estadi Nacional]], [[Andorra la Vella]]
+|attendance=1,049<ref>{{UEFA match attendance|2030978|Andorra vs. Poland |date=12 November 2021|access-date=12 November 2021}}</ref>
+|referee=[[John Beaton]] ([[Scottish Football Association|Scotland]])
+}}
+{{Football box
+|id=England v Albania
+|date={{Start date|2021|11|12|df=y}}
+|time=20:45 {{small|(19:45 [[UTC±00:00|UTC±0]])}}
+|team1={{fb-rt|ENG}}
+|score=5–0
+|report=[https://www.fifa.com/tournaments/mens/worldcup/qatar2022/qualifiers/uefa/match-center/400155526 Report (FIFA)]<br />[https://www.uefa.com/european-qualifiers/match/2030974/ Report (UEFA)]
+|team2={{fb|ALB}}
+|goals1=
+*[[Harry Maguire|Maguire]] {{goal|9}}
+*[[Harry Kane|Kane]] {{goal|18||33||45+2}}
+*[[Jordan Henderson|Henderson]] {{goal|28}}
+|goals2=
+|stadium=[[Wembley Stadium]], [[London]]
+|attendance=80,366<ref>{{UEFA match attendance|2030974|England vs. Albania |date=12 November 2021|access-date=12 November 2021}}</ref>
+|referee=[[Ruddy Buquet]] ([[French Football Federation|France]])
+}}
+{{Football box
+|id=Hungary v San Marino
+|date={{Start date|2021|11|12|df=y}}
+|time=20:45
+|team1={{fb-rt|HUN}}
+|score=4–0
+|report=[https://www.fifa.com/tournaments/mens/worldcup/qatar2022/qualifiers/uefa/match-center/400155544 Report (FIFA)]<br />[https://www.uefa.com/european-qualifiers/match/2030977/ Report (UEFA)]
+|team2={{fb|SMR}}
+|goals1=
+*[[Dominik Szoboszlai|Szoboszlai]] {{goal|6||83}}
+*[[Dániel Gazdag|Gazdag]] {{goal|22}}
+*[[Bálint Vécsei|Vécsei]] {{goal|88}}
+|goals2=
+|stadium=[[Puskás Aréna]], [[Budapest]]
+|attendance=12,800<ref>{{UEFA match attendance|2030977|Hungary vs. San Marino |date=12 November 2021|access-date=12 November 2021}}</ref>
+|referee=[[Filip Glova]] ([[Slovak Football Association|Slovakia]])
+}}
+----
+{{Football box
+|id=Albania v Andorra
+|date={{Start date|2021|11|15|df=y}}
+|time=20:45
+|team1={{fb-rt|ALB}}
+|score=1–0
+|report=[https://www.fifa.com/tournaments/mens/worldcup/qatar2022/qualifiers/uefa/match-center/400155548 Report (FIFA)]<br />[https://www.uefa.com/european-qualifiers/match/2031001/ Report (UEFA)]
+|team2={{fb|AND}}
+|goals1=
+*[[Endri Çekiçi|Çekiçi]] {{goal|73|pen.}}
+|goals2=
+|stadium=[[Arena Kombëtare]], [[Tirana]]
+|attendance=75<ref>{{UEFA match attendance|2031001|Albania vs. Andorra |date=15 November 2021|access-date=15 November 2021}}</ref>
+|referee= [[Andris Treimanis]] ([[Latvian Football Federation|Latvia]])
+}}
+{{Football box
+|id=Poland v Hungary
+|date={{Start date|2021|11|15|df=y}}
+|time=20:45
+|team1={{fb-rt|POL}}
+|score=1–2
+|report=[https://www.fifa.com/tournaments/mens/worldcup/qatar2022/qualifiers/uefa/match-center/400155530 Report (FIFA)]<br />[https://www.uefa.com/european-qualifiers/match/2030998/ Report (UEFA)]
+|team2={{fb|HUN}}
+|goals1=
+*[[Karol Świderski|Świderski]] {{goal|61}}
+|goals2=
+*[[András Schäfer|Schäfer]] {{goal|37}}
+*[[Dániel Gazdag|Gazdag]] {{goal|80}}
+|stadium=[[Stadion Narodowy|PGE Narodowy]], [[Warsaw]]
+|attendance=56,197<ref>{{UEFA match attendance|2030998|Poland vs. Hungary |date=15 November 2021|access-date=15 November 2021}}</ref>
+|referee= [[Tiago Martins (referee)|Tiago Martins]] ([[Portuguese Football Federation|Portugal]])
+}}
+{{Football box
+|id=San Marino v England
+|date={{Start date|2021|11|15|df=y}}
+|time=20:45
+|team1={{fb-rt|SMR}}
+|score=0–10
+|report=[https://www.fifa.com/tournaments/mens/worldcup/qatar2022/qualifiers/uefa/match-center/400155540 Report (FIFA)]<br />[https://www.uefa.com/european-qualifiers/match/2031004/ Report (UEFA)]
+|team2={{fb|ENG}}
+|goals1=
+|goals2=
+*[[Harry Maguire|Maguire]] {{goal|6}}
+*[[Filippo Fabbri|Fabbri]] {{goal|15|o.g.}}
+*[[Harry Kane|Kane]] {{goal|27|pen.|32||39|pen.|42}}
+*[[Emile Smith Rowe|Smith Rowe]] {{goal|58}}
+*[[Tyrone Mings|Mings]] {{goal|69}}
+*[[Tammy Abraham|Abraham]] {{goal|78}}
+*[[Bukayo Saka|Saka]] {{goal|79}}
+|stadium=[[San Marino Stadium]], [[Serravalle (San Marino)|Serravalle]]
+|attendance=2,775<ref>{{UEFA match attendance|2031004|San Marino vs. England |date=15 November 2021|access-date=15 November 2021}}</ref>
+|referee= [[Rade Obrenovič]] ([[Football Association of Slovenia|Slovenia]])
+}}
+
+==Goalscorers==
+{{#invoke:Goalscorers|main|2022 FIFA World Cup qualification (UEFA)|round=group|group=I}}<!--CAREFULLY update goalscorers at Module:Goalscorers/data/2022 FIFA World Cup qualification (UEFA)-->
+
+==Discipline==
+A player was automatically suspended for the next match for the following offences:<ref name="regulations">{{cite web |url=https://digitalhub.fifa.com/m/517ef2ad2bc3665e/original/ytkbpnxyvcghx6bebesv-pdf.pdf |title=Regulations FIFA World Cup 2022 Preliminary Competition |website=FIFA.com |publisher=Fédération Internationale de Football Association |format=PDF |year=2020 |access-date=7 December 2020}}</ref>
+* Receiving a red card (red card suspensions could be extended for serious offences)
+* Receiving two yellow cards in two different matches (yellow card suspensions were carried forward to the play-offs, but not the finals or any other future international matches)
+The following suspensions were served during the qualifying matches:
+
+{|class="wikitable" style="font-size:90%"
+|-
+!Team
+!Player
+!Offence(s)
+!Suspended for match(es)
+|-
+|rowspan=9|{{fb|ALB}} ||[[Keidi Bare]] ||{{yel}} vs England (28 March 2021)<br>{{yel}} vs Poland (2 September 2021) ||vs Hungary (5 September 2021)
+|-
+|[[Endri Çekiçi]] ||{{yel}} vs Hungary (5 September 2021)<br>{{yel}} vs Hungary (9 October 2021) ||vs Poland (12 October 2021)
+|-
+|[[Sokol Cikalleshi]] ||{{yel}} vs Andorra (25 March 2021)<br>{{yel}} vs England (12 November 2021) ||vs Andorra (15 November 2021)
+|-
+|rowspan=3|[[Klaus Gjasula]] ||{{yel}} vs Andorra (25 March 2021)<br>{{yel}} vs England (28 March 2021) ||vs San Marino (31 March 2021)
+|-
+|{{yel}} vs Poland (2 September 2021)<br>{{yel}} vs Hungary (5 September 2021) ||vs San Marino (8 September 2021)
+|-
+|{{yel}} vs Hungary (9 October 2021)<br>{{yel}} vs England (12 November 2021) ||vs Andorra (15 November 2021)
+|-
+|[[Elseid Hysaj]] ||{{yel}} vs England (28 March 2021)<br>{{yel}} vs Poland (2 September 2021) ||vs Hungary (5 September 2021)
+|-
+|[[Ardian Ismajli]] ||{{yel}} vs Poland (12 October 2021)<br>{{yel}} vs England (12 November 2021) ||vs Andorra (15 November 2021)
+|-
+|[[Rey Manaj]] ||{{yel}} vs Andorra (25 March 2021)<br>{{yel}} vs Poland (2 September 2021) ||vs Hungary (5 September 2021)
+|-
+|rowspan=11|{{fb|AND}} ||[[Jordi Aláez]] ||{{yel}} vs Poland (28 March 2021)<br>{{yel}} vs San Marino (2 September 2021) ||vs England (5 September 2021)
+|-
+|[[Albert Alavedra]] ||{{yel}} vs Hungary (31 March 2021)<br>{{yel}} vs Hungary (8 September 2021) ||vs England (9 October 2021)
+|-
+|[[Ricard Fernández]] ||{{sent off|0}} vs Poland (12 November 2021) ||vs Albania (15 November 2021)
+|-
+|rowspan=2|[[Christian García (Andorran footballer)|Christian García]] ||{{sent off|2}} vs Latvia in [[2020–21 UEFA Nations League]] (17 November 2020) ||vs Albania (25 March 2021)<ref name=md1>{{cite web |url=https://editorial.uefa.com/resources/0267-11dfdf89f41c-bb5a45afaa07-1000/fifa_eq_booking_list_before_md1_20210324170843.pdf |title=Disciplinary matters |website=UEFA.com |date=24 March 2021 |access-date=24 March 2021}}</ref>
+|-
+|{{yel}} vs Poland (28 March 2021)<br>{{yel}} vs England (5 September 2021) ||vs Hungary (8 September 2021)
+|-
+|[[Marc Pujol]] ||{{yel}} vs Hungary (31 March 2021)<br>{{yel}} vs San Marino (2 September 2021) ||vs England (5 September 2021)
+|-
+|[[Marc Rebés]] ||rowspan=2|{{yel}} vs Albania (25 March 2021)<br>{{yel}} vs England (5 September 2021) ||rowspan=2|vs Hungary (8 September 2021)
+|-
+|[[Jesús Rubio (footballer, born 1994)|Chus Rubio]]
+|-
+|[[Moisés San Nicolás]] ||{{yel}} vs Hungary (31 March 2021)<br>{{yel}} vs Hungary (8 September 2021) ||vs England (9 October 2021)
+|-
+|[[Marc Vales]] ||{{yel}} vs Hungary (31 March 2021)<br>{{yel}} vs England (5 September 2021) ||vs Hungary (8 September 2021)
+|-
+|[[Márcio Vieira]] ||{{yel}} vs Albania (25 March 2021)<br>{{yel}} vs Hungary (8 September 2021) ||vs England (9 October 2021)
+|-
+|{{fb|ENG}} ||[[Tyrone Mings]] ||{{yel}} vs San Marino (25 March 2021)<br>{{yel}} vs Andorra (5 September 2021) ||vs Poland (8 September 2021)
+|-
+|rowspan=4|{{fb|HUN}} ||[[Endre Botka]] ||{{yel}} vs San Marino (28 March 2021)<br>{{yel}} vs Albania (9 October 2021) ||vs England (12 October 2021)
+|-
+|[[Attila Fiola]] ||{{sent off|2}} vs Poland (25 March 2021) ||vs San Marino (28 March 2021)
+|-
+|[[Ádám Nagy]] ||{{yel}} vs Poland (25 March 2021)<br>{{yel}} vs Andorra (31 March 2021) ||vs England (2 September 2021)
+|-
+|[[Willi Orbán]] ||{{yel}} vs England (2 September 2021)<br>{{yel}} vs Albania (5 September 2021) ||vs Andorra (8 September 2021)
+|-
+|rowspan=4|{{fb|POL}} ||[[Jan Bednarek]] ||{{yel}} vs Albania (2 September 2021)<br>{{yel}} vs Albania (12 October 2021) ||vs Andorra (12 November 2021)
+|-
+|[[Grzegorz Krychowiak]] ||{{yel}} vs England (8 September 2021)<br>{{yel}} vs Andorra (12 November 2021) ||vs Hungary (15 November 2021)
+|-
+|[[Karol Linetty]] ||{{yel}} vs England (8 September 2021)<br>{{yel}} vs San Marino (9 October 2021) ||vs Albania (12 October 2021)
+|-
+|[[Tymoteusz Puchacz]] ||{{yel}} vs England (8 September 2021)<br>{{yel}} vs Albania (12 October 2021) ||vs Andorra (12 November 2021)
+|-
+|rowspan=5|{{fb|SMR}} ||[[Manuel Battistini]] ||{{yel}} vs Hungary (28 March 2021)<br>{{yel}} vs Andorra (2 September 2021) ||vs Poland (5 September 2021)
+|-
+|[[Lorenzo Lunadei]] ||{{yel}} vs Hungary (28 March 2021)<br>{{yel}} vs Poland (5 September 2021) ||rowspan=2|vs Albania (8 September 2021)
+|-
+|[[Marcello Mularoni]] ||{{yel}} vs Albania (31 March 2021)<br>{{yel}} vs Poland (5 September 2021)
+|-
+|rowspan=2|[[Davide Simoncini]] ||{{sent off|0}} vs Gibraltar in 2020–21 UEFA Nations League (14 November 2020) ||vs England (25 March 2021)<br>vs Hungary (28 March 2021)<ref name=md1/>
+|-
+|{{yel}} vs Albania (31 March 2021)<br>{{yel}} vs Andorra (12 October 2021) ||vs Hungary (12 November 2021)
+
+|}
+
+==Notes==
+{{reflist|group=note}}
+
+==References==
+{{reflist}}
+
+==External links==
+*{{Official website|https://www.fifa.com/tournaments/mens/worldcup/qatar2022/qualifiers|Official FIFA World Cup website}}
+*[https://www.fifa.com/tournaments/mens/worldcup/qatar2022/qualifiers/uefa Qualifiers – Europe], FIFA.com
+*[https://www.uefa.com/european-qualifiers/ European Qualifiers], UEFA.com
+
+{{2022 FIFA World Cup qualification}}
+
+{{DEFAULTSORT:World Cup qualifying}}
+[[Category:2022 FIFA World Cup qualification (UEFA)|Group I]]
+[[Category:2020–21 in Albanian football]]
+[[Category:2021–22 in Albanian football]]
+[[Category:2020–21 in Andorran football]]
+[[Category:2021–22 in Andorran football]]
+[[Category:2020–21 in English football]]
+[[Category:2021–22 in English football]]
+[[Category:England at the 2022 FIFA World Cup]]
+[[Category:2020–21 in Hungarian football]]
+[[Category:2021–22 in Hungarian football]]
+[[Category:2020–21 in Polish football]]
+[[Category:2021–22 in Polish football]]
+[[Category:Poland at the 2022 FIFA World Cup]]
+[[Category:2020–21 in San Marino football]]
+[[Category:2021–22 in San Marino football]]

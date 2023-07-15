@@ -1,0 +1,283 @@
+{{Short description|Stadium in Al Rayyan, Qatar}}
+{{Use dmy dates|date=March 2022}}
+{{Infobox venue
+| name              = Ahmad bin Ali Stadium
+| native_name       = {{Native name|ar|ملعب أحمد بن علي}}
+| image             = Ahmad bin Ali Stadium.jpg
+| caption           = Exterior view from Dukhan Road in November 2022, during the [[2022 FIFA World Cup]]
+| mapframe-wikidata = yes
+| mapframe-marker   = soccer
+| location          = {{Ubl|Dukhan Road 88HR+RX|[[Al Rayyan]], Qatar}}
+| coordinates       = {{Coord|25.329640|51.342273|format=dms|type:landmark_scale:3000|display=inline,title}}
+| publictransit     = {{rint|doha|green}} [[Al Riffa station|Al Riffa]] (الرفاع)
+| owner             = 
+| operator          = 
+| capacity          = {{Ubl|45,032<ref name="fifa" />|21,000 (future)}}
+| record_attendance = 45,032 ([[Argentina national football team|Argentina]] vs [[Australia men's national soccer team|Australia]], [[2022 FIFA World Cup knockout stage#Round of 16|3 December 2022]])
+| surface           = Grass
+| opened            = 2003
+| reopened          = 18 December 2020
+| architect         = Pattern Design<ref>{{cite web|url=http://stadiumdb.com/designs/qat/al_rayyan_stadium |title=Al-Rayyan Stadium |publisher=stadiumdb.com |date=9 July 2015 |access-date=3 September 2021}}</ref>
+| project_manager   = [[AECOM]]
+| main_contractors  = {{Hlist|Al-Balagh|[[Larsen & Toubro]]}}
+| tenants           = {{Ubl|[[Al-Rayyan SC]] (2003–present)}}
+}}
+
+'''Ahmad bin Ali Stadium''' ({{Lang-ar|ملعب أحمد بن علي|Malʿab ʾAḥmad bin ʿAliyy}}),<ref>{{cite web |url=https://www.qatar2022.qa/en/stadiums/ahmad-bin-ali-stadium |title=Ahmad Bin Ali Stadium |publisher=Supreme Committee for Delivery & Legacy |access-date=1 April 2022}}</ref><ref>{{cite web |url=https://www.fifa.com/tournaments/mens/worldcup/qatar2022/destination/ahmed-bin-ali-stadium |title=Ahmad bin Ali Stadium |publisher=[[FIFA]] |access-date=1 April 2022}}</ref> popularly known as the '''Al-Rayyan Stadium''', is an [[association football]] stadium located in the district of [[Rawdat Al Jahhaniya]], Qatar, around {{Convert|9|km|mi|0|abbr=off}} northwest from the centre of [[Al Rayyan (city)|Al Rayyan]]. It is currently used mostly for [[football (soccer)|football]] matches and it is the home to [[Al-Rayyan Sports Club]]. The stadium is named after [[Ahmad bin Ali Al Thani]], the [[Emir]] of [[Qatar]] from 1960 to 1972.<ref>{{cite web |url=https://www.goal.com/en-us/news/qatar-2022-world-cup-ahmad-bin-ali-stadium-al-rayyan/1w0o9sodcy7nv16xkayekivj4v |title=Qatar inaugurates fourth stadium for the 2022 World Cup in Al Rayyan |publisher=[[Goal (website)|Goal]] |date=18 December 2020 |access-date=1 April 2022}}</ref> The former stadium, built in 2003, had a seating capacity of 21,282 and was demolished in 2015.<ref>{{cite web|url=http://stadiumdb.com/news/2021/01/new_stadium_ahmed_bin_ali_stadium_the_desert_dune |title=New stadium: Ahmad bin Ali Stadium, the desert dune |publisher=stadiumdb.com |date=26 January 2021 |access-date=15 February 2022}}</ref> The new Al Rayyan Stadium has a seating capacity of 45,032.<ref name="fifa">{{cite web|url=https://www.fifa.com/fifaplus/en/articles/ahmed-bin-ali-stadium |title=Ahmad bin Ali Stadium |publisher=fifa.com |date= |accessdate=21 November 2022}}</ref>
+
+The stadium is located about 20 km west of [[Doha]].<ref>{{cite web|url=https://www.qatar2022.qa/en/tournament/stadiums/ahmad-bin-ali-stadium |title=Ahmad Bin Ali Stadium  |publisher=qatar2022.qa |date= |accessdate=21 November 2022}}</ref>
+
+==Construction==
+[[File:Al-rayyan-stadium.jpg|thumb|Ahmed bin Ali Stadium as originally designed and constructed in 2003 as a single-tier stadium of 27,000 seats.]]
+The Ahmad bin Ali Stadium is one of eight stadiums being used in the 2022 FIFA World Cup in Qatar.<ref>{{cite web|url=https://www.goal.com/en/news/2022-qatar-world-cup-al-rayyan-stadium-achieves-major/gyejzdsz32xk18hr1km1rudg7 |title=2022 Qatar World Cup: Al Rayyan stadium achieves major sustainability rating |publisher=goal.com |date=12 October 2020 |access-date=31 August 2021}}</ref><ref>{{cite web|url=https://thepeninsulaqatar.com/article/11/10/2020/Al-Rayyan-Stadium-achieves-prestigious-sustainability-ratings |title=Al Rayyan Stadium achieves prestigious sustainability ratings |publisher=thepeninsulaqatar.com |date=11 October 2020 |access-date=8 September 2021}}</ref>
+
+The former Ahmad bin Ali Stadium was demolished in 2015<ref>{{cite web | url=http://stadiumdb.com/historical/qat/ahmed_bin_ali_stadium_2015 | title=Ahmed bin Ali Stadium (Al-Rayyan Stadium) – until 2014 | publisher= stadiumdb.com | date= | access-date=1 February 2022}}</ref> to make way for the Al Rayyan Stadium. 90 percent of the rubble resulting from the demolition of the stadium is anticipated to be reused either for the new stadium or for public art projects.<ref name="archdaily">{{cite web|url=https://www.archdaily.com/623220/qatar-unveils-fifth-world-cup-venue-al-rayyan-stadium-by-pattern-architects |title=Qatar Unveils Fifth World Cup Venue: Al Rayyan Stadium by Pattern Architects |publisher=archdaily.com |date=23 April 2015 |access-date=5 January 2021}}</ref>
+
+The construction of the new stadium started in early 2016.<ref>{{cite web|url=http://stadiumdb.com/news/2016/10/qatar_2022_al_rayyan_stadium_sees_first_concrete_pouring|title=Qatar 2022: Al Rayyan Stadium sees first concrete pouring|publisher=StadiumDB|date=17 October 2016|access-date=30 April 2017}}</ref> This was done by the joint venture between Al-Balagh and [[Larsen & Toubro]]. After the World Cup the stadium will be reduced to 21,000 seats.<ref name="archdaily" /> The new stadium was built for the [[2022 FIFA World Cup]], which Qatar is currently hosting.<ref>{{cite web|url=http://www.arabianbusiness.com/revealed--firms-behind-construction-qatar-s-world-cup-stadiums-602613.html#.VcxR9PlVikp|title=Revealed: The firms behind the construction Qatar's World Cup stadiums|publisher=Arabian Business|author=Neha Bhatia|date=13 August 2015|access-date=13 August 2015}}</ref>
+
+The renovation includes a huge 'media facade' with a membrane that will act as a screen for projections, news, commercials, sports updates, current tournament information and matches. Seating capacity was increased to 40,740,<ref>{{Cite web|url=http://stadiumdb.com/constructions/qat/al_rayyan_stadium|title=Construction: Al-Rayyan Stadium – StadiumDB.com|date=2 April 2019|website=stadiumdb.com|access-date=2 June 2019}}</ref> and all seats were shaded.
+
+The inauguration of the stadium took place on 18 December 2020, which was Qatar's [[National Day (Qatar)|National Day]], and exactly two years before the country hosts the [[2022 FIFA World Cup]] final.<ref>{{cite web|url=https://www.gulf-times.com/story/679464/Al-Rayyan-stadium-to-open-on-Qatar-National-Day|title=Al Rayyan stadium to open on Qatar National Day|publisher=Gulf Times|date=3 December 2020|access-date=9 December 2020}}</ref> The stadium was one of two venues used for the [[2020 FIFA Club World Cup]].<ref>{{cite news |url=https://www.fifa.com/clubworldcup/news/education-city-and-ahmad-bin-ali-stadiums-to-host-fifa-club-world-cup-2020tm |title=Education City and Ahmad Bin Ali stadiums to host FIFA Club World Cup 2020™ |work=FIFA |date=18 January 2021 |access-date=18 January 2021}}</ref><ref>{{cite web|url=https://www.iloveqatar.net/news/sports/doha-all-set-to-host-2020-fifa-club-world-cup |title=Doha all set to host 2020 FIFA Club World Cup |publisher=iloveqatar.net |date=23 January 2021 |access-date=3 September 2021}}</ref>
+
+The stadium hosted four matches during [[2021 FIFA Arab Cup|FIFA Arab Cup 2021]].<ref>{{cite web|url=https://www.goal.com/en-us/news/2021-fifa-arab-cup-qatar-all-you-need-to-know/blta3bed73f82f8fd58 |title=2021 FIFA Arab Cup: Participating teams, fixtures and all you need to know |publisher=goal.com |date=18 December 2021 |access-date=15 February 2022}}</ref>
+==Recent tournament results==
+
+===[[17th Arabian Gulf Cup]]===
+{| class="wikitable" style="text-align: left;" width="60%"
+|-
+!Date
+!Time
+!Team #1
+!Result
+!Team #2
+!Round
+!Attendance
+|-
+| rowspan="2"| 11 December 2004||21:30||{{fb|BHR}}||style="text-align:center;"|1–1||{{fb|YEM}}||rowspan="4"|[[17th Arabian Gulf Cup#Matches|Group B]]
+|N/A
+|-
+||23:45||{{fb|KWT}}||style="text-align:center;"|2–1||{{fb|KSA}}||N/A
+|-
+| 14 December 2004||21:30||{{fb|KWT}}||style="text-align:center;"|1–1||{{fb|BHR}}||N/A
+|-
+| 15 December 2004||00:00||{{fb|YEM}}||style="text-align:center;"|0–2||{{fb|KSA}}||N/A
+|-
+| 16 December 2004||21:30||{{fb|UAE}}||style="text-align:center;"|1–1||{{fb|IRQ}}||[[17th Arabian Gulf Cup#Matches|Group A]]
+|N/A
+|-
+| 17 December 2004||21:30||{{fb|BHR}}||style="text-align:center;"|3–0||{{fb|KSA}}||[[17th Arabian Gulf Cup#Matches|Group B]]
+|N/A
+|-
+| 20 December 2004||21:30||{{fb|OMN}}||style="text-align:center;"|3–2||{{fb|BHR}}||[[17th Arabian Gulf Cup#Matches|Semi-finals]]
+|N/A
+|}
+
+===[[Football at the 2005 West Asian Games]]===
+{| class="wikitable" style="text-align: left;" width="60%"
+|-
+!Date
+!Time
+!Team #1
+!Result
+!Team #2
+!Round
+!Attendance
+|-
+| 1 December 2005||19:00||{{fb|IRQ}}||style="text-align:center;"|4–0||{{fb|PLE}}||rowspan="3"|[[Football at the 2005 West Asian Games#Group B|Group B]]
+|N/A
+|-
+| 3 December 2005||21:00||{{fb|KSA}}||style="text-align:center;"|2–0||{{fb|PLE}}||N/A
+|-
+| 5 December 2005||21:00||{{fb|IRQ}}||style="text-align:center;"|5–1||{{fb|KSA}}||N/A
+|-style="background:#c96;"
+| 10 December 2005||20:30||{{fb|IRI}}||style="text-align:center;"|2–1||{{fb|KSA}}||[[Football at the 2005 West Asian Games#knockout stage|Bronze medal match]]
+|N/A
+|}
+
+===Football at the 2006 Asian Games - Men's tournament===
+
+{| class="wikitable" style="text-align: left;" width="60%"
+|-
+!Date
+!Time
+!Team #1
+!Result
+!Team #2
+!Round
+!Attendance
+|-
+| rowspan="2"| 28 November 2006||17:15||{{fb|THA}}||style="text-align:center;"|1–0||{{fb|PLE}}||rowspan="5"|[[Football at the 2006 Asian Games - Men's tournament#Round 2|Group C (Round 2)]]
+|501
+|-
+||19:45||{{fb|KWT}}||style="text-align:center;"|3–0||{{fb|KGZ}}||202
+|-
+| rowspan="2"| 2 December 2006||17:15||{{fb|KGZ}}||style="text-align:center;"|0–2||{{fb|THA}}||990
+|-
+||19:45||{{fb|KWT}}||style="text-align:center;"|2–0||{{fb|PLE}}||296
+|-
+| rowspan="2"| 5 December 2006||17:15||{{fb|PLE}}||style="text-align:center;"|0–3||{{fb|KGZ}}||412
+|-
+||19:45||{{fb|SKO}}||style="text-align:center;"|1–0||{{fb|BHR}}||[[Football at the 2006 Asian Games - Men's tournament#Round 2|Group B (Round 2)]]
+|412
+|-
+| rowspan="2"| 9 December 2006||16:00||{{fb|PRC}}||style="text-align:center;"| 2–2 ([[Overtime (sports)#Association football|a.e.t.]])<br />{{pso|7–8}} ||{{fb|IRI}}||rowspan="2"|[[Football at the 2006 Asian Games - Men's tournament#Knockout round|Quarter Final]]
+|4,724
+|-
+||19:00||{{fb|SKO}}||style="text-align:center;"| 3–0 ||{{fb|PRK}}||4,728
+|}
+
+===2011 AFC Asian Cup===
+
+{| class="wikitable" style="text-align: left;" width="60%"
+|-
+!Date
+!Time
+!Team #1
+!Result
+!Team #2
+!Round
+!Attendance
+|-
+|9 January 2011||19:15||{{fb|KSA}}||style="text-align:center;"|1–2||{{fb|SYR}}||[[2011 AFC Asian Cup Group B|Group B]]
+|15,768
+|-
+|11 January 2011||19:15||{{fb|IRQ}}||style="text-align:center;"|1–2||{{fb|IRI}}||[[2011 AFC Asian Cup Group B|Group D]]
+|10,478
+|-
+|13 January 2011||16:15||{{fb|JOR}}||style="text-align:center;"|1–0||{{fb|KSA}}||[[2011 AFC Asian Cup Group B|Group B]]
+|17,349
+|-
+|15 January 2011||19:15||{{fb|UAE}}||style="text-align:center;"|0–1||{{fb|IRQ}}||[[2011 AFC Asian Cup Group D|Group D]]
+|7,233
+|-
+|17 January 2011||16:15||{{fb|KSA}}||style="text-align:center;"|0–5||{{fb|JPN}}||[[2011 AFC Asian Cup Group B|Group B]]
+|2,022
+|-
+|19 January 2011||19:15||{{fb|IRQ}}||style="text-align:center;"|1–0||{{fb|PRK}}||[[2011 AFC Asian Cup Group D|Group D]]
+|4,111
+|}
+
+===[[Football at the 2011 Pan Arab Games]]===
+
+{| class="wikitable" style="text-align: left;" width="60%"
+|-
+!Date
+!Time
+!Team #1
+!Result
+!Team #2
+!Round
+!Attendance
+|-
+|11 December 2011||17:30||{{fb|KSA}}||style="text-align:center;"|0–0||{{fb|OMN}}||rowspan="2"|[[Football at the 2011 Pan Arab Games#Group B|Group B]]
+|N/A
+|-
+|14 December 2011||17:30||{{fb|OMN}}||style="text-align:center;"|0–2||{{fb|KWT}}||N/A
+|-
+| rowspan="2"| 17 December 2011||17:30||{{fb|SDN}}||style="text-align:center;"|0–2||{{fb|PLE}}||[[Football at the 2011 Pan Arab Games#Group C|Group C]]
+|N/A
+|-
+| 19:30||{{fb|KSA}}||style="text-align:center;"|0–2||{{fb|KWT}}||[[Football at the 2011 Pan Arab Games#Group B|Group B]]
+|N/A
+|}
+
+===2021 FIFA Arab Cup===
+
+{| class="wikitable" style="text-align: left;" width="60%"
+|-
+!Date
+!Time
+!Team #1
+!Result
+!Team #2
+!Round
+!Attendance
+|-
+|30 November 2021||13:00||{{fb|TUN}}||style="text-align:center;"|5–1||{{fb|MTN}}||[[2021 FIFA Arab Cup Group B|Group B]]
+|2,494
+|-
+|1 December 2021||13:00||{{fb|ALG}}||style="text-align:center;"|4–0||{{fb|SUD}}||[[2021 FIFA Arab Cup Group D|Group D]]
+|2,203
+|-
+|4 December 2021||13:00||{{fb|JOR}}||style="text-align:center;"|0–4||{{fb|MAR}}||[[2021 FIFA Arab Cup Group C|Group C]]
+|7,890
+|-
+|6 December 2021||22:00||{{fb|OMA}}||style="text-align:center;"|3–0||{{fb|BHR}}||[[2021 FIFA Arab Cup Group A|Group A]]
+|2,477
+|}
+
+===2022 FIFA World Cup===
+
+Ahmad bin Ali Stadium hosted seven matches during the 2022 FIFA World Cup.
+{|class="wikitable" style="width:80%"
+|-
+! Date
+! Time
+! Team No. 1
+! Result
+! Team No. 2
+! Round
+! Attendance
+|-
+| 21 November 2022 || 22:00 || {{fb|USA}} ||style="text-align:center"| 1–1|| {{fb|WAL}} || [[2022 FIFA World Cup Group B|Group B]] || 43,418
+|-
+| 23 November 2022 || 22:00 || {{fb|BEL}} ||style="text-align:center"| 1–0 || {{fb|CAN}} || [[2022 FIFA World Cup Group F|Group F]] ||40,432
+|-
+| 25 November 2022 || 13:00 || {{fb|WAL}} ||style="text-align:center"| 0–2 || {{fb|IRN}} || [[2022 FIFA World Cup Group B|Group B]] ||40,875
+|-
+| 27 November 2022 || 13:00 || {{fb|JPN}} ||style="text-align:center"| 0–1 || {{fb|CRC}} || [[2022 FIFA World Cup Group E|Group E]] ||41,479
+|-
+| 29 November 2022 || 22:00 || {{fb|WAL}} ||style="text-align:center"| 0–3 || {{fb|ENG}} || [[2022 FIFA World Cup Group B|Group B]] ||44,297 
+|-
+| 1 December 2022 || 18:00 || {{fb|CRO}} ||style="text-align:center"| 0–0 || {{fb|BEL}} || [[2022 FIFA World Cup Group F|Group F]] ||43,984
+|-
+| 3 December 2022 || 22:00 || {{fb|ARG}} ||style="text-align:center"| 2–1 || {{fb|AUS}} || [[2022 FIFA World Cup knockout stage#Round of 16|Round of 16]] ||45,032
+|}
+
+===2023 AFC Asian Cup===
+On 5 April 2023, Ahmad bin Ali Stadium was choosen one of eight venues for the [[2023 Asian Cup]].
+
+{|class="wikitable" style="width:80%"
+|-
+! Date
+! Time
+! Team No. 1
+! Result
+! Team No. 2
+! Round
+! Attendance
+|-
+| 13 January 2024 || 14:30 || {{fb|AUS}} ||style="text-align:center"| – || {{fb|IND}} || [[2023 AFC Asian Cup Group B|Group B]] || 
+|-
+| 15 January 2024 || 20:30 || {{fb|MAS}} ||style="text-align:center"| – || {{fb|JOR}} || [[2023 AFC Asian Cup Group E|Group E]] ||
+|-
+| 19 January 2024 || 17:30 || {{fb|VIE}} ||style="text-align:center"| – || {{fb|IDN}} || [[2023 AFC Asian Cup Group D|Group D]] ||
+|-
+| 24 January 2024 || 14:30 || {{fb|JPN}} ||style="text-align:center"| – || {{fb|IDN}} || [[2023 AFC Asian Cup Group D|Group D]] ||
+|-
+| 28 January 2024 || 19:00 || Runner-up Group A	 ||style="text-align:center"| – || Runner-up Group C || [[2023 AFC Asian Cup#Round of 16|Round of 16]] ||
+|-
+| 2 February 2024 || 14:30 || Winner Match 38 ||style="text-align:center"| – || Winner Match 39 || [[2023 AFC Asian Cup#Quarter-finals|Quarter-finals]] ||
+|-
+| 6 February 2024 || 18:00 || Winner Match 45 ||style="text-align:center"| – || Winner Match 46 || [[2023 AFC Asian Cup#Semi-finals|Semi-finals]] ||
+|}
+
+==References==
+{{Reflist}}
+
+==External links==
+{{Commons category}}
+*[http://www.sc.qa/en/stadiums/al-rayyan-stadium Al-Rayyan Stadium Project]
+
+{{2011 AFC Asian Cup stadiums}}
+{{2021 FIFA Arab Cup}}
+{{2022 FIFA World Cup stadiums}}
+{{2023 AFC Asian Cup stadiums}}
+
+[[Category:2022 FIFA World Cup stadiums]]
+[[Category:Sports venues completed in 2003]]
+[[Category:Football venues in Qatar]]
+[[Category:Multi-purpose stadiums in Qatar]]
+[[Category:Sport in Al Rayyan]]
+[[Category:Al-Rayyan SC]]
+[[Category:2003 establishments in Qatar]]

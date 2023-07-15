@@ -1,0 +1,101 @@
+{{Short description|Qatari footballer}}
+{{Use dmy dates|date=November 2022}}
+{{Infobox football biography
+| name = Homam Ahmed
+| image = 
+| caption = 
+| fullname = Homam Al-Amin Ahmed
+| birth_date = {{birth date and age|1999|08|25|df=y}}
+| birth_place = [[Doha]], Qatar
+| height = 1.88 m<ref name="FIFA 2022">{{cite web |url=https://fdp.fifa.org/assetspublic/ce44/pdf/SquadLists-English.pdf |title=FIFA World Cup Qatar 2022™: List of Players: Qatar |publisher=FIFA |page=23 |date=15 November 2022 |access-date=22 November 2022 |archive-url=https://web.archive.org/web/20221218195301/https://fdp.fifa.org/assetspublic/ce44/pdf/SquadLists-English.pdf |archive-date=18 December 2022 |url-status=live}}</ref>
+| currentclub = [[Al-Gharafa SC|Al-Gharafa]]
+| clubnumber = 24
+| position = [[Defender (association football)#Full-back|Left back]]
+| youthyears1 = 
+| youthclubs1 = [[Aspire Academy]]
+| years1 = 2017–2018
+| clubs1 = [[K.A.S. Eupen|Eupen]]
+| caps1 = 0
+| goals1 = 0
+| years2 = 2019–
+| clubs2 = [[Al-Gharafa SC|Al-Gharafa]]
+| caps2 = 54
+| goals2 = 5
+| nationalyears1 = 2018–2019
+| nationalteam1 = [[Qatar national under-20 football team|Qatar U20]]
+| nationalcaps1 = 3
+| nationalgoals1 = 0
+| nationalyears2 = 2020–2021
+| nationalteam2 = [[Qatar national under-23 football team|Qatar U23]]
+| nationalcaps2 = 7
+| nationalgoals2 = 0
+| nationalyears3 = 2019–
+| nationalteam3 = [[Qatar national football team|Qatar]]
+| nationalcaps3 = 30
+| nationalgoals3 = 2
+| club-update = 18 October 2022 (UTC)
+| nationalteam-update = 21 November 2022 (UTC)
+| medaltemplates = {{MedalCountry|{{fb|QAT}}}}
+{{MedalSport|Men's [[association football|football]]}}
+{{MedalComp|[[FIFA Arab Cup]]}}
+{{Medal|3rd|[[2021 FIFA Arab Cup|2021]]|}}
+}}
+
+'''Homam Al-Amin Ahmed''' ({{lang-ar|همام الأمين أحمد}}; born 25 August 1999) is a [[Qatar]]i professional [[association football|footballer]] who plays as a [[Defender (association football)#Full-back|left back]] for [[Qatar Stars League]] side [[Al-Gharafa SC|Al-Gharafa]] and the [[Qatar national football team]].<ref>{{Soccerway|homam-ahmed-ahmed/465705|accessdate=1 June 2019}}</ref>
+
+==Career statistics==
+===International goals===
+:''Scores and results list Qatar's goal tally first.''<ref>{{cite web | url=https://www.national-football-teams.com/player/76320/Homam_Ahmed.html| title=Homam Ahmed Homam Elamin M. Ahmed (Player)| date= | accessdate=18 October 2022}}</ref>
+
+{| class="wikitable" style="font-size:100%;"
+! No. !! Date !! Venue !! Opponent !! Score !! Result !! Competition
+|-
+| 1. || 21 July 2021 || [[PNC Stadium]], [[Houston]], [[Texas]] || {{fb|HON}} || align=center | '''1'''–0 || align=center | 2–0 || [[2021 CONCACAF Gold Cup]]
+|-
+| 2. || 7 September 2021 || [[Stade de Luxembourg]], [[Gasperich]], [[Luxembourg]] || {{fb|LUX}} || align=center | '''1'''–1 || align=center | 1–1 || Friendly
+|}
+
+==Honours==
+===Club===
+'''Al-Gharafa'''
+*[[Qatari Stars Cup]]: [[2017–18 Qatari Stars Cup|2017-18]], [[2018-19 Qatari Stars Cup|2018-19]]
+
+==References==
+{{reflist}}
+
+==External links==
+* {{soccerway|homam-ahmed/465705}}
+* {{NFT player|pid=76320}}
+
+{{Al-Gharafa SC squad}}
+{{Navboxes
+|title=Qatar squads
+|bg=#660033
+|fg=white
+|bordercolor=white
+|list1=
+{{Qatar squad 2021 CONCACAF Gold Cup}}
+{{Qatar squad 2022 FIFA World Cup}}
+{{Qatar squad 2023 CONCACAF Gold Cup}}
+}}
+
+{{DEFAULTSORT:Ahmed, Homam}}
+[[Category:1999 births]]
+[[Category:Living people]]
+[[Category:Qatari men's footballers]]
+[[Category:Qatari expatriate men's footballers]]
+[[Category:Qatar men's international footballers]]
+[[Category:Men's association football defenders]]
+[[Category:Al-Gharafa SC players]]
+[[Category:K.A.S. Eupen players]]
+[[Category:Qatar Stars League players]]
+[[Category:Belgian Pro League players]]
+[[Category:Expatriate men's footballers in Belgium]]
+[[Category:Qatari expatriate sportspeople in Belgium]]
+[[Category:2021 CONCACAF Gold Cup players]]
+[[Category:Qatar men's under-20 international footballers]]
+[[Category:Qatar men's youth international footballers]]
+[[Category:2022 FIFA World Cup players]]
+[[Category:2023 CONCACAF Gold Cup players]]
+
+{{Qatar-footy-defender-stub}}

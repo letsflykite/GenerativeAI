@@ -1,0 +1,3540 @@
+{{short description|none}}
+{{Infobox international football competition
+| tourney_name   = 2022 FIFA World Cup qualification – AFC second round
+| alt            = 
+| caption        =
+| host countries =
+| dates          = {{nowrap|5 September 2019 – 15 June 2021}}
+| num_teams      = 40
+| confederations = 1
+| matches        = 157
+| goals          = 519
+| attendance     = {{#expr: <!--Group A-->+ 714 + 2645 + 1096 + 3700 + 39987 + 5500 + 2982 + 2050 + 2700 + 6950 + 2612 + 2445 + 29222 + 0 + 0 + 0 + 0 + 0 + 0 + 0 <!--Group B-->+ 5520 + 7500 + 4780 + 11852 + 18563 + 10720 + 3251 + 4863 + 8400 + 9712 + 2000 + 2260 + 0 + 0 + 0 + 0 + 0 + 0 + 0 + 0 <!--Group C-->+ 45500 + 6049 + 45000 + 13942 + 15823 + 32340 + 48258 + 14810 + 4541 + 13752 + 6497 + 10366 + 0 + 0 + 0 + 0 + 0 + 0 + 0 + 0 <!--Group D-->+ 7018 + 6740 + 6011 + 3100 + 28571 + 14560 + 12547 + 12000 + 31524 + 530 + 19143 + 650 + 1 + 294 + 4382 + 75 + 230 + 4879 + 6339 + 430 <!--Group E-->+ 22798 + 10950 + 5000 + 12020 + 24570 + 10000 + 53286 + 26731 + 8100 + 24000 + 6000 + 24250 + 1044 + 300 + 2022 + 495 + 1559 + 183 + 603 + 885 <!--Group F-->+ 3221 + 17800 + 3455 + 25500 + 43122 + 13000 + 2182 + 19100 + 7365 + 17543 + 17468 + 15873 + 9300 + 0 + 0 + 0 + 0 + 0 + 0 + 0 <!--Group G-->+ 19011 + 54659 + 11619 + 43200 + 38256 + 6678 + 8237 + 16057 + 39363 + 37879 + 75044 + 40000 + 0 + 1127 + 980 + 225 + 963 + 335 + 1355 + 142 <!--Group H-->+ 40000 + 1120 + 26000 + 1258 + 23522 + 7820 + 100 + 1052 + 26500 + 170 + 26304 + 73 + 3932 + 52 + 4008 + 4061}}
+| top_scorer     = {{fbicon|UAE}} [[Ali Mabkhout]]<br>(11 goals)
+| prevseason     =  [[2018 FIFA World Cup qualification – AFC second round|2018]]
+| nextseason     = [[2026 FIFA World Cup qualification – AFC second round|2026]]
+}}
+The '''[[2022 FIFA World Cup qualification (AFC)|AFC]] second round''' of '''[[2022 FIFA World Cup qualification]]''', which also served as the second round of '''[[2023 AFC Asian Cup qualification]]''', was played from 5 September 2019 to 15 June 2021.<ref>{{cite web|url=http://www.the-afc.com/afc/documents/PdfFiles/afc-competitions-calendar-2019|publisher=AFC|title=AFC Competitions Calendar 2019|format=PDF|date=21 March 2019|archive-url=https://web.archive.org/web/20190715163628/www.the-afc.com/afc/documents/PdfFiles/afc-competitions-calendar-2019|archive-date=15 July 2019|url-status=dead}}</ref><ref>{{cite web|url=http://www.the-afc.com/afc/documents/PdfFiles/afc-competitions-calendar-2020|publisher=AFC|title=AFC Competitions Calendar 2020|format=PDF|date=25 September 2020|archive-url=https://web.archive.org/web/20201004141026/https://www.the-afc.com/afc/documents/PdfFiles/afc-competitions-calendar-2020|archive-date=4 October 2020|url-status=dead}}</ref><ref name=Asian>{{cite web|url=https://olympics.com/en/news/afc-asian-qualifiers-2022-fifa-world-cup-dates-june-2021-march-2022|title=2022 FIFA World Cup: Asian qualifiers to be completed by March 2022 |publisher=International Olympic Committee|date=12 November 2020}}</ref>
+
+== Format ==
+
+A total of forty teams were drawn into eight groups of five to play home-and-away [[round-robin tournament|round-robin]] matches. They included the 34 teams (teams ranked 1–34 in the [[2022 FIFA World Cup qualification (AFC)#Entrants|AFC entrant list]]) which received byes to this round, and the six winners from the [[2022 FIFA World Cup qualification – AFC first round|first round]].
+
+Seven group winners (excluded Qatar, who had already qualified to the World Cup as tournament host) and the five best runners-up advanced to the third round.
+
+Matches in this round were also part of the [[2023 AFC Asian Cup qualification|2023 AFC Asian Cup qualifying]] campaign.<ref>{{cite web|url=https://newsin.asia/asias-2022-football-world-cup-qualifiers-drawn-features-continents-lowest-ranked-national-teams/|title=Asia's 2022 Football World Cup qualifiers drawn, features continent's lowest ranked national teams|date=20 April 2019|publisher=NewsIn.Asia}}</ref> The twelve teams which advanced to the third round of the FIFA World Cup qualification and Qatar, as group winner, automatically qualified for the [[2023 AFC Asian Cup]].<ref>{{cite web|url=https://assets.the-afc.com/migration/a/f/AFC%20Asian%20Cup%20China%202023%20Competition%20Regulations.pdf|publisher=AFC|title=Competition Regulations AFC Asian Cup China 2023|format=PDF|date=11 September 2020}}</ref> Twenty-four teams (22 which advanced directly and two which will advance from an additional play-off round)<ref>{{cite web |url=https://www.the-afc.com/competitions/afc-asian-cup/news/line-up-for-afc-asian-cup-china-2023tm-qualifiers-final-round-unveiled |title=Line-up for AFC Asian Cup China 2023 Qualifiers Final Round unveiled |date=16 June 2021 |publisher=AFC |archive-url=https://web.archive.org/web/20210627203248/https://www.the-afc.com/competitions/afc-asian-cup/news/line-up-for-afc-asian-cup-china-2023tm-qualifiers-final-round-unveiled |archive-date=27 June 2021 |url-status=dead}}</ref> will play in the third round of the AFC Asian Cup qualification to decide the remaining eleven teams. In total, the 2023 AFC Asian Cup features 24 teams.
+
+==Seeding==
+The draw for the second round was held on 17 July 2019 at 17:00 [[Time in Malaysia|MST]] ([[UTC+08:00|UTC+8]]), at the AFC House in [[Kuala Lumpur]], Malaysia.<ref>{{cite web|url=https://www.fifa.com/worldcup/news/asian-hopefuls-begin-mammoth-campaign-for-qatar-2022|title=Asian hopefuls begin mammoth campaign for Qatar 2022|publisher=FIFA|date=17 July 2019}}</ref>
+
+The seeding was based on the [[FIFA World Rankings]] of June 2019 (shown in parentheses below).<ref>{{cite web |url=https://www.fifa.com/fifa-world-ranking/ranking-table/men/rank/id12582/#AFC |archive-url=https://web.archive.org/web/20190616182645/https://www.fifa.com/fifa-world-ranking/ranking-table/men/rank/id12582/#AFC |url-status=dead |archive-date=June 16, 2019 |title=FIFA Men's Ranking – June 2019 (AFC) |publisher=FIFA |date=14 June 2019}}</ref>
+
+Note: '''Bolded''' teams qualified for the [[2022 FIFA World Cup qualification – AFC third round|Third round]].
+{| class="wikitable"
+|-
+!width=22%|Pot 1
+!width=18%|Pot 2
+!width=20%|Pot 3
+!width=20%|Pot 4
+!width=20%|Pot 5
+|-
+|{{ordered list|start=1
+|'''{{fb|IRN}}''' (20) 
+|'''{{fb|JPN}}''' (28)
+|'''{{fb|KOR}}''' (37)
+|'''{{fb|AUS}}''' (43)
+|{{fb|QAT}} (55){{refn|group="note"|Qatar already qualified for the [[2022 FIFA World Cup]] as tournament hosts and were competing to qualify for the [[2023 AFC Asian Cup]].}}
+|'''{{fb|UAE}}''' (67)
+|'''{{fb|KSA}}''' (69)
+|'''{{fb|CHN}}''' (73){{refn|group="note"|China PR had already qualified for the [[2023 AFC Asian Cup]] as tournament hosts and were competing to qualify for the [[2022 FIFA World Cup]]. They relinquished their hosting right in May 2022.}}
+}}
+|{{ordered list|start=9
+|'''{{fb|IRQ}}''' (77)
+|{{fb|UZB}} (82)
+|'''{{fb|SYR}}''' (85)
+|'''{{fb|OMA}}''' (86)
+|'''{{fb|LBN}}''' (99)
+|{{fb|KGZ}} (95)
+|'''{{fb|VIE}}''' (96)
+|{{fb|JOR}} (98)
+}}
+|{{ordered list|start=17
+|{{fb|PLE}} (100)
+|{{fb|IND}} (101)
+|{{fb|BHR}} (110)
+|{{fb|THA}} (116)
+|{{fb|TJK}} (120)
+|{{fb|PRK}} (122)<sup>W</sup>
+|{{fb|TPE}} (125)
+|{{fb|PHI}} (126)
+}}
+|{{ordered list|start=25
+|{{fb|TKM}} (135)
+|{{fb|MYA}} (138)
+|{{fb|HKG}} (141)
+|{{fb|YEM}} (144)
+|{{fb|AFG|2013}} (149)
+|{{fb|MDV}} (151)
+|{{fb|KUW}} (156)
+|{{fb|MAS}} (159)<sup>†</sup>
+}}
+|{{ordered list|start=33
+|{{fb|IDN}} (160)
+|{{fb|SIN}} (162)
+|{{fb|NEP}} (165)
+|{{fb|CAM}} (169)<sup>†</sup>
+|{{fb|BAN}} (183)<sup>†</sup>
+|{{fb|MNG}} (187)<sup>†</sup>
+|{{fb|GUM}} (190)<sup>†</sup>
+|{{fb|SRI}} (201)<sup>†</sup>
+}}
+|}
+
+<sup>†</sup> [[2022 FIFA World Cup qualification – AFC first round|First round]] winners<br><sup>W</sup> Withdrew after five matches
+
+==Schedule==
+The schedule of each matchday was as follows.
+
+On 5 March 2020, FIFA announced that it would be monitoring the health situation in the region for possible rescheduling of matchdays 7 through 10 due to the [[COVID-19 pandemic]].<ref>{{Cite web |url=https://www.fifa.com/worldcup/news/statement-on-upcoming-asian-fifa-world-cup-qualifiers |title=Statement on upcoming Asian FIFA World Cup qualifiers |website=FIFA.com |language=en-GB |access-date=8 March 2020}}</ref> Later on 9 March, FIFA and AFC jointly announced that the matches on matchdays 7–10 due to take place in March and June 2020 were postponed, with the new dates to be confirmed. However, subject to approval by FIFA and AFC, and agreement of both member associations, the matches may be played as scheduled provided that the safety of all individuals involved meets the required standards.<ref name="covid19fifa">{{cite web|url=https://www.fifa.com/worldcup/news/update-on-upcoming-fifa-world-cup-qualifiers|title=Update on upcoming FIFA World Cup qualifiers|publisher=FIFA|date=9 March 2020}}</ref><ref name="covid19afc">{{cite web|url=https://www.the-afc.com/competitions/afc-asian-cup/news/update-on-upcoming-fifa-world-cup-qualifiers|title=Update on upcoming FIFA World Cup qualifiers|publisher=AFC|date=9 March 2020|archive-url=https://web.archive.org/web/20201203025404/https://www.the-afc.com/competitions/afc-asian-cup/news/update-on-upcoming-fifa-world-cup-qualifiers|archive-date=3 December 2020|url-status=dead}}</ref> On 5 June, AFC confirmed that matchdays 7 and 8 were scheduled to take place on 8 and 13 October respectively while matchdays 9 and 10 were scheduled to kick off on 12 and 17 November.<ref name="reschedule">{{cite web|title=AFC announces proposed dates for upcoming Asian Qualifiers|url=https://www.the-afc.com/competitions/afc-asian-cup/news/afc-announces-proposed-dates-for-upcoming-asian-qualifiers|publisher=Asian Football Confederation|date=5 June 2020|access-date=5 June 2020|archive-url=https://web.archive.org/web/20210306083307/https://www.the-afc.com/competitions/afc-asian-cup/news/afc-announces-proposed-dates-for-upcoming-asian-qualifiers|archive-date=6 March 2021|url-status=dead}}</ref> On 12 August, FIFA announced that the matches scheduled for October and November 2020 would be rescheduled to 2021.<ref name="fifa 0812">{{cite news |url=https://www.fifa.com/worldcup/news/update-on-upcoming-fifa-world-cup-qualifiers-in-asia |title=Update on upcoming FIFA World Cup qualifiers in Asia |work=FIFA |date=12 August 2020 |access-date=12 August 2020}}</ref><ref name="afc 0812">{{cite news |url=https://www.the-afc.com/competitions/fifa-world-cup/latest/news/update-on-upcoming-fifa-world-cup-qualifiers-in-asia |title=Update on upcoming FIFA World Cup qualifiers in Asia |work=AFC |date=12 August 2020 |access-date=12 August 2020 |archive-url=https://web.archive.org/web/20201124090427/https://www.the-afc.com/competitions/fifa-world-cup/latest/news/update-on-upcoming-fifa-world-cup-qualifiers-in-asia |archive-date=24 November 2020 |url-status=dead}}</ref>
+
+On 11 November 2020, the AFC Competitions Committee agreed at its third meeting that all remaining second round matches should be completed by 15 June 2021 with matchdays 7 and 8 in March and matchdays 9 and 10 in June.<ref name=Asian/> On the same day, however, FIFA, along with the Bangladeshi and Qatari associations, gave approval to the only second round match originally scheduled for 2020, Qatar versus Bangladesh, which was played on 4 December.<ref name=qatban>{{cite news |title=Qatar, Bangladesh to resume Asian qualifiers in December |url=https://www.the-afc.com/competitions/fifa-world-cup/latest/news/qatar-bangladesh-to-resume-asian-qualifiers-in-december |publisher=AFC |date=11 November 2020 |archive-url=https://web.archive.org/web/20210428135254/https://www.the-afc.com/competitions/fifa-world-cup/latest/news/qatar-bangladesh-to-resume-asian-qualifiers-in-december |archive-date=28 April 2021 |url-status=dead}}</ref>
+
+On 19 February 2021, FIFA and AFC postponed the majority of the upcoming matches to June.<ref name="fifa 0219">{{cite news |url=https://www.fifa.com/tournaments/mens/worldcup/qatar2022/media-releases/update-on-upcoming-asian-qualifiers-in-march-and-june |title=Update on upcoming Asian qualifiers in March and June |publisher=FIFA |date=19 February 2021 |access-date=19 February 2021}}</ref>
+
+Note: The group spots of Qatar and Bangladesh were swapped due to Qatar's planned participation in the 2020 Copa América, which was later deferred (becoming the [[2021 Copa América]]). Qatar eventually withdrew.
+
+{| class="wikitable" style="text-align:center"
+|-
+!Matchday
+!Date(s)
+!Matches
+|-
+|Matchday 1
+|5 September 2019
+|3 v 2, 5 v 4
+|-
+|Matchday 2
+|10 September 2019
+|4 v 1, 5 v 3
+|-
+|Matchday 3
+|10 October 2019
+|1 v 5, 2 v 4
+|-
+|Matchday 4
+|15 October 2019
+|5 v 2, 3 v 1
+|-
+|Matchday 5
+|14 November 2019
+|4 v 3, 2 v 1
+|-
+|Matchday 6
+|19 November 2019
+|2 v 3, 4 v 5
+|-
+|Matchday 7
+|25 March, 28 May and 3 June 2021
+|1 v 4, 3 v 5
+|-
+|Matchday 8
+|4 December 2020, 30 March and 7 & 9 June 2021
+|5 v 1, 4 v 2
+|-
+|Matchday 9
+|30 March, 30 May and 11 June 2021
+|2 v 5, 1 v 3
+|-
+|Matchday 10
+|13 and 15 June 2021
+|3 v 4, 1 v 2
+|}
+
+{| class="wikitable mw-collapsible mw-collapsed"
+|+{{nowrap|Original group stage schedule}}
+|-
+! Matchday
+! Date
+|-
+|Matchday 7
+|26 March 2020, later 8 October
+|-
+|Matchday 8
+|31 March 2020, later 13 October
+|-
+|Matchday 9
+|4 June 2020, later 12 November, then 7 June 2021
+|-
+|Matchday 10
+|9 June 2020, later 17 November
+|}
+
+===Centralised venues===
+On 12 March 2021, AFC confirmed the hosts for the group stage scheduled to take place from 31 May to 15 June.<ref name="AFC 0312">{{cite web|url=https://www.the-afc.com/competitions/fifa-world-cup/latest/news/centralised-venues-for-asian-qualifiers-confirmed|title=Centralised venues for Asian qualifiers confirmed|publisher=AFC|date=12 March 2021|archive-url=https://web.archive.org/web/20210622060030/https://www.the-afc.com/competitions/fifa-world-cup/latest/news/centralised-venues-for-asian-qualifiers-confirmed|archive-date=22 June 2021|url-status=dead}}</ref>
+*Group A: United Arab Emirates (China hosted Guam on 28 May.)
+*Group B: Kuwait
+*Group C: Bahrain
+*Group D: Saudi Arabia
+*Group E: Qatar
+*Group F: Japan
+*Group G: United Arab Emirates
+*Group H: South Korea
+
+In general these hosts were the seeded (Pot 1) teams from each group.  The exceptions were Group A (where United Arab Emirates took over hosting duties after China could not host due to COVID-19 restrictions), Group B (where Pot 4 team Kuwait hosted rather than Australia) and Group C (where Pot 3 team Bahrain were chosen rather than Iran).
+
+
+== Group A ==
+<onlyinclude>{{#invoke:Sports table|main|style=WDL
+|section=Group A
+|show_matches=y
+|class_rules=[[2022 FIFA World Cup qualification#Tiebreakers|Qualification tiebreakers]]
+|source=[https://www.fifa.com/tournaments/mens/worldcup/qatar2022/qualifiers/afc FIFA]
+
+<!--Team definitions-->
+|name_CHN={{fb|CHN}} |short_CHN={{flagdeco|CHN}}
+|name_SYR={{fb|SYR}} |short_SYR={{flagdeco|SYR}}
+|name_PHI={{fb|PHI}} |short_PHI={{flagdeco|PHI}}
+|name_MDV={{fb|MDV}} |short_MDV={{flagdeco|MDV}}
+|name_GUM={{fb|GUM}} |short_GUM={{flagdeco|GUM}}
+
+<!--Update team results below (including date)-->
+|update=complete
+|win_CHN=6 |draw_CHN=1 |loss_CHN=1 |gf_CHN=30|ga_CHN=3
+|win_SYR=7 |draw_SYR=0 |loss_SYR=1 |gf_SYR=22|ga_SYR=7
+|win_PHI=3 |draw_PHI=2 |loss_PHI=3 |gf_PHI=12|ga_PHI=11
+|win_MDV=2 |draw_MDV=1 |loss_MDV=5 |gf_MDV=7 |ga_MDV=20
+|win_GUM=0 |draw_GUM=0 |loss_GUM=8 |gf_GUM=2 |ga_GUM=32
+
+<!--Update team positions below (check tiebreakers)-->
+|team_order=SYR, CHN, PHI, MDV, GUM
+
+<!--Update results below-->
+|match_CHN_SYR=[[#CHN v SYR|3–1]]
+|match_CHN_PHI=[[#CHN v PHI|2–0]]
+|match_CHN_MDV=[[#CHN v MDV|5–0]]
+|match_CHN_GUM=[[#CHN v GUM|7–0]]
+
+|match_SYR_CHN=[[#SYR v CHN|2–1]]
+|match_SYR_PHI=[[#SYR v PHI|1–0]]
+|match_SYR_MDV=[[#SYR v MDV|2–1]]
+|match_SYR_GUM=[[#SYR v GUM|4–0]]
+
+|match_PHI_CHN=[[#PHI v CHN|0–0]]
+|match_PHI_SYR=[[#PHI v SYR|2–5]]
+|match_PHI_MDV=[[#PHI v MDV|1–1]]
+|match_PHI_GUM=[[#PHI v GUM|3–0]]
+
+|match_MDV_CHN=[[#MDV v CHN|0–5]]
+|match_MDV_SYR=[[#MDV v SYR|0–4]]
+|match_MDV_PHI=[[#MDV v PHI|1–2]]
+|match_MDV_GUM=[[#MDV v GUM|3–1]]
+
+|match_GUM_CHN=[[#GUM v CHN|0–7]]
+|match_GUM_SYR=[[#GUM v SYR|0–3]]
+|match_GUM_PHI=[[#GUM v PHI|1–4]]
+|match_GUM_MDV=[[#GUM v MDV|0–1]]
+
+<!--Qualification column definitions-->
+|res_col_header=Q
+|result1=1st |result2=1st |result3=3rd |result4=3rd |result5=4th
+|col_1st=green1 |text_1st=[[2022 FIFA World Cup qualification – AFC third round|World Cup qualifying third round]] and [[2023 AFC Asian Cup|Asian Cup]]
+|col_3rd=blue1 |text_3rd=[[2023 AFC Asian Cup qualification – third round|Asian Cup qualifying third round]]
+|col_4th=yellow1 |text_4th=[[2023 AFC Asian Cup qualification – Play-off Round|Asian Cup qualifying play-off round]]
+}}</onlyinclude>
+{{Football box
+|id         = GUM v MDV
+|date       = {{Start date|2019|9|5|df=y}}
+|time       = {{UTZ|15:30|10}}
+|team1      = {{fb-rt|GUM}}
+|score      = 0–1
+|team2      = {{fb|MDV}}
+|goals1     =
+|goals2     =
+*[[Ibrahim Mahudhee|Mahudhee]] {{goal|27}}
+|stadium    = [[Guam Football Association National Training Center|Guam F.A. National Training Center]], [[Dededo]]
+|attendance = 714
+|referee    = Yaqoub Al-Hammadi ([[United Arab Emirates Football Association|United&nbsp;Arab&nbsp;Emirates]])
+|report     = [https://www.fifa.com/tournaments/mens/worldcup/qatar2022/qualifiers/afc/match-center/400080611 Report (FIFA)]<br />[http://stats.the-afc.com/match_report/16146 Report (AFC)]
+}}
+{{Football box
+|id         = PHI v SYR
+|date       = {{Start date|2019|9|5|df=y}}
+|time       = {{UTZ|19:30|8}}
+|team1      = {{fb-rt|PHI}}
+|score      = 2–5
+|team2      = {{fb|SYR}}
+|goals1     =
+*[[Javier Patiño|Patiño]] {{goal|6}}
+*[[Mike Ott|Mi. Ott]] {{goal|83}}
+|goals2     =
+*[[Omar Al Somah|Al Somah]] {{goal|14||55}}
+*[[Khaled Mobayed|Mobayed]] {{goal|30}}
+*[[Firas Al-Khatib|Al-Khatib]] {{goal|48|pen.}}
+*[[Mahmoud Al-Mawas|Al-Mawas]] {{goal|85}}
+|stadium    = [[Panaad Stadium]], [[Bacolod]]
+|attendance = 2,645
+|referee    = [[Jumpei Iida]] ([[Japan Football Association|Japan]])
+|report     = [https://www.fifa.com/tournaments/mens/worldcup/qatar2022/qualifiers/afc/match-center/400080610 Report (FIFA)]<br />[http://stats.the-afc.com/match_report/16145 Report (AFC)]
+}}
+----
+{{Football box
+|id         = GUM v PHI
+|date       = {{Start date|2019|9|10|df=y}}
+|time       = {{UTZ|15:30|10}}
+|team1      = {{fb-rt|GUM}}
+|score      = 1–4
+|team2      = {{fb|PHI}}
+|goals1     =
+*[[Marcus Lopez|Lopez]] {{goal|67|pen.}}
+|goals2     =
+*[[Ángel Guirado|Guirado]] {{goal|7}}
+*[[Patrick Reichelt|Reichelt]] {{goal|12}}
+*[[Stephan Schröck|Schröck]] {{goal|71}}
+*[[John-Patrick Strauß|Strauß]] {{goal|81}}
+|stadium    = [[Guam Football Association National Training Center|Guam F.A. National Training Center]], [[Dededo]]
+|attendance = 1,096
+|referee    = Kim Woo-sung ([[Korea Football Association|South Korea]])
+|report     = [https://www.fifa.com/tournaments/mens/worldcup/qatar2022/qualifiers/afc/match-center/400080613 Report (FIFA)]<br />[http://stats.the-afc.com/match_report/16148 Report (AFC)]
+}}
+{{Football box
+|id         = MDV v CHN
+|date       = {{Start date|2019|9|10|df=y}}
+|time       = {{UTZ|20:00|5}}
+|team1      = {{fb-rt|MDV}}
+|score      = 0–5
+|team2      = {{fb|CHN}}
+|goals1     =
+|goals2     =
+*[[Wu Xi (footballer)|Wu Xi]] {{goal|34}}
+*[[Wu Lei]] {{goal|45}}
+*[[Yang Xu]] {{goal|64|pen.}}
+*[[Elkeson]] {{goal|83|pen.|90+1}}
+|stadium    = [[National Football Stadium (Maldives)|National Football Stadium]], [[Malé]]
+|attendance = 3,700
+|referee    = [[Turki Al-Khudhayr]] ([[Saudi Arabian Football Federation|Saudi Arabia]])
+|report     = [https://www.fifa.com/tournaments/mens/worldcup/qatar2022/qualifiers/afc/match-center/400080612 Report (FIFA)]<br />[http://stats.the-afc.com/match_report/16147 Report (AFC)]
+}}
+----
+{{Football box
+|id         = CHN v GUM
+|date       = {{Start date|2019|10|10|df=y}}
+|time       = {{UTZ|20:00|8}}
+|team1      = {{fb-rt|CHN}}
+|score      = 7–0
+|team2      = {{fb|GUM}}
+|goals1     =
+*[[Yang Xu]] {{goal|6||19||24||31}}
+*[[Wu Lei]] {{goal|17}}
+*[[Wu Xi (footballer)|Wu Xi]] {{goal|45+1}}
+*[[Elkeson]] {{goal|75}}
+|goals2     =
+|stadium    = [[Tianhe Stadium]], [[Guangzhou]]
+|attendance = 39,987
+|referee    = Ali Reda ([[Lebanon Football Association|Lebanon]])
+|report     = [https://www.fifa.com/tournaments/mens/worldcup/qatar2022/qualifiers/afc/match-center/400080614 Report (FIFA)]<br />[http://stats.the-afc.com/match_report/16149 Report (AFC)]
+}}
+{{Football box
+|id         = SYR v MDV
+|date       = {{Start date|2019|10|10|df=y}}
+|time       = {{UTZ|18:00|4}}
+|team1      = {{fb-rt|SYR}}
+|score      = 2–1
+|team2      = {{fb|MDV}}
+|goals1     =
+*[[Omar Al Somah|Al Somah]] {{goal|26||60}}
+|goals2     =
+*[[Ali Ashfaq|Ashfaq]] {{goal|70}}
+|stadium    = [[Rashid Stadium]], [[Dubai]] (United Arab Emirates){{refn|Syria played their home matches in the United Arab Emirates because of security concerns from the [[Syrian Civil War]].<ref name="syria">{{cite web|url=https://www.albayan.ae/sports/arab/2019-07-26-1.3613697|title=سوريا تلعب مبارياتها في تصفيات كأس آسيا والمونديال على ملاعب الإمارات |website=[[Al Bayan (newspaper)|Al Bayan]] |date=26 July 2019 |access-date=22 August 2019 |language=ar|trans-title=Syria plays its Asian Cup and World Cup qualifiers at the Emirates stadiums}}</ref>|group="note"|name="SYRUAE"}}
+|attendance = 5,500
+|referee    = [[Nazmi Nasaruddin]] ([[Football Association of Malaysia|Malaysia]])
+|report     = [https://www.fifa.com/tournaments/mens/worldcup/qatar2022/qualifiers/afc/match-center/400080615 Report (FIFA)]<br />[http://stats.the-afc.com/match_report/16150 Report (AFC)]
+}}
+----
+{{Football box
+|id         = PHI v CHN
+|date       = {{Start date|2019|10|15|df=y}}
+|time       = {{UTZ|20:00|8}}
+|team1      = {{fb-rt|PHI}}
+|score      = 0–0
+|team2      = {{fb|CHN}}
+|goals1     =
+|goals2     =
+|stadium    = [[Panaad Stadium]], [[Bacolod]]
+|attendance = 2,982
+|referee    = Aziz Asimov ([[Uzbekistan Football Federation|Uzbekistan]])
+|report     = [https://www.fifa.com/tournaments/mens/worldcup/qatar2022/qualifiers/afc/match-center/400080617 Report (FIFA)]<br />[http://stats.the-afc.com/match_report/16152 Report (AFC)]
+}}
+{{Football box
+|id         = SYR v GUM
+|date       = {{Start date|2019|10|15|df=y}}{{refn|The fixtures between Guam and Syria were reversed from their original scheduled dates as the process for Syrian players to obtain United States visas would not be completed in time.<ref>{{cite news |url=https://www.guampdn.com/story/sports/2019/09/25/guams-matao-syria-switch-home-matches/2437823001/ |title=Guam's Matao, Syria switch home matches |website=[[Pacific Daily News]] |date=25 September 2019}}</ref>|group="note"|name="GUMSYR"}}
+|time       = {{UTZ|18:00|4}}
+|team1      = {{fb-rt|SYR}}
+|score      = 4–0
+|team2      = {{fb|GUM}}
+|goals1     =
+*[[Omar Al Somah|Al Somah]] {{goal|3||44||83}}
+*[[Mahmoud Al-Mawas|Al-Mawas]] {{goal|90+3}}
+|goals2     =
+|stadium    = [[Maktoum bin Rashid Al Maktoum Stadium]], [[Dubai]] (United Arab Emirates){{refn|group="note"|name="SYRUAE"}}
+|attendance = 2,050
+|referee    = Dmitriy Mashentsev ([[Football Federation of the Kyrgyz Republic|Kyrgyzstan]])
+|report     = [https://www.fifa.com/tournaments/mens/worldcup/qatar2022/qualifiers/afc/match-center/400080626 Report (FIFA)]<br />[http://stats.the-afc.com/match_report/16151 Report (AFC)]
+}}
+----
+{{Football box
+|id         = MDV v PHI
+|date       = {{Start date|2019|11|14|df=y}}
+|time       = {{UTZ|16:00|5}}
+|team1      = {{fb-rt|MDV}}
+|score      = 1–2
+|team2      = {{fb|PHI}}
+|goals1     =
+*[[Naiz Hassan|N. Hassan]] {{goal|90+3}}
+|goals2     =
+*[[Iain Ramsay|Ramsay]] {{goal|52}}
+*[[John-Patrick Strauß|Strauß]] {{goal|68}}
+|stadium    = [[National Football Stadium (Maldives)|National Football Stadium]], [[Malé]]
+|attendance = 2,700
+|referee    = Ahmed Al-Ali ([[Jordan Football Association|Jordan]])
+|report     = [https://www.fifa.com/tournaments/mens/worldcup/qatar2022/qualifiers/afc/match-center/400080618 Report (FIFA)]<br />[http://stats.the-afc.com/match_report/16153 Report (AFC)]
+}}
+{{Football box
+|id         = SYR v CHN
+|date       = {{Start date|2019|11|14|df=y}}
+|time       = {{UTZ|18:00|4}}
+|team1      = {{fb-rt|SYR}}
+|score      = 2–1
+|team2      = {{fb|CHN}}
+|goals1     =
+*[[Osama Omari|Omari]] {{goal|19}}
+*[[Zhang Linpeng]] {{goal|76|o.g.}}
+|goals2     =
+*[[Wu Lei]] {{goal|30}}
+|stadium    = [[Maktoum bin Rashid Al Maktoum Stadium]], [[Dubai]] (United Arab Emirates){{refn|group="note"|name="SYRUAE"}}
+|attendance = 6,950
+|referee    = Kim Dae-yong ([[Korea Football Association|South Korea]])
+|report     = [https://www.fifa.com/tournaments/mens/worldcup/qatar2022/qualifiers/afc/match-center/400080619 Report (FIFA)]<br />[http://stats.the-afc.com/match_report/16154 Report (AFC)]
+}}
+----
+{{Football box
+|id         = MDV v GUM
+|date       = {{Start date|2019|11|19|df=y}}
+|time       = {{UTZ|16:00|5}}
+|team1      = {{fb-rt|MDV}}
+|score      = 3–1
+|team2      = {{fb|GUM}}
+|goals1     =
+*[[Ali Samooh|Samooh]] {{goal|23}}
+*[[Travis Nicklaw|T. Nicklaw]] {{goal|38|o.g.}}
+*[[Ali Ashfaq|Ashfaq]] {{goal|90+1}}
+|goals2     =
+*[[John Matkin|Matkin]] {{goal|49}}
+|stadium    = [[National Football Stadium (Maldives)|National Football Stadium]], [[Malé]]
+|attendance = 2,612
+|referee    = Hussein Abo Yehia ([[Lebanon Football Association|Lebanon]])
+|report     = [https://www.fifa.com/tournaments/mens/worldcup/qatar2022/qualifiers/afc/match-center/400080621 Report (FIFA)]<br />[http://stats.the-afc.com/match_report/16156 Report (AFC)]
+}}
+{{Football box
+|id         = SYR v PHI
+|date       = {{Start date|2019|11|19|df=y}}
+|time       = {{UTZ|18:00|4}}
+|team1      = {{fb-rt|SYR}}
+|score      = 1–0
+|team2      = {{fb|PHI}}
+|goals1     =
+*[[Ward Al Salama|Al Salama]] {{goal|23}}
+|goals2     =
+|stadium    = [[Maktoum bin Rashid Al Maktoum Stadium]], [[Dubai]] (United Arab Emirates){{refn|group="note"|name="SYRUAE"}}
+|attendance = 2,445
+|referee    = [[Rowan Arumughan]] ([[All India Football Federation|India]])
+|report     = [https://www.fifa.com/tournaments/mens/worldcup/qatar2022/qualifiers/afc/match-center/400080620 Report (FIFA)]<br />[http://stats.the-afc.com/match_report/16155 Report (AFC)]
+}}
+----
+{{Football box
+|id         = GUM v CHN
+|date       = {{Start date|2021|5|30|df=y}}{{refn|group="note"|name=md8|Originally to be played on 31 March 2020, the match was postponed and rescheduled multiple times due to the [[COVID-19 pandemic in Asia]].}}
+|time       = {{UTZ|19:30|8}}
+|team1      = {{fb-rt|GUM}}
+|score      = 0–7
+|team2      = {{fb|CHN}}
+|goals2     =
+*[[Wu Lei]] {{goal|20|pen.|55}}
+*[[Jin Jingdao]] {{goal|39}}
+*[[Wu Xi (footballer)|Wu Xi]] {{goal|61}}
+*[[Elkeson]] {{goal|65}}
+*[[Alan Carvalho|Alan]] {{goal|83||87}}
+|stadium    = [[Suzhou Olympic Sports Centre]], [[Suzhou]] (China){{refn|group="note"|name=centralised|The matches played in May and June 2021 were held in a single centralised venue chosen per group.}}
+|attendance = 29,222
+|referee    = [[Sivakorn Pu-udom]] ([[Football Association of Thailand|Thailand]])
+|report     = [https://www.fifa.com/tournaments/mens/worldcup/qatar2022/qualifiers/afc/match-center/400176829 Report (FIFA)]<br />[http://stats.the-afc.com/match_report/16159 Report (AFC)]
+}}
+----
+{{Football box
+|id         = MDV v SYR
+|date       = {{Start date|2021|6|4|df=y}}{{refn|group="note"|name=md8}}
+|time       = {{UTZ|20:00|4}}
+|team1      = {{fb-rt|MDV}}
+|score      = 0–4
+|team2      = {{fb|SYR}}
+|goals1     =
+|goals2     =
+*[[Mahmoud Al-Mawas|Al-Mawas]] {{goal|29||45+2|pen.|71|pen.}}
+*[[Aias Aosman|Aosman]] {{goal|33|pen.}}
+|stadium    = [[Sharjah Stadium (football)|Sharjah Stadium]], [[Sharjah]] (United Arab Emirates){{refn|group="note"|name=centralised}}
+|attendance = 0
+|referee    = [[Ammar Al-Jeneibi]] ([[United Arab Emirates Football Association|United Arab Emirates]])
+|report     = [https://www.fifa.com/tournaments/mens/worldcup/qatar2022/qualifiers/afc/match-center/400176830 Report (FIFA)]<br />[http://stats.the-afc.com/match_report/16160 Report (AFC)]
+}}
+----
+{{Football box
+|id         = GUM v SYR
+|date       = {{Start date|2021|6|7|df=y}}{{refn|group="note"|name="GUMSYR"}}{{refn|group="note"|name=md9}}
+|time       = {{UTZ|18:00|4}}
+|team1      = {{fb-rt|GUM}}
+|score      = 0–3
+|team2      = {{fb|SYR}}
+|goals2     =
+*[[Mardik Mardikian|Mardikian]] {{goal|6||9}}
+*[[Mahmoud Al-Mawas|Al-Mawas]] {{goal|84}}
+|stadium    = [[Sharjah Stadium (football)|Sharjah Stadium]], [[Sharjah]] (United Arab Emirates){{refn|group="note"|name=centralised}}
+|attendance = 0
+|referee    = Khalid Al-Turais ([[Saudi Arabian Football Federation|Saudi Arabia]])
+|report     = [https://www.fifa.com/tournaments/mens/worldcup/qatar2022/qualifiers/afc/match-center/400080616 Report (FIFA)]<br />[http://stats.the-afc.com/match_report/16161 Report (AFC)]
+}}
+{{Football box
+|id         = CHN v PHI
+|date       = {{Start date|2021|6|7|df=y}}{{refn|group="note"|name=md9|Originally to be played on 4 June 2020, the match was postponed and rescheduled multiple times due to the [[COVID-19 pandemic in Asia]].}}
+|time       = {{UTZ|21:00|4}}
+|team1      = {{fb-rt|CHN}}
+|score      = 2–0
+|team2      = {{fb|PHI}}
+|goals1     =
+*[[Wu Lei]] {{goal|56|pen.}}
+*[[Wu Xinghan]] {{goal|65}}
+|goals2     =
+|stadium    = [[Sharjah Stadium (football)|Sharjah Stadium]], [[Sharjah]] (United Arab Emirates){{refn|group="note"|name=centralised}}
+|attendance = 0
+|referee    = [[Kim Hee-gon]] ([[Korea Football Association|South Korea]])
+|report     = [https://www.fifa.com/tournaments/mens/worldcup/qatar2022/qualifiers/afc/match-center/400080627 Report (FIFA)]<br />[http://stats.the-afc.com/match_report/16162 Report (AFC)]
+}}
+----
+{{Football box
+|id         = PHI v GUM
+|date       = {{Start date|2021|6|11|df=y}}{{refn|group="note"|name=md7}}
+|time       = {{UTZ|18:00|4}}
+|team1      = {{fb-rt|PHI}}
+|score      = 3–0
+|team2      = {{fb|GUM}}
+|goals1     =
+*[[Ángel Guirado|Guirado]] {{goal|12}}
+*[[Marcus Lopez|Lopez]] {{goal|60|o.g.}}
+*[[Mark Hartmann|Hartmann]] {{goal|88}}
+|goals2     =
+|stadium    = [[Sharjah Stadium (football)|Sharjah Stadium]], [[Sharjah]] (United Arab Emirates){{refn|group="note"|name=centralised}}
+|attendance = 0
+|referee    = [[Ammar Al-Jeneibi]] ([[United Arab Emirates Football Association|United Arab Emirates]])
+|report     = [https://www.fifa.com/tournaments/mens/worldcup/qatar2022/qualifiers/afc/match-center/400080623 Report (FIFA)]<br />[http://stats.the-afc.com/match_report/16158 Report (AFC)]
+}}
+{{Football box
+|id         = CHN v MDV
+|date       = {{Start date|2021|6|11|df=y}}{{refn|group="note"|name=md7|Originally to be played on 26 March 2020, the match was postponed and rescheduled multiple times due to the [[COVID-19 pandemic in Asia]].}}
+|time       = {{UTZ|21:00|4}}
+|team1      = {{fb-rt|CHN}}
+|score      = 5–0
+|team2      = {{fb|MDV}}
+|goals1     =
+*[[Liu Binbin]] {{goal|5}}
+*[[Wu Lei]] {{goal|30}}
+*[[Alan Carvalho|Alan]] {{goal|68}}
+*[[Zhang Yuning (footballer, born 1997)|Zhang Yuning]] {{goal|69}}
+*[[Tan Long]] {{goal|79}}
+|goals2     =
+|stadium    = [[Sharjah Stadium (football)|Sharjah Stadium]], [[Sharjah]] (United Arab Emirates){{refn|group="note"|name=centralised}}
+|attendance = 0
+|referee    = Ahmed Al-Ali ([[Jordan Football Association|Jordan]])
+|report     = [https://www.fifa.com/tournaments/mens/worldcup/qatar2022/qualifiers/afc/match-center/400080622 Report (FIFA)]<br />[http://stats.the-afc.com/match_report/16157 Report (AFC)]
+}}
+----
+{{Football box
+|id         = PHI v MDV
+|date       = {{Start date|2021|6|15|df=y}}{{refn|group="note"|name=md10}}
+|time       = {{UTZ|19:00|4}}
+|team1      = {{fb-rt|PHI}}
+|score      = 1–1
+|team2      = {{fb|MDV}}
+|goals1     =
+*[[Ángel Guirado|Guirado]] {{goal|19}}
+|goals2     =
+*[[Ali Fasir|Fasir]] {{goal|25}}
+|stadium    = [[Sharjah Stadium (football)|Sharjah Stadium]], [[Sharjah]] (United Arab Emirates){{refn|group="note"|name=centralised}}
+|attendance = 0
+|referee    = [[Sivakorn Pu-udom]] ([[Football Association of Thailand|Thailand]])
+|report     = [https://www.fifa.com/tournaments/mens/worldcup/qatar2022/qualifiers/afc/match-center/400080628 Report (FIFA)]<br />[http://stats.the-afc.com/match_report/16163 Report (AFC)]
+}}
+{{Football box
+|id         = CHN v SYR
+|date       = {{Start date|2021|6|15|df=y}}{{refn|group="note"|name=md10|Originally to be played on 9 June 2020, the match was postponed and rescheduled multiple times due to the [[COVID-19 pandemic in Asia]].}}
+|time       = {{UTZ|22:00|4}}
+|team1      = {{fb-rt|CHN}}
+|score      = 3–1
+|team2      = {{fb|SYR}}
+|goals1     =
+*[[Zhang Xizhe]] {{goal|43}}
+*[[Wu Lei]] {{goal|69|pen.}}
+*[[Zhang Yuning (footballer, born 1997)|Zhang Yuning]] {{goal|90+3}}
+|goals2     =
+*[[Aias Aosman|Aosman]] {{goal|50}}
+|stadium    = [[Sharjah Stadium (football)|Sharjah Stadium]], [[Sharjah]] (United Arab Emirates){{refn|group="note"|name=centralised}}
+|attendance = 0
+|referee    = [[Muhammad Taqi (referee)|Muhammad Taqi]] ([[Football Association of Singapore|Singapore]])
+|report     = [https://www.fifa.com/tournaments/mens/worldcup/qatar2022/qualifiers/afc/match-center/400080629 Report (FIFA)]<br />[http://stats.the-afc.com/match_report/16164 Report (AFC)]
+}}
+'''Goalscorers'''
+
+{{#invoke:Goalscorers|main|2022 FIFA World Cup qualification (AFC)|round=group|group=A}}<!--CAREFULLY update goalscorers at Module:Goalscorers/data/2022 FIFA World Cup qualification (AFC)-->
+
+== Group B ==
+<onlyinclude>{{#invoke:Sports table|main|style=WDL
+|section=Group B
+|show_matches=y
+|class_rules=[[2022 FIFA World Cup qualification#Tiebreakers|Qualification tiebreakers]]
+|source=[https://www.fifa.com/tournaments/mens/worldcup/qatar2022/qualifiers/afc FIFA]
+
+<!--Team definitions-->
+|name_AUS={{fb|AUS}} |short_AUS={{flagdeco|AUS}}
+|name_JOR={{fb|JOR}} |short_JOR={{flagdeco|JOR}}
+|name_TPE={{fb|TPE}} |short_TPE={{flagdeco|TPE}}
+|name_KUW={{fb|KUW}} |short_KUW={{flagdeco|KUW}}
+|name_NEP={{fb|NEP}} |short_NEP={{flagdeco|NEP}}
+
+<!--Update team results below (including date)-->
+|update=complete
+|win_AUS=8 |draw_AUS=0 |loss_AUS=0 |gf_AUS=28|ga_AUS=2
+|win_JOR=4 |draw_JOR=2 |loss_JOR=2 |gf_JOR=13|ga_JOR=3
+|win_TPE=0 |draw_TPE=0 |loss_TPE=8 |gf_TPE=4 |ga_TPE=34
+|win_KUW=4 |draw_KUW=2 |loss_KUW=2 |gf_KUW=19|ga_KUW=7
+|win_NEP=2 |draw_NEP=0 |loss_NEP=6 |gf_NEP=4 |ga_NEP=22
+
+<!--Update team positions below (check tiebreakers)-->
+|team_order=AUS, KUW, JOR, NEP, TPE
+
+<!--Update results below-->
+|match_AUS_JOR=[[#AUS v JOR|1–0]]
+|match_AUS_TPE=[[#AUS v TPE|5–1]]
+|match_AUS_KUW=[[#AUS v KUW|3–0]]
+|match_AUS_NEP=[[#AUS v NEP|5–0]]
+
+|match_JOR_AUS=[[#JOR v AUS|0–1]]
+|match_JOR_TPE=[[#JOR v TPE|5–0]]
+|match_JOR_KUW=[[#JOR v KUW|0–0]]
+|match_JOR_NEP=[[#JOR v NEP|3–0]]
+
+|match_TPE_AUS=[[#TPE v AUS|1–7]]
+|match_TPE_JOR=[[#TPE v JOR|1–2]]
+|match_TPE_KUW=[[#TPE v KUW|1–2]]
+|match_TPE_NEP=[[#TPE v NEP|0–2]]
+
+|match_KUW_AUS=[[#KUW v AUS|0–3]]
+|match_KUW_JOR=[[#KUW v JOR|0–0]]
+|match_KUW_TPE=[[#KUW v TPE|9–0]]
+|match_KUW_NEP=[[#KUW v NEP|7–0]]
+
+|match_NEP_AUS=[[#NEP v AUS|0–3]]
+|match_NEP_JOR=[[#NEP v JOR|0–3]]
+|match_NEP_TPE=[[#NEP v TPE|2–0]]
+|match_NEP_KUW=[[#NEP v KUW|0–1]]
+
+<!--Qualification column definitions-->
+|res_col_header=Q
+|result1=1st |result2=3rd |result3=3rd |result4=3rd |result5=4th
+|col_1st=green1 |text_1st=[[2022 FIFA World Cup qualification – AFC third round|World Cup qualifying third round]] and [[2023 AFC Asian Cup|Asian Cup]]
+|col_3rd=blue1 |text_3rd=[[2023 AFC Asian Cup qualification – third round|Asian Cup qualifying third round]]
+|col_4th=yellow1 |text_4th=[[2023 AFC Asian Cup qualification – Play-off Round|Asian Cup qualifying play-off round]]
+}}</onlyinclude>
+{{Football box
+|id         = TPE v JOR
+|date       = {{Start date|2019|9|5|df=y}}
+|time       = {{UTZ|19:10|8}}
+|team1      = {{fb-rt|TPE}}
+|score      = 1–2
+|team2      = {{fb|JOR}}
+|goals1     =
+*[[Wen Chih-hao]] {{goal|81}}
+|goals2     =
+*[[Baha' Faisal|Faisal]] {{goal|19}}
+*[[Ahmed Samir (footballer, born 1991)|Samir]] {{goal|37}}
+|stadium    = [[Taipei Municipal Stadium]], [[Taipei]]
+|attendance = 5,520
+|referee    = Yusuke Araki ([[Japan Football Association|Japan]])
+|report     = [https://www.fifa.com/tournaments/mens/worldcup/qatar2022/qualifiers/afc/match-center/400080718 Report (FIFA)]<br />[http://stats.the-afc.com/match_report/16165 Report (AFC)]
+}}
+{{Football box
+|id         = KUW v NEP
+|date       = {{Start date|2019|9|5|df=y}}{{refn|group="note"|name="Nepal fixtures"|The home matches of Nepal against Chinese Taipei, Jordan and Kuwait were swapped with the away matches at the request of the [[All Nepal Football Association]] with consent from the opponents.<ref>{{cite news |url=https://thehimalayantimes.com/sports/kuwait-fa-agrees-to-host-nepal/ |title=Kuwait FA agrees to host Nepal |website=[[The Himalayan Times]] |date=9 August 2019 |access-date=11 August 2019}}</ref> The only Nepali stadium that meets the required criteria for this competition is the [[Dasarath Rangasala Stadium]], which was damaged in the [[April 2015 Nepal earthquake]], and would not be repaired in time.<ref>{{cite web|title=Dashrath Stadium not capable of hosting first two World Cup Qualifying matches|url=https://kathmandupost.com/sports/2019/07/27/nepal-not-capable-to-host-first-two-world-cup-qualifying-matches|website=[[The Kathmandu Post]]|date=29 July 2019|access-date=21 August 2019}}</ref>}}
+|time       = {{UTZ|20:00|3}}
+|team1      = {{fb-rt|KUW}}
+|score      = 7–0
+|team2      = {{fb|NEP}}
+|goals1     =
+*[[Yousef Nasser|Nasser]] {{goal|6||50}}
+*[[Fahad Al Hajeri|Al Hajeri]] {{goal|13}}
+*[[Abdullah Mawei|Mawei]] {{goal|59}}
+*[[Bader Al-Mutawa|Al-Mutawa]] {{goal|67}}
+*[[Redha Abujabarah|Abujabarah]] {{goal|90+4}}
+*[[Hussain Al-Musawi|Al-Musawi]] {{goal|90+7}}
+|goals2     =
+|stadium    = [[Al Kuwait Sports Club Stadium]], [[Kuwait City]]
+|attendance = 7,500
+|referee    = Kim Dae-yong ([[Korea Football Association|South Korea]])
+|report     = [https://www.fifa.com/tournaments/mens/worldcup/qatar2022/qualifiers/afc/match-center/400080719 Report (FIFA)]<br />[http://stats.the-afc.com/match_report/16176 Report (AFC)]
+}}
+----
+{{Football box
+|id         = TPE v NEP
+|date       = {{Start date|2019|9|10|df=y}}{{refn|group="note"|name="Nepal fixtures"}}
+|time       = {{UTZ|19:10|8}}
+|team1      = {{fb-rt|TPE}}
+|score      = 0–2
+|team2      = {{fb|NEP}}
+|goals1     =
+|goals2     =
+*[[Anjan Bista|Bista]] {{goal|4||62}}
+|stadium    = [[Taipei Municipal Stadium]], [[Taipei]]
+|attendance = 4,780
+|referee    = [[Yaqoob Abdul Baki]] ([[Oman Football Association|Oman]])
+|report     = [https://www.fifa.com/tournaments/mens/worldcup/qatar2022/qualifiers/afc/match-center/400080721 Report (FIFA)]<br />[http://stats.the-afc.com/match_report/16178 Report (AFC)]
+}}
+{{Football box
+|id         = KUW v AUS
+|date       = {{Start date|2019|9|10|df=y}}
+|time       = {{UTZ|18:30|3}}
+|team1      = {{fb-rt|KUW}}
+|score      = 0–3
+|team2      = {{fb|AUS}}
+|goals1     =
+|goals2     =
+*[[Mathew Leckie|Leckie]] {{goal|7||30}}
+*[[Aaron Mooy|Mooy]] {{goal|38}}
+|stadium    = [[Al Kuwait Sports Club Stadium]], [[Kuwait City]]
+|attendance = 11,852
+|referee    = [[Muhammad Taqi (referee)|Muhammad Taqi]] ([[Football Association of Singapore|Singapore]])
+|report     = [https://www.fifa.com/tournaments/mens/worldcup/qatar2022/qualifiers/afc/match-center/400080720 Report (FIFA)]<br />[http://stats.the-afc.com/match_report/16167 Report (AFC)]
+}}
+----
+{{Football box
+|id         = AUS v NEP
+|date       = {{Start date|2019|10|10|df=y}}
+|time       = {{UTZ|20:00|11}}
+|team1      = {{fb-rt|AUS}}
+|score      = 5–0
+|team2      = {{fb|NEP}}
+|goals1     =
+*[[Jamie Maclaren|Maclaren]] {{goal|6||19||90}}
+*[[Harry Souttar|Souttar]] {{goal|23||59}}
+|goals2     =
+|stadium    = [[Canberra Stadium]], [[Canberra]]
+|attendance = 18,563
+|referee    = [[Thoriq Alkatiri]] ([[Football Association of Indonesia|Indonesia]])
+|report     = [https://www.fifa.com/tournaments/mens/worldcup/qatar2022/qualifiers/afc/match-center/400080722 Report (FIFA)]<br />[http://stats.the-afc.com/match_report/16169 Report (AFC)]
+}}
+{{Football box
+|id         = JOR v KUW
+|date       = {{Start date|2019|10|10|df=y}}
+|time       = {{UTZ|19:00|3}}
+|team1      = {{fb-rt|JOR}}
+|score      = 0–0
+|team2      = {{fb|KUW}}
+|goals1     =
+|goals2     =
+|stadium    = [[Amman International Stadium]], [[Amman]]
+|attendance = 10,720
+|referee    = [[Ryuji Sato]] ([[Japan Football Association|Japan]])
+|report     = [https://www.fifa.com/tournaments/mens/worldcup/qatar2022/qualifiers/afc/match-center/400080723 Report (FIFA)]<br />[http://stats.the-afc.com/match_report/16170 Report (AFC)]
+}}
+----
+{{Football box
+|id         = TPE v AUS
+|date       = {{Start date|2019|10|15|df=y}}
+|time       = {{UTZ|19:40|8}}
+|team1      = {{fb-rt|TPE}}
+|score      = 1–7
+|team2      = {{fb|AUS}}
+|goals1     =
+*[[Chen Yi-wei]] {{goal|21}}
+|goals2     =
+*[[Adam Taggart|Taggart]] {{goal|12||19}}
+*[[Jackson Irvine|Irvine]] {{goal|34||37}}
+*[[Harry Souttar|Souttar]] {{goal|73||89}}
+*[[Jamie Maclaren|Maclaren]] {{goal|84}}
+|stadium    = [[National Stadium (Kaohsiung)|National Stadium]], [[Kaohsiung]]
+|attendance = 3,251
+|referee    = Mongkolchai Pechsri ([[Football Association of Thailand|Thailand]])
+|report     = [https://www.fifa.com/tournaments/mens/worldcup/qatar2022/qualifiers/afc/match-center/400080725 Report (FIFA)]<br />[http://stats.the-afc.com/match_report/16172 Report (AFC)]
+}}
+{{Football box
+|id         = JOR v NEP
+|date       = {{Start date|2019|10|15|df=y}}{{refn|group="note"|name="Nepal fixtures"}}
+|time       = {{UTZ|19:00|3}}
+|team1      = {{fb-rt|JOR}}
+|score      = 3–0
+|team2      = {{fb|NEP}}
+|goals1     =
+*[[Feras Shelbaieh|Shelbaieh]] {{goal|56|pen.}}
+*[[Ahmad Ersan|Ersan]] {{goal|78}}
+*[[Baha' Faisal|Faisal]] {{goal|88}}
+|goals2     =
+|stadium    = [[Amman International Stadium]], [[Amman]]
+|attendance = 4,863
+|referee    = Sadullo Gulmurodi ([[Tajikistan Football Federation|Tajikistan]])
+|report     = [https://www.fifa.com/tournaments/mens/worldcup/qatar2022/qualifiers/afc/match-center/400080724 Report (FIFA)]<br />[http://stats.the-afc.com/match_report/16181 Report (AFC)]
+}}
+----
+{{Football box
+|id         = KUW v TPE
+|date       = {{Start date|2019|11|14|df=y}}
+|time       = {{UTZ|19:00|3}}
+|team1      = {{fb-rt|KUW}}
+|score      = 9–0
+|team2      = {{fb|TPE}}
+|goals1     =
+*[[Yousef Nasser|Nasser]] {{goal|22||59}}
+*[[Fahad Al Ansari|Al Ansari]] {{goal|42}}
+*[[Mobarak Al-Faneeni|Al-Faneeni]] {{goal|49}}
+*[[Bader Al-Mutawa|Al-Mutawa]] {{goal|55}}
+*[[Faisal Zayid|Zayid]] {{goal|62}}
+*[[Shabib Al-Khaldi|Al-Khaldi]] {{goal|73}}
+*[[Chen Wei-chuan]] {{goal|77|o.g.}}
+*[[Faisal Ajab Al-Azemi|Ajab]] {{goal|81}}
+|goals2     =
+|stadium    = [[Al Kuwait Sports Club Stadium]], [[Kuwait City]]
+|attendance = 8,400
+|referee    = [[Mohd Amirul Izwan Yaacob]] ([[Football Association of Malaysia|Malaysia]])
+|report     = [https://www.fifa.com/tournaments/mens/worldcup/qatar2022/qualifiers/afc/match-center/400080758 Report (FIFA)]<br />[http://stats.the-afc.com/match_report/16173 Report (AFC)]
+}}
+{{Football box
+|id         = JOR v AUS
+|date       = {{Start date|2019|11|14|df=y}}
+|time       = {{UTZ|18:00|2}}
+|team1      = {{fb-rt|JOR}}
+|score      = 0–1
+|team2      = {{fb|AUS}}
+|goals1     =
+|goals2     =
+*[[Adam Taggart|Taggart]] {{goal|13}}
+|stadium    = [[King Abdullah II Stadium]], [[Amman]]
+|attendance = 9,712
+|referee    = [[Fu Ming]] ([[Chinese Football Association|China]])
+|report     = [https://www.fifa.com/tournaments/mens/worldcup/qatar2022/qualifiers/afc/match-center/400080759 Report (FIFA)]<br />[http://stats.the-afc.com/match_report/16174 Report (AFC)]
+}}
+----
+{{Football box
+|id         = NEP v KUW
+|date       = {{Start date|2019|11|19|df=y}}{{refn|group="note"|name="Nepal fixtures"}}
+|time       = {{UTZ|15:00|6}}
+|team1      = {{fb-rt|NEP}}
+|score      = 0–1
+|team2      = {{fb|KUW}}
+|goals1     =
+|goals2     =
+*[[Bader Al-Mutawa|Al-Mutawa]] {{goal|28}}
+|stadium    = [[Changlimithang Stadium]], [[Thimphu]] (Bhutan){{refn|After previously swapping the home fixtures with other teams in the group due to [[Dasarath Rangasala Stadium]], [[Kathmandu]] not being able to be repaired in time, Nepal then played their home fixtures at [[Changlimithang Stadium]], [[Thimphu]], [[Bhutan]] due to the AFC citing that the Dasarath Rangasala Stadium has poor infrastructure.<ref>{{cite web |url=https://myrepublica.nagariknetwork.com/news/nepal-kuwait-to-play-at-changlimithang-stadium-bhutan/ |title=Nepal, Kuwait to play at Changlimithang Stadium, Bhutan |website=[[República (newspaper)|República]] |date=11 November 2019 }}</ref>|group="note"|name="NEPBHU"}}
+|attendance = 2,000
+|referee    = Omar Al-Yaqoubi ([[Oman Football Association|Oman]])
+|report     = [https://www.fifa.com/tournaments/mens/worldcup/qatar2022/qualifiers/afc/match-center/400080761 Report (FIFA)]<br />[http://stats.the-afc.com/match_report/16166 Report (AFC)]
+}}
+{{Football box
+|id         = JOR v TPE
+|date       = {{Start date|2019|11|19|df=y}}
+|time       = {{UTZ|18:00|2}}
+|team1      = {{fb-rt|JOR}}
+|score      = 5–0
+|team2      = {{fb|TPE}}
+|goals1     =
+*[[Baha' Faisal|Faisal]] {{goal|4||75}}
+*[[Ahmad Ersan|Ersan]] {{goal|25}}
+*[[Salem Al-Ajalin|Al-Ajalin]] {{goal|43}}
+*[[Hamza Al-Dardour|Al-Dardour]] {{goal|62}}
+|goals2     =
+|stadium    = [[King Abdullah II Stadium]], [[Amman]]
+|attendance = 2,260
+|referee    = [[Mohammed Abdulla Hassan Mohamed]] ([[United Arab Emirates Football Association|United&nbsp;Arab&nbsp;Emirates]])
+|report     = [https://www.fifa.com/tournaments/mens/worldcup/qatar2022/qualifiers/afc/match-center/400080760 Report (FIFA)]<br />[http://stats.the-afc.com/match_report/16175 Report (AFC)]
+}}
+----
+{{Football box
+|id         = NEP v TPE
+|date       = {{Start date|2021|6|3|df=y}}{{refn|group="note"|name="Nepal fixtures"}}{{refn|group="note"|name=md7}}
+|time       = {{UTZ|19:00|3}}
+|team1      = {{fb-rt|NEP}}
+|score      = 2–0
+|team2      = {{fb|TPE}}
+|goals1     =
+*[[Anjan Bista|An. Bista]] {{goal|3|pen.}}
+*[[Nawayug Shrestha|N. Shrestha]] {{goal|80}}
+|goals2     =
+|stadium    = [[Al Kuwait Sports Club Stadium]], [[Kuwait City]] (Kuwait){{refn|group="note"|name=centralised}}
+|attendance = 0
+|referee    = Kim Woo-sung ([[Korea Football Association|South Korea]])
+|report     = [https://www.fifa.com/tournaments/mens/worldcup/qatar2022/qualifiers/afc/match-center/400176844 Report (FIFA)]<br />[http://stats.the-afc.com/match_report/16168 Report (AFC)]
+}}
+{{Football box
+|id         = AUS v KUW
+|date       = {{Start date|2021|6|3|df=y}}{{refn|group="note"|name=md7}}
+|time       = {{UTZ|22:00|3}}
+|team1      = {{fb-rt|AUS}}
+|score      = 3–0
+|team2      = {{fb|KUW}}
+|goals1     =
+*[[Matthew Leckie|Leckie]] {{goal|1}}
+*[[Jackson Irvine|Irvine]] {{goal|24}}
+*[[Ajdin Hrustic|Hrustic]] {{goal|66}}
+|goals2     =
+|stadium    = [[Jaber Al-Ahmad International Stadium]], [[Kuwait City]] (Kuwait){{refn|group="note"|name=centralised}}
+|attendance = 0
+|referee    = [[Jumpei Iida]] ([[Japan Football Association|Japan]])
+|report     = [https://www.fifa.com/tournaments/mens/worldcup/qatar2022/qualifiers/afc/match-center/400080762 Report (FIFA)]<br />[http://stats.the-afc.com/match_report/16177 Report (AFC)]
+}}
+----
+{{Football box
+|id         = NEP v JOR
+|date       = {{Start date|2021|6|7|df=y}}{{refn|group="note"|name="Nepal fixtures"}}{{refn|group="note"|name=md9}}
+|time       = {{UTZ|19:00|3}}
+|team1      = {{fb-rt|NEP}}
+|score      = 0–3
+|team2      = {{fb|JOR}}
+|goals1     =
+|goals2     =
+*[[Baha' Faisal|Faisal]] {{goal|23|pen.|48}}
+*[[Yazan Al-Arab|Al-Arab]] {{goal|67}}
+|stadium    = [[Al Kuwait Sports Club Stadium]], [[Kuwait City]] (Kuwait){{refn|group="note"|name=centralised}}
+|attendance = 0
+|referee    = [[Mohd Amirul Izwan Yaacob]] ([[Football Association of Malaysia|Malaysia]])
+|report     = [https://www.fifa.com/tournaments/mens/worldcup/qatar2022/qualifiers/afc/match-center/400080766 Report (FIFA)]<br />[http://stats.the-afc.com/match_report/16171 Report (AFC)]
+}}
+{{Football box
+|id         = AUS v TPE
+|date       = {{Start date|2021|6|7|df=y}}{{refn|group="note"|name=md9}}
+|time       = {{UTZ|22:00|3}}
+|team1      = {{fb-rt|AUS}}
+|score      = 5–1
+|team2      = {{fb|TPE}}
+|goals1     =
+*[[Harry Souttar|Souttar]] {{goal|12}}
+*[[Jamie Maclaren|Maclaren]] {{goal|27|pen.}}
+*[[Trent Sainsbury|Sainsbury]] {{goal|41}}
+*[[Mitchell Duke|Duke]] {{goal|46||84}}
+|goals2     =
+*[[Gao Wei-jie]] {{goal|62}}
+|stadium    = [[Jaber Al-Ahmad International Stadium]], [[Kuwait City]] (Kuwait){{refn|group="note"|name=centralised}}
+|attendance = 0
+|referee    = Saoud Al-Adba ([[Qatar Football Association|Qatar]])
+|report     = [https://www.fifa.com/tournaments/mens/worldcup/qatar2022/qualifiers/afc/match-center/400080767 Report (FIFA)]<br />[http://stats.the-afc.com/match_report/16182 Report (AFC)]
+}}
+----
+{{Football box
+|id         = NEP v AUS
+|date       = {{Start date|2021|6|11|df=y}}{{refn|group="note"|name=md8}}
+|time       = {{UTZ|19:00|3}}
+|team1      = {{fb-rt|NEP}}
+|score      = 0–3
+|team2      = {{fb|AUS}}
+|goals1     =
+|goals2     =
+*[[Mathew Leckie|Leckie]] {{goal|6}}
+*[[Fran Karačić|Karačić]] {{goal|38}}
+*[[Martin Boyle|Boyle]] {{goal|57}}
+|stadium    = [[Jaber Al-Ahmad International Stadium]], [[Kuwait City]] (Kuwait){{refn|group="note"|name=centralised}}
+|attendance = 0
+|referee    = [[Ahmed Al-Kaf]] ([[Oman Football Association|Oman]])
+|report     = [https://www.fifa.com/tournaments/mens/worldcup/qatar2022/qualifiers/afc/match-center/400176845 Report (FIFA)]<br />[http://stats.the-afc.com/match_report/16179 Report (AFC)]
+}}
+{{Football box
+|id         = KUW v JOR
+|date       = {{Start date|2021|6|11|df=y}}{{refn|group="note"|name=md8}}
+|time       = {{UTZ|22:00|3}}
+|team1      = {{fb-rt|KUW}}
+|score      = 0–0
+|team2      = {{fb|JOR}}
+|goals1     =
+|goals2     =
+|stadium    = [[Jaber Al-Ahmad International Stadium]], [[Kuwait City]]{{refn|group="note"|name=centralised}}
+|attendance = 0
+|referee    = [[Nawaf Shukralla]] ([[Bahrain Football Association|Bahrain]])
+|report     = [https://www.fifa.com/tournaments/mens/worldcup/qatar2022/qualifiers/afc/match-center/400176843 Report (FIFA)]<br />[http://stats.the-afc.com/match_report/16180 Report (AFC)]
+}}
+----
+{{Football box
+|id         = AUS v JOR
+|date       = {{Start date|2021|6|15|df=y}}{{refn|group="note"|name=md10}}
+|time       = {{UTZ|19:00|3}}
+|team1      = {{fb-rt|AUS}}
+|score      = 1–0
+|team2      = {{fb|JOR}}
+|goals1     =
+*[[Harry Souttar|Souttar]] {{goal|77}}
+|goals2     =
+|stadium    = [[Jaber Al-Ahmad International Stadium]], [[Kuwait City]] (Kuwait){{refn|group="note"|name=centralised}}
+|attendance = 0
+|referee    = Kim Woo-Sung ([[Korea Football Association|South Korea]])
+|report     = [https://www.fifa.com/tournaments/mens/worldcup/qatar2022/qualifiers/afc/match-center/400080769 Report (FIFA)]<br />[http://stats.the-afc.com/match_report/16184 Report (AFC)]
+}}
+{{Football box
+|id         = TPE v KUW
+|date       = {{Start date|2021|6|15|df=y}}{{refn|group="note"|name=md10}}
+|time       = {{UTZ|22:00|3}}
+|team1      = {{fb-rt|TPE}}
+|score      = 1–2
+|team2      = {{fb|KUW}}
+|goals1     =
+*[[Wu Chun-ching]] {{goal|51}}
+|goals2     =
+*[[Yousef Nasser|Nasser]] {{goal|14||71}}
+|stadium    = [[Jaber Al-Ahmad International Stadium]], [[Kuwait City]] (Kuwait){{refn|group="note"|name=centralised}}
+|attendance = 0
+|referee    = [[Ahmed Al-Kaf]] ([[Oman Football Association|Oman]])
+|report     = [https://www.fifa.com/tournaments/mens/worldcup/qatar2022/qualifiers/afc/match-center/400080768 Report (FIFA)]<br />[http://stats.the-afc.com/match_report/16183 Report (AFC)]
+}}
+'''Goalscorers'''
+
+{{#invoke:Goalscorers|main|2022 FIFA World Cup qualification (AFC)|round=group|group=B}}<!--CAREFULLY update goalscorers at Module:Goalscorers/data/2022 FIFA World Cup qualification (AFC)-->
+
+== Group C ==
+<onlyinclude>{{#invoke:Sports table|main|style=WDL
+|section=Group C
+|show_matches=y
+|class_rules=[[2022 FIFA World Cup qualification#Tiebreakers|Qualification tiebreakers]]
+|source=[https://www.fifa.com/tournaments/mens/worldcup/qatar2022/qualifiers/afc FIFA]
+
+<!--Team definitions-->
+|name_IRN={{fb|IRN}} |short_IRN={{flagdeco|IRN}}
+|name_IRQ={{fb|IRQ}} |short_IRQ={{flagdeco|IRQ}}
+|name_BHR={{fb|BHR}} |short_BHR={{flagdeco|BHR}}
+|name_HKG={{fb|HKG}} |short_HKG={{flagdeco|HKG}}
+|name_CAM={{fb|CAM}} |short_CAM={{flagdeco|CAM}}
+
+<!--Update team results below (including date)-->
+|update=complete
+|win_IRN=6 |draw_IRN=0 |loss_IRN=2 |gf_IRN=34|ga_IRN=4
+|win_IRQ=5 |draw_IRQ=2 |loss_IRQ=1 |gf_IRQ=14|ga_IRQ=4
+|win_BHR=4 |draw_BHR=3 |loss_BHR=1 |gf_BHR=15|ga_BHR=4
+|win_HKG=1 |draw_HKG=2 |loss_HKG=5 |gf_HKG=4 |ga_HKG=13
+|win_CAM=0 |draw_CAM=1 |loss_CAM=7 |gf_CAM=2 |ga_CAM=44
+
+<!--Update team positions below (check tiebreakers)-->
+|team_order=IRN, IRQ, BHR, HKG, CAM
+
+<!--Update results below-->
+|match_IRN_IRQ=[[#IRN v IRQ|1–0]]
+|match_IRN_BHR=[[#IRN v BHR|3–0]]
+|match_IRN_HKG=[[#IRN v HKG|3–1]]
+|match_IRN_CAM=[[#IRN v CAM|14–0]]
+
+|match_IRQ_IRN=[[#IRQ v IRN|2–1]]
+|match_IRQ_BHR=[[#IRQ v BHR|0–0]]
+|match_IRQ_HKG=[[#IRQ v HKG|2–0]]
+|match_IRQ_CAM=[[#IRQ v CAM|4–1]]
+
+|match_BHR_IRN=[[#BHR v IRN|1–0]]
+|match_BHR_IRQ=[[#BHR v IRQ|1–1]]
+|match_BHR_HKG=[[#BHR v HKG|4–0]]
+|match_BHR_CAM=[[#BHR v CAM|8–0]]
+
+|match_HKG_IRN=[[#HKG v IRN|0–2]]
+|match_HKG_IRQ=[[#HKG v IRQ|0–1]]
+|match_HKG_BHR=[[#HKG v BHR|0–0]]
+|match_HKG_CAM=[[#HKG v CAM|2–0]]
+
+|match_CAM_IRN=[[#CAM v IRN|0–10]]
+|match_CAM_IRQ=[[#CAM v IRQ|0–4]]
+|match_CAM_BHR=[[#CAM v BHR|0–1]]
+|match_CAM_HKG=[[#CAM v HKG|1–1]]
+
+<!--Qualification column definitions-->
+|res_col_header=Q
+|result1=1st |result2=1st |result3=3rd |result4=3rd |result5=4th
+|col_1st=green1 |text_1st=[[2022 FIFA World Cup qualification – AFC third round|World Cup qualifying third round]] and [[2023 AFC Asian Cup|Asian Cup]]
+|col_3rd=blue1 |text_3rd=[[2023 AFC Asian Cup qualification – third round|Asian Cup qualifying third round]]
+|col_4th=yellow1 |text_4th=[[2023 AFC Asian Cup qualification – Play-off Round|Asian Cup qualifying play-off round]]
+}}</onlyinclude>
+{{Football box
+|id         = CAM v HKG
+|date       = {{Start date|2019|9|5|df=y}}
+|time       = {{UTZ|18:30|7}}
+|team1      = {{fb-rt|CAM}}
+|score      = 1–1
+|team2      = {{fb|HKG}}
+|goals1     =
+*[[Keo Sokpheng|Sokpheng]] {{goal|33}}
+|goals2     =
+*[[Tan Chun Lok]] {{goal|16}}
+|stadium    = [[Olympic Stadium (Phnom Penh)|Olympic Stadium]], [[Phnom Penh]]
+|attendance = 45,500
+|referee    = Ilgiz Tantashev ([[Uzbekistan Football Association|Uzbekistan]])
+|report     = [https://www.fifa.com/tournaments/mens/worldcup/qatar2022/qualifiers/afc/match-center/400080727 Report (FIFA)]<br />[http://stats.the-afc.com/match_report/16186 Report (AFC)]
+}}
+{{Football box
+|id         = BHR v IRQ
+|date       = {{Start date|2019|9|5|df=y}}
+|time       = {{UTZ|19:30|3}}
+|team1      = {{fb-rt|BHR}}
+|score      = 1–1
+|team2      = {{fb|IRQ}}
+|goals1     =
+*[[Kamil Al Aswad|Al Aswad]] {{goal|9}}
+|goals2     =
+*[[Mohanad Ali|M. Ali]] {{goal|85}}
+|stadium    = [[Bahrain National Stadium]], [[Riffa]]
+|attendance = 6,049
+|referee    = Omar Al-Yaqoubi ([[Oman Football Association|Oman]])
+|report     = [https://www.fifa.com/tournaments/mens/worldcup/qatar2022/qualifiers/afc/match-center/400080726 Report (FIFA)]<br />[http://stats.the-afc.com/match_report/16185 Report (AFC)]
+}}
+----
+{{Football box
+|id         = CAM v BHR
+|date       = {{Start date|2019|9|10|df=y}}
+|time       = {{UTZ|18:30|7}}
+|team1      = {{fb-rt|CAM}}
+|score      = 0–1
+|team2      = {{fb|BHR}}
+|goals1     =
+|goals2     =
+*[[Kamil Al Aswad|Al Aswad]] {{goal|78}}
+|stadium    = [[Olympic Stadium (Phnom Penh)|Olympic Stadium]], [[Phnom Penh]]
+|attendance = 45,000
+|referee    = Nivon Robesh Gamini ([[Football Federation of Sri Lanka|Sri&nbsp;Lanka]])
+|report     = [https://www.fifa.com/tournaments/mens/worldcup/qatar2022/qualifiers/afc/match-center/400080729 Report (FIFA)]<br />[http://stats.the-afc.com/match_report/16188 Report (AFC)]
+}}
+{{Football box
+|id         = HKG v IRN
+|date       = {{Start date|2019|9|10|df=y}}
+|time       = {{UTZ|20:00|8}}
+|team1      = {{fb-rt|HKG}}
+|score      = 0–2
+|team2      = {{fb|IRN}}
+|goals1     =
+|goals2     =
+*[[Sardar Azmoun|Azmoun]] {{goal|23}}
+*[[Karim Ansarifard|Ansarifard]] {{goal|54}}
+|stadium    = [[Hong Kong Stadium]], [[Hong Kong]]
+|attendance = 13,942
+|referee    = [[Yudai Yamamoto]] ([[Japan Football Association|Japan]])
+|report     = [https://www.fifa.com/tournaments/mens/worldcup/qatar2022/qualifiers/afc/match-center/400080728 Report (FIFA)]<br />[http://stats.the-afc.com/match_report/16187 Report (AFC)]
+}}
+----
+{{Football box
+|id         = IRN v CAM
+|date       = {{Start date|2019|10|10|df=y}}
+|time       = {{UTZ|17:00|3:30}}
+|team1      = {{fb-rt|IRN}}
+|score      = 14–0
+|team2      = {{fb|CAM}}
+|goals1     =
+*[[Ahmad Nourollahi|Nourollahi]] {{goal|5}}
+*[[Sardar Azmoun|Azmoun]] {{goal|11||35||44}}
+*[[Hossein Kanaanizadegan|Kanaanizadegan]] {{goal|18}}
+*[[Soeuy Visal|Visal]] {{goal|22|o.g.}}
+*[[Karim Ansarifard|Ansarifard]] {{goal|40||48||60||88}}
+*[[Mehdi Taremi|Taremi]] {{goal|54}}
+*[[Mohammad Mohebi|Mohebi]] {{goal|65||67}}
+*[[Mehrdad Mohammadi|Me. Mohammadi]] {{goal|85}}
+|stadium    = [[Azadi Stadium]], [[Tehran]]
+|attendance = 15,823
+|referee    = [[Pranjal Banerjee]] ([[All India Football Federation|India]])
+|report     = [https://www.fifa.com/tournaments/mens/worldcup/qatar2022/qualifiers/afc/match-center/400080730 Report (FIFA)]<br />[http://stats.the-afc.com/match_report/16189 Report (AFC)]
+}}
+{{Football box
+|id         = IRQ v HKG
+|date       = {{Start date|2019|10|10|df=y}}
+|time       = {{UTZ|19:00|3}}
+|team1      = {{fb-rt|IRQ}}
+|score      = 2–0
+|team2      = {{fb|HKG}}
+|goals1     =
+*[[Mohanad Ali|M. Ali]] {{goal|37}}
+*[[Ali Adnan Kadhim|Adnan]] {{goal|79|pen.}}
+|goals2     =
+|stadium    = [[Basra Sports City|Basra International Stadium]], [[Basra]]
+|attendance = 32,340
+|referee    = [[Ammar Al-Jeneibi]] ([[United Arab Emirates Football Association|United&nbsp;Arab&nbsp;Emirates]])
+|report     = [https://www.fifa.com/tournaments/mens/worldcup/qatar2022/qualifiers/afc/match-center/400080731 Report (FIFA)]<br />[http://stats.the-afc.com/match_report/16190 Report (AFC)]
+}}
+----
+{{Football box
+|id         =
+|date       = {{Start date|2019|10|15|df=y}}
+|time       = {{UTZ|18:30|7}}
+|team1      = {{fb-rt|CAM}}
+|score      = 0–4
+|team2      = {{fb|IRQ}}
+|goals2     =
+*[[Ibrahim Bayesh|Bayesh]] {{goal|22}}
+*[[Mohanad Ali|M. Ali]] {{goal|41}}
+*[[Amjad Attwan|Attwan]] {{goal|57}}
+*[[Ahmad Ibrahim Khalaf|Ibrahim]] {{goal|62}}
+|stadium    = [[Olympic Stadium (Phnom Penh)|Olympic Stadium]], [[Phnom Penh]]
+|attendance = 48,258
+|referee    = Clifford Daypuyat ([[Philippine Football Federation|Philippines]])
+|report     = [https://www.fifa.com/tournaments/mens/worldcup/qatar2022/qualifiers/afc/match-center/400080732 Report (FIFA)]<br />[http://stats.the-afc.com/match_report/16191 Report (AFC)]
+}}
+{{Football box
+|id         = BHR v IRN
+|date       = {{Start date|2019|10|15|df=y}}
+|time       = {{UTZ|19:30|3}}
+|team1      = {{fb-rt|BHR}}
+|score      = 1–0
+|team2      = {{fb|IRN}}
+|goals1     =
+*[[Mohamed Al-Hardan|Al-Hardan]] {{goal|65|pen.}}
+|stadium    = [[Bahrain National Stadium]], [[Riffa]]
+|attendance = 14,810
+|referee    = [[Valentin Kovalenko]] ([[Uzbekistan Football Federation|Uzbekistan]])
+|report     = [https://www.fifa.com/tournaments/mens/worldcup/qatar2022/qualifiers/afc/match-center/400080733 Report (FIFA)]<br />[http://stats.the-afc.com/match_report/16192 Report (AFC)]
+}}
+----
+{{Football box
+|id         = HKG v BHR
+|date       = {{Start date|2019|11|14|df=y}}
+|time       = {{UTZ|20:00|8}}
+|team1      = {{fb-rt|HKG}}
+|score      = 0–0
+|team2      = {{fb|BHR}}
+|stadium    = [[Hong Kong Stadium]], [[Hong Kong]]
+|attendance = 4,541
+|referee    = [[Kim Dong-jin (referee)|Kim Dong-jin]] ([[Korea Football Association|South Korea]])
+|report     = [https://www.fifa.com/tournaments/mens/worldcup/qatar2022/qualifiers/afc/match-center/400080734 Report (FIFA)]<br />[http://stats.the-afc.com/match_report/16193 Report (AFC)]
+}}
+{{Football box
+|id         = IRQ v IRN
+|date       = {{Start date|2019|11|14|df=y}}
+|time       = {{UTZ|16:00|2}}
+|team1      = {{fb-rt|IRQ}}
+|score      = 2–1
+|team2      = {{fb|IRN}}
+|goals1     =
+*[[Mohanad Ali|M. Ali]] {{goal|11}}
+*[[Alaa Abbas|Abbas]] {{goal|90+2}}
+|goals2     =
+*[[Ahmad Nourollahi|Nourollahi]] {{goal|25}}
+|stadium    = [[Amman International Stadium]], [[Amman]] (Jordan){{refn|Following an assessment of the security situation in Iraq due to the [[2019 Iraqi protests]], FIFA and AFC directed the [[Iraq Football Association]] to shift their home matches against Iran and Bahrain from the [[Basra Sports City|Basra International Stadium]], [[Basra]] to a neutral ground.<ref>{{cite web |title=Joint Statement by FIFA, AFC |url=https://www.the-afc.com/media/joint-statement-by-fifa-afc |publisher=AFC |access-date=7 November 2019 |date=6 November 2019 |archive-url=https://web.archive.org/web/20191107052140/https://www.the-afc.com/media/joint-statement-by-fifa-afc |archive-date=7 November 2019 |url-status=dead}}</ref> The AFC later announced that the matches had been shifted to [[Amman International Stadium]], [[Amman]], [[Jordan]].<ref>{{cite web |url=https://www.the-afc.com/media/joint-statement-by-fifa-afc-x9519 |title=Joint Statement by FIFA, AFC for venues selected |publisher=AFC |date=7 November 2019 |archive-url=https://web.archive.org/web/20191107121803/https://www.the-afc.com/media/joint-statement-by-fifa-afc-x9519 |archive-date=7 November 2019 |url-status=dead}}</ref>|group="note"|name="IRQJOR"}}
+|attendance = 13,752
+|referee    = [[Hettikamkanamge Perera]] ([[Football Federation of Sri Lanka|Sri Lanka]])
+|report     = [https://www.fifa.com/tournaments/mens/worldcup/qatar2022/qualifiers/afc/match-center/400080735 Report (FIFA)]<br />[http://stats.the-afc.com/match_report/16194 Report (AFC)]
+}}
+----
+{{Football box
+|id         = HKG v CAM
+|date       = {{Start date|2019|11|19|df=y}}
+|time       = {{UTZ|20:00|8}}
+|team1      = {{fb-rt|HKG}}
+|score      = 2–0
+|team2      = {{fb|CAM}}
+|goals1     =
+*[[James Ha|Ha]] {{goal|20}}
+*[[Roberto Orlando Affonso Júnior|Roberto]] {{goal|83}}
+|stadium    = [[Hong Kong Stadium]], [[Hong Kong]]
+|attendance = 6,497
+|referee    = Ali Shaban ([[Kuwait Football Association|Kuwait]])
+|report     = [https://www.fifa.com/tournaments/mens/worldcup/qatar2022/qualifiers/afc/match-center/400080737 Report (FIFA)]<br />[http://stats.the-afc.com/match_report/16196 Report (AFC)]
+}}
+{{Football box
+|id         = IRQ v BHR
+|date       = {{Start date|2019|11|19|df=y}}
+|time       = {{UTZ|16:00|2}}
+|team1      = {{fb-rt|IRQ}}
+|score      = 0–0
+|team2      = {{fb|BHR}}
+|stadium    = [[Amman International Stadium]], [[Amman]] (Jordan){{refn|group="note"|name="IRQJOR"}} 
+|attendance = 10,366
+|referee    = [[Muhammad Taqi (referee)|Muhammad Taqi]] ([[Football Association of Singapore|Singapore]])
+|report     = [https://www.fifa.com/tournaments/mens/worldcup/qatar2022/qualifiers/afc/match-center/400080736 Report (FIFA)]<br />[http://stats.the-afc.com/match_report/16195 Report (AFC)]
+}}
+----
+{{Football box
+|id         = IRN v HKG
+|date       = {{Start date|2021|6|3|df=y}}{{refn|group="note"|name=md7}}
+|time       = {{UTZ|17:30|3}}
+|team1      = {{fb-rt|IRN}}
+|score      = 3–1
+|team2      = {{fb|HKG}}
+|goals1     =
+*[[Ali Gholizadeh|Gholizadeh]] {{goal|23}}
+*[[Vahid Amiri|Amiri]] {{goal|61}}
+*[[Karim Ansarifard|Ansarifard]] {{goal|84}}
+|goals2     =
+*[[Cheng Siu Kwan]] {{goal|85}}
+|stadium    = [[Al Muharraq Stadium]], [[Arad, Bahrain|Arad]] (Bahrain){{refn|group="note"|name=centralised}}
+|attendance = 0
+|referee    = [[Adham Makhadmeh]] ([[Jordan Football Association|Jordan]])
+|report     = [https://www.fifa.com/tournaments/mens/worldcup/qatar2022/qualifiers/afc/match-center/400080738 Report (FIFA)]<br />[http://stats.the-afc.com/match_report/16197 Report (AFC)]
+}}
+{{Football box
+|id         = BHR v CAM
+|date       = {{Start date|2021|6|3|df=y}}{{refn|group="note"|name=md7}}
+|time       = {{UTZ|19:30|3}}
+|team1      = {{fb-rt|BHR}}
+|score      = 8–0
+|team2      = {{fb|CAM}}
+|goals1     =
+*[[Kamil Al Aswad|Al Aswad]] {{goal|8||71}}
+*[[Mohamed Al-Romaihi|Al-Romaihi]] {{goal|45+2}}
+*[[Ali Madan|Madan]] {{goal|46||65}}
+*[[Jasim Al-Shaikh|Al-Shaikh]] {{goal|51}}
+*[[Ismail Abdullatif|Abdullatif]] {{goal|75||90+2}}
+|goals2     =
+|stadium    = [[Bahrain National Stadium]], [[Riffa]]{{refn|group="note"|name=centralised}}
+|attendance = 0
+|referee    = Hiroyuki Kimura ([[Japan Football Association|Japan]])
+|report     = [https://www.fifa.com/tournaments/mens/worldcup/qatar2022/qualifiers/afc/match-center/400080739 Report (FIFA)]<br />[http://stats.the-afc.com/match_report/16198 Report (AFC)]
+}}
+----
+{{Football box
+|id         = IRQ v CAM
+|date       = {{Start date|2021|6|7|df=y}}{{refn|group="note"|name=md9}}
+|time       = {{UTZ|17:30|3}}
+|team1      = {{fb-rt|IRQ}}
+|score      = 4–1
+|team2      = {{fb|CAM}}
+|goals1     =
+*[[Mohanad Ali|M. Ali]] {{goal|1}}
+*[[Bashar Resan|Resan]] {{goal|23}}
+*[[Ali Adnan Kadhim|Adnan]] {{goal|27|pen.}}
+*[[Safaa Hadi|Hadi]] {{goal|90+3}}
+|goals2     =
+*[[Soeuy Visal|Visal]] {{goal|55}}
+|stadium    = [[Al Muharraq Stadium]], [[Arad, Bahrain|Arad]] (Bahrain){{refn|group="note"|name=centralised}}
+|attendance = 0
+|referee    = [[Yaqoob Abdul Baki]] ([[Oman Football Association|Oman]])
+|report     = [https://www.fifa.com/tournaments/mens/worldcup/qatar2022/qualifiers/afc/match-center/400080742 Report (FIFA)]<br />[http://stats.the-afc.com/match_report/16201 Report (AFC)]
+}}
+{{Football box
+|id         = IRN v BHR
+|date       = {{Start date|2021|6|7|df=y}}{{refn|group="note"|name=md9}}
+|time       = {{UTZ|19:30|3}}
+|team1      = {{fb-rt|IRN}}
+|score      = 3–0
+|team2      = {{fb|BHR}}
+|goals1     =
+*[[Sardar Azmoun|Azmoun]] {{goal|54||61}}
+*[[Mehdi Taremi|Taremi]] {{goal|79}}
+|goals2     =
+|stadium    = [[Bahrain National Stadium]], [[Riffa]] (Bahrain){{refn|group="note"|name=centralised}}
+|attendance = 0
+|referee    = [[Fu Ming]] ([[Chinese Football Association|China]])
+|report     = [https://www.fifa.com/tournaments/mens/worldcup/qatar2022/qualifiers/afc/match-center/400080743 Report (FIFA)]<br />[http://stats.the-afc.com/match_report/16202 Report (AFC)]
+}}
+----
+{{Football box
+|id         = CAM v IRN
+|date       = {{Start date|2021|6|11|df=y}}{{refn|group="note"|name=md8}}
+|time       = {{UTZ|17:30|3}}
+|team1      = {{fb-rt|CAM}}
+|score      = 0–10
+|team2      = {{fb|IRN}}
+|goals1     =
+|goals2     =
+*[[Alireza Jahanbakhsh|Jahanbakhsh]] {{goal|16|pen.}}
+*[[Shojae Khalilzadeh|Khalilzadeh]] {{goal|22}}
+*[[Mehdi Taremi|Taremi]] {{goal|27}}
+*[[Sor Rotana|Rotana]] {{goal|32|o.g.}}
+*[[Milad Mohammadi|Mohammadi]] {{goal|58}}
+*[[Morteza Pouraliganji|Pouraliganji]] {{goal|64}}
+*[[Karim Ansarifard|Ansarifard]] {{goal|77|pen.}}
+*[[Kaveh Rezaei|Rezaei]] {{goal|80||87}}
+*[[Mehdi Ghayedi|Ghayedi]] {{goal|84}}
+|stadium    = [[Bahrain National Stadium]], [[Riffa]] (Bahrain){{refn|group="note"|name=centralised}}
+|attendance = 0
+|referee    = [[Kim Jong-hyeok]] ([[Korea Football Association|South Korea]])
+|report     = [https://www.fifa.com/tournaments/mens/worldcup/qatar2022/qualifiers/afc/match-center/400176842 Report (FIFA)]<br />[http://stats.the-afc.com/match_report/16199 Report (AFC)]
+}}
+{{Football box
+|id         = HKG v IRQ
+|date       = {{Start date|2021|6|11|df=y}}{{refn|group="note"|name=md8}}
+|time       = {{UTZ|19:30|3}}
+|team1      = {{fb-rt|HKG}}
+|score      = 0–1
+|team2      = {{fb|IRQ}}
+|goals1     =
+|goals2     =
+*[[Fung Hing Wa]] {{goal|11|o.g.}}
+|stadium    = [[Al Muharraq Stadium]], [[Arad, Bahrain|Arad]] (Bahrain){{refn|group="note"|name=centralised}}
+|attendance = 0
+|referee    = Hiroyuki Kimura ([[Japan Football Association|Japan]])
+|report     = [https://www.fifa.com/tournaments/mens/worldcup/qatar2022/qualifiers/afc/match-center/400080741 Report (FIFA)]<br />[http://stats.the-afc.com/match_report/16200 Report (AFC)]
+}}
+----
+{{Football box
+|id         = IRN v IRQ
+|date       = {{Start date|2021|6|15|df=y}}{{refn|group="note"|name=md10}}
+|time       = {{UTZ|19:30|3}}
+|team1      = {{fb-rt|IRN}}
+|score      = 1–0
+|team2      = {{fb|IRQ}}
+|goals1     =
+*[[Sardar Azmoun|Azmoun]] {{goal|35}}
+|goals2     =
+|stadium    = [[Al Muharraq Stadium]], [[Arad, Bahrain|Arad]] (Bahrain){{refn|group="note"|name=centralised}}
+|attendance = 0
+|referee    = Ilgiz Tantashev ([[Uzbekistan Football Association|Uzbekistan]])
+|report     = [https://www.fifa.com/tournaments/mens/worldcup/qatar2022/qualifiers/afc/match-center/400080745 Report (FIFA)]<br />[http://stats.the-afc.com/match_report/16204 Report (AFC)]
+}}
+{{Football box
+|id         = BHR v HKG
+|date       = {{Start date|2021|6|15|df=y}}{{refn|group="note"|name=md10}}
+|time       = {{UTZ|19:30|3}}
+|team1      = {{fb-rt|BHR}}
+|score      = 4–0
+|team2      = {{fb|HKG}}
+|goals1     =
+*[[Sayed Dhiya Saeed|Saeed]] {{goal|49}}
+*[[Hashim Sayed Isa|Isa]] {{goal|54|pen.|70}}
+*[[Ismail Abdullatif|Abdullatif]] {{goal|90|pen.}}
+|goals2     =
+|stadium    = [[Bahrain National Stadium]], [[Riffa]]{{refn|group="note"|name=centralised}}
+|attendance = 0
+|referee    = [[Yaqoob Abdul Baki]] ([[Oman Football Association|Oman]])
+|report     = [https://www.fifa.com/tournaments/mens/worldcup/qatar2022/qualifiers/afc/match-center/400080744 Report (FIFA)]<br />[http://stats.the-afc.com/match_report/16203 Report (AFC)]
+}}
+'''Goalscorers'''
+
+{{#invoke:Goalscorers|main|2022 FIFA World Cup qualification (AFC)|round=group|group=C}}<!--CAREFULLY update goalscorers at Module:Goalscorers/data/2022 FIFA World Cup qualification (AFC)-->
+
+== Group D ==
+<onlyinclude>{{#invoke:Sports table|main|style=WDL
+|section=Group D
+|show_matches=y
+|class_rules=[[2022 FIFA World Cup qualification#Tiebreakers|Qualification tiebreakers]]
+|source=[https://www.fifa.com/tournaments/mens/worldcup/qatar2022/qualifiers/afc FIFA]
+
+<!--Team definitions-->
+|name_KSA={{fb|KSA}} |short_KSA={{flagdeco|KSA}}
+|name_UZB={{fb|UZB}} |short_UZB={{flagdeco|UZB}}
+|name_PLE={{fb|PLE}} |short_PLE={{flagdeco|PLE}}
+|name_YEM={{fb|YEM}} |short_YEM={{flagdeco|YEM}}
+|name_SIN={{fb|SIN}} |short_SIN={{flagdeco|SIN}}
+
+<!--Update team results below (including date)-->
+|update=complete
+|win_KSA=6 |draw_KSA=2 |loss_KSA=0 |gf_KSA=22|ga_KSA=4
+|win_UZB=5 |draw_UZB=0 |loss_UZB=3 |gf_UZB=18|ga_UZB=9
+|win_PLE=3 |draw_PLE=1 |loss_PLE=4 |gf_PLE=10|ga_PLE=10
+|win_YEM=1 |draw_YEM=2 |loss_YEM=5 |gf_YEM=6 |ga_YEM=18
+|win_SIN=2 |draw_SIN=1 |loss_SIN=5 |gf_SIN=7 |ga_SIN=22
+
+<!--Update team positions below (check tiebreakers)-->
+|team_order=KSA, UZB, PLE, SIN, YEM
+
+<!--Update results below-->
+|match_KSA_UZB=[[#KSA v UZB|3–0]]
+|match_KSA_PLE=[[#KSA v PLE|5–0]]
+|match_KSA_YEM=[[#KSA v YEM|3–0]]
+|match_KSA_SIN=[[#KSA v SIN|3–0]]
+
+|match_UZB_KSA=[[#UZB v KSA|2–3]]
+|match_UZB_PLE=[[#UZB v PLE|2–0]]
+|match_UZB_YEM=[[#UZB v YEM|5–0]]
+|match_UZB_SIN=[[#UZB v SIN|5–0]]
+
+|match_PLE_KSA=[[#PLE v KSA|0–0]]
+|match_PLE_UZB=[[#PLE v UZB|2–0]]
+|match_PLE_YEM=[[#PLE v YEM|3–0]]
+|match_PLE_SIN=[[#PLE v SIN|4–0]]
+
+|match_YEM_KSA=[[#YEM v KSA|2–2]]
+|match_YEM_UZB=[[#YEM v UZB|0–1]]
+|match_YEM_PLE=[[#YEM v PLE|1–0]]
+|match_YEM_SIN=[[#YEM v SIN|1–2]]
+
+|match_SIN_KSA=[[#SIN v KSA|0–3]]
+|match_SIN_UZB=[[#SIN v UZB|1–3]]
+|match_SIN_PLE=[[#SIN v PLE|2–1]]
+|match_SIN_YEM=[[#SIN v YEM|2–2]]
+
+<!--Qualification column definitions-->
+|res_col_header=Q
+|result1=1st |result2=3rd |result3=3rd |result4=3rd |result5=3rd
+|col_1st=green1 |text_1st=[[2022 FIFA World Cup qualification – AFC third round|World Cup qualifying third round]] and [[2023 AFC Asian Cup|Asian Cup]]
+|col_3rd=blue1 |text_3rd=[[2023 AFC Asian Cup qualification – third round|Asian Cup qualifying third round]]
+}}</onlyinclude>
+{{Football box
+|id         = SIN v YEM
+|date       = {{Start date|2019|9|5|df=y}}
+|time       = {{UTZ|19:45|8}}
+|team1      = {{fb-rt|SIN}}
+|score      = 2–2
+|team2      = {{fb|YEM}}
+|goals1     =
+*[[Ikhsan Fandi|Ikhsan]] {{goal|27}}
+*[[Faris Ramli|Faris]] {{goal|52}}
+|goals2     =
+*[[Abdulwasea Al-Matari|Al-Matari]] {{goal|34}}
+*[[Mohsen Qarawi|Qarawi]] {{goal|45}}
+|stadium    = [[National Stadium, Singapore|National Stadium]], [[Singapore]]
+|attendance = 7,018
+|referee    = [[Shaun Evans (referee)|Shaun Evans]] ([[Football Federation Australia|Australia]])
+|report     = [https://www.fifa.com/tournaments/mens/worldcup/qatar2022/qualifiers/afc/match-center/400080679 Report (FIFA)]<br />[http://stats.the-afc.com/match_report/16206 Report (AFC)]
+}}
+{{Football box
+|id         = PLE v UZB
+|date       = {{Start date|2019|9|5|df=y}}
+|time       = {{UTZ|17:00|3}}
+|team1      = {{fb-rt|PLE}}
+|score      = 2–0
+|team2      = {{fb|UZB}}
+|goals1     =
+*[[Oday Dabbagh|Dabbagh]] {{goal|60}}
+*[[Islam Batran|Batran]] {{goal|85}}
+|goals2     =
+|stadium    = [[Faisal Al-Husseini International Stadium]], [[Al-Ram]]
+|attendance = 6,740
+|referee    = [[Fu Ming]] ([[Chinese Football Association|China]])
+|report     = [https://www.fifa.com/tournaments/mens/worldcup/qatar2022/qualifiers/afc/match-center/400080678 Report (FIFA)]<br />[http://stats.the-afc.com/match_report/16205 Report (AFC)]
+}}
+----
+{{Football box
+|id         = SIN v PLE
+|date       = {{Start date|2019|9|10|df=y}}
+|time       = {{UTZ|19:45|8}}
+|team1      = {{fb-rt|SIN}}
+|score      = 2–1
+|team2      = {{fb|PLE}}
+|goals1     =
+*[[Shakir Hamzah|Shakir]] {{goal|3}}
+*[[Safuwan Baharudin|Safuwan]] {{goal|38}}
+|goals2     =
+*[[Yaser Hamed|Hamed]] {{goal|13}}
+|stadium    = [[Jalan Besar Stadium]], [[Singapore]]
+|attendance = 6,011
+|referee    = Yu Ming-hsun ([[Chinese Taipei Football Association|Chinese Taipei]])
+|report     = [https://www.fifa.com/tournaments/mens/worldcup/qatar2022/qualifiers/afc/match-center/400080681 Report (FIFA)]<br />[http://stats.the-afc.com/match_report/16208 Report (AFC)]
+}}
+{{Football box
+|id         = YEM v KSA
+|date       = {{Start date|2019|9|10|df=y}}
+|time       = {{UTZ|19:00|3}}
+|team1      = {{fb-rt|YEM}}
+|score      = 2–2
+|team2      = {{fb|KSA}}
+|goals1     =
+*[[Mohsen Qarawi|Qarawi]] {{goal|8}}
+*[[Omar Al-Dahi|Al-Dahi]] {{goal|37}}
+|goals2     =
+*[[Hattan Bahebri|Bahebri]] {{goal|23}}
+*[[Salem Al-Dawsari|Al-Dawsari]] {{goal|48}}
+|stadium    = [[Bahrain National Stadium]], [[Riffa]] (Bahrain){{refn|Yemen played their home matches in Bahrain because of security concerns from the [[Yemeni Civil War (2015–present)|Yemeni Civil War]].<ref>{{cite web |url=https://alwatannews.net/article/842094/Sports/%D8%A7%D8%AA%D8%AD%D8%A7%D8%AF-%D8%A7%D9%84%D9%83%D8%B1%D8%A9-%D8%A7%D9%84%D8%A8%D8%AD%D8%B1%D9%8A%D9%86%D9%8A-%D9%8A%D9%88%D8%A7%D9%81%D9%82-%D8%B9%D9%84%D9%89-%D8%A7%D8%B3%D8%AA%D8%B6%D8%A7%D9%81%D8%A9-%D9%85%D8%A8%D8%A7%D8%B1%D9%8A%D8%A7%D8%AA-%D8%A7%D9%84%D9%8A%D9%85%D9%86-%D9%81%D9%8A-%D8%A7%D9%84%D8%AA%D8%B5%D9%81%D9%8A%D8%A7%D8%AA-%D8%A7%D9%84%D9%85%D8%B2%D8%AF%D9%88%D8%AC%D8%A9 |title=اليمن يلعب مباريات التصفيات الآسيوية على أرض البحرين |website=[[Al-Watan (Bahrain)|Al-Watan]] |date=18 August 2019 |access-date=22 August 2019 |language=ar|trans-title=Yemen plays the Asian qualifying matches on Bahrain land}}</ref>|group="note"|name="YEMBHR"}}
+|attendance = 3,100
+|referee    = [[Sivakorn Pu-udom]] ([[Football Association of Thailand|Thailand]])
+|report     = [https://www.fifa.com/tournaments/mens/worldcup/qatar2022/qualifiers/afc/match-center/400080680 Report (FIFA)]<br />[http://stats.the-afc.com/match_report/16207 Report (AFC)]
+}}
+----
+{{Football box
+|id         = UZB v YEM
+|date       = {{Start date|2019|10|10|df=y}}
+|time       = {{UTZ|17:00|5}}
+|team1      = {{fb-rt|UZB}}
+|score      = 5–0
+|team2      = {{fb|YEM}}
+|goals1     =
+*[[Sanjar Kodirkulov|Kodirkulov]] {{goal|3}}
+*[[Eldor Shomurodov|Shomurodov]] {{goal|33}}
+*[[Jamshid Iskanderov|Iskanderov]] {{goal|53}}
+*[[Islom Tukhtakhujaev|Tukhtakhujaev]] {{goal|72}}
+*[[Igor Sergeev (footballer, born 1993)|Sergeev]] {{goal|90}}
+|goals2     =
+|stadium    = [[Pakhtakor Central Stadium]], [[Tashkent]]
+|attendance = 28,571
+|referee    = Hanna Hattab ([[Syrian Arab Federation for Football|Syria]])
+|report     = [https://www.fifa.com/tournaments/mens/worldcup/qatar2022/qualifiers/afc/match-center/400080683 Report (FIFA)]<br />[http://stats.the-afc.com/match_report/16210 Report (AFC)]
+}}
+{{Football box
+|id         = KSA v SIN
+|date       = {{Start date|2019|10|10|df=y}}
+|time       = {{UTZ|20:00|3}}
+|team1      = {{fb-rt|KSA}}
+|score      = 3–0
+|team2      = {{fb|SIN}}
+|goals1     =
+*[[Abdulfattah Asiri|Asiri]] {{goal|28||67}}
+*[[Abdullah Al-Hamdan|Al-Hamdan]] {{goal|61}}
+|goals2     =
+|stadium    = [[King Abdullah Sport City Stadium]], [[Buraidah]]
+|attendance = 14,560
+|referee    = [[Kim Hee-gon]] ([[Korea Football Association|South&nbsp;Korea]])
+|report     = [https://www.fifa.com/tournaments/mens/worldcup/qatar2022/qualifiers/afc/match-center/400080682 Report (FIFA)]<br />[http://stats.the-afc.com/match_report/16209 Report (AFC)]
+}}
+----
+{{Football box
+|id         = SIN v UZB
+|date       = {{Start date|2019|10|15|df=y}}
+|time       = {{UTZ|19:45|8}}
+|team1      = {{fb-rt|SIN}}
+|score      = 1–3
+|team2      = {{fb|UZB}}
+|goals1     =
+*[[Ikhsan Fandi|Ikhsan]] {{goal|45+1}}
+|goals2     =
+*[[Odil Ahmedov|Ahmedov]] {{goal|15}}
+*[[Eldor Shomurodov|Shomurodov]] {{goal|51||90+2}}
+|stadium    = [[National Stadium, Singapore|National Stadium]], [[Singapore]]
+|attendance = 12,547
+|referee    = [[Shen Yinhao]] ([[Chinese Football Association|China]])
+|report     = [https://www.fifa.com/tournaments/mens/worldcup/qatar2022/qualifiers/afc/match-center/400080684 Report (FIFA)]<br />[http://stats.the-afc.com/match_report/16211 Report (AFC)]
+}}
+{{Football box
+|id         = PLE v KSA
+|date       = {{Start date|2019|10|15|df=y}}
+|time       = {{UTZ|16:00|3}}
+|team1      = {{fb-rt|PLE}}
+|score      = 0–0
+|team2      = {{fb|KSA}}
+|goals1     =
+|goals2     =
+|stadium    = [[Faisal Al-Husseini International Stadium]], [[Al-Ram]]
+|attendance = 12,000
+|referee    = [[Ahmed Al-Kaf]] ([[Oman Football Association|Oman]])
+|report     = [https://www.fifa.com/tournaments/mens/worldcup/qatar2022/qualifiers/afc/match-center/400080685 Report (FIFA)]<br />[http://stats.the-afc.com/match_report/16212 Report (AFC)]
+}}
+----
+{{Football box
+|id         = UZB v KSA
+|date       = {{Start date|2019|11|14|df=y}}
+|time       = {{UTZ|17:00|5}}
+|team1      = {{fb-rt|UZB}}
+|score      = 2–3
+|team2      = {{fb|KSA}}
+|goals1     =
+*[[Eldor Shomurodov|Shomurodov]] {{goal|16}}
+*[[Otabek Shukurov|Shukurov]] {{goal|56|pen.}}
+|goals2     =
+*[[Salman Al-Faraj|Al-Faraj]] {{goal|23|pen.|85}}
+*[[Salem Al-Dawsari|Al-Dawsari]] {{goal|89}}
+|stadium    = [[Pakhtakor Central Stadium]], [[Tashkent]]
+|attendance = 31,524
+|referee    = [[Ryuji Sato]] ([[Japan Football Association|Japan]])
+|report     = [https://www.fifa.com/tournaments/mens/worldcup/qatar2022/qualifiers/afc/match-center/400080747 Report (FIFA)]<br />[http://stats.the-afc.com/match_report/16214 Report (AFC)]
+}}
+{{Football box
+|id         = YEM v PLE
+|date       = {{Start date|2019|11|14|df=y}}
+|time       = {{UTZ|18:00|3}}
+|team1      = {{fb-rt|YEM}}
+|score      = 1–0
+|team2      = {{fb|PLE}}
+|goals1     =
+*[[Omar Al-Dahi|Al-Dahi]] {{goal|54}}
+|goals2     =
+|stadium    = [[Al Muharraq Stadium|Sheikh Ali Bin Mohamad Stadium]], [[Muharraq]] (Bahrain){{refn|group="note"|name="YEMBHR"}}
+|attendance = 530
+|referee    = [[Adham Makhadmeh]] ([[Jordan Football Association|Jordan]])
+|report     = [https://www.fifa.com/tournaments/mens/worldcup/qatar2022/qualifiers/afc/match-center/400080746 Report (FIFA)]<br />[http://stats.the-afc.com/match_report/16213 Report (AFC)]
+}}
+----
+{{Football box
+|id         = UZB v PLE
+|date       = {{Start date|2019|11|19|df=y}}
+|time       = {{UTZ|17:00|5}}
+|team1      = {{fb-rt|UZB}}
+|score      = 2–0
+|team2      = {{fb|PLE}}
+|goals1     =
+*[[Eldor Shomurodov|Shomurodov]] {{goal|18||58}}
+|goals2     =
+|stadium    = [[Pakhtakor Central Stadium]], [[Tashkent]]
+|attendance = 19,143
+|referee    = [[Nawaf Shukralla]] ([[Bahrain Football Association|Bahrain]])
+|report     = [https://www.fifa.com/tournaments/mens/worldcup/qatar2022/qualifiers/afc/match-center/400080748 Report (FIFA)]<br />[http://stats.the-afc.com/match_report/16215 Report (AFC)]
+}}
+{{Football box
+|id         = YEM v SIN
+|date       = {{Start date|2019|11|19|df=y}}
+|time       = {{UTZ|18:00|3}}
+|team1      = {{fb-rt|YEM}}
+|score      = 1–2
+|team2      = {{fb|SIN}}
+|goals1     =
+*[[Nasser Al-Gahwashi|Al-Gahwashi]] {{goal|85}}
+|goals2     =
+*[[Ikhsan Fandi|Ikhsan]] {{goal|19}}
+*[[Hafiz Nor|Hafiz]] {{goal|52}}
+|stadium    = [[Al Muharraq Stadium|Sheikh Ali Bin Mohamad Stadium]], [[Muharraq]] (Bahrain){{refn|group="note"|name="YEMBHR"}}
+|attendance = 650
+|referee    = [[Minoru Tōjō]] ([[Japan Football Association|Japan]])
+|report     = [https://www.fifa.com/tournaments/mens/worldcup/qatar2022/qualifiers/afc/match-center/400080749 Report (FIFA)]<br />[http://stats.the-afc.com/match_report/16216 Report (AFC)]
+}}
+----
+{{Football box
+|id         = KSA v PLE
+|date       = {{Start date|2021|3|30|df=y}}{{refn|group="note"|name=md9}}
+|time       = {{UTZ|20:30|3}}
+|team1      = {{fb-rt|KSA}}
+|score      = 5–0
+|team2      = {{fb|PLE}}
+|goals1     =
+*[[Yasser Al-Shahrani|Al-Shahrani]] {{goal|37}}
+*[[Fahad Al-Muwallad|Al-Muwallad]] {{goal|43}}
+*[[Saleh Al-Shehri|Al-Shehri]] {{goal|52||58}}
+*[[Salem Al-Dawsari|S. Al-Dawsari]] {{goal|88|pen.}}
+|goals2     =
+|stadium    = [[King Saud University Stadium]], [[Riyadh]]
+|attendance = 1
+|referee    = [[Mohanad Qasim Sarray|Mohanad Qasim]] ([[Iraq Football Association|Iraq]])
+|report     = [https://www.fifa.com/tournaments/mens/worldcup/qatar2022/qualifiers/afc/match-center/400080755 Report (FIFA)]<br />[http://stats.the-afc.com/match_report/16222 Report (AFC)]
+}}
+----
+{{Football box
+|id         = PLE v SIN
+|date       = {{Start date|2021|6|3|df=y}}{{refn|group="note"|name=md7}}
+|time       = {{UTZ|21:00|3}}
+|team1      = {{fb-rt|PLE}}
+|score      = 4–0
+|team2      = {{fb|SIN}}
+|goals1     =
+*[[Tamer Seyam|Seyam]] {{goal|19|pen.|30|pen.}}
+*[[Oday Dabbagh|Dabbagh]] {{goal|23}}
+*[[Yaser Hamed|Hamed]] {{goal|85}}
+|goals2     =
+|stadium    = [[King Fahd International Stadium]], [[Riyadh]] (Saudi Arabia){{refn|group="note"|name=centralised}}
+|attendance = 294
+|referee    = [[Mohammed Abdulla Hassan Mohamed]] ([[United Arab Emirates Football Association|United&nbsp;Arab&nbsp;Emirates]])
+|report     = [https://www.fifa.com/tournaments/mens/worldcup/qatar2022/qualifiers/afc/match-center/400176841 Report (FIFA)]<br />[http://stats.the-afc.com/match_report/16218 Report (AFC)]
+}}
+----
+{{Football box
+|id         = KSA v YEM
+|date       = {{Start date|2021|6|5|df=y}}{{refn|group="note"|name=md7}}
+|time       = {{UTZ|21:00|3}}
+|team1      = {{fb-rt|KSA}}
+|score      = 3–0
+|team2      = {{fb|YEM}}
+|goals1     =
+*[[Salem Al-Dawsari|Al-Dawsari]] {{goal|4}}
+*[[Fahad Al-Muwallad|Al-Muwallad]] {{goal|17||32}}
+|goals2     =
+|stadium    = [[King Saud University Stadium]], [[Riyadh]]{{refn|group="note"|name=centralised}}
+|attendance = 4,382
+|referee    = Nivon Robesh Gamini ([[Football Federation of Sri Lanka|Sri&nbsp;Lanka]])
+|report     = [https://www.fifa.com/tournaments/mens/worldcup/qatar2022/qualifiers/afc/match-center/400176838 Report (FIFA)]<br />[http://stats.the-afc.com/match_report/16217 Report (AFC)]
+}}
+----
+{{Football box
+|id         = UZB v SIN
+|date       = {{Start date|2021|6|7|df=y}}{{refn|group="note"|name=md9}}
+|time       = {{UTZ|21:00|3}}
+|team1      = {{fb-rt|UZB}}
+|score      = 5–0
+|team2      = {{fb|SIN}}
+|goals1     =
+*[[Jaloliddin Masharipov|Masharipov]] {{goal|6||34}}
+*[[Eldor Shomurodov|Shomurodov]] {{goal|45+1}}
+*[[Odil Ahmedov|Ahmedov]] {{goal|50}}
+*[[Irfan Fandi|Irfan]] {{goal|88|o.g.}}
+|goals2     =
+|stadium    = [[King Fahd International Stadium]], [[Riyadh]] (Saudi Arabia){{refn|group="note"|name=centralised}}
+|attendance = 75
+|referee    = [[Ali Abdulnabi]] ([[Bahrain Football Association|Bahrain]])
+|report     = [https://www.fifa.com/tournaments/mens/worldcup/qatar2022/qualifiers/afc/match-center/400080754 Report (FIFA)]<br />[http://stats.the-afc.com/match_report/16221 Report (AFC)]
+}}
+----
+{{Football box
+|id         = YEM v UZB
+|date       = {{Start date|2021|6|11|df=y}}{{refn|group="note"|name=md8}}
+|time       = {{UTZ|21:00|3}}
+|team1      = {{fb-rt|YEM}}
+|score      = 0–1
+|team2      = {{fb|UZB}}
+|goals1     =
+|goals2     =
+*[[Jaloliddin Masharipov|Masharipov]] {{goal|19|pen.}}
+|stadium    = [[King Fahd International Stadium]], [[Riyadh]] (Saudi Arabia){{refn|group="note"|name=centralised}}
+|attendance = 230
+|referee    = [[Mohammed Abdulla Hassan Mohamed]] ([[United Arab Emirates Football Association|United Arab Emirates]])
+|report     = [https://www.fifa.com/tournaments/mens/worldcup/qatar2022/qualifiers/afc/match-center/400176840 Report (FIFA)]<br />[http://stats.the-afc.com/match_report/16220 Report (AFC)]
+}}
+{{Football box
+|id         = SIN v KSA
+|date       = {{Start date|2021|6|11|df=y}}{{refn|group="note"|name=md8}}
+|time       = {{UTZ|21:00|3}}
+|team1      = {{fb-rt|SIN}}
+|score      = 0–3
+|team2      = {{fb|KSA}}
+|goals1     =
+|goals2     =
+*[[Salem Al-Dawsari|Al-Dawsari]] {{goal|84}}
+*[[Fahad Al-Muwallad|Al-Muwallad]] {{goal|86}}
+*[[Saleh Al-Shehri|Al-Shehri]] {{goal|90+6}}
+|stadium    = [[King Saud University Stadium]], [[Riyadh]] (Saudi Arabia){{refn|group="note"|name=centralised}}
+|attendance = 4,879
+|referee    = [[Mohanad Qasim Sarray|Mohanad Qasim]] ([[Iraq Football Association|Iraq]])
+|report     = [https://www.fifa.com/tournaments/mens/worldcup/qatar2022/qualifiers/afc/match-center/400176839 Report (FIFA)]<br />[http://stats.the-afc.com/match_report/16219 Report (AFC)]
+}}
+----
+{{Football box
+|id         = KSA v UZB
+|date       = {{Start date|2021|6|15|df=y}}{{refn|group="note"|name=md10}}
+|time       = {{UTZ|21:00|3}}
+|team1      = {{fb-rt|KSA}}
+|score      = 3–0
+|team2      = {{fb|UZB}}
+|goals1     =
+*[[Salman Al-Faraj|Al-Faraj]] {{goal|25||33}}
+*[[Ali Al-Hassan|Al-Hassan]] {{goal|52}}
+|goals2     =
+|stadium    = [[King Saud University Stadium]], [[Riyadh]]{{refn|group="note"|name=centralised}}
+|attendance = 6,339
+|referee    = [[Ko Hyung-jin]] ([[Korea Football Association|South Korea]])
+|report     = [https://www.fifa.com/tournaments/mens/worldcup/qatar2022/qualifiers/afc/match-center/400080757 Report (FIFA)]<br />[http://stats.the-afc.com/match_report/16224 Report (AFC)]
+}}
+{{Football box
+|id         = PLE v YEM
+|date       = {{Start date|2021|6|15|df=y}}{{refn|group="note"|name=md10}}
+|time       = {{UTZ|21:00|3}}
+|team1      = {{fb-rt|PLE}}
+|score      = 3–0
+|team2      = {{fb|YEM}}
+|goals1     =
+*[[Oday Dabbagh|Dabbagh]] {{goal|43||84}}
+*[[Yaser Hamed|Hamed]] {{goal|45+3}}
+|goals2     =
+|stadium    = [[King Fahd International Stadium]], [[Riyadh]] (Saudi Arabia){{refn|group="note"|name=centralised}}
+|attendance = 430
+|referee    = Masoud Tufayelieh ([[Syrian Arab Federation for Football|Syria]])
+|report     = [https://www.fifa.com/tournaments/mens/worldcup/qatar2022/qualifiers/afc/match-center/400080756 Report (FIFA)]<br />[http://stats.the-afc.com/match_report/16223 Report (AFC)]
+}}
+'''Goalscorers'''
+
+{{#invoke:Goalscorers|main|2022 FIFA World Cup qualification (AFC)|round=group|group=D}}<!--CAREFULLY update goalscorers at Module:Goalscorers/data/2022 FIFA World Cup qualification (AFC)-->
+
+== Group E ==
+<onlyinclude>{{#invoke:Sports table|main|style=WDL
+|section=Group E
+|show_matches=y
+|class_rules=[[2022 FIFA World Cup qualification#Tiebreakers|Qualification tiebreakers]]
+|source=[https://www.fifa.com/tournaments/mens/worldcup/qatar2022/qualifiers/afc FIFA]
+
+<!--Team definitions-->
+|name_BAN={{fb|BAN}} |short_BAN={{flagdeco|BAN}}
+|name_OMA={{fb|OMA}} |short_OMA={{flagdeco|OMA}}
+|name_IND={{fb|IND}} |short_IND={{flagdeco|IND}}
+|name_AFG={{fb|AFG|2013}} |short_AFG={{flagdeco|AFG|2013}}
+|name_QAT={{fb|QAT}} |short_QAT={{flagdeco|QAT}}
+
+<!--Update team results below (including date)-->
+|update=complete
+|win_BAN=0 |draw_BAN=2 |loss_BAN=6 |gf_BAN=3 |ga_BAN=19
+|win_OMA=6 |draw_OMA=0 |loss_OMA=2 |gf_OMA=16|ga_OMA=6
+|win_IND=1 |draw_IND=4 |loss_IND=3 |gf_IND=6 |ga_IND=7
+|win_AFG=1 |draw_AFG=3 |loss_AFG=4 |gf_AFG=5 |ga_AFG=15
+|win_QAT=7 |draw_QAT=1 |loss_QAT=0 |gf_QAT=18|ga_QAT=1
+
+<!--Update team positions below (check tiebreakers)-->
+|team_order=QAT, OMA, IND, AFG, BAN
+
+<!--Update results below-->
+|match_BAN_OMA=[[#BAN v OMA|0–3]]
+|match_BAN_IND=[[#BAN v IND|0–2]]
+|match_BAN_AFG=[[#BAN v AFG|1–1]]
+|match_BAN_QAT=[[#BAN v QAT|0–2]]
+
+|match_OMA_BAN=[[#OMA v BAN|4–1]]
+|match_OMA_IND=[[#OMA v IND|1–0]]
+|match_OMA_AFG=[[#OMA v AFG|3–0]]
+|match_OMA_QAT=[[#OMA v QAT|0–1]]
+
+|match_IND_BAN=[[#IND v BAN|1–1]]
+|match_IND_OMA=[[#IND v OMA|1–2]]
+|match_IND_AFG=[[#IND v AFG|1–1]]
+|match_IND_QAT=[[#IND v QAT|0–1]]
+
+|match_AFG_BAN=[[#AFG v BAN|1–0]]
+|match_AFG_OMA=[[#AFG v OMA|1–2]]
+|match_AFG_IND=[[#AFG v IND|1–1]]
+|match_AFG_QAT=[[#AFG v QAT|0–1]]
+
+|match_QAT_BAN=[[#QAT v BAN|5–0]]
+|match_QAT_OMA=[[#QAT v OMA|2–1]]
+|match_QAT_IND=[[#QAT v IND|0–0]]
+|match_QAT_AFG=[[#QAT v AFG|6–0]]
+
+<!--Qualification column definitions-->
+|res_col_header=Q
+|result1=QAT |result2=1st |result3=3rd |result4=3rd |result5=3rd
+|col_QAT=green1 |text_QAT=[[2023 AFC Asian Cup|Asian Cup]]|note_res_QAT=Qatar already qualified for the World Cup as the host nation.
+|col_1st=green1 |text_1st={{nobreak|[[2022 FIFA World Cup qualification – AFC third round|World Cup qualifying third round]] and [[2023 AFC Asian Cup|Asian Cup]]}}
+|col_3rd=blue1 |text_3rd=[[2023 AFC Asian Cup qualification – third round|Asian Cup qualifying third round]]
+}}</onlyinclude>
+The group spots of Qatar and Bangladesh were swapped due to Qatar's planned participation in the 2020 Copa América. The tournament was later deferred (becoming the [[2021 Copa América]]), and eventually Qatar withdrew from it.
+{{Football box
+|id         = IND v OMA
+|date       = {{Start date|2019|9|5|df=y}}
+|time       = {{UTZ|19:30|5:30}}
+|team1      = {{fb-rt|IND}}
+|score      = 1–2
+|team2      = {{fb|OMA}}
+|goals1     =
+*[[Sunil Chhetri|Chhetri]] {{goal|24}}
+|goals2     =
+*[[Rabia Al-Alawi|Al-Alawi]] {{goal|82||90}}
+|stadium    = [[Indira Gandhi Athletic Stadium]], [[Guwahati]]
+|attendance = 22,798
+|referee    = Mooud Bonyadifard ([[Football Federation Islamic Republic of Iran|Iran]])
+|report     = [https://www.fifa.com/tournaments/mens/worldcup/qatar2022/qualifiers/afc/match-center/400080686 Report (FIFA)]<br />[http://stats.the-afc.com/match_report/16225 Report (AFC)]
+}}
+{{Football box
+|id         = QAT v AFG
+|date       = {{Start date|2019|9|5|df=y}}
+|time       = {{UTZ|19:30|3}}
+|team1      = {{fb-rt|QAT}}
+|score      = 6–0
+|team2      = {{fb|AFG|2013}}
+|goals1     =
+*[[Almoez Ali|A. Ali]] {{goal|4||10||51}}
+*[[Hassan Al-Haydos|Al-Haydos]] {{goal|13}}
+*[[Abdelkarim Hassan|Hassan]] {{goal|34}}
+*[[Boualem Khoukhi|Khoukhi]] {{goal|67}}
+|goals2     =
+|stadium    = [[Jassim bin Hamad Stadium]], [[Doha]]
+|attendance = 10,950
+|referee    = Aziz Asimov ([[Uzbekistan Football Federation|Uzbekistan]])
+|report     = [https://www.fifa.com/tournaments/mens/worldcup/qatar2022/qualifiers/afc/match-center/400080687 Report (FIFA)]<br />[http://stats.the-afc.com/match_report/16226 Report (AFC)]
+}}
+----
+{{Football box
+|id         = AFG v BAN
+|date       = {{Start date|2019|9|10|df=y}}
+|time       = {{UTZ|19:00|5}}
+|team1      = {{fb-rt|AFG|2013}}
+|score      = 1–0
+|team2      = {{fb|BAN}}
+|goals1     =
+*[[Farshad Noor|Noor]] {{goal|27}}
+|goals2     =
+|stadium    = [[Pamir Stadium|Central Republican Stadium]], [[Dushanbe]] (Tajikistan){{refn|Afghanistan played their home matches in Tajikistan because of security concerns from the [[War in Afghanistan (2001–present)|War in Afghanistan]].<ref name="tajikistanhost">{{cite web |url=https://www.thedailystar.net/sports/football/news/rested-booters-leave-dushanbe-sep-1-1785397 |title='Rested booters' to leave for Dushanbe on Sep 1 |website=[[The Daily Star (Bangladesh)|The Daily Star]] |date=15 August 2019}}</ref>|group="note"|name="AFGTJK"}}
+|attendance = 5,000
+|referee    = [[Zhang Lei (referee)|Zhang Lei]] ([[Chinese Football Association|China]])
+|report     = [https://www.fifa.com/tournaments/mens/worldcup/qatar2022/qualifiers/afc/match-center/400080688 Report (FIFA)]<br />[http://stats.the-afc.com/match_report/16227 Report (AFC)]
+}}
+{{Football box
+|id         = QAT v IND
+|date       = {{Start date|2019|9|10|df=y}}
+|time       = {{UTZ|19:30|3}}
+|team1      = {{fb-rt|QAT}}
+|score      = 0–0
+|team2      = {{fb|IND}}
+|goals1     =
+|goals2     =
+|stadium    = [[Jassim bin Hamad Stadium]], [[Doha]]
+|attendance = 12,020
+|referee    = [[Nazmi Nasaruddin]] ([[Football Association of Malaysia|Malaysia]])
+|report     = [https://www.fifa.com/tournaments/mens/worldcup/qatar2022/qualifiers/afc/match-center/400080689 Report (FIFA)]<br />[http://stats.the-afc.com/match_report/16228 Report (AFC)]
+}}
+----
+{{Football box
+|id         = BAN v QAT
+|date       = {{Start date|2019|10|10|df=y}}
+|time       = {{UTZ|19:00|6}}
+|team1      = {{fb-rt|BAN}}
+|score      = 0–2
+|team2      = {{fb|QAT}}
+|goals1     =
+|goals2     =
+*[[Yusuf Abdurisag|Abdurisag]] {{goal|28}}
+*[[Karim Boudiaf|Boudiaf]] {{goal|90+2}}
+|stadium    = [[Bangabandhu National Stadium]], [[Dhaka]]
+|attendance = 24,570
+|referee    = Bijan Heidari ([[Football Federation Islamic Republic of Iran|Iran]])
+|report     = [https://www.fifa.com/tournaments/mens/worldcup/qatar2022/qualifiers/afc/match-center/400080690 Report (FIFA)]<br />[http://stats.the-afc.com/match_report/16229 Report (AFC)]
+}}
+{{Football box
+|id         = OMA v AFG
+|date       = {{Start date|2019|10|10|df=y}}
+|time       = {{UTZ|19:00|4}}
+|team1      = {{fb-rt|OMA}}
+|score      = 3–0
+|team2      = {{fb|AFG|2013}}
+|goals1     =
+*[[Abdul Aziz Al-Muqbali|Al-Muqbali]] {{goal|27||38}}
+*[[Muhsen Al-Ghassani|Al-Ghassani]] {{goal|61|pen.}}
+|goals2     =
+|stadium    = [[Al-Seeb Stadium]], [[Seeb, Oman|Seeb]]
+|attendance = 10,000
+|referee    = Ahmed Al-Ali ([[Jordan Football Association|Jordan]])
+|report     = [https://www.fifa.com/tournaments/mens/worldcup/qatar2022/qualifiers/afc/match-center/400080691 Report (FIFA)]<br />[http://stats.the-afc.com/match_report/16230 Report (AFC)]
+}}
+----
+{{Football box
+|id         = IND v BAN
+|date       = {{Start date|2019|10|15|df=y}}
+|time       = {{UTZ|19:30|5:30}}
+|team1      = {{fb-rt|IND}}
+|score      = 1–1
+|team2      = {{fb|BAN}}
+|goals1     =
+*[[Adil Khan (footballer)|Khan]] {{goal|88}}
+|goals2     =
+*[[Saad Uddin|Saad]] {{goal|42}}
+|stadium    = [[Salt Lake Stadium]], [[Kolkata]]
+|attendance = 53,286
+|referee    = Masoud Tufayelieh ([[Syrian Arab Federation for Football|Syria]])
+|report     = [https://www.fifa.com/tournaments/mens/worldcup/qatar2022/qualifiers/afc/match-center/400080693 Report (FIFA)]<br />[http://stats.the-afc.com/match_report/16232 Report (AFC)]
+}}
+{{Football box
+|id         = QAT v OMA
+|date       = {{Start date|2019|10|15|df=y}}
+|time       = {{UTZ|19:30|3}}
+|team1      = {{fb-rt|QAT}}
+|score      = 2–1
+|team2      = {{fb|OMA}}
+|goals1     =
+*[[Akram Afif|Ak. Afif]] {{goal|2}}
+*[[Almoez Ali|Ali]] {{goal|71}}
+|goals2     =
+*[[Rabia Al-Alawi|R. Al-Alawi]] {{goal|63}}
+|stadium    = [[Al Janoub Stadium]], [[Al Wakrah]]
+|attendance = 26,731
+|referee    = [[Fu Ming]] ([[Chinese Football Association|China]])
+|report     = [https://www.fifa.com/tournaments/mens/worldcup/qatar2022/qualifiers/afc/match-center/400080692 Report (FIFA)]<br />[http://stats.the-afc.com/match_report/16231 Report (AFC)]
+}}
+----
+{{Football box
+|id         = AFG v IND
+|date       = {{Start date|2019|11|14|df=y}}
+|time       = {{UTZ|19:00|5}}
+|team1      = {{fb-rt|AFG|2013}}
+|score      = 1–1
+|team2      = {{fb|IND}}
+|goals1     =
+*[[Zelfy Nazary|Nazary]] {{goal|45+1}}
+|goals2     =
+*[[Seiminlen Doungel|Doungel]] {{goal|90+3}}
+|stadium    = [[Pamir Stadium|Central Republican Stadium]], [[Dushanbe]] (Tajikistan){{refn|group="note"|name="AFGTJK"}}
+|attendance = 8,100
+|referee    = Yu Ming-hsun ([[Chinese Taipei Football Association|Chinese Taipei]])
+|report     = [https://www.fifa.com/tournaments/mens/worldcup/qatar2022/qualifiers/afc/match-center/400080694 Report (FIFA)]<br />[http://stats.the-afc.com/match_report/16233 Report (AFC)]
+}}
+{{Football box
+|id         = OMA v BAN
+|date       = {{Start date|2019|11|14|df=y}}
+|time       = {{UTZ|19:00|4}}
+|team1      = {{fb-rt|OMA}}
+|score      = 4–1
+|team2      = {{fb|BAN}}
+|goals1     =
+*[[Mohsin Al-Khaldi|Al-Khaldi]] {{goal|48}}
+*[[Rabia Al-Alawi|R. Al-Alawi]] {{goal|68}}
+*[[Arshad Al-Alawi|A. Al-Alawi]] {{goal|78}}
+*[[Amran Al-Hidi|Al-Hidi]] {{goal|90+1}}
+|goals2     =
+*[[Biplu Ahmed|Biplu]] {{goal|81}}
+|stadium    = [[Sultan Qaboos Sports Complex]], [[Muscat]]
+|attendance = 24,000
+|referee    = Hanna Hattab ([[Syrian Arab Federation for Football|Syria]])
+|report     = [https://www.fifa.com/tournaments/mens/worldcup/qatar2022/qualifiers/afc/match-center/400080695 Report (FIFA)]<br />[http://stats.the-afc.com/match_report/16234 Report (AFC)]
+}}
+----
+{{Football box
+|id         = AFG v QAT
+|date       = {{Start date|2019|11|19|df=y}}
+|time       = {{UTZ|19:00|5}}
+|team1      = {{fb-rt|AFG|2013}}
+|score      = 0–1
+|team2      = {{fb|QAT}}
+|goals1     =
+|goals2     =
+*[[Akram Afif|Afif]] {{goal|76|pen.}}
+|stadium    = [[Pamir Stadium|Central Republican Stadium]], [[Dushanbe]] (Tajikistan){{refn|group="note"|name="AFGTJK"}}
+|attendance = 6,000
+|referee    = Timur Faizullin ([[Football Federation of the Kyrgyz Republic|Kyrgyzstan]])
+|report     = [https://www.fifa.com/tournaments/mens/worldcup/qatar2022/qualifiers/afc/match-center/400080697 Report (FIFA)]<br />[http://stats.the-afc.com/match_report/16236 Report (AFC)]
+}}
+{{Football box
+|id         = OMA v IND
+|date       = {{Start date|2019|11|19|df=y}}
+|time       = {{UTZ|19:00|4}}
+|team1      = {{fb-rt|OMA}}
+|score      = 1–0
+|team2      = {{fb|IND}}
+|goals1     =
+*[[Muhsen Al-Ghassani|Al-Ghassani]] {{goal|33}}
+|goals2     =
+|stadium    = [[Sultan Qaboos Sports Complex]], [[Muscat]]
+|attendance = 24,250
+|referee    = Nivon Robesh Gamini ([[Football Federation of Sri Lanka|Sri&nbsp;Lanka]])
+|report     = [https://www.fifa.com/tournaments/mens/worldcup/qatar2022/qualifiers/afc/match-center/400080696 Report (FIFA)]<br />[http://stats.the-afc.com/match_report/16235 Report (AFC)]
+}}
+----
+{{Football box
+|id         = QAT v BAN
+|date       = {{Start date|2020|12|4|df=y}}{{refn|group="note"|Originally to be played on 31 March 2020, the match was postponed and rescheduled multiple times due to the [[COVID-19 pandemic in Asia]]. The eventual date was approved by FIFA and the two national associations.<ref name=qatban/>}}
+|time       = {{UTZ|19:00|3}}
+|team1      = {{fb-rt|QAT}}
+|score      = 5–0
+|team2      = {{fb|BAN}}
+|goals1     =
+*[[Abdulaziz Hatem|Hatem]] {{goal|9}}
+*[[Akram Afif|Afif]] {{goal|33||90+2}}
+*[[Almoez Ali|Ali]] {{goal|72|pen.|78}}
+|goals2     =
+|stadium    = [[Jassim bin Hamad Stadium]], [[Doha]]
+|attendance = 1,044
+|referee    = [[Mohd Amirul Izwan Yaacob]] ([[Football Association of Malaysia|Malaysia]])
+|report     = [https://www.fifa.com/tournaments/mens/worldcup/qatar2022/qualifiers/afc/match-center/400080700 Report (FIFA)]<br />[http://stats.the-afc.com/match_report/16239 Report (AFC)]
+}}
+----
+{{Football box
+|id         = BAN v AFG
+|date       = {{Start date|2021|6|3|df=y}}{{refn|group="note"|name=md7}}
+|time       = {{UTZ|17:00|3}}
+|team1      = {{fb-rt|BAN}}
+|score      = 1–1
+|team2      = {{fb|AFG|2013}}
+|goals1     =
+*[[Topu Barman|Barman]] {{goal|83}}
+|goals2     =
+*[[Amredin Sharifi|Sharifi]] {{goal|47}}
+|stadium    = [[Jassim bin Hamad Stadium]], [[Doha]] (Qatar){{refn|group="note"|name=centralised}}
+|attendance = 300
+|referee    = Mooud Bonyadifard ([[Football Federation Islamic Republic of Iran|Iran]])
+|report     = [https://www.fifa.com/tournaments/mens/worldcup/qatar2022/qualifiers/afc/match-center/400176837 Report (FIFA)]<br />[http://stats.the-afc.com/match_report/16237 Report (AFC)]
+}}
+{{Football box
+|id         = IND v QAT
+|date       = {{Start date|2021|6|3|df=y}}{{refn|group="note"|name=md7}}
+|time       = {{UTZ|20:00|3}}
+|team1      = {{fb-rt|IND}}
+|score      = 0–1
+|team2      = {{fb|QAT}}
+|goals1     =
+|goals2     =
+*[[Abdulaziz Hatem|Hatem]] {{goal|33}}
+|stadium    = [[Jassim bin Hamad Stadium]], [[Doha]] (Qatar){{refn|group="note"|name=centralised}}
+|attendance = 2,022
+|referee    = [[Ma Ning (referee)|Ma Ning]] ([[Chinese Football Association|China]])
+|report     = [https://www.fifa.com/tournaments/mens/worldcup/qatar2022/qualifiers/afc/match-center/400080699 Report (FIFA)]<br />[http://stats.the-afc.com/match_report/16238 Report (AFC)]
+}}
+----
+{{Football box
+|id         = BAN v IND
+|date       = {{Start date|2021|6|7|df=y}}{{refn|group="note"|name=md9}}
+|time       = {{UTZ|17:00|3}}
+|team1      = {{fb-rt|BAN}}
+|score      = 0–2
+|team2      = {{fb|IND}}
+|goals1     =
+|goals2     =
+*[[Sunil Chhetri|Chhetri]] {{goal|79||90+2}}
+|stadium    = [[Jassim bin Hamad Stadium]], [[Doha]] (Qatar){{refn|group="note"|name=centralised}}
+|attendance = 495
+|referee    = Zaid Thamer ([[Iraq Football Association|Iraq]])
+|report     = [https://www.fifa.com/tournaments/mens/worldcup/qatar2022/qualifiers/afc/match-center/400080703 Report (FIFA)]<br />[http://stats.the-afc.com/match_report/16242 Report (AFC)]
+}}
+{{Football box
+|id         = OMA v QAT
+|date       = {{Start date|2021|6|7|df=y}}{{refn|group="note"|name=md9}}
+|time       = {{UTZ|20:00|3}}
+|team1      = {{fb-rt|OMA}}
+|score      = 0–1
+|team2      = {{fb|QAT}}
+|goals1     =
+|goals2     =
+*[[Hassan Al-Haydos|Al-Haydos]] {{goal|39|pen.}}
+|stadium    = [[Jassim bin Hamad Stadium]], [[Doha]] (Qatar){{refn|group="note"|name=centralised}}
+|attendance = 1,559
+|referee    = [[Hettikamkanamge Perera]] ([[Football Sri Lanka|Sri Lanka]])
+|report     = [https://www.fifa.com/tournaments/mens/worldcup/qatar2022/qualifiers/afc/match-center/400080702 Report (FIFA)]<br />[http://stats.the-afc.com/match_report/16241 Report (AFC)]
+}}
+----
+{{Football box
+|id         = AFG v OMA
+|date       = {{Start date|2021|6|11|df=y}}{{refn|group="note"|name=md8}}
+|time       = {{UTZ|20:10|3}}
+|team1      = {{fb-rt|AFG|2013}}
+|score      = 1–2
+|team2      = {{fb|OMA}}
+|goals1     =
+*[[Omid Popalzay|Popalzay]] {{goal|23}}
+|goals2     =
+*[[Abdullah Fawaz|Fawaz]] {{goal|13||51}}
+|stadium    = [[Jassim bin Hamad Stadium]], [[Doha]] (Qatar){{refn|group="note"|name=centralised}}
+|attendance = 183
+|referee    = [[Ma Ning (referee)|Ma Ning]] ([[Chinese Football Association|China]])
+|report     = [https://www.fifa.com/tournaments/mens/worldcup/qatar2022/qualifiers/afc/match-center/400176836 Report (FIFA)]<br />[http://stats.the-afc.com/match_report/16240 Report (AFC)]
+}}
+----
+{{Football box
+|id         = IND v AFG
+|date       = {{Start date|2021|6|15|df=y}}{{refn|group="note"|name=md10}}
+|time       = {{UTZ|17:00|3}}
+|team1      = {{fb-rt|IND}}
+|score      = 1–1
+|team2      = {{fb|AFG|2013}}
+|goals1     =
+*[[Ovays Azizi|Azizi]] {{goal|75|o.g.}}
+|goals2     =
+*[[Hossein Zamani|Zamani]] {{goal|81}}
+|stadium    = [[Jassim bin Hamad Stadium]], [[Doha]] (Qatar){{refn|group="note"|name=centralised}}
+|attendance = 603
+|referee    = Ali Reda ([[Lebanon Football Association|Lebanon]])
+|report     = [https://www.fifa.com/tournaments/mens/worldcup/qatar2022/qualifiers/afc/match-center/400080704 Report (FIFA)]<br />[http://stats.the-afc.com/match_report/16243 Report (AFC)]
+}}
+{{Football box
+|id         = BAN v OMA
+|date       = {{Start date|2021|6|15|df=y}}{{refn|group="note"|name=md10}}
+|time       = {{UTZ|20:10|3}}
+|team1      = {{fb-rt|BAN}}
+|score      = 0–3
+|team2      = {{fb|OMA}}
+|goals1     =
+|goals2     =
+*[[Mohammed Al-Ghafri|Al-Ghafri]] {{goal|22}}
+*[[Khalid Al-Hajri|Al-Hajri]] {{goal|60||80}}
+|stadium    = [[Jassim bin Hamad Stadium]], [[Doha]] (Qatar){{refn|group="note"|name=centralised}}
+|attendance = 885
+|referee    = Ali Shaban ([[Kuwait Football Association|Kuwait]])
+|report     = [https://www.fifa.com/tournaments/mens/worldcup/qatar2022/qualifiers/afc/match-center/400080705 Report (FIFA)]<br />[http://stats.the-afc.com/match_report/16244 Report (AFC)]
+}}
+'''Goalscorers'''
+
+{{#invoke:Goalscorers|main|2022 FIFA World Cup qualification (AFC)|round=group|group=E}}<!--CAREFULLY update goalscorers at Module:Goalscorers/data/2022 FIFA World Cup qualification (AFC)-->
+
+== Group F ==
+<onlyinclude>{{#invoke:Sports table|main|style=WDL
+|section=Group F
+|show_matches=y
+|class_rules=[[2022 FIFA World Cup qualification#Tiebreakers|Qualification tiebreakers]]
+|source=[https://www.fifa.com/tournaments/mens/worldcup/qatar2022/qualifiers/afc FIFA]
+
+<!--Team definitions-->
+|name_JPN={{fb|JPN}} |short_JPN={{flagdeco|JPN}}
+|name_KGZ={{fb|KGZ}} |short_KGZ={{flagdeco|KGZ}}
+|name_TJK={{fb|TJK}} |short_TJK={{flagdeco|TJK}}
+|name_MYA={{fb|MYA}} |short_MYA={{flagdeco|MYA}}
+|name_MNG={{fb|MNG}} |short_MNG={{flagdeco|MNG}}
+
+<!--Update team results below (including date)-->
+|update=complete
+|win_JPN=8 |draw_JPN=0 |loss_JPN=0 |gf_JPN=46|ga_JPN=2
+|win_KGZ=3 |draw_KGZ=1 |loss_KGZ=4 |gf_KGZ=19|ga_KGZ=12
+|win_TJK=4 |draw_TJK=1 |loss_TJK=3 |gf_TJK=14|ga_TJK=12
+|win_MYA=2 |draw_MYA=0 |loss_MYA=6 |gf_MYA=6 |ga_MYA=35
+|win_MNG=2 |draw_MNG=0 |loss_MNG=6 |gf_MNG=3 |ga_MNG=27
+
+<!--Update team positions below (check tiebreakers)-->
+|team_order=JPN, TJK, KGZ, MNG, MYA
+
+<!--Update results below-->
+|match_JPN_KGZ=[[#JPN v KGZ|5–1]]
+|match_JPN_TJK=[[#JPN v TJK|4–1]]
+|match_JPN_MYA=[[#JPN v MYA|10–0]]
+|match_JPN_MNG=[[#JPN v MNG|6–0]]
+
+|match_KGZ_JPN=[[#KGZ v JPN|0–2]]
+|match_KGZ_TJK=[[#KGZ v TJK|1–1]]
+|match_KGZ_MYA=[[#KGZ v MYA|7–0]]
+|match_KGZ_MNG=[[#KGZ v MNG|0–1]]
+
+|match_TJK_JPN=[[#TJK v JPN|0–3]]
+|match_TJK_KGZ=[[#TJK v KGZ|1–0]]
+|match_TJK_MYA=[[#TJK v MYA|4–0]]
+|match_TJK_MNG=[[#TJK v MNG|3–0]]
+
+|match_MYA_JPN=[[#MYA v JPN|0–2]]
+|match_MYA_KGZ=[[#MYA v KGZ|1–8]]
+|match_MYA_TJK=[[#MYA v TJK|4–3]]
+|match_MYA_MNG=[[#MYA v MNG|1–0]]
+
+|match_MNG_JPN=[[#MNG v JPN|0–14]]
+|match_MNG_KGZ=[[#MNG v KGZ|1–2]]
+|match_MNG_TJK=[[#MNG v TJK|0–1]]
+|match_MNG_MYA=[[#MNG v MYA|1–0]]
+
+<!--Qualification column definitions-->
+|res_col_header=Q
+|result1=1st |result2=3rd |result3=3rd |result4=3rd |result5=3rd
+|col_1st=green1 |text_1st=[[2022 FIFA World Cup qualification – AFC third round|World Cup qualifying third round]] and [[2023 AFC Asian Cup|Asian Cup]]
+|col_3rd=blue1 |text_3rd=[[2023 AFC Asian Cup qualification – third round|Asian Cup qualifying third round]]
+}}</onlyinclude>
+{{Football box
+|id         = MNG v MYA
+|date       = {{Start date|2019|9|5|df=y}}
+|time       = {{UTZ|17:00|8}}
+|team1      = {{fb-rt|MNG}}
+|score      = 1–0
+|team2      = {{fb|MYA}}
+|goals1     =
+*[[Dölgöön Amaraa|Amaraa]] {{goal|17}}
+|goals2     =
+|stadium    = [[MFF Football Centre]], [[Ulaanbaatar]]
+|attendance = 3,221
+|referee    = [[Rowan Arumughan]] ([[All India Football Federation|India]])
+|report     = [https://www.fifa.com/tournaments/mens/worldcup/qatar2022/qualifiers/afc/match-center/400080639 Report (FIFA)]<br />[http://stats.the-afc.com/match_report/16246 Report (AFC)]
+}}
+{{Football box
+|id         = TJK v KGZ
+|date       = {{Start date|2019|9|5|df=y}}
+|time       = {{UTZ|19:00|5}}
+|team1      = {{fb-rt|TJK}}
+|score      = 1–0
+|team2      = {{fb|KGZ}}
+|goals1     =
+*[[Alisher Dzhalilov|A. Dzhalilov]] {{goal|41}}
+|goals2     =
+|stadium    = [[Pamir Stadium|Central Republican Stadium]], [[Dushanbe]]
+|attendance = 17,800
+|referee    = [[Adham Makhadmeh]] ([[Jordan Football Association|Jordan]])
+|report     = [https://www.fifa.com/tournaments/mens/worldcup/qatar2022/qualifiers/afc/match-center/400080638 Report (FIFA)]<br />[http://stats.the-afc.com/match_report/16245 Report (AFC)]
+}}
+----
+{{Football box
+|id         = MNG v TJK
+|date       = {{Start date|2019|9|10|df=y}}
+|time       = {{UTZ|17:00|8}}
+|team1      = {{fb-rt|MNG}}
+|score      = 0–1
+|team2      = {{fb|TJK}}
+|goals1     =
+|goals2     =
+*[[Davron Ergashev|D. Ergashev]] {{goal|81}}
+|stadium    = [[MFF Football Centre]], [[Ulaanbaatar]]
+|attendance = 3,455
+|referee    = Hanna Hattab ([[Syrian Arab Federation for Football|Syria]])
+|report     = [https://www.fifa.com/tournaments/mens/worldcup/qatar2022/qualifiers/afc/match-center/400080641 Report (FIFA)]<br />[http://stats.the-afc.com/match_report/16248 Report (AFC)]
+}}
+{{Football box
+|id         = MYA v JPN
+|date       = {{Start date|2019|9|10|df=y}}
+|time       = {{UTZ|18:50|6:30}}
+|team1      = {{fb-rt|MYA}}
+|score      = 0–2
+|team2      = {{fb|JPN}}
+|goals1     =
+|goals2     =
+*[[Shoya Nakajima|Nakajima]] {{goal|16}}
+*[[Takumi Minamino|Minamino]] {{goal|26}}
+|stadium    = [[Thuwunna Stadium]], [[Yangon]]
+|attendance = 25,500
+|referee    = Ahmad Yacoub Ibrahim ([[Jordan Football Association|Jordan]])
+|report     = [https://www.fifa.com/tournaments/mens/worldcup/qatar2022/qualifiers/afc/match-center/400080640 Report (FIFA)]<br />[http://stats.the-afc.com/match_report/16247 Report (AFC)]
+}}
+----
+{{Football box
+|id         = JPN v MNG
+|date       = {{Start date|2019|10|10|df=y}}
+|time       = {{UTZ|19:35|9}}
+|team1      = {{fb-rt|JPN}}
+|score      = 6–0
+|team2      = {{fb|MNG}}
+|goals1     =
+*[[Takumi Minamino|Minamino]] {{goal|22}}
+*[[Maya Yoshida|Yoshida]] {{goal|29}}
+*[[Yuto Nagatomo|Nagatomo]] {{goal|33}}
+*[[Kensuke Nagai|Nagai]] {{goal|40}}
+*[[Wataru Endo|Endo]] {{goal|57}}
+*[[Daichi Kamada|Kamada]] {{goal|82}}
+|goals2     =
+|stadium    = [[Saitama Stadium 2002]], [[Saitama (city)|Saitama]]
+|attendance = 43,122
+|referee    = Chae Sang-hyeop ([[Korea Football Association|South&nbsp;Korea]])
+|report     = [https://www.fifa.com/tournaments/mens/worldcup/qatar2022/qualifiers/afc/match-center/400080642 Report (FIFA)]<br />[http://stats.the-afc.com/match_report/16249 Report (AFC)]
+}}
+{{Football box
+|id         = KGZ v MYA
+|date       = {{Start date|2019|10|10|df=y}}
+|time       = {{UTZ|20:30|6}}
+|team1      = {{fb-rt|KGZ}}
+|score      = 7–0
+|team2      = {{fb|MYA}}
+|goals1     =
+*[[Edgar Bernhardt|Bernhardt]] {{goal|5||10||87|pen.}}
+*[[Alimardon Shukurov|Shukurov]] {{goal|20||71}}
+*[[Gulzhigit Alykulov|Alykulov]] {{goal|26}}
+*[[Valery Kichin|Kichin]] {{goal|45}}
+|goals2     =
+|stadium    = [[Dolen Omurzakov Stadium]], [[Bishkek]]
+|attendance = 13,000
+|referee    = Omar Mohamed Al-Ali ([[United Arab Emirates Football Association|United&nbsp;Arab&nbsp;Emirates]])
+|report     = [https://www.fifa.com/tournaments/mens/worldcup/qatar2022/qualifiers/afc/match-center/400080643 Report (FIFA)]<br />[http://stats.the-afc.com/match_report/16250 Report (AFC)]
+}}
+----
+{{Football box
+|id         = MNG v KGZ
+|date       = {{Start date|2019|10|15|df=y}}
+|time       = {{UTZ|16:00|8}}
+|team1      = {{fb-rt|MNG}}
+|score      = 1–2
+|team2      = {{fb|KGZ}}
+|goals1     =
+*[[Norjmoogiin Tsedenbal|Tsedenbal]] {{goal|57|pen.}}
+|goals2     =
+*[[Gulzhigit Alykulov|Alykulov]] {{goal|13}}
+*[[Mirlan Murzaev|Murzaev]] {{goal|42}}
+|stadium    = [[MFF Football Centre]], [[Ulaanbaatar]]
+|attendance = 2,182
+|referee    = Hussein Abo Yehia ([[Lebanon Football Association|Lebanon]])
+|report     = [https://www.fifa.com/tournaments/mens/worldcup/qatar2022/qualifiers/afc/match-center/400080644 Report (FIFA)]<br />[http://stats.the-afc.com/match_report/16251 Report (AFC)]
+}}
+{{Football box
+|id         = TJK v JPN
+|date       = {{Start date|2019|10|15|df=y}}
+|time       = {{UTZ|17:15|5}}
+|team1      = {{fb-rt|TJK}}
+|score      = 0–3
+|team2      = {{fb|JPN}}
+|goals1     =
+|goals2     =
+*[[Takumi Minamino|Minamino]] {{goal|53||55}}
+*[[Takuma Asano|Asano]] {{goal|82}}
+|stadium    = [[Pamir Stadium|Central Republican Stadium]], [[Dushanbe]]
+|attendance = 19,100
+|referee    = Zaid Thamer ([[Iraq Football Association|Iraq]])
+|report     = [https://www.fifa.com/tournaments/mens/worldcup/qatar2022/qualifiers/afc/match-center/400080645 Report (FIFA)]<br />[http://stats.the-afc.com/match_report/16252 Report (AFC)]
+}}
+----
+{{Football box
+|id         = MYA v TJK
+|date       = {{Start date|2019|11|14|df=y}}
+|time       = {{UTZ|17:00|6:30}}
+|team1      = {{fb-rt|MYA}}
+|score      = 4–3
+|team2      = {{fb|TJK}}
+|goals1     =
+*[[Suan Lam Mang]] {{goal|10||41}}
+*[[Aung Thu (footballer)|Aung Thu]] {{goal|48}}
+*[[Maung Maung Lwin]] {{goal|63}}
+|goals2     =
+*[[Manuchekhr Dzhalilov|M. Dzhalilov]] {{goal|36|pen.|76}}
+*[[Farkhod Vosiyev|Vosiyev]] {{goal|57}}
+|stadium    = [[Mandalarthiri Stadium]], [[Mandalay]]
+|attendance = 7,365
+|referee    = Masoud Tufayelieh ([[Syrian Arab Federation for Football|Syria]])
+|report     = [https://www.fifa.com/tournaments/mens/worldcup/qatar2022/qualifiers/afc/match-center/400080706 Report (FIFA)]<br />[http://stats.the-afc.com/match_report/16253 Report (AFC)]
+}}
+{{Football box
+|id         = KGZ v JPN
+|date       = {{Start date|2019|11|14|df=y}}
+|time       = {{UTZ|17:18|6}}
+|team1      = {{fb-rt|KGZ}}
+|score      = 0–2
+|team2      = {{fb|JPN}}
+|goals1     =
+|goals2     =
+*[[Takumi Minamino|Minamino]] {{goal|41|pen.}}
+*[[Genki Haraguchi|Haraguchi]] {{goal|54}}
+|stadium    = [[Dolen Omurzakov Stadium]], [[Bishkek]]
+|attendance = 17,543
+|referee    = Mohammed Al-Hoish ([[Saudi Arabian Football Federation|Saudi Arabia]])
+|report     = [https://www.fifa.com/tournaments/mens/worldcup/qatar2022/qualifiers/afc/match-center/400080707 Report (FIFA)]<br />[http://stats.the-afc.com/match_report/16254 Report (AFC)]
+}}
+----
+{{Football box
+|id         = MYA v MNG
+|date       = {{Start date|2019|11|19|df=y}}
+|time       = {{UTZ|17:00|6:30}}
+|team1      = {{fb-rt|MYA}}
+|score      = 1–0
+|team2      = {{fb|MNG}}
+|goals1     =
+*[[Hlaing Bo Bo]] {{goal|17}}
+|goals2     =
+|stadium    = [[Mandalarthiri Stadium]], [[Mandalay]]
+|attendance = 17,468
+|referee    = [[Nazmi Nasaruddin]] ([[Football Association of Malaysia|Malaysia]])
+|report     = [https://www.fifa.com/tournaments/mens/worldcup/qatar2022/qualifiers/afc/match-center/400080709 Report (FIFA)]<br />[http://stats.the-afc.com/match_report/16256 Report (AFC)]
+}}
+{{Football box
+|id         = KGZ v TJK
+|date       = {{Start date|2019|11|19|df=y}}
+|time       = {{UTZ|20:00|6}}
+|team1      = {{fb-rt|KGZ}}
+|score      = 1–1
+|team2      = {{fb|TJK}}
+|goals1     =
+*[[Tamirlan Kozubaev|Kozubaev]] {{goal|83}}
+|goals2     =
+*[[Jahongir Ergashev|Ergashev]] {{goal|17}}
+|stadium    = [[Dolen Omurzakov Stadium]], [[Bishkek]]
+|attendance = 15,873
+|referee    = [[Abdulrahman Al-Jassim]] ([[Qatar Football Association|Qatar]])
+|report     = [https://www.fifa.com/tournaments/mens/worldcup/qatar2022/qualifiers/afc/match-center/400080708 Report (FIFA)]<br />[http://stats.the-afc.com/match_report/16255 Report (AFC)]
+}}
+----
+{{Football box
+|id         = TJK v MNG
+|date       = {{Start date|2021|3|25|df=y}}{{refn|group="note"|name=md7}}
+|time       = {{UTZ|18:00|5}}
+|team1      = {{fb-rt|TJK}}
+|score      = 3–0
+|team2      = {{fb|MNG}}
+|goals1     = 
+*[[Manuchekhr Dzhalilov|M. Dzhalilov]] {{goal|4}}
+*[[Alisher Dzhalilov|A. Dzhalilov]] {{goal|50}}
+*[[Shahrom Samiev|Samiev]] {{goal|87}}
+|goals2     =
+|stadium    = [[Pamir Stadium|Central Republican Stadium]], [[Dushanbe]]
+|attendance = 9,300
+|referee    = [[Ali Sabah]] ([[Iraq Football Association|Iraq]])
+|report     = [https://www.fifa.com/tournaments/mens/worldcup/qatar2022/qualifiers/afc/match-center/400080711 Report (FIFA)]<br />[http://stats.the-afc.com/match_report/16258 Report (AFC)]
+}}
+----
+{{Football box
+|id         = MNG v JPN
+|date       = {{Start date|2021|3|30|df=y}}{{refn|group="note"|name=md8}}
+|time       = {{UTZ|19:30|9}}
+|team1      = {{fb-rt|MNG}}
+|score      = 0–14
+|team2      = {{fb|JPN}}
+|goals2     =
+*[[Takumi Minamino|Minamino]] {{goal|13}}
+*[[Yuya Osako|Osako]] {{goal|23||55||90+2}}
+*[[Daichi Kamada|Kamada]] {{goal|26}}
+*[[Hidemasa Morita|Morita]] {{goal|33}}
+*[[Khash-Erdene Tuya|Tuya]] {{goal|39|o.g.}}
+*[[Sho Inagaki|Inagaki]] {{goal|68||90+3}}
+*[[Junya Itō (footballer, born 1993)|Itō]] {{goal|73||79}}
+*[[Kyogo Furuhashi|Furuhashi]] {{goal|78||87}}
+*[[Takuma Asano|Asano]] {{goal|90+1}}
+|stadium    = [[Fukuda Denshi Arena]], [[Chiba (city)|Chiba]] (Japan){{refn|The Mongolia v Japan match was played in Chiba, Japan.<ref name="MNGJPN">{{cite web |url=http://www.jfa.jp/samuraiblue/news/00026348/ |title=SAMURAI BLUE FIFAワールドカップカタール2022アジア2次予選 兼 AFCアジアカップ中国2023予選 3/30 SAMURAI BLUE 対 モンゴル代表戦 日本での開催決定 |publisher=Japan Football Association |date=10 February 2021}}</ref>|group="note"|name="MNGJPN"}}
+|attendance = 0
+|referee    = Omar Mohamed Al-Ali ([[United Arab Emirates Football Association|United&nbsp;Arab&nbsp;Emirates]])
+|report     = [https://www.fifa.com/tournaments/mens/worldcup/qatar2022/qualifiers/afc/match-center/400080712 Report (FIFA)]<br />[http://stats.the-afc.com/match_report/16259 Report (AFC)]
+}}
+----
+{{Football box
+|id         = JPN v MYA
+|date       = {{Start date|2021|5|28|df=y}}{{refn|group="note"|name=md7}}
+|time       = {{UTZ|19:20|9}}
+|team1      = {{fb-rt|JPN}}
+|score      = 10–0
+|team2      = {{fb|MYA}}
+|goals1     =
+*[[Takumi Minamino|Minamino]] {{goal|8||66}}
+*[[Yuya Osako|Osako]] {{goal|22||30|pen.|36||49||88}}
+*[[Hidemasa Morita|Morita]] {{goal|57}}
+*[[Daichi Kamada|Kamada]] {{goal|84}}
+*[[Ko Itakura|Itakura]] {{goal|90+1}}
+|stadium    = [[Fukuda Denshi Arena]], [[Chiba (city)|Chiba]]{{refn|group="note"|name=centralised}}
+|attendance = 0
+|referee    = Hasan Akrami ([[Football Federation Islamic Republic of Iran|Iran]])
+|report     = [https://www.fifa.com/tournaments/mens/worldcup/qatar2022/qualifiers/afc/match-center/400080710 Report (FIFA)]<br />[http://stats.the-afc.com/match_report/16257 Report (AFC)]
+}}
+----
+{{Football box
+|id         = KGZ v MNG
+|date       = {{Start date|2021|6|7|df=y}}{{refn|group="note"|name=md9}}
+|time       = {{UTZ|16:00|9}}
+|team1      = {{fb-rt|KGZ}}
+|score      = 0–1
+|team2      = {{fb|MNG}}
+|goals1     =
+|goals2     =
+*[[Oyunbaataryn Mijiddorj|Mijiddorj]] {{goal|34}}
+|stadium    = [[Yanmar Stadium Nagai]], [[Osaka]] (Japan){{refn|group="note"|name=centralised}}
+|attendance = 0
+|referee    = Yu Ming-hsun ([[Chinese Taipei Football Association|Chinese Taipei]])
+|report     = [https://www.fifa.com/tournaments/mens/worldcup/qatar2022/qualifiers/afc/match-center/400080714 Report (FIFA)]<br />[http://stats.the-afc.com/match_report/16261 Report (AFC)]
+}}
+{{Football box
+|id         = JPN v TJK
+|date       = {{Start date|2021|6|7|df=y}}{{refn|group="note"|name=md9}}
+|time       = {{UTZ|19:30|9}}
+|team1      = {{fb-rt|JPN}}
+|score      = 4–1
+|team2      = {{fb|TJK}}
+|goals1     =
+*[[Kyogo Furuhashi|Furuhashi]] {{goal|6}}
+*[[Takumi Minamino|Minamino]] {{goal|40}}
+*[[Kento Hashimoto|Hashimoto]] {{goal|51}}
+*[[Hayao Kawabe|Kawabe]] {{goal|71}}
+|goals2     =
+*[[Ehson Panjshanbe|Panjshanbe]] {{goal|9}}
+|stadium    = [[Panasonic Stadium Suita]], [[Suita, Osaka|Suita]]{{refn|group="note"|name=centralised}}
+|attendance = 0
+|referee    = [[Abdulrahman Al-Jassim]] ([[Qatar Football Association|Qatar]])
+|report     = [https://www.fifa.com/tournaments/mens/worldcup/qatar2022/qualifiers/afc/match-center/400080715 Report (FIFA)]<br />[http://stats.the-afc.com/match_report/16262 Report (AFC)]
+}}
+----
+{{Football box
+|id         = MYA v KGZ
+|date       = {{Start date|2021|6|11|df=y}}{{refn|group="note"|name=md8}}
+|time       = {{UTZ|16:00|9}}
+|team1      = {{fb-rt|MYA}}
+|score      = 1–8
+|team2      = {{fb|KGZ}}
+|goals1     =
+*[[Hlaing Bo Bo]] {{goal|69}}
+|goals2     =
+*[[Tursunali Rustamov|Rustamov]] {{goal|22}}
+*[[Gulzhigit Alykulov|Alykulov]] {{goal|29}}
+*[[Farhat Musabekov|Musabekov]] {{goal|34}}
+*[[Alimardon Shukurov|Shukurov]] {{goal|45}}
+*[[Mirlan Murzaev|Murzaev]] {{goal|45+2||61||78}}
+*[[Abay Bokoleyev|Bokoleyev]] {{goal|63}}
+|stadium    = [[Yanmar Stadium Nagai]], [[Osaka]] (Japan){{refn|group="note"|name=centralised}}
+|attendance = 0
+|referee    = Hussein Abo Yehia ([[Lebanese Football Association|Lebanon]])
+|report     = [https://www.fifa.com/tournaments/mens/worldcup/qatar2022/qualifiers/afc/match-center/400080713 Report (FIFA)]<br />[http://stats.the-afc.com/match_report/16260 Report (AFC)]
+}}
+----
+{{Football box
+|id         = JPN v KGZ
+|date       = {{Start date|2021|6|15|df=y}}{{refn|group="note"|name=md10}}
+|time       = {{UTZ|19:25|9}}
+|team1      = {{fb-rt|JPN}}
+|score      = 5–1
+|team2      = {{fb|KGZ}}
+|goals1     =
+*[[Ado Onaiwu|Onaiwu]] {{goal|27|pen.|31||33}}
+*[[Sho Sasaki (footballer)|Sasaki]] {{goal|72}}
+*[[Takuma Asano|Asano]] {{goal|77}}
+|goals2     =
+*[[Mirlan Murzaev|Murzaev]] {{goal|45+2|pen.}}
+|stadium    = [[Panasonic Stadium Suita]], [[Suita, Osaka|Suita]]{{refn|group="note"|name=centralised}}
+|attendance = 0
+|referee    = [[Omar Al-Yaqoubi]] ([[Oman Football Association|Oman]])
+|report     = [https://www.fifa.com/tournaments/mens/worldcup/qatar2022/qualifiers/afc/match-center/400080717 Report (FIFA)]<br />[http://stats.the-afc.com/match_report/16264 Report (AFC)]
+}}
+{{Football box
+|id         = TJK v MYA
+|date       = {{Start date|2021|6|15|df=y}}{{refn|group="note"|name=md10}}
+|time       = {{UTZ|19:25|9}}
+|team1      = {{fb-rt|TJK}}
+|score      = 4–0
+|team2      = {{fb|MYA}}
+|goals1     =
+*[[Komron Tursunov|Tursunov]] {{goal|34}}
+*[[Manuchekhr Dzhalilov|Dzhalilov]] {{goal|53}}
+*[[Sheriddin Boboev|Boboev]] {{goal|78}}
+*[[Shahrom Samiev|Samiev]] {{goal|87}}
+|goals2     =
+|stadium    = [[Yanmar Stadium Nagai]], [[Osaka]] (Japan){{refn|group="note"|name=centralised}}
+|attendance = 0
+|referee    = Omar Mohamed Al-Ali ([[United Arab Emirates Football Association|United Arab Emirates]])
+|report     = [https://www.fifa.com/tournaments/mens/worldcup/qatar2022/qualifiers/afc/match-center/400080716 Report (FIFA)]<br />[http://stats.the-afc.com/match_report/16263 Report (AFC)]
+}}
+'''Goalscorers'''
+
+{{#invoke:Goalscorers|main|2022 FIFA World Cup qualification (AFC)|round=group|group=F}}<!--CAREFULLY update goalscorers at Module:Goalscorers/data/2022 FIFA World Cup qualification (AFC)-->
+
+== Group G ==
+<onlyinclude>{{#invoke:Sports table|main|style=WDL
+|section=Group G
+|show_matches=y
+|class_rules=[[2022 FIFA World Cup qualification#Tiebreakers|Qualification tiebreakers]]
+|source=[https://www.fifa.com/tournaments/mens/worldcup/qatar2022/qualifiers/afc FIFA]
+
+<!--Team definitions-->
+|name_UAE={{fb|UAE}} |short_UAE={{flagdeco|UAE}}
+|name_VIE={{fb|VIE}} |short_VIE={{flagdeco|VIE}}
+|name_THA={{fb|THA}} |short_THA={{flagdeco|THA}}
+|name_MAS={{fb|MAS}} |short_MAS={{flagdeco|MAS}}
+|name_IDN={{fb|IDN}} |short_IDN={{flagdeco|IDN}}
+
+<!--Update team results below (including date)-->
+|update=complete
+|win_UAE=6 |draw_UAE=0 |loss_UAE=2 |gf_UAE=23|ga_UAE=7
+|win_VIE=5 |draw_VIE=2 |loss_VIE=1 |gf_VIE=13|ga_VIE=5
+|win_THA=2 |draw_THA=3 |loss_THA=3 |gf_THA=9 |ga_THA=9
+|win_MAS=4 |draw_MAS=0 |loss_MAS=4 |gf_MAS=10|ga_MAS=12
+|win_IDN=0 |draw_IDN=1 |loss_IDN=7 |gf_IDN=5 |ga_IDN=27
+
+<!--Update team positions below (check tiebreakers)-->
+|team_order=UAE, VIE, MAS, THA, IDN
+
+<!--Update results below-->
+|match_UAE_VIE=[[#UAE v VIE|3–2]]
+|match_UAE_THA=[[#UAE v THA|3–1]]
+|match_UAE_MAS=[[#UAE v MAS|4–0]]
+|match_UAE_IDN=[[#UAE v IDN|5–0]]
+
+|match_VIE_UAE=[[#VIE v UAE|1–0]]
+|match_VIE_THA=[[#VIE v THA|0–0]]
+|match_VIE_MAS=[[#VIE v MAS|1–0]]
+|match_VIE_IDN=[[#VIE v IDN|4–0]]
+
+|match_THA_UAE=[[#THA v UAE|2–1]]
+|match_THA_VIE=[[#THA v VIE|0–0]]
+|match_THA_MAS=[[#THA v MAS|0–1]]
+|match_THA_IDN=[[#THA v IDN|2–2]]
+
+|match_MAS_UAE=[[#MAS v UAE|1–2]]
+|match_MAS_VIE=[[#MAS v VIE|1–2]]
+|match_MAS_THA=[[#MAS v THA|2–1]]
+|match_MAS_IDN=[[#MAS v IDN|2–0]]
+
+|match_IDN_UAE=[[#IDN v UAE|0–5]]
+|match_IDN_VIE=[[#IDN v VIE|1–3]]
+|match_IDN_THA=[[#IDN v THA|0–3]]
+|match_IDN_MAS=[[#IDN v MAS|2–3]]
+
+<!--Qualification column definitions-->
+|res_col_header=Q
+|result1=1st |result2=1st |result3=3rd |result4=3rd |result5=4th
+|col_1st=green1 |text_1st=[[2022 FIFA World Cup qualification – AFC third round|World Cup qualifying third round]] and [[2023 AFC Asian Cup|Asian Cup]]
+|col_3rd=blue1 |text_3rd=[[2023 AFC Asian Cup qualification – third round|Asian Cup qualifying third round]]
+|col_4th=yellow1 |text_4th=[[2023 AFC Asian Cup qualification – Play-off Round|Asian Cup qualifying play-off round]]
+}}</onlyinclude>
+{{Football box
+|id         = THA v VIE
+|date       = {{Start date|2019|9|5|df=y}}
+|time       = {{UTZ|19:00|7}}
+|team1      = {{fb-rt|THA}}
+|score      = 0–0
+|team2      = {{fb|VIE}}
+|goals1     =
+|goals2     =
+|stadium    = [[Thammasat Stadium]], [[Pathum Thani Province|Pathum Thani]]
+|attendance = 19,011
+|referee    = Saoud Al-Adba ([[Qatar Football Association|Qatar]])
+|report     = [https://www.fifa.com/tournaments/mens/worldcup/qatar2022/qualifiers/afc/match-center/400080646 Report (FIFA)]<br />[http://stats.the-afc.com/match_report/16265 Report (AFC)]
+}}
+{{Football box
+|id         = IDN v MAS
+|date       = {{Start date|2019|9|5|df=y}}
+|time       = {{UTZ|19:30|7}}
+|team1      = {{fb-rt|IDN}}
+|score      = 2–3
+|team2      = {{fb|MAS}}
+|goals1     =
+*[[Beto Gonçalves|Beto]] {{goal|11||38}}
+|goals2     =
+*[[Mohamadou Sumareh|Sumareh]] {{goal|36||90+6}}
+*[[Syafiq Ahmad|Syafiq]] {{goal|65}}
+|stadium    = [[Gelora Bung Karno Stadium]], [[Jakarta]]
+|attendance = 54,659
+|referee    = [[Ko Hyung-jin]] ([[Korea Football Association|South Korea]])
+|report     = [https://www.fifa.com/tournaments/mens/worldcup/qatar2022/qualifiers/afc/match-center/400080647 Report (FIFA)]<br />[http://stats.the-afc.com/match_report/16266 Report (AFC)]
+}}
+----
+{{Football box
+|id         = IDN v THA
+|date       = {{Start date|2019|9|10|df=y}}
+|time       = {{UTZ|19:30|7}}
+|team1      = {{fb-rt|IDN}}
+|score      = 0–3
+|team2      = {{fb|THA}}
+|goals1     =
+|goals2     =
+*[[Supachok Sarachat|Supachok]] {{goal|55||71}}
+*[[Theerathon Bunmathan|Theerathon]] {{goal|65|pen.}}
+|stadium    = [[Gelora Bung Karno Stadium]], [[Jakarta]]
+|attendance = 11,619
+|referee    = [[Ma Ning (referee)|Ma Ning]] ([[Chinese Football Association|China]])
+|report     = [https://www.fifa.com/tournaments/mens/worldcup/qatar2022/qualifiers/afc/match-center/400080649 Report (FIFA)]<br />[http://stats.the-afc.com/match_report/16268 Report (AFC)]
+}}
+{{Football box
+|id         = MAS v UAE
+|date       = {{Start date|2019|9|10|df=y}}
+|time       = {{UTZ|20:45|8}}
+|team1      = {{fb-rt|MAS}}
+|score      = 1–2
+|team2      = {{fb|UAE}}
+|goals1     =
+*[[Syafiq Ahmad|Syafiq]] {{goal|1}}
+|goals2     =
+*[[Ali Mabkhout|Mabkhout]] {{goal|43||75}}
+|stadium    = [[Bukit Jalil National Stadium]], [[Kuala Lumpur]]
+|attendance = 43,200
+|referee    = Hiroyuki Kimura ([[Japan Football Association|Japan]])
+|report     = [https://www.fifa.com/tournaments/mens/worldcup/qatar2022/qualifiers/afc/match-center/400080648 Report (FIFA)]<br />[http://stats.the-afc.com/match_report/16267 Report (AFC)]
+}}
+----
+{{Football box
+|id         = VIE v MAS
+|date       = {{Start date|2019|10|10|df=y}}
+|time       = {{UTZ|20:00|7}}
+|team1      = {{fb-rt|VIE}}
+|score      = 1–0
+|team2      = {{fb|MAS}}
+|goals1     =
+*[[Nguyễn Quang Hải (footballer, born 1997)|Nguyễn Quang Hải]] {{goal|40}}
+|goals2     =
+|stadium    = [[Mỹ Đình National Stadium]], [[Hanoi]]
+|attendance = 38,256
+|referee    = Mooud Bonyadifard ([[Football Federation Islamic Republic of Iran|Iran]])
+|report     = [https://www.fifa.com/tournaments/mens/worldcup/qatar2022/qualifiers/afc/match-center/400080651 Report (FIFA)]<br />[http://stats.the-afc.com/match_report/16270 Report (AFC)]
+}}
+{{Football box
+|id         = UAE v IDN
+|date       = {{Start date|2019|10|10|df=y}}
+|time       = {{UTZ|20:00|4}}
+|team1      = {{fb-rt|UAE}}
+|score      = 5–0
+|team2      = {{fb|IDN}}
+|goals1     =
+*[[Khalil Ibrahim (footballer)|Ibrahim]] {{goal|40}}
+*[[Ali Mabkhout|Mabkhout]] {{goal|51||63|pen.|72}}
+*[[Tareq Ahmed|Ahmed]] {{goal|90+3}}
+|goals2     =
+|stadium    = [[Al Maktoum Stadium]], [[Dubai]]
+|attendance = 6,678{{refn|The United Arab Emirates v Indonesia match was initially announced to be played without spectators following sanctions due to the [[2019 AFC Asian Cup]] incident between the United Arab Emirates and Qatar.<ref>{{cite news |title=UAE FA Fined for fan conduct against Qatar in Asian Cup |url=https://www.beinsports.com/en/afc-asian-cup-uae-2019/news/uae-fa-fined-for-fan-conduct-against-qatar-in/1136567 |access-date=12 October 2019 |agency=[[beIN Sports]] |date=11 March 2019}}</ref><ref>{{cite news |title=AFC DEC issues USD$150,000 fine on UAE FA |url=https://www.the-afc.com/media/afc-dec-issues-usd-150-000-fine-on-uae-fa |access-date=12 October 2019 |publisher=Asian Football Confederation |date=11 March 2019 |archive-url=https://web.archive.org/web/20191010010906/https://www.the-afc.com/media/afc-dec-issues-usd-150-000-fine-on-uae-fa |archive-date=10 October 2019 |url-status=dead}}</ref> The decision was later appealed by the [[United Arab Emirates Football Association|UAEFA]].{{Citation needed|date=October 2019}}|group="note"|name="UAEIDN"}}
+|referee    = [[Adham Makhadmeh]] ([[Jordan Football Association|Jordan]])
+|report     = [https://www.fifa.com/tournaments/mens/worldcup/qatar2022/qualifiers/afc/match-center/400080650 Report (FIFA)]<br />[http://stats.the-afc.com/match_report/16269 Report (AFC)]
+}}
+----
+{{Football box
+|id         = IDN v VIE
+|date       = {{Start date|2019|10|15|df=y}}
+|time       = {{UTZ|19:30|8}}
+|team1      = {{fb-rt|IDN}}
+|score      = 1–3
+|team2      = {{fb|VIE}}
+|goals1     =
+*[[Irfan Bachdim|Bachdim]] {{goal|84}}
+|goals2     =
+*[[Đỗ Duy Mạnh]] {{goal|26|}}
+*[[Quế Ngọc Hải]] {{goal|55|pen.}}
+*[[Nguyễn Tiến Linh]] {{goal|61}}
+|stadium    = [[Kapten I Wayan Dipta Stadium]], [[Gianyar Regency|Gianyar]]{{refn|The Indonesia v Vietnam match was shifted to [[Kapten I Wayan Dipta Stadium]], [[Gianyar Regency|Gianyar]] from [[Gelora Bung Karno Stadium]], [[Jakarta]] based on an internal risk management process and analysis by the [[Football Association of Indonesia|PSSI]] General Secretariat.<ref>{{Cite web |url=https://www.the-afc.com/competitions/afc-asian-cup/news/indonesia-vietnam-match-moved-to-bali |title=Indonesia, Vietnam match moved to Bali |publisher=AFC |date=6 September 2019 |archive-url=https://web.archive.org/web/20191006110051/https://www.the-afc.com/competitions/afc-asian-cup/news/indonesia-vietnam-match-moved-to-bali |archive-date=6 October 2019 |url-status=dead}}</ref>|group="note"|name="IDNVIE"}}
+|attendance = 8,237
+|referee    = [[Turki Al-Khudhayr]] ([[Saudi Arabian Football Federation|Saudi Arabia]])
+|report     = [https://www.fifa.com/tournaments/mens/worldcup/qatar2022/qualifiers/afc/match-center/400080652 Report (FIFA)]<br />[http://stats.the-afc.com/match_report/16271 Report (AFC)]
+}}
+{{Football box
+|id         = THA v UAE
+|date       = {{Start date|2019|10|15|df=y}}
+|time       = {{UTZ|19:00|7}}
+|team1      = {{fb-rt|THA}}
+|score      = 2–1
+|team2      = {{fb|UAE}}
+|goals1     =
+*[[Teerasil Dangda|Teerasil]] {{goal|26}}
+*[[Ekanit Panya|Ekanit]] {{goal|51}}
+|goals2     =
+*[[Ali Mabkhout|Mabkhout]] {{goal|45+2}}
+|stadium    = [[Thammasat Stadium]], [[Pathum Thani Province|Pathum Thani]]
+|attendance = 16,057
+|referee    = [[Hettikamkanamge Perera]] ([[Football Federation of Sri Lanka|Sri Lanka]])
+|report     = [https://www.fifa.com/tournaments/mens/worldcup/qatar2022/qualifiers/afc/match-center/400080653 Report (FIFA)]<br />[http://stats.the-afc.com/match_report/16272 Report (AFC)]
+}}
+----
+{{Football box
+|id         = MAS v THA
+|date       = {{Start date|2019|11|14|df=y}}
+|time       = {{UTZ|20:45|8}}
+|team1      = {{fb-rt|MAS}}
+|score      = 2–1
+|team2      = {{fb|THA}}
+|goals1     =
+*[[Brendan Gan|Gan]] {{goal|26}}
+*[[Mohamadou Sumareh|Sumareh]] {{goal|57}}
+|goals2     =
+*[[Chanathip Songkrasin|Chanathip]] {{goal|7}}
+|stadium    = [[Bukit Jalil National Stadium]], [[Kuala Lumpur]]
+|attendance = 39,363
+|referee    = [[Ali Sabah]] ([[Iraq Football Association|Iraq]])
+|report     = [https://www.fifa.com/tournaments/mens/worldcup/qatar2022/qualifiers/afc/match-center/400080654 Report (FIFA)]<br />[http://stats.the-afc.com/match_report/16273 Report (AFC)]
+}}
+{{Football box
+|id         = VIE v UAE
+|date       = {{Start date|2019|11|14|df=y}}
+|time       = {{UTZ|20:00|7}}
+|team1      = {{fb-rt|VIE}}
+|score      = 1–0
+|team2      = {{fb|UAE}}
+|goals1     =
+*[[Nguyễn Tiến Linh]] {{goal|44}}
+|goals2     =
+|stadium    = [[Mỹ Đình National Stadium]], [[Hanoi]]
+|attendance = 37,879
+|referee    = [[Jumpei Iida]] ([[Japan Football Association|Japan]])
+|report     = [https://www.fifa.com/tournaments/mens/worldcup/qatar2022/qualifiers/afc/match-center/400080655 Report (FIFA)]<br />[http://stats.the-afc.com/match_report/16274 Report (AFC)]
+}}
+----
+{{Football box
+|id         = MAS v IDN
+|date       = {{Start date|2019|11|19|df=y}}
+|time       = {{UTZ|20:45|8}}
+|team1      = {{fb-rt|MAS}}
+|score      = 2–0
+|team2      = {{fb|IDN}}
+|goals1     =
+*[[Safawi Rasid|Safawi]] {{goal|30||73}}
+|goals2     =
+|stadium    = [[Bukit Jalil National Stadium]], [[Kuala Lumpur]]
+|attendance = 75,044
+|referee    = [[Alireza Faghani]] ([[Football Federation Islamic Republic of Iran|Iran]])
+|report     = [https://www.fifa.com/tournaments/mens/worldcup/qatar2022/qualifiers/afc/match-center/400080657 Report (FIFA)]<br />[http://stats.the-afc.com/match_report/16276 Report (AFC)]
+}}
+{{Football box
+|id         = VIE v THA
+|date       = {{Start date|2019|11|19|df=y}}
+|time       = {{UTZ|20:00|7}}
+|team1      = {{fb-rt|VIE}}
+|score      = 0–0
+|team2      = {{fb|THA}}
+|goals1     =
+|goals2     =
+|stadium    = [[Mỹ Đình National Stadium]], [[Hanoi]]
+|attendance = 40,000
+|referee    = [[Ahmed Al-Kaf]] ([[Oman Football Association|Oman]])
+|report     = [https://www.fifa.com/tournaments/mens/worldcup/qatar2022/qualifiers/afc/match-center/400080656 Report (FIFA)]<br />[http://stats.the-afc.com/match_report/16275 Report (AFC)]
+}}
+----
+{{Football box
+|id         = THA v IDN
+|date       = {{Start date|2021|6|3|df=y}}{{refn|group="note"|name=md7}}
+|time       = {{UTZ|20:45|4}}
+|team1      = {{fb-rt|THA}}
+|score      = 2–2
+|team2      = {{fb|IDN}}
+|goals1     =
+*[[Narubadin Weerawatnodom|Narubadin]] {{goal|5}}
+*[[Adisak Kraisorn|Adisak]] {{goal|50}}
+|goals2     =
+*[[I Kadek Agung Widnyana|Agung]] {{goal|39}}
+*[[Evan Dimas|Evan]] {{goal|60}}
+|stadium    = [[Al Maktoum Stadium]], [[Dubai]] (United Arab Emirates){{refn|group="note"|name=centralised}}
+|attendance = 0
+|referee    = Ammar Mahfoodh ([[Bahrain Football Association|Bahrain]])
+|report     = [https://www.fifa.com/tournaments/mens/worldcup/qatar2022/qualifiers/afc/match-center/400080659 Report (FIFA)]<br />[http://stats.the-afc.com/match_report/16278 Report (AFC)]
+}}
+{{Football box
+|id         = UAE v MAS
+|date       = {{Start date|2021|6|3|df=y}}{{refn|group="note"|name=md7}}
+|time       = {{UTZ|20:45|4}}
+|team1      = {{fb-rt|UAE}}
+|score      = 4–0
+|team2      = {{fb|MAS}}
+|goals1     =
+*[[Ali Mabkhout|Mabkhout]] {{goal|18||90+1}}
+*[[Fábio Virginio de Lima|Lima]] {{goal|83||90+2}}
+|goals2     =
+|stadium    = [[Zabeel Stadium]], [[Dubai]]{{refn|group="note"|name=centralised}}
+|attendance = 1,127
+|referee    = Kim Dae-yong ([[Korea Football Association|South Korea]])
+|report     = [https://www.fifa.com/tournaments/mens/worldcup/qatar2022/qualifiers/afc/match-center/400080658 Report (FIFA)]<br />[http://stats.the-afc.com/match_report/16277 Report (AFC)]
+}}
+----
+{{Football box
+|id         = UAE v THA
+|date       = {{Start date|2021|6|7|df=y}}{{refn|group="note"|name=md9}}
+|time       = {{UTZ|20:45|4}}
+|team1      = {{fb-rt|UAE}}
+|score      = 3–1
+|team2      = {{fb|THA}}
+|goals1     =
+*[[Caio Canedo Corrêa|Caio]] {{goal|14}}
+*[[Fábio Virginio de Lima|Lima]] {{goal|33}}
+*[[Mohammed Jumaa|Jumaa]] {{goal|90+4}}
+|goals2     =
+*[[Suphanat Mueanta|Suphanat]] {{goal|54}}
+|stadium    = [[Zabeel Stadium]], [[Dubai]]{{refn|group="note"|name=centralised}}
+|attendance = 980
+|referee    = [[Ryuji Sato]] ([[Japan Football Association|Japan]])
+|report     = [https://www.fifa.com/tournaments/mens/worldcup/qatar2022/qualifiers/afc/match-center/400080663 Report (FIFA)]<br />[http://stats.the-afc.com/match_report/16282 Report (AFC)]
+}}
+{{Football box
+|id         = VIE v IDN
+|date       = {{Start date|2021|6|7|df=y}}{{refn|group="note"|name=md9}}
+|time       = {{UTZ|20:45|4}}
+|team1      = {{fb-rt|VIE}}
+|score      = 4–0
+|team2      = {{fb|IDN}}
+|goals1     =
+*[[Nguyễn Tiến Linh]] {{goal|51}}
+*[[Nguyễn Quang Hải (footballer, born 1997)|Nguyễn Quang Hải]] {{goal|62}}
+*[[Nguyễn Công Phượng]] {{goal|67}}
+*[[Vũ Văn Thanh]] {{goal|74}}
+|goals2     =
+|stadium    = [[Al Maktoum Stadium]], [[Dubai]] (United Arab Emirates){{refn|group="note"|name=centralised}}
+|attendance = 225
+|referee    = Ahmed Al-Ali ([[Kuwait Football Association|Kuwait]])
+|report     = [https://www.fifa.com/tournaments/mens/worldcup/qatar2022/qualifiers/afc/match-center/400080662 Report (FIFA)]<br />[http://stats.the-afc.com/match_report/16281 Report (AFC)]
+}}
+----
+{{Football box
+|id         = IDN v UAE
+|date       = {{Start date|2021|6|11|df=y}}{{refn|group="note"|name=md8}}
+|time       = {{UTZ|20:45|4}}
+|team1      = {{fb-rt|IDN}}
+|score      = 0–5
+|team2      = {{fb|UAE}}
+|goals1     =
+|goals2     =
+*[[Ali Mabkhout|Mabkhout]] {{goal|22||49|pen.}}
+*[[Fábio Virginio de Lima|Lima]] {{goal|28||55}}
+*[[Sebastián Tagliabúe|Tagliabúe]] {{goal|86}}
+|stadium    = [[Zabeel Stadium]], [[Dubai]] (United Arab Emirates){{refn|group="note"|name=centralised}}
+|attendance = 963
+|referee    = Mohammed Al-Hoish ([[Saudi Arabian Football Federation|Saudi Arabia]])
+|report     = [https://www.fifa.com/tournaments/mens/worldcup/qatar2022/qualifiers/afc/match-center/400176835 Report (FIFA)]<br />[http://stats.the-afc.com/match_report/16279 Report (AFC)]
+}}
+{{Football box
+|id         = MAS v VIE
+|date       = {{Start date|2021|6|11|df=y}}{{refn|group="note"|name=md8}}
+|time       = {{UTZ|20:45|4}}
+|team1      = {{fb-rt|MAS}}
+|score      = 1–2
+|team2      = {{fb|VIE}}
+|goals1     =
+*[[Guilherme de Paula Lucrécio|Guilherme]] {{goal|72|pen.}}
+|goals2     =
+*[[Nguyễn Tiến Linh]] {{goal|27}}
+*[[Quế Ngọc Hải]] {{goal|82|pen.}}
+|stadium    = [[Al Maktoum Stadium]], [[Dubai]] (United Arab Emirates){{refn|group="note"|name=centralised}}
+|attendance = 335
+|referee    = [[Ryuji Sato]] ([[Japan Football Association|Japan]])
+|report     = [https://www.fifa.com/tournaments/mens/worldcup/qatar2022/qualifiers/afc/match-center/400080661 Report (FIFA)]<br />[http://stats.the-afc.com/match_report/16280 Report (AFC)]
+}}
+----
+{{Football box
+|id         = UAE v VIE
+|date       = {{Start date|2021|6|15|df=y}}{{refn|group="note"|name=md10}}
+|time       = {{UTZ|20:45|4}}
+|team1      = {{fb-rt|UAE}}
+|score      = 3–2
+|team2      = {{fb|VIE}}
+|goals1     =
+*[[Ali Salmeen|Salmeen]] {{goal|32}}
+*[[Ali Mabkhout|Mabkhout]] {{goal|40|pen.}}
+*[[Mahmoud Khamees|Khamees]] {{goal|50}}
+|goals2     =
+*[[Nguyễn Tiến Linh]] {{goal|85}}
+*[[Trần Minh Vương]] {{goal|90+3}}
+|stadium    = [[Zabeel Stadium]], [[Dubai]]{{refn|group="note"|name=centralised}}
+|attendance = 1,355
+|referee    = [[Ali Sabah]] ([[Iraq Football Association|Iraq]])
+|report     = [https://www.fifa.com/tournaments/mens/worldcup/qatar2022/qualifiers/afc/match-center/400080665 Report (FIFA)]<br />[http://stats.the-afc.com/match_report/16284 Report (AFC)]
+}}
+{{Football box
+|id         = THA v MAS
+|date       = {{Start date|2021|6|15|df=y}}{{refn|group="note"|name=md10}}
+|time       = {{UTZ|20:45|4}}
+|team1      = {{fb-rt|THA}}
+|score      = 0–1
+|team2      = {{fb|MAS}}
+|goals1     =
+|goals2     =
+*[[Safawi Rasid|Safawi]] {{goal|52|pen.}}
+|stadium    = [[Al Maktoum Stadium]], [[Dubai]] (United Arab Emirates){{refn|group="note"|name=centralised}}
+|attendance = 142
+|referee    = Mohammed Al-Hoish ([[Saudi Arabian Football Federation|Saudi Arabia]])
+|report     = [https://www.fifa.com/tournaments/mens/worldcup/qatar2022/qualifiers/afc/match-center/400080664 Report (FIFA)]<br />[http://stats.the-afc.com/match_report/16283 Report (AFC)]
+}}
+'''Goalscorers'''
+
+{{#invoke:Goalscorers|main|2022 FIFA World Cup qualification (AFC)|round=group|group=G}}<!--CAREFULLY update goalscorers at Module:Goalscorers/data/2022 FIFA World Cup qualification (AFC)-->
+
+== Group H ==
+North Korea withdrew due to safety concerns related to the [[COVID-19 pandemic]], therefore the results of their matches were excluded from the group standings.<ref>{{Cite web |url=https://www.the-afc.com/competitions/afc-asian-cup/news/latest-update-on-asian-qualifiers|title=Latest update on Asian Qualifiers|publisher=Asian Football Confederation|date=16 May 2021|archive-url=https://web.archive.org/web/20210520215555/https://www.the-afc.com/competitions/afc-asian-cup/news/latest-update-on-asian-qualifiers|archive-date=20 May 2021|url-status=dead}}</ref><ref name="AFC 0527">{{Cite web |url=https://www.the-afc.com/competitions/afc-asian-cup/news/latest-decision-on-asian-qualifiers|title=Latest decision on Asian Qualifiers|publisher=Asian Football Confederation|date=27 May 2021|archive-url=https://web.archive.org/web/20210602001057/https://www.the-afc.com/competitions/afc-asian-cup/news/latest-decision-on-asian-qualifiers|archive-date=2 June 2021|url-status=dead}}</ref>
+<onlyinclude>{{#invoke:Sports table|main|style=WDL
+|section=Group H
+|show_matches=y
+|class_rules=[[2022 FIFA World Cup qualification#Tiebreakers|Qualification tiebreakers]]
+|source=[https://www.fifa.com/tournaments/mens/worldcup/qatar2022/qualifiers/afc FIFA]
+
+<!--Team definitions-->
+|name_KOR={{fb|KOR}} |short_KOR={{flagdeco|KOR}}
+|name_LBN={{fb|LBN}} |short_LBN={{flagdeco|LBN}}
+|name_PRK={{fb|PRK}} |short_PRK={{flagdeco|PRK}}
+|name_TKM={{fb|TKM}} |short_TKM={{flagdeco|TKM}}
+|name_SRI={{fb|SRI}} |short_SRI={{flagdeco|SRI}}
+
+<!--Update team results below (including date)-->
+|update=complete
+|win_KOR=5 |draw_KOR=1 |loss_KOR=0 |gf_KOR=22|ga_KOR=1
+|win_LBN=3 |draw_LBN=1 |loss_LBN=2 |gf_LBN=11|ga_LBN=8
+|win_PRK=0 |draw_PRK=0 |loss_PRK=0 |gf_PRK=0 |ga_PRK=0
+|win_TKM=3 |draw_TKM=0 |loss_TKM=3 |gf_TKM=8 |ga_TKM=11
+|win_SRI=0 |draw_SRI=0 |loss_SRI=6 |gf_SRI=2 |ga_SRI=23
+
+<!--Update team positions below (check tiebreakers)-->
+|team_order=KOR, LBN, TKM, SRI, PRK
+
+<!--Update results below-->
+|match_KOR_LBN=[[2022 FIFA World Cup qualification – AFC second round#KOR v LBN|2–1]]
+|match_KOR_PRK=<s>[[2022 FIFA World Cup qualification – AFC second round#KOR v PRK|{{small|Canc.}}]]</s>
+|match_KOR_TKM=[[2022 FIFA World Cup qualification – AFC second round#KOR v TKM|5–0]]
+|match_KOR_SRI=[[2022 FIFA World Cup qualification – AFC second round#KOR v SRI|8–0]]
+
+|match_LBN_KOR=[[2022 FIFA World Cup qualification – AFC second round#LBN v KOR|0–0]]
+|match_LBN_PRK=<s>[[2022 FIFA World Cup qualification – AFC second round#LBN v PRK|0–0]]</s>
+|match_LBN_TKM=[[2022 FIFA World Cup qualification – AFC second round#LBN v TKM|2–1]]
+|match_LBN_SRI=[[2022 FIFA World Cup qualification – AFC second round#LBN v SRI|3–2]]
+
+|match_PRK_KOR=<s>[[2022 FIFA World Cup qualification – AFC second round#PRK v KOR|0–0]]</s>
+|match_PRK_LBN=<s>[[2022 FIFA World Cup qualification – AFC second round#PRK v LBN|2–0]]</s>
+|match_PRK_TKM=<s>[[2022 FIFA World Cup qualification – AFC second round#PRK v TKM|{{small|Canc.}}]]</s>
+|match_PRK_SRI=<s>[[2022 FIFA World Cup qualification – AFC second round#PRK v SRI|{{small|Canc.}}]]</s>
+
+|match_TKM_KOR=[[2022 FIFA World Cup qualification – AFC second round#TKM v KOR|0–2]]
+|match_TKM_LBN=[[2022 FIFA World Cup qualification – AFC second round#TKM v LBN|3–2]]
+|match_TKM_PRK=<s>[[2022 FIFA World Cup qualification – AFC second round#TKM v PRK|3–1]]</s>
+|match_TKM_SRI=[[2022 FIFA World Cup qualification – AFC second round#TKM v SRI|2–0]]
+
+|match_SRI_KOR=[[2022 FIFA World Cup qualification – AFC second round#SRI v KOR|0–5]]
+|match_SRI_LBN=[[2022 FIFA World Cup qualification – AFC second round#SRI v LBN|0–3]]
+|match_SRI_PRK=<s>[[2022 FIFA World Cup qualification – AFC second round#SRI v PRK|0–1]]</s>
+|match_SRI_TKM=[[2022 FIFA World Cup qualification – AFC second round#SRI v TKM|0–2]]
+
+<!--Qualification column definitions-->
+|res_col_header=Q
+|result1=1st |result2=1st |result3=3rd |result4=3rd |result5=5th
+|col_1st=green1 |text_1st=[[2022 FIFA World Cup qualification – AFC third round|World Cup qualifying third round]] and [[2023 AFC Asian Cup|Asian Cup]]
+|col_3rd=blue1 |text_3rd=[[2023 AFC Asian Cup qualification – third round|Asian Cup qualifying third round]]
+|col_5th=black1 |text_5th=Withdrew
+}}</onlyinclude>
+{{Football box
+|id         = PRK v LBN
+|date       = {{Start date|2019|9|5|df=y}}
+|time       = {{UTZ|17:30|9}}
+|team1      = {{fb-rt|PRK}}
+|score      = Voided<br/>(2–0)
+|team2      = {{fb|LBN}}
+|goals1     =
+*[[Jong Il-gwan]] {{goal|7||56}}
+|goals2     =
+|stadium    = [[Kim Il-sung Stadium]], [[Pyongyang]]
+|attendance = 40,000
+|referee    = Sherzod Kasimov ([[Uzbekistan Football Association|Uzbekistan]])
+|report     = [https://www.fifa.com/tournaments/mens/worldcup/qatar2022/qualifiers/afc/match-center/400080630 Report (FIFA)]<br />[http://stats.the-afc.com/match_report/16285 Report (AFC)]
+}}
+{{Football box
+|id         = SRI v TKM
+|date       = {{Start date|2019|9|5|df=y}}
+|time       = {{UTZ|19:30|5:30}}
+|team1      = {{fb-rt|SRI}}
+|score      = 0–2
+|team2      = {{fb|TKM}}
+|goals1     =
+|goals2     =
+*[[Wahyt Orazsähedow|Orazsähedow]] {{goal|8}}
+*[[Arslanmyrat Amanow|Amanow]] {{goal|53}}
+|stadium    = [[Colombo Racecourse]], [[Colombo]]
+|attendance = 1,120
+|referee    = Mohammed Al-Hoish ([[Saudi Arabian Football Federation|Saudi Arabia]])
+|report     = [https://www.fifa.com/tournaments/mens/worldcup/qatar2022/qualifiers/afc/match-center/400080631 Report (FIFA)]<br />[http://stats.the-afc.com/match_report/16286 Report (AFC)]
+}}
+----
+{{Football box
+|id         = TKM v KOR
+|date       = {{Start date|2019|9|10|df=y}}
+|time       = {{UTZ|19:00|5}}
+|team1      = {{fb-rt|TKM}}
+|score      = 0–2
+|team2      = {{fb|KOR}}
+|goals1     =
+|goals2     =
+*[[Na Sang-ho]] {{goal|13}}
+*[[Jung Woo-young]] {{goal|82}}
+|stadium    = [[Köpetdag Stadium]], [[Ashgabat]]
+|attendance = 26,000
+|referee    = [[Ammar Al-Jeneibi]] ([[United Arab Emirates Football Association|United&nbsp;Arab&nbsp;Emirates]])
+|report     = [https://www.fifa.com/tournaments/mens/worldcup/qatar2022/qualifiers/afc/match-center/400080632 Report (FIFA)]<br />[http://stats.the-afc.com/match_report/16287 Report (AFC)]
+}}
+{{Football box
+|id         = SRI v PRK
+|date       = {{Start date|2019|9|10|df=y}}
+|time       = {{UTZ|19:30|5:30}}
+|team1      = {{fb-rt|SRI}}
+|score      = Voided<br/>(0–1)
+|team2      = {{fb|PRK}}
+|goals1     =
+|goals2     =
+*[[Jang Kuk-chol]] {{goal|67}}
+|stadium    = [[Colombo Racecourse]], [[Colombo]]
+|attendance = 1,258
+|referee    = Timur Faizullin ([[Football Federation of the Kyrgyz Republic|Kyrgyzstan]])
+|report     = [https://www.fifa.com/tournaments/mens/worldcup/qatar2022/qualifiers/afc/match-center/400080633 Report (FIFA)]<br />[http://stats.the-afc.com/match_report/16288 Report (AFC)]
+}}
+----
+{{Football box
+|id         = KOR v SRI
+|date       = {{Start date|2019|10|10|df=y}}
+|time       = {{UTZ|20:00|9}}
+|team1      = {{fb-rt|KOR}}
+|score      = 8–0
+|team2      = {{fb|SRI}}
+|goals1     =
+*[[Son Heung-min]] {{goal|10||45+5|pen.}}
+*[[Kim Shin-wook]] {{goal|17||30||54||64}}
+*[[Hwang Hee-chan]] {{goal|20}}
+*[[Kwon Chang-hoon]] {{goal|76}}
+|goals2     =
+|stadium    = [[Hwaseong Stadium]], [[Hwaseong, Gyeonggi|Hwaseong]]
+|attendance = 23,522
+|referee    = Hasan Akrami ([[Football Federation Islamic Republic of Iran|Iran]])
+|report     = [https://www.fifa.com/tournaments/mens/worldcup/qatar2022/qualifiers/afc/match-center/400080634 Report (FIFA)]<br />[http://stats.the-afc.com/match_report/16289 Report (AFC)]
+}}
+{{Football box
+|id         = LBN v TKM
+|date       = {{Start date|2019|10|10|df=y}}
+|time       = {{UTZ|19:00|3}}
+|team1      = {{fb-rt|LBN}}
+|score      = 2–1
+|team2      = {{fb|TKM}}
+|goals1     =
+*[[Hilal El-Helwe|El-Helwe]] {{goal|5}}
+*[[Nader Matar|Matar]] {{goal|64}}
+|goals2     =
+*[[Altymyrat Annadurdyýew|Annadurdyýew]] {{goal|62}}
+|stadium    = [[Camille Chamoun Sports City Stadium]], [[Beirut]]
+|attendance = 7,820
+|referee    = Takuto Okabe ([[Japan Football Association|Japan]])
+|report     = [https://www.fifa.com/tournaments/mens/worldcup/qatar2022/qualifiers/afc/match-center/400080635 Report (FIFA)]<br />[http://stats.the-afc.com/match_report/16290 Report (AFC)]
+}}
+----
+{{Football box
+|id         = PRK v KOR
+|date       = {{Start date|2019|10|15|df=y}}
+|time       = {{UTZ|17:30|9}}
+|team1      = {{fb-rt|PRK}}
+|score      = Voided<br/>(0–0)
+|team2      = {{fb|KOR}}
+|goals1     =
+|goals2     =
+|stadium    = [[Kim Il-sung Stadium]], [[Pyongyang]]
+|attendance = 100
+|referee    = [[Abdulrahman Al-Jassim]] ([[Qatar Football Association|Qatar]])
+|report     = [https://www.fifa.com/tournaments/mens/worldcup/qatar2022/qualifiers/afc/match-center/400080637 Report (FIFA)]<br />[http://stats.the-afc.com/match_report/16292 Report (AFC)]
+}}
+{{Football box
+|id         = SRI v LBN
+|date       = {{Start date|2019|10|15|df=y}}
+|time       = {{UTZ|19:30|5:30}}
+|team1      = {{fb-rt|SRI}}
+|score      = 0–3
+|team2      = {{fb|LBN}}
+|goals1     =
+|goals2     =
+*[[Hassan Maatouk|Maatouk]] {{goal|15|pen.}}
+*[[Hilal El-Helwe|El-Helwe]] {{goal|38|pen.|81}}
+|stadium    = [[Colombo Racecourse]], [[Colombo]]
+|attendance = 1,052
+|referee    = Ammar Mahfoodh ([[Bahrain Football Association|Bahrain]])
+|report     = [https://www.fifa.com/tournaments/mens/worldcup/qatar2022/qualifiers/afc/match-center/400080636 Report (FIFA)]<br />[http://stats.the-afc.com/match_report/16291 Report (AFC)]
+}}
+----
+{{Football box
+|id         = TKM v PRK
+|date       = {{Start date|2019|11|14|df=y}}
+|time       = {{UTZ|16:00|5}}
+|team1      = {{fb-rt|TKM}}
+|score      = Voided<br/>(3–1)
+|team2      = {{fb|PRK}}
+|goals1     =
+*[[Mihail Titow|Titow]] {{goal|23}}
+*[[Arslanmyrat Amanow|Amanow]] {{goal|73}}
+*[[Wahyt Orazsähedow|Orazsähedow]] {{goal|88}}
+|goals2     =
+*[[Han Kwang-song]] {{goal|90+3}}
+|stadium    = [[Köpetdag Stadium]], [[Ashgabat]]
+|attendance = 26,500
+|referee    = [[Sivakorn Pu-udom]] ([[Football Association of Thailand|Thailand]])
+|report     = [https://www.fifa.com/tournaments/mens/worldcup/qatar2022/qualifiers/afc/match-center/400080666 Report (FIFA)]<br />[http://stats.the-afc.com/match_report/16293 Report (AFC)]
+}}
+{{Football box
+|id         = LBN v KOR
+|date       = {{Start date|2019|11|14|df=y}}
+|time       = {{UTZ|15:00|2}}
+|team1      = {{fb-rt|LBN}}
+|score      = 0–0
+|team2      = {{fb|KOR}}
+|goals1     =
+|goals2     =
+|stadium    = [[Camille Chamoun Sports City Stadium]], [[Beirut]]
+|attendance = 170{{refn|The Lebanon matches versus South Korea and North Korea were played behind closed doors due to security reasons regarding the [[2019–20 Lebanese protests|Lebanese protests]].<ref>{{Cite web |url=https://www.the-afc.com/competitions/afc-asian-cup/news/lebanon-korea-republic-match-to-be-played-behind-closed-doors |title=Lebanon-Korea Republic match to be played behind closed doors |publisher=AFC |date=14 November 2019 |archive-url=https://web.archive.org/web/20201116071911/https://www.the-afc.com/competitions/afc-asian-cup/news/lebanon-korea-republic-match-to-be-played-behind-closed-doors |archive-date=16 November 2020 |url-status=dead}}</ref><ref>{{Cite web |url=https://www.the-afc.com/competitions/afc-asian-cup/news/lebanon-dpr-korea-match-to-be-played-behind-closed-doors |title=Lebanon-DPR Korea match to be played behind closed doors |publisher=AFC |date=19 November 2019 |archive-url=https://web.archive.org/web/20191228124712/https://www.the-afc.com/competitions/afc-asian-cup/news/lebanon-dpr-korea-match-to-be-played-behind-closed-doors |archive-date=28 December 2019 |url-status=dead}}</ref>|group="note"|name="LBNNSK"}}
+|referee    = [[Mohanad Qasim Sarray|Mohanad Qasim]] ([[Iraq Football Association|Iraq]])
+|report     = [https://www.fifa.com/tournaments/mens/worldcup/qatar2022/qualifiers/afc/match-center/400080667 Report (FIFA)]<br />[http://stats.the-afc.com/match_report/16294 Report (AFC)]
+}}
+----
+{{Football box
+|id         = TKM v SRI
+|date       = {{Start date|2019|11|19|df=y}}
+|time       = {{UTZ|16:00|5}}
+|team1      = {{fb-rt|TKM}}
+|score      = 2–0
+|team2      = {{fb|SRI}}
+|goals1     =
+*[[Abdy Bäşimow|Bäşimow]] {{goal|44}}
+*[[Altymyrat Annadurdyýew|Annadurdyýew]] {{goal|59}}
+|goals2     =
+|stadium    = [[Köpetdag Stadium]], [[Ashgabat]]
+|attendance = 26,304
+|referee    = Saoud Al-Adba ([[Qatar Football Association|Qatar]])
+|report     = [https://www.fifa.com/tournaments/mens/worldcup/qatar2022/qualifiers/afc/match-center/400080669 Report (FIFA)]<br />[http://stats.the-afc.com/match_report/16296 Report (AFC)]
+}}
+{{Football box
+|id         = LBN v PRK
+|date       = {{Start date|2019|11|19|df=y}}
+|time       = {{UTZ|19:00|2}}
+|team1      = {{fb-rt|LBN}}
+|score      = Voided<br />(0–0)
+|team2      = {{fb|PRK}}
+|goals1     = 
+|goals2     = 
+|stadium    = [[Camille Chamoun Sports City Stadium]], [[Beirut]]
+|attendance = 0{{refn|group="note"|name="LBNNSK"}}
+|referee    = [[Yaqoob Abdul Baki]] ([[Oman Football Association|Oman]])
+|report     = [https://www.fifa.com/tournaments/mens/worldcup/qatar2022/qualifiers/afc/match-center/400080668 Report (FIFA)]<br />[http://stats.the-afc.com/match_report/16295 Report (AFC)]
+}}
+----
+{{Football box
+|id         = PRK v SRI
+|date       = {{Start date|2021|6|3|df=y}}{{refn|group="note"|name=md7}}
+|time       = {{UTZ|15:00|9}}
+|team1      = {{fb-rt|PRK}}
+|score      = Cancelled
+|team2      = {{fb|SRI}}
+|goals1     =
+|goals2     =
+|stadium    = [[Goyang Stadium]], [[Goyang]] (South Korea){{refn|group="note"|name=centralised}}
+|attendance =
+|referee    =
+|report     = [http://stats.the-afc.com/match_report/16298 Report (AFC)]
+}}
+----
+{{Football box
+|id         = LBN v SRI
+|date       = {{Start date|2021|6|5|df=y}}{{refn|group="note"|name=md9}}
+|time       = {{UTZ|15:00|9}}
+|team1      = {{fb-rt|LBN}}
+|score      = 3–2
+|team2      = {{fb|SRI}}
+|goals1     =
+*[[Joan Oumari|Oumari]] {{goal|11||44}}
+*[[Mohamad Kdouh (footballer, born 1997)|Kdouh]] {{goal|17}}
+|goals2     =
+*[[Ahmed Waseem Razeek|Razeek]] {{goal|10||61|pen.}}
+|stadium    = [[Goyang Stadium]], [[Goyang]] (South Korea){{refn|group="note"|name=centralised}}
+|attendance = 73
+|referee    = Ahmad Yacoub Ibrahim ([[Jordan Football Association|Jordan]])
+|report     = [https://www.fifa.com/tournaments/mens/worldcup/qatar2022/qualifiers/afc/match-center/400080674 Report (FIFA)]<br />[http://stats.the-afc.com/match_report/16301 Report (AFC)]
+}}
+{{Football box
+|id         = KOR v TKM
+|date       = {{Start date|2021|6|5|df=y}}{{refn|group="note"|name=md7}}
+|time       = {{UTZ|20:00|9}}
+|team1      = {{fb-rt|KOR}}
+|score      = 5–0
+|team2      = {{fb|TKM}}
+|goals1     =
+*[[Hwang Ui-jo]] {{goal|9||72}}
+*[[Nam Tae-hee]] {{goal|45+2}}
+*[[Kim Young-gwon]] {{goal|56}}
+*[[Kwon Chang-hoon]] {{goal|62}}
+|stadium    = [[Goyang Stadium]], [[Goyang]]{{refn|group="note"|name=centralised}}
+|attendance = 3,932
+|referee    = [[Turki Al-Khudhayr]] ([[Saudi Arabian Football Federation|Saudi Arabia]])
+|report     = [https://www.fifa.com/tournaments/mens/worldcup/qatar2022/qualifiers/afc/match-center/400176832 Report (FIFA)]<br />[http://stats.the-afc.com/match_report/16297 Report (AFC)]
+}}
+----
+{{Football box
+|id         = KOR v PRK
+|date       = {{Start date|2021|6|7|df=y}}{{refn|group="note"|name=md9}}
+|time       = {{UTZ|20:00|9}}
+|team1      = {{fb-rt|KOR}}
+|score      = Cancelled
+|team2      = {{fb|PRK}}
+|goals1     =
+|goals2     =
+|stadium    = [[Goyang Stadium]], [[Goyang]]{{refn|group="note"|name=centralised}}
+|attendance =
+|referee    =
+|report     = [http://stats.the-afc.com/match_report/16302 Report (AFC)]
+}}
+----
+{{Football box
+|id         = TKM v LBN
+|date       = {{Start date|2021|6|9|df=y}}{{refn|group="note"|name=md8}}
+|time       = {{UTZ|15:00|9}}
+|team1      = {{fb-rt|TKM}}
+|score      = 3–2
+|team2      = {{fb|LBN}}
+|goals1     =
+*[[Zafar Babajanow|Babajanow]] {{goal|59}}
+*[[Güýçmyrat Annagulyýew|Annagulyýew]] {{goal|85}}
+*[[Altymyrat Annadurdyýew|Annadurdyýew]] {{goal|90+1}}
+|goals2     =
+*[[Rabih Ataya|Ataya]] {{goal|73}}
+*[[Soony Saad|Saad]] {{goal|75}}
+|stadium    = [[Goyang Stadium]], [[Goyang]] (South Korea){{refn|group="note"|name=centralised}}
+|attendance = 52
+|referee    = Hanna Hattab ([[Syria Football Association|Syria]])
+|report     = [https://www.fifa.com/tournaments/mens/worldcup/qatar2022/qualifiers/afc/match-center/400176834 Report (FIFA)]<br />[http://stats.the-afc.com/match_report/16300 Report (AFC)]
+}}
+{{Football box
+|id         = SRI v KOR
+|date       = {{Start date|2021|6|9|df=y}}{{refn|group="note"|name=md8}}
+|time       = {{UTZ|20:00|9}}
+|team1      = {{fb-rt|SRI}}
+|score      = 0–5
+|team2      = {{fb|KOR}}
+|goals1     =
+|goals2     =
+*[[Kim Shin-wook]] {{goal|14||42|pen.}}
+*[[Lee Dong-gyeong]] {{goal|22}}
+*[[Hwang Hee-chan]] {{goal|53}}
+*[[Jeong Sang-bin]] {{goal|77}}
+|stadium    = [[Goyang Stadium]], [[Goyang]] (South Korea){{refn|group="note"|name=centralised}}
+|attendance = 4,008
+|referee    = [[Shen Yinhao]] ([[Chinese Football Association|China]])
+|report     = [https://www.fifa.com/tournaments/mens/worldcup/qatar2022/qualifiers/afc/match-center/400176833 Report (FIFA)]<br />[http://stats.the-afc.com/match_report/16299 Report (AFC)]
+}}
+----
+{{Football box
+|id         = KOR v LBN
+|date       = {{Start date|2021|6|13|df=y}}{{refn|group="note"|name=md10}}
+|time       = {{UTZ|15:00|9}}
+|team1      = {{fb-rt|KOR}}
+|score      = 2–1
+|team2      = {{fb|LBN}}
+|goals1     = 
+*[[Maher Sabra|Sabra]] {{goal|50|o.g.}}
+*[[Son Heung-min]] {{goal|65|pen.}}
+|goals2     =
+*[[Soony Saad|Saad]] {{goal|12}}
+|stadium    = [[Goyang Stadium]], [[Goyang]]{{refn|group="note"|name=centralised}}
+|attendance = 4,061
+|referee    = [[Khamis Al-Marri]] ([[Qatar Football Association|Qatar]])
+|report     = [https://www.fifa.com/tournaments/mens/worldcup/qatar2022/qualifiers/afc/match-center/400080677 Report (FIFA)]<br />[http://stats.the-afc.com/match_report/16304 Report (AFC)]
+}}
+----
+{{Football box
+|id         = PRK v TKM
+|date       = {{Start date|2021|6|15|df=y}}{{refn|group="note"|name=md10}}
+|time       = {{UTZ|15:00|9}}
+|team1      = {{fb-rt|PRK}}
+|score      = Cancelled
+|team2      = {{fb|TKM}}
+|goals1     =
+|goals2     =
+|stadium    = [[Goyang Stadium]], [[Goyang]] (South Korea){{refn|group="note"|name=centralised}}
+|attendance =
+|referee    =
+|report     = [http://stats.the-afc.com/match_report/16303 Report (AFC)]
+}}
+'''Goalscorers'''
+
+{{#invoke:Goalscorers|main|2022 FIFA World Cup qualification (AFC)|round=group|group=H}}<!--CAREFULLY update goalscorers at Module:Goalscorers/data/2022 FIFA World Cup qualification (AFC)-->
+
+==Ranking of runner-up teams==
+Group H contained only four teams compared to five teams in all other groups after North Korea withdrew. Therefore, the results against the fifth-placed team were not counted when determining the ranking of the runner-up teams.<ref name="AFC 0527"/>
+
+<onlyinclude>{{#invoke:Sports table|main|style=WDL
+|section=Second place
+|class_rules=[[2022 FIFA World Cup qualification#Tiebreakers|Tiebreakers]]
+|source=FIFA
+
+<!--Update team positions below (check tiebreakers)-->
+|team_order=GrA, GrE, GrC, GrG, GrH, GrF, GrD, GrB
+
+<!--Update team results below (including date)-->
+|update=complete
+|win_GrA=4 |draw_GrA=1 |loss_GrA=1 |gf_GrA=16|ga_GrA=3
+|win_GrB=2 |draw_GrB=2 |loss_GrB=2 |gf_GrB=8 |ga_GrB=6
+|win_GrC=3 |draw_GrC=2 |loss_GrC=1 |gf_GrC=6 |ga_GrC=3
+|win_GrD=3 |draw_GrD=0 |loss_GrD=3 |gf_GrD=12|ga_GrD=9
+|win_GrE=4 |draw_GrE=0 |loss_GrE=2 |gf_GrE=9 |ga_GrE=5
+|win_GrF=3 |draw_GrF=1 |loss_GrF=2 |gf_GrF=7 |ga_GrF=8
+|win_GrG=3 |draw_GrG=2 |loss_GrG=1 |gf_GrG=6 |ga_GrG=4
+|win_GrH=3 |draw_GrH=1 |loss_GrH=2 |gf_GrH=11|ga_GrH=8
+
+<!--Team definitions-->
+|name_GrA={{fb|CHN}} 
+|name_GrB={{fb|KUW}}
+|name_GrC={{fb|IRQ}}
+|name_GrD={{fb|UZB}}
+|name_GrE={{fb|OMA}}
+|name_GrF={{fb|TJK}}
+|name_GrG={{fb|VIE}}
+|name_GrH={{fb|LBN}}
+
+<!--Group definitions-->
+|show_groups=yes
+|group_GrA=[[#Group A|A]]
+|group_GrB=[[#Group B|B]]
+|group_GrC=[[#Group C|C]]
+|group_GrD=[[#Group D|D]]
+|group_GrE=[[#Group E|E]]
+|group_GrF=[[#Group F|F]]
+|group_GrG=[[#Group G|G]]
+|group_GrH=[[#Group H|H]]
+
+<!--Qualification column definitions-->
+|res_col_header=Q
+|result1=WCQR3 |result2=WCQR3 |result3=WCQR3 |result4=WCQR3 |result5=WCQR3 |result6=ACQR3 |result7=ACQR3 |result8=ACQR3
+|col_WCQR3=green1 |text_WCQR3=[[2022 FIFA World Cup qualification – AFC third round|World Cup qualifying third round]] and [[2023 AFC Asian Cup|Asian Cup]]
+|col_ACQR3=blue1 |text_ACQR3=[[2023 AFC Asian Cup qualification – third round|Asian Cup qualifying third round]]
+
+}}</onlyinclude>
+
+==Ranking of fifth-placed teams==
+
+<onlyinclude>{{#invoke:Sports table|main|style=WDL
+|section=Fifth place
+|class_rules=[[2022 FIFA World Cup qualification#Tiebreakers|Tiebreakers]]
+|source=FIFA
+
+<!--Update team positions below (check tiebreakers)-->
+|team_order=GrF, GrD, GrE, GrG, GrC, GrB, GrA
+
+<!--Update team results below (including date)-->
+|update=complete
+|win_GrA=0 |draw_GrA=0 |loss_GrA=8 |gf_GrA=2 |ga_GrA=32
+|win_GrB=0 |draw_GrB=0 |loss_GrB=8 |gf_GrB=4 |ga_GrB=34
+|win_GrC=0 |draw_GrC=1 |loss_GrC=7 |gf_GrC=2 |ga_GrC=44
+|win_GrD=1 |draw_GrD=2 |loss_GrD=5 |gf_GrD=6 |ga_GrD=18
+|win_GrE=0 |draw_GrE=2 |loss_GrE=6 |gf_GrE=3 |ga_GrE=19
+|win_GrF=2 |draw_GrF=0 |loss_GrF=6 |gf_GrF=6 |ga_GrF=35
+|win_GrG=0 |draw_GrG=1 |loss_GrG=7 |gf_GrG=5 |ga_GrG=27
+
+<!--Team definitions-->
+|name_GrA={{fb|GUM}}
+|name_GrB={{fb|TPE}}
+|name_GrC={{fb|CAM}}
+|name_GrD={{fb|YEM}}
+|name_GrE={{fb|BAN}}
+|name_GrF={{fb|MYA}}
+|name_GrG={{fb|IDN}}
+
+<!--Group definitions-->
+|show_groups=yes
+|group_GrA=[[#Group A|A]]
+|group_GrB=[[#Group B|B]]
+|group_GrC=[[#Group C|C]]
+|group_GrD=[[#Group D|D]]
+|group_GrE=[[#Group E|E]]
+|group_GrF=[[#Group F|F]]
+|group_GrG=[[#Group G|G]]
+
+<!--Qualification column definitions-->
+|res_col_header=Q
+|result1=ACQR3 |result2=ACQR3 |result3=ACQR3 |result4=ACQPO |result5=ACQPO |result6=ACQPO |result7=ACQPO
+|col_ACQR3=blue1 |text_ACQR3=[[2023 AFC Asian Cup qualification – third round|Asian Cup qualifying third round]]
+|col_ACQPO=yellow1 |text_ACQPO=[[2023 AFC Asian Cup qualification – Play-off Round|Asian Cup qualifying play-off round]]
+}}</onlyinclude>
+
+==Notes==
+{{reflist|group=note}}
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{Official website|https://www.fifa.com/tournaments/mens/worldcup/qatar2022/qualifiers|Official FIFA World Cup website}}
+*[https://www.fifa.com/tournaments/mens/worldcup/qatar2022/qualifiers/afc Qualifiers – Asia Matches: Round 2], FIFA.com
+*[https://www.the-afc.com/en/national/fifa_world_cup.html FIFA World Cup], the-AFC.com
+*[https://www.the-afc.com/en/national/afc_asian_cup.html AFC Asian Cup], the-AFC.com
+*[http://stats.the-afc.com/tournaments/281 Preliminary Joint Qualification 2022], stats.the-AFC.com
+
+{{2022 FIFA World Cup qualifiers}}
+{{2023 AFC Asian Cup}}
+
+{{DEFAULTSORT:2022 FIFA World Cup qualification - AFC second round}}
+[[Category:2022 FIFA World Cup qualification (AFC)|2]]
+[[Category:2023 AFC Asian Cup qualification|2]]
+[[Category:2019 in Asian football]]
+[[Category:2020 in Asian football]]
+[[Category:2021 in Asian football]]
+[[Category:September 2019 sports events in Asia|FIFA World Cup qualification, AFC Round 2]]
+[[Category:October 2019 sports events in Asia|FIFA World Cup qualification, AFC Round 2]]
+[[Category:November 2019 sports events in Asia|FIFA World Cup qualification, AFC Round 2]]
+[[Category:December 2020 sports events in Asia|FIFA World Cup qualification, AFC Round 2]]
+[[Category:March 2021 sports events in Asia|FIFA World Cup qualification, AFC Round 2]]
+[[Category:May 2021 sports events in Asia|FIFA World Cup qualification, AFC Round 2]]
+[[Category:June 2021 sports events in Asia|FIFA World Cup qualification, AFC Round 2]]
+[[Category:Association football events postponed due to the COVID-19 pandemic|FIFA World Cup qualification (AFC), Second round, 2021]]
+[[Category:Australia at the 2022 FIFA World Cup]]
+[[Category:Iran at the 2022 FIFA World Cup]]
+[[Category:Japan at the 2022 FIFA World Cup]]
+[[Category:Saudi Arabia at the 2022 FIFA World Cup]]
+[[Category:South Korea at the 2022 FIFA World Cup]]

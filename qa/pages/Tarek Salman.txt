@@ -1,0 +1,128 @@
+{{Short description|Qatari footballer}}
+{{Use dmy dates|date=November 2022}}
+{{Infobox football biography
+| name = Tarek Salman
+| image = Tarek Salman.jpg
+| caption = Salman with [[Qatar national football team|Qatar]] at the [[2019 AFC Asian Cup]]
+| full_name = Tarek Salman Suleiman Odeh
+| birth_date = {{birth date and age|1997|12|5|df=yes}}<ref name="FCWC 2019">{{cite web |url=https://tournament.fifadata.com/documents/FCWC/2019/pdf/FCWC_2019_SQUADLISTS.PDF |title=FIFA Club World Cup Qatar 2019: List of Players: Al-Sadd SC |publisher=FIFA |page=2 |date=5 December 2019 |archive-url=https://web.archive.org/web/20191205105526/https://tournament.fifadata.com/documents/FCWC/2019/pdf/FCWC_2019_SQUADLISTS.PDF |archive-date=5 December 2019 |url-status=dead}}</ref>
+| birth_place = [[Al Wakrah]], Qatar
+| height = 1.79 m
+| currentclub = [[Al Sadd SC|Al Sadd]]
+| clubnumber = 6
+| position = [[Defender (association football)|Defender]]
+| youthyears1 = 
+| youthclubs1 = [[Al-Wakrah SC]]
+| youthyears2 = 
+| youthclubs2 = [[Al-Duhail SC|Lekhwiya]]
+| youthyears3 = 
+| youthclubs3 = [[Real Sociedad]]
+| youthyears4 = 
+| youthclubs4 = [[Deportivo Alavés]]
+| years1 = 2016–2017
+| clubs1 = [[Júpiter Leonés]]
+| caps1 = 10
+| goals1 = 0
+| years2 = 2017–2018
+| clubs2 = → [[Atlético Astorga FC|Atlético Astorga]] (loan)
+| caps2 = 2
+| goals2 = 0
+| years3 = 2018–
+| clubs3 = [[Al Sadd SC|Al Sadd]]
+| caps3 = 76
+| goals3 = 0
+| nationalyears1 = 2013–2017
+| nationalteam1 = [[Qatar national under-20 football team|Qatar U20]]
+| nationalcaps1 = 10
+| nationalgoals1 = 
+| nationalyears2 = 2016–2020
+| nationalteam2 = [[Qatar national under-23 football team|Qatar U23]]
+| nationalcaps2 = 12
+| nationalgoals2 = 
+| nationalyears3 = 2017–
+| nationalteam3 = [[Qatar national football team|Qatar]]
+| nationalcaps3 = 64
+| nationalgoals3 = 0
+| club-update = 18 October 2022 (UTC)
+| ntupdate = 3 July 2023 (UTC)
+| medaltemplates = {{MedalCountry|{{fb|QAT}}}}
+{{MedalSport|Men's [[Association football|Football]]}}
+{{MedalCompetition|[[AFC Asian Cup]]}}
+{{Medal|Winner|[[2019 AFC Asian Cup|2019]]|}}
+{{MedalComp|[[FIFA Arab Cup]]}}
+{{Medal|3rd|[[2021 FIFA Arab Cup|2021]]|}}
+}}
+
+'''Tarek Salman Suleiman Odeh''' ({{lang-ar|طارق سلمان سليمان عودة}}; born 5 December 1997) is a [[Qatar]]i [[football (soccer)|footballer]] who plays as a [[midfielder]] for Qatari Club side [[Al Sadd SC|Al Sadd]] and the [[Qatar national football team|Qatar national team]].
+
+==Career==
+Tarek started off his youth career in his home-city; [[Al-Wakrah SC]], in which he led the team as a striker. Later on, he joined [[Aspire Academy]] in the 2008–09 season and excelled as defender.<ref>{{cite magazine|title=Headway|date=September 2016|publisher=Aspire Academy|page=10}}</ref> During his youth career, he played in Qatar for [[Al-Duhail SC|Lekhwiya]].<ref name="nueva"/> He later trained in Spain with [[Deportivo Alavés]]<ref name="campos">{{cite web|url=http://cadenaser.com/emisora/2016/11/09/radio_leon/1478688827_316981.html|title=Abdullah abre camino a Tarek|publisher=Cadena SER|language=Spanish|author=Pablo Campos|date=9 November 2016|accessdate=6 October 2017}}</ref> as well as [[Real Sociedad C]] in his youth years.<ref name="nueva">{{cite web|url=https://www.lanuevacronica.com/abdullah-al-ahrak-y-tarek-salman-mediocentros-para-la-cultural|title=Abdullah Al Ahrak y Tarek Salman, mediocentros para la Cultural|author=Jesús Coca Aguilera|language=Spanish|date=2 June 2016|accessdate=6 October 2017}}</ref>
+
+In November 2016, Salman started his senior career, joining Spanish side [[Cultural y Deportiva Leonesa|Cultural Leonesa]].<ref name="campos"/> He joined [[Tercera División]] club [[Atlético Astorga FC|Atlético Astorga]] in 2017.<ref>{{cite web|url=http://www.diariodeleon.es/noticias/deportes/atletico-astorga-sigue-espera-nuevos-fichajes_1178975.html|title=El Atlético Astorga sigue a la espera de nuevos fichajes|publisher=Diario de León|author=R. Arias|language=Spanish|date=5 August 2017|accessdate=6 October 2017}}</ref> He featured in a league match against [[SD Almazán|Almazán]] on 23 September 2017 which ended in a 1–1 draw.<ref>{{cite web|url=http://astorgaredaccion.com/not/16413/el-almazan-frena-la-euforia-del-comienzo-de-liga-del-astorga/|title=El Almazán frena la euforia del comienzo de liga del Astorga|publisher=Astorga Redacción|language=Spanish|date=23 September 2017|accessdate=6 October 2017}}</ref>
+
+==International career==
+He appeared in one match for [[Qatar national under-20 football team|Qatar's youth team]] in the [[2015 FIFA U-20 World Cup]].<ref>{{cite web|url=https://www.fifa.com/fifa-tournaments/players-coaches/people=386385/index.html|archive-url=https://web.archive.org/web/20150919043553/http://www.fifa.com/fifa-tournaments/players-coaches/people=386385/index.html|url-status=dead|archive-date=19 September 2015|title=Profile: Tarek Salman|publisher=FIFA|accessdate=7 September 2017}}</ref>
+
+==Honours==
+===Club===
+'''Al-Sadd'''
+* [[Qatar Stars League]]: [[2018–19 Qatar Stars League|2018–19]], [[2020-21 Qatar Stars League|2020-21]], [[2021-22 Qatar Stars League|2021-22]]
+* [[Qatar Cup]]: [[2020 Qatar Cup|2020]], [[2021 Qatar Cup|2021]]
+* [[Emir of Qatar Cup]]: [[2020 Emir of Qatar Cup]], [[2021 Emir of Qatar Cup]]
+* [[Qatari Stars Cup]]: [[2019-20 Qatari Stars Cup]]
+
+===International===
+'''Qatar'''
+*[[AFC Asian Cup]]: [[2019 AFC Asian Cup|2019]]
+
+==References==
+{{reflist}}
+
+==External links==
+* {{BDFutbol|21441}}
+* {{LaPreferente|228814<!-- /tarek -->}}
+* {{Soccerway|tarek-salman-salman/383257}}
+
+{{Al Sadd SC squad}}
+{{Navboxes
+|title=Qatar squads
+|bg=#660033
+|fg=white
+|bordercolor=white
+|list1=
+{{Qatar squad 2019 AFC Asian Cup}}
+{{Qatar squad 2019 Copa América}}
+{{Qatar squad 2021 CONCACAF Gold Cup}}
+{{Qatar squad 2022 FIFA World Cup}}
+{{Qatar squad 2023 CONCACAF Gold Cup}}
+}}
+
+{{DEFAULTSORT:Salman, Tarek}}
+[[Category:1997 births]]
+[[Category:Living people]]
+[[Category:Qatari men's footballers]]
+[[Category:Men's association football midfielders]]
+[[Category:Al-Wakrah SC players]]
+[[Category:Al-Duhail SC players]]
+[[Category:Aspire Academy (Qatar) players]]
+[[Category:Al Sadd SC players]]
+[[Category:Tercera División players]]
+[[Category:Qatar Stars League players]]
+[[Category:Cultural y Deportiva Leonesa players]]
+[[Category:Atlético Astorga FC players]]
+[[Category:Footballers at the 2018 Asian Games]]
+[[Category:2019 AFC Asian Cup players]]
+[[Category:AFC Asian Cup-winning players]]
+[[Category:Asian Games competitors for Qatar]]
+[[Category:2019 Copa América players]]
+[[Category:2021 CONCACAF Gold Cup players]]
+[[Category:Qatari expatriate men's footballers]]
+[[Category:Expatriate men's footballers in Spain]]
+[[Category:Qatari expatriate sportspeople in Spain]]
+[[Category:Qatar men's international footballers]]
+[[Category:Qatar men's youth international footballers]]
+[[Category:Qatar men's under-20 international footballers]]
+[[Category:2022 FIFA World Cup players]]
+[[Category:2023 CONCACAF Gold Cup players]]
+
+{{Qatar-footy-midfielder-stub}}

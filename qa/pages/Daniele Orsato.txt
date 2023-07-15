@@ -1,0 +1,67 @@
+{{Short description|Italian football referee}}
+{{Use dmy dates|date=November 2022}}	
+{{Infobox football official
+| name            = Daniele Orsato
+| image           = Daniele Orsato 2016 (cropped).jpg
+| caption         = Orsato in 2016
+| birth_date      = {{Birth date and age|df=yes|1975|11|23}}
+| birth_place     = [[Montecchio Maggiore]], Vicenza<!-- DO NOT LINK, see [[MOS:GEOLINK]] for further guidance -->, Veneto<!-- DO NOT LINK, see [[MOS:GEOLINK]] for further guidance -->, Italy
+| death_date      = 
+| death_place     = 
+| years1          = 
+| league1         = [[Serie A]]
+| role1           = Referee
+| internationalyears1 = 2010–
+| confederation1      = [[FIFA]] listed
+| internationalrole1  = Referee
+}}
+
+'''Daniele Orsato''' (born 23 November 1975)<ref>[http://worldreferee.com/site/copy.php?contextType=bio&linkType=referee&linkID=4203 Profile]</ref> is an Italian [[referee (association football)|football referee]]. Over his career, which spans three decades, Orsato has refereed a [[UEFA Champions League]] final and has received accolades from the [[International Federation of Football History & Statistics]], but he has also been the subject of much controversy. A mistake he made in a 2018 match between [[Inter Milan]] and [[Juventus]] handed the [[Serie A]] title to Juventus over rivals [[S.S.C. Napoli]]. Orsato himself acknowledged the mistake years later.<ref>{{cite news|title=L'arbitro Orsato ammette l'errore in Inter-Juve del 2018|publisher=[[La Repubblica]]|date=28 February 2021|url=https://napoli.repubblica.it/cronaca/2021/02/28/news/orsato_pjanic_napoli_juve_inter_proteste_tifosi-289660931/}}</ref> [[Ballon d'Or]] winner and [[Croatia national football team]] captain [[Luka Modrić]] has defined Orsato, who refereed the semi-final between Croatia and [[Argentina national football team|Argentina]] at the [[2022 FIFA World Cup]], as "one of the worst" referees, describing his performance in that game as "a disaster."<ref>{{cite news|publisher=Eurosport|title=Luka Modric says referee was a 'disaster' in Croatia's World Cup loss to Argentina, wishes Lionel Messi luck|url=https://www.eurosport.com/football/world-cup/2022/luka-modric-says-referee-was-a-disaster-in-croatia-s-world-cup-semi-final-loss-to-argentina-wishes-l_sto9273047/story.shtml|date=14 December 2022}}</ref>
+
+==Career==
+Orsato became a [[FIFA International Referees List|FIFA]] referee in 2010.<ref>FIFA. [https://web.archive.org/web/20070604201826/http://www.fifa.com/associations/association=ita/footballofficials/referees/peoplekind=ref.html "Italy: Referees"]. Retrieved on 17 May 2013.</ref> He has served as a referee in qualifying matches for the [[2014 FIFA World Cup qualification (UEFA)|2014 World Cup]]<ref>FIFA. [https://web.archive.org/web/20130727201614/http://www.fifa.com/worldcup/preliminaries/europe/matches/round=258374/match=300182358/report.html "Match Report - Moldova - Montenegro 0:1 (0:0)"]. 22 March 2013. Retrieved on 17 May 2013.</ref> and [[UEFA Euro 2012 qualification|Euro 2012]].<ref>UEFA. [http://www.uefa.com/uefaeuro/season=2012/matches/round=15171/match=2002268/postmatch/lineups/index.html "Georgia 1-2 Greece"]. 11 October 2011. Retrieved on 17 May 2013.</ref>
+
+Orsato refereed group stage matches in the [[2012–13 UEFA Champions League|2012–13]], [[2013–14 UEFA Champions League|2013–14]], and [[2014–15 UEFA Champions League]] competitions.<ref name=":0">{{Cite web|url=http://worldreferee.com/referee/orsato|title=Palmares for Daniele Orsato|website=WorldrReferee.com|access-date=15 March 2017}}</ref>
+
+In 2016, Orsato refereed the round of 16 match between [[PSV Eindhoven]] and [[Atlético Madrid]] in the [[2015–16 UEFA Champions League]].<ref name=":0" />
+
+On 14 March 2017, Orsato refereed the round of 16 match between [[Leicester City F.C.|Leicester City]] and [[Sevilla FC|Sevilla]] in the [[2016–17 UEFA Champions League]].<ref>{{Cite web|url=http://futbol.as.com/futbol/2017/03/12/champions/1489333597_347846.html|title=Orsato pitará en Leicester: con él, el Sevilla ganó en Villarreal|website=AS.com|access-date=15 March 2017}}</ref>
+
+On 1 July 2018, Orsato was appointed a VAR referee for the [[2018 FIFA World Cup]] match between Croatia and Denmark.
+
+On 12 February 2019, Orsato refereed the round of 16 first-leg matches between [[2018–19 UEFA Champions League knockout phase#Matches|Manchester United and PSG]] in the [[UEFA Champions League]]. He gave out 10 yellow cards (6 for [[Manchester United F.C.|Manchester United]] and 4 for [[Paris Saint-Germain F.C.|PSG]]) and sent off [[Paul Pogba]] in the 89th minute.
+
+Orsato refereed the [[2020 UEFA Champions League Final]] between [[Paris Saint-Germain F.C.|Paris Saint-Germain]] and [[FC Bayern Munich|Bayern Munich]].<ref>{{cite news |url=https://www.uefa.com/insideuefa/mediaservices/mediareleases/news/0260-102d0728ce34-c1031f033e1e-1000/ |title=Referee team appointed for UEFA Champions League final in Lisbon |work=UEFA |date=19 August 2020 |access-date=19 August 2020}}</ref>
+
+He also refereed the second leg of the 2021 UEFA Champions League semi-final between [[Chelsea F.C.|Chelsea]] and [[Real Madrid]].
+
+In 2020, Orsato was awarded by [[International Federation of Football History & Statistics|IFFHS]] as the best referee of that calendar year.<ref>{{Cite web|title=IFFHS|url=https://www.iffhs.com/posts/817|access-date=27 July 2021|website=www.iffhs.com}}</ref>
+
+On 20 November 2022, Orsato was appointed as the referee for the opening match of the [[2022 FIFA World Cup]] between hosts [[Qatar national football team|Qatar]] and [[Ecuador national football team|Ecuador]].<ref>{{Cite web|title=FIFA|url=https://www.fifa.com/fifaplus/en/match-centre/match/17/255711/285063/400128082|access-date=21 November 2022|website=www.fifa.com}}</ref>
+
+== References ==
+{{Reflist}}
+
+== External links ==
+* {{Sports links}}
+
+{{UEFA Elite Referees}}
+{{UEFA Champions League Final referees}}
+{{UEFA Euro 2020 referees}}
+{{2022 FIFA World Cup referees}}
+{{IFFHS World's Best Referee}}
+{{Serie A Referee of the Year}}
+
+{{DEFAULTSORT:Orsato, Daniele}}
+[[Category:1975 births]]
+[[Category:Living people]]
+[[Category:Sportspeople from Vicenza]]
+[[Category:Italian football referees]]
+[[Category:UEFA Champions League referees]]
+[[Category:2018 FIFA World Cup referees]]
+[[Category:UEFA Euro 2020 referees]]
+[[Category:2022 FIFA World Cup referees]]
+[[Category:FIFA World Cup referees]]
+
+
+{{Italy-footy-bio-stub}}

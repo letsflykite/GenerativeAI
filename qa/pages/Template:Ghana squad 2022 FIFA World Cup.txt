@@ -1,0 +1,41 @@
+{{National squad
+ | name        = Ghana squad 2022 FIFA World Cup
+ | bg          = #CA1118
+ | fg          = #FBE816
+ | bordercolor = black
+ | country     = Ghana
+ | comp link   = 2022 FIFA World Cup
+ | comp        = 2022 FIFA World Cup
+ | p1          = [[Lawrence Ati-Zigi|Ati-Zigi]]
+ | p2          = [[Tariq Lamptey|Lamptey]]
+ | p3          = [[Denis Odoi|Odoi]]
+ | p4          = [[Mohammed Salisu|Salisu]]
+ | p5          = [[Thomas Partey|Partey]]
+ | p6          = [[Elisha Owusu|Owusu]]
+ | p7          = [[Abdul Fatawu Issahaku|Issahaku]]
+ | p8          = [[Daniel-Kofi Kyereh|Kyereh]]
+ | p9          = [[Jordan Ayew|J. Ayew]]
+ | p10         = [[André Ayew|A. Ayew]]&nbsp;([[Captain (association football)|c]])
+ | p11         = [[Osman Bukari|Bukari]]
+ | p12         = [[Ibrahim Danlad|Danlad]]
+ | p13         = [[Daniel Afriyie|Afriyie]]
+ | p14         = [[Gideon Mensah (footballer, born 1998)|Mensah]]
+ | p15         = [[Joseph Aidoo (Ghanaian footballer)|Aidoo]]
+ | p16         = [[Abdul Manaf Nurudeen|Manaf Nurudeen]]
+ | p17         = [[Baba Rahman|Rahman]]
+ | p18         = [[Daniel Amartey|Amartey]]
+ | p19         = [[Iñaki Williams|Williams]]
+ | p20         = [[Mohammed Kudus|Kudus]]
+ | p21         = [[Salis Abdul Samed|Abdul Samed]]
+ | p22         = [[Kamaldeen Sulemana|Sulemana]]
+ | p23         = [[Alexander Djiku|Djiku]]
+ | p24         = [[Kamal Sowah|Sowah]]
+ | p25         = [[Antoine Semenyo|Semenyo]]
+ | p26         = [[Alidu Seidu|Seidu]]
+ | coach       = [[Otto Addo|Addo]]
+}}<noinclude>
+{{Squad maintenance}}
+[[Category:2022 FIFA World Cup squad navigational boxes|Ghana]]
+[[Category:Ghana FIFA World Cup squad navigational boxes|2022]]
+[[Category:Ghana at the 2022 FIFA World Cup|squad]]
+</noinclude>

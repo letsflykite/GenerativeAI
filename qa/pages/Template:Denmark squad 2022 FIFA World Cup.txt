@@ -1,0 +1,41 @@
+{{National squad
+ | name        = Denmark squad 2022 FIFA World Cup
+ | bg          = #E11B22
+ | fg          = white
+ | bordercolor = #DCDCDC
+ | country     = Denmark
+ | comp link   = 2022 FIFA World Cup
+ | comp        = 2022 FIFA World Cup
+ | p1          = [[Kasper Schmeichel|Schmeichel]]
+ | p2          = [[Joachim Andersen (footballer)|Andersen]]
+ | p3          = [[Victor Nelsson|Nelsson]]
+ | p4          = [[Simon Kjær|Kjær]]&nbsp;([[Captain (association football)|c]])
+ | p5          = [[Joakim Mæhle|Mæhle]]
+ | p6          = [[Andreas Christensen|A. Christensen]]
+ | p7          = [[Mathias Jensen|Jensen]]
+ | p8          = [[Thomas Delaney|Delaney]]
+ | p9          = [[Martin Braithwaite|Braithwaite]]
+ | p10         = [[Christian Eriksen|Eriksen]]
+ | p11         = [[Andreas Skov Olsen|Skov Olsen]]
+ | p12         = [[Kasper Dolberg|Dolberg]]
+ | p13         = [[Rasmus Kristensen|Kristensen]]
+ | p14         = [[Mikkel Damsgaard|Damsgaard]]
+ | p15         = [[Christian Nørgaard|Nørgaard]]
+ | p16         = [[Oliver Christensen|O. Christensen]]
+ | p17         = [[Jens Stryger Larsen|Stryger Larsen]]
+ | p18         = [[Daniel Wass|Wass]]
+ | p19         = [[Jonas Wind|Wind]]
+ | p20         = [[Yussuf Poulsen|Poulsen]]
+ | p21         = [[Andreas Cornelius|Cornelius]]
+ | p22         = [[Frederik Rønnow|Rønnow]]
+ | p23         = [[Pierre-Emile Højbjerg|Højbjerg]]
+ | p24         = [[Robert Skov|R. Skov]]
+ | p25         = [[Jesper Lindstrøm|Lindstrøm]]
+ | p26         = [[Alexander Bah|Bah]]
+ | coach       = [[Kasper Hjulmand|Hjulmand]]
+}}<noinclude>
+{{Squad maintenance}}
+[[Category:2022 FIFA World Cup squad navigational boxes|Denmark]]
+[[Category:Denmark FIFA World Cup squad navigational boxes|2022]]
+[[Category:Denmark at the 2022 FIFA World Cup|squad]]
+</noinclude>

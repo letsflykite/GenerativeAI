@@ -1,0 +1,41 @@
+{{National squad
+ | name        = Serbia squad 2022 FIFA World Cup
+ | bg          = #C6363C
+ | fg          = white
+ | bordercolor = #0C4076
+ | country     = Serbia
+ | comp link   = 2022 FIFA World Cup
+ | comp        = 2022 FIFA World Cup
+ | p1          = [[Marko Dmitrović|Dmitrović]]
+ | p2          = [[Strahinja Pavlović|Pavlović]]
+ | p3          = [[Strahinja Eraković|Eraković]]
+ | p4          = [[Nikola Milenković|Milenković]]
+ | p5          = [[Miloš Veljković|Veljković]]
+ | p6          = [[Nemanja Maksimović|Maksimović]]
+ | p7          = [[Nemanja Radonjić|Radonjić]]
+ | p8          = [[Nemanja Gudelj|Gudelj]]
+ | p9          = [[Aleksandar Mitrović|A. Mitrović]]
+ | p10         = [[Dušan Tadić|Tadić]]&nbsp;([[Captain (association football)|c]])
+ | p11         = [[Luka Jović|Jović]]
+ | p12         = [[Predrag Rajković|Rajković]]
+ | p13         = [[Stefan Mitrović (footballer, born 1990)|S. Mitrović]]
+ | p14         = [[Andrija Živković|Živković]]
+ | p15         = [[Srđan Babić|Babić]]
+ | p16         = [[Saša Lukić|Lukić]]
+ | p17         = [[Filip Kostić|Kostić]]
+ | p18         = [[Dušan Vlahović|Vlahović]]
+ | p19         = [[Uroš Račić|Račić]]
+ | p20         = [[Sergej Milinković-Savić|S. Milinković-Savić]]
+ | p21         = [[Filip Đuričić|Đuričić]]
+ | p22         = [[Darko Lazović|Lazović]]
+ | p23         = [[Vanja Milinković-Savić|V. Milinković-Savić]]
+ | p24         = [[Ivan Ilić (footballer, born 2001)|Ilić]]
+ | p25         = [[Filip Mladenović|Mladenović]]
+ | p26         = [[Marko Grujić|Grujić]]
+ | coach       = [[Dragan Stojković|Stojković]]
+}}<noinclude>
+{{Squad maintenance}}
+[[Category:2022 FIFA World Cup squad navigational boxes|Serbia]]
+[[Category:Serbia FIFA World Cup squad navigational boxes|2022]]
+[[Category:Serbia at the 2022 FIFA World Cup|squad]]
+</noinclude>

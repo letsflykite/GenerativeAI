@@ -1,0 +1,38 @@
+{{short description|Rwandan football referee}}
+{{Use dmy dates|date=November 2022}}
+{{Infobox football official
+| name                = Salima Mukanzanga
+| birth_date          = {{birth year and age|1988}}
+| birth_place         = [[Rwanda]]
+| years1              = 
+| league1             = 
+| role1               = 
+| internationalyears1 = 2012-
+| confederation1      = [[FIFA International Referees List|FIFA listed]]
+| internationalrole1  = Referee
+}}
+'''Salima Mukansanga''' (born 1988) is an international [[association football|football]] [[referee (football)|referee]] from Rwanda who is a listed international referee for FIFA since 2012.<ref>{{Cite web |title=FIFA.com |url=https://digitalhub.fifa.com/m/7662513a8b75c7cc/original/2022-FIFA-Refereeing-International-Lists.pdf |website=FIFA.com}}</ref><ref>{{Cite web|url=https://au.soccerway.com/referees/salima-mukansanga/476647/|title = Rwanda - S. Mukansanga - Profile with news, career statistics and history - Soccerway}}</ref><ref>{{cite news |author1=Ed Dove |title=Meet Salima Mukansanga, the first woman set to referee an AFCON game |url=https://www.espn.com/soccer/africa-cup-of-nations/story/4567936/meet-salima-mukansangathe-first-woman-set-to-referee-an-afcon-game |access-date=19 January 2022 |work=[[ESPN]] |date=12 January 2022}}</ref> She was an official at the [[2019 FIFA Women's World Cup]] in France.<ref>{{Cite web|url=https://de.fifa.com/womensworldcup/news/aufgebot-der-spieloffiziellen-fur-die-fifa-frauen-wm-2019tm|title=FIFA}}</ref><ref>[https://digitalhub.fifa.com/m/1b485598f8f5a1cd/original/n8eqnjfvnrfpvqt0msyx-pdf.pdf FIFA.com]</ref> In 2022, Mukansanga became the first woman to referee at the [[Africa Cup of Nations|African Cup of Nations]],<ref>{{cite news |title=Referee Salima Mukansanga creates history, becomes first woman to take charge of AFCON match |url=https://www.wionews.com/sports/referee-salima-mukansanga-creates-history-becomes-first-woman-to-take-charge-of-afcon-match-445887 |access-date=19 January 2022 |work=[[WION]] |agency=Reuters |date=19 January 2022}}</ref> leading out an all-woman officiating team of Fatiha Jermoumi (Morocco), Carine Atemzabong (Cameroon), and Bouchra Karboubi (Morocco) as the VAR.<ref>{{Cite web|date=10 January 2022|title=Salima Mukansanga: First Female Referee at Afcon|url=https://www.kenyaforum.net/latest-articles/salima-mukansanga-becomes-first-female-referee-at-afcon/|access-date=10 January 2022|website=The Kenya Forum|language=en}}</ref> She has officiated at the [[Olympic Games|Olympics]], [[FIFA Women's World Cup]], [[Africa Women Cup of Nations]] and [[CAF Women's Champions League]]. In 2022 she was one of three women referees selected to officiate at the [[2022 FIFA World Cup|FIFA World Cup]] to be hosted in Qatar.<ref>{{Cite web |date=19 May 2022 |title=Female referees to officiate at men's World Cup for the first time |url=https://www.theguardian.com/football/2022/may/19/female-referees-to-officiate-at-mens-world-cup-for-the-first-time |access-date=19 May 2022 |website=the Guardian |language=en}}</ref> Mukansanga became the first female African to officiate at the men's top football event on 22 November 2022.<ref name=":0">{{Cite news |last=Nsabimana |first=Eddie |date=23 November 2022 |title=Rwanda's Mukansanga makes her World Cup debut |work=The New Times |location=Rwanda |url=https://www.newtimes.co.rw/article/2892/sports/world-cup-22/rwandas-mukansanga-makes-her-world-cup-debut |access-date=2022-12-10}}</ref><ref>{{Cite web |date=20 May 2022 |title=Qatar 2022: See all six African referees selected for World Cup |url=https://citisportsonline.com/2022/05/20/qatar-2022-see-all-six-african-referees-selected-for-world-cup/ |access-date=21 May 2022 |website=Citi Sports Online |language=en-US}}</ref> She was the [[Assistant referee (association football)|fourth official]] when France, the defending champions, defeated Australia 4–1.<ref name=":0" /> She was recognized as one of the [[100 Women (BBC)|BBC 100 Women]] in December 2022.<ref>{{Cite web |title=BBC 100 Women 2022: Who is on the list this year? |url=https://www.bbc.co.uk/news/resources/idt-75af095e-21f7-41b0-9c5f-a96a5e0615c1 |access-date=2022-12-10 |website=BBC News |language=en-GB}}</ref>
+
+==Early life==
+Mukansanga initially was involved in basketball but took up a career in football after being told that she was too young to join the national under-17 basketball squad. She approached the [[Rwanda Football Federation]] about joining a refereeing course after finishing secondary school but this was declined on the basis of her being too young again. She would later be allowed to take up a course with them after learning the laws of football herself in her own time.<ref>{{Cite web |date=18 November 2022 |title=World Cup 2022: Salima Mukansanga to 'open doors' for female officials |url=https://www.bbc.co.uk/sport/africa/63519142 |access-date=20 November 2022 |publisher=[[BBC Sport]]|last=Karoney|first=Celestine }}</ref> At the start of her career, Mukansanga officiated men's local amateur football matches and women's national second division matches in Rwanda.<ref>{{Cite web |date=20 November 2022 |title=Salima Mukansanga: I never dreamed of officiating at the men's World Cup |url=https://www.cafonline.com/development/women-football/news/salima-mukansanga-i-never-dreamed-of-officiating-at-the-men-s-world-cup |access-date=20 November 2022 |publisher=[[Confederation of African Football]] }}</ref>
+
+==References==
+{{reflist}}
+
+==External links==
+*[https://worldreferee.com/referee/salima_mukansanga/ Profile] on worldreferee.com
+
+* {{instagram|salma_rhadia}}
+
+
+{{2022 FIFA World Cup referees}}
+
+{{DEFAULTSORT:Mukansanga, Salima}}
+[[Category:Living people]]
+[[Category:1988 births]]
+[[Category:Rwandan football referees]]
+[[Category:FIFA Women's World Cup referees]]
+[[Category:2022 FIFA World Cup referees]]
+[[Category:FIFA World Cup referees]]
+[[Category:Women association football referees]]
+[[Category:Date of birth missing (living people)]]

@@ -1,0 +1,258 @@
+{{Short description|Welsh footballer}}
+{{Use dmy dates|date=November 2022}}
+{{Infobox football biography
+| name = Connor Roberts
+| image = Connor Roberts (footballer, born 1995), cropped image, Turkey vs Wales EURO 2020.jpg
+| caption = Roberts playing for [[Wales national football team|Wales]] at the [[UEFA Euro 2020]]
+| full_name = Connor Richard John Roberts<ref name="FIFA 2022">{{cite web |url=https://fdp.fifa.org/assetspublic/ce44/pdf/SquadLists-English.pdf |title=FIFA World Cup Qatar 2022 – Squad list: Wales (WAL) |publisher=[[FIFA]] |page=32 |date=15 November 2022 |access-date=15 November 2022}}</ref>
+| birth_date = {{birth date and age|1995|9|23|df=y}}
+| birth_place = [[Crynant]], Wales
+| height = {{convert|1.75|m|order=flip}}<ref>{{cite web |url=https://www.premierleague.com/players/13917/Connor-Roberts/overview |title=Connor Roberts: Overview |publisher=Premier League |accessdate=25 August 2022}}</ref>
+| position = [[Right-back]]
+| currentclub = [[Burnley F.C.|Burnley]]
+| clubnumber = 14
+| youthyears1 = 2004–2015
+| youthclubs1 = [[Swansea City A.F.C. Under-23s#Academy|Swansea City]]
+| years1 = 2015–2021
+| clubs1 = [[Swansea City A.F.C.|Swansea City]]
+| caps1 = 133
+| goals1 = 11
+| years2 = 2015–2016
+| clubs2 = → [[Yeovil Town F.C.|Yeovil Town]] (loan)
+| caps2 = 45
+| goals2 = 0
+| years3 = 2016
+| clubs3 = → [[Bristol Rovers F.C.|Bristol Rovers]] (loan)
+| caps3 = 2
+| goals3 = 0
+| years4 = 2017–2018
+| clubs4 = → [[Middlesbrough F.C.|Middlesbrough]] (loan)
+| caps4 = 1
+| goals4 = 0
+| years5 = 2021–
+| clubs5 = [[Burnley F.C.|Burnley]]
+| caps5 = 64
+| goals5 = 5
+| nationalyears1 = 2014
+| nationalteam1 = [[Wales national under-19 football team|Wales U19]]
+| nationalcaps1 = 1
+| nationalgoals1 = 0
+| nationalyears2 = 2016
+| nationalteam2 = [[Wales national under-21 football team|Wales U21]]
+| nationalcaps2 = 2
+| nationalgoals2 = 1
+| nationalyears3 = 2018–
+| nationalteam3 = [[Wales national football team|Wales]]
+| nationalcaps3 = 48
+| nationalgoals3 = 3
+| club-update = 18:38, 11 May 2023 (UTC)
+| nationalteam-update = 23:46, 19 June 2023 (UTC)
+}}
+'''Connor Richard John Roberts''' (born 23 September 1995) is a Welsh professional [[Association football|footballer]] who plays as a [[right-back]] for {{English football updater|Burnley}} club [[Burnley F.C.|Burnley]] and the [[Wales national football team|Wales national team]]. He helped his nation qualify for the [[FIFA World Cup]] in [[2022 FIFA World Cup|2022]] for the first time since [[1958 FIFA World Cup|1958]], and was included in the squad for the tournament.<ref>{{Cite web |last=UEFA.com |title=Wales-Ukraine {{!}} European Qualifiers 2022 |url=https://www.uefa.com/european-qualifiers/match/2033893--wales-vs-ukraine/ |access-date=14 June 2022 |website=UEFA.com |language=en}}</ref>
+
+==Club career==
+===Early career===
+Born in [[Neath]], Roberts grew up in the nearby village of [[Crynant]] and joined [[Swansea City A.F.C.|Swansea City]]'s Youth Academy at the age of 9.<ref>{{cite web |url=https://www.theguardian.com/football/football-league-blog/2020/dec/16/swansea-connor-roberts-workshop-woodwork-gareth-bale |title=Swansea's Connor Roberts: 'I can be in the workshop for hours on end' |last=Fisher |first=Ben |work=The Guardian |date=16 December 2020 |accessdate=16 December 2020 }}</ref> After progressing through the academy, Roberts won the [[2014–15 Professional U21 Development League#League 2|2014–15 Professional U21 Development League 2]] title in his debut professional season and was rewarded with a new two-year contract.<ref>{{cite web |url=http://www.swanseacity.com/news/article/roberts-joins-yeovil-on-loan-2601079.aspx |title=Roberts joins Yeovil on loan |publisher=Swansea City A.F.C. |date=8 August 2015 |accessdate=9 August 2015 }}{{Dead link|date=February 2020 |bot=InternetArchiveBot |fix-attempted=yes }}</ref>
+
+Roberts signed a new three-year contract with Swansea City in September 2016.<ref>{{cite news |url=http://www.swanseacity.com/news/article/2016-17/connor-roberts-swansea-city-new-contract-3331703.aspx |title=Connor pens new Swans deal |publisher=Swansea City A.F.C. |date=27 September 2016 |accessdate=27 September 2016 }}{{Dead link|date=February 2020 |bot=InternetArchiveBot |fix-attempted=yes }}</ref> Upon returning from [[Bristol Rovers F.C.|Bristol Rovers]], Roberts linked up with [[Swansea City A.F.C. Under-23s|Swansea City Under-23s]] and went on to win the [[2016–17 Professional U23 Development League#Division 2|2016–17 Professional U23 Development League 2]] title and [[2016–17 Premier League Cup]].<ref>{{cite news |url=http://www.walesonline.co.uk/sport/football/football-news/champions-swansea-city-under-23s-12736786 |title=Swansea City Under 23s win the league  |publisher=Wales Online |date=14 March 2017 |accessdate=14 March 2017 }}</ref><ref>{{cite news |url=https://www.premierleague.com/news/394948 |title=It's a perfect end to the season, says King  |publisher=Premier League |date=16 May 2017 |accessdate=16 May 2017 }}</ref>
+
+===Loan moves===
+On 8 August 2015, Roberts joined [[EFL League Two|League Two]] club [[Yeovil Town F.C.|Yeovil Town]] on a one-month [[Loan (association football)|loan]] deal,<ref>{{cite news |url=http://www.ytfc.net/news/article/connor-roberts-signs-on-loan-2602722.aspx |title=Connor Roberts signs on loan |publisher=Yeovil Town F.C. |date=8 August 2015 |accessdate=8 August 2015 }}</ref> and made his debut later that day in a 3–2 defeat against [[Exeter City F.C.|Exeter City]].<ref>{{cite web |url=https://www.bbc.co.uk/sport/0/football/33744354 |title=Exeter City 3–2 Yeovil Town |publisher=BBC Sport |date=8 August 2015 |accessdate=8 August 2015 }}</ref> Roberts quickly established himself at [[Huish Park]], and the Glovers extended Roberts' loan contract to the end of the [[2015–16 Football League Two|2015–16 season]].<ref>{{Cite news |title=Swansea defender Connor Roberts staying at Yeovil Town until end of season |url=http://www.skysports.com/football/news/11729/10120963/swansea-defender-connor-roberts-staying-at-yeovil-town-until-end-of-season |publisher=Sky Sports |date=6 January 2016 |accessdate=1 February 2016}}</ref> Roberts made 54 appearances for Yeovil over the course of the season, missing just one match due to a call-up to the [[Wales national under-21 football team|Wales under-21 national team]]. Roberts received three Player of the Year Awards and was also voted Young Player of the Year.<ref>{{cite web |url=http://www.ytfc.net/news/article/roberts-and-krysiak-win-end-of-season-awards-3100692.aspx |title=Roberts and Krysiak win end of season awards |publisher=Yeovil Town F.C. |date=7 May 2016 |accessdate=7 May 2016 }}</ref>
+
+In August 2016, Roberts joined [[EFL League One|League One]] club [[Bristol Rovers F.C.|Bristol Rovers]] on a six-month loan deal.<ref>{{cite web |url=https://www.bbc.co.uk/sport/football/37184019 |title=Connor Roberts: Bristol Rovers sign Swansea City defender on loan |publisher=BBC Sport |date=25 August 2016 |accessdate=25 August 2016 }}</ref> Roberts made his debut in a 3–2 victory over [[Northampton Town F.C.|Northampton Town]] on 1 October 2016, and made a further four appearances for the Pirates before returning to Swansea.<ref>{{cite web |url=https://www.bbc.co.uk/sport/football/37459221 |title=Northampton Town 2–3 Bristol Rovers |publisher=BBC Sport |date=1 October 2016 |accessdate=3 October 2016}}</ref><ref>{{cite web |url=http://www.bristolrovers.co.uk/news/article/2016-17/connor-roberts-has-returned-to-parent-club-swansea-city-3469929.aspx |title=Connor Roberts has returned to parent club Swansea City |publisher=Bristol Rovers F.C. |date=15 December 2016 |accessdate=15 December 2016 }}</ref>
+
+On 14 July 2017, it was announced that Roberts would be joining [[EFL Championship|Championship]] club [[Middlesbrough F.C.|Middlesbrough]] on a season-long loan deal.<ref>{{cite news |url=https://www.bbc.co.uk/sport/football/40611190 |title=Connor Roberts: Swansea City loan full-back to Middlesbrough for 2017–18 season |publisher=BBC Sport |date=14 July 2017 |accessdate=14 July 2017 }}</ref> After making one league appearance his loan spell was terminated in January and he returned to Swansea City.
+
+===Swansea City===
+Roberts made his debut for Swansea City on 6 January 2018 in the FA Cup third round against [[Wolverhampton Wanderers F.C.|Wolverhampton Wanderers]].<ref>{{cite web|url=https://www.bbc.co.uk/sport/football/42519689|title=Wolverhampton Wanderers 0–0 Swansea City|publisher=BBC Sport|first=Matthew|last=Henry|date=6 January 2018|accessdate=27 June 2021}}</ref> On 29 September, he scored his first goal for the club in a 3–0 win over [[Queens Park Rangers F.C.|Queens Park Rangers]].<ref>{{cite web |url=https://www.bbc.co.uk/sport/football/45609717 |title=Swansea City 3–0 Queens Park Rangers |last=Pritchard |first=Dafydd |publisher=BBC Sport |date=29 August 2018 |accessdate=30 August 2018}}</ref> On 3 June 2021, Roberts was named Swansea City Player of the Year for the [[2020–21 Swansea City A.F.C. season|2020–21 season]].<ref name="poty21">{{cite web|url=https://www.swanseacity.com/news/connor-roberts-named-swansea-city-supporters-player-year|title=CONNOR ROBERTS NAMED SWANSEA CITY SUPPORTERS' PLAYER OF THE YEAR|publisher=Swansea City A.F.C.|date=3 June 2021|accessdate=27 June 2021}}</ref>
+
+===Burnley===
+On 31 August 2021, Roberts joined [[Premier League]] side [[Burnley F.C.|Burnley]] for an undisclosed fee signing a four-year deal.<ref>{{cite web |url=https://www.bbc.co.uk/sport/football/58398566 |title=Connor Roberts: Burnley sign Wales defender from Swansea |work=BBC Sport |date=31 August 2021 |access-date=31 August 2021 }}</ref><ref>{{Cite web |url=https://www.burnleyfootballclub.com/content/connor-clocks-on|title=CONNOR CLOCKS ON |website=Burnley F.C.|date=31 August 2021|access-date=31 August 2021}}</ref> On 23 April 2013 Roberts was named in the EFL Championship Team of the Season.<ref>[https://www.efl.com/news/2023/april/efl-team-of-the-season-line-ups-revealed/ EFL Team of the Season]</ref>
+
+==International career==
+Roberts has been [[Cap (association football)|capped]] at [[Wales national under-19 football team|Wales under-19]] level.<ref>{{cite web|url=http://www.faw.org.uk/news/Men-U19-v-Montenegro-Game-2-Drawn/96481/ |title=Men U.19 v Montenegro – Game 2 Drawn |publisher=Football Association of Wales |date=24 April 2014 |accessdate=12 January 2016 |url-status=dead |archiveurl=https://web.archive.org/web/20140425002340/http://www.faw.org.uk/news/Men-U19-v-Montenegro-Game-2-Drawn/96481/ |archivedate=25 April 2014 }}</ref> In March 2016, Roberts received his first call-up to the [[Wales national under-21 football team|Wales under-21]] side for their [[2017 UEFA European Under-21 Championship qualification]] matches,<ref>{{cite web |url=http://www.ytfc.net/news/article/connor-roberts-selected-for-wales-under-21-squad-3019741.aspx |title=Connor Roberts selected for Wales under-21 squad |publisher=Yeovil Town F.C. |date=21 March 2016 |accessdate=21 March 2016 }}</ref> and made his debut as a second-half substitute in their 2–1 defeat against [[Romania national under-21 football team|Romania]], on 29 March 2016.
+
+He was called into the [[Wales national football team]] for the first time on 15 March 2018.<ref>{{cite web |url=https://www.bbc.co.uk/sport/amp/football/43416219 |title=Aaron Ramsey to miss China Cup as Ryan Giggs names first Wales squad |publisher=BBC Sport |date=15 March 2018 |accessdate=15 March 2018}}</ref> He made his senior international debut in the China Cup final against [[Uruguay national football team|Uruguay]] in March 2018 when he came on as a 59th minute substitute for [[Declan John]].<ref>{{cite web|url=https://www.swanseacity.com/news/my-proudest-moment|title='MY PROUDEST MOMENT'|publisher=Swansea City A.F.C.|date=29 March 2018|accessdate=27 June 2021}}</ref> Roberts scored his first goal for the senior team in a 4–1 victory over the [[Republic of Ireland national football team|Republic of Ireland]] on 6 September 2018, finishing a half-volley set up by [[Gareth Bale]]. In May 2021, he was selected for the Wales squad for the delayed [[UEFA Euro 2020]] tournament.<ref>{{Cite web|url=https://www.bbc.co.uk/sport/football/57301006|title=Uncapped Colwill in Wales Euro 2020 squad|publisher=BBC Sport|date=30 May 2021|accessdate=27 June 2021}}</ref> On 16 June, Roberts scored the second goal in a 2–0 win against [[Turkey national football team|Turkey]], once again assisted by Bale.<ref>{{cite web|url=https://www.bbc.co.uk/sport/football/51197554|title=Turkey 0–2 Wales|publisher=BBC Sport|first=Dafydd|last=Pritchard|date=16 June 2021|accessdate=27 June 2021}}</ref> On 26 June, Roberts' participation in the tournament ended due to a groin injury sustained in the first half, and Wales went on to lose 4–0 to [[Denmark national football team|Denmark]].<ref>{{cite web|url=https://www.bbc.co.uk/sport/football/51197369|title=Wales 0–4 Denmark|publisher=BBC Sport|first=Dafydd|last=Pritchard|date=26 June 2021|accessdate=27 June 2021}}</ref>
+
+In November 2022 he was named in the [[2022 FIFA World Cup squads#Wales|Wales squad]] for the [[2022 FIFA World Cup]] in [[Qatar]].<ref>[https://www.bbc.co.uk/sport/football/63545011 2022 Wales World Cup squad]</ref>
+
+==Career statistics==
+===Club===
+{{updated|match played 8 May 2023}}
+
+{| class=wikitable style="text-align: center"
+|+ Appearances and goals by club, season and competition
+|-
+!rowspan=2|Club
+!rowspan=2|Season
+!colspan=3|League
+!colspan=2|[[FA Cup]]
+!colspan=2|[[EFL Cup|League Cup]]
+!colspan=2|Other
+!colspan=2|Total
+|-
+!Division!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals
+|-
+|rowspan=7|[[Swansea City A.F.C.|Swansea City]]
+|[[2015–16 Swansea City A.F.C. season|2015–16]]<ref name=sb1516>{{soccerbase season|86854|2015|accessdate=14 July 2017 }}</ref>
+|[[Premier League]]
+|0||0||colspan=2|—||colspan=2|—||colspan=2|—||0||0
+|-
+|[[2016–17 Swansea City A.F.C. season|2016–17]]<ref name=sb1617>{{soccerbase season|86854|2016|accessdate=14 July 2017 }}</ref>
+|Premier League
+|0||0||colspan=2|—||colspan=2|—||colspan=2|—||0||0
+|-
+|[[2017–18 Swansea City A.F.C. season|2017–18]]<ref name=sb1718>{{soccerbase season|86854|2017|accessdate=14 July 2017 }}</ref>
+|Premier League
+|4||0||7||0||colspan=2|—||colspan=2|—||11||0
+|-
+|[[2018–19 Swansea City A.F.C. season|2018–19]]<ref name=sb1819>{{soccerbase season|86854|2018|accessdate=6 May 2019 }}</ref>
+|[[EFL Championship|Championship]]
+|45||5||4||0||0||0||colspan=2|—||49||5
+|-
+|[[2019–20 Swansea City A.F.C. season|2019–20]]<ref name=sb1920>{{soccerbase season|86854|2019|accessdate=4 August 2019 }}</ref>
+|Championship
+|38||1||1||0||1||0||2{{efn|name=CHPO|Appearances in [[EFL Championship play-offs|Championship play-offs]]}}||0||42||1
+|-
+|[[2020–21 Swansea City A.F.C. season|2020–21]]<ref name=sb2021>{{soccerbase season|86854|2020|accessdate=8 November 2020 }}</ref>
+|Championship
+|46||5||2||0||0||0||2{{efn|name=CHPO}}||0||50||5
+|-
+!colspan=2|Total
+!133||11||14||0||1||0||4||0||152||11
+|-
+|[[Yeovil Town F.C.|Yeovil Town]] (loan)
+|[[2015–16 Yeovil Town F.C. season|2015–16]]<ref name=sb1516/>
+|[[EFL League Two|League Two]]
+|45||0||4||0||1||0||4{{efn|name=EFLT}}||0||54||0
+|-
+|[[Bristol Rovers F.C.|Bristol Rovers]] (loan)
+|[[2016–17 Bristol Rovers F.C. season|2016–17]]<ref name=sb1617/>
+|[[EFL League One|League One]]
+|2||0||2||0||0||0||1{{efn|name=EFLT|Appearance(s) in [[EFL Trophy]]}}||0||5||0
+|-
+|[[Middlesbrough F.C.|Middlesbrough]] (loan)
+|[[2017–18 Middlesbrough F.C. season|2017–18]]<ref name=sb1718/>
+|Championship
+|1||0||colspan=2|—||3||0||colspan=2|—||4||0
+|-
+|rowspan=3|[[Burnley F.C.|Burnley]]
+|[[2021–22 Burnley F.C. season|2021–22]]<ref name=sb2122>{{soccerbase season|86854|2021|accessdate=10 August 2021 }}</ref>
+|Premier League
+|21||1||0||0||1||0||colspan=2|—||22||1
+|-
+|[[2022–23 Burnley F.C. season|2022–23]]<ref name=sb2223>{{soccerbase season|86854|2022|accessdate=31 July 2022}}</ref>
+|Championship
+|43||4||5||1||2||0||colspan=2|—||50||5
+|-
+!colspan=2|Total
+!64||5||5||1||3||0||colspan=2|—||72||6
+|-
+!colspan=3|Career totals
+!245||16||25||1||8||0||9||0||287||17
+|}
+
+{{notelist}}
+
+===International===
+{{updated|match played 19 June 2023}}<ref name="NFT">{{NFT player|pid=70902|name=Roberts, Connor|access-date=26 June 2021}}</ref>
+
+{| class=wikitable style="text-align:center"
+|+ Appearances and goals by national team and year
+|-
+!National team!!Year!!Apps!!Goals
+|-
+|rowspan="6"|[[Wales national football team|Wales]]
+|2018||8||1
+|-
+|2019||8||0
+|-
+|2020||6||0
+|-
+|2021||12||2
+|-
+|2022||10||0
+|-
+|2023||4||0
+|-
+!colspan="2"|Total!!48!!3
+|}
+
+:''As of match played 13 November 2021. Wales' score listed first, score column indicates score after each Roberts goal.''<ref name="NFT"/>
+
+{| class="wikitable sortable"
+|+ List of international goals scored by Connor Roberts
+|-
+!scope=col|No.
+!scope=col|Date
+!scope=col|Venue
+!scope=col|Cap
+!scope=col|Opponent
+!scope=col|Score
+!scope=col|Result
+!scope=col|Competition
+|-
+|align=center|1||6 September 2018||[[Cardiff City Stadium]], Cardiff, Wales||align=center|3||{{fb|IRL}}||align=center|4–0||align=center|4–1||[[2018–19 UEFA Nations League B]]
+|-
+|align=center|2||16 June 2021||[[Baku Olympic Stadium]], Baku, Azerbaijan||align=center|28||{{fb|TUR}}||align=center|2–0||align=center|2–0||[[UEFA Euro 2020]]
+|-
+|align=center|3||13 November 2021||[[Cardiff City Stadium]], Cardiff, Wales||align=center|33||{{fb|BLR}}||align=center|5–1||align=center|5–1||[[2022 FIFA World Cup qualification]]
+|}
+
+==Honours==
+'''Swansea City U23'''
+
+* [[Premier League Cup (football)|Premier League Cup]]: [[2016–17 Premier League Cup|2016–17]]<ref>{{Cite web |date=16 May 2017 |title=It's a perfect end to the season, says King |url=https://www.premierleague.com/news/394948 |access-date=2023-06-17 |website=www.premierleague.com |language=en}}</ref>
+
+'''Burnley'''
+* [[EFL Championship]]: [[2022–23 EFL Championship|2022–23]]<ref>{{Cite web |last=Long |first=Dan |date=25 April 2023 |title=Blackburn Rovers 0-1 Burnley: Vincent Kompany's Clarets clinch Championship title after Manuel Benson stunner |url=https://www.skysports.com/football/news/12040/12866055/blackburn-rovers-0-1-burnley-vincent-kompanys-clarets-clinch-championship-title-after-manuel-benson-stunner |access-date=25 April 2023 |website=Sky Sports}}</ref>
+
+'''Individual'''
+
+* [[EFL Awards|EFL Championship Team of the Season]]: [[2022–23 EFL Championship#Annual|2022–23]]<ref>{{Cite web |date=23 April 2023 |title=EFL Team of the Season line-ups revealed |url=https://www.efl.com/news/2023/april/efl-team-of-the-season-line-ups-revealed/ |access-date=24 April 2023 |website=English Football League}}</ref>
+
+* Swansea City Player of the Year: [[2020–21 Swansea City A.F.C. season|2020–21]]<ref name="poty21" />
+
+==References==
+{{reflist}}
+
+==External links==
+{{commons category}}
+*{{Soccerbase}}
+
+{{Burnley F.C. squad}}
+{{Navboxes
+| title = Awards
+| bg = Gold
+| list1 = 
+{{Swansea City A.F.C. Player of the Year}}
+{{2022–23 EFL Championship Team of the Season}}
+}}
+{{Navboxes
+| title = Wales squads
+| bg = #D81E05
+| fg = white
+| bordercolor = green
+| list1 =
+{{Wales squad UEFA Euro 2020}}
+{{Wales squad 2022 FIFA World Cup}}
+}}
+
+{{DEFAULTSORT:Roberts, Connor}}
+[[Category:1995 births]]
+[[Category:Living people]]
+[[Category:Footballers from Neath]]
+[[Category:Welsh men's footballers]]
+[[Category:Wales men's youth international footballers]]
+[[Category:Wales men's under-21 international footballers]]
+[[Category:Wales men's international footballers]]
+[[Category:Men's association football defenders]]
+[[Category:Swansea City A.F.C. players]]
+[[Category:Yeovil Town F.C. players]]
+[[Category:Bristol Rovers F.C. players]]
+[[Category:Middlesbrough F.C. players]]
+[[Category:Burnley F.C. players]]
+[[Category:English Football League players]]
+[[Category:Premier League players]]
+[[Category:UEFA Euro 2020 players]]
+[[Category:2022 FIFA World Cup players]]

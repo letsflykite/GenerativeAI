@@ -1,0 +1,41 @@
+{{National squad
+ | name        = Netherlands squad 2022 FIFA World Cup
+ | bg          = #FF771D
+ | fg          = white
+ | bordercolor = #21468B
+ | country     = Netherlands
+ | comp link   = 2022 FIFA World Cup
+ | comp        = 2022 FIFA World Cup
+ | p1          = [[Remko Pasveer|Pasveer]]
+ | p2          = [[Jurriën Timber|Timber]]
+ | p3          = [[Matthijs de Ligt|De Ligt]]
+ | p4          = [[Virgil van Dijk|Van Dijk]]&nbsp;([[Captain (association football)|c]])
+ | p5          = [[Nathan Aké|Aké]]
+ | p6          = [[Stefan de Vrij|De Vrij]]
+ | p7          = [[Steven Bergwijn|Bergwijn]]
+ | p8          = [[Cody Gakpo|Gakpo]]
+ | p9          = [[Luuk de Jong|L. de Jong]]
+ | p10         = [[Memphis Depay|Depay]]
+ | p11         = [[Steven Berghuis|Berghuis]]
+ | p12         = [[Noa Lang|Lang]]
+ | p13         = [[Justin Bijlow|Bijlow]]
+ | p14         = [[Davy Klaassen|Klaassen]]
+ | p15         = [[Marten de Roon|De Roon]]
+ | p16         = [[Tyrell Malacia|Malacia]]
+ | p17         = [[Daley Blind|Blind]]
+ | p18         = [[Vincent Janssen|Janssen]]
+ | p19         = [[Wout Weghorst|Weghorst]]
+ | p20         = [[Teun Koopmeiners|Koopmeiners]]
+ | p21         = [[Frenkie de Jong|F. de Jong]]
+ | p22         = [[Denzel Dumfries|Dumfries]]
+ | p23         = [[Andries Noppert|Noppert]]
+ | p24         = [[Kenneth Taylor (footballer, born 2002)|Taylor]]
+ | p25         = [[Xavi Simons|Simons]]
+ | p26         = [[Jeremie Frimpong|Frimpong]]
+ | coach       = [[Louis van Gaal|Van Gaal]]
+}}<noinclude>
+{{Squad maintenance}}
+[[Category:2022 FIFA World Cup squad navigational boxes|Netherlands]]
+[[Category:Netherlands FIFA World Cup squad navigational boxes|2022]]
+[[Category:Netherlands at the 2022 FIFA World Cup|squad]]
+</noinclude>

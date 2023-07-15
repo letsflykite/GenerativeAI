@@ -1,0 +1,406 @@
+{{Short description|Croatian footballer}}
+{{Use dmy dates|date=January 2023}}
+{{Infobox football biography
+| name = Marko Livaja
+| image = Marko-Livaja.png
+| image_size = 200
+| caption = Livaja in 2022
+| full_name = Marko Livaja<ref name="FIFA 2022">{{cite web |url=https://fdp.fifa.org/assetspublic/ce44/pdf/SquadLists-English.pdf |title=FIFA World Cup Qatar 2022 – Squad list: Croatia (CRO) |publisher=[[FIFA]] |page=8 |date=15 November 2022 |access-date=15 November 2022}}</ref>
+| birth_date = {{birth date and age|1993|8|26|df=yes}}<ref>{{Cite web |last=UEFA.com |title=Marko Livaja - Croatia - European Qualifiers |url=https://www.uefa.com/european-qualifiers/teams/players/250005676--marko-livaja/ |access-date=2023-06-13 |website=UEFA.com |language=en}}</ref>
+| birth_place = [[Split, Croatia|Split]], Croatia
+| height = {{height|m=1.84}}
+| position = [[Forward (association football)|Forward]], [[attacking midfielder]]
+| currentclub = [[HNK Hajduk Split|Hajduk Split]]
+| clubnumber = 10
+| youthyears1 = 1997–2005
+| youthclubs1 = [[:hr:NK GOŠK Kaštel Gomilica|GOŠK Kaštel Gomilica]]
+| youthyears2 = 2005–2008
+| youthclubs2 = [[NK Omladinac Vranjic|Omladinac Vranjic]]
+| youthyears3 = 2008–2010
+| youthclubs3 = [[HNK Hajduk Split Academy|Hajduk Split]]
+| youthyears4 = 2010–2011
+| youthclubs4 = [[Inter Milan|Internazionale]]
+| clubs1 = [[Inter Milan|Internazionale]]
+| years1 = 2011–2013
+| caps1 = 6
+| goals1 = 0
+| clubs2 = → [[FC Lugano|Lugano]] (loan)
+| years2 = 2011
+| caps2 = 11
+| goals2 = 2
+| clubs3 = → [[A.C. Cesena|Cesena]] (loan)
+| years3 = 2011–2012
+| caps3 = 3
+| goals3 = 0
+| clubs4 = [[Atalanta B.C.|Atalanta]]
+| years4 = 2013–2014
+| caps4 = 31
+| goals4 = 4
+| clubs5 = [[FC Rubin Kazan|Rubin Kazan]]
+| years5 = 2014–2016
+| caps5 = 11
+| goals5 = 0
+| clubs6 = → [[Empoli F.C.|Empoli]] (loan)
+| years6 = 2015–2016
+| caps6 = 17
+| goals6 = 1
+| clubs7 = [[UD Las Palmas|Las Palmas]]
+| years7 = 2016–2018
+| caps7 = 25
+| goals7 = 5
+| clubs8 = → [[AEK Athens F.C.|AEK Athens]] (loan)
+| caps8 = 27
+| goals8 = 8
+| years8 = 2017–2018
+| clubs9 = [[AEK Athens F.C.|AEK Athens]]
+| caps9 = 74
+| goals9 = 19
+| years9 = 2018–2021
+| clubs10 = [[HNK Hajduk Split|Hajduk Split]]
+| years10 = 2021–
+| caps10 = 79
+| goals10 = 52
+| nationalyears1 = 2008
+| nationalyears2 = 2009
+| nationalyears3 = 2008–2010
+| nationalyears4 = 2010
+| nationalyears5 = 2011–2012
+| nationalyears6 = 2012–2013
+| nationalyears7 = 2013–2014
+| nationalteam1 = Croatia U15
+| nationalcaps1 = 4
+| nationalgoals1 = 4
+| nationalteam2 = Croatia U16
+| nationalcaps2 = 7
+| nationalgoals2 = 6
+| nationalteam3 = [[Croatia national under-17 football team|Croatia U17]]
+| nationalcaps3 = 20
+| nationalgoals3 = 7
+| nationalteam4 = [[Croatia national under-18 football team|Croatia U18]]
+| nationalcaps4 = 4
+| nationalgoals4 = 1
+| nationalteam5 = [[Croatia national under-19 football team|Croatia U19]]
+| nationalcaps5 = 7
+| nationalgoals5 = 2
+| nationalteam6 = [[Croatia national under-20 football team|Croatia U20]]
+| nationalcaps6 = 7
+| nationalgoals6 = 1
+| nationalteam7 = [[Croatia national under-21 football team|Croatia U21]]
+| nationalcaps7 = 5
+| nationalgoals7 = 3
+| nationalyears8 = 2018–
+| nationalteam8 = [[Croatia national football team|Croatia]]
+| nationalcaps8 = 21
+| nationalgoals8 = 4
+| pcupdate = 11 April 2023
+| ntupdate = 26 March 2023
+| medaltemplates = {{Medal|Sport|Men's [[Association football|football]]}}
+{{Medal|Country|{{fb|CRO}}}}
+{{Medal|Comp|[[FIFA World Cup]]}}
+{{Medal|3rd|[[2022 FIFA World Cup|2022 Qatar]]|}}
+}}
+
+'''Marko Livaja''' ({{IPA-sh|mâːrko liʋǎːja, - lǐʋa-|hr}};<ref>{{cite web|url=http://hjp.znanje.hr/index.php?show=search_by_id&id=e1xuWxg%3D|title=Mȃrko|quote=Mȃrko|website=Hrvatski jezični portal|access-date=19 March 2018|language=sh}}</ref><ref>{{cite web|url=http://hjp.znanje.hr/index.php?show=search_by_id&id=e19uWxc%3D&keyword=lijevi|title=lijȇvī|quote=Livája, Lìvaja|website=Hrvatski jezični portal|access-date=19 March 2018|language=sh}}</ref> born 26 August 1993) is a Croatian professional [[Association football|footballer]] who plays as a [[Forward (association football)|forward]] for [[HNK Hajduk Split|Hajduk Split]] and the [[Croatian national football team|Croatia national team]]. He has represented his country at every level from the under-15s to the [[Croatia national football team|senior team]].
+
+==Club career==
+
+===Youth career===
+Livaja began at the lower-tier Croatian side GOŠK Kaštel Gomilica when he was 4 years old,<ref>[https://www.glasistre.hr/nogomet/marko-livaja-otvoreno-o-tome-zasto-je-kao-16-godisnjak-napustio-hajduk-sto-ga-je-tada-razljutilo-ali-i-zasto-je-jedva-docekao-novi-poziv-s-poljuda-znamo-kako-navijaci-disu-766697 MARKO LIVAJA otvoreno o tome zašto je kao 16-godišnjak napustio Hajduk, što ga je tada razljutilo, ali i zašto je jedva dočekao novi poziv s Poljuda: Znamo kako navijači dišu] at Glas Istre</ref> and subsequently [[NK Omladinac Vranjic]] before getting a call to the [[NK Dinamo Zagreb Academy|Dinamo Zagreb Academy]] in the summer of 2008. However, before he was registered for Dinamo he received a call from his hometown club [[HNK Hajduk Split Academy|Hajduk Split Academy]],<ref>{{cite news|url=http://www.24sata.hr/nogomet/zanio-se-ljubio-dinamov-dres-a-sad-igra-za-hajduk-166143|title=Zanio se: Ljubio Dinamov dres, a sad igra za Hajduk|date=28 March 2010|access-date=9 August 2012|work=24 Satae|language=hr}}</ref> [[Eternal derby (Croatia)|long-standing rivals]] of Dinamo, and moved there. At the beginning of 2010, he was promoted to the full [[HNK Hajduk Split|Hajduk]] team.<ref>{{cite web|title=Reja priključio najboljeg kadeta!|url=http://hajduk.hr/mobilna.php?otvori=vijest&vijest=507|publisher=hajduk.hr|access-date=8 April 2013}}{{Dead link|date=March 2020 |bot=InternetArchiveBot |fix-attempted=yes }}</ref>
+
+===Internazionale===
+[[File:Marko Livaja.jpg|thumb|left|180px|Livaja in 2012]]
+Later in 2010 (after joining the full Hajduk team) Livaja was sold to [[vojnik fc]], who loaned him to [[Swiss Challenge League|Swiss]] side [[FC Lugano]] in 2011.<ref>{{cite news|url=http://www.football.ch/sfl/fr/Newsticker_F%C3%A9vrier_2011.aspx|title=Succès du Servette FC et du SC Kriens, nul du FC Lugano|date=8 February 2011|access-date=9 February 2012|work=Swiss Football League|language=fr|url-status=dead|archive-url=https://web.archive.org/web/20110811093643/http://www.football.ch/sfl/fr/Newsticker_F%C3%A9vrier_2011.aspx|archive-date=11 August 2011}}</ref> He was loaned again to [[A.C. Cesena|Cesena]] in summer 2011 through a €250,000 deal from Hajduk Split,<ref>AC Cesena SpA Report and Accounts, 30 June 2012 {{in lang|it}}</ref> and made his [[Serie A]] debut for Cesena against [[ACF Fiorentina|Fiorentina]] in October 2011.<ref>{{cite web|url=https://int.soccerway.com/matches/2011/10/16/italy/serie-a/ac-cesena/acf-fiorentina/1175683/|title=Cesena vs. Fiorentina 0 – 0|publisher=Soccerway|date=16 October 2011|access-date=8 June 2018}}</ref> Livaja played for Cesena in both their primary team and their youth team.
+
+In January 2012 he returned to Inter when Cesena partially sold him to them for 11.000.000 million in a [[co-ownership (football)|co-ownership deal]].<ref>"FC Internazionale Milano SpA" Report and Accounts, 30 June 2012 {{in lang|it}}</ref>  After [[Andrea Stramaccioni]] was appointed the coach of the first team, Livaja became a member of [[Inter Milan Youth Sector|Inter Primavera]], winning the [[2011–12 NextGen series]].<ref>{{cite web|url=https://www.inter.it/en/news/39492|title=NEXTGEN SERIES: AJAX 1-1 INTER AET (3-5 ON PENS)|publisher=inter.it|date=25 March 2012|access-date=8 June 2018}}</ref> Livaja received his first call-up as a member of the first team on 1 April 2012, where he was an unused substitute in a match against [[Genoa C.F.C.|Genoa]] won 5–4 at [[San Siro]].<ref>{{cite web|url=https://www.theguardian.com/football/2012/apr/02/serie-a-inter-genoa-report|title=Inter edge Genoa in game of nine goals, four penalties and two reds|work=The Guardian|date=2 April 2012|access-date=8 June 2018}}</ref>
+
+In the [[2012–13 Inter Milan season|2012–13 season]], Livaja made his first appearance in the opening season match against [[Delfino Pescara 1936|Pescara]] and played his first game as a team starter against [[A.S. Roma|Roma]] in January 2013.<ref>{{cite web|url=http://www.goal.com/en/news/723/serie-a/2012/08/26/3332773/pescara-0-3-inter-sneijder-milito-and-coutinho-secure|title=Pescara 0-3 Inter: Sneijder, Milito and Coutinho secure dominant win|publisher=Goal.com|author=Mark Doyle|date=26 August 2012|access-date=8 June 2018}}</ref><ref>{{cite web|url=https://sport.sky.it/calcio/2013/01/20/serie_a_21a_giornata_posticipo_roma_inter.html|title=Totti-Palacio, finisce 1-1 il primo round tra Roma e Inter|trans-title=Totti-Palacio, it ends 1-1 the first round between Roma and Inter|publisher=Sky Sport|date=20 January 2013|access-date=8 June 2018}}</ref> He appeared in a total of six Serie A games during the first half of the season, but without scoring a goal. Livaja got more playing time in European games, as he was the coach Stramaccioni's first choice striker for [[2012–13 UEFA Europa League]] group matches against [[FC Rubin Kazan|Rubin Kazan]], [[FK Partizan]], and [[Neftchi Baku PFC|Neftchi Baku]].
+
+He scored his first goal for Inter against Rubin Kazan on 20 September 2012 and became Inter's top scorer for the [[2012–13 UEFA Europa League group stage#Group H|group stage]], with four goals in six group matches.<ref>{{cite web|url=https://int.soccerway.com/matches/2012/09/20/europe/uefa-cup/fc-internazionale-milano/rubin-kazan/1388923/|title=Internazionale vs. Rubin Kazan 2 – 2|publisher=Soccerway|date=20 September 2012|access-date=8 June 2018}}</ref> Inter finished second in Group H with 11 points, three behind Rubin Kazan.
+
+===Atalanta===
+On 31 January 2013 Livaja was loaned to [[Atalanta B.C.|Atalanta]], though Inter retained half his registration rights.<ref>{{cite web|title=Marko Livaja sljedećih godinu i pol na posudbi u Atalanti|url=http://www.hrsport.net/vijesti/455255/nogomet-italija/marko-livaja-sljedecih-godinu-i-pol-na-posudbi-u-atalanti/|publisher=Sportnet|date=31 January 2013|access-date=4 September 2016|language=hr}}</ref> Inter paid €1.5 million to acquire Livaja outright from Cesena<ref>AC Cesena SpA ''bilancio'' (financial report and accounts), 30 June 2013 {{in lang|it}}</ref> but resold half his rights to Atalanta for €2.5M as part of [[Ezequiel Schelotto]]'s deal for €6M.<ref>FC Internazionale SpA ''bilancio'' (financial report and accounts) on 30 June 2013 {{in lang|it}}</ref> Livaja made his debut for the new club against [[Catania Calcio]] on 10 February 2013 and scored his first two goals for them on Matchday 26 against A.S. Roma.<ref>{{cite news|title=Livaja dvostruki strijelac u porazu Atalante|url=http://www.hrsport.net/vijesti/456840/nogomet-italija/video-livaja-dvostruki-strijelac-u-porazu-atalante-juventus-pobjegao-napoliju/|date=24 February 2013|access-date=4 September 2016|language=hr}}</ref>
+
+For disciplinary reasons, he remained off the squad list in April during Atalanta's match against [[U.C. Sampdoria|Sampdoria]].<ref>{{cite web|title=Livaja izbačen iz momčadi, ne konkurira za utakmicu|url=http://www.vecernji.hr/strani-nogomet/livaja-izbacen-iz-momcadi-ne-konkurira-za-utakmicu-531998|publisher=Večernji list|date=30 March 2013|access-date=4 September 2016|language=hr}}</ref> He played his first game against his owners Inter Milan on 7 April 2013, coming on as a second-half substitute.<ref>{{cite news|title=Atalanta šokirala Inter, Livaja izborio penal i asistirao|url=http://www.dalmacijanews.com/Nogomet/View/tabid/89/ID/115973/Atalanta-sokirala-Inter-Livaja-izborio-penal-i-asistirao.aspx|access-date=8 April 2013|newspaper=Dalmacija News|date=7 April 2013|archive-url=https://web.archive.org/web/20130409085033/http://www.dalmacijanews.com/Nogomet/View/tabid/89/ID/115973/Atalanta-sokirala-Inter-Livaja-izborio-penal-i-asistirao.aspx|archive-date=9 April 2013|language=hr}}</ref> In April, Livaja was given Atalanta's "Man of the Month" award for February 2013 by the club fans.<ref>{{cite web|title=MARKO LIVAJA DOMANI ALL'ATALANTA STORE DI ORIOCENTER|url=http://www.atalanta.it/site/paginalive/eventi/2013-04/10-04-La-premiazione-di-Marko-Livaja.html|publisher=atalanta.it|date=10 April 2013|access-date=11 April 2013|archive-date=19 April 2013|archive-url=https://web.archive.org/web/20130419140627/http://www.atalanta.it/site/paginalive/eventi/2013-04/10-04-La-premiazione-di-Marko-Livaja.html|language=it}}</ref><ref>{{cite news|title=Najbolji igrač Atalante u veljači|url=http://sportske.jutarnji.hr/nogomet/nogomet-mix/najbolji-igrac-atalante-u-veljaci/4229355/|access-date=4 September 2016|newspaper=Sportske Novosti|date=11 April 2013|language=hr}}</ref> On 7 May, before the match with [[Juventus F.C.|Juventus]], Livaja was once again expelled from the squad due to a breach of discipline.<ref>{{cite web|title=COMUNICATO DAL CLUB|url=http://www.atalanta.it/site/paginalive/comunicati-dal-club/2012-2013/2013-05/07-05-Comunicato-dal-Club.html|date=7 May 2013|access-date=9 May 2013|archive-url=https://web.archive.org/web/20130613041249/http://www.atalanta.it/site/paginalive/comunicati-dal-club/2012-2013/2013-05/07-05-Comunicato-dal-Club.html|archive-date=13 June 2013|language=it}}</ref><ref>{{cite news|title=Radovanović: Livaja mi bio kao brat|url=http://www.b92.net/sport/fudbal/vesti.php?yyyy=2013&mm=05&dd=09&nav_id=712258|access-date=9 May 2013|newspaper=b92|language=sr|date=9 May 2013}}</ref>
+
+===Rubin Kazan===
+[[File:Loc-Rub (3).jpg|thumb|160px|Livaja with [[Rubin Kazan]]]]
+Livaja signed with Rubin Kazan on 15 May 2014 on a five-year deal. The Russian league club paid up to €6M for him.<ref>{{cite news|title=Livaja potpisao za Rubin Kazan|url=http://www.dalmacijanews.hr/clanak/fp0x-marko-livaja-potpisao-za-rubin-kazan-rusi-platili-talijanima-6-milijuna-eura#/clanak/fp0x-marko-livaja-potpisao-za-rubin-kazan-rusi-platili-talijanima-6-milijuna-eura|date=15 May 2014|access-date=15 May 2014|newspaper=Dalmacija News|language=hr}}</ref> On 31 August 2015, Rubin Kazan send him on loan at [[Serie A]] side [[Empoli F.C.|Empoli]].<ref>{{cite news|url=http://www.espnfc.com/story/2590566/empoli-land-loans-for-leandro-paredes-and-marko-livaja|title=Empoli land loans for Roma's Leandro Paredes, Rubin Kazan's Marko Livaja|publisher=ESPN FC|date=31 August 2015|access-date=15 January 2017}}</ref> His spell didn't go as expected, with Livaja scoring only once in 18 matches for ''Azzurri'', only four as starter. That goal came on 22 November during the 2–2 away draw against [[ACF Fiorentina|Fiorentina]].<ref>{{cite news|url=https://int.soccerway.com/matches/2015/11/22/italy/serie-a/acf-fiorentina/empoli-fc/2120499/|title=Fiorentina vs. Empoli 2 – 2|publisher=Soccerway|date=22 November 2015|access-date=15 January 2016}}</ref>
+
+===Las Palmas===
+On 14 July 2016, Livaja joined [[La Liga]] side [[UD Las Palmas|Las Palmas]] by signing a contract until June 2020.<ref name="toLasPalmas">{{cite web|url=http://www.udlaspalmas.es/noticias/noticia/la-ud-las-palmas-ficha-al-delantero-croata-marko-livaja|title=La UD Las Palmas ficha al delantero croata Marko Livaja|date=14 July 2016|publisher=UD Las Palmas|language=es|access-date=4 September 2016}}</ref> He made his debut later on 22 August, a debut which brought his first goals as well, as Las Palmas defeated [[Valencia CF|Valencia]] 4–2 at [[Mestalla Stadium]].<ref>{{cite news|url=https://int.soccerway.com/matches/2016/08/22/spain/primera-division/valencia-club-de-futbol/union-deportiva-las-palmas/2282767/|title=Valencia vs. Las Palmas 2 – 4|publisher=Soccerway|date=22 August 2016|access-date=15 January 2017}}</ref> Then, he endured a 613-minute scoreless run across 10 matches until 4 December 2016, when he scored he's team's only goal in the 1–1 away draw against [[Deportivo Alavés]].<ref>{{cite news|url=https://int.soccerway.com/matches/2016/12/04/spain/primera-division/deportivo-alaves/union-deportiva-las-palmas/2283038/|title=Deportivo Alavés vs. Las Palmas 1 – 1|publisher=Soccerway|date=4 December 2016|access-date=15 January 2016}}</ref> Livaja made his first [[Copa del Rey]] appearance on 10 January of the following year in the returning leg of [[2016–17 Copa del Rey#Round of 16|round of 16]] against [[Atlético Madrid]], scoring a brace in a 2–3 away win but 4–3 aggregate loss.<ref>{{cite news|url=http://www.goal.com/en/match/atl%C3%A9tico-madrid-vs-las-palmas/2386868/report|title=Atletico Madrid 2-3 Las Palmas (agg: 4-3): Griezmann & Correa goals ensure hosts progress|publisher=Goal.com|author=Stephen Creek|date=10 January 2017|access-date=15 January 2017}}</ref>
+
+====Loan to AEK Athens====
+=====2017–18 season=====
+
+On 1 July 2017, Livaja was loaned to [[AEK Athens F.C.|AEK Athens]], for an initial loan fee of €200,000 with a purchase option of €1.8 million for the summer of 2018.<ref>{{cite web|url=http://www.udlaspalmas.es/noticias/noticia/marko-livaja-cedido-al-aek-atenas|title=Marko Livaja, cedido al AEK Atenas|publisher=UD Las Palmas|language=es|date=1 July 2017|access-date=1 July 2017}}</ref> He made his debut on 25 July 2017 in a 2–0 home defeat against [[PFC CSKA Moscow|CSKA Moscow]] in the first leg of the [[2017–18 UEFA Champions League|Champions League third qualifying round]].<ref>{{cite web |url=http://www.sport24.gr/football/ChampionsLeague/h-tsska-xalase-to-parti-htta-me-2-0-gia-thn-aek.4780203.html |script-title=el:Ήττα με κάτω τα χέρια για την ΑΕΚ |publisher=www.sport24.gr |date=25 July 2017}}</ref> On 28 September 2017, he scored a 90th-minute equaliser for AEK, his second in a game that ends 2–2 against [[FK Austria Wien|Austria Wien]] in the [[UEFA Europa League]] group stage.<ref>{{cite web |url=http://www.uefa.com/uefaeuropaleague/season=2018/matches/round=2000890/match=2022044/index.html |title=ΑΕΚ vs Austria Wien 2-2 |publisher=www.uefa.com |date=28 September 2017}}</ref> On 5 November 2017 he scored the only goal in the [[Double-headed eagles derby|"double-headed eagle" derby]] against [[PAOK FC|PAOK]].<ref>{{cite web |url=http://www.gazzetta.gr/football/superleague/article/1157651/aek-paok-1-0 |script-title=el:ΑΕΚ - ΠΑΟΚ 1-0 |publisher=www.gazzetta.gr |date=5 November 2017}}</ref>
+On 19 November 2017, Livaja stole a point for AEK in an away 1–1 derby against rivals [[Panathinaikos F.C.|Panathinaikos]] with a dramatic equalizer at the last moment of the game.<ref>{{cite web |url=http://www.sport24.gr/football/ellada/SuperLeague/o-livagia-sto-95-edwse-vathmo-sthn-aek-1-1-me-panathhnaiko.4945924.html |script-title=el:Ο Λιβάγια έδωσε βαθμό στην ΑΕΚ, 1-1 με Παναθηναϊκό |publisher=www.sport24.gr |date=19 November 2017}}</ref> On 27 November 2017, he scored a brace in a 3–0 home win against [[Platanias F.C.|Platanias]], which brought his team back to the top of the league table.<ref>{{cite web |url=http://www.sport24.gr/football/ellada/SuperLeague/kanei-magia-koryfhs-3-0-h-aek-ton-platania.4958623.html |script-title=el:Κάνει μάγια… κορυφής, 3-0 η ΑΕΚ τον Πλατανιά |publisher=www.sport24.gr |date=27 November 2017}}</ref> On 3 December 2017, with his second-half goal, AEK won 2–0 in an away clash against [[Levadiakos F.C.|Levadiakos]] remaining on top of the [[2017–18 Super League Greece|2017–18 Super League]] after 13 matches.<ref>{{cite web |url=http://www.sport24.gr/football/ellada/SuperLeague/paramenei-koryfh-h-aek-2-0-ton-levadeiako-me-livagia-araouxo.4968245.html |script-title=el:Παραμένει κορυφή η ΑΕΚ, 2-0 τον Λεβαδειακό με Λιβάγια-Αραούχο |publisher=www.sport24.gr |date=3 December 2017}}</ref>
+
+On 14 January 2018, he opened the score in a 3–1 home win game against [[PAS Giannina F.C.|PAS Giannina]].<ref>{{cite web |url=http://www.gazzetta.gr/football/superleague/article/1185234/aek-pas-giannina-3-1 |script-title=el:ΑΕΚ - ΠΑΣ Γιάννινα 3-1 |publisher=www.gazzetta.gr |date=14 January 2018}}</ref> On 27 January he scored in a 2–0 home win game against [[PAS Lamia 1964|Lamia]].<ref>{{cite news|url=http://www.sport24.gr/football/ellada/SuperLeague/nikh-me-synoptikes-diadikasies-2-0-h-aek-th-lamia.5050188.html |publisher= sport24.gr |script-title=el:Νίκη με συνοπτικές διαδικασίες, 2-0 η ΑΕΚ τη Λαμία  |date=27 January 2018}}</ref> On 4 March 2018, he scored with a head in a brilliant right-wing cross from [[Rodrigo Galo Brito|Rodrigo Galo]], sealing a 1–0 home win against rivals [[Panionios F.C.|Panionios]].<ref>{{cite news|url=http://sport24.gr/football/ellada/SuperLeague/h-vathmologia-sthn-koryfh-meta-to-aek-paniwnios-1-0.5105521.html |publisher= www.sport24.gr |script-title=el:Η βαθμολογία στην κορυφή μετά το ΑΕΚ - Πανιώνιος 1-0 |date=4 March 2018}}</ref> In his first season with AEK Athens he won the [[Super League Greece|Super League]],<ref>{{Cite web|url=https://www.aekfc.gr/newsdetails/aek-levadeiakos-52442.htm?lang=el&path=2047516997|title=Η ΑΕΚ άξια Πρωταθλήτρια 2018!|website=aekfc.gr}}</ref> but lost the [[Greek Football Cup|Greek Cup]] to PAOK,<ref>{{cite web|script-title=el:Τελικός Κυπέλλου Ελλάδος: ΑΕΚ-ΠΑΟΚ 0-2|url=https://www.gazzetta.gr/football/kypello-elladas/article/1228987/telikos-kypelloy-ellados-aek-paok-0-2|language=el|work=gazzetta.gr|access-date=27 November 2018}}</ref> managing to reach the [[2017–18 UEFA Europa League knockout phase#Round of 32|Round of 32]] of the [[UEFA Europa League|Europa League]], where the were eliminated by [[FC Dynamo Kyiv|Dynamo Kyiv]].<ref>{{Cite web|url=https://www.sport24.gr/football/adikos-apokleismos-gia-tin-aek-0-0-me-tin-ntinamo-kievoy.8614517.html|title=Άδικος αποκλεισμός για την ΑΕΚ, 0-0 με την Ντινάμο Κιέβου|website=.sport24.gr}}</ref>
+
+===AEK Athens===
+====2018–19 season====
+On 22 March 2018, impressed by his performances, AEK decided to trigger his optional transfer clause of €1.8 million and the player will reportedly earn €700,000 per year until the summer of 2021.<ref>{{cite news|url=http://www.sport24.gr/football/ellada/SuperLeague/h-vathmologia-sthn-koryfh-meta-to-aek-paniwnios-1-0.5105521.html |publisher= www.sport24.gr |script-title=el:Οι τρεις λόγοι για την ακριβότερη μεταγραφή του Μελισσανίδη |date=22 May 2018}}</ref>
+On 14 August 2018, he headed into the net from close range to make it 2–0, and despite [[Scott Sinclair]] bringing [[Celtic F.C.|Celtic]] back into the contest in the latter stages, AEK held on for dear life to earn progression to the UEFA Champions League playoffs to play [[MOL Vidi FC|Vidi]] in a 2–1 home win game against Celtic in the Champions League Third qualifying round, 2nd leg.<ref>{{cite news |script-title=el:Φουλ για "σεντόνι" η ΑΕΚ, 2-1 τη Σέλτικ |url=https://www.sport24.gr/football/omades/Aek/foyl-gia-sentoni-h-aek-2-1-th-seltik.5286194.html |publisher=www.sport24.gr|date=14 August 2018}}</ref> Two days later an unnamed Italian team, later proved to be [[UC Sampdoria|Sampdoria]], offered €8 million for the Croatian forward, but the administration of the team turned it down.<ref>{{cite web |url=http://www.sport24.gr/football/omades/Aek/oxi-stoys-italous-se-protash-8-ekat-eyrw-gia-ton-livagia-h-aek.5287362.html |script-title=el:"Όχι" στους Ιταλούς σε πρόταση 8 εκατ. ευρώ για τον Λιβάγια η ΑΕΚ |publisher=Sport24.gr |date=16 August 2018}}</ref> On 25 August 2018, he scored his first goal of the [[2018–19 Superleague Greece|2018–19 season]] in a 2–0 home win game against [[PAS Giannina F.C.|PAS Giannina]] as he was in the right place at the right time to convert a superb cross from right-back [[Michalis Bakakis]] after some neat approach play from Rodrigo Galo.<ref>{{cite news |script-title=el:ΑΕΚ - ΠΑΣ Γιάννινα 2-0 |url=https://www.sdna.gr/podosfairo/superleague/article/505392/aek-pas-giannina-2-0 |publisher=www.sdna.gr|date=25 August 2018}}</ref> On 20 October 2018, some excellent build-up play from forward [[Viktor Klonaridis]] allowed Livaja to score his first league goal since the opening match of the season, in a 2–0 away win against [[Apollon Smyrni F.C.|Apollon Smyrnis]].<ref>{{cite web |url=https://www.sport24.gr/football/ellada/SuperLeague/apollwn-aek-0-2-apo-to-3-sto-triponto-h-enwsh.5341992.html |script-title=el:Απόλλων - ΑΕΚ 0-2: Από το -3, στο τρίποντο η Ένωση |publisher=www.sport24.gr |date=20 October 2018}}</ref> A week later, he chipped in to put further gloss on the scoreline by converting a [[Lucas Boyé]] cross, added a fourth for [[Marinos Ouzounidis]]’ team in a hammering 4–0 home win game against [[Aris Thessaloniki F.C.|Aris]].<ref>{{cite web|url=https://www.sport24.gr/football/ellada/SuperLeague/aek-arhs-4-0-sooy-apo-ponse-kai-mpoge-sto-adeio-oaka.5348829.html |script-title=el:ΑΕΚ - Άρης 4-0: "Σόου" από Πόνσε και Μπογέ στο άδειο ΟΑΚΑ |language=el|website=sport24.gr |access-date=28 October 2018}}</ref> On 2 December 2018, he came in as a substitute and scored with a wonderful solo in a 2–0 home win against [[Xanthi F.C.|Xanthi]].<ref>{{cite web |url=http://www.sport24.gr/football/ellada/SuperLeague/aek-ksanthh-2-0-ponse-kai-livagia-edwsan-anasa.5377864.html |script-title=el:ΑΕΚ - Ξάνθη 2-0: Πόνσε και Λιβάγια έδωσαν ανάσα |publisher=www.sport24.gr |date=2 December 2018}}</ref> Οn 20 December 2018, he scored a brace in a 3–1 away win against [[Volos FC|Volos]] in the final game of the [[2018–19 Greek Football Cup|2018–19 Greek Cup]] group stage.<ref>{{cite web |url=http://www.sport24.gr/football/ellada/GreekCup/volos-aek-1-3-katharise-o-livagia.5395215.html |script-title=el:Βόλος - ΑΕΚ 1-3: "Καθάρισε" ο Λιβάγια |publisher=www.sport24.gr |date=20 December 2018}}</ref>
+
+On 20 January 2019, he opened the score in a comfortable 3–0 home win game against [[Asteras Tripoli F.C.|Asteras Tripolis]].<ref>{{cite web |url=https://www.sport24.gr/football/ellada/SuperLeague/aek-asteras-3-0-katharise-se-20-lepta-h-aek.5418546.html |title=ΑΕΚ - Αστέρας 3-0: "Καθάρισε" σε 20 λεπτά η ΑΕΚ |publisher=www.sport24.gr |date=20 January 2019}}</ref> Three days later, he came in as a substitute and scored a brace in an emphatic 5–0 home win against [[AO Chania Kissamikos P.A.E.|AO Chania−Kissamikos]] in the Greek Cup round of 16. His team won 6–1 on aggregate and advanced to the quarter finals of the competition.<ref>{{cite web |url=http://www.sport24.gr/football/ellada/GreekCup/aek-kissamikos-5-0-eukolh-nikh-me-gkalo-kai-kristitsits.5421289.html |script-title=el:ΑΕΚ - Κισσαμικός 5-0: Εύκολη νίκη με Γκάλο και Κρίστιτσιτς |publisher=www.sport24.gr |date=23 January 2019}}</ref> On 10 February 2019, he scored the only goal in a 1–0 home win against [[OFI Crete F.C.|OFI]], after a fine solo effort from [[Christos Albanis (footballer, born 1994)|Christos Albanis]].<ref>{{cite web |url=https://www.sport24.gr/football/ellada/SuperLeague/aek-ofh-1-0-kerdise-vathmous-kai-almpanh.5436277.html |title=ΑΕΚ - ΟΦΗ 1-0: Κέρδισε βαθμούς και Αλμπάνη |publisher=www.sport24.gr |date=10 February 2019}}</ref>
+
+On 5 May 2019, the last matchday of the season, he scored in a 3–0 away win against [[Levadiakos F.C.|Levadiakos]].<ref>{{cite web | url=http://www.gazzetta.gr/football/superleague/article/1352312/levadeiakos-aek-0-3 | title=Λεβαδειακός - ΑΕΚ 0-3  | publisher=www.gazzetta.gr | date=5 May 2019}}</ref>
+
+====2019–20 season====
+He contributed a goal and an assist as AEK beat [[CS Universitatea Craiova|Universitatea Craiova]] to reach the [[2019–20 UEFA Europa League qualifying phase and play-off round#Play-off round|2019–20 Europa League play-off round]],<ref>{{cite web |url=https://www.sdna.gr/podosfairo/europa-league/match-report/625745/kraiova-aek |title=Κραϊόβα–ΑΕΚ 0–2 |publisher=www.sdna.gr |date=8 August 2019}}</ref> but despite his goal in that round against [[Trabzonspor]], the tie ended 3–3 on aggregate and AEK were eliminated on [[away goals rule|away goals]].<ref>{{cite web |url=https://www.agonasport.com/agonasport-allnews/so-close-yet-so-far-for-aek |title=So close yet so far for AEK |first=Graham |last=Wood |website=Agonasport |date=29 August 2019 |access-date=30 August 2019}}</ref> On 1 September 2019 he scored his first [[Super League Greece|league]] goal of the season in a 2–3 away win against [[Asteras Tripoli F.C.|Asteras Tripolis]], after an assist from [[Christos Albanis (footballer, born 1994)|Christos Albanis]].<ref>{{cite web |url=https://www.sport24.gr/football/ellada/SuperLeague/asteras-aek-2-3-to-megalo-diplo-ths-polemistrias.5587894.html |title=Αστέρας - ΑΕΚ 2-3: Ένωση της ανατροπής |publisher=www.sport24.gr |date=1 September 2019}}</ref> On 21 September, Livaja continued his excellent form by scoring in a 1–0 away win against [[Panetolikos F.C.|Panetolikos]], which was the third consecutive.<ref>{{cite web |url=https://www.sport24.gr/football/ellada/SuperLeague/panaitwlikos-aek-0-1-selhniasmenos-livagia-thn-odhgei.5602272.html |title=Παναιτωλικός - ΑΕΚ 0-1: Σεληνιασμένος Λιβάγια την οδηγεί |publisher=www.sport24.gr |date=21 September 2019}}</ref>
+On 20 October 2019, Livaja scored with a kick in a 3–2 home win game against [[Volos FC|Volos]].<ref>{{cite web |url=https://www.sdna.gr/podosfairo/650070_aek-bolos-3-2 |title=ΑΕΚ-Βόλος 3-2 |website=Agonasport |date=20 October 2019 |access-date=20 October 2019}}</ref> On 18 December, Livaja helped AEK sealing a vital 2–1 home win game against [[Asteras Tripoli F.C.|Asteras Tripolis]] when 45 seconds into the second half a slick passing move involving [[Nenad Krstičić]] and [[Paulinho (footballer, born 1991)|Paulinho]] was finished off with a one-touch finish by the Croatian international.<ref>{{cite web |url=https://www.sport24.gr/football/ellada/SuperLeague/aek-asteras-2-1-kynikh-apotelesmatikh-kai-2-sta-2-me-karera.5658660.html |title=ΑΕΚ - Αστέρας 2-1: Κυνική, αποτελεσματική και "2 στα 2" με Καρέρα |website=sport24 |date=18 December 2019 |access-date=18 December 2019}}</ref>
+On 5 January 2020, Livaja was in excellent form as he netted two goals (one from the penalty spot) and won a penalty to lead AEK to 3–1 home victory over struggling [[Panetolikos F.C.|Panetolikos]]. He was named as the Man of the match.<ref>{{cite web |url=https://www.sport24.gr/football/ellada/SuperLeague/aek-panaitwlikos-3-1-eixe-duo-mvp-kai-egrapse-thn-prwth-nikh-gia-to-2020.5665556.html |title=ΑΕΚ - Παναιτωλικός 3-1: Είχε δύο MVP και έγραψε την πρώτη νίκη για το 2020 |website=sport24 |date=5 January 2020 |access-date=6 January 2020}}</ref> On 19 February, he scored with a late penalty in a 4–0 home win against [[Panetolikos F.C.|Panetolikos]] for the [[2019–20 Greek Football Cup|Greek Cup quarter finals]].<ref>{{cite web | url=https://www.sport24.gr/football/ellada/GreekCup/aek-panaitwlikos-4-0-svhsta-sta-hmitelika-toy-kypelloy.5684213.html | title=ΑΕΚ - Παναιτωλικός 4-0: "Σβηστά" στα ημιτελικά του Κυπέλλου | publisher=www.sport24.gr | date=19 February 2020}}</ref>
+
+On 7 June, after an 80-day enforced Covid-19 break, Livaja picked up possession under close attention from [[Mattias Johansson]], and he skillfully turned his man before beating [[Sokratis Dioudis]] with a powerful shot to equalize the score in a 1–1 home draw game against [[Panathinaikos F.C.|Panathinaikos]] for the [[2019–20 Super League Greece|2019–20 Superleague playoffs]].<ref>{{cite web | url=https://www.sport24.gr/football/ellada/SuperLeague/aek-panathhnaikos-1-1-polu-sklhros-gia-na-pethanei.5718159.html | title=ΑΕΚ - Παναθηναϊκός 1-1: Πολύ σκληρός για να πεθάνει | publisher=www.sport24.gr | date=7 June 2020}}</ref> On 14 June 2020, he scored with a close header, after an excellent cross from [[Hélder Lopes (footballer)|Hélder Lopes]], helping to a 2–0 away win against [[OFI Crete F.C.|OFI]].<ref>{{cite web |url=http://www.sport24.gr/football/ellada/SuperLeague/ofh-aek-0-2-perase-apo-thn-krhth-kai-phre-provadisma-gia-th-2h-thesh.5720860.html |title=ΟΦΗ - ΑΕΚ 0-2: Πέρασε από την Κρήτη και πήρε προβάδισμα για τη 2η θέση |publisher=www.sport24.gr |date=14 June 2020}}</ref>
+
+On 24 June, Livaja scored a brace and led his team to the [[2019–20 Greek Football Cup|cup final]] for the fifth consecutive year, after a dramatic 2–2 away draw against [[Aris Thessaloniki F.C.|Aris]] at extra time.<ref>{{cite web |url=http://www.sport24.gr/football/ellada/GreekCup/arhs-aek-2-2-o-livagia-esteile-thn-enwsh-ston-teliko.5724501.html |title=Άρης - ΑΕΚ 2-2: Ο Λιβάγια έστειλε την Ένωση στον τελικό |publisher=www.sport24.gr |date=24 June 2020}}</ref> Also in June, Livaja was named as the Player of the Season in the Greek Super League.<ref name="GreekPOY" />
+
+On 1 July, AEK’s were awarded a penalty when [[Giannis Michailidis]] fouled AEK’s Italian forward [[Daniele Verde]] in the PAOK box, and Livaja's excellent kick sealing a vital 2–0 away Playoffs win against rivals [[PAOK FC|PAOK]].<ref>{{cite web |url=https://www.sport24.gr/football/ellada/SuperLeague/paok-aek-0-2-diplo-deuterhs-theshs-gia-thn-enwsh.5727422.html |title=ΠΑΟΚ - ΑΕΚ 0-2: Διπλό δεύτερης θέσης για την Ένωση |publisher=www.sport24.gr |date=1 July 2020}}</ref>
+
+====2020–21 season====
+On 19 August 2020, [[AEK Athens F.C.|AEK]] rejected a €4,000,000 offer from [[Al Wahda FC|Al Wahda]], setting a price tag of €8,000,000.<ref>{{Cite news|url=http://www.gazzetta.gr/football/superleague/article/1505311/i-aek-aperripse-protasi-4-ek-eyro-gia-livaia|title="Η ΑΕΚ απέρριψε πρόταση 4 εκ. ευρώ για Λιβάια"|access-date=19 August 2020|language=el}}</ref> [[Stade Rennais FC|Rennes]] and [[AS Saint-Étienne|Saint-Étienne]], both of [[Ligue 1]], also expressed interest in signing the player.<ref>{{Cite news|url=http://www.gazzetta.gr/football/superleague/article/1505642/ren-kai-sent-etien-endiaferontai-gia-livaia|title="Ρεν και Σεντ Ετιέν ενδιαφέρονται για Λιβάια"|access-date=20 August 2020|language=el}}</ref> On 19 September 2020, in the [[2020–21 Super League Greece]] opener, Livaja scored sealing a 2–0 away win against [[Panetolikos F.C.|Panetolikos]].<ref>{{cite web |url=https://www.sport24.gr/football/ellada/SuperLeague/panaitwlikos-aek-0-2-o-mantalos-thn-phre-apo-to-xeri.5754105.html |title=Παναιτωλικός - ΑΕΚ 0-2: O Mάνταλος την πήρε από το χέρι|website=sport24 |date=19 September 2020 |access-date=20 September 2020}}</ref>
+On 5 November 2020, he scored a brace and gave an assist in a 4–1 away win [[2020–21 UEFA Europa League group stage]] game against [[FC Zorya Luhansk]] helping AEK to increase the possibility of qualifying for the next phase of the [[UEFA Europa League]].<ref>{{cite web | url=https://www.sport24.gr/football/zoria-aek-1-4-ntortia-kai-ochi-zoria.9041636.html | title=Ζόρια - ΑΕΚ 1-4: Ντόρτια και όχι... Ζόρια | language=el | publisher=www.sport24.gr | date=5 November 2020 | access-date=5 November 2020}}</ref> On 29 November 2020, he opened the score in a 2–1 away win against [[Asteras Tripolis F.C.|Asteras Tripolis]].<ref>{{cite web |url=http://www.sport24.gr/football/asteras-aek-1-2-asterati-stin-tripoli.9065431.html |title=Αστέρας - ΑΕΚ 1-2: Αστεράτη στην Τρίπολη |publisher=www.sport24.gr |date=29 November 2020}}</ref>
+
+On 17 January 2021, he scored with a header helping to a 2–1 home win against [[Atromitos F.C.|Atromitos]].<ref>{{cite web |url=http://www.sport24.gr/football/aek-atromitos-2-1-oliveira-livagia-christodoylopoylos-chimeneth.9114138.html |title=ΑΕΚ - Ατρόμητος 2-1: Με Ολιβέιρα και Λιβάγια στην τέταρτη σερί νίκη με Χιμένεθ |publisher=www.sport24.gr |date=17 January 2021}}</ref>
+
+On 17 February 2021, LIvaja was released from his AEK contract upon request, after being deemed surplus to requirements due to his refusal to sign a contract extension.<ref>{{Cite web|last=newsroom|first=sport-fm|title=Επίσημο: Τέλος από την ΑΕΚ ο Λιβάγια!|url=https://www.sport-fm.gr/article/podosfairo/libagia-kai-episima-telos-apo-tin-aek/4159553|access-date=17 February 2021|website=sport-fm.gr|language=el}}</ref>
+
+=== Hajduk Split ===
+On the same day his AEK contract was terminated, Livaja joined Croatian club [[HNK Hajduk Split|Hajduk Split]] until the end of the season.<ref>{{Cite web|title=Marko Livaja se vratio u Hajduk!|url=https://dalmatinskiportal.hr/sport/marko-livaja-se-vratio-u-hajduk/89420|access-date=17 February 2021|website=Dalmatinski portal|language=hr}}</ref> He managed seven goals and eight assists in his 17 appearances for Hajduk, helping the club qualify for the [[2021–22 UEFA Europa Conference League qualifying phase and play-off round (Main Path)#Second qualifying round|2021–22 UEFA Europa Conference League qualifying stages]].<ref>{{Cite web|title=#LivajaOstaje|url=https://hajduk.hr/vijest/-livajaostaje/13826|access-date=9 June 2021|website=hajduk.hr|language=hr}}</ref>
+
+On 9 June 2021, Hajduk announced that Livaja signed a new contract with the club until the summer of 2024.<ref>{{Cite web|title=Συνεχίζει στη Χάιντουκ ο Λιβάγια|trans-title=Livaja continues with Hajduk|url=https://www.sport-fm.gr/article/podosfairo/libagia-sunexizei-sti-xaidouk/4183849|access-date=9 June 2021|date=9 June 2021|website=sport-fm.gr|language=el}}</ref> On 21 December 2021, [[Prva HNL]] team captains named Marko Livaja as the Best Footballer in the league. The Hajduk striker is the first from the Split club to win the best player award since 2003.<ref>{{Cite web|title=Team Captains Name Marko Livaja Best Footballer in Croatian First League|url=https://www.total-croatia-news.com/sport/58772-marko-livaja|access-date=5 February 2022|date=21 December 2021|website=total-croatia-news.com|language=en}}</ref> Livaja finished the [[2021–22 Croatian First Football League|2021–22 Prva HNL]] season as top goalscorer with 28 goals, ahead of [[HNK Rijeka|Rijeka]]'s [[Josip Drmić]] with 21.<ref>{{Cite web |date=21 May 2022 |title=LJESTVICA STRIJELACA 1. HNL-a: Marko Livaja sa 28 pogodaka najbolji strijelac lige |url=https://fenix-magazin.de/ljestvica-strijelaca-1-hnl-a-marko-livaja-sa-28-pogodaka-najbolji-strijelac-lige/ |access-date=22 May 2022 |website=Fenix Magazin |language=hr}}</ref> His 28 league goals is a Hajduk record for a single season, beating [[Leo Lemešić]]'s tally of 26 in 1934–35 and [[Zlatko Vujović]] with 25.<ref>{{Cite web |title=Marko Livaja za povijest: Hajdukova desetka srušila rekord star čak 87 godina! |url=https://hajduk.hr/vijest/marko-livaja-za-povijest-hajdukova-desetka-srusila-rekord-star-cak-87-godina-/14803 |access-date=22 May 2022 |website=hajduk.hr |language=hr}}</ref> In July 2022, Livaja extended his contract for 4 more years.
+
+Livaja was awarded the [[Prva HNL Player of the Year (Tportal)]] award for 2022.<ref>{{Cite web |title=Marko Livaja brani naslov najboljeg igrača HNL-a, ali dinamovci mu prijete; među njima je i jedan kojeg Dalić nije vodio na SP |url=https://www.tportal.hr/sport/clanak/marko-livaja-brani-naslov-najboljeg-igraca-hnl-a-ali-dinamovci-mu-prijete-medu-njima-je-i-jedan-kojeg-dalic-nije-vodio-na-sp-foto-20230110 |access-date=2023-06-07 |website=tportal.hr}}</ref> In doing so, he became the first player to win the award in consecutive years and first since [[Sammir]] in 2012 to be a repeat winner. For the [[2022–23 Croatian Football League]] season, Livaja was again the top goalscorer in the league with 19 goals, as Hajduk finished runners up in the competition.<ref>{{Cite web |date=2023-05-29 |title=Marko Livaja je nakon 20 godina prvi HNL igrač koji je obranio nagradu za najboljeg strijelca |url=https://telesport.telegram.hr/na-prvu/marko-livaja-je-nakon-20-godina-prvi-hnl-igrac-koji-je-obranio-nagradu-za-najboljeg-strijelca/ |access-date=2023-06-07 |website=Telesport.hr |language=hr}}</ref> The last match of the league season was also his 100th for Hajduk in all competitions. Livaja scored a late penalty in the [[2023 Croatian Football Cup final]], as Hajduk defended it's title from the previous year, winning it's eighth Croatian Cup.<ref>{{Cite web |title=Hajduk protiv Šibenika obranio naslov pobjednika Kupa |url=https://hns-cff.hr/news/25542/hajduk-protiv-sibenika-obranio-naslov-pobjednika-kupa/ |access-date=2023-06-07 |website=hns-cff.hr |language=hr}}</ref> 
+
+==International career==
+On 20 August 2018, as a result of his exceptional performances with AEK Athens, [[Croatia national football team|Croatia]] coach [[Zlatko Dalić]] included the uncapped Livaja in his squad for the friendly versus [[Portugal national football team|Portugal]] (1–1 draw), and the [[2018–19 UEFA Nations League|Nations League]] clash against [[Spain national football team|Spain]], which ended up as Croatia's biggest defeat in history.<ref>{{cite web |url=https://onefootball.com/en/news/modric-rakitic-lead-new-era-for-world-cup-finalists-croatia-en-21170278?variable=20180821 |title=Modric, Rakitic lead new era for World Cup finalists Croatia |publisher=onefootball.com |date=21 August 2018}}</ref> 
+
+On 17 May 2021, Livaja was named in the preliminary 34-man squad for the [[UEFA Euro 2020]],<ref>{{cite web |url=https://gol.dnevnik.hr/clanak/rubrika/nogomet/popis-hrvatske-za-euro-2020-ovo-je-26-vatrenih-koji-putuju-na-europsko-prvenstvo---652063.html |title=Dalić objavio popis za Euro 2020: Poznato svih 26 imena, izbornik objasnio iznenađenje |website=Gol.hr |date=2021-05-17 |access-date=2022-12-21 |lang=hr}}</ref> but did not make the [[UEFA Euro 2020 squads#Croatia|final 26]].<ref>{{cite web |url=https://gol.dnevnik.hr/clanak/hrvatska-reprezentacija/zlatko-dalic-potvrdio-popis-26-igraca-za-europsko-prvenstvo-2020---654181.html |title=Sada je konačno: Dalić potvrdio popis od 26 igrača za Euro 2020 |website=Gol.hr |date=2021-06-01 |access-date=2022-12-21 |lang=hr |author=HINA |author-link=Croatian News Agency}}</ref> After three years of absence, he was recalled by Dalić for [[2022 FIFA World Cup qualification – UEFA Group H|2022 FIFA World Cup qualifying]] matches in September 2021. He scored his first international goal on 7 September against [[Slovenia national football team|Slovenia]], giving the lead in an eventual 3–0 victory.
+
+On 31 October 2022, Livaja was named in Croatia's final [[2022 FIFA World Cup squads#Croatia|26-man squad]] for the [[2022 FIFA World Cup]] in Qatar.<ref>{{cite web |title=DALIĆ OBJAVIO ŠIRI POPIS KANDIDATA ZA SVJETSKO PRVENSTVO |url=https://hns-cff.hr/news/24759/dalic-objavio-siri-popis-kandidata-za-svjetsko-prvenstvo/ |website=[[Croatian Football Federation]] |access-date= 31 October 2022 |language=hr}}</ref> On 27 November 2022, Livaja scored his first goal for Croatia at a major tournament in a 4–1 victory over [[Canada men's national soccer team|Canada]], becoming the first ever current Hajduk Split player to score for Croatia at a [[FIFA World Cup]] in the process.<ref>{{cite web |url=https://www.index.hr/mobile/sport/clanak/livaja-je-jedini-hajdukovac-koji-je-zabio-za-hrvatsku-na-svjetskim-prvenstvima/2415672.aspx |title=Livaja je jedini hajdukovac koji je zabio za Hrvatsku na svjetskim prvenstvima |website=[[Index.hr]] |date=27 November 2022 |access-date=28 November 2022 |lang=hr}}</ref> On 17 December, in the [[2022 FIFA World Cup knockout stage#Third place play-off|third place play-off]] against [[Morocco national football team|Morocco]], Livaja provided [[Mislav Oršić]] with an assist for the winning goal, as Croatia won 2–1 and claimed their second bronze and third overall World Cup medal in history.<ref>{{cite web |url=https://sportske.jutarnji.hr/sn/nogomet/sp2022/svima-kapa-dolje-a-mladi-neka-samo-pogledaju-sto-je-ivan-perisic-napravio-protiv-maroka-15287339 |title='Svima kapa dolje, a mlađi neka SAMO pogledaju što je Ivan Perišić napravio protiv Maroka...' |first=Davorin |last=Olivari |website=[[Sportske novosti]] |date=18 December 2022 |access-date=18 November 2022 |lang=hr}}</ref>
+
+On 5 June 2023, Livaja was named in Dalić's final [[2023 UEFA Nations League Finals squads#Croatia|23-man squad]] for the [[2023 UEFA Nations League Finals]];<ref>{{cite web |url=https://gol.dnevnik.hr/clanak/rubrika/hrvatska-reprezentacija/zlatko-dalic-objavio-konacan-popis-za-ligu-nacija---785426.html |title=Zlatko Dalić objavio konačan popis za Ligu nacija: Otpao je mladi napadač |website=[[Gol.hr]] |lang=hr |author=HINA |author-link=Croatian News Agency |date=5 June 2023 |access-date=6 June 2023}}</ref> on the same day, during Croatia's open training at the [[Stadion Rujevica|Rujevica Stadium]], he confronted a group of spectators who were hurling insults at him.<ref>{{cite web |url=https://www.24sata.hr/sport/incident-na-treningu-vatrenih-navijaci-s-tribina-vrijedali-livaju-914860 |title=Incident na treningu 'vatrenih': Vrijeđali Livaju, stigla policija |website=[[24sata (Croatia)|24sata]] |lang=hr |date=5 June 2023 |access-date=6 June 2023 |first=Filip |last=Škrlec}}</ref> The next day, Livaja voluntarily withdrew from the squad.<ref>{{cite web |title=Marko Livaja propušta završnicu Lige nacija |url=https://hns-cff.hr/news/25595/marko-livaja-propusta-zavrsnicu-lige-nacija/ |website=[[Croatian Football Federation]] |access-date=6 June 2023 |language=hr |date=6 June 2023}}</ref>
+
+==Career statistics==
+===Club===
+{{updated|match played 07 June 2023}}<ref>{{cite web|url=https://int.soccerway.com/players/marko-livaja/116576/|title=Marko Livaja|website=Soccerway|access-date=8 September 2020}}</ref>
+
+{| class="wikitable" style="text-align:center"
+|+ Appearances and goals by club, season and competition
+|-
+!rowspan="2"|Club
+!rowspan="2"|Season
+!colspan="3"|League
+!colspan="2"|National cup{{efn|Includes [[Coppa Italia]], [[Russian Cup (football)|Russian Cup]], [[Copa del Rey]], [[Greek Football Cup|Greek Cup]], [[Croatian Cup]]}}
+!colspan="2"|Continental
+!colspan="2"|Other
+!colspan="2"|Total
+|-
+!Division!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals
+|-
+|[[A.C. Cesena|Cesena]] (loan)
+|[[2011–12 Serie A|2011–12]]
+|[[Serie A]]
+|3||0||0||0||colspan="2"|—||colspan="2"|—||3||0
+|-
+|[[Inter Milan]]
+|[[2012–13 Inter Milan season|2012–13]]
+|Serie A
+|6||0||0||0||7{{efn|name=UEL|Appearances in [[UEFA Europa League]]}}||4||colspan="2"|—||13||4
+|-
+|rowspan="3"|[[Atalanta B.C.|Atalanta]]
+|[[2012–13 Atalanta B.C. season|2012–13]]
+|Serie A
+|11||2||0||0||colspan="2"|—||colspan="2"|—||11||2
+|-
+|[[2013–14 Atalanta B.C. season|2013–14]]
+|Serie A
+|20||2||3||2||colspan="2"|—||colspan="2"|—||23||4
+|-
+!colspan="2"|Total
+!31!!4!!3!!2!!colspan="2"|—||colspan="2"|—!!34!!6
+|-
+|[[FC Rubin Kazan|Rubin Kazan]]
+|[[2014–15 FC Rubin Kazan season|2014–15]]
+|[[Russian Premier League]]
+|11||0||2||1||colspan="2"|—||colspan="2"|—||13||1
+|-
+|[[Empoli F.C.|Empoli]] (loan)
+|[[2015–16 Empoli F.C. season|2015–16]]
+|Serie A
+|17||1||0||0||colspan="2"|—||colspan="2"|—||17||1
+|-
+|[[UD Las Palmas|Las Palmas]]
+|[[2016–17 UD Las Palmas season|2016–17]]
+|[[La Liga]]
+|25||5||1||2||colspan="2"|—||colspan="2"|—||26||7
+|-
+|[[AEK Athens F.C.|AEK Athens]] (loan)
+|[[2017–18 AEK Athens F.C. season|2017–18]]
+|[[Super League Greece]]
+|27||8||5||0||10{{efn|Two appearances in [[UEFA Champions League]], eight appearances and two goals in UEFA Europa League}}||2||colspan="2"|—||42||10
+|-
+|rowspan="4"|AEK Athens
+|[[2018–19 AEK Athens F.C. season|2018–19]]
+|Super League Greece
+|25||7||8||4||5{{efn|name=UCL|Appearances in UEFA Champions League}}||1||colspan="2"|—||38||12
+|-
+|[[2019–20 AEK Athens F.C. season|2019–20]]
+|Super League Greece
+|32||9||6||3||4{{efn|name=UEL}}||3||colspan="2"|—||42||15
+|-
+|[[2020–21 AEK Athens F.C. season|2020–21]]
+|Super League Greece
+|17||3||1||0||7{{efn|name=UEL}}||2||colspan="2"|—||25||5
+|-
+!colspan="2"|Total
+!101!!27!!20!!7!!26!!8!!colspan="2"|—!!147!!42
+|-
+|rowspan="4"|[[HNK Hajduk Split|Hajduk Split]]
+|[[2020–21 HNK Hajduk Split season|2020–21]]
+|[[Croatian Football League|Prva HNL]]
+|15||6||2||1||colspan="2"|—||colspan="2"|—||17||7
+|-
+|[[2021–22 HNK Hajduk Split season|2021–22]]
+|Prva HNL
+|34||28||5||4||1{{efn|name=UECL|Appearance(s) in [[UEFA Europa Conference League]]}}||0||colspan="2"|—||40||32
+|-
+|[[2022–23 HNK Hajduk Split season|2022–23]]
+|Prva HNL
+|34||19||4||2||4{{efn|name=UECL}}||0||1{{efn|Appearance in [[Croatian Football Super Cup|Croatian Super Cup]]}}||0||32||17
+|-
+!colspan="2"|Total
+!83!!53!!11!!7!!5!!0!!1!!0!!100!!60
+|-
+!colspan="3"|Career total
+!277!!90!!36!!19!!38!!12!!1!!0!!352!!121
+|}
+{{noteslist}}
+
+===International===
+{{updated|match played 25 March 2023|<ref>{{cite web|title=Marko Livaja, international footballer|url=https://eu-football.info/_player.php?id=30388|access-date=9 September 2021|website=EU-Football.info}}</ref>}}
+
+{| class="wikitable" style="text-align:center"
+|+ Appearances and goals by national team and year
+|-
+!National team!!Year!!Apps!!Goals
+|-
+|rowspan="6"|[[Croatia national football team|Croatia]]
+|2018||4||0
+|-
+|2019||0||0
+|-
+|2020||0||0
+|-
+|2021||7||2
+|-
+|2022||9||2
+|-
+|2023||1||0
+|-
+!colspan="2"|Total!!21!!4
+|}
+
+:''Croatia score listed first, score column indicates score after each Livaja goal.''
+
+{| class="wikitable sortable"
+|+ List of international goals scored by Marko Livaja
+|-
+!scope=col|No.
+!scope=col data-sort-type=date|Date
+!scope=col|Venue
+!scope=col|Cap
+!scope=col|Opponent
+!scope=col|Score
+!scope=col|Result
+!scope=col|Competition
+|-
+!1
+|7 September 2021||[[Stadion Poljud]], [[Split, Croatia|Split]], Croatia||align=center|7||{{fb|Slovenia}}||align=center|'''1'''–0||align=center|3–0||rowspan="2'|[[2022 FIFA World Cup qualification – UEFA Group H|2022 FIFA World Cup qualification]]
+|-
+! 2
+| 8 October 2021 || [[AEK Arena – Georgios Karapatakis]], [[Larnaca]], Cyprus ||align=center|8 ||{{fb|CYP}}||{{center|'''3'''–0}} || {{center|3–0}}
+|-
+!3
+|25 September 2022||[[Ernst-Happel-Stadion]], [[Vienna]], Austria||align=center|14||{{fb|AUT}}||align=center|'''2'''–1||align=center|3–1||[[2022–23 UEFA Nations League A#Group 1|2022–23 UEFA Nations League A]]
+|-
+!4
+|27 November 2022||[[Khalifa International Stadium]], [[Al Rayyan (city)|Al Rayyan]], Qatar||align=center|16||{{fb|CAN}}||align=center|'''2'''–1||align=center|4–1||[[2022 FIFA World Cup Group F|2022 FIFA World Cup]]
+|}
+
+==Honours==
+'''AEK Athens'''
+* [[Super League Greece]]: [[2017–18 Super League Greece|2017–18]]
+
+'''Hajduk Split'''
+* [[Croatian Football Cup|Croatian Cup]]: [[2021–22 Croatian Football Cup|2021–22]], [[2022–23 Croatian Football Cup|2022–23]]<ref>{{cite web|url=https://hns-cff.hr/en/matches/52339406/rijeka-hajduk/|title=Rijeka - Hajduk 1:3|website=HNS-CFF|language=Croatian|date=26 May 2022|accessdate=27 May 2022}}</ref>
+'''Croatia'''
+
+* [[FIFA World Cup]] third place: [[2022 FIFA World Cup|2022]]<ref>{{Cite web |last=Smyth |first=Rob |date=17 December 2022 |title=Croatia 2-1 Morocco: World Cup 2022 third-place playoff – as it happened |url=https://www.theguardian.com/football/live/2022/dec/17/croatia-morocco-world-cup-2022-third-place-playoff-live-score-updates |access-date=17 December 2022 |website=the Guardian}}</ref>
+
+'''Individual'''
+*[[Greek football PSAP awards#Team of the Year|Super League Greece Team of the Year]]: [[2017–18 Super League Greece#Annual awards|2017–18]],<ref>{{Cite web|date=15 February 2019|title=Τα βραβεία του ΠΣΑΠ για τη σεζόν 2017-18|url=https://www.tameteora.gr/athlitika/248125/%cf%84%ce%b1-%ce%b2%cf%81%ce%b1%ce%b2%ce%b5%ce%af%ce%b1-%cf%84%ce%bf%cf%85-%cf%80%cf%83%ce%b1%cf%80-%ce%b3%ce%b9%ce%b1-%cf%84%ce%b7-%cf%83%ce%b5%ce%b6%cf%8c%ce%bd-2017-18/|access-date=10 January 2022|website=TaMeteora.gr|language=el}}</ref> [[2019–20 Super League Greece#Annual awards|2019–20]]<ref>{{Cite web|title=Super League Interwetten: Η καλύτερη ενδεκάδα της σεζόν 2019-20|url=https://www.sport24.gr/football/super-league-interwetten-i-kalyteri-endekada-tis-sezon-2019-20.9144792.html|access-date=10 January 2022|website=sport24.gr|language=el}}</ref>
+* [[Greek football PSAP awards#Player Awards|Super League Greece Player of the Year]]: [[2019–20 Super League Greece#Annual awards|2019–20]]<ref name="GreekPOY">{{cite web|url=https://www.slgr.gr/el/article/nivea-men-player-of-the-regular-season-o-marko-libaia/|title=NIVEA Men Best player of the regular season is Marko Livaja!|language=el|website=slgr.gr|date=18 June 2020 |access-date=24 June 2020}}</ref> 
+* [[AEK Athens F.C.|AEK Athens]] Player of the Year: [[2019–20 AEK Athens F.C. season|2019–20]]<ref>{{Cite web |date=2020-06-08 |title=NIVEA MEN Player of the Club της Α.Ε.Κ. Ο Λιβάια |url=https://www.slgr.gr/el/article/nivea-men-player-of-the-club-tes-aek-o-libaia/ |access-date=2022-12-07 |website=Super League |language=el}}</ref> 
+* [[Football Oscar]]: [https://www.nacional.hr/objavljeni-laureati-trofeja-nogometas-2022-godine/ Prva HNL Player of the Season 2021/22] 
+* [[Football Oscar]]: [https://www.nacional.hr/objavljeni-laureati-trofeja-nogometas-2022-godine/ Squad of the season 2021/22]
+* [[Croatian First Football League|Tportal Player of the Season]]: [https://www.tportal.hr/sport/clanak/marko-livaja-ispisao-povijest-ht-prve-lige-te-postao-prvi-igrac-hajduka-s-nagradom-koja-ima-posebnu-tezinu-sada-nam-je-cilj-donijeti-trofej-u-split-specijal-97-foto-20211220 2020-21]
+* [[Croatian First Football League]]: [https://hajduk.hr/vijest/marko-livaja-najbolji-je-strijelac-ht-prve-lige-/14829 Top Scorer of the Season 2021/22]
+* [[Sportske novosti Yellow Shirt award|Sportske Novosti]]: [https://sportske.jutarnji.hr/sn/nogomet/hnl/klubovi/hajduk/bila-je-ovo-livajina-sezona-dominantnim-izdanjima-dovukao-je-hajduk-do-drugog-mjesta-i-borbe-za-naslov-prvaka-15200933 Yellow Shirt Award 2021/22]
+* [[Sportske novosti|Sportske Novosti]]: [https://www.novilist.hr/sport/trojica-nogometasa-rijeke-izabrana-u-momcad-sezone-po-izboru-sn-a-livaji-nagrada-za-najboljeg-igraca/ Team of the Season 2021/22]
+* [[CIES]]: [https://www.hntv.hr/vijesti/cies-odabrao-najbolju-momcad-sezone-u-ht-prvoj-ligi Croatian First League Team of the Season 2021/22]
+
+==References==
+{{reflist|2}}
+
+==External links==
+* {{sports links}}
+{{Commons category}}
+* {{ESPN FC|165580}}
+
+{{HNK Hajduk Split squad}}
+{{Croatia squad 2022 FIFA World Cup}}
+{{Navboxes
+| title = Awards
+| bg = gold
+| fg = navy
+| list1 = 
+{{2017–18 Super League Greece Team of the Year}}
+{{2019–20 Super League Greece Team of the Year}}
+{{Tportal Prva HNL Player of the Year}}
+{{Croatian First Football League top scorers}}
+{{Sportske novosti Yellow Shirt award}}
+}}
+
+{{DEFAULTSORT:Livaja, Marko}}
+[[Category:1993 births]]
+[[Category:Living people]]
+[[Category:Footballers from Split, Croatia]]
+[[Category:Men's association football forwards]]
+[[Category:Croatian men's footballers]]
+[[Category:Croatia men's youth international footballers]]
+[[Category:Croatia men's under-21 international footballers]]
+[[Category:Croatia men's international footballers]]
+[[Category:Inter Milan players]]
+[[Category:AC Cesena players]]
+[[Category:Atalanta BC players]]
+[[Category:FC Rubin Kazan players]]
+[[Category:Empoli FC players]]
+[[Category:UD Las Palmas players]]
+[[Category:AEK Athens F.C. players]]
+[[Category:HNK Hajduk Split players]]
+[[Category:Serie A players]]
+[[Category:Russian Premier League players]]
+[[Category:La Liga players]]
+[[Category:Super League Greece players]]
+[[Category:Croatian Football League players]]
+[[Category:2022 FIFA World Cup players]]
+[[Category:Croatian expatriate men's footballers]]
+[[Category:Croatian expatriate sportspeople in Italy]]
+[[Category:Croatian expatriate sportspeople in Russia]]
+[[Category:Croatian expatriate sportspeople in Spain]]
+[[Category:Croatian expatriate sportspeople in Greece]]
+[[Category:Expatriate men's footballers in Italy]]
+[[Category:Expatriate men's footballers in Russia]]
+[[Category:Expatriate men's footballers in Spain]]
+[[Category:Expatriate men's footballers in Greece]]

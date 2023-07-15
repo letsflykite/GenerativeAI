@@ -1,0 +1,572 @@
+{{short description|none}}
+
+The '''[[2022 FIFA World Cup qualification (CAF)|CAF]] first round''' of '''[[2022 FIFA World Cup qualification]]''' was played from 4 to 10 September 2019.<ref name="format">{{cite web|url=http://english.ahram.org.eg/NewsContent/6/54/337773/Sports/Africa/CAF-reverts-to-previous-format-for--African-World-.aspx|title=CAF reverts to previous format for 2022 African World Cup qualifiers|publisher=Ahram Newspaper (english web version)|date=10 July 2019}}</ref><ref>{{cite web|url=https://images.cafonline.com/image/upload/caf-prd/ykzugrazk3sk1dgpongm.pdf|title=Fixtures of the preliminary round of the FIFAWC2022|website=cafonline.com}}</ref>
+
+==Format==
+A total of 28 teams (teams ranked 27–54 in the [[2022 FIFA World Cup qualification (CAF)#Entrants|CAF entrant list]]) played home-and-away over [[two-legged tie|two legs]]. The 14 winners advanced to the [[2022 FIFA World Cup qualification – CAF second round|second round]].<ref>{{Cite web |url=https://www.fifa.com/worldcup/news/amp/204-member-associations-in-contention-for-fifa-world-cup-qatar-2022tm-berths|archive-url=https://web.archive.org/web/20190716160121/https://www.fifa.com/worldcup/news/amp/204-member-associations-in-contention-for-fifa-world-cup-qatar-2022tm-berths|url-status=dead|archive-date=16 July 2019|title=204 member associations in contention for FIFA World Cup Qatar 2022 berths |last=FIFA.com |website=www.fifa.com |language=en-GB |access-date=2019-07-29}}</ref>
+
+==Seeding==
+The draw for the first round was held on 29 July 2019 at 12:00 [[Egypt Standard Time|EST]] ([[UTC+02:00|UTC+2]]), at the CAF headquarters in [[Cairo]], Egypt.<ref>{{cite web|url=https://www.fifa.com/worldcup/news/africa-draw--qatar-2022-344-w-3045812|title=Early miles of African marathon to Qatar laid out|publisher=FIFA.com|date=28 July 2019}}</ref>
+
+The seeding was based on the [[FIFA World Rankings]] of July 2019 (shown in parentheses below).<ref>{{cite web |url=https://www.fifa.com/fifa-world-ranking/ranking-table/men/rank/id12623/#CAF |archive-url=https://web.archive.org/web/20190813162621/https://www.fifa.com/fifa-world-ranking/ranking-table/men/rank/id12623/#CAF |url-status=dead |archive-date=13 August 2019 |title=FIFA Men's Ranking – July 2019 (CAF) |publisher=FIFA.com |date=25 July 2019}}</ref> Teams from Pot 2 hosted the first leg, while teams from Pot 1 hosted the second leg.
+
+Note: '''Bolded''' teams qualified for the second round.
+
+{| class="wikitable" style="text-align:left;"
+! Pot 1
+! Pot 2
+|-
+|{{ordered list|start=1
+|'''{{fb|ZIM}}''' (112)
+|{{fb|SLE}} (114)
+|'''{{fb|MOZ}}''' (116)
+|'''{{fb|NAM}}''' (121)
+|'''{{fb|ANG}}''' (122)
+|'''{{fb|GNB}}''' (123)
+|'''{{fb|MWI}}''' (126)
+|'''{{fb|TOG}}''' (128)
+|'''{{fb|SDN}}''' (129)
+|'''{{fb|RWA}}''' (133)
+|'''{{fb|TAN}}''' (137)
+|'''{{fb|EQG}}''' (139)
+|{{fb|SWZ}} (139)
+|{{fb|LES}} (144)
+}}
+|{{ordered list|start=15
+|{{fb|COM}} (146)
+|{{fb|BOT}} (147)
+|{{fb|BDI}} (148)
+|'''{{fb|ETH}}''' (150)
+|'''{{fb|LBR}}''' (152)
+|{{fb|MRI}} (157)
+|{{fb|GAM}} (161)
+|{{fb|SSD}} (169)
+|{{fb|CHA}} (175)
+|{{fb|STP}} (185)
+|{{fb|SEY}} (192)
+|'''{{fb|DJI}}''' (195)
+|{{fb|SOM}} (202)
+|{{fb|ERI}} (202)
+}}
+|}
+
+==Summary==
+The first legs were played on 4–7 September, and the second legs on 8 and 10 September 2019.
+<onlyinclude>{{TwoLeg start}}
+{{TwoLegResult|'''{{fb-rt|ETH}}'''||1–1 ([[Away goals rule|a]])|{{fb|LES}}||[[2022 FIFA World Cup qualification – CAF first round#ETH v LES|0–0]]|[[2022 FIFA World Cup qualification – CAF first round#LES v ETH|1–1]]}}
+{{TwoLegResult|{{fb-rt|SOM}}||2–3|'''{{fb|ZIM}}'''||[[2022 FIFA World Cup qualification – CAF first round#SOM v ZIM|1–0]]|[[2022 FIFA World Cup qualification – CAF first round#ZIM v SOM|1–3]]}}
+{{TwoLegResult|{{fb-rt|ERI}}||1–4|'''{{fb|NAM}}'''||[[2022 FIFA World Cup qualification – CAF first round#ERI v NAM|1–2]]|[[2022 FIFA World Cup qualification – CAF first round#NAM v ERI|0–2]]}}
+{{TwoLegResult|{{fb-rt|BDI}}||2–2 {{pso|0–3}}|'''{{fb|TAN}}'''||[[2022 FIFA World Cup qualification – CAF first round#BDI v TAN|1–1]]|[[2022 FIFA World Cup qualification – CAF first round#TAN v BDI|1–1]] {{aet}}}}
+{{TwoLegResult|'''{{fb-rt|DJI}}'''||2–1|{{fb|SWZ}}||[[2022 FIFA World Cup qualification – CAF first round#DJI v SWZ|2–1]]|[[2022 FIFA World Cup qualification – CAF first round#SWZ v DJI|0–0]]}}
+{{TwoLegResult|{{fb-rt|BOT}}||0–1|'''{{fb|MWI}}'''||[[2022 FIFA World Cup qualification – CAF first round#BOT v MWI|0–0]]|[[2022 FIFA World Cup qualification – CAF first round#MWI v BOT|0–1]]}}
+{{TwoLegResult|{{fb-rt|GAM}}||1–3|'''{{fb|ANG}}'''||[[2022 FIFA World Cup qualification – CAF first round#GAM v ANG|0–1]]|[[2022 FIFA World Cup qualification – CAF first round#ANG v GAM|1–2]]}}
+{{TwoLegResult|'''{{fb-rt|LBR}}'''||3–2|{{fb|SLE}}||[[2022 FIFA World Cup qualification – CAF first round#LBR v SLE|3–1]]|[[2022 FIFA World Cup qualification – CAF first round#SLE v LBR|0–1]]}}
+{{TwoLegResult|{{fb-rt|MRI}}||0–3|'''{{fb|MOZ}}'''||[[2022 FIFA World Cup qualification – CAF first round#MRI v MOZ|0–1]]|[[2022 FIFA World Cup qualification – CAF first round#MOZ v MRI|0–2]]}}
+{{TwoLegResult|{{fb-rt|STP}}||1–3|'''{{fb|GNB}}'''||[[2022 FIFA World Cup qualification – CAF first round#STP v GNB|0–1]]|[[2022 FIFA World Cup qualification – CAF first round#GNB v STP|1–2]]}}
+{{TwoLegResult|{{fb-rt|SSD}}||1–2|'''{{fb|EQG}}'''||[[2022 FIFA World Cup qualification – CAF first round#SSD v EQG|1–1]]|[[2022 FIFA World Cup qualification – CAF first round#EQG v SSD|0–1]]}}
+{{TwoLegResult|{{fb-rt|Comoros}}||1–3|'''{{fb|TOG}}'''||[[2022 FIFA World Cup qualification – CAF first round#COM v TOG|1–1]]|[[2022 FIFA World Cup qualification – CAF first round#TOG v COM|0–2]]}}
+{{TwoLegResult|{{fb-rt|CHA}}||1–3|'''{{fb|SDN}}'''||[[2022 FIFA World Cup qualification – CAF first round#CHA v SDN|1–3]]|[[2022 FIFA World Cup qualification – CAF first round#SDN v CHA|0–0]]}}
+{{TwoLegResult|{{fb-rt|SEY}}||0–10|'''{{fb|RWA}}'''||[[2022 FIFA World Cup qualification – CAF first round#SEY v RWA|0–3]]|[[2022 FIFA World Cup qualification – CAF first round#RWA v SEY|0–7]]}}
+{{end}}</onlyinclude>
+
+==Matches==
+{{Football box
+|id         = ETH v LES
+|date       = {{Start date|2019|9|4|df=y}}
+|time       = {{UTZ|16:00|3}}
+|team1      = {{fb-rt|ETH}}
+|score      = 0–0
+|team2      = {{fb|LES}}
+|goals1     =
+|goals2     =
+|stadium    = [[Bahir Dar Stadium]], [[Bahir Dar]]
+|attendance = 48,000
+|referee    = Mohamed Maarouf ([[Egyptian Football Association|Egypt]])
+|report     = https://www.fifa.com/tournaments/mens/worldcup/qatar2022/qualifiers/caf/match-center/400087240
+}}
+{{Football box
+|id         = LES v ETH
+|date       = {{Start date|2019|9|8|df=y}}
+|time       = {{UTZ|15:00|2}}
+|team1      = {{fb-rt|LES}}
+|score      = 1–1
+|team2      = {{fb|ETH}}
+|goals1     =
+*[[Tsepo Seturumane|Seturumane]] {{goal|56}}
+|goals2     =
+*[[Nkau Lerotholi|Lerotholi]] {{goal|50|o.g.}}
+|stadium    = [[Setsoto Stadium]], [[Maseru]]
+|attendance = 15,000
+|referee    = Messie Nkounkou ([[Congolese Football Federation|Congo]])
+|report     = https://www.fifa.com/tournaments/mens/worldcup/qatar2022/qualifiers/caf/match-center/400087254
+}}
+1–1 on aggregate. '''Ethiopia''' won on away goals and advanced to [[2022 FIFA World Cup qualification – CAF second round|second round]].
+----
+{{Football box
+|id         = SOM v ZIM
+|date       = {{Start date|2019|9|5|df=y}}
+|time       = {{UTZ|18:00|3}}
+|team1      = {{fb-rt|SOM}}
+|score      = 1–0
+|team2      = {{fb|ZIM}}
+|goals1     =
+[[Anwar Shakunda|Shakunda]] {{goal|86}}
+|goals2     =
+|stadium    = [[El Hadj Hassan Gouled Aptidon Stadium]], [[Djibouti (city)|Djibouti]] ([[Djibouti]]) {{refn|group=note|Somalia played their home match in Djibouti due to security concerns from the [[Somali Civil War|ongoing civil war]].}}
+|attendance = 4,000
+|referee    = Alfred Pousri Armi ([[Chadian Football Federation|Chad]])
+|report     = https://www.fifa.com/tournaments/mens/worldcup/qatar2022/qualifiers/caf/match-center/400087241
+}}
+{{Football box
+|id         = ZIM v SOM
+|date       = {{Start date|2019|9|10|df=y}}
+|time       = {{UTZ|15:00|2}}
+|team1      = {{fb-rt|ZIM}}
+|score      = 3–1
+|team2      = {{fb|SOM}}
+|goals1     =
+*[[Marshall Munetsi|Munetsi]] {{goal|77}}
+*[[Admiral Muskwe|Muskwe]] {{goal|86}}
+*[[Khama Billiat|Billiat]] {{goal|90}}
+|goals2     =
+*[[Omar Mohamed|O. Mohamed]] {{goal|85}}
+|stadium    = [[National Sports Stadium (Zimbabwe)|National Sports Stadium]], [[Harare]]
+|attendance = 13,000
+|referee    = Andofetra Rakotojaona ([[Malagasy Football Federation|Madagascar]])
+|report     = https://www.fifa.com/tournaments/mens/worldcup/qatar2022/qualifiers/caf/match-center/400087255
+}}
+'''Zimbabwe''' won 3–2 on aggregate and advanced to second round.
+----
+{{Football box
+|id         = ERI v NAM
+|date       = {{Start date|2019|9|4|df=y}}
+|time       = {{UTZ|16:00|3}}
+|team1      = {{fb-rt|ERI}}
+|score      = 1–2
+|team2      = {{fb|NAM}} 
+|goals1     =
+*[[Ali Sulieman|Sulieman]] {{goal|65}}
+|goals2     =
+*[[Peter Shalulile|Shalulile]] {{goal|50}}
+*[[Esey Tesfay|E. Tesfay]] {{goal|58|o.g.}}
+|stadium    = [[Denden Stadium]], [[Asmara]]
+|attendance = 20,000
+|referee    = Mohamed Ali Moussa ([[Nigerien Football Federation|Niger]])
+|report     = https://www.fifa.com/tournaments/mens/worldcup/qatar2022/qualifiers/caf/match-center/400087242
+}}
+{{Football box
+|id         = NAM v ERI
+|date       = {{Start date|2019|9|10|df=y}}
+|time       = {{UTZ|19:00|2}}
+|team1      = {{fb-rt|NAM}}
+|score      = 2–0
+|team2      = {{fb|ERI}}
+|goals1     =
+*[[Absalom Iimbondi|Iimbondi]] {{goal|25}}
+*[[Peter Shalulile|Shalulile]] {{goal|90+2}}
+|goals2     =
+|stadium    = [[Sam Nujoma Stadium]], [[Windhoek]]
+|attendance = 4,200
+|referee    = Roland Danon ([[Ivorian Football Federation|Ivory&nbsp;Coast]])
+|report     = https://www.fifa.com/tournaments/mens/worldcup/qatar2022/qualifiers/caf/match-center/400087256
+}}
+'''Namibia''' won 4–1 on aggregate and advanced to second round.
+----
+{{Football box
+|id         = BDI v TAN
+|date       = {{Start date|2019|9|4|df=y}}
+|time       = {{UTZ|15:00|2}}
+|team1      = {{fb-rt|BDI}}
+|score      = 1–1
+|team2      = {{fb|TAN}} 
+|goals1     =
+*[[Cédric Amissi|C. Amissi]] {{goal|81}}
+|goals2     =
+*[[Simon Msuva|Msuva]] {{goal|85}}
+|stadium    = [[Prince Louis Rwagasore Stadium]], [[Bujumbura]]
+|attendance = 22,000
+|referee    = Kokou Ntalé ([[Togolese Football Federation|Togo]])
+|report     = https://www.fifa.com/tournaments/mens/worldcup/qatar2022/qualifiers/caf/match-center/400087243
+}}
+{{Football box
+|id         = TAN v BDI
+|date       = {{Start date|2019|9|8|df=y}}
+|time       = {{UTZ|16:00|3}}
+|team1      = {{fb-rt|TAN}}
+|score      = 1–1
+|aet        = yes
+|team2      = {{fb|BDI}}
+|goals1     =
+*[[Mbwana Samatta|Samatta]] {{goal|29}}
+|goals2     =
+*[[Fiston Abdul Razak|Abdul Razak]] {{goal|45+2}}
+|stadium    = [[National Stadium (Tanzania)|National Stadium]], [[Dar es Salaam]] 
+|attendance = 55,000
+|referee    = Norman Matemera ([[Zimbabwe Football Association|Zimbabwe]])
+|report     = https://www.fifa.com/tournaments/mens/worldcup/qatar2022/qualifiers/caf/match-center/400087257
+|penalties1 = 
+*[[Erasto Nyoni|Nyoni]] {{pengoal}}
+*[[Himid Mao|Mao]] {{pengoal}}
+*[[Gadiel Kamagi|Kamagi]] {{pengoal}}
+|penaltyscore = 3–0
+|penalties2 = 
+*{{penmiss}} [[Omar Ngandu|Ngandu]]
+*{{penmiss}} [[Saido Berahino|Berahino]]
+*{{penmiss}} [[Gaël Bigirimana|Bigirimana]]
+}}
+2–2 on aggregate. '''Tanzania''' won 3–0 on penalties and advanced to second round.
+----
+{{Football box
+|id         = DJI v SWZ
+|date       = {{Start date|2019|9|4|df=y}}
+|time       = {{UTZ|18:00|3}}
+|team1      = {{fb-rt|DJI}}
+|score      = 2–1
+|team2      = {{fb|SWZ}}
+|goals1     =
+*[[Mahdi Houssein Mahabeh|Mahabeh]] {{goal|45+4|pen.}}
+*[[Abdi Idleh Hamza|Hamza]] {{goal|74}}
+|goals2     =
+*[[Siboniso Mamba|S. Mamba]] {{goal|56}}
+|stadium    = [[El Hadj Hassan Gouled Aptidon Stadium]], [[Djibouti (city)|Djibouti]]
+|attendance = 10,000
+|referee    = Slim Belakhouas ([[Tunisian Football Federation|Tunisia]])
+|report     = https://www.fifa.com/tournaments/mens/worldcup/qatar2022/qualifiers/caf/match-center/400087244
+}}
+{{Football box
+|id         = SWZ v DJI
+|date       = {{Start date|2019|9|10|df=y}}
+|time       = {{UTZ|15:00|2}}
+|team1      = {{fb-rt|SWZ}}
+|score      = 0–0
+|team2      = {{fb|DJI}}
+|goals1     =
+|goals2     =
+|stadium    = [[Mavuso Sports Centre]], [[Manzini, Eswatini|Manzini]]
+|attendance = 1,500
+|referee    = Beida Dahane ([[Football Federation of the Islamic Republic of Mauritania|Mauritania]])
+|report     = https://www.fifa.com/tournaments/mens/worldcup/qatar2022/qualifiers/caf/match-center/400087258
+}}
+'''Djibouti''' won 2–1 on aggregate and advanced to second round.
+----
+{{Football box
+|id         = BOT v MWI
+|date       = {{Start date|2019|9|7|df=y}}
+|time       = {{UTZ|16:00|2}}
+|team1      = {{fb-rt|BOT}}
+|score      = 0–0
+|team2      = {{fb|MWI}}
+|goals1     =
+|goals2     =
+|stadium    = [[Francistown Stadium]], [[Francistown]]
+|attendance = 14,000
+|referee    = Anthony Ogwayo ([[Football Kenya Federation|Kenya]])
+|report     = https://www.fifa.com/tournaments/mens/worldcup/qatar2022/qualifiers/caf/match-center/400087245
+}}
+{{Football box
+|id         = MWI v BOT
+|date       = {{Start date|2019|9|10|df=y}}
+|time       = {{UTZ|14:00|2}}
+|team1      = {{fb-rt|MWI}}
+|score      = 1–0
+|team2      = {{fb|BOT}}
+|goals1     =
+*[[Gerald Phiri Jr.|Phiri]] {{goal|81|pen.}}
+|goals2     =
+|stadium    = [[Kamuzu Stadium]], [[Blantyre]]
+|attendance = 23,700
+|referee    = Souleiman Djama ([[Djiboutian Football Federation|Djibouti]])
+|report     = https://www.fifa.com/tournaments/mens/worldcup/qatar2022/qualifiers/caf/match-center/400087259
+}}
+'''Malawi''' won 1–0 on aggregate and advanced to second round.
+----
+{{Football box
+|id         = GAM v ANG
+|date       = {{Start date|2019|9|6|df=y}}
+|time       = {{UTZ|17:00|0}}
+|team1      = {{fb-rt|GAM}}
+|score      = 0–1
+|team2      = {{fb|ANG}}
+|goals1     =
+|goals2     =
+*[[Wilson Gaspar|Gaspar]] {{goal|31}}
+|stadium    = [[Independence Stadium (Bakau)|Independence Stadium]], [[Bakau]]
+|attendance = 21,000
+|referee    = Quadri Adebimpe ([[Nigeria Football Federation|Nigeria]])
+|report     = https://www.fifa.com/tournaments/mens/worldcup/qatar2022/qualifiers/caf/match-center/400087246
+}}
+{{Football box
+|id         = ANG v GAM
+|date       = {{Start date|2019|9|10|df=y}}
+|time       = {{UTZ|16:00|1}}
+|team1      = {{fb-rt|ANG}}
+|score      = 2–1
+|team2      = {{fb|GAM}}
+|goals1     =
+*[[Geraldo (footballer, born 1991)|Geraldo]] {{goal|41}}
+*[[Fábio Abreu|Abreu]] {{goal|68}}
+|goals2     =
+*[[Assan Ceesay|Ceesay]] {{goal|65}}
+|stadium    = [[Estádio 11 de Novembro]], [[Luanda]]
+|attendance = 17,000
+|referee    = Jean-Marc Ganamandji ([[Central African Football Federation|Central&nbsp;African&nbsp;Republic]])
+|report     = https://www.fifa.com/tournaments/mens/worldcup/qatar2022/qualifiers/caf/match-center/400087260
+}}
+'''Angola''' won 3–1 on aggregate and advanced to second round.
+----
+{{Football box
+|id         = LBR v SLE
+|date       = {{Start date|2019|9|4|df=y}}
+|time       = {{UTZ|18:00|0}}
+|team1      = {{fb-rt|LBR}}
+|score      = 3–1
+|team2      = {{fb|SLE}}
+|goals1     =
+*[[Terrence Tisdell|Te. Tisdell]] {{goal|18|pen.}}
+*[[Mohammed Sangare|Sangare]] {{goal|82|pen.}}
+*[[Sam Johnson (footballer, born 1993)|Johnson]] {{goal|88}}
+|goals2     =
+*[[Kwame Quee|Quee]] {{goal|56}}
+|stadium    = [[Samuel Kanyon Doe Sports Complex]], [[Paynesville, Liberia|Paynesville]]
+|attendance = 40,000
+|referee    = Louis Houngnandande ([[Benin Football Federation|Benin]])
+|report     = https://www.fifa.com/tournaments/mens/worldcup/qatar2022/qualifiers/caf/match-center/400087247
+}}
+{{Football box
+|id         = SLE v LBR
+|date       = {{Start date|2019|9|8|df=y}}
+|time       = {{UTZ|16:30|0}}
+|team1      = {{fb-rt|SLE}}
+|score      = 1–0
+|team2      = {{fb|LBR}}
+|goals1     =
+*[[Kei Kamara|K. Kamara]] {{goal|55}}
+|goals2     =
+|stadium    = [[National Stadium (Sierra Leone)|Siaka Stevens Stadium]], [[Freetown]]
+|attendance = 43,000
+|referee    = Jean Ouattara ([[Burkinabé Football Federation|Burkina Faso]])
+|report     = https://www.fifa.com/tournaments/mens/worldcup/qatar2022/qualifiers/caf/match-center/400087261
+}}
+'''Liberia''' won 3–2 on aggregate and advanced to second round.
+----
+{{Football box
+|id         = MRI v MOZ
+|date       = {{Start date|2019|9|4|df=y}}
+|time       = {{UTZ|18:30|4}}
+|team1      = {{fb-rt|MRI}}
+|score      = 0–1
+|team2      = {{fb|MOZ}}
+|goals1     =
+|goals2     = [[Telinho]] {{goal|10}}
+|stadium    = [[Stade Anjalay]], [[Belle Vue Harel|Belle Vue]]
+|attendance = 5,700
+|referee    = Georges Gatogato ([[Football Federation of Burundi|Burundi]])
+|report     = https://www.fifa.com/tournaments/mens/worldcup/qatar2022/qualifiers/caf/match-center/400087248
+}}
+{{Football box
+|id         = MOZ v MRI
+|date       = {{Start date|2019|9|10|df=y}}
+|time       = {{UTZ|16:00|2}}
+|team1      = {{fb-rt|MOZ}}
+|score      = 2–0
+|team2      = {{fb|MRI}}
+|goals1     =
+*[[Clésio]] {{goal|6}}
+*[[Geny Catamo|Catamo]] {{goal|77|pen.}}
+|goals2     =
+|stadium    = [[Estádio do Zimpeto]], [[Maputo]]
+|attendance = 1,900
+|referee    = Brian Miiro ([[Federation of Uganda Football Associations|Uganda]])
+|report     = https://www.fifa.com/tournaments/mens/worldcup/qatar2022/qualifiers/caf/match-center/400087262
+}}
+'''Mozambique''' won 3–0 on aggregate and advanced to second round.
+----
+{{Football box
+|id         = STP v GNB
+|date       = {{Start date|2019|9|4|df=y}}
+|time       = {{UTZ|15:30|0}}
+|team1      = {{fb-rt|STP}}
+|score      = 0–1
+|team2      = {{fb|GNB}}
+|goals1     =
+|goals2     = [[Joseph Mendes|Jos. Mendes]] {{goal|85|pen.}}
+|stadium    = [[Estádio Nacional 12 de Julho]], [[São Tomé]]
+|attendance = 4,000
+|referee    = João Goma ([[Angolan Football Federation|Angola]])
+|report     = https://www.fifa.com/tournaments/mens/worldcup/qatar2022/qualifiers/caf/match-center/400087249
+}}
+{{Football box
+|id         = GNB v STP
+|date       = {{Start date|2019|9|10|df=y}}
+|time       = {{UTZ|16:30|0}}
+|team1      = {{fb-rt|GNB}}
+|score      = 2–1
+|team2      = {{fb|STP}}
+|goals1     =
+*[[Joseph Mendes|Jos. Mendes]] {{goal|66||77}}
+|goals2     =
+*[[Iniesta (footballer, born 1992)|Iniesta]] {{goal|12}}
+|stadium    = [[Estádio 24 de Setembro]], [[Bissau]]
+|attendance = 20,000
+|referee    = Daudu Williams ([[Sierra Leone Football Association|Sierra Leone]])
+|report     = https://www.fifa.com/tournaments/mens/worldcup/qatar2022/qualifiers/caf/match-center/400087263
+}}
+'''Guinea-Bissau''' won 3–1 on aggregate and advanced to second round.
+----
+{{Football box
+|id         = SSD v EQG
+|date       = {{Start date|2019|9|4|df=y}}
+|time       = {{UTZ|16:00|2}}
+|team1      = {{fb-rt|SSD}}
+|score      = 1–1
+|team2      = {{fb|EQG}}
+|goals1     =
+*[[Niko Kata|Kata]] {{goal|75|o.g.}}
+|goals2     =
+*[[Luis Meseguer|Meseguer]] {{goal|34}}
+|stadium    = [[Al-Hilal Stadium]], [[Omdurman]] ([[Sudan]]){{refn|group=note|South Sudan played their home match in Sudan due to their national stadium currently undergoing renovations.<ref>{{cite news |author=Huaxia |title=S. Sudan camps in Khartoum ahead of World Cup qualifiers |url=http://www.xinhuanet.com/english/2019-08/23/c_138332837.htm |archive-url=https://web.archive.org/web/20190823175808/http://www.xinhuanet.com/english/2019-08/23/c_138332837.htm |url-status=dead |archive-date=23 August 2019 |accessdate=4 September 2019 |agency=[[Xinhua News Agency]] |date=23 August 2019}}</ref>}}
+|attendance = 2,000
+|referee    = Abdulwahid Huraywidah ([[Libyan Football Federation|Libya]])
+|report     = https://www.fifa.com/tournaments/mens/worldcup/qatar2022/qualifiers/caf/match-center/400087250
+}}
+{{Football box
+|id         = EQG v SSD
+|date       = {{Start date|2019|9|8|df=y}}
+|time       = {{UTZ|17:00|1}}
+|team1      = {{fb-rt|EQG}}
+|score      = 1–0
+|team2      = {{fb|SSD}}
+|goals1     =
+*[[Emilio Nsue|Nsue]] {{goal|72}}
+|goals2     =
+|stadium    = [[Nuevo Estadio de Malabo]], [[Malabo]]
+|attendance = 6,700
+|referee    = Mahmood Ali Ismail ([[Sudan Football Association|Sudan]])
+|report     = https://www.fifa.com/tournaments/mens/worldcup/qatar2022/qualifiers/caf/match-center/400087264
+}}
+'''Equatorial Guinea''' won 2–1 on aggregate and advanced to second round.
+----
+{{Football box
+|id         = COM v TOG
+|date       = {{Start date|2019|9|6|df=y}}
+|time       = {{UTZ|15:00|3}}
+|team1      = {{fb-rt|Comoros}}
+|score      = 1–1
+|team2      = {{fb|TOG}}
+|goals1     =
+*[[Ibroihim Djoudja|Djoudja]] {{goal|49}}
+|goals2     =
+*[[Kodjo Fo-Doh Laba|Laba]] {{goal|34}}
+|stadium    = [[Stade de Moroni]], [[Moroni, Comoros|Moroni]]
+|attendance = 3,000
+|referee    = Elly Sasii ([[Tanzania Football Federation|Tanzania]])
+|report     = https://www.fifa.com/tournaments/mens/worldcup/qatar2022/qualifiers/caf/match-center/400087251
+}}
+{{Football box
+|id         = TOG v COM
+|date       = {{Start date|2019|9|10|df=y}}
+|time       = {{UTZ|16:00|0}}
+|team1      = {{fb-rt|TOG}}
+|score      = 2–0
+|team2      = {{fb|COM}}
+|goals1     =
+*[[Kassim M'Dahoma|M'Dahoma]] {{goal|10|o.g.}}
+*[[Gilles Sunu|Sunu]] {{goal|71}}
+|goals2     =
+|stadium    = [[Stade de Kégué]], [[Lomé]]
+|attendance = 25,000
+|referee    = Pierre Atcho ([[Gabonese Football Federation|Gabon]])
+|report     = https://www.fifa.com/tournaments/mens/worldcup/qatar2022/qualifiers/caf/match-center/400087265
+}}
+'''Togo''' won 3–1 on aggregate and advanced to second round.
+----
+{{Football box
+|id         = CHA v SDN
+|date       = {{Start date|2019|9|5|df=y}}
+|time       = {{UTZ|15:30|1}}
+|team1      = {{fb-rt|CHA}}
+|score      = 1–3
+|team2      = {{fb|SDN}}
+|goals1     =
+*[[Ezechiel N'Douassel|N'Douassel]] {{goal|85|pen.}}
+|goals2     =
+*[[Ramadan Agab|Ramadan]] {{goal|13||67||74}}
+|stadium    = [[Stade Omnisports Idriss Mahamat Ouya]], [[N'Djamena]]
+|attendance = 30,000
+|referee    = Bangaly Konate ([[Guinean Football Federation|Guinea]])
+|report     = https://www.fifa.com/tournaments/mens/worldcup/qatar2022/qualifiers/caf/match-center/400087252
+}}
+{{Football box
+|id         = SDN v CHA
+|date       = {{Start date|2019|9|10|df=y}}
+|time       = {{UTZ|19:00|2}}
+|team1      = {{fb-rt|SDN}}
+|score      = 0–0
+|team2      = {{fb|CHA}}
+|goals1     =
+|goals2     =
+|stadium    = [[Al-Merrikh Stadium]], [[Omdurman]]
+|attendance = 17,500
+|referee    = Nelson Fred ([[Seychelles Football Federation|Seychelles]])
+|report     = https://www.fifa.com/tournaments/mens/worldcup/qatar2022/qualifiers/caf/match-center/400087266
+}}
+'''Sudan''' won 3–1 on aggregate and advanced to second round.
+----
+{{Football box
+|id         = SEY v RWA
+|date       = {{Start date|2019|9|5|df=y}}
+|time       = {{UTZ|16:00|4}}
+|team1      = {{fb-rt|SEY}}
+|score      = 0–3
+|team2      = {{fb|RWA}}
+|goals1     =
+|goals2     =
+*[[Muhadjiri Hakizimana|Hakizimana]] {{goal|32}}
+*[[Yannick Mukunzi|Mukunzi]] {{goal|36}}
+*[[Meddie Kagere|Kagere]] {{goal|80}}
+|stadium    = [[Stade Linité]], [[Victoria, Seychelles|Victoria]]
+|attendance = 1,300
+|referee    = Belay Tadesse ([[Ethiopian Football Federation|Ethiopia]])
+|report     = https://www.fifa.com/tournaments/mens/worldcup/qatar2022/qualifiers/caf/match-center/400087253
+}}
+{{Football box
+|id         = RWA v SEY
+|date       = {{Start date|2019|9|10|df=y}}
+|time       = {{UTZ|18:00|2}}
+|team1      = {{fb-rt|RWA}}
+|score      = 7–0
+|team2      = {{fb|SEY}}
+|goals1     =
+*[[Djihad Bizimana|Bizimana]] {{goal|16}}
+*[[Meddie Kagere|Kagere]] {{goal|27||51}}
+*[[Jacques Tuyisenge|Tuyisenge]] {{goal|29||34}}
+*[[Yannick Mukunzi|Mukunzi]] {{goal|57}}
+*[[Muhadjiri Hakizimana|Hakizimana]] {{goal|79}}
+|goals2     =
+|stadium    = [[Stade Régional Nyamirambo]], [[Kigali]]
+|attendance = 20,000
+|referee    = Tsegay Mogos ([[Eritrean National Football Federation|Eritrea]])
+|report     = https://www.fifa.com/tournaments/mens/worldcup/qatar2022/qualifiers/caf/match-center/400087267
+}}
+'''Rwanda''' won 10–0 on aggregate and advanced to second round.
+
+==Goalscorers==
+{{#invoke:Goalscorers|main|2022 FIFA World Cup qualification (CAF)|round=firstround}}<!--CAREFULLY update goalscorers at Module:Goalscorers/data/2022 FIFA World Cup qualification (CAF)-->
+
+==Notes==
+{{reflist|group=note}}
+
+==References==
+{{reflist}}
+
+==External links==
+*{{Official website|https://www.fifa.com/tournament/mens/worldcup/qatar2022/qualifiers|Official FIFA World Cup website}}
+*[https://www.fifa.com/tournament/mens/worldcup/qatar2022/qualifiers/caf Qualifiers – Africa Matches: Round 1], FIFA.com
+
+{{Use dmy dates|date=July 2019}}
+{{2022 FIFA World Cup qualifiers}}
+
+{{DEFAULTSORT:2022 FIFA World Cup qualification - CAF first round}}
+[[Category:2022 FIFA World Cup qualification (CAF)|1]]
+[[Category:2019 in African football|Qual]]
+[[Category:September 2019 sports events in Africa|FIFA World Cup qualification, CAF Round 1]]

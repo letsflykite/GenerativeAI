@@ -1,0 +1,1459 @@
+{{short description|none}}
+{{Use dmy dates|date=October 2021}}
+The '''first round''' of [[2022 FIFA World Cup qualification (CONCACAF)|CONCACAF matches]] for '''[[2022 FIFA World Cup qualification]]''' was played in March and June 2021.<ref>{{cite news |url=https://www.concacaf.com/en/world-cup-qualifying-men/article/draw-procedures-confirmed-for-first-round-of-concacaf-qualifiers-for-the-fifa-world-cup-qatar-2022 |title=Draw procedures confirmed for First Round of Concacaf Qualifiers for the FIFA World Cup Qatar 2022 |work=[[CONCACAF]] |date=12 August 2020 |access-date=19 August 2020}}</ref>
+
+==Format==
+A total of 30 teams (CONCACAF teams ranked 6 to 35 based on the [[FIFA World Rankings|FIFA rankings]] of July 2020) were divided into six groups of five teams each. In each group, teams played against each other once in a single [[round-robin tournament|round-robin]] format, for a total of four matches per team (two home and two away). The top team of each of the six groups advanced to the [[2022 FIFA World Cup qualification – CONCACAF second round|second round]].<ref>{{cite news |url=https://www.concacaf.com/en/article/new-concacaf-qualifiers-announced-for-regional-qualification-to-fifa-world-cup-qatar-2022 |title=New CONCACAF Qualifiers announced for regional qualification to FIFA World Cup Qatar 2022 |work=CONCACAF |date=27 July 2020 |access-date=18 August 2020}}</ref>
+
+==Seeding==
+The draw for the first round was held, along with the draw for the [[2022 FIFA World Cup qualification – CONCACAF third round|third round]], on 19 August 2020, 19:00 [[Central European Summer Time|CEST]] ([[UTC+02:00|UTC+2]]), at the [[FIFA headquarters]] in [[Zürich]], Switzerland.<ref>{{cite news |url=https://www.fifa.com/worldcup/news/concacaf-preliminary-draw-set-to-map-qualification-pathway-towards-fifa-world-cu |title=CONCACAF preliminary draw for FIFA World Cup 2022 to take place on 19 August |publisher=[[FIFA]] |date=12 August 2020 |access-date=18 August 2020}}</ref>
+
+The seeding was based on the [[FIFA World Rankings]] of July 2020 (shown in parentheses). Teams in Pot 1 were pre-seeded to positions A1 to F1 based on their ranking (A1 as the highest-ranked team in Pot 1, and F1 as the lowest-ranked in Pot 1). The remaining teams were drawn by pot into the first available group alphabetically. Each team was assigned the position in their group based on their pot number (Pot 2 was placed in position 2, Pot 3 was placed in position 3).<ref>{{cite web |url=https://digitalhub.fifa.com/m/54834f7a91d5ce00/original/ygwzvy8jhzkxjqiubexv-pdf.pdf |title=FIFA World Cup 2022 Preliminary Draw (CONCACAF): Draw procedures |publisher=FIFA |date=12 August 2020 |access-date=18 August 2020}}</ref>
+
+Note: '''Bolded''' teams qualified for the second round.
+{| class="wikitable"
+|-
+!width=20%|Pot 1
+!width=20%|Pot 2
+!width=20%|Pot 3
+!width=20%|Pot 4
+!width=20%|Pot 5
+|-
+|valign=top|{{ordered list|start=1
+ |'''{{fb|SLV}}''' (69)
+ |'''{{fb|CAN}}''' (73)
+ |'''{{fb|CUW}}''' (80)
+ |'''{{fb|PAN}}''' (81)
+ |'''{{fb|HAI}}''' (86)
+ |{{fb|TRI}} (105)
+}}
+|valign=top|{{ordered list|start=7
+ |{{fb|ATG}} (126)
+ |{{fb|GUA}} (130)
+ |'''{{fb|SKN}}''' (139)
+ |{{fb|SUR}} (141)
+ |{{fb|NCA}} (151)
+ |{{fb|DOM}} (158)
+}}
+|valign=top|{{ordered list|start=13
+ |{{fb|GRN}} (159)
+ |{{fb|BRB}} (162)
+ |{{fb|GUY}} (166)
+ |{{fb|VIN}} (167)
+ |{{fb|BER}} (168)
+ |{{fb|BLZ}} (170)
+}}
+|valign=top|{{ordered list|start=19
+ |{{fb|LCA}} (176){{efn|Saint Lucia were drawn into Group E in the first round, but later withdrew before their first match.<ref>{{cite web|url=https://www.sportsmax.tv/index.php/football/regional/item/79613-st-lucia-players-in-the-dark-about-world-cup-qualifiers|title=St Lucia players in the dark about World Cup qualifiers|work=SportsMax|date=23 March 2021|access-date=24 March 2021}}</ref>}}
+ |{{fb|PUR}} (178)
+ |{{fb|CUB}} (179)
+ |{{fb|MSR}} (183)
+ |{{fb|DMA}} (184)
+ |{{fb|CAY}} (193)
+}}
+|valign=top|{{ordered list|start=25
+ |{{fb|BAH}} (195)
+ |{{fb|ARU}} (200)
+ |{{fb|TCA}} (203)
+ |{{fb|VIR}} (207)
+ |{{fb|VGB}} (208)
+ |{{fb|AIA}} (210)
+}}
+|}
+{{notelist}}
+
+==Schedule==
+The matches were originally scheduled for 7–13 October and 11–17 November 2020. However, CONCACAF announced on 8 September 2020 that the matches would be postponed, and would not begin until March 2021.<ref>{{cite news |url=https://www.concacaf.com/en/world-cup-qualifying-men/article/concacaf-confirms-schedule-for-concacaf-qualifiers-for-fifa-world-cup-qatar-2022 |title=CONCACAF confirms schedule for Concacaf Qualifiers for FIFA World Cup Qatar 2022 |work=CONCACAF |date=4 December 2020 |access-date=4 December 2020 |archive-date=20 January 2021 |archive-url=https://web.archive.org/web/20210120132650/https://www.concacaf.com/en/world-cup-qualifying-men/article/concacaf-confirms-schedule-for-concacaf-qualifiers-for-fifa-world-cup-qatar-2022 |url-status=dead }}</ref><ref>{{cite news |url=https://www.concacaf.com/en/world-cup-qualifying-men/article/update-on-the-concacaf-qualifiers-for-the-fifa-world-cup-qatar-2022 |title=Update on the CONCACAF Qualifiers for the FIFA World Cup Qatar 2022 |work=CONCACAF |date=8 September 2020 |access-date=8 September 2020}}</ref> The schedule for the March 2021 matches was announced on 26 February 2021. Due to the [[COVID-19 pandemic in North America]] and related quarantine and [[Travel restrictions related to the COVID-19 pandemic|travel]] restrictions in certain countries, some matches took place at neutral venues.<ref>{{cite web |url=https://www.fifa.com/worldcup/news/update-on-upcoming-concacaf-qualifiers-in-march-2021 |title=Update on upcoming CONCACAF qualifiers in March 2021 |publisher=[[FIFA]] |date=26 February 2021 |access-date=26 February 2021}}</ref><ref>{{cite web |url=https://digitalhub.fifa.com/m/9385b442b7c17b94/original/mcugukgsbs6hx8haxoaw-pdf.pdf |title=CONCACAF Qualifiers for the FIFA World Cup Qatar 2022 |publisher=[[FIFA]] |date=26 February 2021 |access-date=26 February 2021}}</ref>
+{| class="wikitable"
+|-
+! Match
+! Original date
+! Revised date
+|-
+! 2 v 4
+| 7 October 2020
+| 24 March 2021
+|-
+! 1 v 3
+| 8 October 2020
+| 25 March 2021
+|-
+! 5 v 2
+| 10 October 2020
+| 27 March 2021
+|-
+! 4 v 1
+| 11 October 2020
+| 28–29 March 2021
+|-
+! 3 v 5
+| 13 October 2020
+| 30 March 2021
+|-
+! 4 v 5
+| 11 November 2020
+| 2 June 2021
+|-
+! 2 v 3
+| 13 November 2020
+| 4 June 2021
+|-
+! 5 v 1
+| 14 November 2020
+| 5 June 2021
+|-
+! 3 v 4
+| rowspan="2" | 17 November 2020
+| rowspan="2" | 8 June 2021
+|-
+! 1 v 2
+|}
+
+==Groups==
+===Group A===
+<onlyinclude>{{#invoke:Sports table|main|style=WDL
+|section=Group A
+|show_matches=y
+|class_rules=[[2022 FIFA World Cup qualification#Tiebreakers|Tiebreakers]]
+|source=[https://www.fifa.com/tournaments/mens/worldcup/qatar2022/qualifiers/concacaf FIFA]
+
+<!--Update team positions below (check tiebreakers)-->
+|team_order=SLV, MSR, ATG, GRN, VIR
+
+<!--Update team results below (including date)-->
+|update=complete
+|win_SLV=3 |draw_SLV=1 |loss_SLV=0 |gf_SLV=13|ga_SLV=1
+|win_ATG=2 |draw_ATG=1 |loss_ATG=1 |gf_ATG=6 |ga_ATG=5
+|win_GRN=1 |draw_GRN=0 |loss_GRN=3 |gf_GRN=2 |ga_GRN=5
+|win_MSR=2 |draw_MSR=2 |loss_MSR=0 |gf_MSR=9 |ga_MSR=4
+|win_VIR=0 |draw_VIR=0 |loss_VIR=4 |gf_VIR=0 |ga_VIR=15
+
+<!--Update match results below-->
+|match_SLV_ATG=[[2022 FIFA World Cup qualification – CONCACAF first round#El Salvador v Antigua and Barbuda|3-0]]
+|match_SLV_GRN=[[2022 FIFA World Cup qualification – CONCACAF first round#El Salvador v Grenada|2–0]]
+|match_SLV_MSR=null
+|match_SLV_VIR=null
+
+|match_ATG_SLV=null
+|match_ATG_GRN=[[2022 FIFA World Cup qualification – CONCACAF first round#Antigua and Barbuda v Grenada|1–0]]
+|match_ATG_MSR=[[2022 FIFA World Cup qualification – CONCACAF first round#Antigua and Barbuda v Montserrat|2–2]]
+|match_ATG_VIR=null
+
+|match_GRN_SLV=null
+|match_GRN_ATG=null
+|match_GRN_MSR=[[2022 FIFA World Cup qualification – CONCACAF first round#Grenada v Montserrat|1-2]]
+|match_GRN_VIR=[[2022 FIFA World Cup qualification – CONCACAF first round#Grenada v U.S. Virgin Islands|1–0]]
+
+|match_MSR_SLV=[[2022 FIFA World Cup qualification – CONCACAF first round#Montserrat v El Salvador|1–1]]
+|match_MSR_ATG=null
+|match_MSR_GRN=null
+|match_MSR_VIR=[[2022 FIFA World Cup qualification – CONCACAF first round#Montserrat v U.S. Virgin Islands|4–0]]
+
+|match_VIR_SLV=[[2022 FIFA World Cup qualification – CONCACAF first round#U.S. Virgin Islands v El Salvador|0–7]]
+|match_VIR_ATG=[[2022 FIFA World Cup qualification – CONCACAF first round#U.S. Virgin Islands v Antigua and Barbuda|0–3]]
+|match_VIR_GRN=null
+|match_VIR_MSR=null
+
+<!--Team definitions-->
+|name_SLV={{fb|SLV}} |short_SLV={{flagdeco|SLV}}
+|name_ATG={{fb|ATG}} |short_ATG={{flagdeco|ATG}}
+|name_GRN={{fb|GRN}} |short_GRN={{flagdeco|GRN}}
+|name_MSR={{fb|MSR}} |short_MSR={{flagdeco|MSR}}
+|name_VIR={{fb|VIR}} |short_VIR={{flagdeco|VIR}}
+
+<!--Qualification column definitions-->
+|res_col_header=Q
+|result1=SR
+|col_SR=green1 |text_SR=Advance to [[2022 FIFA World Cup qualification – CONCACAF second round|second round]]
+}}</onlyinclude>
+{{Football box
+|id         = Antigua and Barbuda v Montserrat
+|date       = {{Start date|2021|3|24|df=y}}
+|time       = 18:00 [[UTC−04:00|UTC−4]]
+|team1      = {{fb-rt|ATG}}
+|score      = 2–2
+|report     = https://www.fifa.com/tournaments/mens/worldcup/qatar2022/qualifiers/concacaf/match-center/400136234
+|team2      = {{fb|MSR}}
+|goals1     =
+*Kirwan {{goal|23}}
+*[[D'Andre Bishop|Bishop]] {{goal|45}}
+|goals2     =
+*[[Lyle Taylor|L. Taylor]] {{goal|7|pen.|26}}
+|stadium    = [[Ergilio Hato Stadium]], [[Willemstad]] (Curaçao)
+|attendance = 0
+|referee    = Melvin Orlando Matamoros ([[National Autonomous Federation of Football of Honduras|Honduras]])
+}}
+{{Football box
+|id         = El Salvador v Grenada
+|date       = {{Start date|2021|3|25|df=y}}
+|time       = 20:25 [[UTC−06:00|UTC−6]]
+|team1      = {{fb-rt|SLV}}
+|score      = 2–0
+|report     = https://www.fifa.com/tournaments/mens/worldcup/qatar2022/qualifiers/concacaf/match-center/400136237
+|team2      = {{fb|GRN}}
+|goals1     =
+*[[Gerson Mayen|Mayen]] {{goal|23}}
+*[[David Rugamas|Rugamas]] {{goal|46}}
+|goals2     =
+|stadium    = [[Estadio Cuscatlán]], [[San Salvador]]
+|attendance = 250
+|referee    = Kimbell Ward ([[St. Kitts and Nevis Football Association|St. Kitts and Nevis]])
+}}
+----
+{{Football box
+|id         = U.S. Virgin Islands v Antigua and Barbuda
+|date       = {{Start date|2021|3|27|df=y}}
+|time       = 19:00 [[UTC−04:00|UTC−4]]
+|team1      = {{fb-rt|VIR}}
+|score      = 0–3
+|report     = https://www.fifa.com/tournaments/mens/worldcup/qatar2022/qualifiers/concacaf/match-center/400136231
+|team2      = {{fb|ATG}}
+|goals1     =
+|goals2     =
+*[[Peter Byers|Byers]] {{goal|26}}
+*[[Quinton Griffith|Griffith]] {{goal|34|pen.|42}}
+|stadium    = [[Bethlehem Soccer Stadium]], [[Upper Bethlehem, U.S. Virgin Islands|Upper Bethlehem]]
+|attendance = 0
+|referee    = Trevester Richards ([[St. Kitts and Nevis Football Association|St. Kitts and Nevis]])
+}}
+{{Football box
+|id         = Montserrat v El Salvador
+|date       = {{Start date|2021|3|28|df=y}}
+|time       = 19:00 [[UTC−04:00|UTC−4]]
+|team1      = {{fb-rt|MSR}}
+|score      = 1–1
+|report     = https://www.fifa.com/tournaments/mens/worldcup/qatar2022/qualifiers/concacaf/match-center/400136233
+|team2      = {{fb|SLV}}
+|goals1     =
+*[[Lyle Taylor|L. Taylor]] {{goal|89}}
+|goals2     =
+*[[David Rugamas|Rugamas]] {{goal|4}}
+|stadium    = [[Ergilio Hato Stadium]], [[Willemstad]] (Curaçao)
+|attendance = 0
+|referee    = [[Ricangel de Leça]] ([[Aruba Football Federation|Aruba]])
+}}
+----
+{{Football box
+|id         = Grenada v U.S. Virgin Islands
+|date       = {{Start date|2021|3|30|df=y}}
+|time       = 19:00 [[UTC−04:00|UTC−4]]
+|team1      = {{fb-rt|GRN}}
+|score      = 1–0
+|report     = https://www.fifa.com/tournaments/mens/worldcup/qatar2022/qualifiers/concacaf/match-center/400136236
+|team2      = {{fb|VIR}}
+|goals1     =
+*[[Saydrel Lewis|Lewis]] {{goal|33}}
+|goals2     =
+|stadium    = [[Kirani James Athletic Stadium]], [[St. George's, Grenada|St. George's]]
+|attendance = 0
+|referee    = Sherwin Johnson ([[Guyana Football Federation|Guyana]])
+}}
+----
+{{Football box
+|id         = Montserrat v U.S. Virgin Islands
+|date       = {{Start date|2021|6|2|df=y}}
+|time       = 17:00 [[UTC−04:00|UTC−4]] 
+|team1      = {{fb-rt|MSR}}
+|score      = 4–0
+|report     = https://www.fifa.com/tournaments/mens/worldcup/qatar2022/qualifiers/concacaf/match-center/400136229
+|team2      = {{fb|VIR}}
+|goals1     =
+*[[Nathan Pond|Pond]] {{goal|39}}
+*[[Rohan Ince|Ince]] {{goal|60}}
+*[[Adrian Clifton|Clifton]] {{goal|66||83}}
+|goals2     =
+|stadium    = [[Estadio Panamericano, San Cristóbal|Estadio Panamericano]], [[San Cristóbal, Dominican Republic|San Cristóbal]] (Dominican Republic)
+|attendance = 0
+|referee    = Selvin Brown Chavarria ([[National Autonomous Federation of Football of Honduras|Honduras]])
+}}
+----
+{{Football box
+|id         = Antigua and Barbuda v Grenada
+|date       = {{Start date|2021|6|4|df=y}}
+|time       = 16:00 [[UTC−04:00|UTC−4]]
+|team1      = {{fb-rt|ATG}}
+|score      = 1–0
+|report     = https://www.fifa.com/tournaments/mens/worldcup/qatar2022/qualifiers/concacaf/match-center/400136235
+|team2      = {{fb|GRN}}
+|goals1     =
+*[[Rhys Browne|Browne]] {{goal|20}}
+|goals2     =
+|stadium    = [[Sir Vivian Richards Stadium]], [[North Sound]]
+|attendance = 400
+|referee    = Francia González ([[Mexican Football Federation|Mexico]])
+}}
+{{Football box
+|id         = U.S. Virgin Islands v El Salvador
+|date       = {{Start date|2021|6|5|df=y}}
+|time       = 19:00 [[UTC−04:00|UTC−4]]
+|team1      = {{fb-rt|VIR}}
+|score      = 0–7
+|report     = https://www.fifa.com/tournaments/mens/worldcup/qatar2022/qualifiers/concacaf/match-center/400136228
+|team2      = {{fb|SLV}}
+|goals1     =
+|goals2     =
+*[[Marvin Monterrosa|Monterrosa]] {{goal|23||86}}
+*[[Juan Carlos Portillo (footballer, born 1991)|J. Portillo]] {{goal|30}}
+*[[David Rugamas|Rugamas]] {{goal|78||82||90}}
+*[[Joshua Pérez|Pérez]] {{goal|79}}
+|stadium    = [[Bethlehem Soccer Stadium]], [[Upper Bethlehem, U.S. Virgin Islands|Upper Bethlehem]]
+|attendance = 150
+|referee    = Ted Unkel ([[United States Soccer Federation|United States]])
+}}
+----
+{{Football box
+|id         = Grenada v Montserrat
+|date       = {{Start date|2021|6|8|df=y}}
+|time       = 19:00 [[UTC−04:00|UTC−4]]
+|team1      = {{fb-rt|GRN}}
+|score      = 1–2
+|report     = https://www.fifa.com/tournaments/mens/worldcup/qatar2022/qualifiers/concacaf/match-center/400136230
+|team2      = {{fb|MSR}}
+|goals1     =
+*[[Saydrel Lewis|Lewis]] {{goal|51}}
+|goals2     =
+*[[Lyle Taylor|L. Taylor]] {{goal|85||87|pen.}}
+|stadium    = [[Kirani James Athletic Stadium]], [[St. George's, Grenada|St. George's]]
+|attendance = 50
+|referee    = Adonai Escobedo ([[Mexican Football Federation|Mexico]])
+}}
+{{Football box
+|id         = El Salvador v Antigua and Barbuda
+|date       = {{Start date|2021|6|8|df=y}}
+|time       = 19:05 [[UTC−06:00|UTC−6]]
+|team1      = {{fb-rt|SLV}}
+|score      = 3–0
+|report     = https://www.fifa.com/tournaments/mens/worldcup/qatar2022/qualifiers/concacaf/match-center/400136232
+|team2      = {{fb|ATG}}
+|goals1     =
+*[[Eriq Zavaleta|Zavaleta]] {{goal|40}}
+*[[David Rugamas|Rugamas]] {{goal|68}}
+*[[Walmer Martinez|Martinez]] {{goal|85}}
+|goals2     =
+|stadium    = [[Estadio Cuscatlán]], [[San Salvador]]
+|attendance =
+|referee    = Keylor Herrera ([[Costa Rican Football Federation|Costa Rica]])
+}}
+
+===Group B===
+<onlyinclude>{{#invoke:Sports table|main|style=WDL
+|section=Group B
+|show_matches=y
+|class_rules=[[2022 FIFA World Cup qualification#Tiebreakers|Tiebreakers]]
+|source=[https://www.fifa.com/tournaments/mens/worldcup/qatar2022/qualifiers/concacaf FIFA]
+
+<!--Update team positions below (check tiebreakers)-->
+|team_order=CAN, SUR, BER, ARU, CAY
+
+<!--Update team results below (including date)-->
+|update=complete
+|win_CAN=4 |draw_CAN=0 |loss_CAN=0 |gf_CAN=27|ga_CAN=1
+|win_SUR=3 |draw_SUR=0 |loss_SUR=1 |gf_SUR=15|ga_SUR=4
+|win_BER=1 |draw_BER=1 |loss_BER=2 |gf_BER=7 |ga_BER=12
+|win_CAY=0 |draw_CAY=1 |loss_CAY=3 |gf_CAY=2 |ga_CAY=18
+|win_ARU=1 |draw_ARU=0 |loss_ARU=3 |gf_ARU=3 |ga_ARU=19
+
+<!--Update match results below-->
+|match_CAN_SUR=[[2022 FIFA World Cup qualification – CONCACAF first round#Canada v Suriname|4–0]]
+|match_CAN_BER=[[2022 FIFA World Cup qualification – CONCACAF first round#Canada v Bermuda|5–1]]
+|match_CAN_CAY=null
+|match_CAN_ARU=null
+
+|match_SUR_CAN=null
+|match_SUR_BER=[[2022 FIFA World Cup qualification – CONCACAF first round#Suriname v Bermuda|6–0]]
+|match_SUR_CAY=[[2022 FIFA World Cup qualification – CONCACAF first round#Suriname v Cayman Islands|3–0]]
+|match_SUR_ARU=null
+
+|match_BER_CAN=null
+|match_BER_SUR=null
+|match_BER_CAY=[[2022 FIFA World Cup qualification – CONCACAF first round#Bermuda v Cayman Islands|1–1]]
+|match_BER_ARU=[[2022 FIFA World Cup qualification – CONCACAF first round#Bermuda v Aruba|5–0]]
+
+|match_CAY_CAN=[[2022 FIFA World Cup qualification – CONCACAF first round#Cayman Islands v Canada|0–11]]
+|match_CAY_SUR=null
+|match_CAY_BER=null
+|match_CAY_ARU=[[2022 FIFA World Cup qualification – CONCACAF first round#Cayman Islands v Aruba|1–3]]
+
+|match_ARU_CAN=[[2022 FIFA World Cup qualification – CONCACAF first round#Aruba v Canada|0–7]]
+|match_ARU_SUR=[[2022 FIFA World Cup qualification – CONCACAF first round#Aruba v Suriname|0–6]]
+|match_ARU_BER=null
+|match_ARU_CAY=null
+
+<!--Team definitions-->
+|name_CAN={{fb|CAN}} |short_CAN={{flagdeco|CAN}}
+|name_SUR={{fb|SUR}} |short_SUR={{flagdeco|SUR}}
+|name_BER={{fb|BER}} |short_BER={{flagdeco|BER}}
+|name_CAY={{fb|CAY}} |short_CAY={{flagdeco|CAY}}
+|name_ARU={{fb|ARU}} |short_ARU={{flagdeco|ARU}}
+
+<!--Qualification column definitions-->
+|res_col_header=Q
+|result1=SR
+|col_SR=green1 |text_SR=Advance to [[2022 FIFA World Cup qualification – CONCACAF second round|second round]]
+}}</onlyinclude>
+{{Football box
+|id         = Suriname v Cayman Islands
+|date       = {{Start date|2021|3|24|df=y}}
+|time       = 19:00 [[UTC−03:00|UTC−3]]
+|team1      = {{fb-rt|SUR}}
+|score      = 3–0
+|report     = https://www.fifa.com/tournaments/mens/worldcup/qatar2022/qualifiers/concacaf/match-center/400136220
+|team2      = {{fb|CAY}}
+|goals1     =
+*[[Shaquille Pinas|Pinas]] {{goal|22}}
+*[[Ryan Donk|Donk]] {{goal|38|pen.}}
+*[[Gleofilo Vlijter|G. Vlijter]] {{goal|76}}
+|goals2     =
+|stadium    = [[Dr. Ir. Franklin Essed Stadion]], [[Paramaribo]]
+|attendance = 500
+|referee    = Jorge Pérez ([[Mexican Football Federation|Mexico]])
+}}
+{{Football box
+|id         = Canada v Bermuda
+|date       = {{Start date|2021|3|25|df=y}}
+|time       = 20:00 [[UTC−04:00|UTC−4]]
+|team1      = {{fb-rt|CAN}}
+|score      = 5–1
+|report     = https://www.fifa.com/tournaments/mens/worldcup/qatar2022/qualifiers/concacaf/match-center/400136222
+|team2      = {{fb|BER}}
+|goals1     =
+*[[Cyle Larin|Larin]] {{goal|19||27||69}}
+*[[Richie Laryea|Laryea]] {{goal|53}}
+*[[Theo Corbeanu|Corbeanu]] {{goal|81}}
+|goals2     =
+*[[Kane Crichlow|Crichlow]] {{goal|63}}
+|stadium    = [[Exploria Stadium]], [[Orlando, Florida|Orlando]] (United States)
+|attendance = 0
+|referee    = [[Armando Villarreal]] ([[United States Soccer Federation|United States]])
+}}
+----
+{{Football box
+|id         = Aruba v Suriname
+|date       = {{Start date|2021|3|27|df=y}}
+|time       = 20:00 [[UTC−04:00|UTC−4]]
+|team1      = {{fb-rt|ARU}}
+|score      = 0–6
+|report     = https://www.fifa.com/tournaments/mens/worldcup/qatar2022/qualifiers/concacaf/match-center/400136227
+|team2      = {{fb|SUR}}
+|goals1     =
+|goals2     =
+*[[Nigel Hasselbaink|Hasselbaink]] {{goal|19||37||55}}
+*[[Francois Croes|Croes]] {{goal|27|o.g.}}
+*[[Florian Jozefzoon|Jozefzoon]] {{goal|70}}
+*[[Roland Alberg|Alberg]] {{goal|74}}
+|stadium    = [[IMG Academy]], [[Bradenton, Florida|Bradenton]] (United States)
+|attendance = 0
+|referee    = [[Ismail Elfath]] ([[United States Soccer Federation|United States]])
+}}
+{{Football box
+|id         = Cayman Islands v Canada
+|date       = {{Start date|2021|3|29|df=y}}{{refn|group=note|The Cayman Islands vs Canada match, originally to be played at 16:00 UTC−4, 28 March 2021, was postponed because the Cayman team could not provide their negative COVID-19 tests to FIFA.<ref>{{cite web |url=https://www.sportsnet.ca/soccer/article/canadas-world-cup-qualifying-game-vs-cayman-islands-postponed/ |title=Canada's World Cup qualifying game vs. Cayman Islands postponed |website=Sportsnet |date=28 March 2021 |access-date=28 March 2021}}</ref>}}
+|time       = 18:00 [[UTC−04:00|UTC−4]]
+|team1      = {{fb-rt|CAY}}
+|score      = 0–11
+|report     = https://www.fifa.com/tournaments/mens/worldcup/qatar2022/qualifiers/concacaf/match-center/400136218
+|team2      = {{fb|CAN}}
+|goals1     =
+|goals2     =
+*[[Frank Sturing|Sturing]] {{goal|6}}
+*[[Cyle Larin|Larin]] {{goal|13}}
+*[[David Wotherspoon (footballer, born 1990)|Wotherspoon]] {{goal|25}}
+*[[Alphonso Davies|Davies]] {{goal|27|pen.|73}}
+*[[Mark-Anthony Kaye|Kaye]] {{goal|32||63}}
+*[[Alistair Johnston|Johnston]] {{goal|44}}
+*[[Lucas Cavallini|Cavallini]] {{goal|68||74||76}}
+|stadium    = [[IMG Academy]], [[Bradenton, Florida|Bradenton]] (United States)
+|attendance = 0
+|referee    = Ted Unkel ([[United States Soccer Federation|United States]])
+}}
+----
+{{Football box
+|id         = Bermuda v Aruba
+|date       = {{Start date|2021|3|30|df=y}}
+|time       = 20:00 [[UTC−04:00|UTC−4]]
+|team1      = {{fb-rt|BER}}
+|score      = 5–0
+|report     = https://www.fifa.com/tournaments/mens/worldcup/qatar2022/qualifiers/concacaf/match-center/400136223
+|team2      = {{fb|ARU}}
+|goals1     =
+*[[Kane Crichlow|Crichlow]] {{goal|36||80}}
+*[[Jaylon Bather|Bather]] {{goal|40}}
+*[[Dante Leverock|Leverock]] {{goal|57}}
+*[[Knory Scott|Scott]] {{goal|64}}
+|goals2     =
+|stadium    = [[IMG Academy]], [[Bradenton, Florida|Bradenton]] (United States)
+|attendance = 29
+|referee    = Jaime Herrera Bonilla ([[Salvadoran Football Federation|El Salvador]])
+}}
+----
+{{Football box
+|id         = Cayman Islands v Aruba
+|date       = {{Start date|2021|6|2|df=y}}
+|time       = 18:00 [[UTC−04:00|UTC−4]]
+|team1      = {{fb-rt|CAY}}
+|score      = 1–3
+|report     = https://www.fifa.com/tournaments/mens/worldcup/qatar2022/qualifiers/concacaf/match-center/400136225
+|team2      = {{fb|ARU}}
+|goals1     =
+*[[Jonah Ebanks|J. Ebanks]] {{goal|30|pen.}}
+|goals2     =
+*[[Joshua John|John]] {{goal|40||75}}
+*[[Terence Groothusen|Groothusen]] {{goal|45+2}}
+|stadium    = [[IMG Academy]], [[Bradenton, Florida|Bradenton]] (United States)
+|attendance =
+|referee    = Luis Enrique Santander Aguirre ([[Mexican Football Federation|Mexico]])
+}}
+----
+{{Football box
+|id         = Suriname v Bermuda
+|date       = {{Start date|2021|6|4|df=y}}
+|time       = 19:00 [[UTC−03:00|UTC−3]]
+|team1      = {{fb-rt|SUR}}
+|score      = 6–0
+|report     = https://www.fifa.com/tournaments/mens/worldcup/qatar2022/qualifiers/concacaf/match-center/400136219
+|team2      = {{fb|BER}}
+|goals1     =
+*[[Sheraldo Becker|Becker]] {{goal|3||36}}
+*[[Nigel Hasselbaink|Hasselbaink]] {{goal|15||37||65}}
+*[[Shaquille Pinas|Pinas]] {{goal|74}}
+|goals2     =
+|stadium    = [[Dr. Ir. Franklin Essed Stadion]], [[Paramaribo]]
+|attendance = 0
+|referee    = [[Mario Escobar (referee)|Mario Escobar]] ([[National Football Federation of Guatemala|Guatemala]])
+}}
+{{Football box
+|id         = Aruba v Canada
+|date       = {{Start date|2021|6|5|df=y}}
+|time       = 20:00 [[UTC−04:00|UTC−4]]
+|team1      = {{fb-rt|ARU}}
+|score      = 0–7
+|report     = https://www.fifa.com/tournaments/mens/worldcup/qatar2022/qualifiers/concacaf/match-center/400136224
+|team2      = {{fb|CAN}}
+|goals1     =
+|goals2     =
+*[[Lucas Cavallini|Cavallini]] {{goal|17||45+2}}
+*[[Junior Hoilett|Hoilett]] {{goal|20|pen.}}
+*[[Zachary Brault-Guillard|Brault-Guillard]] {{goal|49}}
+*[[Alphonso Davies|Davies]] {{goal|78}}
+*[[Cyle Larin|Larin]] {{goal|87}}
+*[[Jonathan David|David]] {{goal|89}}
+|stadium    = [[IMG Academy]], [[Bradenton, Florida|Bradenton]] (United States)
+|attendance = 45
+|referee    = Marco Ortíz ([[Mexican Football Federation|Mexico]])
+}}
+----
+{{Football box
+|id         = Bermuda v Cayman Islands
+|date       = {{Start date|2021|6|8|df=y}}
+|time       = 21:05 [[UTC−04:00|UTC−4]]{{refn|group=note|The Bermuda v Cayman Islands match, originally to be played at 20:00 UTC-4, was delayed by 65 minutes due to lightning in the area.<ref>{{cite web |url=https://twitter.com/BermudaFA/status/1402425737248915457|title=The match is now expected to kick-off at 10:05pm |via=Twitter |date=8 June 2021 |access-date=10 June 2021}}</ref>{{Primary source inline|date=November 2021}}}}
+|team1      = {{fb-rt|BER}}
+|score      = 1–1
+|report     = https://www.fifa.com/tournaments/mens/worldcup/qatar2022/qualifiers/concacaf/match-center/400136226
+|team2      = {{fb|CAY}}
+|goals1     =
+*[[Kole Hall|Hall]] {{goal|65}}
+|goals2     =
+*[[Mark Ebanks|M. Ebanks]] {{goal|23}}
+|stadium    = [[IMG Academy]], [[Bradenton, Florida|Bradenton]] (United States)
+|attendance = 22
+|referee    = Rubiel Vazquez ([[United States Soccer Federation|United States]])
+}}
+{{Football box
+|id         = Canada v Suriname
+|date       = {{Start date|2021|6|8|df=y}}
+|time       = 20:05 [[UTC−05:00|UTC−5]] 
+|team1      = {{fb-rt|CAN}}
+|score      = 4–0
+|report     = https://www.fifa.com/tournaments/mens/worldcup/qatar2022/qualifiers/concacaf/match-center/400136221
+|team2      = {{fb|SUR}}
+|goals1     =
+*[[Alphonso Davies|Davies]] {{goal|37}}
+*[[Jonathan David|David]] {{goal|59||73||77|pen.}}
+|goals2     =
+|stadium    = [[SeatGeek Stadium]], [[Bridgeview, Illinois|Bridgeview]] (United States)
+|attendance = 0
+|referee    = [[Nima Saghafi]] ([[United States Soccer Federation|United States]])
+}}
+
+===Group C===
+<onlyinclude>{{#invoke:Sports table|main|style=WDL
+|section=Group C
+|show_matches=y
+|class_rules=[[2022 FIFA World Cup qualification#Tiebreakers|Tiebreakers]]
+|source=[https://www.fifa.com/tournaments/mens/worldcup/qatar2022/qualifiers/concacaf FIFA]
+
+<!--Update team positions below (check tiebreakers)-->
+|team_order=CUW, GUA, CUB, VIN, VGB
+
+<!--Update team results below (including date)-->
+|update=complete
+|win_CUW=3 |draw_CUW=1 |loss_CUW=0 |gf_CUW=15|ga_CUW=1
+|win_GUA=3 |draw_GUA=1 |loss_GUA=0 |gf_GUA=14|ga_GUA=0
+|win_VIN=1 |draw_VIN=0 |loss_VIN=3 |gf_VIN=3 |ga_VIN=16
+|win_CUB=2 |draw_CUB=0 |loss_CUB=2 |gf_CUB=7 |ga_CUB=3
+|win_VGB=0 |draw_VGB=0 |loss_VGB=4 |gf_VGB=0 |ga_VGB=19
+
+<!--Update match results below-->
+|match_CUW_GUA=[[2022 FIFA World Cup qualification – CONCACAF first round#Curaçao v Guatemala|0–0]]
+|match_CUW_VIN=[[2022 FIFA World Cup qualification – CONCACAF first round#Curaçao v Saint Vincent and the Grenadines|5–0]]
+|match_CUW_CUB=null
+|match_CUW_VGB=null
+
+|match_GUA_CUW=null
+|match_GUA_VIN=[[2022 FIFA World Cup qualification – CONCACAF first round#Guatemala v Saint Vincent and the Grenadines|10–0]]
+|match_GUA_CUB=[[2022 FIFA World Cup qualification – CONCACAF first round#Guatemala v Cuba|1–0]]
+|match_GUA_VGB=null
+
+|match_VIN_CUW=null
+|match_VIN_GUA=null
+|match_VIN_CUB=[[2022 FIFA World Cup qualification – CONCACAF first round#Saint Vincent and the Grenadines v Cuba|0–1]]
+|match_VIN_VGB=[[2022 FIFA World Cup qualification – CONCACAF first round#Saint Vincent and the Grenadines v British Virgin Islands|3–0]]
+
+|match_CUB_CUW=[[2022 FIFA World Cup qualification – CONCACAF first round#Cuba v Curaçao|1–2]]
+|match_CUB_GUA=null
+|match_CUB_VIN=null
+|match_CUB_VGB=[[2022 FIFA World Cup qualification – CONCACAF first round#Cuba v British Virgin Islands|5–0]]
+
+|match_VGB_CUW=[[2022 FIFA World Cup qualification – CONCACAF first round#British Virgin Islands v Curaçao|0–8]]
+|match_VGB_GUA=[[2022 FIFA World Cup qualification – CONCACAF first round#British Virgin Islands v Guatemala|0–3]]
+|match_VGB_VIN=null
+|match_VGB_CUB=null
+
+<!--Team definitions-->
+|name_CUW={{fb|CUW}} |short_CUW={{flagdeco|CUW}}
+|name_GUA={{fb|GUA}} |short_GUA={{flagdeco|GUA}}
+|name_VIN={{fb|VIN}} |short_VIN={{flagdeco|VIN}}
+|name_CUB={{fb|CUB}} |short_CUB={{flagdeco|CUB}}
+|name_VGB={{fb|VGB}} |short_VGB={{flagdeco|VGB}}
+
+<!--Qualification column definitions-->
+|res_col_header=Q
+|result1=SR
+|col_SR=green1 |text_SR=Advance to [[2022 FIFA World Cup qualification – CONCACAF second round|second round]]
+}}</onlyinclude>
+{{Football box
+|id         = Guatemala v Cuba
+|date       = {{Start date|2021|3|24|df=y}}
+|time       = 18:00 [[UTC−06:00|UTC−6]]
+|team1      = {{fb-rt|GUA}}
+|score      = 1–0
+|report     = https://www.fifa.com/tournaments/mens/worldcup/qatar2022/qualifiers/concacaf/match-center/400136241
+|team2      = {{fb|CUB}}
+|goals1     =
+*[[Luis Martínez (footballer, born 1991)|L. Martínez]] {{goal|59}}
+|goals2     =
+|stadium    = [[Estadio Doroteo Guamuch Flores]], [[Guatemala City]]
+|attendance =
+|referee    = Benjamin Pineda Avila ([[Costa Rican Football Federation|Costa Rica]])
+}}
+{{Football box
+|id         = Curaçao v Saint Vincent and the Grenadines
+|date       = {{Start date|2021|3|25|df=y}}
+|time       = 18:00 [[UTC−04:00|UTC−4]]
+|team1      = {{fb-rt|CUW}}
+|score      = 5–0
+|report     = https://www.fifa.com/tournaments/mens/worldcup/qatar2022/qualifiers/concacaf/match-center/400136246
+|team2      = {{fb|VIN}}
+|goals1     =
+*[[Juninho Bacuna|J. Bacuna]] {{goal|1||35}}
+*[[Anthony van den Hurk|Van den Hurk]] {{goal|17}}
+*[[Jarchinio Antonia|Antonia]] {{goal|45}}
+*[[Elson Hooi|Hooi]] {{goal|87}}
+|goals2     =
+|stadium    =  [[Ergilio Hato Stadium]], [[Willemstad]]
+|attendance = 0
+|referee    = [[Ricangel de Leça]] ([[Aruba Football Federation|Aruba]])
+}}
+----
+{{Football box
+|id         = British Virgin Islands v Guatemala
+|date       = {{Start date|2021|3|27|df=y}}
+|time       = 18:00 [[UTC−04:00|UTC−4]]
+|team1      = {{fb-rt|VGB}}
+|score      = 0–3
+|report     = https://www.fifa.com/tournaments/mens/worldcup/qatar2022/qualifiers/concacaf/match-center/400136238
+|team2      = {{fb|GUA}}
+|goals1     =
+|goals2     =
+*[[Darwin Lom|Lom]] {{goal|21}}
+*[[Moisés Hernández|Hernández]] {{goal|44}}
+*[[Robin Betancourth|Betancourth]] {{goal|81}}
+|stadium    = [[Ergilio Hato Stadium]], [[Willemstad]] (Curaçao)
+|attendance = 0
+|referee    = Oscar Moncada ([[National Autonomous Federation of Football of Honduras|Honduras]])
+}}
+{{Football box
+|id         = Cuba v Curaçao
+|date       = {{Start date|2021|3|28|df=y}}
+|time       = 15:00 [[UTC−06:00|UTC−6]]
+|team1      = {{fb-rt|CUB}}
+|score      = 1–2
+|report     = https://www.fifa.com/tournaments/mens/worldcup/qatar2022/qualifiers/concacaf/match-center/400136244
+|team2      = {{fb|CUW}}
+|goals1     =
+*[[Onel Hernández|O. Hernández]] {{goal|27}}
+|goals2     =
+*[[Leandro Bacuna|L. Bacuna]] {{goal|11}}
+*[[Charlison Benschop|Benschop]] {{goal|44}}
+|stadium    = [[Estadio Doroteo Guamuch Flores]], [[Guatemala City]] (Guatemala)
+|attendance = 0
+|referee    = Germán Stanley Martínez Miranda ([[Salvadoran Football Federation|El Salvador]])
+}}
+----
+{{Football box
+|id         = Saint Vincent and the Grenadines v British Virgin Islands
+|date       = {{Start date|2021|3|30|df=y}}
+|time       = 18:00 [[UTC−04:00|UTC−4]]
+|team1      = {{nowrap|{{fb-rt|VIN}}}}
+|score      = 3–0
+|report     = https://www.fifa.com/tournaments/mens/worldcup/qatar2022/qualifiers/concacaf/match-center/400136245
+|team2      = {{fb|VGB}}
+|goals1     =
+*[[Oalex Anderson|Anderson]] {{goal|10}}
+*[[Zidane Sam|Sam]] {{goal|20}}
+*[[Azinho Solomon|Solomon]] {{goal|86}}
+|goals2     =
+|stadium    = [[Ergilio Hato Stadium]], [[Willemstad]] (Curaçao)
+|attendance = 0
+|referee    = [[Henry Bejarano]] ([[Costa Rican Football Federation|Costa Rica]])
+}}
+----
+{{Football box
+|id         = Cuba v British Virgin Islands
+|date       = {{Start date|2021|6|2|df=y}}
+|time       = 15:30 [[UTC−06:00|UTC−6]]
+|team1      = {{fb-rt|CUB}}
+|score      = 5–0
+|report     = https://www.fifa.com/tournaments/mens/worldcup/qatar2022/qualifiers/concacaf/match-center/400136240
+|team2      = {{fb|VGB}}
+|goals1     =
+*[[Luis Paradela|Paradela]] {{goal|33}}
+*[[Onel Hernández|O. Hernández]] {{goal|68}}
+*[[Maikel Reyes|M. Reyes]] {{goal|76}}
+*[[Cavafe]] {{goal|80}}
+*[[Dairon Reyes|D. Reyes]] {{goal|90+1}}
+|goals2     =
+|stadium    = [[Estadio Doroteo Guamuch Flores]], [[Guatemala City]] (Guatemala)
+|attendance = 0
+|referee    = Jose Raul Torres Rivera ([[Puerto Rican Football Federation|Puerto Rico]])
+}}
+----
+{{Football box
+|id         = Guatemala v Saint Vincent and the Grenadines
+|date       = {{Start date|2021|6|4|df=y}}
+|time       = 16:00 [[UTC−06:00|UTC−6]]
+|team1      = {{fb-rt|GUA}}
+|score      = 10–0
+|report     = https://www.fifa.com/tournaments/mens/worldcup/qatar2022/qualifiers/concacaf/match-center/400136242
+|team2      = {{fb|VIN}}
+|goals1     =
+*[[Darwin Lom|Lom]] {{goal|2}}
+*[[Rudy Barrientos|Barrientos]] {{goal|12}}
+*[[Oscar Santis|Santis]] {{goal|16}}
+*[[Moisés Hernández|Hernández]] {{goal|33|pen.}}
+*[[Gerardo Gordillo|Gordillo]] {{goal|41}}
+*[[Luis Martínez (footballer, born 1991)|L. Martínez]] {{goal|52}}
+*[[Robin Betancourth|Betancourth]] {{goal|66}}
+*[[Marvin Ceballos|Ceballos]] {{goal|79|pen.}}
+*[[Jorge Estuardo Vargas|Vargas]] {{goal|85}}
+*[[John Méndez|Méndez]] {{goal|89}}
+|goals2     =
+|stadium    = [[Estadio Doroteo Guamuch Flores]], [[Guatemala City]]
+|attendance = 0
+|referee    = Erick Moisés Lezama Pavón ([[Nicaraguan Football Federation|Nicaragua]])
+}}
+{{Football box
+|id         = British Virgin Islands v Curaçao
+|date       = {{Start date|2021|6|5|df=y}}
+|time       = 15:00 [[UTC−06:00|UTC−6]]
+|team1      = {{fb-rt|VGB}}
+|score      = 0–8
+|report     = https://www.fifa.com/tournaments/mens/worldcup/qatar2022/qualifiers/concacaf/match-center/400136247
+|team2      = {{fb|CUW}}
+|goals1     =
+|goals2     =
+*[[Brandley Kuwas|Kuwas]] {{goal|7}}
+*[[Michaël Maria|Maria]] {{goal|9||27}}
+*[[Leandro Bacuna|L. Bacuna]] {{goal|11}}
+*[[Charlison Benschop|Benschop]] {{goal|18|pen.|22}}
+*[[Kenji Gorré|Gorré]] {{goal|57||90+1}}
+|stadium    = [[Estadio El Trébol]], [[Guatemala City]] (Guatemala)
+|attendance = 0
+|referee    = William Anderson ([[Puerto Rican Football Federation|Puerto Rico]])
+}}
+----
+{{Football box
+|id         = Saint Vincent and the Grenadines v Cuba
+|date       = {{Start date|2021|6|8|df=y}}
+|time       = 16:00 [[UTC−04:00|UTC−4]]
+|team1      = {{nowrap|{{fb-rt|VIN}}}}
+|score      = 0–1
+|report     = https://www.fifa.com/tournaments/mens/worldcup/qatar2022/qualifiers/concacaf/match-center/400136239
+|team2      = {{fb|CUB}}
+|goals1     =
+|goals2     =
+*[[Maikel Reyes|M. Reyes]] {{goal|64}}
+|stadium    = [[Kirani James Athletic Stadium]], [[St. George's, Grenada|St. George's]] (Grenada)
+|attendance = 50
+|referee    = Fernando Guerrero Ramirez ([[Mexican Football Federation|Mexico]])
+}}
+{{Football box
+|id         = Curaçao v Guatemala
+|date       = {{Start date|2021|6|8|df=y}}
+|time       = 20:00 [[UTC−04:00|UTC−4]]
+|team1      = {{fb-rt|CUW}}
+|score      = 0–0
+|report     = https://www.fifa.com/tournaments/mens/worldcup/qatar2022/qualifiers/concacaf/match-center/400136243
+|team2      = {{fb|GUA}}
+|goals1     =
+|goals2     =
+|stadium    = [[Ergilio Hato Stadium]], [[Willemstad]]
+|attendance = 3,000
+|referee    = [[Armando Villarreal]] ([[United States Soccer Federation|United States]])
+}}
+
+===Group D===
+<onlyinclude>{{#invoke:Sports table|main|style=WDL
+|section=Group D
+|show_matches=y
+|class_rules=[[2022 FIFA World Cup qualification#Tiebreakers|Tiebreakers]]
+|source=[https://www.fifa.com/tournaments/mens/worldcup/qatar2022/qualifiers/concacaf FIFA]
+
+<!--Update team positions below (check tiebreakers)-->
+|team_order=PAN, DOM, BRB, DMA, AIA
+
+<!--Update team results below (including date)-->
+|update=complete
+|win_PAN=4 |draw_PAN=0 |loss_PAN=0 |gf_PAN=19|ga_PAN=1
+|win_DOM=2 |draw_DOM=1 |loss_DOM=1 |gf_DOM=8 |ga_DOM=4
+|win_BRB=1 |draw_BRB=2 |loss_BRB=1 |gf_BRB=3 |ga_BRB=3
+|win_DMA=1 |draw_DMA=1 |loss_DMA=2 |gf_DMA=5 |ga_DMA=4
+|win_AIA=0 |draw_AIA=0 |loss_AIA=4 |gf_AIA=0 |ga_AIA=23
+
+<!--Update match results below-->
+|match_PAN_DOM=[[2022 FIFA World Cup qualification – CONCACAF first round#Panama v Dominican Republic|3–0]]
+|match_PAN_BRB=[[2022 FIFA World Cup qualification – CONCACAF first round#Panama v Barbados|1–0]]
+|match_PAN_DMA=null
+|match_PAN_AIA=null
+
+|match_DOM_PAN=null
+|match_DOM_BRB=[[2022 FIFA World Cup qualification – CONCACAF first round#Dominican Republic v Barbados|1–1]]
+|match_DOM_DMA=[[2022 FIFA World Cup qualification – CONCACAF first round#Dominican Republic v Dominica|1–0]]
+|match_DOM_AIA=null
+
+|match_BRB_PAN=null
+|match_BRB_DOM=null
+|match_BRB_DMA=[[2022 FIFA World Cup qualification – CONCACAF first round#Barbados v Dominica|1-1]]
+|match_BRB_AIA=[[2022 FIFA World Cup qualification – CONCACAF first round#Barbados v Anguilla|1–0]]
+
+|match_DMA_PAN=[[2022 FIFA World Cup qualification – CONCACAF first round#Dominica v Panama|1–2]]
+|match_DMA_DOM=null
+|match_DMA_BRB=null
+|match_DMA_AIA=[[2022 FIFA World Cup qualification – CONCACAF first round#Dominica v Anguilla|3–0]]
+
+|match_AIA_PAN=[[2022 FIFA World Cup qualification – CONCACAF first round#Anguilla v Panama|0–13]]
+|match_AIA_DOM=[[2022 FIFA World Cup qualification – CONCACAF first round#Anguilla v Dominican Republic|0–6]]
+|match_AIA_BRB=null
+|match_AIA_DMA=null
+
+<!--Team definitions-->
+|name_PAN={{fb|PAN}} |short_PAN={{flagdeco|PAN}}
+|name_DOM={{fb|DOM}} |short_DOM={{flagdeco|DOM}}
+|name_BRB={{fb|BRB}} |short_BRB={{flagdeco|BRB}}
+|name_DMA={{fb|DMA}} |short_DMA={{flagdeco|DMA}}
+|name_AIA={{fb|AIA}} |short_AIA={{flagdeco|AIA}}
+
+<!--Qualification column definitions-->
+|res_col_header=Q
+|result1=SR
+|col_SR=green1 |text_SR=Advance to [[2022 FIFA World Cup qualification – CONCACAF second round|second round]]
+}}</onlyinclude>
+{{Football box
+|id         = Dominican Republic v Dominica
+|date       = {{Start date|2021|3|24|df=y}}
+|time       = 19:00 [[UTC−04:00|UTC−4]]
+|team1      = {{fb-rt|DOM}}
+|score      = 1–0
+|report     = https://www.fifa.com/tournaments/mens/worldcup/qatar2022/qualifiers/concacaf/match-center/400136249
+|team2      = {{fb|DMA}}
+|goals1     =
+*[[Fran Núñez|F. Núñez]] {{goal|52}}
+|goals2     =
+|stadium    = [[Félix Sánchez Olympic Stadium]], [[Santo Domingo]]
+|attendance =
+|referee    = William Anderson ([[Puerto Rican Football Federation|Puerto Rico]])
+}}
+{{Football box
+|id         = Panama v Barbados
+|date       = {{Start date|2021|3|25|df=y}}
+|time       = 20:00 [[UTC−04:00|UTC−4]]
+|team1      = {{fb-rt|PAN}}
+|score      = 1–0
+|report     = https://www.fifa.com/tournaments/mens/worldcup/qatar2022/qualifiers/concacaf/match-center/400136254
+|team2      = {{fb|BRB}}
+|goals1     =
+*[[Jair Catuy|Catuy]] {{goal|82}}
+|goals2     =
+|stadium    = [[Félix Sánchez Olympic Stadium]], [[Santo Domingo]] (Dominican Republic)
+|attendance =
+|referee    = [[Nima Saghafi]] ([[United States Soccer Federation|United States]])
+}}
+----
+{{Football box
+|id         = Anguilla v Dominican Republic
+|date       = {{Start date|2021|3|27|df=y}}
+|time       = 18:00 [[UTC−04:00|UTC−4]]
+|team1      = {{fb-rt|AIA}}
+|score      = 0–6
+|report     = https://www.fifa.com/tournaments/mens/worldcup/qatar2022/qualifiers/concacaf/match-center/400136255
+|team2      = {{fb|DOM}}
+|goals1     =
+|goals2     =
+*[[Dorny Romero|Romero]] {{goal|22|pen.|27}}
+*[[Nowend Lorenzo|Lorenzo]] {{goal|25||46}}
+*[[Domingo Peralta|Peralta]] {{goal|66}}
+*[[Luis Espinal (footballer)|Espinal]] {{goal|75}}
+|stadium    = [[Inter Miami CF Stadium]], [[Fort Lauderdale, Florida|Fort Lauderdale]] (United States)
+|attendance =
+|referee    = Rubiel Vázquez ([[United States Soccer Federation|United States]])
+}}
+{{Football box
+|id         = Dominica v Panama
+|date       = {{Start date|2021|3|28|df=y}}
+|time       = 16:00 [[UTC−04:00|UTC−4]]
+|team1      = {{fb-rt|DMA}}
+|score      = 1–2
+|report     = https://www.fifa.com/tournaments/mens/worldcup/qatar2022/qualifiers/concacaf/match-center/400136250
+|team2      = {{fb|PAN}}
+|goals1     =
+*[[Audel Laville|Laville]] {{goal|82}}
+|goals2     =
+*[[Briel Thomas|Thomas]] {{goal|28|o.g.}}
+*[[José Fajardo (footballer)|Fajardo]] {{goal|85}}
+|stadium    = [[Félix Sánchez Olympic Stadium]], [[Santo Domingo]] (Dominican Republic)
+|attendance = 1,500
+|referee    = Marco Antonio Ortíz Nava ([[Mexican Football Federation|Mexico]])
+}}
+----
+{{Football box
+|id         = Barbados v Anguilla
+|date       = {{Start date|2021|3|30|df=y}}
+|time       = 19:30 [[UTC−04:00|UTC−4]]
+|team1      = {{fb-rt|BRB}}
+|score      = 1–0
+|report     = https://www.fifa.com/tournaments/mens/worldcup/qatar2022/qualifiers/concacaf/match-center/400136252
+|team2      = {{fb|AIA}}
+|goals1     =
+*[[Emile Saimovici|Saimovici]] {{goal|81}}
+|goals2     =
+|stadium    = [[Félix Sánchez Olympic Stadium]], [[Santo Domingo]] (Dominican Republic)
+|attendance = 0
+|referee    = Diego Montaño Robles ([[Mexican Football Federation|Mexico]])
+}}
+----
+{{Football box
+|id         = Dominica v Anguilla
+|date       = {{Start date|2021|6|2|df=y}}
+|time       = 15:00 [[UTC−04:00|UTC−4]]
+|team1      = {{fb-rt|DMA}}
+|score      = 3–0
+|report     = https://www.fifa.com/tournaments/mens/worldcup/qatar2022/qualifiers/concacaf/match-center/400136257
+|team2      = {{fb|AIA}}
+|goals1     =
+*[[Briel Thomas|Thomas]] {{goal|3}}
+*[[Chad Bertrand|C. Bertrand]] {{goal|34}}
+*[[Julian Wade|Wade]] {{goal|42}}
+|goals2     =
+|stadium    = [[Félix Sánchez Olympic Stadium]], [[Santo Domingo]] (Dominican Republic)
+|attendance = 0
+|referee    = Kimbell Ward ([[St. Kitts and Nevis Football Association|St. Kitts and Nevis]])
+}}
+----
+{{Football box
+|id         = Dominican Republic v Barbados
+|date       = {{Start date|2021|6|4|df=y}}
+|time       = 19:00 [[UTC−04:00|UTC−4]]
+|team1      = {{fb-rt|DOM}}
+|score      = 1–1
+|report     = https://www.fifa.com/tournaments/mens/worldcup/qatar2022/qualifiers/concacaf/match-center/400136248
+|team2      = {{fb|BRB}}
+|goals1     =
+*[[Manny Rodríguez (footballer)|Rodríguez]] {{goal|90+2}}
+|goals2     =
+*[[Niall Reid-Stephen|Reid-Stephen]] {{goal|42}}
+|stadium    = [[Félix Sánchez Olympic Stadium]], [[Santo Domingo]] 
+|attendance = 0
+|referee    = Germán Stanley Martínez Miranda ([[Salvadoran Football Federation|El Salvador]])
+}}
+{{Football box
+|id         = Anguilla v Panama
+|date       = {{Start date|2021|6|5|df=y}}
+|time       = 19:00 [[UTC−05:00|UTC−5]]
+|team1      = {{fb-rt|AIA}}
+|score      = 0–13
+|report     = https://www.fifa.com/tournaments/mens/worldcup/qatar2022/qualifiers/concacaf/match-center/400136253
+|team2      = {{fb|PAN}}
+|goals1     =
+|goals2     =
+*[[Armando Cooper|Cooper]] {{goal|7}}
+*[[Cecilio Waterman|Waterman]] {{goal|18||50}}
+*[[Jorman Aguilar|Aguilar]] {{goal|31}}
+*[[Gabriel Torres|Torres]] {{goal|35|pen.|53||70||83|pen.}}
+*[[Tafari Smith|Smith]] {{goal|48|o.g.}}
+*[[Miguel Camargo|Camargo]] {{goal|58}}
+*[[Jair Catuy|Catuy]] {{goal|73}}
+*[[Alberto Quintero (footballer)|Quintero]] {{goal|84}}
+*[[Francisco Palacios (footballer)|Palacios]] {{goal|90}}
+|stadium    = [[Estadio Nacional de Panamá|Estadio Nacional Rod Carew]], [[Panama City]] (Panama)
+|attendance = 5,000
+|referee    = Sergio Reyna ([[National Football Federation of Guatemala|Guatemala]])
+}}
+----
+{{Football box
+|id         = Barbados v Dominica
+|date       = {{Start date|2021|6|8|df=y}}
+|time       = 19:00 [[UTC−04:00|UTC−4]]
+|team1      = {{fb-rt|BRB}}
+|score      = 1–1
+|report     = https://www.fifa.com/tournaments/mens/worldcup/qatar2022/qualifiers/concacaf/match-center/400136256
+|team2      = {{fb|DMA}}
+|goals1     =
+*[[Emile Saimovici|Saimovici]] {{goal|48}}
+|goals2     =
+*[[Julian Wade|Wade]] {{goal|57}}
+|stadium    = [[Félix Sánchez Olympic Stadium]], [[Santo Domingo]] (Dominican Republic)
+|attendance = 0
+|referee    = Jaime Herrera Bonilla ([[Salvadoran Football Federation|El Salvador]])
+}}
+{{Football box
+|id         = Panama v Dominican Republic
+|date       = {{Start date|2021|6|8|df=y}}
+|time       = 20:00 [[UTC−05:00|UTC−5]]
+|team1      = {{fb-rt|PAN}}
+|score      = 3–0
+|report     = https://www.fifa.com/tournaments/mens/worldcup/qatar2022/qualifiers/concacaf/match-center/400136251
+|team2      = {{fb|DOM}}
+|goals1     =
+*[[Aníbal Godoy|Godoy]] {{goal|8}}
+*[[Yoel Bárcenas|Bárcenas]] {{goal|67}}
+*[[Cecilio Waterman|Waterman]] {{goal|86}}
+|goals2     =
+|stadium    = [[Estadio Nacional de Panamá|Estadio Nacional Rod Carew]], [[Panama City]] 
+|attendance = 5,674
+|referee    = [[Walter López Castellanos]] ([[National Football Federation of Guatemala|Guatemala]])
+}}
+
+===Group E===
+<onlyinclude>{{#invoke:Sports table|main|style=WDL
+|section=Group E
+|show_matches=y
+|class_rules=[[2022 FIFA World Cup qualification#Tiebreakers|Tiebreakers]]
+|source=[https://www.fifa.com/tournaments/mens/worldcup/qatar2022/qualifiers/concacaf FIFA]
+
+<!--Update team positions below (check tiebreakers)-->
+|team_order=HAI, NCA, BLZ, TCA, LCA
+
+<!--Update team results below (including date)-->
+|update=complete
+|win_HAI=3 |draw_HAI=0 |loss_HAI=0 |gf_HAI=13|ga_HAI=0
+|win_NCA=2 |draw_NCA=0 |loss_NCA=1 |gf_NCA=10|ga_NCA=1
+|win_BLZ=1 |draw_BLZ=0 |loss_BLZ=2 |gf_BLZ=5 |ga_BLZ=5
+|win_LCA=0 |draw_LCA=0 |loss_LCA=0 |gf_LCA=0 |ga_LCA=0
+|win_TCA=0 |draw_TCA=0 |loss_TCA=3 |gf_TCA=0 |ga_TCA=22
+
+<!--Update match results below-->
+|match_HAI_NCA=[[2022 FIFA World Cup qualification – CONCACAF first round#Haiti v Nicaragua|1–0]]
+|match_HAI_BLZ=[[2022 FIFA World Cup qualification – CONCACAF first round#Haiti v Belize|2–0]]
+|match_HAI_LCA=null
+|match_HAI_TCA=null
+
+|match_NCA_HAI=null
+|match_NCA_BLZ=[[2022 FIFA World Cup qualification – CONCACAF first round#Nicaragua v Belize|3–0]]
+|match_NCA_LCA=null
+|match_NCA_TCA=null
+
+|match_BLZ_HAI=null
+|match_BLZ_NCA=null
+|match_BLZ_LCA=null
+|match_BLZ_TCA=[[2022 FIFA World Cup qualification – CONCACAF first round#Belize v Turks and Caicos Islands|5–0]]
+
+|match_LCA_HAI=null
+|match_LCA_NCA=null
+|match_LCA_BLZ=null
+|match_LCA_TCA=null
+
+|match_TCA_HAI=[[2022 FIFA World Cup qualification – CONCACAF first round#Turks and Caicos Islands v Haiti|0–10]]
+|match_TCA_NCA=[[2022 FIFA World Cup qualification – CONCACAF first round#Turks and Caicos Islands v Nicaragua|0–7]]
+|match_TCA_BLZ=null
+|match_TCA_LCA=null
+
+<!--Team definitions-->
+|name_HAI={{fb|HAI}} |short_HAI={{flagdeco|HAI}}
+|name_NCA={{fb|NCA}} |short_NCA={{flagdeco|NCA}}
+|name_BLZ={{fb|BLZ}} |short_BLZ={{flagdeco|BLZ}}
+|name_LCA={{fb|LCA}} |short_LCA={{flagdeco|LCA}}
+|name_TCA={{fb|TCA}} |short_TCA={{flagdeco|TCA}}
+
+<!--Qualification column definitions-->
+|res_col_header=Q
+|result1=SR |result5=WD
+|col_SR=green1 |text_SR=Advance to [[2022 FIFA World Cup qualification – CONCACAF second round|second round]]
+|col_WD=black1 |text_WD=Withdrew
+}}</onlyinclude>
+Saint Lucia withdrew before playing.
+{{Football box
+|id         = Haiti v Belize
+|date       = {{Start date|2021|3|25|df=y}}
+|time       = 17:00 [[UTC−04:00|UTC−4]]
+|team1      = {{fb-rt|HAI}}
+|score      = 2–0
+|report     = https://www.fifa.com/tournaments/mens/worldcup/qatar2022/qualifiers/concacaf/match-center/400136266
+|team2      = {{fb|BLZ}}
+|goals1     =
+*[[Ricardo Adé|Adé]] {{goal|50}}
+*[[Steven Séance|Séance]] {{goal|81}}
+|goals2     =
+|stadium    = [[Stade Sylvio Cator]], [[Port-au-Prince]]
+|attendance = 300
+|referee    = [[Walter López Castellanos]] ([[National Football Federation of Guatemala|Guatemala]])
+}}
+{{Football box
+|id         = Turks and Caicos Islands v Nicaragua
+|date       = {{Start date|2021|3|27|df=y}}
+|time       = 16:30 [[UTC−04:00|UTC−4]]
+|team1      = {{nowrap|{{fb-rt|TCA}}}}
+|score      = 0–7
+|report     = https://www.fifa.com/tournaments/mens/worldcup/qatar2022/qualifiers/concacaf/match-center/400136258
+|team2      = {{fb|NCA}}
+|goals1     =
+|goals2     =
+*[[Juan Barrera|Barrera]] {{goal|3||59}}
+*[[Ariagner Smith|Smith]] {{goal|8||45+2}}
+*[[Marvin Fletes|Fletes]] {{goal|46}}
+*[[Dshon Forbes|Forbes]] {{goal|78}}
+*[[Matias Belli Moldskred|Moldskred]] {{goal|87}}
+|stadium    = [[Estadio Panamericano, San Cristóbal|Estadio Panamericano]], [[San Cristóbal, Dominican Republic|San Cristóbal]] (Dominican Republic)
+|attendance =
+|referee    = William Anderson ([[Puerto Rican Football Federation|Puerto Rico]])
+}}
+----
+{{Football box
+|id         = Belize v Turks and Caicos Islands
+|date       = {{Start date|2021|3|30|df=y}}
+|time       = 17:00 [[UTC−04:00|UTC−4]]
+|team1      = {{fb-rt|BLZ}}
+|score      = 5–0
+|report     = https://www.fifa.com/tournaments/mens/worldcup/qatar2022/qualifiers/concacaf/match-center/400136265
+|team2      = {{fb|TCA}}
+|goals1     =
+*[[Carlos Bernárdez|Bernárdez]] {{goal|45+3||48}}
+*August {{goal|47}}
+*[[Deshawon Nembhard|Nembhard]] {{goal|81}}
+*[[Deon McCaulay|McCaulay]] {{goal|90+1}}
+|goals2     =
+|stadium    = [[Estadio Panamericano, San Cristóbal|Estadio Panamericano]], [[San Cristóbal, Dominican Republic|San Cristóbal]] (Dominican Republic)
+|attendance = 0
+|referee    = [[Nima Saghafi]] ([[United States Soccer Federation|United States]])
+}}
+----
+{{Football box
+|id         = Nicaragua v Belize
+|date       = {{Start date|2021|6|4|df=y}}
+|time       = 19:00 [[UTC−06:00|UTC−6]]
+|team1      = {{fb-rt|NCA}}
+|score      = 3–0
+|report     = https://www.fifa.com/tournaments/mens/worldcup/qatar2022/qualifiers/concacaf/match-center/400136262
+|team2      = {{fb|BLZ}}
+|goals1     =
+*[[Richard Rodríguez (footballer)|Rodríguez]] {{goal|25}}
+*[[Byron Bonilla|Bonilla]] {{goal|46}}
+*[[Juan Barrera|Barrera]] {{goal|51}}
+|goals2     =
+|stadium    = [[Nicaragua National Football Stadium|Estadio Nacional]], [[Managua]]
+|attendance = 13,000
+|referee    = Nelson Salgado ([[National Autonomous Federation of Football of Honduras|Honduras]])
+}}
+{{Football box
+|id         = Turks and Caicos Islands v Haiti
+|date       = {{Start date|2021|6|5|df=y}}
+|time       = 15:00 [[UTC−03:00|UTC−3]]
+|team1      = {{nowrap|{{fb-rt|TCA}}}}
+|score      = 0–10
+|report     = https://www.fifa.com/tournaments/mens/worldcup/qatar2022/qualifiers/concacaf/match-center/400136267
+|team2      = {{fb|HAI}}
+|goals1     =
+|goals2     =
+*[[Duckens Nazon|Nazon]] {{goal|27||30||34||37}}
+*[[Carnejy Antoine|Antoine]] {{goal|42||53||83}}
+*[[Frantzdy Pierrot|Pierrot]] {{goal|75||87||90+2}}
+|stadium    = [[TCIFA National Academy]], [[Providenciales]]
+|attendance = 0
+|referee    = Diego Montaño Robles ([[Mexican Football Federation|Mexico]])
+}}
+----
+{{Football box
+|id         = Haiti v Nicaragua
+|date       = {{Start date|2021|6|8|df=y}}
+|time       = 17:00 [[UTC−04:00|UTC−4]]
+|team1      = {{fb-rt|HAI}}
+|score      = 1–0
+|report     = https://www.fifa.com/tournaments/mens/worldcup/qatar2022/qualifiers/concacaf/match-center/400136263
+|team2      = {{fb|NCA}}
+|goals1     =
+*[[Derrick Etienne|Etienne]] {{goal|63}}
+|goals2     =
+|stadium    = [[Stade Sylvio Cator]], [[Port-au-Prince]]
+|attendance = 0
+|referee    = Kevin Morrison ([[Jamaica Football Federation|Jamaica]])
+}}
+
+===Group F===
+<onlyinclude>{{#invoke:Sports table|main|style=WDL
+|section=Group F
+|show_matches=y
+|class_rules=[[2022 FIFA World Cup qualification#Tiebreakers|Tiebreakers]]
+|source=[https://www.fifa.com/tournaments/mens/worldcup/qatar2022/qualifiers/concacaf FIFA]
+
+<!--Update team positions below (check tiebreakers)-->
+|team_order=SKN, TRI, PUR, GUY, BAH
+
+<!--Update team results below (including date)-->
+|update=complete
+|win_TRI=2 |draw_TRI=2 |loss_TRI=0 |gf_TRI=6 |ga_TRI=1
+|win_SKN=3 |draw_SKN=0 |loss_SKN=1 |gf_SKN=8 |ga_SKN=2
+|win_GUY=1 |draw_GUY=0 |loss_GUY=3 |gf_GUY=4 |ga_GUY=8
+|win_PUR=2 |draw_PUR=1 |loss_PUR=1 |gf_PUR=10|ga_PUR=2
+|win_BAH=0 |draw_BAH=1 |loss_BAH=3 |gf_BAH=0 |ga_BAH=15
+
+<!--Update match results below-->
+|match_TRI_SKN=[[2022 FIFA World Cup qualification – CONCACAF first round#Trinidad and Tobago v Saint Kitts and Nevis|2–0]]
+|match_TRI_GUY=[[2022 FIFA World Cup qualification – CONCACAF first round#Trinidad and Tobago v Guyana|3–0]]
+|match_TRI_PUR=null
+|match_TRI_BAH=null
+
+|match_SKN_TRI=null
+|match_SKN_GUY=[[2022 FIFA World Cup qualification – CONCACAF first round#Saint Kitts and Nevis v Guyana|3–0]]
+|match_SKN_PUR=[[2022 FIFA World Cup qualification – CONCACAF first round#Saint Kitts and Nevis v Puerto Rico|1–0]]
+|match_SKN_BAH=null
+
+|match_GUY_TRI=null
+|match_GUY_SKN=null
+|match_GUY_PUR=[[2022 FIFA World Cup qualification – CONCACAF first round#Guyana v Puerto Rico|0–2]]
+|match_GUY_BAH=[[2022 FIFA World Cup qualification – CONCACAF first round#Guyana v Bahamas|4–0]]
+
+|match_PUR_TRI=[[2022 FIFA World Cup qualification – CONCACAF first round#Puerto Rico v Trinidad and Tobago|1–1]]
+|match_PUR_SKN=null
+|match_PUR_GUY=null
+|match_PUR_BAH=[[2022 FIFA World Cup qualification – CONCACAF first round#Puerto Rico v Bahamas|7–0]]
+
+|match_BAH_TRI=[[2022 FIFA World Cup qualification – CONCACAF first round#Bahamas v Trinidad and Tobago|0–0]]
+|match_BAH_SKN=[[2022 FIFA World Cup qualification – CONCACAF first round#Bahamas v Saint Kitts and Nevis|0–4]]
+|match_BAH_GUY=null
+|match_BAH_PUR=null
+
+<!--Team definitions-->
+|name_TRI={{fb|TRI}} |short_TRI={{flagdeco|TRI}}
+|name_SKN={{fb|SKN}} |short_SKN={{flagdeco|SKN}}
+|name_GUY={{fb|GUY}} |short_GUY={{flagdeco|GUY}}
+|name_PUR={{fb|PUR}} |short_PUR={{flagdeco|PUR}}
+|name_BAH={{fb|BAH}} |short_BAH={{flagdeco|BAH}}
+
+<!--Qualification column definitions-->
+|res_col_header=Q
+|result1=SR
+|col_SR=green1 |text_SR=Advance to [[2022 FIFA World Cup qualification – CONCACAF second round|second round]]
+}}</onlyinclude>
+{{Football box
+|id         = Saint Kitts and Nevis v Puerto Rico
+|date       = {{Start date|2021|3|24|df=y}}
+|time       = 16:00 [[UTC−04:00|UTC−4]]
+|team1      = {{fb-rt|SKN}}
+|score      = 1–0
+|report     = https://www.fifa.com/tournaments/mens/worldcup/qatar2022/qualifiers/concacaf/match-center/400136271
+|team2      = {{fb|PUR}}
+|goals1     =
+*[[Vinceroy Nelson|Nelson]] {{goal|42}}
+|goals2     =
+|stadium    = [[Estadio Panamericano, San Cristóbal|Estadio Panamericano]], [[San Cristóbal, Dominican Republic|San Cristóbal]] (Dominican Republic)
+|attendance =
+|referee    = Randy Encarnación ([[Dominican Football Federation|Dominican Republic]])
+}}
+{{Football box
+|id         = Trinidad and Tobago v Guyana
+|date       = {{Start date|2021|3|25|df=y}}
+|time       = 19:00 [[UTC−04:00|UTC−4]]
+|team1      = {{fb-rt|TRI}}
+|score      = 3–0
+|report     = https://www.fifa.com/tournaments/mens/worldcup/qatar2022/qualifiers/concacaf/match-center/400136273
+|team2      = {{fb|GUY}}
+|goals1     =
+*[[Levi García|L. García]] {{goal|7}}
+*[[Sheldon Bateau|Bateau]] {{goal|15}}
+*[[Ryan Telfer|Telfer]] {{goal|44}}
+|goals2     =
+|stadium    = [[Estadio Panamericano, San Cristóbal|Estadio Panamericano]], [[San Cristóbal, Dominican Republic|San Cristóbal]] (Dominican Republic)
+|attendance = 70
+|referee    = Marco Antonio Ortíz Nava ([[Mexican Football Federation|Mexico]])
+}}
+----
+{{Football box
+|id         = Bahamas v Saint Kitts and Nevis
+|date       = {{Start date|2021|3|27|df=y}}
+|time       = 19:00 [[UTC−04:00|UTC−4]]
+|team1      = {{fb-rt|BAH}}
+|score      = 0–4
+|report     = https://www.fifa.com/tournaments/mens/worldcup/qatar2022/qualifiers/concacaf/match-center/400136275
+|team2      = {{fb|SKN}}
+|goals1     =
+|goals2     =
+*Freeman {{goal|25||65}}
+*[[Rowan Liburd|Liburd]] {{goal|53|pen.}}
+*[[Omari Sterling-James|Sterling-James]] {{goal|82}}
+|stadium    = [[Thomas Robinson Stadium]], [[Nassau, Bahamas|Nassau]]
+|attendance =
+|referee    = Óscar Macías Romo ([[Mexican Football Federation|Mexico]])
+}}
+{{Football box
+|id         = Puerto Rico v Trinidad and Tobago
+|date       = {{Start date|2021|3|28|df=y}}
+|time       = 17:00 [[UTC−04:00|UTC−4]]
+|team1      = {{fb-rt|PUR}}
+|score      = 1–1
+|report     = https://www.fifa.com/tournaments/mens/worldcup/qatar2022/qualifiers/concacaf/match-center/400136269
+|team2      = {{fb|TRI}}
+|goals1     =
+*[[Ricardo Rivera|R. Rivera]] {{goal|72}}
+|goals2     =
+*[[Joevin Jones|Jones]] {{goal|54}}
+|stadium    = [[Mayagüez Athletics Stadium]], [[Mayagüez, Puerto Rico|Mayagüez]]
+|attendance = 0
+|referee    = Adonai Escobedo ([[Mexican Football Federation|Mexico]])
+}}
+----
+{{Football box
+|id         = Guyana v Bahamas
+|date       = {{Start date|2021|3|30|df=y}}
+|time       = 15:00 [[UTC−04:00|UTC−4]]
+|team1      = {{fb-rt|GUY}}
+|score      = 4–0
+|report     = https://www.fifa.com/tournaments/mens/worldcup/qatar2022/qualifiers/concacaf/match-center/400136274
+|team2      = {{fb|BAH}}
+|goals1     =
+*[[Terence Vancooten|Vancooten]] {{goal|8}}
+*[[Kadell Daniel|Daniel]] {{goal|54}}
+*[[Omari Glasgow|Glasgow]] {{goal|75}}
+*[[Emery Welshman|Welshman]] {{goal|81}}
+|goals2     =
+|stadium    = [[Félix Sánchez Olympic Stadium]], [[Santo Domingo]] (Dominican Republic)
+|attendance = 0
+|referee    = Sergio Reyna ([[National Football Federation of Guatemala|Guatemala]])
+}}
+----
+{{Football box
+|id         = Puerto Rico v Bahamas
+|date       = {{Start date|2021|6|2|df=y}}
+|time       = 19:30 [[UTC−04:00|UTC−4]]
+|team1      = {{fb-rt|PUR}}
+|score      = 7–0
+|report     = https://www.fifa.com/tournaments/mens/worldcup/qatar2022/qualifiers/concacaf/match-center/400136276
+|team2      = {{fb|BAH}}
+|goals1     =
+*[[Gerald Díaz|Díaz]] {{goal|3}}
+*[[Ricardo Rivera|R. Rivera]] {{goal|13||43|pen.}}
+*[[Isaac Angking|Angking]] {{goal|31}}
+*[[Devin Vega|Vega]] {{goal|62}}
+*[[Jaden Servania|Servania]] {{goal|66}}
+*[[Lester Hayes III|Hayes]] {{goal|90+2}}
+|goals2     =
+|stadium    = [[Mayagüez Athletics Stadium]], [[Mayagüez, Puerto Rico|Mayagüez]]
+|attendance = 1,115
+|referee    = Tori Penso ([[United States Soccer Federation|United States]])
+}}
+----
+{{Football box
+|id         = Saint Kitts and Nevis v Guyana
+|date       = {{Start date|2021|6|4|df=y}}
+|time       = 16:00 [[UTC−04:00|UTC−4]]
+|team1      = {{fb-rt|SKN}}
+|score      = 3–0
+|report     = https://www.fifa.com/tournaments/mens/worldcup/qatar2022/qualifiers/concacaf/match-center/400136270
+|team2      = {{fb|GUY}}
+|goals1     =
+*Freeman {{goal|9|pen.|36}}
+*[[Romaine Sawyers|Sawyers]] {{goal|67}}
+|goals2     =
+|stadium    = [[Warner Park Sporting Complex|Warner Park]], [[Basseterre]]
+|attendance = 0
+|referee    = [[Ricangel de Leça]] ([[Aruba Football Federation|Aruba]])
+}}
+{{Football box
+|id         = Bahamas v Trinidad and Tobago
+|date       = {{Start date|2021|6|5|df=y}}
+|time       = 17:00 [[UTC−04:00|UTC−4]]
+|team1      = {{fb-rt|BAH}}
+|score      = 0–0
+|report     = https://www.fifa.com/tournaments/mens/worldcup/qatar2022/qualifiers/concacaf/match-center/400136272
+|team2      = {{fb|TRI}}
+|goals1     =
+|goals2     =
+|stadium    = [[Thomas Robinson Stadium]], [[Nassau, Bahamas|Nassau]]
+|attendance = 0
+|referee    = Oliver Vergara ([[Panamanian Football Federation|Panama]])
+}}
+----
+{{Football box
+|id         = Guyana v Puerto Rico
+|date       = {{Start date|2021|6|8|df=y}}
+|time       = 16:00 [[UTC−04:00|UTC−4]]
+|team1      = {{fb-rt|GUY}}
+|score      = 0–2
+|report     = https://www.fifa.com/tournaments/mens/worldcup/qatar2022/qualifiers/concacaf/match-center/400136277
+|team2      = {{fb|PUR}}
+|goals1     =
+|goals2     =
+*[[Ricardo Rivera|R. Rivera]] {{goal|12}}
+*[[Isaac Angking|Angking]] {{goal|25|pen.}}
+|stadium    = [[Warner Park Sporting Complex|Warner Park]], [[Basseterre]] (Saint Kitts and Nevis)
+|attendance = 0
+|referee    = Ismael Cornejo Meléndez ([[Salvadoran Football Federation|El Salvador]])
+}}
+{{Football box
+|id         = Trinidad and Tobago v Saint Kitts and Nevis
+|date       = {{Start date|2021|6|8|df=y}}
+|time       = 17:00 [[UTC−04:00|UTC−4]]
+|team1      = {{fb-rt|TRI}}
+|score      = 2–0
+|report     = https://www.fifa.com/tournaments/mens/worldcup/qatar2022/qualifiers/concacaf/match-center/400136268
+|team2      = {{fb|SKN}}
+|goals1     =
+*[[Duane Muckette|Muckette]] {{goal|36}}
+*[[Khaleem Hyland|Hyland]] {{goal|74}}
+|goals2     =
+|stadium    = [[Félix Sánchez Olympic Stadium]], [[Santo Domingo]] (Dominican Republic)
+|attendance = 0
+|referee    = Randy Encarnación ([[Dominican Football Federation|Dominican Republic]])
+}}
+
+==Goalscorers==
+{{#invoke:Goalscorers|main|2022 FIFA World Cup qualification (CONCACAF)|round=group}}<!--CAREFULLY update goalscorers at Module:Goalscorers/data/2022 FIFA World Cup qualification (CONCACAF)-->
+
+==Notes==
+{{reflist|group=note}}
+
+==References==
+{{reflist}}
+
+==External links==
+*{{Official website|https://www.fifa.com/tournaments/mens/worldcup/qatar2022/qualifiers|Official FIFA World Cup website}}
+*[https://www.fifa.com/tournaments/mens/worldcup/qatar2022/qualifiers/concacaf Qualifiers – North, Central America and Caribbean: Matches], FIFA.com
+*[https://www.concacaf.com/en/world-cup-qualifying-men World Cup Qualifying – Men], CONCACAF.com
+
+{{2022 FIFA World Cup qualification}}
+
+{{DEFAULTSORT:2022 Fifa World Cup qualification Concacaf first round}}
+[[Category:2022 FIFA World Cup qualification (CONCACAF)|1]]
+[[Category:2020–21 in CONCACAF football|Qual1]]
+[[Category:March 2021 sports events in North America|FIFA World Cup qualification - CONCACAF first round]]
+[[Category:June 2021 sports events in North America|FIFA World Cup qualification - CONCACAF first round]]
+[[Category:Association football events postponed due to the COVID-19 pandemic|FIFA World Cup qualification - CONCACAF first round, 2022]]
+[[Category:Canada at the 2022 FIFA World Cup]]

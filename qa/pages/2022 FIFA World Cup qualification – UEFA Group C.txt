@@ -1,0 +1,467 @@
+{{short description|none}}
+{{Use dmy dates|date=December 2020}}
+The '''2022 FIFA World Cup qualification UEFA Group C''' was one of the ten [[2022 FIFA World Cup qualification (UEFA)|UEFA groups]] in the [[2022 FIFA World Cup qualification|World Cup qualification]] tournament to decide which teams would qualify for the [[2022 FIFA World Cup]] finals tournament in Qatar.<ref>{{cite news |url=https://digitalhub.fifa.com/m/58b8109657d40e3d/original/ijoruwm3ly5kgz9wbu6j-pdf.pdf |title=UEFA preliminary competition for the FIFA World Cup 2022: Draw procedures |work=[[FIFA]] |date=22 October 2020 |access-date=22 October 2020}}</ref> Group C consisted of five teams: the [[Bulgaria national football team]], the [[Italy national football team]], the [[Lithuania national football team]], the [[Northern Ireland national football team]] and the [[Switzerland national football team]].<ref>{{cite web |url=https://editorial.uefa.com/resources/0264-1108c702e548-758110ebe57c-1000/draw_result_sheet.pdf |title=FIFA World Cup Preliminary Competition – Draw Results |work=UEFA |date=7 December 2020 |access-date=7 December 2020}}</ref> The teams played against each other home-and-away in a [[round-robin tournament|round-robin format]].<ref>{{cite web |url=https://digitalhub.fifa.com/m/271202c2bf80db17/original/adjlwts3o6c57g0skqor-pdf.pdf |title=UEFA preliminary competition format for the FIFA World Cup 2022 |work=FIFA |date=4 December 2020 |access-date=7 December 2020}}</ref>
+
+The group winners, Switzerland, qualified directly for the World Cup finals, while the runners-up, Italy, advanced to the [[2022 FIFA World Cup qualification – UEFA second round|second round (play-offs)]].
+
+==Standings==
+<onlyinclude>{{#invoke:Sports table|main|style=WDL
+|show_matches=y
+|class_rules=[[2022 FIFA World Cup qualification#Tiebreakers|Tiebreakers]]
+|source=[https://www.fifa.com/tournaments/mens/worldcup/qatar2022/qualifiers/uefa FIFA], [https://www.uefa.com/european-qualifiers/standings/#grp-2007930 UEFA]
+
+<!--Update team positions below (check tiebreakers)-->
+|team_order=SUI, ITA, NIR, BUL, LTU
+
+<!--Update team results below (including date)-->
+|update=complete
+|win_ITA=4 |draw_ITA=4 |loss_ITA=0 |gf_ITA=13|ga_ITA=2
+|win_SUI=5 |draw_SUI=3 |loss_SUI=0 |gf_SUI=15|ga_SUI=2
+|win_NIR=2 |draw_NIR=3 |loss_NIR=3 |gf_NIR=6 |ga_NIR=7
+|win_BUL=2 |draw_BUL=2 |loss_BUL=4 |gf_BUL=6 |ga_BUL=14
+|win_LTU=1 |draw_LTU=0 |loss_LTU=7 |gf_LTU=4 |ga_LTU=19
+
+<!--Update match results below-->
+|match_ITA_SUI=[[2022 FIFA World Cup qualification – UEFA Group C#Italy v Switzerland|1–1]]
+|match_ITA_NIR=[[2022 FIFA World Cup qualification – UEFA Group C#Italy v Northern Ireland|2–0]]
+|match_ITA_BUL=[[2022 FIFA World Cup qualification – UEFA Group C#Italy v Bulgaria|1–1]]
+|match_ITA_LTU=[[2022 FIFA World Cup qualification – UEFA Group C#Italy v Lithuania|5–0]]
+
+|match_SUI_ITA=[[2022 FIFA World Cup qualification – UEFA Group C#Switzerland v Italy|0–0]]
+|match_SUI_NIR=[[2022 FIFA World Cup qualification – UEFA Group C#Switzerland v Northern Ireland|2–0]]
+|match_SUI_BUL=[[2022 FIFA World Cup qualification – UEFA Group C#Switzerland v Bulgaria|4–0]]
+|match_SUI_LTU=[[2022 FIFA World Cup qualification – UEFA Group C#Switzerland v Lithuania|1–0]]
+
+|match_NIR_ITA=[[2022 FIFA World Cup qualification – UEFA Group C#Northern Ireland v Italy|0–0]]
+|match_NIR_SUI=[[2022 FIFA World Cup qualification – UEFA Group C#Northern Ireland v Switzerland|0–0]]
+|match_NIR_BUL=[[2022 FIFA World Cup qualification – UEFA Group C#Northern Ireland v Bulgaria|0–0]]
+|match_NIR_LTU=[[2022 FIFA World Cup qualification – UEFA Group C#Northern Ireland v Lithuania|1–0]]
+
+|match_BUL_ITA=[[2022 FIFA World Cup qualification – UEFA Group C#Bulgaria v Italy|0–2]]
+|match_BUL_SUI=[[2022 FIFA World Cup qualification – UEFA Group C#Bulgaria v Switzerland|1–3]]
+|match_BUL_NIR=[[2022 FIFA World Cup qualification – UEFA Group C#Bulgaria v Northern Ireland|2–1]]
+|match_BUL_LTU=[[2022 FIFA World Cup qualification – UEFA Group C#Bulgaria v Lithuania|1–0]]
+
+|match_LTU_ITA=[[2022 FIFA World Cup qualification – UEFA Group C#Lithuania v Italy|0–2]]
+|match_LTU_SUI=[[2022 FIFA World Cup qualification – UEFA Group C#Lithuania v Switzerland|0–4]]
+|match_LTU_NIR=[[2022 FIFA World Cup qualification – UEFA Group C#Lithuania v Northern Ireland|1–4]]
+|match_LTU_BUL=[[2022 FIFA World Cup qualification – UEFA Group C#Lithuania v Bulgaria|3–1]]
+
+<!--Team definitions-->
+|name_ITA={{fb|ITA}} |short_ITA={{flagdeco|ITA}}
+|name_SUI={{fb|SUI}} |short_SUI={{flagdeco|SUI}}
+|name_NIR={{fb|NIR}} |short_NIR={{flagdeco|NIR}}
+|name_BUL={{fb|BUL}} |short_BUL={{flagdeco|BUL}}
+|name_LTU={{fb|LTU}} |short_LTU={{flagdeco|LTU}}
+
+<!--Qualification column definitions-->
+|res_col_header=Q
+|result1=WC |result2=PO
+|col_WC=green1 |text_WC=Qualification for [[2022 FIFA World Cup]]
+|col_PO=blue1  |text_PO=Advance to [[2022 FIFA World Cup qualification – UEFA second round|play-offs]]
+}}</onlyinclude>
+
+==Matches==
+The fixture list was confirmed by UEFA on 8 December 2020, the day following the draw.<ref>{{cite web |url=https://www.uefa.com/european-qualifiers/news/0264-110cbe0bf3c8-20065adb8f46-1000/ |title=European Qualifiers for 2022 World Cup: all the fixtures |work=UEFA |date=9 December 2020 |access-date=12 December 2020}}</ref><ref>{{cite web |url=https://editorial.uefa.com/resources/0264-110ace207077-148a7a2a0834-1000/worldcupfixtures.pdf |title=Fixture List – European Qualifiers 2020–2022: FIFA World Cup Preliminary Competition |work=UEFA |date=8 December 2020 |access-date=8 December 2020}}</ref><ref>{{cite web |url=https://editorial.uefa.com/resources/0264-110ad8d233bb-8b2abff6c4d7-1000/eq_2020-22_-_fixtures_list_by_groups.pdf |title=Fixture List by Group – European Qualifiers 2020–2022: FIFA World Cup Preliminary Competition |work=UEFA |date=8 December 2020 |access-date=8 December 2020}}</ref> Times are [[Central European Time|CET]]/[[Central European Summer Time|CEST]],{{refn|group=note|[[Central European Time|CET]] ([[UTC+01:00|UTC+1]]) for matches until 27 March and from 31 October (matchday 1 and 9–10), and [[Central European Summer Time|CEST]] ([[UTC+02:00|UTC+2]]) for matches from 28 March to 30 October 2021 (matchday 2–8).}} as listed by UEFA (local times, if different, are in parentheses).
+
+{{Football box
+|id=Bulgaria v Switzerland
+|date={{Start date|2021|3|25|df=y}}
+|time=18:00 {{small|(19:00 [[UTC+02:00|UTC+2]])}}
+|team1={{fb-rt|BUL}}
+|score=1–3
+|report=[https://www.fifa.com/tournaments/mens/worldcup/qatar2022/qualifiers/uefa/match-center/400155594 Report (FIFA)]<br />[https://www.uefa.com/european-qualifiers/match/2030783/ Report (UEFA)]
+|team2={{fb|SUI}}
+|goals1=[[Kiril Despodov|Despodov]] {{goal|46}}
+|goals2=
+*[[Breel Embolo|Embolo]] {{goal|7}}
+*[[Haris Seferovic|Seferovic]] {{goal|10}}
+*[[Steven Zuber|Zuber]] {{goal|13}}
+|stadium=[[Vasil Levski National Stadium]], [[Sofia]]
+|attendance=0<ref>{{UEFA match attendance|2030783|Bulgaria vs. Switzerland |date=25 March 2021|access-date=1 April 2021}}</ref>{{refn|group=note|name=Behind closed doors|Due to the [[COVID-19 pandemic in Europe]], the match was played [[Behind closed doors (sport)|behind closed doors]].}}
+|referee=[[Nikola Dabanović]] ([[Football Association of Montenegro|Montenegro]])
+}}
+{{Football box
+|id=Italy v Northern Ireland
+|date={{Start date|2021|3|25|df=y}}
+|time=20:45
+|team1={{fb-rt|ITA}}
+|score=2–0
+|report=[https://www.fifa.com/tournaments/mens/worldcup/qatar2022/qualifiers/uefa/match-center/400155601 Report (FIFA)]<br />[https://www.uefa.com/european-qualifiers/match/2030775/ Report (UEFA)]
+|team2={{fb|NIR}}
+|goals1=
+*[[Domenico Berardi|Berardi]] {{goal|14}}
+*[[Ciro Immobile|Immobile]] {{goal|39}}
+|goals2=
+|stadium=[[Stadio Ennio Tardini]], [[Parma]]
+|attendance=0<ref>{{UEFA match attendance|2030775|Italy vs. Northern Ireland |date=25 March 2021|access-date=1 April 2021}}</ref>{{refn|group=note|name=Behind closed doors}}
+|referee=[[Ali Palabıyık]] ([[Turkish Football Federation|Turkey]])
+}}
+----
+{{Football box
+|id=Bulgaria v Italy
+|date={{Start date|2021|3|28|df=y}}
+|time=20:45 {{small|(21:45 [[UTC+03:00|UTC+3]])}}
+|team1={{fb-rt|BUL}}
+|score=0–2
+|report=[https://www.fifa.com/tournaments/mens/worldcup/qatar2022/qualifiers/uefa/match-center/400155604 Report (FIFA)]<br />[https://www.uefa.com/european-qualifiers/match/2030808/ Report (UEFA)]
+|team2={{fb|ITA}}
+|goals1=
+|goals2=
+*[[Andrea Belotti|Belotti]] {{goal|43|pen.}}
+*[[Manuel Locatelli|Locatelli]] {{goal|83}}
+|stadium=[[Vasil Levski National Stadium]], [[Sofia]]
+|attendance=0<ref>{{UEFA match attendance|2030808|Bulgaria vs. Italy |date=28 March 2021|access-date=1 April 2021}}</ref>{{refn|group=note|name=Behind closed doors}}
+|referee=[[Slavko Vinčić]] ([[Football Association of Slovenia|Slovenia]])
+}}
+{{Football box
+|id=Switzerland v Lithuania
+|date={{Start date|2021|3|28|df=y}}
+|time=21:00{{refn|group=note|The Switzerland v Lithuania match, originally to be played at 20:45 UTC+2, was delayed by 15 minutes to replace a wrong-sized goal.<ref>{{cite web |url=https://www.football-italia.net/168403/swiss-goalposts-cause-delay |title=Swiss goalposts cause delay |website=football-italia.net |date=28 March 2021 |access-date=28 March 2021}}</ref>}}
+|team1={{fb-rt|SUI}}
+|score=1–0
+|report=[https://www.fifa.com/tournaments/mens/worldcup/qatar2022/qualifiers/uefa/match-center/400155596 Report (FIFA)]<br />[https://www.uefa.com/european-qualifiers/match/2030806/ Report (UEFA)]
+|team2={{fb|LTU}}
+|goals1=
+*[[Xherdan Shaqiri|Shaqiri]] {{goal|2}}
+|goals2=
+|stadium=[[Kybunpark]], [[St. Gallen]]
+|attendance=0<ref>{{UEFA match attendance|2030806|Switzerland vs. Lithuania |date=28 March 2021|access-date=1 April 2021}}</ref>{{refn|group=note|name=Behind closed doors}}
+|referee=[[Mattias Gestranius]] ([[Football Association of Finland|Finland]])
+}}
+----
+{{Football box
+|id=Lithuania v Italy
+|date={{Start date|2021|3|31|df=y}}
+|time=20:45 {{small|(21:45 [[UTC+03:00|UTC+3]])}}
+|team1={{fb-rt|LTU}}
+|score=0–2
+|report=[https://www.fifa.com/tournaments/mens/worldcup/qatar2022/qualifiers/uefa/match-center/400155598 Report (FIFA)]<br />[https://www.uefa.com/european-qualifiers/match/2030827/ Report (UEFA)]
+|team2={{fb|ITA}}
+|goals1=
+|goals2=
+*[[Stefano Sensi|Sensi]] {{goal|48}}
+*[[Ciro Immobile|Immobile]] {{goal|90+4|pen.}}
+|stadium=[[LFF Stadium]], [[Vilnius]]
+|attendance=0<ref>{{UEFA match attendance|2030827|Lithuania vs. Italy |date=31 March 2021|access-date=1 April 2021}}</ref>{{refn|group=note|name=Behind closed doors}}
+|referee=[[Paweł Raczkowski]] ([[Polish Football Association|Poland]])
+}}
+{{Football box
+|id=Northern Ireland v Bulgaria
+|date={{Start date|2021|3|31|df=y}}
+|time=20:45 {{small|(19:45 [[UTC+01:00|UTC+1]])}}
+|team1={{fb-rt|NIR}}
+|score=0–0
+|report=[https://www.fifa.com/tournaments/mens/worldcup/qatar2022/qualifiers/uefa/match-center/400155610 Report (FIFA)]<br />[https://www.uefa.com/european-qualifiers/match/2030826/ Report (UEFA)]
+|team2={{fb|BUL}}
+|goals1=
+|goals2=
+|stadium=[[Windsor Park]], [[Belfast, Northern Ireland|Belfast]]
+|attendance=0<ref>{{UEFA match attendance|2030826|Northern Ireland vs. Bulgaria |date=31 March 2021|access-date=1 April 2021}}</ref>{{refn|group=note|name=Behind closed doors}}
+|referee=[[Yigal Frid]] ([[Israel Football Association|Israel]])
+}}
+----
+{{Football box
+|id=Italy v Bulgaria
+|date={{Start date|2021|9|2|df=y}}
+|time=20:45
+|team1={{fb-rt|ITA}}
+|score=1–1
+|report=[https://www.fifa.com/tournaments/mens/worldcup/qatar2022/qualifiers/uefa/match-center/400155593 Report (FIFA)]<br />[https://www.uefa.com/european-qualifiers/match/2030857/ Report (UEFA)]
+|team2={{fb|BUL}}
+|goals1=
+*[[Federico Chiesa|Chiesa]] {{goal|16}}
+|goals2=
+*[[Atanas Iliev|A. Iliev]] {{goal|39}}
+|stadium= [[Stadio Artemio Franchi]], [[Florence]]<ref name="Sep21">{{cite web|title=World Cup qualifying: Bulgaria and Lithuania matches to take place in Florence and Reggio Emilia |date=3 May 2021 |url=https://www.figc.it/en/national-teams/news/world-cup-qualifying-bulgaria-and-lithuania-matches-to-take-place-in-florence-and-reggio-emilia/ |publisher=FIGC |access-date=3 May 2021 }}</ref>
+|attendance=14,366<ref>{{UEFA match attendance|2030857|Italy vs. Bulgaria |date=2 September 2021|access-date=2 September 2021}}</ref>
+|referee=[[Serdar Gözübüyük]] ([[Royal Dutch Football Association|Netherlands]])
+}}
+{{Football box
+|id=Lithuania v Northern Ireland
+|date={{Start date|2021|9|2|df=y}}
+|time=20:45 {{small|(21:45 [[UTC+03:00|UTC+3]])}}
+|team1={{fb-rt|LTU}}
+|score=1–4
+|report=[https://www.fifa.com/tournaments/mens/worldcup/qatar2022/qualifiers/uefa/match-center/400155599 Report (FIFA)]<br />[https://www.uefa.com/european-qualifiers/match/2030858/ Report (UEFA)]
+|team2={{fb|NIR}}
+|goals1=
+*[[Rolandas Baravykas|Baravykas]] {{goal|55}}
+|goals2=
+*[[Daniel Ballard|Ballard]] {{goal|20}}
+*[[Conor Washington|Washington]] {{goal|52|pen.}}
+*[[Shayne Lavery|Lavery]] {{goal|67}}
+*[[Paddy McNair|McNair]] {{goal|82|pen.}}
+|stadium=[[LFF Stadium]], [[Vilnius]]
+|attendance=1,612<ref>{{UEFA match attendance|2030858|Lithuania vs. Northern Ireland |date=2 September 2021|access-date=2 September 2021}}</ref>
+|referee=[[Stéphanie Frappart]] ([[French Football Federation|France]])
+}}
+----
+{{Football box
+|id=Bulgaria v Lithuania
+|date={{Start date|2021|9|5|df=y}}
+|time=18:00 {{small|(19:00 [[UTC+03:00|UTC+3]])}}
+|team1={{fb-rt|BUL}}
+|score=1–0
+|report=[https://www.fifa.com/tournaments/mens/worldcup/qatar2022/qualifiers/uefa/match-center/400155607 Report (FIFA)]<br />[https://www.uefa.com/european-qualifiers/match/2030882/ Report (UEFA)]
+|team2={{fb|LTU}}
+|goals1=
+*[[Ivaylo Chochev|Chochev]] {{goal|82}}
+|goals2=
+|stadium=[[Vasil Levski National Stadium]], [[Sofia]]
+|attendance=2,503<ref>{{UEFA match attendance|2030882|Bulgaria vs. Lithuania |date=5 September 2021|access-date=5 September 2021}}</ref>
+|referee=[[John Beaton]] ([[Scottish Football Association|Scotland]])
+}}
+{{Football box
+|id=Switzerland v Italy
+|date={{Start date|2021|9|5|df=y}}
+|time=20:45
+|team1={{fb-rt|SUI}}
+|score=0–0
+|report=[https://www.fifa.com/tournaments/mens/worldcup/qatar2022/qualifiers/uefa/match-center/400155595 Report (FIFA)]<br />[https://www.uefa.com/european-qualifiers/match/2030884/ Report (UEFA)]
+|team2={{fb|ITA}}
+|goals1=
+|goals2=
+|stadium=[[St. Jakob-Park]], [[Basel]]<ref name="Sep21" />
+|attendance=31,500<ref>{{UEFA match attendance|2030884|Switzerland vs. Italy |date=5 September 2021|access-date=5 September 2021}}</ref>
+|referee=[[Carlos del Cerro Grande]] ([[Royal Spanish Football Federation|Spain]])
+}}
+----
+{{Football box
+|id=Italy v Lithuania
+|date={{Start date|2021|9|8|df=y}}
+|time=20:45
+|team1={{fb-rt|ITA}}
+|score=5–0
+|report=[https://www.fifa.com/tournaments/mens/worldcup/qatar2022/qualifiers/uefa/match-center/400155602 Report (FIFA)]<br />[https://www.uefa.com/european-qualifiers/match/2030901/ Report (UEFA)]
+|team2={{fb|LTU}}
+|goals1=
+*[[Moise Kean|Kean]] {{goal|11||29}}
+*[[Edgaras Utkus|Utkus]] {{goal|14|o.g.}}
+*[[Giacomo Raspadori|Raspadori]] {{goal|24}}
+*[[Giovanni Di Lorenzo|Di Lorenzo]] {{goal|54}}
+|goals2=
+|stadium=[[Mapei Stadium – Città del Tricolore|Stadio Città del Tricolore]], [[Reggio Emilia]]<ref name="Sep21" />
+|attendance=10,578<ref>{{UEFA match attendance|2030901|Italy vs. Lithuania |date=8 September 2021|access-date=8 September 2021}}</ref>
+|referee=[[Craig Pawson]] ([[The Football Association|England]])
+}}
+{{Football box
+|id=Northern Ireland v Switzerland
+|date={{Start date|2021|9|8|df=y}}
+|time=20:45 {{small|(19:45 [[UTC+01:00|UTC+1]])}}
+|team1={{fb-rt|NIR}}
+|score=0–0
+|report=[https://www.fifa.com/tournaments/mens/worldcup/qatar2022/qualifiers/uefa/match-center/400155609 Report (FIFA)]<br />[https://www.uefa.com/european-qualifiers/match/2030904/ Report (UEFA)]
+|team2={{fb|SUI}}
+|goals1=
+|goals2=
+|stadium=[[Windsor Park]], [[Belfast, Northern Ireland|Belfast]]
+|attendance=15,660<ref>{{UEFA match attendance|2030904|Northern Ireland vs. Switzerland |date=8 September 2021|access-date=8 September 2021}}</ref>
+|referee=[[Harald Lechner]] ([[Austrian Football Association|Austria]])
+}}
+----
+{{Football box
+|id=Lithuania v Bulgaria
+|date={{Start date|2021|10|9|df=y}}
+|time=15:00 {{small|(16:00 [[UTC+03:00|UTC+3]])}}
+|team1={{fb-rt|LTU}}
+|score=3–1
+|report=[https://www.fifa.com/tournaments/mens/worldcup/qatar2022/qualifiers/uefa/match-center/400155592 Report (FIFA)]<br />[https://www.uefa.com/european-qualifiers/match/2030932/ Report (UEFA)]
+|team2={{fb|BUL}}
+|goals1=
+*[[Justas Lasickas|Lasickas]] {{goal|18}}
+*[[Fedor Černych|Černych]] {{goal|82||84}}
+|goals2=
+*[[Kiril Despodov|Despodov]] {{goal|64}}
+|stadium=[[LFF Stadium]], [[Vilnius]]
+|attendance=2,526<ref>{{UEFA match attendance|2030932|Lithuania vs. Bulgaria |date=9 October 2021|access-date=9 October 2021}}</ref>
+|referee=[[Yevhen Aranovskyi]] ([[Ukrainian Association of Football|Ukraine]])
+}}
+{{Football box
+|id=Switzerland v Northern Ireland
+|date={{Start date|2021|10|9|df=y}}
+|time=20:45
+|team1={{fb-rt|SUI}}
+|score=2–0
+|report=[https://www.fifa.com/tournaments/mens/worldcup/qatar2022/qualifiers/uefa/match-center/400155605 Report (FIFA)]<br />[https://www.uefa.com/european-qualifiers/match/2030931/ Report (UEFA)]
+|team2={{fb|NIR}}
+|goals1=
+*[[Steven Zuber|Zuber]] {{goal|45+3}}
+*[[Christian Fassnacht|Fassnacht]] {{goal|90+1}}
+|goals2=
+|stadium=[[Stade de Genève]], [[Geneva]]
+|attendance=19,129<ref>{{UEFA match attendance|2030931|Switzerland vs. Northern Ireland |date=9 October 2021|access-date=9 October 2021}}</ref>
+|referee=[[Slavko Vinčić]] ([[Football Association of Slovenia|Slovenia]])
+}}
+----
+{{Football box
+|id=Bulgaria v Northern Ireland
+|date={{Start date|2021|10|12|df=y}}
+|time=20:45 {{small|(21:45 [[UTC+03:00|UTC+3]])}}
+|team1={{fb-rt|BUL}}
+|score=2–1
+|report=[https://www.fifa.com/tournaments/mens/worldcup/qatar2022/qualifiers/uefa/match-center/400155608 Report (FIFA)]<br />[https://www.uefa.com/european-qualifiers/match/2030953/ Report (UEFA)]
+|team2={{fb|NIR}}
+|goals1=
+*[[Todor Nedelev|Nedelev]] {{goal|53||63}}
+|goals2=
+*[[Conor Washington|Washington]] {{goal|37}}
+|stadium=[[Vasil Levski National Stadium]], [[Sofia]]
+|attendance=822<ref>{{UEFA match attendance|2030953|Bulgaria vs. Northern Ireland |date=12 October 2021|access-date=12 October 2021}}</ref>
+|referee=[[Aleksei Kulbakov]] ([[Football Federation of Belarus|Belarus]])
+}}
+{{Football box
+|id=Lithuania v Switzerland
+|date={{Start date|2021|10|12|df=y}}
+|time=20:45 {{small|(21:45 [[UTC+03:00|UTC+3]])}}
+|team1={{fb-rt|LTU}}
+|score=0–4
+|report=[https://www.fifa.com/tournaments/mens/worldcup/qatar2022/qualifiers/uefa/match-center/400155600 Report (FIFA)]<br />[https://www.uefa.com/european-qualifiers/match/2030958/ Report (UEFA)]
+|team2={{fb|SUI}}
+|goals1=
+|goals2=
+*[[Breel Embolo|Embolo]] {{goal|31||45}}
+*[[Renato Steffen|Steffen]] {{goal|42}}
+*[[Mario Gavranović|Gavranović]] {{goal|90+4}}
+|stadium=[[LFF Stadium]], [[Vilnius]]
+|attendance=1,806<ref>{{UEFA match attendance|2030958|Lithuania vs. Switzerland |date=12 October 2021|access-date=12 October 2021}}</ref>
+|referee=[[Tiago Martins (referee)|Tiago Martins]] ([[Portuguese Football Federation|Portugal]])
+}}
+----
+{{Football box
+|id=Italy v Switzerland
+|date={{Start date|2021|11|12|df=y}}
+|time=20:45
+|team1={{fb-rt|ITA}}
+|score=1–1
+|report=[https://www.fifa.com/tournaments/mens/worldcup/qatar2022/qualifiers/uefa/match-center/400155603 Report (FIFA)]<br />[https://www.uefa.com/european-qualifiers/match/2030972/ Report (UEFA)]
+|team2={{fb|SUI}}
+|goals1=
+*[[Giovanni Di Lorenzo|Di Lorenzo]] {{goal|36}}
+|goals2=
+*[[Silvan Widmer|Widmer]] {{goal|11}}
+|stadium=[[Stadio Olimpico]], [[Rome]]
+|attendance=45,699<ref>{{UEFA match attendance|2030972|Italy vs. Switzerland |date=12 November 2021|access-date=12 November 2021}}</ref>
+|referee=[[Anthony Taylor (referee)|Anthony Taylor]] ([[The Football Association|England]])
+}}
+{{Football box
+|id=Northern Ireland v Lithuania
+|date={{Start date|2021|11|12|df=y}}
+|time=20:45 {{small|(19:45 [[UTC±00:00|UTC±0]])}}
+|team1={{fb-rt|NIR}}
+|score=1–0
+|report=[https://www.fifa.com/tournaments/mens/worldcup/qatar2022/qualifiers/uefa/match-center/400155611 Report (FIFA)]<br />[https://www.uefa.com/european-qualifiers/match/2030973/ Report (UEFA)]
+|team2={{fb|LTU}}
+|goals1=
+*[[Benas Šatkus|Šatkus]] {{goal|18|o.g.}}
+|goals2=
+|stadium=[[Windsor Park]], [[Belfast, Northern Ireland|Belfast]]
+|attendance=14,336<ref>{{UEFA match attendance|2030973|Northern Ireland vs. Lithuania |date=12 November 2021|access-date=12 November 2021}}</ref>
+|referee=[[István Vad]] ([[Hungarian Football Federation|Hungary]])
+}}
+----
+{{Football box
+|id=Northern Ireland v Italy
+|date={{Start date|2021|11|15|df=y}}
+|time=20:45 {{small|(19:45 [[UTC±00:00|UTC±0]])}}
+|team1={{fb-rt|NIR}}
+|score=0–0
+|report=[https://www.fifa.com/tournaments/mens/worldcup/qatar2022/qualifiers/uefa/match-center/400155597 Report (FIFA)]<br />[https://www.uefa.com/european-qualifiers/match/2031003/ Report (UEFA)]
+|team2={{fb|ITA}}
+|goals1=
+|goals2=
+|stadium=[[Windsor Park]], [[Belfast, Northern Ireland|Belfast]]
+|attendance=15,969<ref>{{UEFA match attendance|2031003|Northern Ireland vs. Italy |date=15 November 2021|access-date=15 November 2021}}</ref>
+|referee=[[István Kovács (referee)|István Kovács]] ([[Romanian Football Federation|Romania]])
+}}
+{{Football box
+|id=Switzerland v Bulgaria
+|date={{Start date|2021|11|15|df=y}}
+|time=20:45
+|team1={{fb-rt|SUI}}
+|score=4–0
+|report=[https://www.fifa.com/tournaments/mens/worldcup/qatar2022/qualifiers/uefa/match-center/400155606 Report (FIFA)]<br />[https://www.uefa.com/european-qualifiers/match/2030997/ Report (UEFA)]
+|team2={{fb|BUL}}
+|goals1=
+*[[Noah Okafor|Okafor]] {{goal|48}}
+*[[Ruben Vargas|Vargas]] {{goal|57}}
+*[[Cedric Itten|Itten]] {{goal|72}}
+*[[Remo Freuler|Freuler]] {{goal|90+1}}
+|goals2=
+|stadium=[[Swissporarena]], [[Lucerne]]
+|attendance=14,300<ref>{{UEFA match attendance|2030997|Switzerland vs. Bulgaria |date=15 November 2021|access-date=15 November 2021}}</ref>
+|referee=[[Benoît Bastien]] ([[French Football Federation|France]])
+}}
+
+==Goalscorers==
+{{#invoke:Goalscorers|main|2022 FIFA World Cup qualification (UEFA)|round=group|group=C}}<!--CAREFULLY update goalscorers at Module:Goalscorers/data/2022 FIFA World Cup qualification (UEFA)-->
+
+==Discipline==
+A player was automatically suspended for the next match for the following offences:<ref name="regulations">{{cite web |url=https://digitalhub.fifa.com/m/517ef2ad2bc3665e/original/ytkbpnxyvcghx6bebesv-pdf.pdf |title=Regulations FIFA World Cup 2022 Preliminary Competition |website=FIFA.com |publisher=Fédération Internationale de Football Association |year=2020 |access-date=7 December 2020}}</ref>
+* Receiving a red card (red card suspensions could be extended for serious offences)
+* Receiving two yellow cards in two different matches (yellow card suspensions were carried forward to the play-offs, but not the finals or any other future international matches)
+The following suspensions were served during the qualifying matches:
+
+{|class="wikitable" style="font-size:90%"
+|-
+!Team
+!Player
+!Offence(s)
+!Suspended for match(es)
+|-
+|rowspan=4|{{fb|BUL}} ||[[Valentin Antov]] ||{{yel}} vs Northern Ireland (31 March 2021)<br>{{yel}} vs Lithuania (9 October 2021) ||vs Northern Ireland (12 October 2021)
+|-
+|[[Atanas Iliev]] ||{{yel}} vs Northern Ireland (31 March 2021)<br>{{yel}} vs Lithuania (5 September 2021) ||rowspan=2|vs Lithuania (9 October 2021)
+|-
+|[[Nikolay Mihaylov]] ||{{sent off|0}} vs Lithuania (5 September 2021)
+|-
+|[[Georgi Yomov]] ||{{yel}} vs Italy (2 September 2021)<br>{{yel}} vs Lithuania (9 October 2021) ||vs Northern Ireland (12 October 2021)
+|-
+|{{fb|ITA}} ||[[Manuel Locatelli]] ||{{yel}} vs Bulgaria (28 March 2021)<br>{{yel}} vs Lithuania (31 March 2021) ||vs Bulgaria (2 September 2021)
+|-
+|rowspan=3|{{fb|LTU}} ||[[Fedor Černych]] ||{{yel}} vs Switzerland (28 March 2021)<br>{{yel}} vs Bulgaria (5 September 2021) ||rowspan=2|vs Italy (8 September 2021)
+|-
+|[[Domantas Šimkus]] ||{{yel}} vs Italy (31 March 2021)<br>{{yel}} vs Bulgaria (5 September 2021)
+|-
+|[[Egidijus Vaitkūnas]] ||{{yel}} vs Italy (31 March 2021)<br>{{yel}} vs Bulgaria (9 October 2021) ||vs Switzerland (12 October 2021)
+|-
+|rowspan=3|{{fb|NIR}} ||[[Jamal Lewis (footballer)|Jamal Lewis]] ||{{sent off|2}} vs Switzerland (9 October 2021) ||vs Bulgaria (12 October 2021)
+|-
+|[[Paddy McNair]] ||{{yel}} vs Bulgaria (31 March 2021)<br>{{yel}} vs Lithuania (2 September 2021) ||vs Switzerland (8 September 2021)
+|-
+|[[George Saville]] ||{{yel}} vs Italy (25 March 2021)<br>{{yel}} vs Bulgaria (31 March 2021) ||vs Lithuania (2 September 2021)
+|-
+|rowspan=4|{{fb|SUI}} ||[[Manuel Akanji]] ||{{yel}} vs Bulgaria (25 March 2021)<br>{{yel}} vs Italy (12 November 2021) ||vs Bulgaria (15 November 2021)
+|-
+|[[Fabian Frei]] ||{{yel}} vs Italy (5 September 2021)<br>{{yel}} vs Northern Ireland (8 September 2021) ||vs Northern Ireland (9 October 2021)
+|-
+|[[Remo Freuler]] ||{{sent off|0}} vs Spain in [[UEFA Euro 2020]] (2 July 2021) ||vs Italy (5 September 2021)<ref>{{cite web |url=https://editorial.uefa.com/resources/026c-12fb25f711c9-fd6859a07b41-1000/fifa_wc_eq_all_groups_before_md4.pdf |title=Booking list |website=UEFA.com |date=10 August 2021 |access-date=1 September 2021}}</ref>
+|-
+|[[Denis Zakaria]] ||{{yel}} vs Northern Ireland (8 September 2021)<br>{{yel}} vs Northern Ireland (9 October 2021) ||vs Lithuania (12 October 2021)
+|}
+
+==Notes==
+{{reflist|group=note}}
+
+==References==
+{{reflist}}
+
+==External links==
+*{{Official website|https://www.fifa.com/tournaments/mens/worldcup/qatar2022/qualifiers|Official FIFA World Cup website}}
+*[https://www.fifa.com/tournaments/mens/worldcup/qatar2022/qualifiers/uefa Qualifiers – Europe], FIFA.com
+*[https://www.uefa.com/european-qualifiers/ European Qualifiers], UEFA.com
+
+{{2022 FIFA World Cup qualification}}
+
+{{DEFAULTSORT:World Cup qualifying}}
+[[Category:2022 FIFA World Cup qualification (UEFA)|Group C]]
+[[Category:2020–21 in Bulgarian football]]
+[[Category:2021–22 in Bulgarian football]]
+[[Category:2020–21 in Italian football]]
+[[Category:2021–22 in Italian football]]
+[[Category:2021 in Lithuanian football]]
+[[Category:2020–21 in Northern Ireland association football]]
+[[Category:2021–22 in Northern Ireland association football]]
+[[Category:2020–21 in Swiss football]]
+[[Category:2021–22 in Swiss football]]
+[[Category:Switzerland at the 2022 FIFA World Cup]]

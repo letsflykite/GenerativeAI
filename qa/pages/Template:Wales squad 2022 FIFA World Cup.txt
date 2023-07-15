@@ -1,0 +1,41 @@
+{{National squad
+ | name        = Wales squad 2022 FIFA World Cup
+ | bg          = #D81E05
+ | fg          = white
+ | bordercolor = green
+ | country     = Wales
+ | comp link   = 2022 FIFA World Cup
+ | comp        = 2022 FIFA World Cup
+ | p1          = [[Wayne Hennessey|Hennessey]]
+ | p2          = [[Chris Gunter|Gunter]]
+ | p3          = [[Neco Williams|N. Williams]]
+ | p4          = [[Ben Davies (footballer, born 1993)|B. Davies]]
+ | p5          = [[Chris Mepham|Mepham]]
+ | p6          = [[Joe Rodon|Rodon]]
+ | p7          = [[Joe Allen|Allen]]
+ | p8          = [[Harry Wilson (footballer, born 1997)|Wilson]]
+ | p9          = [[Brennan Johnson|Johnson]]
+ | p10         = [[Aaron Ramsey|Ramsey]]
+ | p11         = [[Gareth Bale|Bale]]&nbsp;([[Captain (association football)|c]])
+ | p12         = [[Danny Ward (Welsh footballer)|Ward]]
+ | p13         = [[Kieffer Moore|Moore]]
+ | p14         = [[Connor Roberts (footballer, born 1995)|Roberts]]
+ | p15         = [[Ethan Ampadu|Ampadu]]
+ | p16         = [[Joe Morrell|Morrell]]
+ | p17         = [[Tom Lockyer|Lockyer]]
+ | p18         = [[Jonny Williams|J. Williams]]
+ | p19         = [[Mark Harris (Welsh footballer)|Harris]]
+ | p20         = [[Daniel James (footballer)|James]]
+ | p21         = [[Adam Davies (footballer, born 1992)|A. Davies]]
+ | p22         = [[Sorba Thomas|Thomas]]
+ | p23         = [[Dylan Levitt|Levitt]]
+ | p24         = [[Ben Cabango|Cabango]]
+ | p25         = [[Rubin Colwill|Colwill]]
+ | p26         = [[Matthew Smith (footballer, born 1999)|Smith]]
+ | coach       = [[Rob Page|Page]]
+}}<noinclude>
+{{Squad maintenance}}
+[[Category:2022 FIFA World Cup squad navigational boxes|Wales]]
+[[Category:Wales FIFA World Cup squad navigational boxes|2022]]
+[[Category:Wales at the 2022 FIFA World Cup|squad]]
+</noinclude>

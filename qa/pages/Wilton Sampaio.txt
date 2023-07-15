@@ -1,0 +1,71 @@
+{{Short description|Brazilian football referee (born 1981)}}
+{{pp-vandalism|small=yes}}
+{{Portuguese name|Pereira|Sampaio}}
+{{Use dmy dates|date=November 2022}}
+{{Infobox football official
+|name= Wilton Sampaio
+|fullname = Wilton Pereira Sampaio 
+|birth_date={{birth date and age|1981|12|28|df=y}}
+|birth_place = [[Teresina de Goiás]], Brazil
+| years1  = 
+| league1 = 
+| role1   = 
+|internationalyears1=2013–|internationalyears2=|confederation1=[[FIFA]]|confederation2=[[CONMEBOL]]
+|internationalrole1=Referee|internationalrole2=Referee}}
+
+'''Wilton Pereira Sampaio''' (born 28 December 1981) is a Brazilian [[Association football|football]] [[referee (association football)|referee]]. He has been on [[FIFA]]'s list of international referees since 2013.<ref name=FIFA22>{{cite web|url=https://digitalhub.fifa.com/m/7662513a8b75c7cc/original/2022-FIFA-Refereeing-International-Lists.pdf|title=FIFA 2022 Refereeing International Lists|publisher=[[FIFA]]|page=34|access-date=11 December 2022}}</ref> His younger brother Sávio Pereira Sampaio is also a referee and on FIFA's list since 2022.<ref name=lance>{{cite web|url=https://www.lance.com.br/palmeiras/cbf-escala-irmao-arbitro-contra-inter-para-jogo-decisivo-semifinal-copa-brasil.html|access-date=11 December 2022|publisher=Lance!|title=CBF escala irmão de árbitro contra o Inter para jogo decisivo do Palmeiras na semifinal da Copa do Brasil|date=22 December 2020|language=Portuguese}}</ref><ref name=FIFA22/>
+
+== Professional ==
+Pereira Sampaio began refereeing at age 15, qualified in [[Brasilia]] in 2000 and currently represents the [[Federação Goiana de Futebol]] and [[FIFA]].<ref>{{cite web|url=http://sumulaonline.cbf.com.br/arbitragem/br/escala/?id=112|title=Confederação Brasileira de Futebol|archive-url=https://web.archive.org/web/20171021144310/http://sumulaonline.cbf.com.br/arbitragem/br/escala/?id=112 |archive-date=21 October 2017 |url-status=dead}}</ref><ref name=cb>{{cite web|url=https://blogs.correiobraziliense.com.br/dribledecorpo/formado-no-df-juiz-wilton-pereira-sampaio-vai-a-copa-apos-ser-considerado-baixinho-por-armando-marques/|title=Formado no DF, juiz Wilton Pereira Sampaio vai à Copa após ser considerado baixinho por Armando Marques|language=Portuguese|access-date=11 December 2022|date=19 May 2022|publisher=[[Correio Braziliense]]|author=Lima, Marco Paulo}}</ref> He was elected as one of the best referees in the [[2012 Campeonato Brasileiro Série A]] championships.<ref>{{cite web|url=http://globoesporte.globo.com/futebol/brasileirao-serie-a/noticia/2012/12/wilton-pereira-sampaio-e-eleito-o-melhor-arbitro-do-brasileirao-2012.html|title=Wilton Pereira Sampaio é eleito o melhor árbitro do Brasileirão 2012 |date=12 March 2012 |publisher=Globo Comunicação e Participações S.A. |access-date=5 October 2020 |trans-title=Wilton Pereira Sampaio is elected the best referee in the Brasileirão 2012 |language=pt}}</ref>
+
+Sampaio was considered too short by Brazilian referee head, [[Armando Marques (referee)|Armando Marques]], but after Marques left in 2005, Sampaio was given more high profile games.<ref name=cb/>
+
+Sampaio was part of the [[video assistant referee]] (VAR) team when it was introduced in the [[2018 FIFA World Cup]]. He also refereed in both the [[2021 FIFA Arab Cup]] and [[2022 FIFA World Cup]] in Qatar.<ref name=joke>{{Cite news |last=McGrath |first=Mike |date=2022-12-11 |title=Gary Neville calls Brazilian referee for England's defeat to France 'an absolute joke' |language=en-GB |work=The Telegraph |url=https://www.telegraph.co.uk/world-cup/2022/12/11/referee-england-france-wilton-sampaio-referee-world-cup-quarter-final/ |access-date=2022-12-11 |issn=0307-1235}}</ref><ref>{{Cite web |title=FIFA Arab Cup 2021™: Oman - Qatar |url=https://www.fifa.com/tournaments/mens/arabcup/arabcup2021/match-center/origin1904-p.cxm.fifa.com/tournaments/mens/arabcup/arabcup2021/match-center/400175806 |access-date=2022-12-11 |website=www.fifa.com |language=en}}</ref>
+
+{| class="wikitable" style="margin:1em auto 1em auto; text-align:center; font-size:small;"
+! colspan="5" |[[2022 FIFA World Cup]]
+|-
+!Date
+!Match
+!Venue
+!Round
+! Attendance
+|-
+|21 November 2022
+|[[2022 FIFA World Cup Group A#Senegal vs Netherlands|Senegal vs Netherlands]]
+|[[Al Thumama Stadium|Al Thumama Stadium, Doha]]
+|Group stage
+|41,721<ref>{{Cite web |title=Senegal vs Netherlands |url=https://www.fifa.com/fifaplus/en/match-centre/match/17/255711/285063/400235449 |access-date=11 December 2022 |website=FIFA.com}}</ref>
+|-
+|29 November 2022
+|[[2022 FIFA World Cup Group A#Netherlands vs Qatar|Netherlands vs Qatar]]
+|[[Al Bayt Stadium]], [[Al Khor]]
+|Group stage
+|66,784<ref>{{Cite web |title=Netherlands vs Qatar |url=https://www.fifa.com/fifaplus/en/match-centre/match/17/255711/285063/400235450 |access-date=11 December 2022 |website=FIFA.com}}</ref>
+|-
+|3 December 2022
+|[[2022 FIFA World Cup knockout stage#Netherlands vs United States|Netherlands vs United States]]
+|[[Khalifa International Stadium]], [[Al Rayyan (city)|Al Rayyan]]
+|Round of 16
+|44,846<ref>{{Cite web |title=Netherlands vs United States |url=https://www.fifa.com/fifaplus/en/match-centre/match/17/255711/285073/400128136 |access-date=11 December 2022 |website=FIFA.com}}</ref>
+|-
+|10 December 2022
+|[[2022 FIFA World Cup knockout stage#England v France|England vs France]]
+|Al Bayt Stadium, Al Khor
+|Quarter-finals
+|68,895<ref>{{cite news|url=https://www.bbc.com/sport/football/63843792 |title=England 1–2 France |author=Phil McNulty |publisher=BBC Sport |date=10 December 2022 |access-date=24 March 2023}}</ref>
+|}
+
+==References==
+{{reflist}}
+
+{{2022 FIFA World Cup referees}}
+{{Authority control}}
+
+{{DEFAULTSORT:Sampaio, Wilton Pereira}}
+[[Category:1981 births]]
+[[Category:Brazilian football referees]]
+[[Category:Living people]]
+[[Category:Sportspeople from Goiás]]
+[[Category:Copa América referees]]
+[[Category:2022 FIFA World Cup referees]]

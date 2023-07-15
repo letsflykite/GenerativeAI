@@ -1,0 +1,41 @@
+{{National squad
+ | name        = Saudi Arabia squad 2022 FIFA World Cup
+ | bg          = #006C35
+ | fg          = white
+ | bordercolor = #005429
+ | country     = Saudi Arabia
+ | comp link   = 2022 FIFA World Cup
+ | comp        = 2022 FIFA World Cup
+ | p1          = [[Mohammed Al-Rubaie|Al-Rubaie]]
+ | p2          = [[Sultan Al-Ghannam|Al-Ghannam]]
+ | p3          = [[Abdullah Madu|Madu]]
+ | p4          = [[Abdulelah Al-Amri|Al-Amri]]
+ | p5          = [[Ali Al-Bulaihi|Al-Bulaihi]]
+ | p6          = [[Mohammed Al-Breik|Al-Breik]]
+ | p7          = [[Salman Al-Faraj|Al-Faraj]]&nbsp;([[Captain (association football)|c]])
+ | p8          = [[Abdulellah Al-Malki|Al-Malki]]
+ | p9          = [[Firas Al-Buraikan|Al-Buraikan]]
+ | p10         = [[Salem Al-Dawsari|S. Al-Dawsari]]
+ | p11         = [[Saleh Al-Shehri|Al-Shehri]]
+ | p12         = [[Saud Abdulhamid|Abdulhamid]]
+ | p13         = [[Yasser Al-Shahrani|Al-Shahrani]]
+ | p14         = [[Abdullah Otayf|Otayf]]
+ | p15         = [[Ali Al-Hassan|Al-Hassan]]
+ | p16         = [[Sami Al-Najei|Al-Najei]]
+ | p17         = [[Hassan Al-Tambakti|Al-Tambakti]]
+ | p18         = [[Nawaf Al-Abed|Al-Abed]]
+ | p19         = [[Hattan Bahebri|Bahebri]]
+ | p20         = [[Abdulrahman Al-Aboud|Al-Aboud]]
+ | p21         = [[Mohammed Al-Owais|Al-Owais]]
+ | p22         = [[Nawaf Al-Aqidi|Al-Aqidi]]
+ | p23         = [[Mohamed Kanno|Kanno]]
+ | p24         = [[Nasser Al-Dawsari|N. Al-Dawsari]]
+ | p25         = [[Haitham Asiri|Asiri]]
+ | p26         = [[Riyadh Sharahili|Sharahili]]
+ | coach       = [[Hervé Renard|Renard]]
+}}<noinclude>
+{{Squad maintenance}}
+[[Category:2022 FIFA World Cup squad navigational boxes|Saudi Arabia]]
+[[Category:Saudi Arabia FIFA World Cup squad navigational boxes|2022]]
+[[Category:Saudi Arabia at the 2022 FIFA World Cup|squad]]
+</noinclude>

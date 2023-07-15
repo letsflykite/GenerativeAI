@@ -1,0 +1,277 @@
+{{Short description|Multi-purpose stadium in Al Rayyan, Qatar}}
+{{Use dmy dates|date=October 2016}}
+{{Distinguish|text=[[Hamad bin Khalifa Stadium]] in Qatar, or [[Khalifa bin Zayed Stadium]] in the United Arab Emirates}}
+{{Infobox venue
+| stadium_name = Khalifa International Stadium
+| native_name = '''{{Native name|ar|استاد خليفة الدولي}}'''
+| image = Khalifa International Stadium.jpg
+| caption = Interior view towards the northeast during a [[2022 FIFA World Cup|World Cup]] football match in November 2022
+| mapframe-wikidata = yes
+| location = {{Ubl|Al Waab Street 7C7X+C8Q|[[Al Rayyan (city)|Al Rayyan]], Qatar}}
+| coordinates = {{Coord|25|15|49|N|51|26|53|E|type:landmark|display=inline,title}}
+| publictransit = {{Nowrap|{{rint|doha|M3}} Sport City (المدينة الرياضية)}}
+| owner = [[Qatar Football Association]]
+| opened = 1976
+| renovated = 2005, 2017
+| operator = 
+| surface = Grass
+| construction_cost = 
+| architect = [[Dar Al-Handasah]] (2017)
+| tenants = [[Qatar national football team]] (1976–present)
+| seating_capacity = 45,857
+| record_attendance = 45,344 ([[England national football team|England]] vs [[Iran national football team|Iran]], [[2022 FIFA World Cup Group B|21 November 2022]])
+}}
+
+'''Khalifa International Stadium''' ({{IPAc-en|k|ə|'|l|i:|f|ə}}, {{Lang-ar|استاد خليفة الدولي}}, {{ALA-LC|ar|Istād Khalīfah al-Duwalī}}) is a [[multi-purpose stadium]] located in [[Al Rayyan (city)|Al Rayyan]], Qatar, around {{Convert|9|km|mi|0|abbr=off}} west from the centre of [[Doha]]. Its ground comprises a [[running track]] and a [[Pitch (sports field)|grass pitch]]. Opened in 1976, the stadium was named after then-[[Emir of Qatar]] [[Khalifa bin Hamad Al Thani]], and under the ownership of the [[Qatar Football Association]], it serves as the primary home ground of the [[Qatar national football team|Qatar men's national football team]]. Its current fully-roofed, 45,857-seat configuration was opened in 2017, following a previous reconfiguration in 2005 that incorporated the stadium into the [[Aspire Zone]] complex and added a roofed grandstand; boosting its capacity from 20,000 to 40,000. 
+
+Khalifa has hosted numerous international [[association football]] and [[Sport of athletics|athletics]] events throughout its history. [[Track and field]] events at the [[2006 Asian Games]], [[2011 Pan Arab Games]], and [[2019 World Athletics Championships]] were held at the stadium, and [[World Athletics]] has since organised the annual [[Doha Diamond League]] event there as part of its [[Diamond League]] series. In the future, Khalifa is planned to host track and field events at the [[2030 Asian Games]]. In association football, the stadium hosted matches during the [[2022 FIFA World Cup]], the [[2019 FIFA Club World Cup]], the [[1995 FIFA World Youth Championship]], the [[2011 AFC Asian Cup]], and three editions of the [[Arabian Gulf Cup]]. The final of the [[Emir of Qatar Cup]] is also occasionally played at the stadium.
+
+== History ==
+Khalifa International Stadium opened in 1976, ahead of the [[4th Arabian Gulf Cup]], with a mostly symmetrical stadium bowl and a basic roof covering the upper seats of the stadium's western stand. The stadium hosted all 22 games of the tournament, which was won by [[Kuwait national football team|Kuwait]].<ref>{{cite web|url=https://fingazeta.ru/sport/matches/458060?page=44 |title=В Катаре началась продажа билетов на Чемпионат мира по легкой атлетике 2019 года |publisher=fingazeta.ru |date=28 August 2019 |access-date=14 December 2020}}</ref><ref name="iloveqatar">{{cite web|url=https://www.iloveqatar.net/news/general/everything-you-need-to-know-about-qatar-s-new-khalifa-international-stadium |title=Everything you need to know about Qatar's new Khalifa International Stadium |publisher=iloveqatar.net |date=12 November 2020 |access-date=3 December 2021}}</ref><ref>{{cite web|url=https://en.as.com/en/2020/07/08/football/1594213898_874340.html |title=The Al-Khalifa International – an icon among Qatar's 2022 World Cup venues |publisher=en.as.com |date=8 July 2020 |access-date=6 December 2021}}</ref> Sixteen years later, the stadium once again hosted all 15 games of the [[11th Arabian Gulf Cup]] in 1992, which saw hosts Qatar win the Arabian Gulf Cup the very first time.<ref>{{cite web|url=https://www.rsssf.org/tablesg/gulf92.html |title=Gulf Cup 1992 (in Doha, Qatar) |date=20 June 2007 |website=[[RSSSF]] |access-date=14 December 2020}}</ref><ref>{{cite web|url=https://www.gulf-times.com/story/648484/When-Qatar-left-a-mark-at-Arabian-Gulf-Cup |title=When Qatar left a mark at Arabian Gulf Cup |publisher=gulf-times.com |date=24 November 2019 |access-date=14 December 2020}}</ref> 
+
+[[File:Asian Games Doha 2006 fireworks.jpg|thumb|Fireworks during the [[2006 Asian Games opening ceremony]].]]
+In preparation for Doha's hosting of the [[2006 Asian Games]], Khalifa International Stadium was renovated with a complete remodelling of the stadium's western stand, which transformed it into a [[grandstand]] with a second tier and a new roof that covered all the seats. Over the eastern side, a large arch with additional [[light fixture]]s were added, which was used as a platform; this was used during the games' [[2006 Asian Games opening ceremony|opening ceremony]] to launch [[fireworks]] from.<ref>{{cite web|url=https://worldstadia.com/khalifa-international-stadium.html |title=Khalifa International Stadium |publisher=worldstadia.com |date=13 October 2019 |access-date=15 December 2020}}</ref> The stadium's reconfiguration in 2005 was part of the larger Doha Sports City [[urban renewal]] project in Al Rayyan, later known as the [[Aspire Zone]] complex. Today, it includes the [[Aspire Academy]], [[Hamad Aquatic Centre]], and the [[Aspire Tower]].<ref>{{cite web|url=https://www.gdnonline.com/Details/1050148/Qatar-celebrates-legacy-of-sports,-Olympics-with-3-2-1-museum-launch- |title=Qatar celebrates legacy of sports, Olympics with 3-2-1 museum launch |publisher=gdnonline.com |date=20 April 2022 |access-date=15 September 2022}}</ref> The ceremonies and track and field events of the [[2011 Pan Arab Games]] were also held at Khalifa a few years later.<ref>{{cite web |url=http://www.gulf-times.com/site/topics/article.asp?cu_no=2&item_no=474966&version=1&template_id=57&parent_id=56 |title=Gulf Times – Qatar's top-selling English daily newspaper - First Page |access-date=2011-12-12 |url-status=dead |archive-url=https://web.archive.org/web/20111211102340/http://gulf-times.com/site/topics/article.asp?cu_no=2&item_no=474966&version=1&template_id=57&parent_id=56 |archive-date=11 December 2011 |df=dmy-all }}</ref>
+
+After the rights to host the [[2022 FIFA World Cup]] were awarded to Qatar in December 2010, Khalifa International Stadium was reconfigured again to stage matches during the tournament. An initial plan to upgrade the stadium's capacity to at least 68,000 was mulled but later revised.<ref>{{cite web|url=https://www.timeoutdoha.com/sport-wellbeing/sport/440008-fifa-world-cup-qatar-2022-stadiums-a-guide |title=FIFA World Cup Qatar 2022 stadiums: A guide |publisher=timeoutdoha.com |date=29 April 2020 |access-date=15 December 2020}}</ref> The final design by international architecture firm [[Dar Al-Handasah]], saw the stadium's capacity boosted to 45,857 with the addition of a new tier on the eastern stand, and a new roof covering the entire stadium was built.<ref>{{cite web|url=https://hospitality.fifa.com/2022/en/the-stadiums/khalifa-international-stadium/ |title=Khalifa International Stadium |publisher=fifa.com |date= |access-date=21 November 2022}}</ref><ref>{{cite web|url=https://www.dar.com/work/project/expansion-of-east-stand-at-khalifa-stadium |title=Expansion of East Stand at Khalifa Stadium |publisher=dar.com |date= |access-date=13 September 2022 |archive-url=https://web.archive.org/web/20160613033603/https://www.dar.com/work/project/expansion-of-east-stand-at-khalifa-stadium |archive-date=13 June 2016 }}</ref> Upon its reopening in 2017, it became the first stadium to receive a four-star rating from the FIFA-endorsed [[Global Sustainability Assessment System]] of the Middle East and North Africa,<ref>{{Cite news|url=https://www.fifa.com/worldcup/news/y=2017/m=11/news=khalifa-international-stadium-receives-major-sustainability-award-2921733.html|archive-url=https://web.archive.org/web/20171128203654/http://www.fifa.com/worldcup/news/y=2017/m=11/news=khalifa-international-stadium-receives-major-sustainability-award-2921733.html|url-status=dead|archive-date=28 November 2017|title=Khalifa International Stadium receives major sustainability award|last=FIFA.com|date=2017-11-28|work=FIFA.com|access-date=2017-12-10|language=en-GB}}</ref> and was the first of the eight venues of the FIFA World Cup to open.<ref>{{cite web|url=https://www.aljazeera.com/sports/2020/12/18/qatar-2022-world-cup-stadiums-at-a-glance |title=Qatar 2022: Football World Cup stadiums at a glance |publisher=aljazeera.com |date=18 December 2020 |access-date=30 November 2021}}</ref><ref>{{cite web|url=https://en.as.com/en/2021/01/20/football/1611162318_761382.html |title=Khalifa International Stadium reinforces Qatar's national vision |publisher=en.as.com |date=20 January 2021 |access-date=30 November 2021}}</ref><ref>{{cite web|url=https://www.archdaily.com/899352/get-to-know-the-8-2022-qatar-world-cup-stadiums |title=Get To Know The 2022 Qatar World Cup Stadiums |publisher=archdaily.com |date=2 August 2018 |access-date=30 November 2021}}</ref> Since its reopening, the stadium hosted the [[2019 World Athletics Championships]], and three matches of the [[2019 FIFA Club World Cup]], including its [[2019 FIFA Club World Cup Final|final]].<ref>{{cite web|url=https://thepeninsulaqatar.com/article/25/09/2019/Qatar%E2%80%99s-iconic-sports-venue---The-Khalifa-International-Stadium |title=Qatar's iconic sports venue - The Khalifa International Stadium |publisher=thepeninsulaqatar.com |date=25 September 2019 |access-date=6 December 2021}}</ref><ref>{{cite web|url=https://www.fifa.com/clubworldcup/news/education-city-stadium-to-host-fifa-club-world-cup-qatar-2019tm-final|archive-url=https://web.archive.org/web/20190930082950/https://www.fifa.com/clubworldcup/news/education-city-stadium-to-host-fifa-club-world-cup-qatar-2019tm-final|url-status=dead|archive-date=30 September 2019|title=Education City Stadium to host FIFA Club World Cup Qatar 2019™ final|access-date=30 September 2019|publisher=FIFA}}</ref><ref>{{cite news|url=https://www.washingtonpost.com/sports/dcunited/tracks-worlds-stadium-in-qatar-to-host-club-world-cup-games/2019/09/30/1c31d934-e362-11e9-b0a6-3d03721b85ef_story.html|archive-url=https://web.archive.org/web/20191004024833/https://www.washingtonpost.com/sports/dcunited/tracks-worlds-stadium-in-qatar-to-host-club-world-cup-games/2019/09/30/1c31d934-e362-11e9-b0a6-3d03721b85ef_story.html|url-status=dead|archive-date=4 October 2019|title=Tracks worlds stadium in Qatar to host Club World Cup games|access-date=30 September 2019|newspaper=The Washington Post}}</ref>
+
+== Speciality ==
+Khalifa International stadium was the first one to get inaugurated during last year's Amir cup finals. It has long been the cornerstone of the country's spoting tradition with its unigue geography and advanced transport systems.<ref>{{Cite web |title=Eight futuristic and sustainable stadiums set to make 2022 World Cup in Qatar more exciting! |url=https://www.iloveqatar.net/guide/places/eight-futuristic-and-sustainable-stadiums-set-to-make-2022-world-cup-in-qatar-more-exciting |access-date=2023-06-16 |website=ILoveQatar.net |language=en}}</ref> 
+
+Khalifa International stadium has set a benchmark. However, its most significant feature is its roof which covers over 70 per cent of the stadium.The roof is designed with [[ETFE|EFTE]] and [[Ptfe|PTFE]] materials. Although it is not retractable like other stadiums, it can still provide sufficient shade for fans.However, the distinctive feature of the Khalifa Stadium is its two roof arches. These arches are located on the east and west side of the stadium, which is over 120metre high. Furthermore, it is also fitted with cooling units that span around the stadium.
+
+The cooling system can drop the temperature down to 24 degrees during matches. In addition, the latest renovation also saw the installation of LED pitch lights and a digital floodlight. <ref>{{Cite web |date=2022-08-18 |title=Khalifa International Stadium - World Cup Qatar 2022 |url=https://footballgroundguide.com/world-cup/khalifa-international-stadium.html |access-date=2023-06-16 |website=footballgroundguide.com |language=en-GB}}</ref>
+
+== International matches ==
+{{More citations needed section|date=January 2023}}
+=== Tournament results ===
+==== 4th Arabian Gulf Cup ====
+{{Expand section|date=December 2022}}
+
+==== 11th Arabian Gulf Cup ====
+{{Expand section|date=January 2023}}
+
+==== 1998 Arab Cup ====
+{| class="wikitable" style="text-align: left;" width="80%"
+|-
+!Date
+!Time(QST)
+!Team #1
+!Result
+!Team #2
+!Round
+!Attendance
+|-
+| 1 October 1998||21:00||{{fb|Kuwait}}||style="text-align:center;"|4–1||{{fb|United Arab Emirates}}|| [[1998 Arab Cup#Third place|Third place]]
+|style="text-align:center;"|25,000
+|-
+|- bgcolor=gold
+| 1 October 1998||23:00||{{fb|Saudi Arabia}}||style="text-align:center;"|[[1998 Arab Cup Final|3–1]]||{{fb|Qatar}} || [[1998 Arab Cup#Final|Final]]
+|style="text-align:center;"|25,000
+|-
+|}
+
+==== 2011 AFC Asian Cup ====
+Khalifa International Stadium hosted 6 matches during the [[2011 AFC Asian Cup]], including the [[2011 AFC Asian Cup Final|final]].
+{| class="wikitable" style="text-align: left;" width="80%"
+|-
+!Date
+!Time(QST)
+!Team #1
+!Result
+!Team #2
+!Round
+!Attendance
+|-
+|7 January 2011||19:15||{{fb|Qatar}}||style="text-align:center;"|0–2||{{fb|Uzbekistan}}|| rowspan="3" |[[2011 AFC Asian Cup Group A|Group A]]
+|style="text-align:center;"|37,143
+|-
+|12 January 2011||19:15||{{fb|China}}||style="text-align:center;"|0–2||{{fb|Qatar}}
+|style="text-align:center;"|30,778
+|-
+|16 January 2011||19:15||{{fb|Qatar}}||style="text-align:center;"|3–0||{{fb|Kuwait}}
+|style="text-align:center;"|28,339
+|-
+|21 January 2011||19:25||{{fb|Uzbekistan}}||style="text-align:center;"|2–1||{{fb|Jordan}}||[[2011 AFC Asian Cup knockout stage|Quarter-final]]
+|style="text-align:center;"|16,073
+|-
+|25 January 2011||19:25||{{fb|Uzbekistan}}||style="text-align:center;"|0–6||{{fb|Australia}}||[[2011 AFC Asian Cup knockout stage|Semi-final]]
+|style="text-align:center;"|24,826
+|- bgcolor=gold
+|29 January 2011||18:00||{{fb|Australia}}||style="text-align:center;"|[[2011 AFC Asian Cup Final|0–1]]||{{fb|Japan}}||[[2011 AFC Asian Cup knockout stage|Final]]
+|style="text-align:center;"|37,174
+|}
+
+==== 24th Arabian Gulf Cup ====
+{| class="wikitable" style="text-align: left;" width="80%"
+|-
+!Date
+!Time (AST)
+!Team #1
+!Result
+!Team #2
+!Round
+!Attendance
+|-
+|26 November 2019||style="text-align:center;"|19:30||{{fb|QAT}}||style="text-align:center;"|1–2||{{fb|IRQ}}||rowspan="4"|[[24th Arabian Gulf Cup#Group A|Group A]]||style="text-align:center;"|37,890
+|-
+| rowspan="2"| 29 November 2019||style="text-align:center;"|17:30||{{fb|UAE}}||style="text-align:center;"|0–2||{{fb|IRQ}}||style="text-align:center;"|17,437
+|-
+| style="text-align:center;"|19:30||{{fb|YEM}}||style="text-align:center;"|0–6||{{fb|QAT}}||style="text-align:center;"|26,392
+|-
+| rowspan="2"| 2 December 2019||style="text-align:center;"|17:30||{{fb|QAT}}||style="text-align:center;"|4–2||{{fb|UAE}}||style="text-align:center;"| TBD
+|-
+|style="text-align:center;"|20:00||{{fb|KUW}}||style="text-align:center;"|2–4||{{fb|BHR}}||[[24th Arabian Gulf Cup#Group B|Group B]]||style="text-align:center;"| TBD
+|}
+
+==== 2022 FIFA World Cup ====
+Khalifa International Stadium hosted 8 matches during the [[2022 FIFA World Cup]], including the [[2022 FIFA World Cup knockout stage#Third place play-off|third place play-off match]]. 
+{| class="wikitable" style="text-align: left;" width="80%"
+|-
+!Date
+!Time(QST)
+!Team #1
+!Result
+!Team #2
+!Round
+!Attendance
+|-
+|21 November 2022||16:00||{{fb|ENG}}||style="text-align:center;"| 6–2 ||{{fb|IRN}}||[[2022 FIFA World Cup Group B|Group B]]||style="text-align:center;"|45,344
+|-
+|23 November 2022||16:00||{{fb|GER}}||style="text-align:center;"| 1–2 ||{{fb|JPN}}||[[2022 FIFA World Cup Group E|Group E]]||style="text-align:center;"|42,608
+|-
+|25 November 2022||19:00||{{fb|NED}}||style="text-align:center;"| 1–1 ||{{fb|ECU}}||[[2022 FIFA World Cup Group A|Group A]]||style="text-align:center;"|44,833
+|-
+|27 November 2022||19:00||{{fb|CRO}}||style="text-align:center;"| 4–1 ||{{fb|CAN}}||[[2022 FIFA World Cup Group F|Group F]]||style="text-align:center;"|44,374
+|-
+|29 November 2022||18:00||{{fb|ECU}}||style="text-align:center;"| 1–2 ||{{fb|SEN}}||[[2022 FIFA World Cup Group A|Group A]]||style="text-align:center;"|44,569
+|-
+|1 December 2022||22:00||{{fb|JPN}}||style="text-align:center;"| 2–1 ||{{fb|ESP}}||[[2022 FIFA World Cup Group E|Group E]]||style="text-align:center;"|44,851
+|-
+|3 December 2022||18:00||{{fb|NED}}||style="text-align:center;"| 3–1 ||{{fb|USA}}||[[2022 FIFA World Cup knockout stage#Round of 16|Round of 16]]||style="text-align:center;"|44,846
+|-bgcolor=#CD7F32
+|17 December 2022||18:00||{{fb|CRO}}||style="text-align:center;"| 2–1 ||{{fb|MAR}}||[[2022 FIFA World Cup knockout stage#Third place play-off|Third place play-off]]||style="text-align:center;"|44,137
+|}
+
+====2023 AFC Asian Cup====
+On 5 April 2023, Khalifa International Stadium was chosen as one of eight venues for the [[2023 Asian Cup]] after People's Republic of China withdrew.
+{| class="wikitable" style="text-align: left;" width="80%"
+|-
+!Date
+!Time(QST)
+!Team #1
+!Result
+!Team #2
+!Round
+!Attendance
+|-
+|14 January 2024||14:30||{{fb|JPN}}||style="text-align:center;"| – ||{{fb|VIE}}||[[2023 AFC Asian Cup Group D|Group D]]||style="text-align:center;"|
+|-
+|16 January 2024||20:30||{{fb|KSA}}||style="text-align:center;"| – ||{{fb|OMN}}||[[2023 AFC Asian Cup Group F|Group F]]||style="text-align:center;"|
+|-
+|19 January 2024||20:30||{{fb|HKG}}||style="text-align:center;"| – ||{{fb|IRN}}||[[2023 AFC Asian Cup Group C|Group C]]||style="text-align:center;"|
+|-
+|22 January 2024||18:00||{{fb|QAT}}||style="text-align:center;"| – ||{{fb|CHN}}||[[2023 AFC Asian Cup Group A|Group A]]||style="text-align:center;"|
+|-
+|25 January 2024||14:30||{{fb|JOR}}||style="text-align:center;"| – ||{{fb|BHR}}||[[2023 AFC Asian Cup Group E|Group E]]||style="text-align:center;"|
+|-
+|29 January 2024||14:30||Winner Group D||style="text-align:center;"| – ||Third-place Group B/E/F||[[2023 AFC Asian Cup#Round of 16|Round of 16]]||style="text-align:center;"|
+|}
+
+=== Friendly ===
+{| class="wikitable" style="text-align: left;" width="80%"
+|-
+!Date
+!Time (QST)
+!Team #1
+!Result
+!Team #2
+|-
+|14 November 2009 ||19:15||'''{{fb|Brazil}}'''||style="text-align:center;"|1–0||{{fb|England}}
+|-
+|17 November 2010||19:15||{{fb|Brazil}}|| style="text-align:center;" |0–1||'''{{fb|Argentina}}'''
+|-
+|18 November 2010||18:00||{{fb|Qatar}}||style="text-align:center;"|0–1||'''{{fb|Haiti}}'''
+|-
+|16 December 2010||18:00||'''{{fb|Qatar}}'''||style="text-align:center;"|2–1||{{fb|Egypt}}
+|-
+|22 December 2010||16:00||'''{{fb|Qatar}}'''||style="text-align:center;"|2–0||{{fb|Estonia}}
+|-
+|28 December 2010||19:15||{{fb|Qatar}}||style="text-align:center;"|0–0||{{fb|Iran}}
+|-
+|6 February 2013||21:00||'''{{fb|Spain}}'''||style="text-align:center;"|3–1||{{fb|Uruguay}}
+|-
+|7 September 2018||19:00||'''{{fb|Qatar}}'''||style="text-align:center;"|1–0||{{fb|China}}
+|-
+|11 September 2018||19:00||'''{{fb|Qatar}}'''||style="text-align:center;"|3–0||{{fb|Palestine}}
+|-
+|31 December 2018||20:00||{{fb|Qatar}}||style="text-align:center;"|1–2||'''{{fb|Iran}}'''
+|}
+
+== References ==
+{{Reflist}}
+
+== External links ==
+{{Commons category}}
+* [https://www.qatar2022.qa/en/tournament/stadiums/khalifa-international-stadium Khalifa International Stadium] at [[2022 FIFA World Cup|Qatar 2022]]
+
+{{s-start-collapsible|header={{s-sta|et}}}}
+{{succession box
+|before=[[Busan Asiad Main Stadium]]<br>[[Busan]]
+|title=[[Asian Games]]<br>Opening and closing ceremonies
+|years=[[2006 Asian Games|2006]]
+|after=[[Haixinsha Island (Tianhe District)|Haixinsha Island]]<br>[[Guangzhou]]
+}}
+{{succession box
+|before=Busan Asiad Main Stadium<br>Busan
+|title=Asian Games<br>[[Athletics at the Asian Games|Athletics tournament]]<br>Main venue
+|years=[[Athletics at the 2006 Asian Games|2006]]
+|after=[[Guangdong Olympic Stadium]]<br>Guangzhou
+}}
+{{succession box
+| title = [[AFC Asian Cup]]<br>[[List of AFC Asian Cup finals|Final venue]]
+| years = [[2011 AFC Asian Cup|2011]]
+| before = [[Gelora Bung Karno Stadium]]<br>[[Jakarta]]
+| after = [[Stadium Australia]]<br>[[Sydney]]
+}}
+{{Succession box
+| title = [[World Athletics Championships]]
+| years = [[2019 World Athletics Championships|2019]]
+| before = [[London Stadium]]<br>[[London]]
+| after = [[Hayward Field]]<br> [[Eugene, Oregon|Eugene]]
+}}
+{{succession box
+|before=[[Paloma Mizuho Stadium]]<br>[[Nagoya]]
+|title=[[Asian Games]]<br>Opening and closing ceremonies
+|years=[[2030 Asian Games|2030]]
+|after=[[King Fahd International Stadium]]<br>[[Riyadh]]
+}}
+{{succession box
+|before=Paloma Mizuho Stadium<br>Nagoya
+|title=Asian Games<br>Athletics tournament<br>Main venue
+|years=[[Athletics at the 2030 Asian Games|2030]]
+|after=King Fahd International Stadium<br>Riyadh
+}}
+{{s-end}}
+
+{{2011 AFC Asian Cup stadiums}}
+{{2022 FIFA World Cup venues}}
+{{2023 AFC Asian Cup stadiums}}
+{{Asian Games stadia}}
+{{Diamond League venues}}
+{{World Athletics Championships venues}}
+{{Authority control}}
+
+[[Category:2022 FIFA World Cup stadiums]]
+[[Category:Football venues in Qatar]]
+
+[[Category:1976 establishments in Qatar]]
+[[Category:Asian Games athletics venues]]
+[[Category:Athletics (track and field) venues in Qatar]]
+[[Category:Diamond League venues]]
+[[Category:Multi-purpose stadiums in Qatar]]
+[[Category:National stadiums|Qatar]]
+[[Category:Sports venues completed in 1976]]
+[[Category:Sports venues in Doha]]
+[[Category:Stadiums of the Asian Games]]
+[[Category:Venues of the 2006 Asian Games]]
+[[Category:Venues of the 2030 Asian Games]]

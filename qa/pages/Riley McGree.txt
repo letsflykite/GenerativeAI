@@ -1,0 +1,299 @@
+{{short description|Australian footballer}}
+{{pp-semi-indef|small=yes}}
+{{Use dmy dates|date=March 2020}}
+{{Infobox football biography
+| name = Riley McGree
+| image = Riley McGree.jpg
+| image_size = 
+| caption = McGree with [[Melbourne City FC|Melbourne City]] in 2019
+| fullname = Riley Patrick McGree<ref name="FIFA 2022">{{cite web |url=https://fdp.fifa.org/assetspublic/ce44/pdf/SquadLists-English.pdf |title=FIFA World Cup Qatar 2022 – Squad list: Australia (AUS) |publisher=[[FIFA]] |page=2 |date=15 November 2022 |access-date=15 November 2022}}</ref>
+| birth_date = {{birth date and age|df=yes|1998|11|2}}<ref name="FIFA 2022"/>
+| birth_place = [[Gawler, South Australia|Gawler]], Australia
+| height = 1.78 m<ref name="FIFA 2022"/>
+| position = [[Attacking midfielder]]
+| currentclub = [[Middlesbrough F.C.|Middlesbrough]]
+| clubnumber = 8
+| youthyears1 = 2003–2011
+| youthclubs1 = [[Gawler SC|Gawler Eagles]]
+| youthyears2 = 2013
+| youthclubs2 = [[FFSA NTC]]
+| youthyears3 = 2014–2015
+| youthclubs3 = [[Adelaide United FC|Adelaide United]]
+| years1 = 2015–2016
+| caps1 = 27
+| goals1 = 1
+| clubs1 = [[Adelaide United FC Youth|Adelaide United NPL]]
+| years2 = 2016–2017
+| caps2 = 17
+| goals2 = 1
+| clubs2 = [[Adelaide United FC|Adelaide United]]
+| years3 = 2017–2019
+| caps3 = 0
+| goals3 = 0
+| clubs3 = [[Club Brugge KV|Club Brugge]]
+| years4 = 2018
+| caps4 = 12
+| goals4 = 5
+| clubs4 = → [[Newcastle Jets FC|Newcastle Jets]] (loan)
+| years5 = 2018–2019
+| caps5 = 27
+| goals5 = 7
+| clubs5 = → [[Melbourne City FC|Melbourne City]] (loan)
+| years6 = 2019–2020
+| caps6 = 23
+| goals6 = 10
+| clubs6 = [[Adelaide United FC|Adelaide United]]
+| years7 = 2020–2022
+| caps7 = 0
+| goals7 = 0 
+| clubs7 = [[Charlotte FC]]
+| years8 = 2020–2022
+| caps8 = 28
+| goals8 = 3
+| clubs8 = → [[Birmingham City F.C.|Birmingham City]] (loan) 
+| years9 = 2022–
+| clubs9 = [[Middlesbrough F.C.|Middlesbrough]]
+| caps9 = 53
+| goals9 = 8
+| nationalyears1 = 2013
+| nationalteam1 = [[Australia national under-17 soccer team|Australia U17]]
+| nationalcaps1 = 2
+| nationalgoals1 = 3
+| nationalyears2 = 2017–2021
+| nationalteam2 = [[Australia national under-23 soccer team|Australia U23]]
+| nationalcaps2 = 9
+| nationalgoals2 = 3
+| nationalyears3 = 2021–
+| nationalteam3 = [[Australia national soccer team|Australia]]
+| nationalcaps3 = 15
+| nationalgoals3 = 1
+| club-update = 14 March 2023
+| nationalteam-update = 13:47, 10 December 2022 (UTC)
+| medaltemplates = <!--MENTION HOST NATIONS FOR TEAM SPORTS-->{{MedalSport|Men's [[Association football|football]]}}
+{{MedalCountry|{{fb|AUS}}}}
+{{MedalCompetition|[[AFF U-16 Youth Championship]]}}
+{{Medal|3rd|[[2013 AFF U-16 Youth Championship|2013 Myanmar]]|[[Australia national under-17 soccer team|U-17 Team]]}}
+}}
+
+'''Riley Patrick McGree''' (born 2 November 1998) is an Australian professional [[association football|footballer]] who plays as an [[attacking midfielder]] for [[EFL Championship]] club [[Middlesbrough F.C.|Middlesbrough]] and the [[Australia national soccer team|Australian national team]].
+
+Born in [[Gawler, South Australia]], McGree played youth football for [[Gawler SC|Gawler]], the [[FFSA NTC]] and [[Adelaide United FC|Adelaide United]] before starting his professional career with Adelaide United in 2016. He joined [[Club Brugge]] of the Belgian top flight in 2017, and spent two loan spells back in Australia with [[Newcastle Jets FC|Newcastle Jets]] and [[Melbourne City FC|Melbourne City]] before returning to Adelaide United. That club sold him to [[Major League Soccer]] expansion franchise [[Charlotte FC]], who loaned him to English [[EFL Championship|Championship]] club [[Birmingham City F.C.|Birmingham City]] for 18 months before selling him to Middlesbrough in 2022.
+
+McGree was first called up to the [[Australia national soccer team|Australian national team]] in 2017, having previously played for [[Australia national under-17 soccer team|Australia under-17]] in 2013.
+
+==Early life==
+McGree was born and raised in [[Gawler, South Australia]], to the north of [[Adelaide]].<ref name=youth>{{cite news|url=http://www.adelaidenow.com.au/sport/football/a-league/teams/adelaide/teenager-riley-mcgrees-tough-love-paying-off-for-adelaide-united/news-story/5622c2397475fd3e14f3372410a1eaa2|title=Teenager Riley McGree's tough love paying off for Adelaide United|newspaper=[[The Advertiser (Adelaide)|The Advertiser]]|date=27 January 2017|author=Migliaccio, Val|access-date=19 March 2017}}</ref> He joined [[Gawler Eagles FC]] as a four-year-old after the town's [[Australian rules football]] club was full, and remained with the Eagles for eight years.<ref name=youth/><ref>{{cite news|url=http://www.adelaidenow.com.au/sport/football/socceroos/socceroo-riley-mcgree-is-finally-ridding-gawler-eagles-of-stigma/news-story/6d29a0bc71f77a8c0bccff0df944ccad|title=Socceroo Riley McGree is finally ridding Gawler Eagles of stigma|newspaper=[[The Advertiser (Adelaide)|The Advertiser]]|date=17 March 2017|author=Migliaccio, Val|access-date=19 March 2017}}</ref>
+
+==Club career==
+===Adelaide United===
+McGree made his debut for [[Adelaide United FC|Adelaide United]] in the [[A-League]] on 19 March 2016 in a draw with [[Western Sydney Wanderers FC|Western Sydney Wanderers]].<ref>{{cite web|website=Soccerway|publisher=Perform Group|url=https://int.soccerway.com/matches/2016/03/19/australia/a-league/west-sydney-fc/adelaide-united/2055788/|title=Western Sydney Wanderers vs. Adelaide United 0 – 0|access-date=19 March 2017}}</ref> He made his first start for the club in a [[2016 FFA Cup]] loss to [[Redlands United FC|Redlands United]] on 3 August 2016, having been called up from the club's youth squad.<ref>{{cite news|url=http://www.adelaideunited.com.au/article/reds-bundled-out-of-ffa-cup/1pjqi9wm2huau1ase8ha583spp|title=Reds bundled out of FFA Cup|publisher=[[Adelaide United FC]]|date=4 August 2016|access-date=19 March 2017}}</ref> Two weeks later, McGree signed a one-year senior contract with Adelaide.<ref>{{cite magazine|url=http://www.fourfourtwo.com.au/news/reds-promote-teen-duo-433839|title=Reds promote teen duo|magazine=[[FourFourTwo]]|date=15 August 2016|access-date=19 March 2017}}</ref> McGree scored his first goal for the Reds in his second A-League start, on 29 January 2017, with a shot from the edge of the area in a draw with [[Wellington Phoenix FC|Wellington Phoenix]].<ref>{{cite news|url=http://www.news.com.au/sport/football/adelaide-united-once-again-fail-to-make-most-of-home-ground-advantage/news-story/95895a4e995aacf74597045783a3d2ff|work=[[News.com.au]]|author=Migliaccio, Valentino|date=29 January 2017|access-date=19 March 2017|title=Adelaide United once again fail to make most of home ground advantage}}</ref>
+
+===Club Brugge===
+After impressing at Adelaide United, including being called up for the [[Australia national soccer team|Australian national team]], McGree left the national Australian league in July 2017 to join Belgian club [[Club Brugge KV|Club Brugge]].<ref>{{cite news|url=http://www.adelaidenow.com.au/sport/football/a-league/teams/adelaide/club-brugge-sign-teenage-aleauge-sensation-riley-mcgree-from-the-reds/news-story/159aa8d32b26f23972cf8ea12d2eb48d|title=Club Brugge sign teenage A-Leauge sensation Riley McGree from the Reds|first=Val|last=Migliaccio|newspaper=[[The Advertiser (Adelaide)|The Advertiser]]|date=4 July 2017}}</ref>
+
+====Loan to Newcastle Jets====
+On 19 December 2017, it was announced that McGree would be joining the [[Newcastle Jets FC|Newcastle Jets]] on a short-term loan deal for the remainder of the [[2017–18 A-League]] season, as an injury replacement for [[Jake Adelson]]. The transfer would be officially lodged in January, with him expected to join the squad in late January, due to his international commitments in [[2018 AFC U-23 Championship]].<ref>{{cite news|url=http://www.news.com.au/sport/football/riley-mcgree-to-return-to-aleague-in-2018-on-loan-from-club-brugge-with-newcastle-jets/news-story/32a7e9e94a97d9800761c82e73ad9bb4|title=Riley McGree to return to A-League in 2018 on loan from Club Brugge with Newcastle Jets|first=Warren|last=Barnsley|newspaper=[[news.com.au]]|date=20 December 2017}}</ref>
+
+In that season's A-League semi-finals, McGree became the subject of international attention after scoring with a [[scorpion kick]],<ref>{{cite web |title=#puskasaward RILEY MCGREE GOAL – VOTE NOW! |url=https://www.youtube.com/watch?v=9ii1CAx7zW4 |website=YouTube |publisher=FIFATV |access-date=9 January 2019}}</ref><ref>[http://www.abc.net.au/news/2018-04-27/riley-mcgree-scorpion-kick-puts-newcastle-jets-a-league-finals/9705828 Riley McGree scores goal of the season as scorpion kick puts Newcastle Jets into A-League grand final], [[Australian Broadcasting Corporation]], 28 April 2018</ref> and which received a nomination for the [[FIFA Puskas Award]] for the most beautiful goal in the world that year.<ref>{{cite news |url=https://www.foxsports.com.au/football/a-league/world-reaction-riley-mcgrees-scorpion-goal-puts-aleague-on-the-map/news/25978e4693af39eef6e77c67acfc54c1 |title=World Reaction: Riley McGree's scorpion goal puts A-League on the map! |website=[[Fox Sports (Australia)]] |date=28 April 2018}}</ref>
+
+At the end of the season McGree returned to Club Brugge,<ref>{{cite web|url=https://www.a-league.com.au/news/aleague-transfer-news-ins-outs-signings-done-deals-1|title=Squad Check: Every Hyundai A-League in, out, squad|publisher=[[Football Federation Australia]]|date=4 June 2018}}</ref> though Newcastle Jets looked to sign him on loan once more.<ref>{{cite news|url=https://www.fourfourtwo.com.au/news/newcastle-jets-remain-hopeful-of-new-mcgree-deal-492931|title=Newcastle Jets remain hopeful of new McGree deal|first=Ben|last=Somerford|newspaper=[[FourFourTwo]]|date=7 June 2018}}</ref>
+
+====Loan to Melbourne City====
+In June 2018, a few weeks after the announcement that McGree returned to Club Brugge, he returned to the [[A-League]], joining [[Melbourne City FC|Melbourne City]] on a season-long loan.<ref>{{cite news|url=https://www.theherald.com.au/story/5478380/soccer-scorpion-king-riley-mcgree-swaps-newcastle-jets-for-melbourne-city/?cs=310|title=Scorpion king Riley McGree swaps Newcastle Jets for Melbourne City|first=James|last=Gardiner|newspaper=[[The Newcastle Herald]]|date=20 June 2018}}</ref>
+
+===Return to Adelaide United===
+On 5 July 2019, it was announced that McGree would return to Adelaide United for an undisclosed fee for the next three seasons.<ref>{{Cite web|url=https://indaily.com.au/sport/soccer/2019/07/05/reds-pay-up-to-bring-mcgree-home/|title=Reds pay up to bring McGree home|date=5 July 2019|website=InDaily|language=en|access-date=5 July 2019}}</ref> McGree starred for Adelaide United in his season back for Adelaide United scoring 10 goals in the league and 3 goals in the cup, including one in the FFA Cup final against Melbourne City. He capped off his season by winning the Aurelio Vidmar Club Champion award for the best and fairest player at Adelaide United, and winning the club's golden boot award.
+
+===Charlotte FC===
+On 5 October 2020, McGree was sold to [[Major League Soccer]] expansion franchise [[Charlotte FC]] for an undisclosed fee.<ref>{{cite web |url=https://www.adelaideunited.com.au/news/reds-agree-mcgree-transfer-mls-outfit |title=Reds agree McGree transfer with MLS outfit |publisher=Adelaide United |date=5 October 2020 |access-date=5 October 2020}}</ref>
+
+====Loan to Birmingham City====
+Immediately after joining Charlotte FC, McGree was loaned to English [[EFL Championship|Championship]] club [[Birmingham City F.C.|Birmingham City]] for the season.<ref>{{cite web |url=https://www.bcfc.com/news/articles/2020/mcgree-joins-blues/ |title=McGree joins Blues |publisher=[[Birmingham City F.C.]] |date=5 October 2020 |access-date=5 October 2020}}</ref> He made his Birmingham City debut on 17 October, as a substitute in a 1–0 defeat at home to [[Sheffield Wednesday]].<ref>{{cite news |url=https://www.bbc.co.uk/sport/football/54488896 |title=Birmingham City 0–1 Sheffield Wednesday |website=BBC Sport |date=17 October 2020 |access-date=17 October 2020}}</ref> Two weeks later, he scored his first goal two minutes into his first start, away to [[Preston North End]], when he reacted quickest to a loose ball after [[Lukas Jutkiewicz]]'s mis-hit shot; the match ended 2–1 to Birmingham.<ref>{{cite news |url=https://www.bbc.co.uk/sport/football/54671010 |title=Preston North End 1–2 Birmingham City |website=[[BBC Sport]] |date=31 October 2020 |access-date=31 October 2020}}</ref> McGree finished the season with 15 appearances, and his loan was renewed until 1 January 2022.<ref>{{cite news |url=https://www.bbc.co.uk/sport/football/57172051 |title=Birmingham re-sign McGree on loan |website=[[BBC Sport]] |date=19 May 2021 |access-date=4 June 2021}}</ref> He made his first league start of 2021–22 in October, in place of the injured [[Tahith Chong]], and according to the ''[[Birmingham Mail]]'', became "undroppable, impressing with his work-rate, mobility, versatility and, latterly, quality."<ref>{{cite news |url=https://www.birminghammail.co.uk/sport/football/transfer-news/birmingham-city-transfers-mcgree-owners-22500873 |title=Birmingham City already have the player their owners should be signing in the transfer window |first=Brian |last=Dick |newspaper=[[Birmingham Mail]] |date=17 December 2021 |access-date=15 January 2022}}</ref> He scored twice and made two [[assist (association football)|assists]] in 13 league matches before his loan expired.<ref name="Rumours">{{cite news |url=https://www.birminghammail.co.uk/sport/football/transfer-news/birmingham-city-transfer-news-mcgree-22690630 |title=Shock Riley McGree transfer claim made after Birmingham City exit |first=Richard |last=Cusack |newspaper=[[Birmingham Mail]] |date=9 January 2022 |access-date=15 January 2022}}</ref>
+
+Although McGree was expected to return to Charlotte FC in preparation for their MLS debut, rumours in early January linked him with a permanent move either to [[Scottish Premiership]] club [[Celtic F.C.|Celtic]], managed by [[Ange Postecoglou]], the coach who first called him up to the senior national team, or to another EFL Championship club.<ref name="Rumours"/> He chose not to join Celtic,<ref>{{cite news |url=https://www.heraldscotland.com/sport/19845861.ange-postecoglou-opens-riley-mcgree-discussions-celtic-move-ruled/ |title=Ange Postecoglou opens up Riley McGree discussions as Celtic move ruled out |first=David |last=Irvine |newspaper=[[The Herald (Glasgow)|The Herald]] |location=Glasgow |date=13 January 2022 |access-date=15 January 2022}}</ref> and on 14 January, he signed for [[Middlesbrough F.C.|Middlesbrough]].<ref name="To Boro"/>
+
+===Middlesbrough===
+McGree signed a three-and-a-half-year contract with EFL Championship club [[Middlesbrough F.C.|Middlesbrough]] on 14 January 2022; the fee was undisclosed.<ref name="To Boro">{{cite news |url=https://www.thenorthernecho.co.uk/sport/19849929.riley-mcgree-completed-boro-switch-charlotte-fc/ |title=Riley McGree has completed Boro switch from Charlotte FC |first=Matty |last=Jones |newspaper=[[The Northern Echo]] |location=Darlington |date=14 January 2022 |access-date=15 January 2022}}</ref> McGree made his debut for the club on 12 February, coming off the bench during a 4–1 win against [[Derby County F.C.|Derby County]].
+
+==International career==
+McGree was called up to the [[Australia national under-17 soccer team|Australia under-17 team]] in August 2013 for the [[2013 AFF U-16 Youth Championship]] in Myanmar.<ref>{{cite news|url=http://www.socceroos.com.au/article/vidmar-selects-his-joeys/1u3kbxcwby47p1538v3rgx63pw|title=Vidmar selects his Joeys|publisher=[[Football Federation Australia]]|date=16 August 2013|access-date=19 March 2017}}</ref> He scored a [[hat-trick#Association football|hat-trick]] in the side's group stage win over [[Brunei national under-17 football team|Brunei]].<ref>{{cite news|url=http://joeys.footballaustralia.com.au/article/joeys-thump-brunei/1085k1g9yws0w1kd8pockdjg8k|title=Joeys thump Brunei|date=27 August 2013|publisher=[[Football Federation Australia]]|access-date=19 March 2017}}</ref>
+
+In March 2017, McGree was called up to the [[Australia national soccer team|Australian team]] for the first time, for [[2018 FIFA World Cup qualification]] matches against [[Iraq national football team|Iraq]] and [[United Arab Emirates national football team|UAE]].<ref>{{cite news|url=http://www.abc.net.au/news/2017-03-08/socceroos-name-teenager-riley-mcgree-for-world-cup-qualifiers/8335020|publisher=[[ABC News (Australia)|ABC News]]|date=8 March 2017|access-date=19 March 2017|title=Socceroos name teenager Riley McGree for World Cup qualifiers against Iraq and UAE}}</ref>
+
+In November 2019 he was one of four players suspended by the [[Australia national under-23 soccer team]] due to "unprofessional conduct".<ref>{{Cite web|url=https://www.bbc.co.uk/sport/football/50471012|title=Four Australia Under-23 players banned after complaint from woman|date=19 November 2019|website=[[BBC Sport]]|access-date=15 January 2022}}</ref> The four players allegedly mistreated a woman after an intimate encounter. As a result, McGree was forbidden to play in the upcoming [[2020 AFC U-23 Championship]], but was free to be selected for their World Cup team if Australia qualify.<ref>{{Cite web|url=https://www.foxsports.com.au/football/socceroos/robbie-slater-slams-ffas-over-olyroo-bans-four-olyroos-banned-riley-mcgree-socceroos-news-football/news-story/320b71effefff590b00ebb8e74200af0|title=Robbie Slater slams FFA over four Olyroos banned; Four Olyroos banned over group sex incident, Riley McGree, Socceroos, news, football|date=20 November 2019|website=[[Fox Sports (Australia)]]|access-date=20 November 2019}}</ref>
+
+McGree made his senior debut on 3 June 2021, as a late substitute in a 3–0 win against [[Kuwait national football team|Kuwait]] in a [[2022 FIFA World Cup qualification (AFC)#Group B|2022 World Cup qualifier]].<ref>{{cite news |url=https://www.news.com.au/sport/football/socceroos-australia-return-to-action-with-a-30-win-over-kuwait/news-story/0ee83a68e2f1ed1173924a38940cdc3d |title=Socceroos: Australia return to action with a 3-0 win over Kuwait |first=Marco |last=Monteverde |website=[[News.com.au]] |date=4 June 2021 |access-date=4 June 2021}}</ref> In a man-of-the-match performance on his first start, he provided two assists in a 5–1 victory against [[Chinese Taipei national football team|Chinese Taipei]],<ref>{{cite web |url=https://www.the-afc.com/competitions/afc-asian-cup/news/australia-s-arnold-delighted-as-young-guns-deliver-five-star-performance-against |title=Australia's Arnold delighted as young guns deliver five-star Asian Qualifiers performance against Chinese Taipei |publisher=[[Asian Football Confederation]] |date=9 June 2021 |access-date=16 June 2021}}</ref> and was a late substitute as Australia beat [[Jordan national football team|Jordan]] to complete a perfect record in the [[2022 FIFA World Cup qualification – AFC second round#Group B|second phase of qualifying]].<ref>{{cite news |url=https://www.theaustralian.com.au/breaking-news/socceroos-milestone-man-trent-sainsbury-in-tears-after-helping-australia-to-an-eighth-straight-win/news-story/a1dee464855467f7dc493b86d4bc6df7 |title=Socceroos: Milestone man Trent Sainsbury in tears after helping Australia to an eighth straight win |first=Marco |last=Monteverde |newspaper=[[The Australian]] |date=16 June 2021 |access-date=16 June 2021}}</ref> He scored his first international goal to complete Australia's 4–0 defeat of [[Vietnam national football team|Vietnam]] on 27 January 2022 in a [[2022 FIFA World Cup qualification – AFC third round|third-phase qualifier]].<ref name="1st Intl Goal">{{cite news |url=https://www.abc.net.au/news/2022-01-27/socceroos-vs-vietnam-scorecentre-scores-stats-results/100786598 |title=Australia claim 4-0 victory over Vietnam in World Cup qualifier |website=[[ABC News (Australia)]] |agency=[[Australian Associated Press]] (AAP) |date=27 January 2022 |access-date=13 March 2022}}</ref>
+
+In November 2022, McGree was called up to play in the [[2022 FIFA World Cup]] he started in the [[Socceroos]] opening match against [[France National Football Team]] McGree started but the Aussies were beaten 4-1. In there second group stage game McGree started against [[Tunisia national football team]] which Australia went onto win 1-0 in there final group stage game the [[Middlesbrough FC]] Star assisted [[Matthew Leckie]]’s goal which was just enough to beat Denmark 1-0.
+In the round of 16 Australia played [[Argentina National Football Team]] McGree started for the fourth time in a row but Australia went onto lose 2-1.
+
+==Career statistics==
+===Club===
+{{updated|match played 18 February 2023|<ref name=Soccerway>{{cite web |url=https://uk.soccerway.com/players/riley-mcgree/440352/ |title=R. McGree |website=Soccerway |publisher=Perform Group |accessdate=12 November 2022}}</ref>}}
+
+{| class=wikitable style="text-align: center;"
+|+ Appearances and goals by club, season and competition
+|-
+!rowspan="2"|Club
+!rowspan="2"|Season
+!colspan="3"|League
+!colspan="2"|National cup
+!colspan="2"|League cup
+!colspan="2"|Continental
+!colspan="2"|Total
+|-
+!Division!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals
+|-
+|rowspan="3"|[[Adelaide United FC|Adelaide United]]
+|[[2015–16 Adelaide United FC season|2015–16]]
+|[[A-League]]
+|1||0||0||0||colspan="2"|–||colspan="2"|–||1||0
+|-
+|[[2016–17 Adelaide United FC season|2016–17]]
+|A-League
+|16||1||0||0||colspan="2"|–||5{{efn|Appearances in the [[AFC Champions League]]}}||1||21||2
+|-
+!colspan="2"|Total
+!17!!1!!0!!0!!colspan="2"|–!!5!!1!!22!!2
+|-
+|[[Club Brugge KV|Club Brugge]]
+|[[2017–18 Club Brugge KV season|2017–18]]
+|[[Belgian First Division A]]
+|0||0||0||0||colspan="2"|–||0||0||0||0
+|-
+|[[Newcastle Jets FC|Newcastle Jets]] (loan)
+|[[2017–18 Newcastle Jets FC season|2017–18]]
+|A-League
+|12||5||0||0||colspan="2"|–||colspan="2"|–||12||5
+|-
+|[[Melbourne City FC|Melbourne City]] (loan)
+|[[2018–19 Melbourne City FC season|2018–19]]
+|A-League
+|27||7||3||1||colspan="2"|–||colspan="2"|–||30||8
+|-
+|[[Adelaide United FC|Adelaide United]]
+|[[2019–20 Adelaide United FC season|2019–20]]
+|A-League
+|23||10||5||3||colspan="2"|–||colspan="2"|–||28||13
+|-
+|rowspan="3"|[[Birmingham City F.C.|Birmingham City]] (loan)
+|[[2020–21 Birmingham City F.C. season|2020–21]]
+|[[EFL Championship|Championship]]
+|15||1||0||0||colspan="2"|–||colspan="2"|—||15||1
+|-
+|[[2021–22 Birmingham City F.C. season|2021–22]]
+|Championship
+|13||2||0||0||2||0||colspan="2"|—||15||2
+|-
+!colspan="2"|Total
+!28!!3!!0!!0!!2!!0!!colspan="2"|–!!30!!3
+|-
+|rowspan="3"|[[Middlesbrough F.C.|Middlesbrough]]
+|[[2021–22 Middlesbrough F.C. season|2021–22]]
+|Championship
+|11||2||colspan="2"|—||colspan="2"|—||colspan="2"|—||11||2
+|-
+|[[2022–23 Middlesbrough F.C. season|2022–23]]
+|Championship
+|42||6||1||0||0||0||colspan="2"|—||43||6
+|-
+!colspan="2"|Total
+!53!!8!!1!!0!!0!!0!!colspan="2"|–!!54!!8
+|-
+!colspan="3"|Career total
+!159!!34!!9!!4!!2!!0!!5!!1!!167!!39
+|}
+{{notelist}}
+
+===International===
+{{Updated|2 December 2022.<ref name="wf.net Int">{{cite web |url=https://www.worldfootball.net/player_summary/riley-mcgree/4/ |title=Riley McGree: Internationals |website=worldfootball.net |publisher=HeimSpiel Medien |access-date=1 October 2022}}</ref>}}
+
+{| class="wikitable" style="text-align:center"
+|colspan="3"|[[Australia national soccer team|Australia]]
+|-
+!Year!!Apps!!Goals
+|-
+|2021||7||0
+|-
+|2022||7||1
+|-
+!Total||14||1
+|}
+
+{| class="wikitable sortable"
+|+ List of international goals scored by Riley McGree
+|-
+!scope="col"|No.
+!scope="col"|Date
+!scope="col"|Venue
+!scope="col"|Opponent
+!scope="col"|Score
+!scope="col"|Result
+!scope="col"|Competition
+!scope="col" class="unsortable"|{{Abbr|Ref.|Reference}}
+|-
+| align="center"|1 || 27 January 2022 || [[Melbourne Rectangular Stadium]], [[Melbourne]], Australia || {{fb|VIE}} || align="center"|4–0 || align="center"|4–0 || [[2022 FIFA World Cup qualification – AFC third round|2022 FIFA World Cup qualification]] || <ref name="1st Intl Goal" />
+|}
+
+==Honours==
+'''Adelaide United'''
+* [[A-League]] Premiership: [[2015–16 A-League|2015–16]]
+* [[FFA Cup]]: [[2019 FFA Cup|2019]]
+'''Individual'''
+* Middlesbrough Goal of the Season: [[2022–23 Middlesbrough F.C. season#Middlesbrough 2022/2023 Player of the Year Awards|2022–23]]<ref name="Double Recognition For Chuba Akpom At Player Of The Year Awards2">{{cite web |date=4 May 2023 |title=Double Recognition For Chuba Akpom At Player Of The Year Awards |url=https://www.mfc.co.uk/news/2023/may/04/double-recognition-for-chuba-akpom-at-player-of-the-year-awards/ |access-date=17 May 2023 |website=Middlesbrough FC}}</ref>
+
+==References==
+{{reflist}}
+
+==External links==
+* {{Soccerway|riley-mcgree/440352}}
+
+{{Middlesbrough F.C. squad}}
+{{Navboxes
+| title = Australia squads
+| bg = #FCD116
+| fg = #008751
+| bordercolor = #008751
+| list1 = 
+{{Australia men's football squad 2020 Summer Olympics}}
+{{Australia squad 2022 FIFA World Cup}}
+}}
+{{Navboxes
+| title = Awards
+| bg = gold
+| fg = navy
+| list1 = 
+{{Adelaide United FC Player of the Year}}
+{{2016–17 A-League PFA Team of the Season}}
+{{2019–20 A-League PFA Team of the Season}}
+{{A-League Young Footballer of the Year}}
+}}
+
+{{DEFAULTSORT:McGree, Riley}}
+[[Category:1998 births]]
+[[Category:Living people]]
+[[Category:People from Gawler, South Australia]]
+[[Category:Australian men's soccer players]]
+[[Category:Australia men's international soccer players]]
+[[Category:Australia men's youth international soccer players]]
+[[Category:Men's association football midfielders]]
+[[Category:Adelaide United FC players]]
+[[Category:Club Brugge KV players]]
+[[Category:Newcastle Jets FC players]]
+[[Category:Melbourne City FC players]]
+[[Category:Charlotte FC players]]
+[[Category:Birmingham City F.C. players]]
+[[Category:Middlesbrough F.C. players]]
+[[Category:A-League Men players]]
+[[Category:National Premier Leagues players]]
+[[Category:English Football League players]]
+[[Category:Footballers at the 2020 Summer Olympics]]
+[[Category:Olympic soccer players for Australia]]
+[[Category:Australian expatriate men's soccer players]]
+[[Category:Australian expatriates in Belgium]]
+[[Category:Expatriate men's footballers in Belgium]]
+[[Category:Australian expatriates in the United States]]
+[[Category:Expatriate men's soccer players in the United States]]
+[[Category:Australian expatriates in England]]
+[[Category:Expatriate men's footballers in England]]
+[[Category:2022 FIFA World Cup players]]

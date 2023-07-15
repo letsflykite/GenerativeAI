@@ -1,0 +1,182 @@
+{{short description|Australian professional soccer player}}
+{{Use dmy dates|date=April 2019}}
+{{Infobox football biography
+| name = Joel King
+| fullname = Joel Bruce King<ref name=FIFA>{{cite news |url=https://fdp.fifa.org/assetspublic/ce4/pdf/SquadLists-English.pdf |website=[[FIFA]]|access-date=8 July 2021 |title=Squad list - Men's Olympic Football Tournament Tokyo 2020}}</ref>
+| birth_date = {{birth date and age|2000|10|30|df=yes}}
+| birth_place = [[Figtree, New South Wales]], Australia
+| height = 1.79m<ref name=FIFA/>
+| position = [[Defender (association football)#Full-back|Left back]]
+| currentclub = [[Sydney FC]]
+| clubnumber = 
+| youthyears1 = 
+| youthclubs1 = [[FNSW NTC]]
+| youthyears2 = 
+| youthclubs2 = [[Sydney FC]]
+| years1 = 2016–2017
+| caps1 = 29
+| goals1 = 0
+| clubs1 = [[FFA Centre of Excellence|FFA CoE]]
+| years2 = 2018–2019
+| caps2 = 27
+| goals2 = 1
+| clubs2 = [[Sydney FC Youth|Sydney FC NPL]]
+| years3 = 2019–2022
+| caps3 = 63
+| goals3 = 0
+| clubs3 = [[Sydney FC]]
+| years4 = 2022–2023
+| caps4 = 17
+| goals4 = 0
+| clubs4 = [[Odense Boldklub|OB]]
+| years5 = 2023
+| caps5 = 13
+| goals5 = 0
+| clubs5 = → [[Sydney FC]] (loan)
+| years6 = 2023–
+| caps6 = 0
+| goals6 = 0
+| clubs6 = [[Sydney FC]]
+| nationalyears1 = 2017
+| nationalteam1 = [[Australia national under-20 soccer team|Australia U20]]
+| nationalcaps1 = 1
+| nationalgoals1 = 0
+| nationalyears2 = 2021–
+| nationalteam2 = [[Australia national under-23 soccer team|Australia U23]]
+| nationalcaps2 = 4
+| nationalgoals2 = 0
+| nationalyears3 = 2022–
+| nationalteam3 = [[Australia men's national soccer team|Australia]]
+| nationalcaps3 = 4
+| nationalgoals3 = 0
+| club-update = 23 June 2023
+| nationalteam-update = 31 October 2022
+| medaltemplates = <!--MENTION HOST NATIONS FOR TEAM SPORTS-->{{MedalSport|Men's [[Association football|football]]}}
+{{MedalCountry|{{fb|AUS}}}}
+{{MedalCompetition|[[AFF U-16 Youth Championship]]}}
+{{Medal|1st|[[2016 AFF U-16 Youth Championship|2016 Cambodia]]|[[Australia national under-17 soccer team|U-17 Team]]}}
+{{Medal|3rd|[[2015 AFF U-16 Youth Championship|2015 Cambodia]]|[[Australia national under-17 soccer team|U-17 Team]]}}
+}}
+
+'''Joel Bruce King''' (born 30 October 2000) is an Australian professional [[association football|soccer]] player who plays as a [[Defender (association football)#Full-back|left back]] for [[Sydney FC]].
+
+==Club career==
+===Sydney FC===
+King made his professional debut for [[Sydney FC]] in a Round 27 clash against [[Newcastle Jets FC|Newcastle Jets]], playing the full game in a 2–0 loss at [[Newcastle International Sports Centre|McDonald Jones Stadium]].<ref>{{Cite web |url=https://www.newcastlejets.com.au/news/jets-sink-sydney-finish-season |title=Jets sink Sydney to finish season |date=27 April 2019}}</ref> On 9 May 2019, he signed his first professional contract with the club, penning a one-year deal for the 2019–2020 season.<ref>{{Cite web |url=https://www.sydneyfc.com/news/sydney-fc-youngster-joel-king-re-signs |title=Sydney FC Youngster Joel King Re-Signs |date=9 May 2019}}</ref> King cemented his spot in the Sydney team, and started in every game for Sydney during the [[2020–21 A-League|2020-21]] season with regular fullback [[Michael Zullo]] missing the majority of the season with a recurring calf injury. His consistent performances during the season resulted in him winning the [[A-League Young Footballer of the Year|2020-21 Young Footballer of the year award]] at the end of season awards, becoming the first Sydney FC player to do so.<ref>{{cite web |title=Dolan Warren Awards: Joel King named Young Footballer of the Year |url=https://www.a-league.com.au/news/dolan-warren-awards-joel-king-named-young-footballer-year |website=a-league.com.au |date=23 June 2021 |publisher=A-League |access-date=22 July 2021}}</ref>
+
+===Odense Boldklub===
+On 29 January 2022, it was announced that King had signed with Danish club [[Odense Boldklub|OB]] after triggering a six figure release clause.<ref>{{cite news |url=https://www.smh.com.au/sport/soccer/king-s-ransom-new-socceroo-sold-to-danish-club-as-overhaul-begins-at-sydney-fc-20220129-p59s7y.html |title=King's ransom: Sydney Socceroo sold to Danish club as Wanderers' slump worsens |first=Vince |last=Rugari |newspaper=[[The Sydney Morning Herald]] |date=29 January 2022}}</ref>
+
+===Return to Sydney FC===
+In February 2023, King was loaned back to former club [[Sydney FC]] until the end of the [[2022–23 A-League Men]] season.<ref>{{cite web|url=https://sydneyfc.com/news/the-king-returns|title=The King Returns|website=[[Sydney FC]]|date=1 February 2023}}</ref> King made 13 appearances in his loan spell, including starts in an Elimination Final against [[Sydney Derby (A-League Men)|derby]] rivals [[Western Sydney Wanderers FC|Western Sydney Wanderers]] and in both leagues of the Semi Final tie against [[Melbourne City FC|Melbourne City]].
+
+King then re-signed on a permanent basis with Sydney FC at the end of that season, in June 2023, on a three-year deal.<ref>{{cite web|url=https://sydneyfc.com/news/socceroos-full-back-joel-king-makes-permanent-switch-home|title=Socceroos full back Joel King makes permanent switch home|website=[[Sydney FC]]|date=23 June 2023}}</ref>
+
+==International career==
+===Australian under-23s===
+King was called up to the [[Australia national under-23 soccer team|Australian under-23]] squad for the delayed [[Football at the 2020 Summer Olympics|2020 Tokyo Olympics]] by manager [[Graham Arnold]].<ref>{{cite web |title=Joel King Earns Olympic Selection |url=https://www.sydneyfc.com/news/joel-king-earn-olympic-selection |website=Sydney FC |date=29 June 2021 |access-date=22 July 2021}}</ref> He made his debut in a friendly warm up game for the Olympics against [[New Zealand national under-23 football team|New Zealand]] in a 0–2 loss. 
+<ref>{{cite web |last1=Curulli |first1=Chris |title=International Friendly Report: Australia defeated by New Zealand on rainy evening in Ichihara |date=12 July 2021 |url=https://www.socceroos.com.au/news/live-updates-australia-u-23s-v-new-zealand |access-date=22 July 2021}}</ref> 
+King provided an assist for Australia's first goal of the tournament, scored by [[Lachlan Wales]] against [[Argentina national under-23 football team|Argentina]] in which Australia ran out 2-0 winners.<ref>{{cite web |last1=Rayson |first1=Zac |title=ROO BEAUTY: Aussies 'shock the world' as Arnie 'masterclass' stuns global powerhouse |url=https://www.foxsports.com.au/tokyo-olympics-2021/live-olyroos-ready-to-shock-the-world-after-13year-olympic-exile/news-story/6a323a384569c377b1ac832774f61b63 |website=Fox Sports Australia |date=23 July 2021 |access-date=23 July 2021}}</ref>
+
+===Australia===
+King was called up to the [[Australia national football team|Socceroos]] squad by manager [[Graham Arnold]] for their [[2022 FIFA World Cup qualification – AFC third round|2022 FIFA World Cup qualification]] match against [[Vietnam national football team|Vietnam]] as regular left back [[Aziz Behich]] was unable to take part. King started the match and put in a good performance with Australia winning 4-0.<ref>{{cite web |last1=Monteverde |first1=Marco |title=Star defender Trent Sainsbury impressed with the Socceroos debut of Joel King |url=https://www.news.com.au/sport/football/star-defender-trent-sainsbury-impressed-with-the-socceroos-debut-of-joel-king/news-story/c05820d52029cc9cf979bb916d25e15b |publisher=news.com.au |access-date=12 April 2023}}</ref>
+
+==Career statistics==
+{{updated|30 April 2023}}
+{| class="wikitable" border="1" style="font-size:100%; text-align: center;"
+!rowspan="2"|Club
+!rowspan="2"|Season
+!colspan="3"|League
+!colspan="2"|Cup
+!colspan="2"|Continental
+!colspan="2"|Total
+|-
+!Division
+!Apps
+!Goals
+!Apps
+!Goals
+!Apps
+!Goals
+!Apps
+!Goals
+|-
+| rowspan="5" |[[Sydney FC]]||[[2018–19 Sydney FC season|2018–19]]||rowspan=3|[[A-League]]||1||0||0||0||2||0||3||0
+|-
+|[[2019–20 Sydney FC season|2019–20]]||26||0||1||0||5||0||32||0
+|-
+|[[2020–21 Sydney FC season|2020–21]]||28||0||0||0||colspan="2"|—||28||0
+|-
+|[[2021–22 Sydney FC season|2021–22]]||[[A-League Men]]||8||0||4||0||0||0||12||0
+|-
+! colspan="2" |Total
+!63!!0!!5!!0!!7!!0!!75!!0
+|-
+| rowspan="3" |[[Odense Boldklub|OB]]||[[2021–22 Odense Boldklub season|2021–22]]||rowspan="2"|[[Danish Superliga]]||11||0||1||0||colspan="2"|—||12||0
+|-
+|[[2022–23 Odense Boldklub season|2022–23]]||5||0||1||1||colspan="2"|—||6||1
+|-
+! colspan="2" |Total!!16!!0!!2!!1!!0!!0!!18!!1
+|-
+|[[Sydney FC]]
+|[[2022–23 Sydney FC season|2022–23]]
+|[[A-League Men]]
+|13
+|0
+|0
+|0
+| colspan="2" |—
+|13
+|0
+|-
+! colspan="3" |Career total!!92!!0!!7!!1!!7!!0!!106!!1
+|}
+
+==Honours==
+===Club===
+;Sydney FC
+* [[A-League]] Championship: [[2019–20 A-League|2019–20]]<ref>{{cite news |website=[[Football Federation Australia]] |url=https://www.ffa.com.au/news/sydney-fc-set-new-australian-record-grand-final-success |title=Sydney FC set new Australian record with Grand Final success |date=1 September 2020|access-date=1 September 2020}}</ref>
+* [[A-League]] Premiership: [[2019–20 A-League|2019–20]]
+
+===International===
+;Australia U17
+*[[AFF U-16 Youth Championship]]: [[2016 AFF U-16 Youth Championship|2016]]<ref>{{cite web |url=https://www.aseanfootball.org/results/2016_AFF_U16_CHAMPIONSHIP-029.pdf |title=Match Summary - AFF Smart U16 Championship 2015 |date=23 July 2016|access-date=31 August 2021 |website=[[ASEAN Football Federation]]}}</ref>
+
+===Individual===
+;Sydney FC
+* [[A-League Young Footballer of the Year]]: [[2020–21 A-League|2020–21]]
+
+==References==
+{{reflist}}
+
+==External links==
+*{{Soccerway|joel-king/522679}}
+
+{{Sydney FC squad}}
+{{A-League Young Footballer of the Year}}
+{{Navboxes
+| title = Australia squads
+| bg = #FCD116
+| fg = #008751
+| bordercolor = #008751
+| list1 = 
+{{Australia men's football squad 2020 Summer Olympics}}
+{{Australia squad 2022 FIFA World Cup}}
+}}
+
+{{DEFAULTSORT:King, Joel}}
+[[Category:2000 births]]
+[[Category:Living people]]
+[[Category:Australian men's soccer players]]
+[[Category:Men's association football defenders]]
+[[Category:Sydney FC players]]
+[[Category:Odense Boldklub players]]
+[[Category:A-League Men players]]
+[[Category:National Premier Leagues players]]
+[[Category:Danish Superliga players]]
+[[Category:Footballers at the 2020 Summer Olympics]]
+[[Category:Olympic soccer players for Australia]]
+[[Category:Australian expatriate men's soccer players]]
+[[Category:Expatriate men's footballers in Denmark]]
+[[Category:2022 FIFA World Cup players]]
+[[Category:Soccer players from Wollongong]]

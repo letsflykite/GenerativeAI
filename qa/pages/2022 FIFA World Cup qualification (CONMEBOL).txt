@@ -1,0 +1,2064 @@
+{{Short description|None}}
+{{Use British English|date=December 2022}}
+{{Use dmy dates|date=December 2022}}
+{{Infobox international football competition
+| tourney_name   = 2022 FIFA World Cup qualification (CONMEBOL)
+| dates          = 8 October 2020 – 29 March 2022
+| num_teams      = 10
+| confederations = 1
+| matches        = 89
+| goals          = 223
+| attendance     = {{#expr: <!--Matchday 1--> 0 + 0 + 0 + 0 + 0 + <!--Matchday 2--> 0 + 0 + 0 + 0 + 0 + <!--Matchday 3--> 0 + 0 + 0 + 0 + 0 + <!--Matchday 4--> 0 + 0 + 0 + 0 + 0 + <!--Matchday 7--> 0 + 0 + 0 + 0 + 0 + <!--Matchday 8--> 0 + 0 + 10000 + 0 + 0 + <!--Matchday 9--> 15000 + 12000 + 6000 + 8000 + 11000 + <!--Matchday 6--> 12000 + 15000 + 7000 + 8000 + <!--Matchday 10--> 15000 + 5000 + 23500 + 17000 + <!--Matchday 11--> 18000 + 34000 + 6000 + 16000 + 8000 + <!--Matchday 5--> 20000 + 10000 + 35000 + 35000 + 10800 + <!--Matchday 12--> 12000 + 35000 + 36000 + 10000 + 12500 + <!--Matchday 13--> 25000 + 42354 + 22800 + 10000 + 30000 + <!--Matchday 14--> 7000 + 9000 + 44000 + 25000 + 12000 + <!--Matchday 15--> 17992 + 36000 + 8800 + 41000 + 24000 + <!--Matchday 16--> 28000 + 55000 + 50000 + 32344 + 28000 + <!--Matchday 17--> 40000 + 25000 + 69368 + 10000 + 42000 + <!--Matchday 18--> 40000 + 11000 + 59000}}
+| top_scorer     = {{fbicon|BOL}} [[Marcelo Martins Moreno|Marcelo Moreno]]<br>(10 goals)
+| prevseason     = [[2018 FIFA World Cup qualification (CONMEBOL)|2018]]
+| nextseason     = [[2026 FIFA World Cup qualification (CONMEBOL)|2026]]
+}}
+{{Qualification for championships (CONMEBOL)}}
+
+The South American section of the [[2022 FIFA World Cup qualification]]<!-- DO NOT BOLD, see [[WP:SBE]] for further guidance --> acted as qualifiers for the [[2022 FIFA World Cup]], to be held in Qatar, for national teams which are members of the South American Football Confederation ([[CONMEBOL]]). A total of 4.5 slots (4 direct slots and 1 inter-confederation play-off slot) in the final tournament were available for CONMEBOL teams.<ref>{{cite web |url=https://www.fifa.com/worldcup/news/y=2015/m=5/news=current-allocation-of-fifa-world-cuptm-confederation-slots-maintained-2610611.html |archive-url=https://web.archive.org/web/20150530211217/http://www.fifa.com/worldcup/news/y=2015/m=5/news=current-allocation-of-fifa-world-cuptm-confederation-slots-maintained-2610611.html |url-status=dead |archive-date=30 May 2015 |title=Current allocation of FIFA World Cup confederation slots maintained |publisher=FIFA |date=30 May 2015}}</ref>
+
+The qualification process began on 8 October 2020 and ended on 29 March 2022. Uruguay's [[Luis Suárez]] scored the first goal of the round-robin. This was the third time Suárez had opened scoring in the group (after [[2010 FIFA World Cup qualification (CONMEBOL)|2010]] and [[2014 FIFA World Cup qualification (CONMEBOL)|2014]]), as well as the fourth consecutive time a Uruguayan player had done so ([[Martín Cáceres]] scored the first goal of the [[2018 FIFA World Cup qualification|2018]] process).<ref>{{cite news |title=Clasificatorias Sudamericanas: Selección que anotó el primer gol siempre fue al Mundial |url=https://www.golperu.pe/selecciones/otras-selecciones/la-seleccion-que-anoto-el-primer-gol-en-clasificatorias-sudamericanas-siempre-fue-al-mundial-26901 |archive-url=https://web.archive.org/web/20220203073226/https://www.golperu.pe/selecciones/otras-selecciones/la-seleccion-que-anoto-el-primer-gol-en-clasificatorias-sudamericanas-siempre-fue-al-mundial-26901 |url-status=dead |archive-date=3 February 2022 |access-date=9 October 2020 |work=Gol Perú |date=8 October 2020 |language=es }}</ref>
+
+==Format==
+On 24 January 2019, the CONMEBOL Council decided to maintain the same qualification structure used for the previous six tournaments.<ref name="dates">{{cite web |url=http://www.conmebol.com/es/clasificatorio-sudamericano-al-mundial-de-qatar-arrancara-en-marzo-del-2020 |title=Clasificatorio sudamericano al Mundial de Qatar arrancará en marzo del 2020 |publisher=Conmebol.com |date=24 January 2019 |language=Spanish}}</ref> The ten teams play in a league of home-and-away [[round-robin tournament|round-robin]] matches.
+
+The fixtures were determined by a draw which was held on 17 December 2019, 10:00 [[Time in Paraguay|PYST]] ([[UTC−03:00|UTC−3]]), at the Bourbon Asunción Convention Hotel in [[Luque]], Paraguay.<ref>{{cite news |url=https://www.fifa.com/worldcup/news/fifa-world-cup-2022-qualifiers-draws-to-take-centre-stage-in-south-america-and-a |title=FIFA World Cup 2022 qualifiers: draws to take centre stage in South America and Africa |publisher=FIFA |date=11 December 2019 |access-date=11 December 2019}}</ref><ref>{{cite web |title=Se viene el sorteo oficial de las Eliminatorias Sudamericanas para la Copa Mundial de la FIFA QATAR 2022 |url=http://www.conmebol.com/es/se-viene-el-sorteo-oficial-de-las-eliminatorias-sudamericanas-para-la-copa-mundial-de-la-fifa-qatar |publisher=CONMEBOL |date=19 November 2019 |language=Spanish}}</ref><ref>{{cite web |title=Eliminatorias sudamericanas 2022: cuándo empiezan, fechas y partidos |url=https://www.goal.com/es/noticias/eliminatorias-sudamericanas-2022-mundial-qatar-2022/icw0hksmcn0w1uiv9bhw4dnne |work=Goal (website) |date=29 November 2019 |language=Spanish}}</ref><ref>{{cite news |url=https://www.fifa.com/worldcup/news/watch-live-preliminary-draw-for-conmebol-qatar-2022-qualifiers |title=RELIVE: Preliminary Draw for CONMEBOL Qatar 2022 qualifiers |publisher=FIFA |date=17 December 2019 |access-date=17 December 2019}}</ref><ref>{{cite news |url=http://conmebol.com/es/el-calendario-de-partidos-de-las-eliminatorias-mas-emocionantes-del-mundo |title=El calendario de partidos de las Eliminatorias más emocionantes del mundo |trans-title=The calendar of matches of the most exciting qualifiers in the world |publisher=CONMEBOL |date=17 December 2019 |access-date=17 December 2019 |language=Spanish}}</ref>
+
+Originally, Brazil and Argentina were both to be drawn into either position 4 or 5 in the draw, thus ensuring that no team has to play both of them on any double matchday.<ref>{{cite web |url=http://www.conmebol.com/es/se-sortean-las-eliminatorias-sudamericanas-al-mundial-de-la-fifa-qatar-2022 |title=Se sortean las Eliminatorias Sudamericanas al Mundial de la FIFA – Qatar 2022 |trans-title=FIFA World Cup – Qatar 2022 South American Qualifiers to be drawn |publisher=CONMEBOL.com |language=Spanish |date=11 December 2019 |url-status=dead |archive-url=https://web.archive.org/web/20191214025929/http://www.conmebol.com/es/se-sortean-las-eliminatorias-sudamericanas-al-mundial-de-la-fifa-qatar-2022 |archive-date=14 December 2019}}</ref> However, the decision was later reversed on 16 November 2019 by the CONMEBOL Council, making the draw completely open.<ref>{{cite news |url=http://conmebol.com/es/el-sorteo-de-eliminatorias-conmebol-para-el-mundial-fifa-qatar-2022-contara-con-bolillas |title=El Sorteo de Eliminatorias CONMEBOL para el Mundial FIFA Qatar 2022 contará con bolillas indiferenciadas para todas las selecciones |trans-title=The CONMEBOL qualifying draw for the FIFA World Cup Qatar 2022 will feature undifferentiated balls for all teams |publisher=CONMEBOL |date=16 December 2019 |access-date=17 December 2019 |language=Spanish}}</ref>
+
+The CONMEBOL Council approved the use of the [[video assistant referee]] system for the qualifiers.<ref>{{cite web|url=http://www.conmebol.com/es/se-aplicara-el-var-en-todos-los-encuentros-clasificatorios-para-el-mundial-fifa-qatar-2022|title=Se aplicará el VAR en todos los encuentros clasificatorios para el Mundial FIFA Qatar 2022|publisher=CONMEBOL.com|date=14 February 2020|language=Spanish}}</ref>
+
+==Entrants==
+All 10 national teams from CONMEBOL entered qualification.
+
+Note: '''Bolded''' teams qualified for the [[2022 FIFA World Cup|World Cup]]. ''Peru'' advanced to the [[2022 FIFA World Cup qualification (inter-confederation play-offs)|inter-confederation play-offs]].
+
+{| class="wikitable sortable" style="text-align: left;"
+|-
+! Draw<br />position
+! Team
+! September 2020<br />[[FIFA World Rankings]]<ref>{{cite web |url=https://www.fifa.com/fifa-world-ranking/ranking-table/men/rank/id13043/#CONMEBOL |archive-url=https://web.archive.org/web/20201023061037/https://www.fifa.com/fifa-world-ranking/ranking-table/men/rank/id13043/#CONMEBOL |archive-date=23 October 2020 |title=FIFA Men's Ranking – September 2020 (FIFA) |publisher=FIFA |date=17 September 2020 |url-status=live}}</ref>
+|-
+| 1 || '''{{fb|URU}}''' || 6
+|-
+| 2 || {{fb|COL}} || 10
+|-
+| 3 || ''{{fb|PER}}'' || 22
+|-
+| 4 || '''{{fb|BRA}}''' || 3
+|-
+| 5 || {{fb|VEN}} || 25
+|-
+| 6 || {{fb|BOL}} || 75
+|-
+| 7 || {{fb|PAR}} || 40
+|-
+| 8 || '''{{fb|ARG}}''' || 9
+|-
+| 9 || {{fb|CHI}} || 17
+|-
+| 10 || '''{{fb|ECU}}''' || 64
+|}
+
+==Schedule==
+The qualifying matches are played on dates that fall within the [[FIFA International Match Calendar]].<ref name="dates" /><ref>{{cite web|url=https://digitalhub.fifa.com/m/11f7fa1dc502361/original/Enclosure_Circular-1766_Updates-to-the-Men-s-International-Match-Calendar_EN.pdf|title=INTERNATIONAL MATCH CALENDAR 2020-2024|publisher=FIFA|access-date=1 November 2021|archive-date=3 January 2021|archive-url=https://web.archive.org/web/20210103155126/https://img.fifa.com/image/upload/wt4ycd2y7awqfslrf8wi.pdf|url-status=live}}</ref> There are a total of 18 matchdays. Originally eight matchdays would be in 2020 and ten would be in 2021.<ref>{{cite web |url=http://www.conmebol.com/es/clasificatorio-de-selecciones-conmebol-al-mundial-de-qatar-arranca-en-marzo-del-2020 |title=Clasificatorio de selecciones CONMEBOL al Mundial de Qatar arranca en marzo del 2020 |publisher=Conmebol.com |date=18 May 2019 |language=Spanish}}</ref><ref>{{cite web |url=http://conmebol.com/sites/default/files/fwc_q22_conmebol_draw_schedule-3.pdf |title=Preliminary draw (CONMEBOL) |publisher=CONMEBOL |date=17 December 2019 |access-date=17 December 2019}}</ref>
+
+On 12 March 2020, FIFA announced that matches on matchdays 1–2 due to take place in March 2020 were postponed due to the [[COVID-19 pandemic]], with the new dates to be confirmed.<ref name="covid19fifa">{{cite web |url=https://www.fifa.com/worldcup/news/update-on-upcoming-fifa-world-cup-qualifiers-in-south-america |title=Update on upcoming FIFA World Cup qualifiers in South America |publisher=FIFA |date=12 March 2020|access-date=13 March 2020}}</ref>
+
+On 25 June 2020, FIFA announced that the [[#Inter-confederation play-offs|inter-confederation play-offs]], originally scheduled to be played in March 2022, were moved to June 2022.<ref>{{cite web|url=https://www.fifa.com/who-we-are/news/fifa-council-unanimously-approves-covid-19-relief-plan|title=FIFA Council unanimously approves COVID-19 Relief Plan|publisher=FIFA|date=25 June 2020}}</ref>
+
+On 10 July 2020, FIFA announced that the CONMEBOL qualifiers in September 2020 were postponed, with the qualifiers starting in October 2020. CONMEBOL also requested FIFA to include a replacement international window in January 2022 in order to complete the qualifiers in March 2022.<ref>{{cite web|url=https://www.fifa.com/worldcup/news/south-american-fifa-world-cup-qualifiers-to-begin-in-october|title=South American FIFA World Cup qualifiers to begin in October|publisher=FIFA|date=10 July 2020}}</ref> The proposal was approved by FIFA on 18 August 2020.<ref>{{cite web|url=https://www.fifa.com/who-we-are/news/further-changes-to-the-international-match-calendars-due-to-the-covid-19-pandemi|title=Further changes to the international match calendars due to the COVID-19 pandemic unanimously approved by the Bureau of the Council|publisher=FIFA|date=18 August 2020}}</ref> On 6 March 2021, FIFA announced that the March 2021 matches (matchdays 5 and 6) were postponed due to [[Travel restrictions related to the COVID-19 pandemic|travel]] and quarantine restrictions caused by the COVID-19 pandemic.<ref>{{cite news|url=https://www.fifa.com/worldcup/news/update-on-south-american-qualifiers-for-fifa-world-cup-qatar-2022tm|title=Update on South American qualifiers for FIFA World Cup Qatar 2022|publisher=FIFA|date=6 March 2021|access-date=6 March 2021}}</ref> These matches were rescheduled to be played in September and October 2021 after FIFA accepted the CONMEBOL's request to allow triple matchdays in both September and October international windows.<ref>{{cite web|url=https://www.conmebol.com/es/la-conmebol-confirma-que-las-eliminatorias-se-reanudaran-en-junio-antes-de-la-conmebol-copa-america|title=La CONMEBOL confirma que las Eliminatorias se reanudarán en junio, antes de la CONMEBOL Copa América|publisher=CONMEBOL|date=23 April 2021|language=es}}</ref><ref>{{cite web|url=https://www.conmebol.com/es/entre-2016-y-2021-la-conmebol-distribuyo-mas-de-usd-1305-millones-asociaciones-y-clubes|title=Entre 2016 y 2021, la CONMEBOL distribuyó más de USD 1.305 millones a Asociaciones y clubes|publisher=CONMEBOL|date=3 August 2021|language=es}}</ref><ref>{{cite news|url=https://www.fifa.com/about-fifa/organisation/fifa-council/media-releases/changes-international-match-calendar-conmebol|title=Changes to the International Match Calendar due to the COVID-19 pandemic|publisher=FIFA|date=6 August 2021|access-date=7 August 2021}}</ref> Matchday 5 was played between matchdays 11 and 12, while matchday 6 was played between matchdays 9 and 10.<ref>{{cite web|url=https://www.conmebol.com/es/eliminatorias-sudamericanas-triple-fecha-en-septiembre|title=Eliminatorias Sudamericanas: Triple fecha en septiembre|publisher=CONMEBOL|date=6 August 2021|language=es}}</ref><ref>{{cite web|url=https://www.conmebol.com/es/octubre-con-tres-fechas-de-eliminatorias-sudamericanas|title=Octubre con tres fechas de Eliminatorias Sudamericanas|publisher=CONMEBOL|date=15 September 2021|language=es}}</ref><ref>{{cite web|url=https://digitalhub.fifa.com/m/92c4de5fdb3b27e/original/Circular-No-1766-Updates-to-the-Men-s-International-Match-Calendar-EN.pdf|title=Updates to the Men's International Match Calendar|publisher=FIFA|date=13 August 2021|access-date=1 November 2021}}</ref>
+
+{| class="wikitable sortable"
+!rowspan=2|Matchday
+! colspan="3" |Date(s)
+!rowspan=2 class="unsortable"|Matches
+|-
+!Revised
+!Previous date
+!Original
+|-
+|Matchday 1
+|8–9 October 2020 || rowspan="7" {{N/A}} || 26 March 2020
+|1 v 9, 2 v 5, 4 v 6, 7 v 3, 8 v 10
+|-
+|Matchday 2
+|13 October 2020 || 31 March 2020
+|3 v 4, 5 v 7, 6 v 8, 9 v 2, 10 v 1
+|-
+|Matchday 3
+|12–13 November 2020 || 3 September 2020
+|2 v 1, 4 v 5, 6 v 10, 8 v 7, 9 v 3
+|-
+|Matchday 4
+|17 November 2020 || 8 September 2020
+|1 v 4, 3 v 8, 5 v 9, 7 v 6, 10 v 2
+|-
+|Matchday 7
+|3–4 June 2021 || 12 November 2020
+|1 v 7, 3 v 2, 4 v 10, 6 v 5, 8 v 9
+|-
+|Matchday 8
+|8 June 2021 || 17 November 2020
+|2 v 8, 5 v 1, 7 v 4, 9 v 6, 10 v 3
+|-
+|Matchday 9
+|2 September 2021 || 25 March 2021
+|3 v 1, 5 v 8, 6 v 2, 9 v 4, 10 v 7
+|-
+|Matchday 6
+|5 September 2021 || 30 March 2021 || 13 October 2020
+|1 v 6, 3 v 5, 4 v 8, 7 v 2, 10 v 9
+|-
+|Matchday 10
+|9 September 2021 || 7 September 2021 || 30 March 2021
+|1 v 10, 2 v 9, 4 v 3, 7 v 5, 8 v 6
+|-
+|Matchday 11
+|7 October 2021 || {{N/A}} || 3 June 2021
+|1 v 2, 3 v 9, 5 v 4, 7 v 8, 10 v 6
+|-
+|Matchday 5
+|10 October 2021 || 25–26 March 2021 || 8 October 2020
+|2 v 4, 5 v 10, 6 v 3, 8 v 1, 9 v 7
+|-
+|Matchday 12
+|14 October 2021 || 12 October 2021 || 8 June 2021
+|2 v 10, 4 v 1, 6 v 7, 8 v 3, 9 v 5
+|-
+|Matchday 13
+|11 November 2021 || rowspan="7" {{N/A}} || 2 September 2021
+|1 v 8, 3 v 6, 4 v 2, 7 v 9, 10 v 5
+|-
+|Matchday 14
+|16 November 2021 || 7 September 2021
+|2 v 7, 5 v 3, 6 v 1, 8 v 4, 9 v 10
+|-
+|Matchday 15
+|27–28 January 2022 || 7 October 2021
+|2 v 3, 5 v 6, 7 v 1, 9 v 8, 10 v 4
+|-
+|Matchday 16
+|1 February 2022 || 12 October 2021
+|1 v 5, 3 v 10, 4 v 7, 6 v 9, 8 v 2
+|-
+|Matchday 17
+|24–25 March 2022 || 11 November 2021
+|1 v 3, 2 v 6, 4 v 9, 7 v 10, 8 v 5
+|-
+|Matchday 18
+|29 March 2022 || 16 November 2021
+|3 v 7, 5 v 2, 6 v 4, 9 v 1, 10 v 8
+|-
+|Replay from matchday 6
+|21 September 2022 || {{n/a}}
+|4 v 8
+|}
+
+==Standings==
+<!--
+PLEASE READ BEFORE YOU UPDATE THE TABLE:
+1. FINAL SCORE ONLY: Most importantly, make sure the score is final. Don't update based on games that are still ongoing.
+2. BOTH TEAMS: Update the record of both teams (not just the winner or the team you support).
+3. EVERY COLUMN: Update every column (not just Pts). Pay close attention to GF, GA, and GD (errors will be hard to detect).
+4. CORRECT POSITIONS: Make sure the teams are in the correct positions. In particular, make sure teams with the same number of points are ranked correctly based on the tiebreakers of the tournament.
+The tiebreakers for this tournament are at [[2022 FIFA World Cup qualification#Format]].
+If in any doubt, check with standings from official website (https://www.fifa.com/worldcup/groups/preliminaries/index.html) or other reliable sources.
+--><onlyinclude>{{#invoke:Sports table|main|style=WDL
+|teamwidth=1
+|show_matches=yes
+|class_rules=[[2022 FIFA World Cup qualification#Tiebreakers|Qualification tiebreakers]]
+|source=[https://www.fifa.com/tournaments/mens/worldcup/qatar2022/qualifiers/conmebol FIFA], [https://www.conmebol.com/eliminatorias-sudamericanas-catar-2022/ CONMEBOL]
+
+<!--UPDATE standings below (including date)-->
+|update=complete
+|win_ARG=11|draw_ARG=6 |loss_ARG=0 |gf_ARG=27|ga_ARG=8
+|win_BOL=4 |draw_BOL=3 |loss_BOL=11|gf_BOL=23|ga_BOL=42
+|win_BRA=14|draw_BRA=3 |loss_BRA=0 |gf_BRA=40|ga_BRA=5
+|win_CHI=5 |draw_CHI=4 |loss_CHI=9 |gf_CHI=19|ga_CHI=26
+|win_COL=5 |draw_COL=8 |loss_COL=5 |gf_COL=20|ga_COL=19
+|win_ECU=7 |draw_ECU=5 |loss_ECU=6 |gf_ECU=27|ga_ECU=19
+|win_PAR=3 |draw_PAR=7 |loss_PAR=8 |gf_PAR=12|ga_PAR=26
+|win_PER=7 |draw_PER=3 |loss_PER=8 |gf_PER=19|ga_PER=22
+|win_URU=8 |draw_URU=4 |loss_URU=6 |gf_URU=22|ga_URU=22
+|win_VEN=3 |draw_VEN=1 |loss_VEN=14|gf_VEN=14|ga_VEN=34
+
+<!--UPDATE positions below (check tiebreakers)-->
+|team_order=BRA, ARG, URU, ECU, PER, COL, CHI, PAR, BOL, VEN
+
+<!--Update results below-->
+|match_ARG_BOL=[[2022 FIFA World Cup qualification (CONMEBOL)#ARG v BOL|3–0]]
+|match_ARG_BRA=[[2022 FIFA World Cup qualification (CONMEBOL)#ARG v BRA|0–0]]
+|match_ARG_CHI=[[2022 FIFA World Cup qualification (CONMEBOL)#ARG v CHI|1–1]]
+|match_ARG_COL=[[2022 FIFA World Cup qualification (CONMEBOL)#ARG v COL|1–0]]
+|match_ARG_ECU=[[2022 FIFA World Cup qualification (CONMEBOL)#ARG v ECU|1–0]]
+|match_ARG_PAR=[[2022 FIFA World Cup qualification (CONMEBOL)#ARG v PAR|1–1]]
+|match_ARG_PER=[[2022 FIFA World Cup qualification (CONMEBOL)#ARG v PER|1–0]]
+|match_ARG_URU=[[2022 FIFA World Cup qualification (CONMEBOL)#ARG v URU|3–0]]
+|match_ARG_VEN=[[2022 FIFA World Cup qualification (CONMEBOL)#ARG v VEN|3–0]]
+
+|match_BOL_ARG=[[2022 FIFA World Cup qualification (CONMEBOL)#BOL v ARG|1–2]]
+|match_BOL_BRA=[[2022 FIFA World Cup qualification (CONMEBOL)#BOL v BRA|0–4]]
+|match_BOL_CHI=[[2022 FIFA World Cup qualification (CONMEBOL)#BOL v CHI|2–3]]
+|match_BOL_COL=[[2022 FIFA World Cup qualification (CONMEBOL)#BOL v COL|1–1]]
+|match_BOL_ECU=[[2022 FIFA World Cup qualification (CONMEBOL)#BOL v ECU|2–3]]
+|match_BOL_PAR=[[2022 FIFA World Cup qualification (CONMEBOL)#BOL v PAR|4–0]]
+|match_BOL_PER=[[2022 FIFA World Cup qualification (CONMEBOL)#BOL v PER|1–0]]
+|match_BOL_URU=[[2022 FIFA World Cup qualification (CONMEBOL)#BOL v URU|3–0]]
+|match_BOL_VEN=[[2022 FIFA World Cup qualification (CONMEBOL)#BOL v VEN|3–1]]
+
+|match_BRA_ARG=[[2022 FIFA World Cup qualification (CONMEBOL)#BRA v ARG|{{small|Canc.}}]] |match_BRA_ARG_note=The match on 5 September 2021 was suspended after five minutes at 0–0, after Argentina walked off because Brazilian health officials entered the pitch demanding the isolation of four Argentine players accused of violating the [[COVID-19 pandemic|COVID]] quarantine rules. It was scheduled to be replayed on 21 September 2022, but was cancelled on 16 August.<ref>{{cite magazine| url=https://www.si.com/soccer/2022/08/16/fifa-cancels-brazil-argentina-world-cup-qualifier| title=FIFA Agrees to Cancel Suspended Brazil vs. Argentina World Cup Qualifier| magazine=Sports Illustrated| date=16 August 2022| access-date=17 August 2022}}</ref>
+|match_BRA_BOL=[[2022 FIFA World Cup qualification (CONMEBOL)#BRA v BOL|5–0]]
+|match_BRA_CHI=[[2022 FIFA World Cup qualification (CONMEBOL)#BRA v CHI|4–0]]
+|match_BRA_COL=[[2022 FIFA World Cup qualification (CONMEBOL)#BRA v COL|1–0]]
+|match_BRA_ECU=[[2022 FIFA World Cup qualification (CONMEBOL)#BRA v ECU|2–0]]
+|match_BRA_PAR=[[2022 FIFA World Cup qualification (CONMEBOL)#BRA v PAR|4–0]]
+|match_BRA_PER=[[2022 FIFA World Cup qualification (CONMEBOL)#BRA v PER|2–0]]
+|match_BRA_URU=[[2022 FIFA World Cup qualification (CONMEBOL)#BRA v URU|4–1]]
+|match_BRA_VEN=[[2022 FIFA World Cup qualification (CONMEBOL)#BRA v VEN|1–0]]
+
+|match_CHI_ARG=[[2022 FIFA World Cup qualification (CONMEBOL)#CHI v ARG|1–2]]
+|match_CHI_BOL=[[2022 FIFA World Cup qualification (CONMEBOL)#CHI v BOL|1–1]]
+|match_CHI_BRA=[[2022 FIFA World Cup qualification (CONMEBOL)#CHI v BRA|0–1]]
+|match_CHI_COL=[[2022 FIFA World Cup qualification (CONMEBOL)#CHI v COL|2–2]]
+|match_CHI_ECU=[[2022 FIFA World Cup qualification (CONMEBOL)#CHI v ECU|0–2]]
+|match_CHI_PAR=[[2022 FIFA World Cup qualification (CONMEBOL)#CHI v PAR|2–0]]
+|match_CHI_PER=[[2022 FIFA World Cup qualification (CONMEBOL)#CHI v PER|2–0]]
+|match_CHI_URU=[[2022 FIFA World Cup qualification (CONMEBOL)#CHI v URU|0–2]]
+|match_CHI_VEN=[[2022 FIFA World Cup qualification (CONMEBOL)#CHI v VEN|3–0]]
+
+|match_COL_ARG=[[2022 FIFA World Cup qualification (CONMEBOL)#COL v ARG|2–2]]
+|match_COL_BOL=[[2022 FIFA World Cup qualification (CONMEBOL)#COL v BOL|3–0]]
+|match_COL_BRA=[[2022 FIFA World Cup qualification (CONMEBOL)#COL v BRA|0–0]]
+|match_COL_CHI=[[2022 FIFA World Cup qualification (CONMEBOL)#COL v CHI|3–1]]
+|match_COL_ECU=[[2022 FIFA World Cup qualification (CONMEBOL)#COL v ECU|0–0]]
+|match_COL_PAR=[[2022 FIFA World Cup qualification (CONMEBOL)#COL v PAR|0–0]]
+|match_COL_PER=[[2022 FIFA World Cup qualification (CONMEBOL)#COL v PER|0–1]]
+|match_COL_URU=[[2022 FIFA World Cup qualification (CONMEBOL)#COL v URU|0–3]]
+|match_COL_VEN=[[2022 FIFA World Cup qualification (CONMEBOL)#COL v VEN|3–0]]
+
+|match_ECU_ARG=[[2022 FIFA World Cup qualification (CONMEBOL)#ECU v ARG|1–1]]
+|match_ECU_BOL=[[2022 FIFA World Cup qualification (CONMEBOL)#ECU v BOL|3–0]]
+|match_ECU_BRA=[[2022 FIFA World Cup qualification (CONMEBOL)#ECU v BRA|1–1]]
+|match_ECU_CHI=[[2022 FIFA World Cup qualification (CONMEBOL)#ECU v CHI|0–0]]
+|match_ECU_COL=[[2022 FIFA World Cup qualification (CONMEBOL)#ECU v COL|6–1]]
+|match_ECU_PAR=[[2022 FIFA World Cup qualification (CONMEBOL)#ECU v PAR|2–0]]
+|match_ECU_PER=[[2022 FIFA World Cup qualification (CONMEBOL)#ECU v PER|1–2]]
+|match_ECU_URU=[[2022 FIFA World Cup qualification (CONMEBOL)#ECU v URU|4–2]]
+|match_ECU_VEN=[[2022 FIFA World Cup qualification (CONMEBOL)#ECU v VEN|1–0]]
+
+|match_PAR_ARG=[[2022 FIFA World Cup qualification (CONMEBOL)#PAR v ARG|0–0]]
+|match_PAR_BOL=[[2022 FIFA World Cup qualification (CONMEBOL)#PAR v BOL|2–2]]
+|match_PAR_BRA=[[2022 FIFA World Cup qualification (CONMEBOL)#PAR v BRA|0–2]]
+|match_PAR_CHI=[[2022 FIFA World Cup qualification (CONMEBOL)#PAR v CHI|0–1]]
+|match_PAR_COL=[[2022 FIFA World Cup qualification (CONMEBOL)#PAR v COL|1–1]]
+|match_PAR_ECU=[[2022 FIFA World Cup qualification (CONMEBOL)#PAR v ECU|3–1]]
+|match_PAR_PER=[[2022 FIFA World Cup qualification (CONMEBOL)#PAR v PER|2–2]]
+|match_PAR_URU=[[2022 FIFA World Cup qualification (CONMEBOL)#PAR v URU|0–1]]
+|match_PAR_VEN=[[2022 FIFA World Cup qualification (CONMEBOL)#PAR v VEN|2–1]]
+
+|match_PER_ARG=[[2022 FIFA World Cup qualification (CONMEBOL)#PER v ARG|0–2]]
+|match_PER_BOL=[[2022 FIFA World Cup qualification (CONMEBOL)#PER v BOL|3–0]]
+|match_PER_BRA=[[2022 FIFA World Cup qualification (CONMEBOL)#PER v BRA|2–4]]
+|match_PER_CHI=[[2022 FIFA World Cup qualification (CONMEBOL)#PER v CHI|2–0]]
+|match_PER_COL=[[2022 FIFA World Cup qualification (CONMEBOL)#PER v COL|0–3]]
+|match_PER_ECU=[[2022 FIFA World Cup qualification (CONMEBOL)#PER v ECU|1–1]]
+|match_PER_PAR=[[2022 FIFA World Cup qualification (CONMEBOL)#PER v PAR|2–0]]
+|match_PER_URU=[[2022 FIFA World Cup qualification (CONMEBOL)#PER v URU|1–1]]
+|match_PER_VEN=[[2022 FIFA World Cup qualification (CONMEBOL)#PER v VEN|1–0]]
+
+|match_URU_ARG=[[2022 FIFA World Cup qualification (CONMEBOL)#URU v ARG|0–1]]
+|match_URU_BOL=[[2022 FIFA World Cup qualification (CONMEBOL)#URU v BOL|4–2]]
+|match_URU_BRA=[[2022 FIFA World Cup qualification (CONMEBOL)#URU v BRA|0–2]]
+|match_URU_CHI=[[2022 FIFA World Cup qualification (CONMEBOL)#URU v CHI|2–1]]
+|match_URU_COL=[[2022 FIFA World Cup qualification (CONMEBOL)#URU v COL|0–0]]
+|match_URU_ECU=[[2022 FIFA World Cup qualification (CONMEBOL)#URU v ECU|1–0]]
+|match_URU_PAR=[[2022 FIFA World Cup qualification (CONMEBOL)#URU v PAR|0–0]]
+|match_URU_PER=[[2022 FIFA World Cup qualification (CONMEBOL)#URU v PER|1–0]]
+|match_URU_VEN=[[2022 FIFA World Cup qualification (CONMEBOL)#URU v VEN|4–1]]
+
+|match_VEN_ARG=[[2022 FIFA World Cup qualification (CONMEBOL)#VEN v ARG|1–3]]
+|match_VEN_BOL=[[2022 FIFA World Cup qualification (CONMEBOL)#VEN v BOL|4–1]]
+|match_VEN_BRA=[[2022 FIFA World Cup qualification (CONMEBOL)#VEN v BRA|1–3]]
+|match_VEN_CHI=[[2022 FIFA World Cup qualification (CONMEBOL)#VEN v CHI|2–1]]
+|match_VEN_COL=[[2022 FIFA World Cup qualification (CONMEBOL)#VEN v COL|0–1]]
+|match_VEN_ECU=[[2022 FIFA World Cup qualification (CONMEBOL)#VEN v ECU|2–1]]
+|match_VEN_PAR=[[2022 FIFA World Cup qualification (CONMEBOL)#VEN v PAR|0–1]]
+|match_VEN_PER=[[2022 FIFA World Cup qualification (CONMEBOL)#VEN v PER|1–2]]
+|match_VEN_URU=[[2022 FIFA World Cup qualification (CONMEBOL)#VEN v URU|0–0]]
+
+<!-- NOTE: USE fb TEMPLATE FOR NAME AND flagdeco FOR SHORT -->
+|name_ARG={{fb|ARG}} |short_ARG={{flagdeco|ARG}}
+|name_BOL={{fb|BOL}} |short_BOL={{flagdeco|BOL}}
+|name_BRA={{fb|BRA}} |short_BRA={{flagdeco|BRA}}
+|name_CHI={{fb|CHI}} |short_CHI={{flagdeco|CHI}}
+|name_COL={{fb|COL}} |short_COL={{flagdeco|COL}}
+|name_ECU={{fb|ECU}} |short_ECU={{flagdeco|ECU}}
+|name_PAR={{fb|PAR}} |short_PAR={{flagdeco|PAR}}
+|name_PER={{fb|PER}} |short_PER={{flagdeco|PER|football}}
+|name_URU={{fb|URU}} |short_URU={{flagdeco|URU}}
+|name_VEN={{fb|VEN}} |short_VEN={{flagdeco|VEN|state}}
+
+<!--Update qualifications below-->
+|res_col_header=Q
+|result1=WC |result2=WC |result3=WC |result4=WC |result5=PO
+|col_WC=green1 |text_WC=Qualification for {{nobreak|[[2022 FIFA World Cup]]}}
+|col_PO=blue1 |text_PO=Advance to {{nobreak|[[2022 FIFA World Cup qualification (inter-confederation play-offs)|inter-confederation play-offs]]}}
+}}</onlyinclude>
+
+==Matches==
+
+===Matchday 1===
+{{Football box
+|id=PAR v PER
+|date       ={{Start date|2020|10|8|df=y}}
+|time       = {{UTZ|19:30|-3}}
+|team1      = {{fb-rt|PAR}}
+|score      = 2–2
+|team2      = {{fb|PER}}
+|goals1     =
+*[[Ángel Romero (footballer)|Á. Romero]] {{goal|66||81}}
+|goals2     =
+*[[André Carrillo|Carrillo]] {{goal|52||85}}
+|stadium    = [[Estadio Defensores del Chaco]], Asunción
+|attendance = 0
+|referee    = [[Néstor Pitana]] ([[Argentine Football Association|Argentina]])
+|report=[https://www.fifa.com/fifaplus/en/match-centre/match/520/282735/282737/400104578 Report (FIFA)]<br />[http://www.conmebol.com/analisis-del-partido?competition=342&season=112022&match=2043596 Report (CONMEBOL)]
+}}
+----
+{{Football box
+|id=URU v CHI
+|date={{Start date|2020|10|8|df=y}}
+|time={{UTZ|19:45|-3}}
+|team1={{fb-rt|URU}}
+|score=2–1
+|team2={{fb|CHI}}
+|goals1=
+*[[Luis Suárez|L. Suárez]] {{goal|39|pen.}}
+*[[Maxi Gómez|Gómez]] {{goal|90+3}}
+|goals2=
+*[[Alexis Sánchez|Sánchez]] {{goal|54}}
+|stadium=[[Estadio Centenario]], Montevideo
+|attendance= 0
+|referee=[[Éber Aquino]] ([[Paraguayan Football Association|Paraguay]])
+|report=[https://www.fifa.com/fifaplus/en/match-centre/match/520/282735/282737/400104567 Report (FIFA)]<br />[http://www.conmebol.com/analisis-del-partido?competition=342&season=112022&match=2043593 Report (CONMEBOL)]
+}}
+----
+{{Football box
+|id=ARG v ECU
+|date={{Start date|2020|10|8|df=y}}
+|time={{UTZ|21:30|-3}}
+|team1={{fb-rt|ARG}}
+|score=1–0
+|team2={{fb|ECU}}
+|goals1=
+*[[Lionel Messi|Messi]] {{goal|13|pen.}}
+|goals2=
+|stadium=[[La Bombonera|Estadio Alberto J. Armando]], Buenos Aires
+|attendance= 0
+|referee=[[Roberto Tobar]] ([[Football Federation of Chile|Chile]])
+|report=[https://www.fifa.com/fifaplus/en/match-centre/match/520/282735/282737/400104560 Report (FIFA)]<br />[http://www.conmebol.com/analisis-del-partido?competition=342&season=112022&match=2043597 Report (CONMEBOL)]
+}}
+----
+{{Football box
+|id=COL v VEN
+|date={{Start date|2020|10|9|df=y}}
+|time={{UTZ|18:30|-5}}
+|team1={{fb-rt|COL}}
+|score=3–0
+|team2={{fb|VEN}}
+|goals1=
+*[[Duván Zapata|Zapata]] {{goal|16}}
+*[[Luis Muriel|Muriel]] {{goal|26||45+3}}
+|goals2=
+|stadium=[[Estadio Metropolitano Roberto Meléndez]], [[Barranquilla]]
+|attendance= 0
+|referee=[[Guillermo Guerrero]] ([[Ecuadorian Football Federation|Ecuador]])
+|report=[https://www.fifa.com/fifaplus/en/match-centre/match/520/282735/282737/400104564 Report (FIFA)]<br />[http://www.conmebol.com/analisis-del-partido?competition=342&season=112022&match=2043594 Report (CONMEBOL)]
+}}
+----
+{{Football box
+|id=BRA v BOL
+|date={{Start date|2020|10|9|df=y}}
+|time={{UTZ|21:30|-3}}
+|team1={{fb-rt|BRA}}
+|score=5–0
+|team2={{fb|BOL}}
+|goals1=
+*[[Marquinhos]] {{goal|16}}
+*[[Roberto Firmino|Firmino]] {{goal|30||49}}
+*[[José María Carrasco|Carrasco]] {{goal|66|o.g.}}
+*[[Philippe Coutinho|Coutinho]] {{goal|73}}
+|goals2=
+|stadium=[[Arena Corinthians|Neo Química Arena]], São Paulo
+|attendance= 0
+|referee=[[Leodán González]] ([[Uruguayan Football Association|Uruguay]])
+|report=[https://www.fifa.com/fifaplus/en/match-centre/match/520/282735/282737/400104556 Report (FIFA)]<br />[http://www.conmebol.com/analisis-del-partido?competition=342&season=112022&match=2043595 Report (CONMEBOL)]
+}}
+
+===Matchday 2===
+{{Football box
+|id=BOL v ARG
+|date={{Start date|2020|10|13|df=y}}
+|time={{UTZ|16:00|-4}}
+|team1={{fb-rt|BOL}}
+|score=1–2
+|team2={{fb|ARG}}
+|goals1=
+*[[Marcelo Martins Moreno|Moreno]] {{goal|24}}
+|goals2=
+*[[Lautaro Martínez|La. Martínez]] {{goal|45}}
+*[[Joaquín Correa|J. Correa]] {{goal|79}}
+|stadium=[[Estadio Hernando Siles]], La Paz
+|attendance= 0
+|referee=[[Diego Haro]] ([[Peruvian Football Federation|Peru]])
+|report=[https://www.fifa.com/fifaplus/en/match-centre/match/520/282735/282737/400104549 Report (FIFA)]<br />[http://www.conmebol.com/analisis-del-partido?competition=342&season=112022&match=2043600 Report (CONMEBOL)]
+}}
+----
+{{Football box
+|id=ECU v URU
+|date={{Start date|2020|10|13|df=y}}
+|time={{UTZ|16:00|−5}}
+|team1={{fb-rt|ECU}}
+|score=4–2
+|team2={{fb|URU}}
+|goals1=
+*[[Moisés Caicedo|M. Caicedo]] {{goal|14}}
+*[[Michael Estrada|Estrada]] {{goal|45+3||52}}
+*[[Gonzalo Plata|Plata]] {{goal|75}}
+|goals2=
+*[[Luis Suárez|L. Suárez]] {{goal|83|pen.|90+5|pen.}}
+|stadium=[[Estadio Rodrigo Paz Delgado]], Quito
+|attendance= 0
+|referee=[[Wilmar Roldán]] ([[Colombian Football Federation|Colombia]])
+|report=[https://www.fifa.com/fifaplus/en/match-centre/match/520/282735/282737/400104575 Report (FIFA)]<br />[http://www.conmebol.com/analisis-del-partido?competition=342&season=112022&match=2043602 Report (CONMEBOL)]
+}}
+----
+{{Football box
+|id=VEN v PAR
+|date={{Start date|2020|10|13|df=y}}
+|time={{UTZ|18:00|−4}}
+|team1={{fb-rt|VEN}}
+|score=0–1
+|team2={{fb|PAR}}
+|goals1=
+|goals2=
+*[[Gastón Giménez (footballer, born 1991)|Giménez]] {{goal|85}}
+|stadium=[[Estadio Metropolitano de Mérida]], [[Mérida, Mérida|Mérida]]
+|attendance= 0
+|referee=[[Andrés Rojas]] ([[Colombian Football Federation|Colombia]])
+|report=[https://www.fifa.com/fifaplus/en/match-centre/match/520/282735/282737/400104581 Report (FIFA)]<br />[http://www.conmebol.com/analisis-del-partido?competition=342&season=112022&match=2043599 Report (CONMEBOL)]
+}}
+----
+{{Football box
+|id=PER v BRA
+|date={{Start date|2020|10|13|df=y}}
+|time={{UTZ|19:00|−5}}{{refn|group=note|The Peru v Brazil match was originally scheduled on 13 October 2020, 21:15 local time,<ref name="kickoff_times_1">{{cite tweet|author=CONMEBOL Twitter|user=CONMEBOL|number=1308115542201511942|title=¡Fechas y horarios del primer combo Clasificatorio al Mundial de Catar 2022!|date=21 September 2020|language=es}}</ref> but was rescheduled to 19:00 local time since Peru had a curfew which begins at 23:00 as a preventive measure against the [[COVID-19 pandemic in Peru|COVID-19 pandemic]].<ref>{{cite tweet|author=[[Peruvian Football Federation]] Twitter|user=TuFPF|number=1308845988480720898|title=A través de esta carta, @CONMEBOL hizo oficial el cambio de horario para el partido entre nuestra @SeleccionPeru y @CBF_Futebol por la segunda fecha de las Clasificatorias a Qatar 2022. El encuentro se jugará el martes 13 de octubre a las 19:00 horas.|date=23 September 2020|language=es}}</ref><ref>{{cite web|url=https://rpp.pe/futbol/seleccion-peruana/peru-vs-brasil-conmebol-hizo-oficial-cambio-de-horario-del-partido-por-las-eliminatorias-qatar-2022-en-lima-seleccion-peruana-noticia-1294273|title=Perú vs. Brasil: Conmebol hizo oficial el cambio de horario del partido por las Eliminatorias en Lima|publisher=RPP Noticias|date=23 September 2020|language=es}}</ref>}}
+|team1={{fb-rt|PER}}
+|score=2–4
+|team2={{fb|BRA}}
+|goals1=
+*[[André Carrillo|Carrillo]] {{goal|5}}
+*[[Renato Tapia|Tapia]] {{goal|59}}
+|goals2=
+*[[Neymar]] {{goal|28|pen.|83|pen.|90+4}}
+*[[Richarlison]] {{goal|64}}
+|stadium=[[Estadio Nacional del Perú|Estadio Nacional]], Lima
+|attendance= 0
+|referee=[[Julio Bascuñán]] ([[Football Federation of Chile|Chile]])
+|report=[https://www.fifa.com/fifaplus/en/match-centre/match/520/282735/282737/400104571 Report (FIFA)]<br />[http://www.conmebol.com/analisis-del-partido?competition=342&season=112022&match=2043598 Report (CONMEBOL)]
+}}
+----
+{{Football box
+|id=CHI v COL
+|date={{Start date|2020|10|13|df=y}}
+|time={{UTZ|21:30|−3}}{{refn|group=note|The Chile v Colombia match was originally scheduled on 13 October 2020, 20:00 local time,<ref name="kickoff_times_1" /> but was rescheduled to 21:30 local to avoid a clash with a [[party political broadcast|scheduled political broadcast]] in Chile about [[2020 Chilean national plebiscite|a constitutional plebiscite]].<ref>{{cite web|url=https://www.24horas.cl/deportes/la-roja/conmebol-confirmo-cambio-de-horario-del-partido-entre-chile-y-colombia-por-eliminatorias-4463258|title=Conmebol confirmó cambio de horario del partido entre Chile y Colombia por eliminatorias|publisher=24 Horas|date=24 September 2020|language=es}}</ref>}}
+|team1={{fb-rt|CHI}}
+|score=2–2
+|team2={{fb|COL}}
+|goals1=
+*[[Arturo Vidal|Vidal]] {{goal|37|pen.}}
+*[[Alexis Sánchez|Sánchez]] {{goal|41}}
+|goals2=
+*[[Jefferson Lerma|Lerma]] {{goal|6}}
+*[[Radamel Falcao|Falcao]] {{goal|90+1}}
+|stadium=[[Estadio Nacional Julio Martínez Prádanos]], Santiago
+|attendance= 0
+|referee=[[Darío Herrera (referee)|Darío Herrera]] ([[Argentine Football Association|Argentina]])
+|report=[https://www.fifa.com/fifaplus/en/match-centre/match/520/282735/282737/400104553 Report (FIFA)]<br />[http://www.conmebol.com/analisis-del-partido?competition=342&season=112022&match=2043601 Report (CONMEBOL)]
+}}
+
+===Matchday 3===
+{{Football box
+|id=BOL v ECU
+|date={{Start date|2020|11|12|df=y}}
+|time={{UTZ|16:00|−4}}
+|team1={{fb-rt|BOL}}
+|score=2–3
+|team2={{fb|ECU}}
+|goals1=
+*[[Juan Carlos Arce|Arce]] {{goal|37}}
+*[[Marcelo Martins Moreno|Moreno]] {{goal|60}}
+|goals2=
+*[[Beder Caicedo|B. Caicedo]] {{goal|46}}
+*[[Ángel Mena|Mena]] {{goal|55}}
+*[[Carlos Gruezo (footballer, born 1995)|Gruezo]] {{goal|88|pen.}}
+|stadium=[[Estadio Hernando Siles]], La Paz
+|attendance= 0
+|referee=[[Wilton Sampaio]] ([[Brazilian Football Confederation|Brazil]])
+|report=[https://www.fifa.com/fifaplus/en/match-centre/match/520/282735/282737/400104550 Report (FIFA)]<br />[http://www.conmebol.com/analisis-del-partido?competition=342&season=112022&match=2043605 Report (CONMEBOL)]
+}}
+----
+{{Football box
+|id=ARG v PAR
+|date={{Start date|2020|11|12|df=y}}
+|time={{UTZ|21:00|−3}}
+|team1={{fb-rt|ARG}}
+|score=1–1
+|team2={{fb|PAR}}
+|goals1=
+*[[Nicolás González (footballer, born 1998)|González]] {{goal|41}}
+|goals2=
+*[[Ángel Romero (footballer)|Á. Romero]] {{goal|21|pen.}}
+|stadium=[[La Bombonera|Estadio Alberto J. Armando]], Buenos Aires
+|attendance= 0
+|referee=[[Raphael Claus]] ([[Brazilian Football Confederation|Brazil]])
+|report=[https://www.fifa.com/fifaplus/en/match-centre/match/520/282735/282737/400104561 Report (FIFA)]<br />[http://www.conmebol.com/analisis-del-partido?competition=342&season=112022&match=2043606 Report (CONMEBOL)]
+}}
+----
+{{Football box
+|id=COL v URU
+|date={{Start date|2020|11|13|df=y}}
+|time={{UTZ|15:30|−5}}
+|team1={{fb-rt|COL}}
+|score=0–3
+|team2={{fb|URU}}
+|goals1=
+|goals2=
+*[[Edinson Cavani|Cavani]] {{goal|5}}
+*[[Luis Suárez|L. Suárez]] {{goal|54|pen.}}
+*[[Darwin Núñez|Núñez]] {{goal|73}}
+|stadium= [[Estadio Metropolitano Roberto Meléndez]], [[Barranquilla]]
+|attendance= 0
+|referee=[[Fernando Rapallini]] ([[Argentine Football Association|Argentina]])
+|report=[https://www.fifa.com/fifaplus/en/match-centre/match/520/282735/282737/400104565 Report (FIFA)]<br />[http://www.conmebol.com/analisis-del-partido?competition=342&season=112022&match=2043603 Report (CONMEBOL)]
+}}
+----
+{{Football box
+|id=CHI v PER
+|date={{Start date|2020|11|13|df=y}}
+|time={{UTZ|20:00|−3}}
+|team1={{fb-rt|CHI}}
+|score=2–0
+|team2={{fb|PER}}
+|goals1=
+*[[Arturo Vidal|Vidal]] {{goal|19||34}}
+|goals2=
+|stadium=[[Estadio Nacional Julio Martínez Prádanos]], Santiago
+|attendance= 0
+|referee=[[Esteban Ostojich]] ([[Uruguayan Football Association|Uruguay]])
+|report=[https://www.fifa.com/fifaplus/en/match-centre/match/520/282735/282737/400104554 Report (FIFA)]<br />[http://www.conmebol.com/analisis-del-partido?competition=342&season=112022&match=2043607 Report (CONMEBOL)]
+}}
+----
+{{Football box
+|id=BRA v VEN
+|date={{Start date|2020|11|13|df=y}}
+|time={{UTZ|21:30|−3}}
+|team1={{fb-rt|BRA}}
+|score=1–0
+|team2={{fb|VEN}}
+|goals1=
+*[[Roberto Firmino|Firmino]] {{goal|66}}
+|goals2=
+|stadium= [[Estádio do Morumbi]], São Paulo
+|attendance= 0
+|referee=[[Juan Gabriel Benítez]] ([[Paraguayan Football Association|Paraguay]])
+|report=[https://www.fifa.com/fifaplus/en/match-centre/match/520/282735/282737/400104557 Report (FIFA)]<br />[http://www.conmebol.com/analisis-del-partido?competition=342&season=112022&match=2043604 Report (CONMEBOL)]
+}}
+
+===Matchday 4===
+{{Football box
+|id=VEN v CHI
+|date={{Start date|2020|11|17|df=y}}
+|time={{UTZ|17:00|-4}}
+|team1={{fb-rt|VEN}}
+|score=2–1
+|team2={{fb|CHI}}
+|goals1=
+*[[Luis Mago|Mago]] {{goal|9}}
+*[[Salomón Rondón|Rondón]] {{goal|81}}
+|goals2=
+*[[Arturo Vidal|Vidal]] {{goal|15}}
+|stadium= [[Estadio Olímpico (Caracas)|Estadio Olímpico de la UCV]], Caracas
+|attendance=0
+|referee=[[Patricio Loustau]] ([[Argentine Football Association|Argentina]])
+|report=[https://www.fifa.com/fifaplus/en/match-centre/match/520/282735/282737/400104582 Report (FIFA)]<br />[http://www.conmebol.com/analisis-del-partido?competition=342&season=112022&match=2043610 Report (CONMEBOL)]
+}}
+----
+{{Football box
+|id=ECU v COL
+|date={{Start date|2020|11|17|df=y}}
+|time={{UTZ|16:00|-5}}
+|team1={{fb-rt|ECU}}
+|score=6–1
+|team2={{fb|COL}}
+|goals1=
+*[[Robert Arboleda|Arboleda]] {{goal|7}}
+*[[Ángel Mena|Mena]] {{goal|9}}
+*[[Michael Estrada|Estrada]] {{goal|32}}
+*[[Xavier Arreaga|Arreaga]] {{goal|39}}
+*[[Gonzalo Plata|Plata]] {{goal|78}}
+*[[Pervis Estupiñán|Estupiñán]] {{goal|90+1}}
+|goals2=
+*[[James Rodríguez|Rodríguez]] {{goal|45+1|pen.}}
+|stadium=[[Estadio Rodrigo Paz Delgado]], Quito
+|attendance=0
+|referee=[[Jesús Valenzuela]] ([[Venezuelan Football Federation|Venezuela]])
+|report=[https://www.fifa.com/fifaplus/en/match-centre/match/520/282735/282737/400104576 Report (FIFA)]<br />[http://www.conmebol.com/analisis-del-partido?competition=342&season=112022&match=2043612 Report (CONMEBOL)]
+}}
+----
+{{Football box
+|id=URU v BRA
+|date={{Start date|2020|11|17|df=y}}
+|time={{UTZ|20:00|-3}}
+|team1={{fb-rt|URU}}
+|score=0–2
+|team2={{fb|BRA}}
+|goals1=
+|goals2=
+*[[Arthur Melo|Arthur]] {{goal|33}}
+*[[Richarlison]] {{goal|45}}
+|stadium=[[Estadio Centenario]], Montevideo
+|attendance=0
+|referee=[[Roberto Tobar]] ([[Chilean Football Federation|Chile]])
+|report=[https://www.fifa.com/fifaplus/en/match-centre/match/520/282735/282737/400104568 Report (FIFA)]<br />[http://www.conmebol.com/analisis-del-partido?competition=342&season=112022&match=2043608 Report (CONMEBOL)]
+}}
+----
+{{Football box
+|id=PAR v BOL
+|date={{Start date|2020|11|17|df=y}}
+|time={{UTZ|20:00|-3}}
+|team1={{fb-rt|PAR}}
+|score=2–2
+|team2={{fb|BOL}}
+|goals1=
+*[[Ángel Romero (footballer)|Á. Romero]] {{goal|19|pen.}}
+*[[Alejandro Romero Gamarra|Romero Gamarra]] {{goal|72}}
+|goals2=
+*[[Marcelo Martins Moreno|Moreno]] {{goal|41}}
+*[[Boris Céspedes|Céspedes]] {{goal|45}}
+|stadium=[[Estadio Defensores del Chaco]], Asunción
+|attendance=0
+|referee=[[Alexis Herrera (referee)|Alexis Herrera]] ([[Venezuelan Football Federation|Venezuela]])
+|report=[https://www.fifa.com/fifaplus/en/match-centre/match/520/282735/282737/400104579 Report (FIFA)]<br />[http://www.conmebol.com/analisis-del-partido?competition=342&season=112022&match=2043611 Report (CONMEBOL)]
+}}
+----
+{{Football box
+|id=PER v ARG
+|date={{Start date|2020|11|17|df=y}}
+|time={{UTZ|19:30|-5}}
+|team1={{fb-rt|PER}}
+|score=0–2
+|team2={{fb|ARG}}
+|goals1=
+|goals2=
+*[[Nicolás González (footballer, born 1998)|González]] {{goal|17}}
+*[[Lautaro Martínez|La. Martínez]] {{goal|28}}
+|stadium=[[Estadio Nacional del Perú|Estadio Nacional]], Lima 
+|attendance=0
+|referee=[[Wilmar Roldán]] ([[Colombian Football Federation|Colombia]])
+|report=[https://www.fifa.com/fifaplus/en/match-centre/match/520/282735/282737/400104572 Report (FIFA)]<br />[http://www.conmebol.com/analisis-del-partido?competition=342&season=112022&match=2043609 Report (CONMEBOL)]
+}}
+
+===Matchday 7===
+{{Football box
+|id=BOL v VEN
+|date={{Start date|2021|6|3|df=y}}
+|time={{UTZ|16:00|−4}}
+|team1={{fb-rt|BOL}}
+|score=3–1
+|team2={{fb|VEN}}
+|goals1=
+*[[Marcelo Martins Moreno|Moreno]] {{goal|5||83}}
+*[[Diego Bejarano|Di. Bejarano]] {{goal|60}}
+|goals2=
+*[[Jhon Chancellor|Chancellor]] {{goal|26}}
+|stadium=[[Estadio Hernando Siles]], La Paz
+|attendance=0
+|referee=[[Jhon Ospina]] ([[Colombian Football Federation|Colombia]])
+|report=[https://www.fifa.com/fifaplus/en/match-centre/match/520/282735/282737/400104552 Report (FIFA)]<br/>[https://www.conmebol.com/analisis-del-partido?competition=342&season=112022&match=2043626 Report (CONMEBOL)]
+}}
+----
+{{Football box
+|id=URU v PAR
+|date={{Start date|2021|6|3|df=y}}
+|time={{UTZ|19:00|-3}}
+|team1={{fb-rt|URU}}
+|score=0–0
+|team2={{fb|PAR}}
+|goals1=
+|goals2=
+|stadium=[[Estadio Centenario]], Montevideo
+|attendance=0
+|referee=[[Wilmar Roldán]] ([[Colombian Football Federation|Colombia]])
+|report=[https://www.fifa.com/fifaplus/en/match-centre/match/520/282735/282737/400104570 Report (FIFA)]<br/>[https://www.conmebol.com/analisis-del-partido?competition=342&season=112022&match=2043623 Report (CONMEBOL)]
+}}
+----
+{{Football box
+|id=ARG v CHI
+|date={{Start date|2021|6|3|df=y}}
+|time={{UTZ|21:00|-3}}
+|team1={{fb-rt|ARG}}
+|score=1–1
+|team2={{fb|CHI}}
+|goals1=
+*[[Lionel Messi|Messi]] {{goal|23|pen.}}
+|goals2=
+*[[Alexis Sánchez|Sánchez]] {{goal|36}}
+|stadium=[[Estadio Único Madre de Ciudades]], [[Santiago del Estero]]
+|attendance=0
+|referee=[[Jesús Valenzuela]] ([[Venezuelan Football Federation|Venezuela]])
+|report=[https://www.fifa.com/fifaplus/en/match-centre/match/520/282735/282737/400104563 Report (FIFA)]<br/>[https://www.conmebol.com/analisis-del-partido?competition=342&season=112022&match=2043627 Report (CONMEBOL)]
+}}
+----
+{{Football box
+|id=PER v COL
+|date={{Start date|2021|6|3|df=y}}
+|time={{UTZ|21:00|-5}}{{refn|group=note|The Peru v Colombia match was originally scheduled on 3 June 2021, 20:00 local time,<ref>{{cite web|url=https://www.conmebol.com/es/vuelven-las-emocionantes-eliminatorias-sudamericanas-camino-al-mundial-catar-2022|title=Vuelven las emocionantes Eliminatorias Sudamericanas, camino al Mundial – Catar 2022|publisher=CONMEBOL.com|date=6 May 2021|language=es|archive-url=https://web.archive.org/web/20210506215300/https://www.conmebol.com/es/vuelven-las-emocionantes-eliminatorias-sudamericanas-camino-al-mundial-catar-2022|archive-date=6 May 2021}}</ref> but was rescheduled to 21:00 local time due to broadcast matters.<ref>{{cite web|url=https://canaln.pe/deportes/peru-vs-colombia-conmebol-oficializo-cambio-horario-partido-eliminatorias-n434848|title=Conmebol oficializó el cambio de horario del Perú vs. Colombia|publisher=[[Canal N]]|date=11 May 2021|language=es}}</ref>}}
+|team1={{fb-rt|PER}}
+|score=0–3
+|team2={{fb|COL}}
+|goals1=
+|goals2=
+*[[Yerry Mina|Mina]] {{goal|40}}
+*[[Mateus Uribe|Uribe]] {{goal|49}}
+*[[Luis Díaz (footballer, born 1997)|Díaz]] {{goal|55}}
+|stadium=[[Estadio Nacional del Perú|Estadio Nacional]], Lima
+|attendance=0
+|referee=[[Wilton Sampaio]] ([[Brazilian Football Confederation|Brazil]])
+|report=[https://www.fifa.com/fifaplus/en/match-centre/match/520/282735/282737/400104574 Report (FIFA)]<br/>[https://www.conmebol.com/analisis-del-partido?competition=342&season=112022&match=2043624 Report (CONMEBOL)]
+}}
+----
+{{Football box
+|id=BRA v ECU
+|date={{Start date|2021|6|4|df=y}}
+|time={{UTZ|21:30|-3}}
+|team1={{fb-rt|BRA}}
+|score=2–0
+|team2={{fb|ECU}}
+|goals1=
+*[[Richarlison]] {{goal|65}}
+*[[Neymar]] {{goal|90+4|pen.}}
+|goals2=
+|stadium= [[Estádio Beira-Rio]], [[Porto Alegre]]
+|attendance=0
+|referee=[[Alexis Herrera (referee)|Alexis Herrera]] ([[Venezuelan Football Federation|Venezuela]])
+|report=[https://www.fifa.com/fifaplus/en/match-centre/match/520/282735/282737/400104559 Report (FIFA)]<br/>[https://www.conmebol.com/analisis-del-partido?competition=342&season=112022&match=2043625 Report (CONMEBOL)]
+}}
+
+===Matchday 8===
+{{Football box
+|id=ECU v PER
+|date={{Start date|2021|6|8|df=y}}
+|time={{UTZ|16:00|-5}}
+|team1={{fb-rt|ECU}}
+|score=1–2
+|team2={{fb|PER}}
+|goals1=
+*[[Gonzalo Plata|Plata]] {{goal|90+3}}
+|goals2=
+*[[Christian Cueva|Cueva]] {{goal|63}}
+*[[Luis Advíncula|Advíncula]] {{goal|89}}
+|stadium=[[Estadio Rodrigo Paz Delgado]], Quito
+|attendance=0
+|referee=[[Esteban Ostojich]] ([[Uruguayan Football Association|Uruguay]])
+|report=[https://www.fifa.com/fifaplus/en/match-centre/match/520/282735/282737/400104607 Report (FIFA)]<br/>[https://www.conmebol.com/analisis-del-partido?competition=342&season=112022&match=2043632 Report (CONMEBOL)]
+}}
+----
+{{Football box
+|id=VEN v URU
+|date={{Start date|2021|6|8|df=y}}
+|time={{UTZ|18:30|-4}}
+|team1={{fb-rt|VEN}}
+|score=0–0
+|team2={{fb|URU}}
+|goals1=
+|goals2=
+|stadium=[[Estadio Olímpico (Caracas)|Estadio Olímpico de la UCV]], Caracas
+|attendance=0
+|referee=[[Anderson Daronco]] ([[Brazilian Football Confederation|Brazil]])
+|report=[https://www.fifa.com/fifaplus/en/match-centre/match/520/282735/282737/400104615 Report (FIFA)]<br/>[https://www.conmebol.com/analisis-del-partido?competition=342&season=112022&match=2043629 Report (CONMEBOL)]
+}}
+----
+{{Football box
+|id=COL v ARG
+|date={{Start date|2021|6|8|df=y}}
+|time={{UTZ|18:00|-5}}
+|team1={{fb-rt|COL}}
+|score=2–2
+|team2={{fb|ARG}}
+|goals1=
+*[[Luis Muriel|Muriel]] {{goal|51|pen.}}
+*[[Miguel Borja|Borja]] {{goal|90+4}}
+|goals2=
+*[[Cristian Romero (footballer, born 1998)|Romero]] {{goal|3}}
+*[[Leandro Paredes|Paredes]] {{goal|8}}
+|stadium=[[Estadio Metropolitano Roberto Meléndez]], [[Barranquilla]]
+|attendance=10,000
+|referee=[[Roberto Tobar]] ([[Football Federation of Chile|Chile]])
+|report=[https://www.fifa.com/fifaplus/en/match-centre/match/520/282735/282737/400104597 Report (FIFA)]<br/>[https://www.conmebol.com/analisis-del-partido?competition=342&season=112022&match=2043628 Report (CONMEBOL)]
+}}
+----
+{{Football box
+|id=PAR v BRA
+|date={{Start date|2021|6|8|df=y}}
+|time={{UTZ|20:30|-4}}
+|team1={{fb-rt|PAR}}
+|score=0–2
+|team2={{fb|BRA}}
+|goals1=
+|goals2=
+*[[Neymar]] {{goal|4}}
+*[[Lucas Paquetá|Paquetá]] {{goal|90+3}}
+|stadium=[[Estadio Defensores del Chaco]], Asunción
+|attendance=0
+|referee=[[Patricio Loustau]] ([[Argentine Football Association|Argentina]])
+|report=[https://www.fifa.com/fifaplus/en/match-centre/match/520/282735/282737/400104611 Report (FIFA)]<br/>[https://www.conmebol.com/analisis-del-partido?competition=342&season=112022&match=2043630 Report (CONMEBOL)]
+}}
+----
+{{Football box
+|id=CHI v BOL
+|date={{Start date|2021|6|8|df=y}}
+|time={{UTZ|21:30|-4}}
+|team1={{fb-rt|CHI}}
+|score=1–1
+|team2={{fb|BOL}}
+|goals1=
+*[[Erick Pulgar|Pulgar]] {{goal|69}}
+|goals2=
+*[[Marcelo Martins Moreno|Moreno]] {{goal|81|pen.}}
+|stadium=[[Estadio San Carlos de Apoquindo]], Santiago
+|attendance=0
+|referee=[[Eber Aquino]] ([[Paraguayan Football Association|Paraguay]])
+|report=[https://www.fifa.com/fifaplus/en/match-centre/match/520/282735/282737/400104587 Report (FIFA)]<br/>[https://www.conmebol.com/analisis-del-partido?competition=342&season=112022&match=2043631 Report (CONMEBOL)]
+}}
+
+===Matchday 9===
+{{Football box
+|id=BOL v COL
+|date={{Start date|2021|9|2|df=y}}
+|time={{UTZ|16:00|-4}}
+|team1={{fb-rt|BOL}}
+|score=1–1
+|team2={{fb|COL}}
+|goals1=
+*[[Fernando Saucedo|Saucedo]] {{goal|83}}
+|goals2=
+*[[Roger Martínez|Martínez]] {{goal|69}}
+|stadium=[[Estadio Hernando Siles]], La Paz
+|attendance=15,000
+|referee=[[Alexis Herrera (referee)|Alexis Herrera]] ([[Venezuelan Football Federation|Venezuela]])<ref name="matchday 9-6-10"/>
+|report=[https://www.fifa.com/fifaplus/en/match-centre/match/520/282735/282737/400104584 Report (FIFA)]<br/>[https://www.conmebol.com/analisis-del-partido?competition=342&season=112022&match=2043635 Report (CONMEBOL)]
+}}
+----
+{{Football box
+|id=ECU v PAR
+|date={{Start date|2021|9|2|df=y}}
+|time={{UTZ|16:00|-5}}
+|team1={{fb-rt|ECU}}
+|score=2–0
+|team2={{fb|PAR}}
+|goals1=
+*[[Félix Torres (footballer, born 1997)|Torres]] {{goal|88}}
+*[[Michael Estrada|Estrada]] {{goal|90+5}}
+|goals2=
+|stadium=[[Estadio Rodrigo Paz Delgado]], Quito
+|attendance=12,000
+|referee=[[Andrés Matonte]] ([[Uruguayan Football Association|Uruguay]])<ref name="matchday 9-6-10"/>
+|report=[https://www.fifa.com/fifaplus/en/match-centre/match/520/282735/282737/400104608 Report (FIFA)]<br/>[https://www.conmebol.com/analisis-del-partido?competition=342&season=112022&match=2043637 Report (CONMEBOL)]
+}}
+----
+{{Football box
+|id=VEN v ARG
+|date={{Start date|2021|9|2|df=y}}
+|time={{UTZ|20:00|-4}}
+|team1={{fb-rt|VEN}}
+|score=1–3
+|team2={{fb|ARG}}
+|goals1=
+*[[Yeferson Soteldo|Soteldo]] {{goal|90+4|pen.}}
+|goals2=
+*[[Lautaro Martínez|La. Martínez]] {{goal|45+2}}
+*[[Joaquín Correa|J. Correa]] {{goal|71}}
+*[[Ángel Correa|Á. Correa]] {{goal|74}}
+|stadium=[[Estadio Olímpico (Caracas)|Estadio Olímpico de la UCV]], Caracas
+|attendance=6,000
+|referee=[[Leodán González]] ([[Uruguayan Football Association|Uruguay]])<ref name="matchday 9-6-10"/>
+|report=[https://www.fifa.com/fifaplus/en/match-centre/match/520/282735/282737/400104616 Report (FIFA)]<br/>[https://www.conmebol.com/analisis-del-partido?competition=342&season=112022&match=2043634 Report (CONMEBOL)]
+}}
+----
+{{Football box
+|id=PER v URU
+|date={{Start date|2021|9|2|df=y}}
+|time={{UTZ|20:00|−5}}
+|team1={{fb-rt|PER}}
+|score=1–1
+|team2={{fb|URU}}
+|goals1=
+*[[Renato Tapia|Tapia]] {{goal|25}}
+|goals2=
+*[[Giorgian de Arrascaeta|De Arrascaeta]] {{goal|29}}
+|stadium=[[Estadio Nacional del Perú|Estadio Nacional]], Lima
+|attendance=8,000
+|referee=[[Néstor Pitana]] ([[Argentine Football Association|Argentina]])<ref name="matchday 9-6-10"/>
+|report=[https://www.fifa.com/fifaplus/en/match-centre/match/520/282735/282737/400104604 Report (FIFA)]<br/>[https://www.conmebol.com/analisis-del-partido?competition=342&season=112022&match=2043636 Report (CONMEBOL)]
+}}
+----
+{{Football box
+|id=CHI v BRA
+|date={{Start date|2021|9|2|df=y}}
+|time={{UTZ|21:00|−4}}
+|team1={{fb-rt|CHI}}
+|score=0–1
+|team2={{fb|BRA}}
+|goals1=
+|goals2=
+*[[Éverton Ribeiro|Ribeiro]] {{goal|64}}
+|stadium=[[Estadio Monumental David Arellano]], Santiago
+|attendance=11,000
+|referee=[[Diego Haro]] ([[Peruvian Football Federation|Peru]])<ref name="matchday 9-6-10"/>
+|report=[https://www.fifa.com/fifaplus/en/match-centre/match/520/282735/282737/400104588 Report (FIFA)]<br/>[https://www.conmebol.com/analisis-del-partido?competition=342&season=112022&match=2043633 Report (CONMEBOL)]
+}}
+
+===Matchday 6===
+Matchday pushed back in revised schedule and then cancelled.
+
+{{Football box
+|id=BRA v ARG abandoned
+|date={{Start date|2021|9|5|df=y}}
+|time={{UTZ|16:00|-3}}
+|team1={{fb-rt|BRA}}
+|score=Abandoned{{refn|group=note|name=BRA v ARG|The match on 5 September 2021 was suspended after five minutes at 0–0, after Argentina walked off because [[Brazilian Health Regulatory Agency|Brazilian health officials]] entered the pitch demanding the isolation of four Argentine players accused of violating the [[COVID-19 pandemic|COVID]] quarantine rules.<ref>{{cite tweet|publisher=[[FIFA]]|user=fifamedia|number=1434626807400124418|title=FIFA can confirm that following a decision by the match officials, the FIFA World Cup 2022 qualifying match Brazil vs. Argentina has been suspended.|date=5 September 2021}}</ref><ref>{{cite web|url=https://www.bbc.com/sport/football/58431607|title=Brazil v Argentina abandoned five minutes after kick-off after visiting players accused of Covid violation|date=5 September 2021|publisher=[[BBC]]|access-date=6 September 2021}}</ref><ref name="Anvisa">{{cite web|url=https://www.gov.br/anvisa/pt-br/assuntos/noticias-anvisa/2021/esclarecimento-suspensao-do-jogo-brasil-x-argentina|title=Esclarecimento: suspensão do jogo Brasil x Argentina|date=6 September 2021|publisher=[[Anvisa]]|access-date=10 September 2021|language=pt}}</ref> It was initially rescheduled to 22 September 2022 at a location to be defined by the [[Brazilian Football Confederation]],<ref>{{cite web|url=https://www.ole.com.ar/seleccion/brasil-argentina-local_0_PdN3YxRmGt.html|title=FIFA aclara: se juega Brasil-Argentina en sede a convenir|trans-title=FIFA clarifies: Brazil-Argentina is played in a venue to be agreed|publisher=[[Olé (sports newspaper)|Olé]]|date=22 April 2022|access-date=22 April 2022|language=es}}</ref><ref>{{cite web|url=https://ge.globo.com/futebol/copa-do-mundo/eliminatorias-america-do-sul/noticia/2022/04/22/fifa-remarca-brasil-x-argentina-interrompido-para-o-dia-22-de-setembro-no-brasil.ghtml|title=Fifa remarca Brasil x Argentina interrompido para o dia 22 de setembro|trans-title=FIFA reschedules the interrupted Brazil v Argentina for September 22|publisher=Globo Esporte|first=Martin|last=Fernandez|date=22 April 2022|access-date=23 April 2022|language=pt}}</ref> later set to 21 September, and finally cancelled by FIFA on 16 August.<ref>{{Cite news|title=FIFA decidió que no se juegue el Argentina-Brasil de Eliminatorias|url=https://www.ambito.com/deportes/fifa/decidio-que-no-se-juegue-el-argentina-brasil-eliminatorias-n5511545|work=Ámbito|date=17 August 2022|language=es}}</ref>}}
+|team2={{fb|ARG}}
+|goals1=
+|goals2=
+|stadium=[[Arena Corinthians|Neo Química Arena]], São Paulo
+|attendance=
+|referee=[[Jesús Valenzuela]] ([[Venezuelan Football Federation|Venezuela]])<ref name="matchday 9-6-10">{{Cite web |url=https://www.conmebol.com/sites/default/files/eliminatorias_qatar_2022_-_fecha_9-6-10_designacion_arbitros_2_0.pdf |title=Eliminatorias 9, 6 y 10 - Árbitros |date=17 August 2021 |access-date=21 August 2021 |publisher=Confederación Sudamericana de Fútbol |language=es}}</ref>
+|report=[https://web.archive.org/web/20211113021313/https://www.fifa.com/tournaments/mens/worldcup/qatar2022/qualifiers/conmebol/match-center/400104558 Report (FIFA)]<br/>[https://web.archive.org/web/20220329102955/https://www.conmebol.com/analisis-del-partido/?competition=342&season=112022&match=2043620 Report (CONMEBOL)]
+}}
+----
+{{Football box
+|id=ECU v CHI
+|date={{Start date|2021|9|5|df=y}}
+|time={{UTZ|16:00|-5}}
+|team1={{fb-rt|ECU}}
+|score=0–0
+|team2={{fb|CHI}}
+|goals1=
+|goals2=
+|stadium=[[Estadio Rodrigo Paz Delgado]], Quito
+|attendance=12,000
+|referee=[[Facundo Tello]] ([[Argentine Football Association|Argentina]])<ref name="matchday 9-6-10"/>
+|report=[https://www.fifa.com/fifaplus/en/match-centre/match/520/282735/282737/400104577 Report (FIFA)]<br/>[https://www.conmebol.com/analisis-del-partido?competition=342&season=112022&match=2043622 Report (CONMEBOL)]
+}}
+----
+{{Football box
+|id=URU v BOL
+|date={{Start date|2021|9|5|df=y}}
+|time={{UTZ|19:00|-3}}
+|team1={{fb-rt|URU}}
+|score=4–2
+|team2={{fb|BOL}}
+|goals1=
+*[[Giorgian de Arrascaeta|De Arrascaeta]] {{goal|15||67|pen.}}
+*[[Federico Valverde|Valverde]] {{goal|31}}
+*[[Agustín Álvarez (footballer, born May 2001)|Álvarez]] {{goal|47}}
+|goals2=
+*[[Marcelo Martins Moreno|Moreno]] {{goal|59||84|pen.}}
+|stadium=[[Estadio Campeón del Siglo]], Montevideo
+|attendance=15,000
+|referee=[[Eber Aquino]] ([[Paraguayan Football Association|Paraguay]])<ref name="matchday 9-6-10"/>
+|report=[https://www.fifa.com/fifaplus/en/match-centre/match/520/282735/282737/400104569 Report (FIFA)]<br/>[https://www.conmebol.com/analisis-del-partido?competition=342&season=112022&match=2043618 Report (CONMEBOL)]
+}}
+----
+{{Football box
+|id=PAR v COL
+|date={{Start date|2021|9|5|df=y}}
+|time={{UTZ|18:00|-4}}
+|team1={{fb-rt|PAR}}
+|score=1–1
+|team2={{fb|COL}}
+|goals1=
+*[[Antonio Sanabria|Sanabria]] {{goal|40}}
+|goals2=
+*[[Juan Cuadrado|Cuadrado]] {{goal|53|pen.}}
+|stadium=[[Estadio Defensores del Chaco]], Asunción
+|attendance=7,000
+|referee=[[Raphael Claus]] ([[Brazilian Football Confederation|Brazil]])<ref name="matchday 9-6-10"/>
+|report=[https://www.fifa.com/fifaplus/en/match-centre/match/520/282735/282737/400104580 Report (FIFA)]<br/>[https://www.conmebol.com/analisis-del-partido?competition=342&season=112022&match=2043621 Report (CONMEBOL)]
+}}
+----
+{{Football box
+|id=PER v VEN
+|date={{Start date|2021|9|5|df=y}}
+|time={{UTZ|20:00|−5}}
+|team1={{fb-rt|PER}}
+|score=1–0
+|team2={{fb|VEN}}
+|goals1=
+*[[Christian Cueva|Cueva]] {{goal|35}}
+|goals2=
+|stadium=[[Estadio Nacional del Perú|Estadio Nacional]], Lima
+|attendance=8,000
+|referee=[[Luis Quiroz]] ([[Ecuadorian Football Federation|Ecuador]]){{refn|group=note|Referee [[Guillermo Guerrero]] from Ecuador, who was originally assigned to the Peru v Venezuela match,<ref name="matchday 9-6-10"/> was replaced by his countryman Luis Quiroz.<ref>{{cite web|url=https://www.conmebol.com/es/cambio-de-arbitros-en-partido-peru-vs-venezuela|title=Cambio de árbitros en partido Perú vs. Venezuela|publisher=CONMEBOL.com|date=3 September 2021|language=es}}</ref>}}
+|report=[https://www.fifa.com/fifaplus/en/match-centre/match/520/282735/282737/400104573 Report (FIFA)]<br/>[https://www.conmebol.com/analisis-del-partido?competition=342&season=112022&match=2043619 Report (CONMEBOL)]
+}}
+
+===Matchday 10===
+{{Football box
+|id=URU v ECU
+|date={{Start date|2021|9|9|df=y}}
+|time={{UTZ|19:30|-3}}
+|team1={{fb-rt|URU}}
+|score=1–0
+|team2={{fb|ECU}}
+|goals1=[[Gastón Pereiro|Pereiro]] {{goal|90+2}}
+|goals2=
+|stadium=[[Estadio Campeón del Siglo]], Montevideo
+|attendance=15,000
+|referee=[[Anderson Daronco]] ([[Brazilian Football Confederation|Brazil]])<ref name="matchday 9-6-10"/>
+|report=[https://www.fifa.com/fifaplus/en/match-centre/match/520/282735/282737/400104601 Report (FIFA)]<br/>[https://www.conmebol.com/analisis-del-partido?competition=342&season=112022&match=2043638 Report (CONMEBOL)]
+}}
+----
+{{Football box
+|id=PAR v VEN
+|date={{Start date|2021|9|9|df=y}}
+|time={{UTZ|18:30|-4}}
+|team1={{fb-rt|PAR}}
+|score=2–1
+|team2={{fb|VEN}}
+|goals1=
+*[[David Martínez (footballer, born 1998)|D. Martínez]] {{goal|7}}
+*[[Alejandro Romero Gamarra|Romero Gamarra]] {{goal|46}}
+|goals2=[[Jhon Chancellor|Chancellor]] {{goal|90}}
+|stadium=[[Estadio Defensores del Chaco]], Asunción
+|attendance=5,000
+|referee=[[Roberto Tobar]] ([[Football Federation of Chile|Chile]])<ref name="matchday 9-6-10"/>
+|report=[https://www.fifa.com/fifaplus/en/match-centre/match/520/282735/282737/400104612 Report (FIFA)]<br/>[https://www.conmebol.com/analisis-del-partido?competition=342&season=112022&match=2043641 Report (CONMEBOL)]
+}}
+----
+{{Football box
+|id=COL v CHI
+|date={{Start date|2021|9|9|df=y}}
+|time={{UTZ|18:00|-5}}
+|team1={{fb-rt|COL}}
+|score=3–1
+|team2={{fb|CHI}}
+|goals1=
+*[[Miguel Borja|Borja]] {{goal|19|pen.|20}}
+*[[Luis Díaz (footballer, born 1997)|Díaz]] {{goal|74}}
+|goals2=[[Jean Meneses|Meneses]] {{goal|56}}
+|stadium=[[Estadio Metropolitano Roberto Meléndez]], [[Barranquilla]]
+|attendance=23,500
+|referee=[[Andrés Cunha]] ([[Uruguayan Football Association|Uruguay]])<ref name="matchday 9-6-10"/>
+|report=[https://www.fifa.com/fifaplus/en/match-centre/match/520/282735/282737/400104598 Report (FIFA)]<br/>[https://www.conmebol.com/analisis-del-partido?competition=342&season=112022&match=2043639 Report (CONMEBOL)]
+}}
+----
+{{Football box
+|id=ARG v BOL
+|date={{Start date|2021|9|9|df=y}}
+|time={{UTZ|20:30|-3}}
+|team1={{fb-rt|ARG}}
+|score=3–0
+|team2={{fb|BOL}}
+|goals1=[[Lionel Messi|Messi]] {{goal|14||64||88}}
+|goals2=
+|stadium=[[Estadio Monumental Antonio Vespucio Liberti]], Buenos Aires
+|attendance=17,000
+|referee=[[Kevin Ortega (referee)|Kevin Ortega]] ([[Peruvian Football Federation|Peru]])<ref name="matchday 9-6-10"/>
+|report=[https://www.fifa.com/fifaplus/en/match-centre/match/520/282735/282737/400104594 Report (FIFA)]<br/>[https://www.conmebol.com/analisis-del-partido?competition=342&season=112022&match=2043642 Report (CONMEBOL)]
+}}
+----
+{{Football box
+|id=BRA v PER
+|date={{Start date|2021|9|9|df=y}}
+|time={{UTZ|21:30|-3}}
+|team1={{fb-rt|BRA}}
+|score=2–0
+|team2={{fb|PER}}
+|goals1=
+*[[Éverton Ribeiro|Ribeiro]] {{goal|15}}
+*[[Neymar]] {{goal|40}}
+|goals2=
+|stadium=[[Arena Pernambuco]], [[São Lourenço da Mata]]
+|attendance=0
+|referee=[[Wilmar Roldán]] ([[Colombian Football Federation|Colombia]])<ref name="matchday 9-6-10"/>
+|report=[https://www.fifa.com/fifaplus/en/match-centre/match/520/282735/282737/400104591 Report (FIFA)]<br/>[https://www.conmebol.com/analisis-del-partido?competition=342&season=112022&match=2043640 Report (CONMEBOL)]
+}}
+
+===Matchday 11===
+{{Football box
+|id=URU v COL
+|date={{Start date|2021|10|7|df=y}}
+|time={{UTZ|20:00|-3}}
+|team1={{fb-rt|URU}}
+|score=0–0
+|team2={{fb|COL}}
+|goals1=
+|goals2=
+|stadium=[[Estadio Gran Parque Central]], Montevideo
+|attendance=18,000
+|referee=[[Jesús Valenzuela]] ([[Venezuelan Football Federation|Venezuela]])
+|report=[https://www.fifa.com/fifaplus/en/match-centre/match/520/282735/282737/400104602 Report (FIFA)]<br/>[https://www.conmebol.com/analisis-del-partido?competition=342&season=112022&match=2043643 Report (CONMEBOL)]
+}}
+----
+{{Football box
+|id=PAR v ARG
+|date={{Start date|2021|10|7|df=y}}
+|time={{UTZ|20:00|-3}}
+|team1={{fb-rt|PAR}}
+|score=0–0
+|team2={{fb|ARG}}
+|goals1=
+|goals2=
+|stadium=[[Estadio Defensores del Chaco]], Asunción
+|attendance=34,000
+|referee=[[Anderson Daronco]] ([[Brazilian Football Confederation|Brazil]])
+|report=[https://www.fifa.com/fifaplus/en/match-centre/match/520/282735/282737/400104613 Report (FIFA)]<br/>[https://www.conmebol.com/analisis-del-partido?competition=342&season=112022&match=2043647 Report (CONMEBOL)]
+}}
+----
+{{Football box
+|id=VEN v BRA
+|date={{Start date|2021|10|7|df=y}}
+|time={{UTZ|19:30|-4}}
+|team1={{fb-rt|VEN}}
+|score=1–3
+|team2={{fb|BRA}}
+|goals1=[[Eric Ramírez (footballer, born 1998)|Ramírez]] {{goal|11}}
+|goals2=
+*[[Marquinhos]] {{goal|71}}
+*[[Gabriel Barbosa]] {{goal|85|pen.}}
+*[[Antony (footballer, born 2000)|Antony]] {{goal|90+5}}
+|stadium=[[Estadio Olímpico (Caracas)|Estadio Olímpico de la UCV]], Caracas
+|attendance=6,000
+|referee=[[Kevin Ortega]] ([[Peruvian Football Federation|Peru]])
+|report=[https://www.fifa.com/fifaplus/en/match-centre/match/520/282735/282737/400104617 Report (FIFA)]<br/>[https://www.conmebol.com/analisis-del-partido?competition=342&season=112022&match=2043645 Report (CONMEBOL)]
+}}
+----
+{{Football box
+|id=ECU v BOL
+|date={{Start date|2021|10|7|df=y}}
+|time= {{UTZ|19:30|-5}}
+|team1={{fb-rt|ECU}}
+|score=3–0
+|team2={{fb|BOL}}
+|goals1=
+*[[Michael Estrada|Estrada]] {{goal|13}}
+*[[Enner Valencia|Valencia]] {{goal|16||18}}
+|goals2=
+|stadium=[[Estadio Monumental Isidro Romero Carbo]], [[Guayaquil]]
+|attendance=16,000
+|referee=[[Wilmar Roldán]] ([[Colombian Football Federation|Colombia]])
+|report=[https://www.fifa.com/fifaplus/en/match-centre/match/520/282735/282737/400104609 Report (FIFA)]<br/>[https://www.conmebol.com/analisis-del-partido?competition=342&season=112022&match=2043646 Report (CONMEBOL)]
+}}
+----
+{{Football box
+|id=PER v CHI
+|date={{Start date|2021|10|7|df=y}}
+|time={{UTZ|20:00|−5}}
+|team1={{fb-rt|PER}}
+|score=2–0
+|team2={{fb|CHI}}
+|goals1=
+*[[Christian Cueva|Cueva]] {{goal|36}}
+*[[Sergio Peña (Peruvian footballer)|Peña]] {{goal|64}}
+|goals2=
+|stadium=[[Estadio Nacional del Perú|Estadio Nacional]], Lima
+|attendance=8,000
+|referee=[[Christian Ferreyra]] ([[Uruguayan Football Association|Uruguay]])
+|report=[https://www.fifa.com/fifaplus/en/match-centre/match/520/282735/282737/400104605 Report (FIFA)]<br/>[https://www.conmebol.com/analisis-del-partido?competition=342&season=112022&match=2043644 Report (CONMEBOL)]
+}}
+
+===Matchday 5===
+Matchday pushed back in revised schedule.
+
+{{Football box
+|id=BOL v PER
+|date={{Start date|2021|10|10|df=y}}
+|time={{UTZ|16:00|-4}}
+|team1={{fb-rt|BOL}}
+|score=1–0
+|team2={{fb|PER}}
+|goals1=[[Ramiro Vaca|R. Vaca]] {{goal|83}}
+|goals2=
+|stadium=[[Estadio Hernando Siles]], La Paz
+|attendance=20,000
+|referee=[[Guillermo Guerrero]] ([[Ecuadorian Football Federation|Ecuador]])
+|report=[https://www.fifa.com/fifaplus/en/match-centre/match/520/282735/282737/400104551 Report (FIFA)]<br/>[https://www.conmebol.com/analisis-del-partido?competition=342&season=112022&match=2043615 Report (CONMEBOL)]
+}}
+----
+{{Football box
+|id=VEN v ECU
+|date={{Start date|2021|10|10|df=y}}
+|time={{UTZ|16:30|-4}}
+|team1={{fb-rt|VEN}}
+|score=2–1
+|team2={{fb|ECU}}
+|goals1=
+*[[Darwin Machís|Machís]] {{goal|45+1}}
+*[[Eduard Bello|Bello]] {{goal|64}}
+|goals2=[[Enner Valencia|Valencia]] {{goal|37|pen.}}
+|stadium=[[Estadio Olímpico (Caracas)|Estadio Olímpico de la UCV]], Caracas
+|attendance=10,000
+|referee=[[Andrés Cunha]] ([[Uruguayan Football Association|Uruguay]])
+|report=[https://www.fifa.com/fifaplus/en/match-centre/match/520/282735/282737/400104583 Report (FIFA)]<br/>[https://www.conmebol.com/analisis-del-partido?competition=342&season=112022&match=2043614 Report (CONMEBOL)]
+}}
+----
+{{Football box
+|id=COL v BRA
+|date={{Start date|2021|10|10|df=y}}
+|time={{UTZ|16:00|-5}}
+|team1={{fb-rt|COL}}
+|score=0–0
+|team2={{fb|BRA}}
+|goals1=
+|goals2=
+|stadium=[[Estadio Metropolitano Roberto Meléndez]], [[Barranquilla]]
+|attendance=35,000
+|referee=[[Patricio Loustau]] ([[Argentine Football Association|Argentina]])
+|report=[https://www.fifa.com/fifaplus/en/match-centre/match/520/282735/282737/400104566 Report (FIFA)]<br/>[https://www.conmebol.com/analisis-del-partido?competition=342&season=112022&match=2043613 Report (CONMEBOL)]
+}}
+----
+{{Football box
+|id=ARG v URU
+|date={{Start date|2021|10|10|df=y}}
+|time={{UTZ|20:30|-3}}
+|team1={{fb-rt|ARG}}
+|score=3–0
+|team2={{fb|URU}}
+|goals1=
+*[[Lionel Messi|Messi]] {{goal|38}}
+*[[Rodrigo De Paul|De Paul]] {{goal|44}}
+*[[Lautaro Martínez|La. Martínez]] {{goal|62}}
+|goals2=
+|stadium=[[Estadio Monumental Antonio Vespucio Liberti]], Buenos Aires{{refn|group=note|The Argentina v Uruguay match was relocated from [[Estadio Único Madre de Ciudades]], [[Santiago del Estero]]<ref>{{cite web|url=https://www.afa.com.ar/es/posts/escenarios-de-seleccion|title=Escenarios de Selección|publisher=[[Argentine Football Association]]|date=28 October 2020|language=es}}</ref><ref>{{cite web|url=https://www.conmebol.com/es/regresan-las-eliminatorias-sudamericanas-las-mas-emocionantes-del-mundo|title=Regresan las Eliminatorias Sudamericanas, las más emocionantes del mundo|publisher=CONMEBOL|date=19 February 2021|language=es}}</ref> to Estadio Monumental Antonio Vespucio Liberti, Buenos Aires, after the matchday 5 was postponed.<ref>{{cite web|url=https://www.afa.com.ar/es/posts/argentina-volvera-a-jugar-en-river|title=La Selección Argentina volverá a jugar en River|publisher=Argentine Football Association|date=16 September 2021|language=es}}</ref>}}
+|attendance=35,000
+|referee=[[Roberto Tobar]] ([[Football Federation of Chile|Chile]])
+|report=[https://www.fifa.com/fifaplus/en/match-centre/match/520/282735/282737/400104562 Report (FIFA)]<br/>[https://www.conmebol.com/analisis-del-partido?competition=342&season=112022&match=2043616 Report (CONMEBOL)]
+}}
+----
+{{Football box
+|id=CHI v PAR
+|date={{Start date|2021|10|10|df=y}}
+|time={{UTZ|21:00|-3}}
+|team1={{fb-rt|CHI}}
+|score=2–0
+|team2={{fb|PAR}}
+|goals1=
+*[[Ben Brereton Díaz|Brereton]] {{goal|69}}
+*[[Mauricio Isla|Isla]] {{goal|72}}
+|goals2=
+|stadium=[[Estadio San Carlos de Apoquindo]], Santiago
+|attendance=10,800
+|referee=[[Néstor Pitana]] ([[Argentine Football Association|Argentina]])
+|report=[https://www.fifa.com/fifaplus/en/match-centre/match/520/282735/282737/400104555 Report (FIFA)]<br/>[https://www.conmebol.com/analisis-del-partido?competition=342&season=112022&match=2043617 Report (CONMEBOL)]
+}}
+
+===Matchday 12===
+{{Football box
+|id=BOL v PAR
+|date={{Start date|2021|10|14|df=y}}
+|time={{UTZ|16:00|-4}}
+|team1={{fb-rt|BOL}}
+|score=4–0
+|team2={{fb|PAR}}
+|goals1=
+*[[Rodrigo Ramallo|Ramallo]] {{goal|21}}
+*[[Moisés Villarroel Angulo|Villarroel]] {{goal|53}}
+*[[Víctor Ábrego|Ábrego]] {{goal|84}}
+*[[Roberto Fernández (Bolivian footballer)|Fernández]] {{goal|90+4}}
+|goals2=
+|stadium=[[Estadio Hernando Siles]], La Paz
+|attendance=12,000
+|referee=[[Andrés Matonte]] ([[Uruguayan Football Association|Uruguay]])
+|report=[https://www.fifa.com/fifaplus/en/match-centre/match/520/282735/282737/400104585 Report (FIFA)]<br/>[https://www.conmebol.com/analisis-del-partido?competition=342&season=112022&match=2043652 Report (CONMEBOL)]
+}}
+----
+{{Football box
+|id=COL v ECU
+|date={{Start date|2021|10|14|df=y}}
+|time={{UTZ|16:00|-5}}
+|team1={{fb-rt|COL}}
+|score=0–0
+|team2={{fb|ECU}}
+|goals1=
+|goals2=
+|stadium=[[Estadio Metropolitano Roberto Meléndez]], [[Barranquilla]]
+|attendance=35,000
+|referee=[[Diego Haro]] ([[Peruvian Football Federation|Peru]])
+|report=[https://www.fifa.com/fifaplus/en/match-centre/match/520/282735/282737/400104599 Report (FIFA)]<br/>[https://www.conmebol.com/analisis-del-partido?competition=342&season=112022&match=2043648 Report (CONMEBOL)]
+}}
+----
+{{Football box
+|id=ARG v PER
+|date={{Start date|2021|10|14|df=y}}
+|time={{UTZ|20:30|-3}}
+|team1={{fb-rt|ARG}}
+|score=1–0
+|team2={{fb|PER}}
+|goals1=[[Lautaro Martínez|La. Martínez]] {{goal|43}}
+|goals2=
+|stadium=[[Estadio Monumental Antonio Vespucio Liberti]], Buenos Aires
+|attendance=36,000
+|referee=[[Wilton Sampaio]] ([[Brazilian Football Confederation|Brazil]])
+|report=[https://www.fifa.com/fifaplus/en/match-centre/match/520/282735/282737/400104595 Report (FIFA)]<br/>[https://www.conmebol.com/analisis-del-partido?competition=342&season=112022&match=2043650 Report (CONMEBOL)]
+}}
+----
+{{Football box
+|id=CHI v VEN
+|date={{Start date|2021|10|14|df=y}}
+|time={{UTZ|21:00|-3}}
+|team1={{fb-rt|CHI}}
+|score=3–0
+|team2={{fb|VEN}}
+|goals1=
+*[[Erick Pulgar|Pulgar]] {{goal|18||37}}
+*[[Ben Brereton Díaz|Brereton]] {{goal|73}}
+|goals2=
+|stadium=[[Estadio San Carlos de Apoquindo]], Santiago
+|attendance=10,000
+|referee=[[Raphael Claus]] ([[Brazilian Football Confederation|Brazil]])
+|report=[https://www.fifa.com/fifaplus/en/match-centre/match/520/282735/282737/400104589 Report (FIFA)]<br/>[https://www.conmebol.com/analisis-del-partido?competition=342&season=112022&match=2043651 Report (CONMEBOL)]
+}}
+----
+{{Football box
+|id=BRA v URU
+|date={{Start date|2021|10|14|df=y}}
+|time={{UTZ|20:30|-4}}
+|team1={{fb-rt|BRA}}
+|score=4–1
+|team2={{fb|URU}}
+|goals1=
+*[[Neymar]] {{goal|10}}
+*[[Raphinha]] {{goal|18||58}}
+*[[Gabriel Barbosa]] {{goal|83}}
+|goals2=[[Luis Suárez|Suárez]] {{goal|77}}
+|stadium=[[Arena da Amazônia]], [[Manaus]]
+|attendance=12,500
+|referee=[[Fernando Rapallini]] ([[Argentine Football Association|Argentina]])
+|report=[https://www.fifa.com/fifaplus/en/match-centre/match/520/282735/282737/400104592 Report (FIFA)]<br/>[https://www.conmebol.com/analisis-del-partido?competition=342&season=112022&match=2043649 Report (CONMEBOL)]
+}}
+
+===Matchday 13===
+{{Football box
+|id=ECU v VEN
+|date={{Start date|2021|11|11|df=y}}
+|time={{UTZ|16:00|-5}}
+|team1={{fb-rt|ECU}}
+|score=1–0
+|team2={{fb|VEN}}
+|goals1=
+*[[Piero Hincapié|Hincapié]] {{goal|41}}
+|goals2=
+|stadium=[[Estadio Rodrigo Paz Delgado]], Quito
+|attendance=25,000
+|referee=[[Christian Ferreyra]] ([[Uruguayan Football Association|Uruguay]])
+|report=[https://www.fifa.com/fifaplus/en/match-centre/match/520/282735/282737/400104610 Report (FIFA)]<br/>[https://www.conmebol.com/analisis-del-partido?competition=342&season=112022&match=2043656 Report (CONMEBOL)]
+}}
+----
+{{Football box
+|id=PAR v CHI
+|date={{Start date|2021|11|11|df=y}}
+|time={{UTZ|20:00|-3}}
+|team1={{fb-rt|PAR}}
+|score=0–1
+|team2={{fb|CHI}}
+|goals1=
+|goals2=
+*[[Alexis Sánchez|Sánchez]] {{goal|56}}
+|stadium=[[Estadio Defensores del Chaco]], Asunción
+|attendance=42,354
+|referee=[[Patricio Loustau]] ([[Argentine Football Association|Argentina]])
+|report=[https://www.fifa.com/fifaplus/en/match-centre/match/520/282735/282737/400104614 Report (FIFA)]<br/>[https://www.conmebol.com/analisis-del-partido?competition=342&season=112022&match=2043657 Report (CONMEBOL)]
+}}
+----
+{{Football box
+|id=BRA v COL
+|date={{Start date|2021|11|11|df=y}}
+|time={{UTZ|21:30|-3}}
+|team1={{fb-rt|BRA}}
+|score=1–0
+|team2={{fb|COL}}
+|goals1=
+*[[Lucas Paquetá|Paquetá]] {{goal|72}}
+|goals2=
+|stadium=[[Arena Corinthians|Neo Química Arena]], São Paulo
+|attendance=22,800
+|referee=[[Roberto Tobar]] ([[Football Federation of Chile|Chile]])
+|report=[https://www.fifa.com/fifaplus/en/match-centre/match/520/282735/282737/400104593 Report (FIFA)]<br/>[https://www.conmebol.com/analisis-del-partido?competition=342&season=112022&match=2043655 Report (CONMEBOL)]
+}}
+----
+{{Football box
+|id=PER v BOL
+|date={{Start date|2021|11|11|df=y}}
+|time={{UTZ|21:00|-5}}
+|team1={{fb-rt|PER}}
+|score=3–0
+|team2={{fb|BOL}}
+|goals1=
+*[[Gianluca Lapadula|Lapadula]] {{goal|9}}
+*[[Christian Cueva|Cueva]] {{goal|31}}
+*[[Sergio Peña (Peruvian footballer)|Peña]] {{goal|39}}
+|goals2=
+|stadium=[[Estadio Nacional del Perú|Estadio Nacional]], Lima
+|attendance=10,000
+|referee=[[Éber Aquino]] ([[Paraguayan Football Association|Paraguay]])
+|report=[https://www.fifa.com/fifaplus/en/match-centre/match/520/282735/282737/400104606 Report (FIFA)]<br/>[https://www.conmebol.com/analisis-del-partido?competition=342&season=112022&match=2043654 Report (CONMEBOL)]
+}}
+----
+{{Football box
+|id=URU v ARG
+|date={{Start date|2021|11|12|df=y}}
+|time={{UTZ|20:00|-3}}
+|team1={{fb-rt|URU}}
+|score=0–1
+|team2={{fb|ARG}}
+|goals1=
+|goals2=
+*[[Ángel Di María|Di María]] {{goal|7}}
+|stadium=[[Estadio Campeón del Siglo]], Montevideo
+|attendance=30,000
+|referee=[[Alexis Herrera (referee)|Alexis Herrera]] ([[Venezuelan Football Federation|Venezuela]])
+|report=[https://www.fifa.com/fifaplus/en/match-centre/match/520/282735/282737/400104603 Report (FIFA)]<br/>[https://www.conmebol.com/analisis-del-partido?competition=342&season=112022&match=2043653 Report (CONMEBOL)]
+}}
+
+===Matchday 14===
+{{Football box
+|id=BOL v URU
+|date={{Start date|2021|11|16|df=y}}
+|time={{UTZ|16:00|-4}}
+|team1={{fb-rt|BOL}}
+|score=3–0
+|team2={{fb|URU}}
+|goals1=
+*[[Juan Carlos Arce|Arce]] {{goal|29||79}}
+*[[Marcelo Martins Moreno|Moreno]] {{goal|45}}
+|goals2=
+|stadium=[[Estadio Hernando Siles]], La Paz
+|attendance=7,000
+|referee=[[Wilton Sampaio]] ([[Brazilian Football Confederation|Brazil]])
+|report=[https://www.fifa.com/fifaplus/en/match-centre/match/520/282735/282737/400104586 Report (FIFA)]<br/>[https://www.conmebol.com/analisis-del-partido?competition=342&season=112022&match=2043660 Report (CONMEBOL)]
+}}
+----
+{{Football box
+|id=VEN v PER
+|date={{Start date|2021|11|16|df=y}}
+|time={{UTZ|17:00|-4}}{{refn|group=note|The Venezuela v Peru match was originally scheduled on 16 November 2021, 19:00 local time,<ref>{{cite web|url=https://www.conmebol.com/es/fechas-y-horarios-de-las-ultimas-tres-jornadas-de-eliminatorias|title=Fechas y horarios de las últimas tres jornadas de Eliminatorias|publisher=CONMEBOL|date=22 October 2021|language=es}}</ref> but was rescheduled to 17:00 local time.<ref>{{cite tweet|author=Peruvian Football Federation|user=SeleccionPeru|number=1455199270685089797|title=¡Cambio de horario!|date=1 November 2021|language=es}}</ref>}}
+|team1={{fb-rt|VEN}}
+|score=1–2
+|team2={{fb|PER}}
+|goals1=
+*[[Darwin Machís|Machís]] {{goal|52}}
+|goals2=
+*[[Gianluca Lapadula|Lapadula]] {{goal|18}}
+*[[Christian Cueva|Cueva]] {{goal|65}}
+|stadium=[[Estadio Olímpico (Caracas)|Estadio Olímpico de la UCV]], Caracas
+|attendance=9,000
+|referee=[[Bruno Arleu]] ([[Brazilian Football Confederation|Brazil]])
+|report=[https://www.fifa.com/fifaplus/en/match-centre/match/520/282735/282737/400104618 Report (FIFA)]<br/>[https://www.conmebol.com/analisis-del-partido?competition=342&season=112022&match=2043659 Report (CONMEBOL)]
+}}
+----
+{{Football box
+|id=COL v PAR
+|date={{Start date|2021|11|16|df=y}}
+|time={{UTZ|18:00|-5}}
+|team1={{fb-rt|COL}}
+|score=0–0
+|team2={{fb|PAR}}
+|goals1=
+|goals2=
+|stadium=[[Estadio Metropolitano Roberto Meléndez]], [[Barranquilla]]
+|attendance=44,000
+|referee=[[Facundo Tello]] ([[Argentine Football Association|Argentina]])
+|report=[https://www.fifa.com/fifaplus/en/match-centre/match/520/282735/282737/400104600 Report (FIFA)]<br/>[https://www.conmebol.com/analisis-del-partido?competition=342&season=112022&match=2043658 Report (CONMEBOL)]
+}}
+----
+{{Football box
+|id=ARG v BRA
+|date={{Start date|2021|11|16|df=y}}
+|time={{UTZ|20:30|-3}}
+|team1={{fb-rt|ARG}}
+|score=0–0
+|team2={{fb|BRA}}
+|goals1=
+|goals2=
+|stadium=[[Estadio San Juan del Bicentenario]], [[San Juan, Argentina|San Juan]]
+|attendance=25,000
+|referee=[[Andrés Cunha]] ([[Uruguayan Football Association|Uruguay]])
+|report=[https://www.fifa.com/fifaplus/en/match-centre/match/520/282735/282737/400104596 Report (FIFA)]<br/>[https://www.conmebol.com/analisis-del-partido?competition=342&season=112022&match=2043661 Report (CONMEBOL)]
+}}
+----
+{{Football box
+|id=CHI v ECU
+|date={{Start date|2021|11|16|df=y}}
+|time={{UTZ|21:15|-3}}
+|team1={{fb-rt|CHI}}
+|score=0–2
+|team2={{fb|ECU}}
+|goals1=
+|goals2=
+*[[Pervis Estupiñán|Estupiñán]] {{goal|9}}
+*[[Moisés Caicedo|M. Caicedo]] {{goal|90+3}}
+|stadium=[[Estadio San Carlos de Apoquindo]], Santiago
+|attendance=12,000
+|referee=[[Fernando Rapallini]] ([[Argentine Football Association|Argentina]])
+|report=[https://www.fifa.com/fifaplus/en/match-centre/match/520/282735/282737/400104590 Report (FIFA)]<br/>[https://www.conmebol.com/analisis-del-partido?competition=342&season=112022&match=2043662 Report (CONMEBOL)]
+}}
+
+===Matchday 15===
+{{Football box
+|id=ECU v BRA
+|date={{Start date|2022|1|27|df=y}}
+|time={{UTZ|16:00|-5}}
+|team1={{fb-rt|ECU}}
+|score=1–1
+|team2={{fb|BRA}}
+|goals1=[[Félix Torres (footballer, born 1997)|Torres]] {{goal|75}}
+|goals2=[[Casemiro]] {{goal|6}}
+|stadium=[[Estadio Rodrigo Paz Delgado]], Quito
+|attendance=17,992
+|referee=[[Wilmar Roldán]] ([[Colombian Football Federation|Colombia]])
+|report=[https://www.fifa.com/fifaplus/en/match-centre/match/520/282735/282737/400104633 Report (FIFA)]<br/>[https://www.conmebol.com/analisis-del-partido?competition=342&season=112022&match=2043667 Report (CONMEBOL)]
+}}
+----
+{{Football box
+|id=PAR v URU
+|date={{Start date|2022|1|27|df=y}}
+|time={{UTZ|20:00|-3}}
+|team1={{fb-rt|PAR}}
+|score=0–1
+|team2={{fb|URU}}
+|goals1=
+|goals2=[[Luis Suárez|L. Suárez]] {{goal|50}}
+|stadium=[[Estadio General Pablo Rojas]], Asunción
+|attendance=36,000
+|referee=[[Darío Herrera (referee)|Darío Herrera]] ([[Argentine Football Association|Argentina]])
+|report=[https://www.fifa.com/fifaplus/en/match-centre/match/520/282735/282737/400104635 Report (FIFA)]<br/>[https://www.conmebol.com/analisis-del-partido?competition=342&season=112022&match=2043665 Report (CONMEBOL)]
+}}
+----
+{{Football box
+|id=CHI v ARG
+|date={{Start date|2022|1|27|df=y}}
+|time={{UTZ|21:15|-3}}
+|team1={{fb-rt|CHI}}
+|score=1–2
+|team2={{fb|ARG}}
+|goals1=[[Ben Brereton Díaz|Brereton]] {{goal|21}}
+|goals2=
+*[[Ángel Di María|Di María]] {{goal|10}}
+*[[Lautaro Martínez|La. Martínez]] {{goal|34}}
+|stadium=[[Estadio Zorros del Desierto]], [[Calama, Chile|Calama]]
+|attendance=8,800
+|referee=[[Anderson Daronco]] ([[Brazilian Football Confederation|Brazil]])
+|report=[https://www.fifa.com/fifaplus/en/match-centre/match/520/282735/282737/400104621 Report (FIFA)]<br/>[https://www.conmebol.com/analisis-del-partido?competition=342&season=112022&match=2043666 Report (CONMEBOL)]
+}}
+----
+{{Football box
+|id=COL v PER
+|date={{Start date|2022|1|28|df=y}}
+|time={{UTZ|16:00|-5}}
+|team1={{fb-rt|COL}}
+|score=0–1
+|team2={{fb|PER}}
+|goals1=
+|goals2=[[Edison Flores|Flores]] {{goal|85}}
+|stadium=[[Estadio Metropolitano Roberto Meléndez]], [[Barranquilla]]
+|attendance=41,000
+|referee=[[Jesús Valenzuela]] ([[Venezuelan Football Federation|Venezuela]])
+|report=[https://www.fifa.com/fifaplus/en/match-centre/match/520/282735/282737/400104627 Report (FIFA)]<br/>[https://www.conmebol.com/analisis-del-partido?competition=342&season=112022&match=2043663 Report (CONMEBOL)]
+}}
+----
+{{Football box
+|id=VEN v BOL
+|date={{Start date|2022|1|28|df=y}}
+|time={{UTZ|18:00|-4}}
+|team1={{fb-rt|VEN}}
+|score=4–1
+|team2={{fb|BOL}}
+|goals1=
+*[[Salomón Rondón|Rondón]] {{goal|24||34||67}}
+*[[Darwin Machís|Machís]] {{goal|55}}
+|goals2=[[Bruno Miranda|Miranda]] {{goal|38}}
+|stadium=[[Estadio Agustín Tovar]], [[Barinas, Barinas|Barinas]]
+|attendance=24,000
+|referee=[[Guillermo Guerrero]] ([[Ecuadorian Football Federation|Ecuador]])
+|report=[https://www.fifa.com/fifaplus/en/match-centre/match/520/282735/282737/400104637 Report (FIFA)]<br/>[https://www.conmebol.com/analisis-del-partido?competition=342&season=112022&match=2043664 Report (CONMEBOL)]
+}}
+
+===Matchday 16===
+{{Football box
+|id=BOL v CHI
+|date={{Start date|2022|2|1|df=y}}
+|time={{UTZ|16:30|-4}}{{refn|group=note|The Bolivia vs Chile match, originally scheduled at 16:00 local time, was delayed until 16:30 local time due to heavy rainfall in La Paz.<ref>{{cite web|url=https://www.swissinfo.ch/spa/f%C3%BAtbol-catar-2022--bolivia-chile_el-partido-bolivia-chile-se-retrasa-media-hora-por-el-mal-clima/47312342|title=El partido Bolivia-Chile se retrasa media hora por el mal clima|publisher=[[Swissinfo]]|agency=[[EFE]]|date=1 February 2022|language=es}}</ref>}}
+|team1={{fb-rt|BOL}}
+|score=2–3
+|team2={{fb|CHI}}
+|goals1=
+*[[Marc Enoumba|Enoumba]] {{goal|37}}
+*[[Marcelo Martins Moreno|Moreno]] {{goal|88}}
+|goals2=
+*[[Alexis Sánchez|Sánchez]] {{goal|14||86}}
+*[[Marcelino Núñez|Núñez]] {{goal|77}}
+|stadium=[[Estadio Hernando Siles]], La Paz
+|attendance=28,000
+|referee=[[Alexis Herrera (referee)|Alexis Herrera]] ([[Venezuelan Football Federation|Venezuela]])
+|report=[https://www.fifa.com/fifaplus/en/match-centre/match/520/282735/282737/400104619 Report (FIFA)]<br/>[https://www.conmebol.com/analisis-del-partido?competition=342&season=112022&match=2043671 Report (CONMEBOL)]
+}}
+----
+{{Football box
+|id=URU v VEN
+|date={{Start date|2022|2|1|df=y}}
+|time={{UTZ|20:00|-3}}
+|team1={{fb-rt|URU}}
+|score=4–1
+|team2={{fb|VEN}}
+|goals1=
+*[[Rodrigo Bentancur|Bentancur]] {{goal|1}}
+*[[Giorgian de Arrascaeta|De Arrascaeta]] {{goal|23}}
+*[[Edinson Cavani|Cavani]] {{goal|45+1}}
+*[[Luis Suárez|L. Suárez]] {{goal|53|pen.}}
+|goals2=
+*[[Josef Martínez|Jf. Martínez]] {{goal|65}}
+|stadium=[[Estadio Centenario]], Montevideo
+|attendance=55,000
+|referee=[[Bruno Arleu]] ([[Brazilian Football Confederation|Brazil]])
+|report=[https://www.fifa.com/fifaplus/en/match-centre/match/520/282735/282737/400104629 Report (FIFA)]<br/>[https://www.conmebol.com/analisis-del-partido?competition=342&season=112022&match=2043668 Report (CONMEBOL)]
+}}
+----
+{{Football box
+|id=ARG v COL
+|date={{Start date|2022|2|1|df=y}}
+|time={{UTZ|20:30|-3}}
+|team1={{fb-rt|ARG}}
+|score=1–0
+|team2={{fb|COL}}
+|goals1=
+*[[Lautaro Martínez|La. Martínez]] {{goal|29}}
+|goals2=
+|stadium=[[Estadio Mario Alberto Kempes]], [[Córdoba, Argentina|Córdoba]]{{refn|group=note|The Argentina v Colombia match was relocated from [[Estadio Monumental Antonio Vespucio Liberti]], Buenos Aires<ref>{{cite web|url=https://www.conmebol.com/noticias/fechas-y-horarios-de-las-eliminatorias-sudamericanas/|title=Fechas y horarios de las Eliminatorias Sudamericanas|publisher=CONMEBOL|date=22 December 2021|language=es|archive-url=https://web.archive.org/web/20211222152849/https://www.conmebol.com/noticias/fechas-y-horarios-de-las-eliminatorias-sudamericanas/|archive-date=22 December 2021}}</ref><ref>{{cite web|url=https://web-test.conmebol.com/wp-content/uploads/2021/12/eliminatorias.pdf|title=Programa de partidos|publisher=CONMEBOL|date=22 December 2021|language=es|access-date=17 January 2022|archive-date=22 December 2021|archive-url=https://web.archive.org/web/20211222153053/https://web-test.conmebol.com/wp-content/uploads/2021/12/eliminatorias.pdf|url-status=dead}}</ref> to Estadio Mario Alberto Kempes, Córdoba.<ref>{{cite tweet|author=CONMEBOL|user=CONMEBOL|number=1481064383669485569|title=Cambio de sede|date=11 January 2022|language=es}}</ref>}}
+|attendance=50,000
+|referee=[[Raphael Claus]] ([[Brazilian Football Confederation|Brazil]])
+|report=[https://www.fifa.com/fifaplus/en/match-centre/match/520/282735/282737/400104625 Report (FIFA)]<br/>[https://www.conmebol.com/analisis-del-partido?competition=342&season=112022&match=2043672 Report (CONMEBOL)]
+}}
+----
+{{Football box
+|id=BRA v PAR
+|date={{Start date|2022|2|1|df=y}}
+|time={{UTZ|21:30|-3}}
+|team1={{fb-rt|BRA}}
+|score=4–0
+|team2={{fb|PAR}}
+|goals1=
+*[[Raphinha]] {{goal|28}}
+*[[Philippe Coutinho|Coutinho]] {{goal|62}}
+*[[Antony (footballer, born 2000)|Antony]] {{goal|86}}
+*[[Rodrygo]] {{goal|88}}
+|goals2=
+|stadium= [[Mineirão]], [[Belo Horizonte]]
+|attendance=32,344
+|referee=[[Facundo Tello]] ([[Argentine Football Association|Argentina]])
+|report=[https://www.fifa.com/fifaplus/en/match-centre/match/520/282735/282737/400104623 Report (FIFA)]<br/>[https://www.conmebol.com/analisis-del-partido?competition=342&season=112022&match=2043670 Report (CONMEBOL)]
+}}
+----
+{{Football box
+|id=PER v ECU
+|date={{Start date|2022|2|1|df=y}}
+|time={{UTZ|21:00|-5}}
+|team1={{fb-rt|PER}}
+|score=1–1
+|team2={{fb|ECU}}
+|goals1=
+*[[Edison Flores|Flores]] {{goal|69}}
+|goals2=
+*[[Michael Estrada|Estrada]] {{goal|2}}
+|stadium=[[Estadio Nacional del Perú|Estadio Nacional]], Lima
+|attendance=28,000
+|referee=[[Wilton Sampaio]] ([[Brazilian Football Confederation|Brazil]])
+|report=[https://www.fifa.com/fifaplus/en/match-centre/match/520/282735/282737/400104631 Report (FIFA)]<br/>[https://www.conmebol.com/analisis-del-partido?competition=342&season=112022&match=2043669 Report (CONMEBOL)]
+}}
+
+===Matchday 17===
+{{Football box
+|id=URU v PER
+|date={{Start date|2022|3|24|df=y}}
+|time={{UTZ|20:30|-3}}
+|team1={{fb-rt|URU}}
+|score=1–0
+|team2={{fb|PER}}
+|goals1=
+*[[Giorgian de Arrascaeta|De Arrascaeta]] {{goal|42}}
+|goals2=
+|stadium=[[Estadio Centenario]], Montevideo
+|attendance=40,000
+|referee=[[Anderson Daronco]] ([[Brazilian Football Confederation|Brazil]])
+|report=[https://www.fifa.com/fifaplus/en/match-centre/match/520/282735/282737/400104630 Report (FIFA)]<br/>[https://www.conmebol.com/analisis-del-partido?competition=342&season=112022&match=2043673 Report (CONMEBOL)]
+}}
+----
+{{Football box
+|id=COL v BOL
+|date={{Start date|2022|3|24|df=y}}
+|time={{UTZ|18:30|-5}}
+|team1={{fb-rt|COL}}
+|score=3–0
+|team2={{fb|BOL}}
+|goals1=
+*[[Luis Díaz (footballer, born 1997)|Díaz]] {{goal|39}}
+*[[Miguel Borja|Borja]] {{goal|72}}
+*[[Mateus Uribe|Uribe]] {{goal|90}}
+|goals2=
+|stadium=[[Estadio Metropolitano Roberto Meléndez]], [[Barranquilla]]
+|attendance=25,000
+|referee=[[Facundo Tello]] ([[Argentine Football Association|Argentina]])
+|report=[https://www.fifa.com/fifaplus/en/match-centre/match/520/282735/282737/400104628 Report (FIFA)]<br/>[https://www.conmebol.com/analisis-del-partido?competition=342&season=112022&match=2043674 Report (CONMEBOL)]
+}}
+----
+{{Football box
+|id=BRA v CHI
+|date={{Start date|2022|3|24|df=y}}
+|time={{UTZ|20:30|-3}}
+|team1={{fb-rt|BRA}}
+|score=4–0
+|team2={{fb|CHI}}
+|goals1=
+*[[Neymar]] {{goal|44|pen.}}
+*[[Vinícius Júnior|Vinícius]] {{goal|45+1}}
+*[[Philippe Coutinho|Coutinho]] {{goal|72|pen.}}
+*[[Richarlison]] {{goal|90+1}}
+|goals2=
+|stadium=[[Maracanã Stadium|Maracanã]], Rio de Janeiro{{refn|group=note|The Brazil v Chile match, originally scheduled to be played at [[Itaipava Arena Fonte Nova]], [[Salvador, Bahia|Salvador]],<ref>{{cite web|url=https://www.cbf.com.br/selecao-brasileira/noticias/selecao-masculina/em-marco-selecao-brasileira-enfrenta-o-chile-na-fonte-nova|title=Em março, Seleção Brasileira enfrentará o Chile na Fonte Nova|trans-title=In March, Brazilian national team will face Chile at Fonte Nova|publisher=[[Brazilian Football Confederation]]|date=29 October 2021|language=pt}}</ref> was relocated to Maracanã, Rio de Janeiro due to restrictions on the capacity of the stadiums in the State of [[Bahia]] due to the [[COVID-19 pandemic in Brazil|COVID-19 pandemic]].<ref>{{cite web|url=https://www.cbf.com.br/selecao-brasileira/noticias/selecao-masculina/selecao-brasileira-enfrentara-o-chile-no-maracana|title=Seleção Brasileira enfrentará o Chile no Maracanã|trans-title=Brazilian national team will face Chile at Maracanã|publisher=Brazilian Football Confederation|date=23 February 2022|language=pt}}</ref>}}
+|attendance=69,368
+|referee=[[Darío Herrera (referee)|Darío Herrera]] ([[Argentine Football Association|Argentina]])
+|report=[https://www.fifa.com/fifaplus/en/match-centre/match/520/282735/282737/400104624 Report (FIFA)]<br/>[https://www.conmebol.com/analisis-del-partido?competition=342&season=112022&match=2043675 Report (CONMEBOL)]
+}}
+----
+{{Football box
+|id=PAR v ECU
+|date={{Start date|2022|3|24|df=y}}
+|time={{UTZ|20:30|-3}}
+|team1={{fb-rt|PAR}}
+|score=3–1
+|team2={{fb|ECU}}
+|goals1=
+*[[Robert Morales (footballer)|Morales]] {{goal|10}}
+*[[Piero Hincapié|Hincapié]] {{goal|45+6|o.g.}}
+*[[Miguel Almirón|Almirón]] {{goal|54}}
+|goals2=
+*[[Jordy Caicedo|Caicedo]] {{goal|85|pen.}}
+|stadium=[[Estadio Antonio Aranda]], [[Ciudad del Este]]
+|attendance=10,000
+|referee=[[Jesús Valenzuela]] ([[Venezuelan Football Federation|Venezuela]])
+|report=[https://www.fifa.com/fifaplus/en/match-centre/match/520/282735/282737/400104636 Report (FIFA)]<br/>[https://www.conmebol.com/analisis-del-partido?competition=342&season=112022&match=2043676 Report (CONMEBOL)]
+}}
+----
+{{Football box
+|id=ARG v VEN
+|date={{Start date|2022|3|25|df=y}}
+|time={{UTZ|20:30|-3}}
+|team1={{fb-rt|ARG}}
+|score=3–0
+|team2={{fb|VEN}}
+|goals1=
+*[[Nicolás González (footballer, born 1998)|González]] {{goal|34}}
+*[[Ángel Di María|Di María]] {{goal|79}}
+*[[Lionel Messi|Messi]] {{goal|82}}
+|goals2=
+|stadium=[[La Bombonera|Estadio Alberto J. Armando]], Buenos Aires{{refn|group=note|The Argentina v Venezuela match, originally scheduled to be played at [[Estadio Monumental Antonio Vespucio Liberti]], Buenos Aires,<ref>{{cite web|url=https://www.afa.com.ar/es/posts/sede-confirmada2|title=Sede confirmada|publisher=Argentine Football Association|date=27 February 2022|language=es}}</ref> was relocated to Estadio Alberto J. Armando, Buenos Aires,<ref>{{cite web|url=https://www.afa.com.ar/es/posts/sede-confirmada2|title=Cambio de estadio|publisher=Argentine Football Association|date=8 March 2022|language=es}}</ref><ref>{{cite web|url=https://www.conmebol.com/noticias/fechas-y-horarios-de-las-eliminatorias-sudamericanas-2/|title=Fechas y horarios de las Eliminatorias Sudamericanas|publisher=CONMEBOL|date=8 March 2022|language=es}}</ref> due to renovations.<ref>{{cite web|url=https://www.ole.com.ar/seleccion/seleccion-argentina-venezuela-bombonera_0_MOEs9m6lX7.html|title=Es oficial: Argentina-Venezuela en la Bombonera|publisher=[[Olé (sports newspaper)|Olé]]|first=Sergio|last=Maffei|date=7 March 2022|language=es}}</ref>}}
+|attendance=42,000
+|referee=[[Kevin Ortega]] ([[Peruvian Football Federation|Peru]])
+|report=[https://www.fifa.com/fifaplus/en/match-centre/match/520/282735/282737/400104626 Report (FIFA)]<br/>[https://www.conmebol.com/analisis-del-partido?competition=342&season=112022&match=2043677 Report (CONMEBOL)]
+}}
+
+===Matchday 18===
+{{Football box
+|id=PER v PAR
+|date={{Start date|2022|3|29|df=y}}
+|time={{UTZ|18:30|-5}}
+|team1={{fb-rt|PER}}
+|score=2–0
+|team2={{fb|PAR}}
+|goals1=
+*[[Gianluca Lapadula|Lapadula]] {{goal|5}}
+*[[Yoshimar Yotún|Yotún]] {{goal|42}}
+|goals2=
+|stadium=[[Estadio Nacional del Perú|Estadio Nacional]], Lima
+|attendance=40,000
+|referee=[[Fernando Rapallini]] ([[Argentine Football Association|Argentina]])
+|report=[https://www.fifa.com/fifaplus/en/match-centre/match/520/282735/282737/400104632 Report (FIFA)]<br/>[https://www.conmebol.com/analisis-del-partido?competition=342&season=112022&match=2043678 Report (CONMEBOL)]
+}}
+----
+{{Football box
+|id=VEN v COL
+|date={{Start date|2022|3|29|df=y}}
+|time={{UTZ|19:30|-4}}
+|team1={{fb-rt|VEN}}
+|score=0–1
+|team2={{fb|COL}}
+|goals1=
+|goals2=[[James Rodríguez|Rodríguez]] {{goal|45+4|pen.}}
+|stadium=[[Polideportivo Cachamay]], [[Ciudad Guayana]]
+|attendance=
+|referee=[[Wilton Sampaio]] ([[Brazilian Football Confederation|Brazil]])
+|report=[https://www.fifa.com/fifaplus/en/match-centre/match/520/282735/282737/400104638 Report (FIFA)]<br/>[https://www.conmebol.com/analisis-del-partido?competition=342&season=112022&match=2043679 Report (CONMEBOL)]
+}}
+----
+{{Football box
+|id=BOL v BRA
+|date={{Start date|2022|3|29|df=y}}
+|time={{UTZ|19:30|-4}}
+|team1={{fb-rt|BOL}}
+|score=0–4
+|team2={{fb|BRA}}
+|goals1=
+|goals2=
+*[[Lucas Paquetá|Paquetá]] {{goal|24}}
+*[[Richarlison]] {{goal|45||90+1}}
+*[[Bruno Guimarães]] {{goal|66}}
+|stadium=[[Estadio Hernando Siles]], La Paz
+|attendance=
+|referee=[[Eber Aquino]] ([[Paraguayan Football Association|Paraguay]])
+|report=[https://www.fifa.com/fifaplus/en/match-centre/match/520/282735/282737/400104620 Report (FIFA)]<br/>[https://www.conmebol.com/analisis-del-partido?competition=342&season=112022&match=2043680 Report (CONMEBOL)]
+}}
+----
+{{Football box
+|id=CHI v URU
+|date={{Start date|2022|3|29|df=y}}
+|time={{UTZ|20:30|-3}}
+|team1={{fb-rt|CHI}}
+|score=0–2
+|team2={{fb|URU}}
+|goals1=
+|goals2=
+*[[Luis Suárez|L. Suárez]] {{goal|79}}
+*[[Federico Valverde|Valverde]] {{goal|90}}
+|stadium=[[Estadio San Carlos de Apoquindo]], Santiago
+|attendance=11,000
+|referee=[[Patricio Loustau]] ([[Argentine Football Association|Argentina]])
+|report=[https://www.fifa.com/fifaplus/en/match-centre/match/520/282735/282737/400104622 Report (FIFA)]<br/>[https://www.conmebol.com/analisis-del-partido?competition=342&season=112022&match=2043681 Report (CONMEBOL)]
+}}
+----
+{{Football box
+|id=ECU v ARG
+|date={{Start date|2022|3|29|df=y}}
+|time={{UTZ|18:30|-5}}
+|team1={{fb-rt|ECU}}
+|score=1–1
+|team2={{fb|ARG}}
+|goals1=[[Enner Valencia|Valencia]] {{goal|90+3}}
+|goals2=[[Julián Álvarez (footballer)|Álvarez]] {{goal|24}}
+|stadium=[[Estadio Monumental Isidro Romero Carbo]], [[Guayaquil]]
+|attendance=59,000
+|referee=[[Raphael Claus]] ([[Brazilian Football Confederation|Brazil]])
+|report=[https://www.fifa.com/fifaplus/en/match-centre/match/520/282735/282737/400104634 Report (FIFA)]<br/>[https://www.conmebol.com/analisis-del-partido?competition=342&season=112022&match=2043682 Report (CONMEBOL)]
+}}
+
+===Replay from matchday 6===
+{{Football box
+|id=BRA v ARG
+|date={{Start date|2022|9|21|df=y}}
+|time={{UTZ|20:00|-3}}
+|team1={{fb-rt|BRA}}
+|score=Cancelled{{refn|group=note|name=BRA v ARG}}
+|team2={{fb|ARG}}
+|goals1=
+|goals2=
+|stadium=[[Arena Corinthians|Neo Química Arena]], São Paulo
+|attendance=
+|referee=
+|report=[https://www.fifa.com/fifaplus/en/match-centre/match/520/282735/282737/400104558 Report (FIFA)]<br/>[https://www.conmebol.com/analisis-del-partido?competition=342&season=112022&match=2043620 Report (CONMEBOL)]
+}}
+
+==Inter-confederation play-off==
+{{main|2022 FIFA World Cup qualification (AFC–CONMEBOL play-off)}}
+The inter-confederation play-off was determined by a draw held on 26 November 2021. The fifth-placed team from CONMEBOL was drawn against the [[2022 FIFA World Cup qualification – AFC fourth round|AFC fourth round]] winners.<ref>{{cite news |url=https://www.fifa.com/news/european-and-intercontinental-play-off-draw-results-and-reaction |title=European and intercontinental play-off draw results and reaction |publisher=FIFA |date=26 November 2021 |access-date=26 November 2021}}</ref> The play-off was played as a single match in Qatar on 13 June 2022.<ref>{{cite news |url=https://en.as.com/en/2021/11/26/soccer/1637955253_226019.html |title=2022 World Cup inter-confederation play-off draw: fixtures and format |last=Allen |first=William |work=as.com |date=26 November 2021 |access-date=30 November 2021}}</ref>
+{{#lst:2022 FIFA World Cup qualification (inter-confederation play-offs)|playoff1}}
+
+==Qualified teams==
+[[File:2022 World Cup CONMEBOL qualification.svg|thumb|right|upright=1.0|{{legend|#0000FF|Qualified to the World Cup}}{{legend|#ffcc00|Failed to qualify}}{{legend|#CCCCCC|Not a CONMEBOL member}}]]
+The following four teams from CONMEBOL qualified for the final tournament.
+{| class="wikitable sortable"
+|-
+! Team
+! Qualified as
+! Qualified on
+! data-sort-type="number"|Previous [[National team appearances in the FIFA World Cup|appearances]] in [[FIFA World Cup]]<sup>'''[[#1|1]]'''</sup>
+|-
+| {{fb|BRA}} || {{sort|1|Winners}} || {{dts|11 November 2021}} || 21 ([[1930 FIFA World Cup|1930]], [[1934 FIFA World Cup|1934]], [[1938 FIFA World Cup|1938]], ''[[1950 FIFA World Cup|1950]]'', [[1954 FIFA World Cup|1954]], '''[[1958 FIFA World Cup|1958]]''', '''[[1962 FIFA World Cup|1962]]''', [[1966 FIFA World Cup|1966]], '''[[1970 FIFA World Cup|1970]]''', [[1974 FIFA World Cup|1974]], [[1978 FIFA World Cup|1978]], [[1982 FIFA World Cup|1982]], [[1986 FIFA World Cup|1986]], [[1990 FIFA World Cup|1990]], '''[[1994 FIFA World Cup|1994]]''', [[1998 FIFA World Cup|1998]], '''[[2002 FIFA World Cup|2002]]''', [[2006 FIFA World Cup|2006]], [[2010 FIFA World Cup|2010]], ''[[2014 FIFA World Cup|2014]]'', [[2018 FIFA World Cup|2018]])
+|-
+| {{fb|ARG}} || {{sort|2|Runners-up}} || {{dts|16 November 2021}} || 17 ([[1930 FIFA World Cup|1930]], [[1934 FIFA World Cup|1934]], [[1958 FIFA World Cup|1958]], [[1962 FIFA World Cup|1962]], [[1966 FIFA World Cup|1966]], [[1974 FIFA World Cup|1974]], '''''[[1978 FIFA World Cup|1978]]''''', [[1982 FIFA World Cup|1982]], '''[[1986 FIFA World Cup|1986]]''', [[1990 FIFA World Cup|1990]], [[1994 FIFA World Cup|1994]], [[1998 FIFA World Cup|1998]], [[2002 FIFA World Cup|2002]], [[2006 FIFA World Cup|2006]], [[2010 FIFA World Cup|2010]], [[2014 FIFA World Cup|2014]], [[2018 FIFA World Cup|2018]])
+|-
+| {{fb|URU}} || {{sort|3|Third place}} || {{dts|24 March 2022|addkey=2}} || 13 ('''''[[1930 FIFA World Cup|1930]]''''', '''[[1950 FIFA World Cup|1950]]''', [[1954 FIFA World Cup|1954]], [[1962 FIFA World Cup|1962]], [[1966 FIFA World Cup|1966]], [[1970 FIFA World Cup|1970]], [[1974 FIFA World Cup|1974]], [[1986 FIFA World Cup|1986]], [[1990 FIFA World Cup|1990]], [[2002 FIFA World Cup|2002]], [[2010 FIFA World Cup|2010]], [[2014 FIFA World Cup|2014]], [[2018 FIFA World Cup|2018]])
+|-
+| {{fb|ECU}} || {{sort|4|Fourth place}} || {{dts|24 March 2022|addkey=1}} || 3 ([[2002 FIFA World Cup|2002]], [[2006 FIFA World Cup|2006]], [[2014 FIFA World Cup|2014]])
+|}
+:<div id="1"><sup>1</sup> '''Bold''' indicates champions for that year. ''Italic'' indicates hosts for that year.</div>
+
+==Goalscorers==
+{{Goalscorers
+|goals=223 |matches=89
+
+|10 goals=
+*{{fbicon|BOL}} [[Marcelo Martins Moreno|Marcelo Moreno]]
+
+|8 goals=
+*{{fbicon|BRA}} [[Neymar]]
+*{{fbicon|URU}} [[Luis Suárez]]
+
+|7 goals=
+*{{fbicon|ARG}} [[Lautaro Martínez]]
+*{{fbicon|ARG}} [[Lionel Messi]]
+
+|6 goals=
+*{{fbicon|BRA}} [[Richarlison]]
+*{{fbicon|CHI}} [[Alexis Sánchez]]
+*{{fbicon|ECU}} [[Michael Estrada]]
+
+|5 goals=
+*{{fbicon|PER}} [[Christian Cueva]]
+*{{fbicon|URU}} [[Giorgian de Arrascaeta]]
+
+|4 goals=
+*{{fbicon|CHI}} [[Arturo Vidal]]
+*{{fbicon|COL}} [[Miguel Borja]]
+*{{fbicon|ECU}} [[Enner Valencia]]
+*{{fbicon|PAR}} [[Ángel Romero (footballer)|Ángel Romero]]
+*{{fbicon|VEN}} [[Salomón Rondón]]
+
+|3 goals=
+*{{fbicon|ARG}} [[Ángel Di María]]
+*{{fbicon|ARG}} [[Nicolás González (footballer, born 1998)|Nicolás González]]
+*{{fbicon|BOL}} [[Juan Carlos Arce]]
+*{{fbicon|BRA}} [[Philippe Coutinho]]
+*{{fbicon|BRA}} [[Roberto Firmino]]
+*{{fbicon|BRA}} [[Lucas Paquetá]]
+*{{fbicon|BRA}} [[Raphinha]]
+*{{fbicon|CHI}} [[Ben Brereton Díaz|Ben Brereton]]
+*{{fbicon|CHI}} [[Erick Pulgar]]
+*{{fbicon|COL}} [[Luis Díaz (footballer, born 1997)|Luis Díaz]]
+*{{fbicon|COL}} [[Luis Muriel]]
+*{{fbicon|ECU}} [[Gonzalo Plata]]
+*{{fbicon|PER}} [[André Carrillo]]
+*{{fbicon|PER}} [[Gianluca Lapadula]]
+*{{fbicon|VEN}} [[Darwin Machís]]
+
+|2 goals=
+*{{fbicon|ARG}} [[Joaquín Correa]]
+*{{fbicon|BRA}} [[Antony (footballer, born 2000)|Antony]]
+*{{fbicon|BRA}} [[Gabriel Barbosa]]
+*{{fbicon|BRA}} [[Marquinhos]]
+*{{fbicon|BRA}} [[Éverton Ribeiro]]
+*{{fbicon|COL}} [[James Rodríguez]]
+*{{fbicon|COL}} [[Mateus Uribe]]
+*{{fbicon|ECU}} [[Moisés Caicedo]]
+*{{fbicon|ECU}} [[Pervis Estupiñán]]
+*{{fbicon|ECU}} [[Ángel Mena]]
+*{{fbicon|ECU}} [[Félix Torres (footballer, born 1997)|Félix Torres]]
+*{{fbicon|PAR}} [[Alejandro Romero Gamarra]]
+*{{fbicon|PER}} [[Edison Flores]]
+*{{fbicon|PER}} [[Sergio Peña (Peruvian footballer)|Sergio Peña]]
+*{{fbicon|PER}} [[Renato Tapia]]
+*{{fbicon|URU}} [[Edinson Cavani]]
+*{{fbicon|URU}} [[Federico Valverde]]
+*{{fbicon|VEN}} [[Jhon Chancellor]]
+
+|1 goal=
+*{{fbicon|ARG}} [[Julián Álvarez (footballer)|Julián Álvarez]]
+*{{fbicon|ARG}} [[Ángel Correa]]
+*{{fbicon|ARG}} [[Rodrigo De Paul]]
+*{{fbicon|ARG}} [[Leandro Paredes]]
+*{{fbicon|ARG}} [[Cristian Romero (footballer, born 1998)|Cristian Romero]]
+*{{fbicon|BOL}} [[Víctor Ábrego]]
+*{{fbicon|BOL}} [[Diego Bejarano]]
+*{{fbicon|BOL}} [[Boris Céspedes]]
+*{{fbicon|BOL}} [[Marc Enoumba]]
+*{{fbicon|BOL}} [[Roberto Fernández (Bolivian footballer)|Roberto Fernández]]
+*{{fbicon|BOL}} [[Bruno Miranda]]
+*{{fbicon|BOL}} [[Rodrigo Ramallo]]
+*{{fbicon|BOL}} [[Fernando Saucedo]]
+*{{fbicon|BOL}} [[Ramiro Vaca]]
+*{{fbicon|BOL}} [[Moisés Villarroel Angulo|Moisés Villarroel]]
+*{{fbicon|BRA}} [[Arthur Melo|Arthur]]
+*{{fbicon|BRA}} [[Casemiro]]
+*{{fbicon|BRA}} [[Bruno Guimarães]]
+*{{fbicon|BRA}} [[Rodrygo]]
+*{{fbicon|BRA}} [[Vinícius Júnior|Vinícius]]
+*{{fbicon|CHI}} [[Mauricio Isla]]
+*{{fbicon|CHI}} [[Jean Meneses]]
+*{{fbicon|CHI}} [[Marcelino Núñez]]
+*{{fbicon|COL}} [[Juan Cuadrado]]
+*{{fbicon|COL}} [[Radamel Falcao]]
+*{{fbicon|COL}} [[Jefferson Lerma]]
+*{{fbicon|COL}} [[Roger Martínez]]
+*{{fbicon|COL}} [[Yerry Mina]]
+*{{fbicon|COL}} [[Duván Zapata]]
+*{{fbicon|ECU}} [[Robert Arboleda]]
+*{{fbicon|ECU}} [[Xavier Arreaga]]
+*{{fbicon|ECU}} [[Beder Caicedo]]
+*{{fbicon|ECU}} [[Jordy Caicedo]]
+*{{fbicon|ECU}} [[Carlos Gruezo (footballer, born 1995)|Carlos Gruezo]]
+*{{fbicon|ECU}} [[Piero Hincapié]]
+*{{fbicon|PAR}} [[Miguel Almirón]]
+*{{fbicon|PAR}} [[Gastón Giménez (footballer, born 1991)|Gastón Giménez]]
+*{{fbicon|PAR}} [[David Martínez (footballer, born 1998)|David Martínez]]
+*{{fbicon|PAR}} [[Robert Morales (footballer)|Robert Morales]]
+*{{fbicon|PAR}} [[Antonio Sanabria]]
+*{{fbicon|PER}} [[Luis Advíncula]]
+*{{fbicon|PER}} [[Yoshimar Yotún]]
+*{{fbicon|URU}} [[Agustín Álvarez (footballer, born May 2001)|Agustín Álvarez]]
+*{{fbicon|URU}} [[Rodrigo Bentancur]]
+*{{fbicon|URU}} [[Maxi Gómez]]
+*{{fbicon|URU}} [[Darwin Núñez]]
+*{{fbicon|URU}} [[Gastón Pereiro]]
+*{{fbicon|VEN}} [[Eduard Bello]]
+*{{fbicon|VEN}} [[Luis Mago]]
+*{{fbicon|VEN}} [[Josef Martínez]]
+*{{fbicon|VEN}} [[Eric Ramírez (footballer, born 1998)|Eric Ramírez]]
+*{{fbicon|VEN}} [[Yeferson Soteldo]]
+
+|1 own goal=
+*{{fbicon|BOL}} [[José María Carrasco]] (against Brazil)
+*{{fbicon|ECU}} [[Piero Hincapié]] (against Paraguay)
+}}
+
+==Notes==
+{{reflist|group=note}}
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{Official website|https://www.fifa.com/tournaments/mens/worldcup/qatar2022/qualifiers|Official FIFA World Cup website}}
+**[https://www.fifa.com/tournaments/mens/worldcup/qatar2022/qualifiers/conmebol Qualifiers – South America Matches: Round-robin], FIFA.com
+{{2022 FIFA World Cup qualifiers}}
+{{CONMEBOL World Cup}}
+
+[[Category:FIFA World Cup qualification (CONMEBOL)]]
+[[Category:2022 FIFA World Cup qualification| ]]
+[[Category:2020 in South American football]]
+[[Category:2021 in South American football]]
+[[Category:2022 in South American football]]
+[[Category:October 2020 sports events in South America|FIFA World Cup qualification (CONMEBOL)]]
+[[Category:November 2020 sports events in South America|FIFA World Cup qualification (CONMEBOL)]]
+[[Category:March 2021 sports events in South America|FIFA World Cup qualification (CONMEBOL)]]
+[[Category:June 2021 sports events in South America|FIFA World Cup qualification (CONMEBOL)]]
+[[Category:September 2021 sports events in South America|FIFA World Cup qualification (CONMEBOL)]]
+[[Category:October 2021 sports events in South America|FIFA World Cup qualification (CONMEBOL)]]
+[[Category:November 2021 sports events in South America|FIFA World Cup qualification (CONMEBOL)]]
+[[Category:January 2022 sports events in South America|FIFA World Cup qualification (CONMEBOL)]]
+[[Category:February 2022 sports events in South America|FIFA World Cup qualification (CONMEBOL)]]
+[[Category:March 2022 sports events in South America|FIFA World Cup qualification (CONMEBOL)]]
+[[Category:Association football events postponed due to the COVID-19 pandemic|FIFA World Cup qualification (CONMEBOL), 2020]]
+[[Category:Argentina at the 2022 FIFA World Cup]]
+[[Category:Brazil at the 2022 FIFA World Cup]]
+[[Category:Ecuador at the 2022 FIFA World Cup]]
+[[Category:Uruguay at the 2022 FIFA World Cup]]

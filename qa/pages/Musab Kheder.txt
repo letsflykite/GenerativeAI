@@ -1,0 +1,91 @@
+{{short description|Qatari footballer}}
+{{Use dmy dates|date=November 2022}}
+{{Infobox football biography
+| name = Musab Kheder
+| image =  
+| fullname = Musab Kheder Kamal Djebril
+| birth_date = {{birth date and age|1993|09|26|df=yes}}
+| birth_place = [[Khartoum]], Sudan
+| height = {{height|m=1.76|precision=0}}<ref name="FIFA 2022">{{cite web |url=https://fdp.fifa.org/assetspublic/ce44/pdf/SquadLists-English.pdf |title=FIFA World Cup Qatar 2022™: List of Players: Qatar |publisher=FIFA |page=23 |date=15 November 2022 |access-date=15 November 2022 |archive-url=https://web.archive.org/web/20221218195301/https://fdp.fifa.org/assetspublic/ce44/pdf/SquadLists-English.pdf |archive-date=18 December 2022 |url-status=live}}</ref>
+| currentclub  = [[Al Sadd SC|Al-Sadd]]
+| clubnumber  = 70
+| position = [[Defender (association football)|Right-Back]] 
+| youthyears1 = 
+| youthclubs1 = 
+| years1 = 2012–
+| clubs1 = [[Al Sadd SC|Al-Sadd]]
+| caps1 = 109
+| goals1 = 3
+| years2 = 2017
+| clubs2 = → [[Al-Rayyan SC|Al-Rayyan]] (loan)
+| caps2 = 7
+| goals2 = 0
+| years3 = 2018–2020
+| clubs3 = → [[Al-Arabi SC (Qatar)|Al-Arabi]] (loan)
+| caps3 = 23
+| goals3 = 0
+| nationalyears1= 2015-2016
+| nationalteam1= [[Qatar national under-23 football team|Qatar U23]]
+| nationalcaps1= 10
+| nationalgoals1 = 0
+| nationalyears2= 2016–
+| nationalteam2= [[Qatar national football team|Qatar]]
+| nationalcaps2= 30 
+| nationalgoals2 = 0
+| club-update = 19 April 2023 (UTC)
+| ntupdate = 10 November 2022 (UTC)
+| medaltemplates = {{MedalCountry|{{fb|QAT}}}}
+{{MedalSport|Men's [[association football|football]]}}
+{{MedalComp|[[FIFA Arab Cup]]}}
+{{Medal|3rd|[[2021 FIFA Arab Cup|2021]]|}}
+}}
+'''Musab Kheder''' ({{lang-ar|مصعب خضر}}; born 26 September 1993) is a professional [[football (soccer)|footballer]] who plays for [[Al Sadd SC|Al-Sadd]]. Born in Sudan, he represents the [[Qatar national football team|Qatar national team]].
+
+==Club career==
+Kheder began his professional career with Al Sadd SC in 2012. In January 2017 he was loaned to [[Al-Rayyan SC]] and from 2018 to 2020 to [[Al-Arabi SC (Qatar)|Al-Arabi SC]].<ref>{{cite web | url=https://thepeninsulaqatar.com/article/17/05/2017/Al-Rayyan-star-Musab-urges-smart-football-in-the-final | title=Al Rayyan star Musab urges smart football in the final | date=2017-05-17 | accessdate=2023-04-19}}</ref><ref>{{cite web | url=https://thepeninsulaqatar.com/article/20/07/2017/Kheder-extends-deal-as-Al-Sadd-gear-up-for-new-QSL-season | title=Kheder extends deal as Al Sadd gear up for new QSL season | date= 2017-07-20| accessdate=2023-04-19}}</ref><ref>{{cite web | url=https://int.soccerway.com/players/musab-kheder/267581/ | title=Musaab Khidir | date= | accessdate=2023-04-19}}</ref>
+
+==Honours==
+===Club===
+'''Al-Sadd'''
+*[[Qatar Stars League]]: [[2012-13 Qatar Stars League|2012-13]], [[2020-21 Qatar Stars League|2020-21]], [[2021-22 Qatar Stars League|2021-22]]
+*[[Emir of Qatar Cup]]: [[2014 Emir of Qatar Cup|2014]], [[2015 Emir of Qatar Cup|2015]], [[2020 Emir of Qatar Cup|2020]], [[2021 Emir of Qatar Cup|2021]]
+*[[Qatar Cup]]: [[2021 Qatar Cup|2021]]
+*[[Sheikh Jassim Cup]]: [[2014 Sheikh Jassim Cup|2014]], [[2017 Sheikh Jassim Cup|2017]]
+*[[Qatari Stars Cup]]: [[2019-20 Qatari Stars Cup|2019-20]]
+
+==References==
+{{reflist}}
+
+==External links==
+* {{soccerway|musab-kheder/267581}}
+
+{{Al Sadd SC squad}}
+{{Navboxes
+|title=Qatar squads
+|bg=#660033
+|fg=white
+|bordercolor=white
+|list1=
+{{Qatar squad 2021 CONCACAF Gold Cup}}
+{{Qatar squad 2022 FIFA World Cup}}
+{{Qatar squad 2023 CONCACAF Gold Cup}}
+}}
+
+{{DEFAULTSORT:Kheder, Musab}}
+[[Category:1993 births]]
+[[Category:Living people]]
+[[Category:Qatari men's footballers]]
+[[Category:Al Sadd SC players]]
+[[Category:Al-Rayyan SC players]]
+[[Category:Al-Arabi SC (Qatar) players]]
+[[Category:Qatari people of Sudanese descent]]
+[[Category:Sudanese emigrants to Qatar]]
+[[Category:Naturalised citizens of Qatar]]
+[[Category:Qatar Stars League players]]
+[[Category:Men's association football fullbacks]]
+[[Category:2021 CONCACAF Gold Cup players]]
+[[Category:2022 FIFA World Cup players]]
+[[Category:2023 CONCACAF Gold Cup players]]
+[[Category:Sportspeople from Khartoum]]
+
+{{Qatar-footy-defender-stub}}

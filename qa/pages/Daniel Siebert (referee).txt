@@ -1,0 +1,65 @@
+{{short description|German football referee}}
+{{Other people||Daniel Siebert (disambiguation){{!}}Daniel Siebert}}
+{{Use dmy dates|date=November 2022}}
+{{Infobox football official
+| name                = Daniel Siebert
+| image               = Daniel Siebert (Fußballschiedsrichter) 3.jpg
+| caption             = Daniel Siebert, 2018
+| birth_date          = {{Birth date and age|1984|5|4|df=y}}
+| birth_place         = [[East Berlin]], [[East Germany]]
+| death_date          = <!-- Use {{Death date and age|YYYY|MM|DD|YYYY|MM|DD|df=y}} if dead (death date followed by birth date) -->
+| death_place         =
+| otheroccupation     = [[Sports science|Sports scientist]]
+| years1              = 2007–
+| league1             = [[German Football Association|DFB]]
+| role1               = Referee
+| years2              = 2009–
+| league2             = [[2. Bundesliga]]
+| role2               = Referee
+| years3              = 2012–
+| league3             = [[Bundesliga]]
+| role3               = Referee
+| internationalyears1 = 2015–
+| confederation1      = [[FIFA International Referees List|FIFA listed]]
+| internationalrole1  = Referee
+}}
+'''Daniel Siebert''' (born 4 May 1984) is a German [[Association football|football]] referee who is based in [[Berlin]]. He referees for FC Nordost Berlin of the [[Berlin Football Association]]. He is a [[FIFA]] referee, and is ranked as a [[UEFA]] elite category referee.
+
+==Refereeing career==
+Siebert, referee of the club FC Nordost Berlin, has been officiating since 1998. In 2007, he was appointed as a [[German Football Association|DFB]] referee. Siebert made his premiere in the [[2. Bundesliga]] in 2009. He was appointed as a [[Bundesliga]] referee for the 2012–13 season, and made his first top-flight appearance in the match between [[FC Schalke 04|Schalke 04]] and [[FC Augsburg]] on 1 September 2012, issuing three yellow cards.
+
+On 24 October 2014, it was announced Siebert would replace [[Wolfgang Stark]] as a [[FIFA International Referees List|FIFA referee]] in 2015.<ref>[https://www.dfb.de/news/detail/dfb-meldet-daniel-siebert-fuer-fifa-liste-108894/ DFB meldet Daniel Siebert für FIFA-Liste]</ref> This made Siebert the youngest of the ten German FIFA referees.<ref name=JL1>{{cite news | url = http://www.morgenpost.de/printarchiv/sport/article134083175/Fuer-mich-geht-ein-Traum-in-Erfuellung.html | archive-url = https://web.archive.org/web/20141108013304/https://www.morgenpost.de/printarchiv/sport/article134083175/Fuer-mich-geht-ein-Traum-in-Erfuellung.html | archive-date = 8 November 2014 | title = Für mich geht ein Traum in Erfüllung | trans-title = A dream of mine is fulfilled | language = de | first = Jörn | last = Lange | newspaper = [[Berliner Morgenpost]] | date = 7 November 2014 }}</ref>
+
+Siebert made his international debut on 29 May 2015 when he officiated the [[2015 UEFA European Under-19 Championship qualification]] match between Portugal and Turkey. The first senior international match Siebert officiated was a [[Exhibition game|friendly match]] between Luxembourg and Moldova on 9 June 2015.
+
+Siebert has officiated 3 matches during the [[UEFA Euro 2020|2020 European Championship]]. He oversaw the [[UEFA Euro 2020 Group D#Scotland vs Czech Republic|Group D Scotland–Czech Republic fixture]], the [[UEFA Euro 2020 Group E#Sweden vs Slovakia|Group E Sweden–Slovakia match]], and the [[UEFA Euro 2020 knockout phase#Wales vs Denmark|Round of 16 game between Wales and Denmark]].
+
+He whistled 4 matches of the [[2021 FIFA Arab Cup]] such as the final match between [[Tunisian Football Federation|Tunisia]] and [[Algerian Football Federation|Algeria]].[https://www.fifa.com/tournaments/mens/arabcup/arabcup2021/match-center/400175835]
+
+==Personal life==
+Siebert was born in [[Berlin]], where he still lives. He works as a teacher part-time at a sports school in Berlin.<ref name=JL1/>
+
+==References==
+{{reflist}}
+
+==External links==
+* [https://www.dfb.de/sportl-strukturen/schiedsrichter/schiedsrichter-im-einsatz/schiedsrichter-der-bundesligen/daniel-siebert/ Profile] at dfb.de {{in lang|de}}
+* [http://www.worldfootball.net/referee_summary/daniel-siebert/ Profile] at worldfootball.net
+
+{{Bundesliga referees}}
+{{UEFA Elite Referees}}
+{{UEFA Euro 2020 referees}}
+{{2022 FIFA World Cup referees}}
+
+{{DEFAULTSORT:Siebert, Daniel}}
+[[Category:1984 births]]
+[[Category:Living people]]
+[[Category:German football referees]]
+[[Category:UEFA Champions League referees]]
+[[Category:Sportspeople from Berlin]]
+[[Category:UEFA Euro 2020 referees]]
+[[Category:2022 FIFA World Cup referees]]
+[[Category:FIFA World Cup referees]]
+
+
+{{Germany-footy-bio-stub}}

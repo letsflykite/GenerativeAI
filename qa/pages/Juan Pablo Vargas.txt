@@ -1,0 +1,100 @@
+{{Use dmy dates|date=November 2022}}
+{{short description|Costa Rican football player (born 1995)}}
+{{family name hatnote|Vargas|Campos|lang=Spanish}}
+{{Infobox football biography
+| name = Juan Pablo Vargas
+| image = Juan Pablo Vargas - 2019.jpg
+| caption = Vargas with [[Deportes Tolima]] in 2019
+| fullname = Juan Pablo Vargas Campos<ref name="FIFA 2022">{{cite web |url=https://fdp.fifa.org/assetspublic/ce44/pdf/SquadLists-English.pdf |title=FIFA World Cup Qatar 2022 – Squad list: Costa Rica (CRC) |publisher=[[FIFA]] |page=7 |date=15 November 2022 |access-date=15 November 2022}}</ref>
+| birth_date = {{Birth date and age|1995|6|6|df=y}}<ref name="FIFA 2022"/>
+| birth_place = [[Sarchí (canton)|Sarchí]], Costa Rica
+| height = 1.92 m<ref name="FIFA 2022"/>
+| position = [[Defender (association football)|Defender]]
+| currentclub = [[Millonarios F.C.|Millonarios]]
+| clubnumber = 5
+| youthyears1 = 
+| youthclubs1 = 
+| years1 = 2015–2018
+| clubs1 = [[Liga Deportiva Alajuelense|Alajuelense]]
+| caps1 = 35
+| goals1 = 3
+| years2 = 2016–2017
+| clubs2 = → [[Belén F.C.|Belen]] (loan)
+| caps2 = 34
+| goals2 = 4
+| years3 = 2018–2019
+| clubs3 = [[Deportes Tolima]]
+| caps3 = 17
+| goals3 = 0
+| years4 = 2020–
+| clubs4 = [[Millonarios F.C.|Millonarios]]
+| caps4 = 128
+| goals4 = 5
+| nationalyears1 = 2017–
+| nationalteam1 = [[Costa Rica national football team|Costa Rica]]
+| nationalcaps1 = 18
+| nationalgoals1 = 3
+| club-update = 28 June 2023
+| nationalteam-update = 4 July 2023
+}}
+
+'''Juan Pablo Vargas Campos''' (born 6 June 1995) is a Costa Rican professional [[Association football|footballer]] who plays as a [[Defender (association football)|defender]] for [[Categoría Primera A]] club [[Millonarios FC|Millonarios]] and the [[Costa Rica national football team|Costa Rica national team]].<ref>{{cite web|url=https://www.mlssoccer.com/players/juan-pablo-vargas/|title=Juan Pablo Vargas|website=Major League Soccer}}</ref><ref>{{cite web|url=https://int.soccerway.com/players/juan-pablo-vargas/394586/|title=J. Vargas|website=Soccerway}}</ref>
+
+==Club career==
+Vargas came through the academy at [[Liga Deportiva Alajuelense]] and was promoted to the main squad by coach [[Óscar Ramírez (footballer, born 1964)|Óscar Ramírez]] on 30 May 2013, along with the other youth [[Ronald Matarrita]] and [[Steve Garita]].<ref>{{Cite web|url=http://www.aldia.cr/futbol-costa-rica/alajuelense/Liga-Steve_Garita-Ronald_Matarrita-Juan_Pablo_Vargas_1_144595549.html|title=Steve Garita, Ronald Matarrita and Juan Pablo Vargas arrive at the Alajuelense first team|website=Aldia.cr}}</ref>
+
+Vargas has achieved great form playing for Millonarios and has been called the best defender playing in the Colombian league, with some [[tongue-in-cheek]] comparisons with [[Lionel Messi]] after an assist in a 4–1 win against [[Cortuluá]].<ref>{{Cite web|url=https://futbolcentroamerica.com/costarica/Juan-Pablo-Vargas-se-vistio-de-Messi-y-repartio-una-extraordinaria-asistencia-en-Colombia-VIDEO-20220830-0019.html|title=Juan Pablo Vargas "dressed up as Messi" and distributed an extraordinary assistance in Colombia|website=futbolcentoamerica.com}}</ref> Vargas played as Millionarios reached the final of the [[Copa Colombia]] in September 2022.<ref>{{Cite web|url=https://futbolcentroamerica.com/costarica/Costa-Rica-Juan-Pablo-Vargas-a-un-paso-de-hacer-historia-con-Millonarios-en-Colombia--20220908-0005.html|title=Costa Rica: Juan Pablo Vargas one step away from making history with Millionaires in Colombia|website=futbolcentroamerica.com}}</ref>
+
+==International career==
+Vargas made his senior [[Costa Rica national football team|Costa Rica]] debut at the [[2017 Copa Centroamericana]], playing in a 3–0 win over [[Belize national football team|Belize]] on January 15, 2017.<ref>{{Cite web|url=http://www.worldfootball.com/m/528036/2017-01-15/copa-centroamericana/belize/costa-rica|title=Copa Centroamericano Belize vs. Costa Rica|website=worldfootball.com}}</ref> He scored his first goal for the national team in a [[2022 FIFA World Cup qualification]] match against the [[United States men's national soccer team|United States]], netting the opener in a 2–0 victory on March 30, 2022.<ref>{{cite web|url=https://gladiadoresdelfutbol.com/2022/03/30/video-el-tremendo-golazo-de-cabeza-de-juan-pablo-vargas-que-tiene-a-costa-rica-ganandole-a-usa/|date=March 30, 2022|title=VIDEO: El tremendo golazo de cabeza de Juan Pablo Vargas que tiene a Costa Rica ganándole a USA|first=Julian|last=Sierra}}</ref> In November 2022, Vargas was named to Costa Rica's squad for the [[2022 FIFA World Cup]].<ref>{{cite web|url=https://www.fifa.com/fifaplus/en/articles/costa-rica-squad-list-fifa-world-cup-qatar-2022|title=Suarez names Costa Rica squad for Qatar 2022}}</ref>
+
+{| class="wikitable"
+|+ List of international goals scored by Juan Pablo Vargas
+|-
+! No. !! Date !! Venue !! Opponent !! Score !! Result !! Competition
+|-
+| 1. || 30 March 2022 || [[Estadio Nacional de Costa Rica (2011)|Estadio Nacional]], [[San José, Costa Rica|San José]], Costa Rica || {{fb|USA}} || align=center|'''1'''–0 || align=center| 2–0 || [[2022 FIFA World Cup qualification – CONCACAF third round|2022 FIFA World Cup qualification]]
+|-
+| 2. || 1 December 2022 || [[Al Bayt Stadium]], [[Al Khor]], Qatar || {{fb|GER}} || align=center|'''2'''–1 || align=center| 2–4 || [[2022 FIFA World Cup Group E|2022 FIFA World Cup]]
+|-
+| 3. || 4 July 2023 || [[Red Bull Arena (New Jersey)|Red Bull Arena]], [[Harrison, New Jersey|Harrison]], United States || {{fb|MTQ}} || align=center|'''3'''–1 || align=center| 6–4 || [[2023 CONCACAF Gold Cup Group C|2023 CONCACAF Gold Cup]]
+|}
+
+==Honours==
+;Millonarios
+*[[Copa Colombia]] (1): [[2022 Copa Colombia|2022]]<ref>{{cite news |title=Repretel : Juan Pablo Vargas salió campeón de copa con Millonarios |url=https://www.repretel.com/noticia/juan-pablo-vargas-salio-campeon-de-copa-con-millonarios/ |access-date=4 November 2022 |work=Repretel |date=2 November 2022 |language=es-CR}}</ref>
+* [[Categoría Primera A]] (1): [[2023 Categoría Primera A season#Torneo Apertura|2023–I]]
+
+==References==
+{{reflist}}
+
+{{Millonarios F.C. squad}}
+
+{{Navboxes
+| title       = Costa Rica squads
+| bg          = #ce1126
+| fg          = white
+| bordercolor = blue
+| list1       =  
+{{Costa Rica squad 2017 CONCACAF Gold Cup}}
+{{Costa Rica squad 2022 FIFA World Cup}}
+{{Costa Rica squad 2023 CONCACAF Gold Cup}}
+}}
+
+{{DEFAULTSORT:Vargas, Juan Pablo}}
+[[Category:1995 births]]
+[[Category:Living people]]
+[[Category:Costa Rican men's footballers]]
+[[Category:Costa Rica men's international footballers]]
+[[Category:People from Sarchí (canton)]]
+[[Category:Sportspeople from Alajuela Province]]
+[[Category:Liga Deportiva Alajuelense footballers]]
+[[Category:Millonarios F.C. players]]
+[[Category:Deportes Tolima footballers]]
+[[Category:Men's association football defenders]]
+[[Category:Belén F.C. players]]
+[[Category:2017 CONCACAF Gold Cup players]]
+[[Category:2022 FIFA World Cup players]]
+[[Category:2023 CONCACAF Gold Cup players]]
+
+{{CostaRica-footy-bio-stub}}

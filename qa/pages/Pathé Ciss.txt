@@ -1,0 +1,136 @@
+{{short description|Senegalese footballer}}
+{{Use dmy dates|date=September 2022}}
+{{Infobox football biography
+| name        = Pathé Ciss
+| image       =
+| image_size  =
+| caption     =
+| full_name   = Pathé Ismaël Ciss
+| birth_date  = {{birth date and age|1994|3|16|df=y}}
+| birth_place = [[Dakar]], Senegal
+| height      = 1.86 m
+| position    = [[Central midfielder]]
+| currentclub = [[Rayo Vallecano]]
+| clubnumber  = 21
+| youthyears1 = 2006-2014
+| youthclubs1 = [[Diambars FC|Diambars]] 
+| years1 = 2014–2017
+| clubs1 = [[Diambars FC|Diambars]] 
+| caps1  = 
+| goals1 = 
+| years2 = 2017–2020 
+| clubs2 = [[C.F. União|União Madeira]] 
+| caps2  = 30 
+| goals2 = 2
+| years3 = 2018–2019 
+| clubs3 = → [[F.C. Famalicão|Famalicão]] (loan)
+| caps3  = 28 
+| goals3 = 4
+| years4 = 2019–2020 
+| clubs4 = → [[CF Fuenlabrada|Fuenlabrada]] (loan)
+| caps4  = 20 
+| goals4 = 3
+| years5 = 2020–2021 
+| clubs5 = [[CF Fuenlabrada|Fuenlabrada]] 
+| caps5  = 30 
+| goals5 = 3
+| years6 = 2021–
+| clubs6 = [[Rayo Vallecano]] | caps6  = 49
+| goals6 = 3
+| nationalyears1 = 2022–
+| nationalteam1 = [[Senegal national football team|Senegal]]
+| nationalcaps1 = 4
+| nationalgoals1 = 0
+| club-update    = 9 February 2023
+| nationalteam-update = 21:08, 5 December 2022 (UTC)
+}}
+'''Pathé Ismaël Ciss''' (born 16 March 1994) is a Senegalese professional [[association football|footballer]] who plays as a [[central midfielder]] for Spanish club [[Rayo Vallecano]].
+
+==Career==
+Ciss was born in [[Dakar]], and joined the [[Diambars FC]] academy at the age of 12, joining his older brother [[Saliou Ciss|Saliou]] and father Ibou, who was a coach there.<ref>{{cite web|url=https://sportnewsafrica.com/news-football/coupe-du-monde-football/pathe-ciss-mieux-vaut-tard-que-jamais/|title=Pathé Ciss, mieux vaut tard que jamais|trans-title=Pathé Ciss, better late than never|publisher=Sport News Africa|language=fr|date=12 November 2022|accessdate=29 November 2022}}</ref> He started his senior career at Diambars, before joining [[LigaPro]] side [[C.F. União]] on 31 July 2017.<ref>{{cite web|url=https://www.dn.pt/lusa/interior/senegaleses-nestor-mendy-alhassane-sylla-e-pathe-ciss-reforcam-uniao-da-madeira-8676075.html|title=Senegaleses Nestor Mendy, Alhassane Sylla e Pathé Ciss reforçam União da Madeira|trans-title=Senegalese Nestor Mendy, Alhassane Sylla and Pathé Ciss bolster União da Madeira|publisher=[[Diário de Notícias]]|language=pt|date=31 July 2017|accessdate=3 September 2019}}</ref>
+
+Ciss made his professional debut on 13 August 2017, coming on as a late [[Substitute (association football)|substitute]] for [[Gonçalo Abreu]] in a 2–0 home win against [[Real S.C.]] He scored his first goal abroad on 29 October, netting the game's only in a home defeat of [[U.D. Oliveirense]].
+
+On 30 August 2018, after União [[2017–18 LigaPro|suffered relegation]], Ciss moved to [[F.C. Famalicão]] on a one-year loan deal, still in the second division.<ref>{{cite web|url=https://desporto.sapo.pt/futebol/segunda-liga/artigos/medio-senegales-pathe-ciss-reforca-famalicao|title=Médio senegalês Pathé Ciss reforça Famalicão|trans-title=Senegalese midfielder Pathé Ciss bolsters Famalicão|publisher=SAPO|language=pt|date=30 August 2018|accessdate=3 September 2019}}</ref> He contributed with four goals during [[2018–19 LigaPro|the campaign]], as his side returned to [[Primeira Liga]] after 25 years.
+
+On 2 September 2019, Ciss was loaned to Spanish [[Segunda División]] side [[CF Fuenlabrada]], for one year.<ref>{{cite web|url=https://www.cffuenlabrada.es/noticia-cffuenlabrada/el-cf-fuenlabrada-consigue-la-cesion-de-pathe-ciss-2565.aspx|title=El CF Fuenlabrada consigue la cesión de Pathé Ciss|trans-title=CF Fuenlabrada get the loan of Pathé Ciss|publisher=CF Fuenlabrada|language=es|date=2 September 2019|accessdate=3 September 2019}}</ref> The following 13 July, he signed a permanent contract until 2023 with the club.<ref>{{cite web|url=https://www.cffuenlabrada.es/noticia-cffuenlabrada/el-fuenlabrada-ejerce-la-opcion-de-compra-por-pathe-ciss-2930.aspx|title=El Fuenlabrada ejerce la opción de compra por Pathe Ciss|trans-title=Fuenlabrada exercise the buyout clause for Pathe Ciss|publisher=CF Fuenlabrada|language=es|date=13 July 2020|accessdate=11 August 2020}}</ref>
+
+On 28 July 2021, Ciss signed a four-year deal with [[Rayo Vallecano]], [[2020–21 Segunda División|newly promoted]] to [[La Liga]], along with teammate [[Randy Nteka]].<ref>{{cite web|url=http://www.rayovallecano.es/noticia/pathe-ciss-nuevo-jugador-del-rayo-vallecano|title=Pathé Ciss nuevo jugador del Rayo Vallecano|trans-title=Pathé Ciss new player of Rayo Vallecano|publisher=Rayo Vallecano|language=es|date=28 July 2021|accessdate=2 August 2021}}</ref>
+
+==Career statistics==
+=== Club ===
+{{updated|match played 22 August 2021}}
+
+{| class="wikitable" style="text-align:center"
+|+ Appearances and goals by club, season and competition
+|-
+!rowspan="2"|Club
+!rowspan="2"|Season
+!colspan="3"|League
+!colspan="2"|National cup
+!colspan="2"|League cup
+!colspan="2"|Other
+!colspan="2"|Total
+|-
+!Division!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals
+|-
+|[[C.F. União|União Madeira]]
+|[[2017–18 LigaPro|2017–18]]<ref name=":ForaDeJogo">{{ForaDeJogo|199403160007}}</ref>
+|[[LigaPro]]
+|30||2||1||0||3||0||colspan="2"|—||34||2
+|-
+|[[F.C. Famalicão|Famalicão]] (loan)
+|[[2018–19 LigaPro|2018–19]]<ref name=":ForaDeJogo" />
+|LigaPro
+|28||4||0||0||0||0||colspan="2"|—||28||4
+|-
+|[[CF Fuenlabrada|Fuenlabrada]] (loan)
+|[[2019–20 CF Fuenlabrada season|2019–20]]<ref name=":SW">{{Soccerway|pathe-ciss/495008}}</ref>
+|[[Segunda División]]
+|20||3||2||0||colspan="2"|—||colspan="2"|—||22||3
+|-
+|Fuenlabrada
+|[[2020–21 CF Fuenlabrada season|2020–21]]<ref name=":SW" />
+|Segunda División
+|30||3||1||0||colspan="2"|—||colspan="2"|—||31||3
+|-
+|[[Rayo Vallecano]]
+|[[2021–22 Rayo Vallecano season|2021–22]]<ref name=":SW" />
+|[[La Liga]]
+|2||0||0||0||colspan="2"|—||colspan="2"|—||2||0
+|-
+!colspan="3"|Career total
+!110!!6!!4!!0!!3!!0!!0!!0!!117!!6
+|}
+
+==References==
+{{reflist}}
+
+==External links==
+* {{BDFutbol|26734}}
+* {{ForaDeJogo|199403160007}}
+* {{Soccerway|pathe-ciss/495008}}
+
+{{Rayo Vallecano squad}}
+{{Senegal squad 2022 FIFA World Cup}}
+
+{{DEFAULTSORT:Ciss, Pathe}}
+[[Category:1994 births]]
+[[Category:Living people]]
+[[Category:Footballers from Dakar]]
+[[Category:Senegalese men's footballers]]
+[[Category:Men's association football midfielders]]
+[[Category:Diambars FC players]]
+[[Category:Liga Portugal 2 players]]
+[[Category:C.F. União players]]
+[[Category:F.C. Famalicão players]]
+[[Category:La Liga players]]
+[[Category:Segunda División players]]
+[[Category:CF Fuenlabrada footballers]]
+[[Category:Rayo Vallecano players]]
+[[Category:2022 FIFA World Cup players]]
+[[Category:Senegalese expatriate men's footballers]]
+[[Category:Senegalese expatriate sportspeople in Portugal]]
+[[Category:Senegalese expatriate sportspeople in Spain]]
+[[Category:Expatriate men's footballers in Portugal]]
+[[Category:Expatriate men's footballers in Spain]]

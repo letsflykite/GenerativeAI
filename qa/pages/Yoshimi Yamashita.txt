@@ -1,0 +1,38 @@
+{{Short description|Japanese football referee}}
+{{Use dmy dates|date=November 2022}}
+{{Infobox football official
+| name                = Yoshimi Yamashita
+| fullname            = Yoshimi Yamashita
+| birth_date          = {{birth date and age|df=yes|1986|2|20}}
+| birth_place         = [[Tokyo, Japan]]
+| years1              = 2021–<ref>{{cite web |title=Soccer D.B. : 2022 Yoshimi Yamashita Referee Result by Season |url=https://soccer-db.net/referee/index.php?re=1696&la=e |website=Soccer D.B. |access-date=21 September 2022}}</ref>
+| league1             = [[J3 League]]
+| role1               = [[Referee (association football)|Referee]]
+| years2              = 2022–
+| league2             = [[J1 League]], [[J2 League]]
+| role2               = Referee
+| internationalyears1 = 2015-<ref>{{cite web|url=https://digitalhub.fifa.com/m/7662513a8b75c7cc/original/2022-FIFA-Refereeing-International-Lists.pdf|title=FIFA 2022 Referring International Lists|website=Digitalhub.fifa.com|access-date=17 July 2022}}</ref>
+| confederation1      = [[FIFA International Referees List|FIFA listed]]
+| internationalrole1  = Referee
+}}
+
+{{nihongo|'''Yoshimi Yamashita'''|山下良美|Yamashita Yoshimi|born 20 February 1986}} is an international [[Association football|football]] [[referee (football)|referee]] from [[Japan]].<ref name="worldfootball">{{cite web|url=https://www.worldfootball.net/referee_summary/yoshimi-yamashita/|title=Yoshimi Yamashita &raquo; Matches as referee|website=Worldfootball.net|access-date=30 June 2019}}</ref><ref name="soccerway">{{cite web|url=https://women.soccerway.com/referees/yoshimi-yamashita/464028/|title=Japan - Y. Yamashita - Profile with news, career statistics and history|website=Women.soccerway.com|access-date=30 June 2019}}</ref> She was an official at the [[2019 FIFA Women's World Cup]] in France.<ref name="fifa">{{cite web|url=https://de.fifa.com/womensworldcup/news/aufgebot-der-spieloffiziellen-fur-die-fifa-frauen-wm-2019tm|author=|title=FIFA Frauen-WM 2019 - Nachrichten - Aufgebot der Spieloffiziellen für die FIFA Frauen-WM 2019 |website=FIFA.com|access-date=30 June 2019}}</ref><ref>{{Cite web|url=https://digitalhub.fifa.com/m/1b485598f8f5a1cd/original/n8eqnjfvnrfpvqt0msyx-pdf.pdf|title=FIFA.com|website=Digitalhub.fifa.com|access-date=17 July 2022}}</ref> She also refereed at the [[2020 Summer Olympics]], in the match between the [[United States women's national soccer team|United States]] and [[Sweden women's national football team|Sweden]]. In 2022 she was one of the three women referees selected to officiate at the [[2022 FIFA World Cup]] in [[Qatar]].<ref>{{Cite news|date=19 May 2022 |title=Female referees to officiate at men's World Cup for the first time |url=https://www.theguardian.com/football/2022/may/19/female-referees-to-officiate-at-mens-world-cup-for-the-first-time |access-date=19 May 2022 |newspaper=[[The Guardian]] |language=en}}</ref><ref>{{cite web |url=https://digitalhub.fifa.com/m/1da4b811328add8f/original/MEDIA-Alphabetical-order-List-of-Match-Officials-FWC-2022-Qatar.pdf |title=FIFA World Cup Qatar 2022: List of match officials |website=FIFA.com |publisher=[[Fédération Internationale de Football Association|FIFA]] |format=PDF |date=19 May 2022 |access-date=27 November 2022}}</ref>For the first time, a female referee was elected for the [[FIFA World Cup]]. The number of people was 6 people.
+
+Also during 2022, Yamashita became the first female referee to officiate a game in both the men's [[AFC Champions League]] and the [[J1 League]], taking charge of [[Melbourne City FC|Melbourne City]]'s 2–1 win over [[Chunnam Dragons]]<ref>{{cite web |title=Soccer D.B. : 2022 Yoshimi Yamashita Referee Result by Season |url=https://soccer-db.net/referee/index.php?re=1696&la=e |website=Soccer D.B. |access-date=21 September 2022}}</ref> and [[FC Tokyo]]'s 2–0 win over [[Kyoto Sanga]] respectively.<ref>{{cite web |title=Yamashita ready to become Japan's first female World Cup referee |url=https://www.aljazeera.com/news/2022/9/2/yoshimi-yamashita |website=www.aljazeera.com |access-date=21 September 2022 |language=en |date=2 September 2022}}</ref><ref>{{cite web |title=Japanese top men's football league gets first-ever woman referee |url=https://www.scmp.com/video/asia/3193114/bending-norms-japans-first-woman-referee-top-mens-j-league-football-match |website=South China Morning Post |access-date=21 September 2022 |date=18 September 2022}}</ref><ref>{{cite web |title=Soccer D.B. : 2022 J1 League 22/09/18 F.C.Tokyo - Kyoto Sanga F.C. Results,Players |url=https://soccer-db.net/result.php?g=20220918001&la=e |website=Soccer D.B. |access-date=21 September 2022 |language=en}}</ref>She made her FIFA World Cup debut as [[Fourth official|Fourth Official]] in the [[2022 FIFA World Cup Group F#Belgium vs Canada|Group F]] match against [[Belgium national football team|Belgium]] against [[Canada men's national soccer team|Canada]], and was the number Fourth Official in six games in this competition.<ref>{{Cite web |date=2022-12-11 |title=fifa.com |url=https://www.fifa.com/fifaplus/en/match-centre/match/17/255711/285063/400235477}}</ref>
+
+==References==
+{{Reflist}}
+
+{{2022 FIFA World Cup referees}}
+
+{{DEFAULTSORT:Yamashita, Yoshimi}}
+[[Category:Living people]]
+[[Category:1986 births]]
+[[Category:Japanese football referees]]
+[[Category:FIFA Women's World Cup referees]]
+[[Category:2022 FIFA World Cup referees]]
+[[Category:FIFA World Cup referees]]
+[[Category:Women association football referees]]
+
+
+{{Japan-footy-bio-stub}}

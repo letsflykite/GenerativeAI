@@ -1,0 +1,495 @@
+{{short description|Dutch footballer and manager (born 1951)}}
+{{Redirect|Van Gaal|the Main-belt Asteroid|14616 Van Gaal}}
+{{redirect|LvG|other uses|LVG (disambiguation)}}
+{{family name hatnote|Van Gaal|Gaal|lang=Dutch}}
+{{Use dmy dates|date=November 2022}}
+{{Infobox football biography
+| name           = Louis van Gaal
+| image          = Louis van Gaal 2014.jpg
+| caption        = Van Gaal in 2014
+| fullname       = Aloysius Paulus Maria van Gaal<ref>{{cite web |url=https://fdp.fifa.org/assetspublic/ce44/pdf/SquadLists-English.pdf |title=Squad List: FIFA World Cup Qatar 2022: Netherlands (NED) |publisher=FIFA |page=20 |date=15 November 2022 |access-date=16 November 2022}}</ref>
+| birth_date     = {{birth date and age|1951|8|8|df=y}}<ref name=BDFutbol>{{cite web |url=http://www.bdfutbol.com/en/l/l4204.html |title=Van Gaal: Louis van Gaal: Manager |publisher=BDFutbol |access-date=21 December 2017}}</ref>
+| birth_place    = [[Amsterdam]], Netherlands
+| height         = {{convert|6|ft|1|in|m|2|abbr=on}}<ref>{{cite news |last=Ronay |first=Barney |title=Louis van Gaal: an aristocrat of the game |url=http://www.irishtimes.com/sport/soccer/english-soccer/louis-van-gaal-an-aristocrat-of-the-game-1.1801592 |newspaper=Irish Times |date=19 May 2014 |access-date=20 May 2014}}</ref>
+| position       = [[Midfielder]]
+| currentclub    = 
+| youthyears1    = |youthclubs1 = RKSV de Meer
+| years1         =           |clubs1 = RKSV de Meer                         |caps1 =     |goals1 =  
+| years2         = 1972–1973 |clubs2 = [[AFC Ajax|Ajax]]                    |caps2 = 0   |goals2 =  0
+| years3         = 1973–1977 |clubs3 = [[Royal Antwerp F.C.|Royal Antwerp]] |caps3 = 41  |goals3 =  7
+| years4         = 1977–1978 |clubs4 = [[SC Telstar|Telstar]]               |caps4 = 25  |goals4 =  1
+| years5         = 1978–1986 |clubs5 = [[Sparta Rotterdam]]                 |caps5 = 248 |goals5 = 26
+| years6         = 1986–1987 |clubs6 = [[AZ Alkmaar|AZ]]                    |caps6 = 17  |goals6 =  0
+| totalcaps      = 331 |totalgoals = 34
+| manageryears1  = 1986–1987 |managerclubs1  = [[AZ Alkmaar|AZ]] (assistant)
+| manageryears2  = 1988–1990 |managerclubs2  = [[Ajax Youth Academy|Ajax]] (youth)
+| manageryears3  = 1989–1991 |managerclubs3  = [[AFC Ajax|Ajax]] (assistant)
+| manageryears4  = 1991–1997 |managerclubs4  = [[AFC Ajax|Ajax]]
+| manageryears5  = 1997–2000 |managerclubs5  = [[FC Barcelona|Barcelona]]
+| manageryears6  = 2000–2001 |managerclubs6  = [[Netherlands national football team|Netherlands]]
+| manageryears7  = 2001      |managerclubs7  = [[Netherlands national under-19 football team|Netherlands U20]]
+| manageryears8  = 2002–2003 |managerclubs8  = [[FC Barcelona|Barcelona]]
+| manageryears9  = 2004      |managerclubs9  = [[AFC Ajax|Ajax]] (technical director)
+| manageryears10 = 2005–2009 |managerclubs10 = [[AZ Alkmaar|AZ]]
+| manageryears11 = 2009–2011 |managerclubs11 = [[FC Bayern Munich|Bayern Munich]]
+| manageryears12 = 2012–2014 |managerclubs12 = [[Netherlands national football team|Netherlands]]
+| manageryears13 = 2014–2016 |managerclubs13 = [[Manchester United F.C.|Manchester United]]
+| manageryears14 = 2021–2022 |managerclubs14 = [[Netherlands national football team|Netherlands]]
+| medaltemplates = {{medalSport|Men's [[Association football|football]]}}
+{{Medal|Country|{{fb|NED}}}} <small>(as manager)</small>
+{{MedalComp|[[FIFA World Cup]]}}
+{{MedalBronze|[[2014 FIFA World Cup|2014]]|}}
+}}
+'''Aloysius Paulus Maria "Louis" van Gaal''' ({{IPA-nl|luˈʋi vɑŋ ˈɣaːl|-|Nl-Louis van Gaal.ogg}};<ref>''Van'' in isolation is pronounced {{IPA-nl|vɑn|}}.</ref> born 8 August 1951) is a Dutch former [[association football|football]] player and manager. At club level, he served as manager of [[AFC Ajax|Ajax]], [[FC Barcelona|Barcelona]], [[AZ Alkmaar]], [[FC Bayern Munich|Bayern Munich]] and [[Manchester United F.C.|Manchester United]], as well as having three spells in charge of the [[Netherlands national football team|Netherlands national team]]. Van Gaal is one of the greatest and  most decorated managers in world football, having won 20 major honours in his managerial career.<ref>{{cite web |url=http://www.express.co.uk/sport/football/476816/WATCH-Manchester-United-boss-Louis-Van-Gaal-s-factfile |title=WATCH Manchester United boss Louis Van Gaal's career factfile |website=Sunday Express |access-date=6 September 2015 |first=Charles |last=Perrin |date=19 May 2014 }}</ref><ref>{{cite web |url=http://www.skysports.com/football/news/11667/10731798/former-man-utd-boss-louis-van-gaal-retires-for-family-reasons |title=Former Man Utd boss Louis van Gaal retires for family reasons |website=Sky Sports |date=17 January 2017 |access-date=19 February 2017}}</ref> He is sometimes nicknamed the "Iron Tulip".<ref>{{cite magazine|url=https://www.newstatesman.com/culture/2015/02/life-and-times-iron-tulip-who-louis-van-gaal|title=The life and times of the Iron Tulip: Who is Louis van Gaal?|last=Bew|first=John|magazine=[[New Statesman]]|date=26 February 2015|access-date=21 September 2019}}</ref><ref>{{cite news|url=https://www.theguardian.com/football/blog/2016/may/22/louis-van-gaal-iron-tulip-muddled-thinker-manchester-united-jesse-lingard-fa-cup-final|title=Louis van Gaal: from Iron Tulip to muddled thinker at Manchester United|last=Jackson|first=Jamie|newspaper=[[The Guardian]]|date=23 May 2016|access-date=21 September 2019}}</ref><ref>{{cite news|url=https://www.independent.ie/entertainment/books/biography-king-louis-van-gaal-is-the-iron-tulip-30524157.html|title=Biography: King Louis van Gaal is the Iron Tulip|last=Lui|first=Max|newspaper=[[Irish Independent]]|date=24 August 2014|access-date=21 September 2019}}</ref>
+
+Before his career as a coach, Van Gaal played as a midfielder for [[Royal Antwerp F.C.|Royal Antwerp]], [[Stormvogels Telstar|Telstar]], [[Sparta Rotterdam]], Ajax and AZ Alkmaar. He is also a qualified [[physical education]] teacher, and worked at high schools during his career as a semi-professional footballer.<ref>{{cite book |first=Meindert |last=Van der Kaaij |title=Louis van Gaal |year=1997 |location=Utrecht |publisher=Kwadrat, cop |language=nl |isbn=90-6481-277-2 |page=43 onw}}</ref> After a brief spell as an assistant coach at AZ, Van Gaal served as an assistant under [[Leo Beenhakker]] at Ajax, and eventually took over as head coach in 1991. Under his lead, the club won three [[Eredivisie]] [[List of Dutch football champions|titles]], the [[UEFA Europa League|UEFA Cup]] and the [[UEFA Champions League]]. He moved to Barcelona in 1997 and won two [[List of Spanish football champions|league titles]] and one [[Copa del Rey]], but left after disagreements with the club's hierarchy.
+
+Van Gaal was then appointed at the [[Netherlands national football team|Netherlands]], but failed to qualify for the [[2002 FIFA World Cup]]. This preceded another brief spell at Barcelona, before he returned to AZ, where he won an Eredivisie title, the club's second ever in its history. He moved to Bayern Munich in 2009, and in Germany won the [[Bundesliga]], the [[DFB-Pokal]] and reached the final of the UEFA Champions League. He returned to manage the Netherlands for a second time, where he led the nation to a third-place finish at the [[2014 FIFA World Cup]]. He was hired by Manchester United later that summer, where he won the [[2015–16 FA Cup|FA Cup]], before being dismissed in 2016. Despite announcing his retirement due to family reasons in 2019, Van Gaal returned to management in August 2021, when he was appointed as head coach of the Netherlands for a third time.<ref>{{cite web | url = https://www.theguardian.com/football/2021/aug/04/louis-van-gaal-named-as-netherlands-manager-for-third-time | title = Louis van Gaal named as Netherlands manager for third time | website = The Guardian | date = 4 August 2021 | access-date = 6 August 2021}}</ref>
+
+==Playing and early coaching career==
+Van Gaal was born in [[Amsterdam]].<ref name=BDFutbol/> As a youngster, he started playing for the Amsterdam amateur side RKSV de Meer. At the age of 20, he joined the second team of [[AFC Ajax|Ajax]], but was never chosen to play in the first team, which at the time boasted players such as [[Johan Cruyff]] and [[Johan Neeskens]] in the midfield positions. He was loaned to [[Belgian First Division]] side [[Royal Antwerp FC|Royal Antwerp]] playing under [[Guy Thys]] with whom he was runner-up in the Belgian top division in [[1973–74 Belgian First Division|1974]] and [[1974–75 Belgian First Division|1975]]. During his time with Antwerp, Van Gaal suffered a broken nose in a friendly against [[K.V. Kortrijk]].<ref>{{cite web |last1=de Groote |first1=Raoul |title=Hoe Een Bodybuilder Avant La Lettre Van Gaals Neus Brak (in Dutch) |url=https://staantribune.nl/hoe-een-bodybuilder-avant-la-lettre-van-gaals-neus-brak/ |website=Staantribune |access-date=15 June 2018}}</ref> After four years spent in Belgium, he returned to his homeland and made his [[Eredivisie]] debut for [[Telstar (football club)|Telstar]] under the guidance of manager, [[Mircea Petescu]], whom he followed to [[Sparta Rotterdam]]. He later joined [[AZ Alkmaar|AZ]], where he also became assistant coach in 1986. After a short career at AZ, he returned to Ajax to become [[Leo Beenhakker]]'s assistant. When Beenhakker left in 1991, Van Gaal took over as manager.<ref name="ESPN Soccernet">{{cite web |url=http://www.espnfc.com/players/manager?id=99 |title=Louis van Gaal |publisher=ESPN Soccernet |access-date=21 May 2010}}</ref>
+
+==Management career==
+
+===Ajax (1991–1997)===
+[[File:Nieuwe trainers Ajax na vertrek Linder Louis van Gaal , kop, Bestanddeelnr 934-3207.jpg|thumb|upright|right|Van Gaal in 1988 as assistant manager with Ajax]]
+Van Gaal was Ajax manager from 1991 until 1997 and had a very successful tenure. Under Van Gaal, Ajax became the [[Eredivisie]] champions three times, in [[1993–94 Eredivisie|1994]], [[1994–95 Eredivisie|1995]] (notably going the entire [[1994–95 AFC Ajax season|1994–95]] season unbeaten in both the league and the [[UEFA Champions League|Champions League]]) and [[1995–96 Eredivisie|1996]].<ref name=colour>{{cite news|url=https://www.theguardian.com/football/2014/apr/22/louis-van-gaal-manchester-united-colourful-controversial|title=Louis van Gaal – colourful and controversial but he is a serial winner|date=23 April 2014|access-date=24 April 2014|work=The Guardian}}</ref> He also led Ajax to the [[KNVB Cup]] in [[1992–93 KNVB Cup|1993]] and the [[Johan Cruyff Shield]] in 1993, 1994, and 1995. On the European scene, Ajax captured the [[UEFA Europa League|UEFA Cup]] in [[1991–92 UEFA Cup|1992]] and the [[UEFA Champions League]] in [[1994–95 UEFA Champions League|1995]] after beating [[A.C. Milan|Milan]] in the [[1995 UEFA Champions League Final|final]]. The latter win was followed by a 5–1 aggregate win over [[Real Zaragoza]] in the [[1995 UEFA Super Cup]]. Late in 1995, Ajax beat Brazilian side [[Grêmio Foot-Ball Porto Alegrense|Grêmio]] on penalties to win the [[Intercontinental Cup (football)|Intercontinental Cup]]. Ajax were also Champions League runners-up in [[1995–96 UEFA Champions League|1996]] after losing to [[Juventus F.C.|Juventus]] on [[Penalty shootout|penalties]].
+
+Ajax was so successful under Van Gaal's leadership that during the 1990s, the [[Netherlands national football team|Netherlands national team]] was dominated by Ajax players such as [[Patrick Kluivert]], [[Marc Overmars]], [[Dennis Bergkamp]], [[Frank de Boer|Frank]] and [[Ronald de Boer]], [[Edgar Davids]], [[Clarence Seedorf]], [[Winston Bogarde]], [[Michael Reiziger]], and [[Edwin van der Sar]].
+
+After serving out his contract at Ajax in 1997, Van Gaal received his knighthood in the [[Order of Orange-Nassau]].<ref>{{cite web |url=http://www.louisvangaal.nl/louis-van-gaal.html |title=Over Louis |trans-title=About Louis |publisher=louisvangaal.nl |access-date=21 May 2010 |language=nl |url-status=dead |archive-url=https://web.archive.org/web/20100504082003/http://www.louisvangaal.nl/louis-van-gaal.html |archive-date=4 May 2010 }}</ref>
+
+===Barcelona (1997–2000)===
+Van Gaal moved to [[FC Barcelona|Barcelona]] in 1997, taking over from [[Bobby Robson]], and helped the team win two [[La Liga]] titles ([[1997–98 La Liga|1997–98]], [[1998–99 La Liga|1998–99]]) and the [[1997–98 Copa del Rey|Copa del Rey]] once.<ref name=colour/> Despite this success, he clashed with the media and came under criticism. He expressed that it was difficult to implement his football philosophy at Barcelona due to cultural differences, and that he struggled hard as some players were unwilling to follow his lead.<ref name="Van Gaal quits Barca">{{cite news |url=http://news.bbc.co.uk/2/hi/euro2000/teams/holland/756865.stm |title=Van Gaal quits Barca |publisher=BBC |date=20 May 2000 |access-date=21 May 2010}}</ref> His rows with [[Rivaldo]] are an example of this: Van Gaal insisted Rivaldo play as a left winger, whereas Rivaldo argued that he wanted to play in the centre, in effect undermining Van Gaal.<ref>{{cite news|url=https://www.independent.co.uk/sport/football/international/rivaldo-is-dropped-following-row-with-van-gaal-743006.html|title=Rivaldo is dropped following row with Van Gaal|last=Tynan|first=Gordon|date=22 December 1999|work=The Independent|location=London|access-date=21 May 2010}}</ref>
+
+Van Gaal eventually left the Catalan side on 20 May 2000,<ref name="Van Gaal quits Barca"/> days after losing the [[1999–2000 La Liga|league title]] to [[Deportivo de La Coruña]], uttering the immortal line, "''Amigos de la prensa. Yo me voy. Felicidades''." ("Friends of the press. I am leaving. Congratulations.")<ref name="ESPN Soccernet"/> He returned to the Netherlands to manage the Netherlands national team in preparation for the [[2002 FIFA World Cup]].
+
+===Netherlands national team (2000–2002)===
+Under Van Gaal, the Netherlands started their campaign to qualify for the 2002 World Cup poorly. Placed in [[2002 FIFA World Cup qualification – UEFA Group 2|Group 2]], an injury-hit side could only manage to secure a late 2–2 draw at home to the [[Republic of Ireland national football team|Republic of Ireland]], having been 2–0 down with 20 minutes to go.<ref>{{cite news |url=https://www.theguardian.com/football/2007/jul/23/newsstory.sport11 |title=Joy of Six: Symbolic reducers |work=The Guardian |location=London |date=23 July 2007 |access-date=12 July 2014}}</ref> A 4–0 win over [[Cyprus national football team|Cyprus]] was followed by a 2–0 defeat to [[Portugal national football team|Portugal]].
+
+In 2001, the Netherlands beat [[Andorra national football team|Andorra]], [[Cyprus national football team|Cyprus]] and [[Estonia national football team|Estonia]], but despite leading group leaders Portugal 2–0 with seven minutes left, drew 2–2 and fell three points behind second-place Republic of Ireland, who were unbeaten. When the sides met in [[Dublin]], Van Gaal boasted before the match that his squad was so much more talented, even the Irish fans would want them to qualify. Ireland went down to ten men after 58 minutes but scored nine minutes later and won 1–0. The Netherlands fell seven points behind them with two games left to play, meaning that they failed to qualify for the [[FIFA World Cup|World Cup]] for the first time since [[1986 FIFA World Cup|1986]].<ref>{{cite news |url=https://www.theguardian.com/football/blog/2011/nov/18/joy-of-six-republic-ireland-football |title=The Joy of Six: Republic of Ireland football moments |work=The Guardian |date=18 November 2011 |access-date=12 July 2014}}</ref> Van Gaal stepped down as manager on 31 January 2002 to be replaced by [[Dick Advocaat]]. After this, speculation began that Van Gaal would succeed [[Alex Ferguson|Sir Alex Ferguson]] at [[Manchester United F.C.|Manchester United]] once Ferguson claimed he would retire that year. According to Van Gaal, Ferguson decided against retiring and the deal fell through.<ref>{{cite news |url=https://www.theguardian.com/football/2002/jan/23/newsstory.sport4 |title=Man U close in on Van Gaal |work=The Guardian |location=London |date=23 January 2002 |access-date=22 June 2010}}</ref>
+
+===Return to Barcelona (2002–2003)===
+Van Gaal returned to Barcelona for the start of the [[2002–03 FC Barcelona season|2002–03 season]] on a contract until June 2005, but results were inconsistent. The club won a record-equalling ten successive matches in [[2002–03 UEFA Champions League|the Champions League]] but struggled in [[2002–03 La Liga|La Liga]]. After four wins, four draws and three defeats from their opening 11 league matches, Barcelona lost three matches in a row, to [[Real Sociedad]], relegation-threatened [[Rayo Vallecano]] and [[Sevilla FC|Sevilla]]. Two wins and a draw improved things but after successive defeats to [[Valencia CF|Valencia]] and [[Celta de Vigo]], he left by mutual consent on 28 January 2003 with the club in 12th place, just three points above the relegation zone and 20 points behind leaders Real Sociedad.<ref name="ESPN Soccernet"/>
+
+His transfers, particularly the signings of goalkeeper [[Robert Enke]], midfielder [[Gaizka Mendieta]] and playmaker [[Juan Román Riquelme]], all disappointed.<ref>{{cite news |url=http://news.bbc.co.uk/sport2/hi/football/europe/2700353.stm |title=Van Gaal leaves Barca |publisher=BBC |date=28 January 2003 |access-date=10 May 2010}}</ref> Riquelme had been bought to replace Rivaldo, whom Van Gaal had released on a free transfer despite having a year left on his contract. The two had fallen out during Van Gaal's previous tenure and after Van Gaal returned, Rivaldo said, "Van Gaal is the main cause of my departure. I don't like Van Gaal, and I am sure that he doesn't like me, either."<ref>{{cite news |url=https://www.nytimes.com/2002/07/24/sports/24iht-soccer_ed3__7.html |title=Soccer: This time Rivaldo loses the ego war |work=The New York Times |date=24 July 2002 |access-date=12 July 2014}}</ref> Van Gaal replied that Rivaldo's lack of commitment was the reason he was released, saying that he "was only interested in making more money and playing less. He was chosen as the best player in 1999, but he has not handled himself well since then and has not behaved like a footballer should. He had illusions about Barca and was requesting to take holidays when important Champions League games were approaching. He then hides back home in Brazil. He plays for Brazil like we needed him to at Barcelona, and he has proved this in the World Cup finals, showing he reserved himself for Japan."<ref>{{cite news |url=http://www1.skysports.com/football/news/11833/2241655/van-gaal-hits-back-at-rivaldo |title=Van Gaal hits back at Rivaldo |publisher=Sky Sports |access-date=12 July 2014}}</ref> Rivaldo joined [[A.C. Milan]] and won that season's Champions League. However due to his poor performances throughout the season, he won the Bidone d'Oro Award in 2003, which is given to the worst Serie A player during a particular season <ref>{{Cite web|url=https://archivio.tuttomercatoweb.com/2010/adriano-vince-il-bidone-d-oro-2010-242718|title=Adriano vince il Bidone d'Oro 2010 - TUTTOmercatoWEB.com|website=archivio.tuttomercatoweb.com}}</ref>
+
+===Return to Ajax (2004)===
+In 2004, Van Gaal returned to Ajax as a technical director, but resigned later that year due to an internal conflict with [[Ronald Koeman]].<ref>{{cite news |url=http://www.uefa.com/uefachampionsleague/news/newsid=247122.html |title=Van Gaal resigns from Ajax role |date=20 October 2004 |access-date=20 June 2014 |work=UEFA Official Website}}</ref><ref>{{cite news |url=http://edition.cnn.com/2004/SPORT/football/10/20/netherlands.van-gaal/ |title=Van Gaal resigns from post at Ajax |date=20 October 2004 |access-date=20 June 2014 |work=CNN}}</ref>
+
+===AZ (2005–2009)===
+[[File:Louis-van-gaal4-CN.jpg|thumb|Van Gaal with AZ]]
+In January 2005, it was announced that Van Gaal would replace [[Co Adriaanse]] as AZ manager on 1 July 2005.<ref>{{cite web |url=http://www.trouw.nl/krantenarchief/2005/01/15/2321188/Jacht_op_eerherstel_heropend.html |title=Jacht op eerherstel heropend |work=Trouw |date=15 January 2005 |access-date=10 May 2010 |language=nl}}</ref><ref>{{cite news |url=http://edition.cnn.com/2005/SPORT/football/01/14/alkmaar.vangaal/ |title=Van Gaal to take charge at Alkmaar |publisher=CNN |date=14 January 2005 |access-date=10 May 2010}}</ref> Under Van Gaal, AZ finished second in the Eredivisie in [[2005–06 Eredivisie|2005–06]] and third in [[2006–07 Eredivisie|2006–07]]. Van Gaal also led AZ to a runners-up finish in the [[2006–07 KNVB Cup]] and lost a [[2007–08 UEFA Champions League|2007–08 Champions League]] qualification play-off to Ajax 4–2 on aggregate.
+
+Van Gaal initially announced he would leave AZ at the end of the [[2007–08 Eredivisie|2007–08 season]] due to disappointing results, with the club finishing 11th in the Eredivisie.<ref>{{cite news |last=Ruizenaar |first=Theo |url=http://uk.reuters.com/article/worldFootballNews/idUKL2889958720080328 |title=Van Gaal to step down as AZ Alkmaar coach |work=Reuters |date=28 March 2008 |access-date=9 January 2010}}</ref> When several players of the AZ squad said that they would like him to stay with AZ, however, Van Gaal said he would give the players a chance to prove themselves.
+
+AZ started the [[2008–09 Eredivisie|2008–09]] season with two losses: 2–1 to [[NAC Breda]] and 0–3 to [[ADO Den Haag]], but after that the Alkmaar-based club remained unbeaten until 18 April, topping the table ahead of [[FC Twente|Twente]] and Ajax for the entire season, despite being predicted to finish as low as 13th by pundits.<ref>{{cite news |last=Schaerlaeckens |first=Leander |url=https://www.theguardian.com/football/2009/apr/20/eredivisie-az-alkmaar-dutch-football |title=How AZ Alkmaar proved the pundits were way off target |date=20 April 2009 |access-date=2 August 2014 |work=The Guardian}}</ref> AZ had the best defensive record in the Eredivisie and the second-best goalscoring record, behind Ajax, thanks to its offensive duo of league topscorer [[Mounir El Hamdaoui]] and Brazilian [[Ari (footballer, born 1985)|Ari]]. They were crowned league champions on 19 April, one day after AZ suffered an unexpected loss at home to [[SBV Vitesse|Vitesse]], which ended a string of 28 unbeaten games (surpassing the team's [[1980-81 Eredivisie|1980–81]] record of 25 unbeaten games). That same day Ajax, which was the only opponent that would have been able to surpass AZ given a win, lost 6–2 to [[PSV Eindhoven|PSV]].<ref>{{cite news |url=https://www.google.com/hostednews/canadianpress/article/ALeqM5j2aUlWUBM9Jzk4D7Amr-0THfFDpg |access-date=19 April 2009 |date=18 April 2009 |title=AZ Alkmaar loses 2–1 to Vitesse in Dutch soccer league Saturday |agency=The Canadian Press}}</ref><ref>{{cite news |url=https://www.google.com/hostednews/canadianpress/article/ALeqM5iRdPaZUa1Ug7nV9ZOHEJrKv5cO0w |date=19 April 2009 |access-date=19 April 2009 |title=AZ Alkmaar wins Dutch First Division soccer title after PSV downs Ajax|agency=The Canadian Press}}</ref>
+
+===Bayern Munich (2009–2011)===
+[[File:FC Bayern München - Deutscher Meister 2010.jpg|thumb|Van Gaal and Bayern Munich players celebrating their Bundesliga victory in 2010]]
+On 1 July 2009, Van Gaal took over as coach of [[FC Bayern Munich|Bayern Munich]].<ref>{{cite news |url=http://www.fcbayern.t-home.de/en/news/news/2009/19503.php |access-date=13 May 2009 |date=13 May 2009 |title=Alkmaar approve switch: Van Gaal poised to take Bayern helm|publisher=FC Bayern}}</ref><ref name=Bayerncoach>{{cite news |url=http://news.bbc.co.uk/sport2/hi/football/europe/8048852.stm |title=Bayern appoint Van Gaal as coach |date=13 May 2009 |access-date=13 May 2009 |work=BBC Sport}}</ref> He referred to his new employer as a "dream club". On 28 August 2009, he strengthened his team by signing compatriot [[Arjen Robben]] from [[Real Madrid C.F.|Real Madrid]]; this reunited the two, with Van Gaal selecting Robben for his debut in the Netherlands U20 team.<ref>{{cite news |url=https://www.usatoday.com/sports/soccer/2009-08-28-2569234383_x.htm |title=Arjen Robben signs for Bayern Munich |date=28 August 2009 |work=USA Today |access-date=26 May 2010}}</ref><ref>{{cite web|url=http://www.football.virginmedia.com/page/Football/Headlines/0,,12555~1781679,00.html|title=Van Gaal delighted with Robben|date=29 August 2009|publisher=Virginmedia.com|access-date=26 May 2010|url-status=dead|archive-url=https://web.archive.org/web/20090921180649/http://www.football.virginmedia.com/page/Football/Headlines/0,,12555~1781679,00.html|archive-date=21 September 2009}}</ref><ref>{{cite news |first=Ryland |last=James |url=http://news.smh.com.au/breaking-news-world/bayern-expect-top-marks-from-football-professor-van-gaal-20090515-b4zd.html |title=Bayern expect top marks from football professor Van Gaal |access-date=23 May 2009 |date=15 May 2009 |work=The Sydney Morning Herald}}</ref>
+
+Van Gaal got off to a poor start as Bayern coach, winning only one of his first four matches in charge, and by November the club was on the brink of a [[2009–10 UEFA Champions League|Champions League]] [[2009–10 UEFA Champions League group stage|group stage]] exit following two losses to [[FC Girondins de Bordeaux|Bordeaux]]. With [[Bayer Leverkusen]] at the top of the Bundesliga, speculation was rampant that he was on the brink of a departure from Bayern even earlier than his predecessor [[Jürgen Klinsmann]]. Van Gaal, however, kept insisting he is a "''prozesstrainer''", meaning that his team needs time to play the way he imagines.<ref>{{cite web|url=http://www.sueddeutsche.de/sport/fc-bayern-muenchen-ferguson-capello-1.31952|title=FC Bayern München, "Ferguson? Capello?" |date=16 October 2009|work=Süddeutsche Zeitung|language=de|access-date=23 May 2009}}</ref>
+
+[[File:Philipp Lahm Louis van Gaal crop.jpg|thumb|left|Van Gaal with [[Philipp Lahm]] in 2009]]
+Van Gaal installed many youth players as fixtures in the starting 11, including [[Thomas Müller]] and [[Holger Badstuber]], and also converted the winger [[Bastian Schweinsteiger]] into a defensive midfielder. A feud with Italian striker [[Luca Toni]], who had played an important role in Bayern's [[2007–08 FC Bayern Munich season|2007–08]] [[2007–08 Bundesliga|league]] and [[2007–08 DFB-Pokal|cup]] [[Double (association football)|double]], led to Toni's move to [[A.S. Roma|Roma]]. Bayern Munich's form, however, improved with two Champions League victories including an impressive 4–1 victory over [[Juventus F.C.|Juventus]] in [[Turin]], which allowed them to progress from their group in second position behind Bordeaux. By March, Bayern had moved to the semi-finals of the [[2009–10 DFB-Pokal|DFB-Pokal]] and were top of the [[2009–10 Bundesliga|Bundesliga]], ahead of [[Bayer 04 Leverkusen|Bayer Leverkusen]].
+
+On 8 May 2010, Bayern were crowned [[List of German football champions|Bundesliga champions]] following a 3–1 win at [[Hertha BSC]],<ref>{{cite web |url=http://soccernet.espn.go.com/news/story?id=783485&sec=europe&cc=5739&cc=5739 |title=Bayern celebrate title with win |date=8 May 2010 |publisher=ESPN |access-date=10 May 2010}}</ref> making Van Gaal the first ever Dutch coach to win the Bundesliga.<ref>{{cite web|url=http://www.bundesliga.de/en/liga/news/2009/index.php?f=153453.php|title=What a season...|date=10 May 2010 |publisher=Bundesliga.de|access-date=5 July 2015}}</ref> On 15 May 2010, Bayern won the DFB-Pokal with a 4–0 victory over [[SV Werder Bremen|Werder Bremen]], thus securing the domestic [[double (association football)|double]].<ref>{{cite news|url=http://news.bbc.co.uk/sport2/hi/football/europe/8684950.stm|title=Bayern win Cup to clinch Double|date=15 May 2010 |publisher=BBC|access-date=15 May 2010}}</ref>
+
+In the Champions League, Bayern won 4–4 on the [[away goals rule]] in the quarter-final against Manchester United<ref>{{cite web |url=http://www.uefa.com/uefachampionsleague/matches/season=2010/round=2000030/match=2000483/postmatch/report/index.html |title=United buckle under Bayern strain |date=7 April 2010 |publisher=UEFA |access-date=22 May 2010}}</ref> and 4–0 on aggregate against [[Olympique Lyonnais|Lyon]] in the semi-final,<ref>{{cite web |title=Olić treble takes brilliant Bayern to Madrid |url=http://www.uefa.com/uefachampionsleague/matches/season=2010/round=2000031/match=2000485/postmatch/report/index.html |date=27 April 2010 |publisher=UEFA |access-date=22 May 2010}}</ref> securing them a spot in the final, where Van Gaal was to meet his former pupil and assistant at Barcelona, [[Inter Milan|Internazionale]] coach [[José Mourinho]].<ref>{{cite web|url=https://www.google.com/hostednews/ap/article/ALeqM5iMXR_FMNBp-h7W0XpDPnlPYqgs9gD9FRD1680|title=Soccer: Master Van Gaal takes on to pupil Mourinho|date=22 May 2010|access-date=23 May 2010|agency=Associated Press}}</ref> Bayern, however, lost the [[2010 UEFA Champions League Final|final]] 2–0, handing Inter a first Italian [[Treble (association football)|treble]] and thus failing to secure the treble themselves.<ref>{{cite web |url=http://soccernet.espn.go.com/report?id=292088&cc=5739 |title=Bayern Munich 0 – 2 Internazionale |date=22 May 2010 |work=ESPN Soccernet |access-date=24 May 2010}}</ref> On 25 May 2010, [[Karl-Heinz Rummenigge]] expressed his desire to extend Van Gaal's contract as the club was very happy with his performance, despite Van Gaal still having one year of his contract to fulfil.<ref>{{cite news |last=Collins |first=Ben |url=http://www.skysports.com/story/0,19528,11881_6172272,00.html |title=Bayern want Van Gaal extension |date=25 May 2010 |access-date=25 May 2010 |work=[[Sky Sports]]}}</ref> At the end of the season, Van Gaal was voted [[Football Manager of the Year (Germany)|Manager of the Year]] in the yearly poll organized by VDV (professional players' union in Germany) and German magazine ''[[kicker (sports magazine)|kicker]]''.<ref>{{cite web |url=http://supersport.com/football/germany/news/100808/Robben_voted_Germanys_top_Footballer |title=Robben voted Germany's top Footballer |date=8 August 2010 |access-date=8 August 2010 |publisher=Supersport.com |url-status=dead |archive-url=https://archive.today/20120731003355/http://supersport.com/football/germany/news/100808/Robben_voted_Germanys_top_Footballer |archive-date=31 July 2012 }}</ref><ref>{{cite web|url=http://www.kicker.de/news/fussball/bundesliga/startseite/540831/artikel_Trainer-des-Jahres_Das-Wahlergebnis.html |title=Trainer des Jahres: Das Wahlergebnis |date=8 August 2010 |access-date=8 August 2010 |work=kicker |language=de}}</ref>
+
+Van Gaal's Bayern started the [[2010–11 FC Bayern Munich season|2010–11 season]] by winning the [[2010 DFL-Supercup|DFL-Supercup]], which had been officially reinstated after a 14-year absence.<ref>{{cite web |url=http://uk.eurosport.yahoo.com/07082010/58/bundesliga-bayern-win-german-supercup.html |title=Bayern win German Supercup |date=7 August 2010 |access-date=8 August 2010 |work=Eurosport}}</ref>
+
+On 7 March 2011, Bayern Munich declared that Van Gaal's contract was to be cancelled after the end of the 2010–11 season.<ref>{{cite web |url=http://www.fcbayern.telekom.de/de/aktuell/start/index.php|title=Van Gaal Trainer bis Saisonende – Einvernehmliche Vertragsauflösung zum 30.6.2011 |date=7 March 2011 |publisher=FcBayern.de |access-date=7 March 2011}}</ref> However, he was instead sacked on 10 April 2011 after losing the third place in the Bundesliga.<ref name=Bayernsacking>{{cite web |url=http://www.fcbayern.t-home.de/en/news/news/2011/29021.php |title=FC Bayern and Louis van Gaal part company |publisher=Bayern Munich |access-date=10 April 2011 |date=10 April 2011}}</ref>
+
+===Return to Netherlands national team (2012–2014)===
+[[File:Louis van Gaal 2013.jpg|thumb|upright|Van Gaal with the Dutch national team in 2013]]
+On 6 July 2012, Van Gaal was presented as the new Netherlands coach.<ref name=Vangaaldutchreturn>{{cite news |url=https://www.fifa.com/worldcup/preliminaries/news/newsid=1661051/index.html |archive-url=https://web.archive.org/web/20120710134643/http://www.fifa.com/worldcup/preliminaries/news/newsid=1661051/index.html |url-status=dead |archive-date=10 July 2012 |title=Van Gaal returns to Dutch hot-seat |date=6 July 2012 |access-date=6 July 2012 |publisher=FIFA}}</ref> "I am happy that the KNVB approached me", said Van Gaal, who was assisted by former Dutch internationals [[Danny Blind]] and [[Patrick Kluivert]], both part of his successful Ajax squad from 1995. "This is the challenge which I have been waiting for."<ref>{{cite news |last=Scholten |first=Berend |url=http://www.uefa.com/worldcup/news/newsid=1839534.html |title=Van Gaal returns for second Netherlands spell 2012 |date=6 July 2012 |access-date=6 July 2012|publisher=UEFA Official Website}}</ref>
+
+Van Gaal led the Netherlands through its [[2014 FIFA World Cup|2014 World Cup]] [[2014 FIFA World Cup qualification – UEFA Group D|qualification group]] as the team won nine and drew one of their ten matches with a goal difference of 34–5. Qualification was secured with two matches to spare, following a 2–0 away win against Andorra on 10 September 2013.<ref>{{cite news|title=Van Persie delivers Netherlands World Cup ticket|url=http://www.uefa.com/worldcup/season=2014/matches/round=2000294/match=2008606/postmatch/report/index.html#dutch+book+finals+spot|access-date=13 July 2014|publisher=[[UEFA]]|date=10 September 2013|last=Scholten|first=Berend}}</ref>
+
+Despite their successful qualifying campaign, expectations surrounding the Netherlands national team were comparatively low due to mixed pre-tournament friendly performances and the failure of the Dutch squad in Euro 2012, where they suffered three defeats out of three in the group stages in that tournament. In their first group game at the World Cup, at the [[Estádio Fonte Nova]] in [[Salvador, Bahia|Salvador]], however, Van Gaal's Dutch team came from behind to defeat reigning champions Spain 5–1.<ref>{{cite news|title=Spain 1–5 Netherlands|url=https://www.bbc.co.uk/sport/0/football/25285043|access-date=13 June 2014|work=[[BBC Sport]]|date=13 June 2014}}</ref> The Dutch victory over Spain was attributed in part to Van Gaal's use of counter-attacking tactics which disrupted the ''[[tiki-taka]]'' possession-based football of the Spanish team. His use of a [[Formation (association football)#3–5–2|3–5–2]] [[formation (association football)|formation]] was notable, as opposed to the typical Dutch [[Formation (association football)#4–3–3|4–3–3]] and this helped the Netherlands to tactically take advantage of Spain's weaknesses.<ref>{{cite news|last1=Ramesh|first1=Priya|title=Tactical Analysis: How the Netherlands demolished Spain|url=http://www.benefoot.net/tactical-analysis-how-the-netherlands-demolished-spain/|access-date=18 June 2014|publisher=Benefoot.net|date=18 June 2014|archive-url=https://web.archive.org/web/20140621194440/http://www.benefoot.net/tactical-analysis-how-the-netherlands-demolished-spain/|archive-date=21 June 2014|url-status=dead}}</ref>
+In their next match, the Dutch were trailing 2–1 to [[Australia national soccer team|Australia]] in the second half of their second group game, before winning 2–3 with the winning goal from young substitute [[Memphis Depay]].<ref>{{cite news|last1=Sanghera|first1=Mandeep|title=Australia 2–3 Netherlands|url=https://www.bbc.co.uk/sport/0/football/25285148|access-date=18 June 2014|work=[[BBC Sport]]|date=18 June 2014}}</ref>
+
+Ahead of the last game in the group, Van Gaal accused [[FIFA]] of "playing tricks" in the scheduling of matches to advantage the home nation, as [[Brazil national football team|Brazil]] were to play their last group match four hours after the Dutch, who they could meet in the round of 16 depending on their result. Brazil manager [[Luiz Felipe Scolari]] reacted by saying, "It was FIFA who chose the kick-off time. Some people expressed a view that we were going to choose who we were going to play. Those sorts of comments are either stupid or ill-intentioned." Van Gaal also criticised the referees who had awarded penalties against the Dutch in both of their matches, calling the decisions "unjustified" and "incorrect".<ref>{{cite news|title=World Cup 2014: Fifa unfair over fixtures – Louis van Gaal|url=https://www.bbc.co.uk/sport/0/football/27970924|access-date=23 June 2014|work=[[BBC Sport]]|date=23 June 2014}}</ref>
+
+The Dutch won their last group match against [[Chile national football team|Chile]] 2–0 to advance through as group winners.<ref>{{cite news |last1=Werdel |first1=Paul |title=World Cup 2014: Netherlands Defeats Chile, 2-0, to Win Group B |url=https://www.nytimes.com/interactive/2014/06/23/sports/worldcup/world-cup-netherlands-vs-chile.html |access-date=26 August 2020 |work=[[The New York Times]] |date=23 June 2014}}</ref> They then defeated [[Mexico national football team|Mexico]] 2–1 in the round of 16, coming behind from a [[Giovani dos Santos]] goal in the 45th minute, with [[Wesley Sneijder]] and [[Klaas-Jan Huntelaar]] scoring in the 89th and 90+2 minutes respectively.
+
+During their quarter-final match against [[Costa Rica national football team|Costa Rica]] in the World Cup, Van Gaal made the decision to substitute first-choice [[Goalkeeper (association football)|goalkeeper]] [[Jasper Cillessen]] for [[Tim Krul]] in the final minute of [[Overtime (sports)|extra time]]; as Krul had not played at all in the Netherlands' four prior matches at the tournament, Van Gaal saved one of his three allowed substitutions to bring Krul on.<ref>{{Cite web|title=Netherlands 0-0 Costa Rica|url=http://www.fifa.com/worldcup/matches/round=255953/match=300186488/report.html|archive-url=https://web.archive.org/web/20140707105319/http://www.fifa.com/worldcup/matches/round=255953/match=300186488/report.html|url-status=dead|archive-date=7 July 2014|website=FIFA.com|publisher=Fédération Internationale de Football Association|access-date=29 October 2019}}</ref> This decision paid off, as Krul saved two of the Costa Rican penalties to send the Netherlands through to the semi-finals to face [[Argentina national football team|Argentina]]. The Dutch team lost to Argentina in another penalty shootout. Van Gaal ended his tenure<ref name="World Cup 2014: Third place playoff will see Van Gaal and Scolari depart on very different notes">{{cite news|last=Lipton|first=Martin|title=World Cup 2014: Third place playoff will see Van Gaal and Scolari depart on very different notes|url=https://www.mirror.co.uk/sport/football/world-cup-2014/world-cup-2014-third-place-3845332|access-date=20 July 2014|work=Daily Mirror|location=London|date=12 July 2014}}</ref> as Netherlands manager on 12 July 2014 when the Dutch beat the hosts Brazil 3–0 in the third/fourth place play-off match with goals from [[Robin van Persie]], [[Daley Blind]] and [[Georginio Wijnaldum]].<ref>{{cite news|title=Van Persie und Co. demütigen ganz Brasilien erneut|url=http://www.kicker.de/news/fussball/wm/spiele/weltmeisterschaft/2014/7/1417881/spielanalyse_brasilien-920_niederlande.html|access-date=19 July 2014|publisher=kicker|date=12 July 2014|language=de}}</ref>
+
+===Manchester United (2014–2016)===
+Van Gaal was confirmed to replace [[David Moyes]] as the new manager for [[Manchester United F.C.|Manchester United]] on 19 May 2014, becoming the club's first manager from outside the British Isles.<ref name="UnitedVanGaal">{{cite web |url=https://www.bbc.com/sport/0/football/27243233 |title=Manchester United: Louis van Gaal confirmed as new manager |publisher=BBC |date=19 May 2014 |access-date=19 May 2014}}</ref> He signed a three-year contract coming into effect after the 2014 World Cup.<ref name="UnitedVanGaal"/> He named [[Ryan Giggs]] as his assistant manager, [[Marcel Bout]] as assistant coach, specialising in oppositional scouting and [[Frans Hoek]] as goalkeeping coach.<ref name="UnitedVanGaal"/> [[Albert Stuivenberg]] was appointed as assistant coach.<ref>{{cite news|title=New coaching appointment: Albert Stuivenberg|url=http://www.manutd.com/en/news-and-features/football-news/2014/jul/albert-stuivenberg-appointed-as-assistant-coach-for-manchester-united.aspx|access-date=9 July 2014|publisher=Manchester United F.C.|date=6 July 2014}}</ref> Van Gaal said he had inherited a "broken" United squad,<ref>{{cite news |url=https://www.theguardian.com/football/2014/jul/29/louis-van-gaal-broken-manchester-united-squad-david-moyes |title=Louis van Gaal: I have inherited a broken Manchester United squad |date=29 July 2014 |access-date=2 August 2014 |newspaper=The Guardian |location=London}}</ref><ref>{{cite news |last=Herbert |first=Ian |url=https://www.independent.co.uk/sport/football/premier-league/louis-van-gaal-says-he-is-inheriting-a-broken-manchester-united-squad-9634294.html |title=Louis van Gaal says he is inheriting a 'broken' Manchester United squad |date=28 July 2014 |access-date=2 August 2014 |newspaper=The Independent |location=London}}</ref><ref>{{cite news |last=Ogden |first=Mark |url=https://www.telegraph.co.uk/sport/football/teams/manchester-united/10996808/New-Manchester-United-manager-Louis-van-Gaal-says-he-has-inherited-a-broken-squad.html |archive-url=https://ghostarchive.org/archive/20220112/https://www.telegraph.co.uk/sport/football/teams/manchester-united/10996808/New-Manchester-United-manager-Louis-van-Gaal-says-he-has-inherited-a-broken-squad.html |archive-date=12 January 2022 |url-access=subscription |url-status=live |title=New Manchester United manager Louis van Gaal says he has inherited a 'broken squad' |date=28 July 2014 |access-date=2 August 2014 |newspaper=The Daily Telegraph |location=London}}{{cbignore}}</ref> and that he would give youth a chance.<ref>{{cite news |last=Ogden |first=Mark |url=https://www.telegraph.co.uk/sport/football/teams/manchester-united/10998813/Louis-van-Gaal-planning-for-Manchester-Uniteds-future-by-giving-youth-its-chance.html |archive-url=https://ghostarchive.org/archive/20220112/https://www.telegraph.co.uk/sport/football/teams/manchester-united/10998813/Louis-van-Gaal-planning-for-Manchester-Uniteds-future-by-giving-youth-its-chance.html |archive-date=12 January 2022 |url-access=subscription |url-status=live |title=Louis van Gaal planning for Manchester United's future by giving youth its chance |date=29 July 2014 |access-date=2 August 2014 |newspaper=The Daily Telegraph |location=London}}{{cbignore}}</ref> [[Ed Woodward]] said Van Gaal had "impressed everyone around the club" and that there was "a real positive energy and buzz around the place".<ref>{{cite news |last=Ogden |first=Mark |url=https://www.telegraph.co.uk/sport/football/teams/manchester-united/10983939/Louis-van-Gaal-has-brought-positive-energy-to-Manchester-United-claims-executive-vice-chairman-Ed-Woodward.html |archive-url=https://ghostarchive.org/archive/20220112/https://www.telegraph.co.uk/sport/football/teams/manchester-united/10983939/Louis-van-Gaal-has-brought-positive-energy-to-Manchester-United-claims-executive-vice-chairman-Ed-Woodward.html |archive-date=12 January 2022 |url-access=subscription |url-status=live |title=Louis van Gaal has brought positive energy to Manchester United, claims executive vice-chairman Ed Woodward |date=22 July 2014 |access-date=2 August 2014 |newspaper=The Daily Telegraph |location=London}}{{cbignore}}</ref>
+
+====2014–15 season====
+{{further|2014–15 Manchester United F.C. season}}
+Van Gaal's first signings were midfielder [[Ander Herrera]] for £29&nbsp;million,<ref>{{cite news |url=https://www.theguardian.com/football/2014/jun/26/ander-herrera-signs-manchester-united |title=Ander Herrera pays up contract and signs for Manchester United |date=26 June 2014 |access-date=3 September 2014 |work=The Guardian}}</ref><ref>{{cite news |last=Tynan |first=Gordon |url=https://www.independent.co.uk/sport/football/transfers/ander-herrera-manchester-united-confirm-signing-of-athletic-bilbao-midfielder-9566127.html |archive-url=https://web.archive.org/web/20140703203147/http://www.independent.co.uk/sport/football/transfers/ander-herrera-manchester-united-confirm-signing-of-athletic-bilbao-midfielder-9566127.html |url-status=dead |archive-date=3 July 2014 |title=Manchester United confirm signing of Athletic Bilbao midfielder |date=26 June 2014 |access-date=3 September 2014 |work=The Independent |location=London}}</ref> and defender [[Luke Shaw]] for £30&nbsp;million.<ref>{{cite news |url=http://www1.skysports.com/football/news/11667/9363721/premier-league-manchester-united-buy-luke-shaw-from-southampton-for-16330m |title=Manchester United buy Luke Shaw from Southampton for £30m |date=27 June 2014 |access-date=3 September 2014 |work=Sky Sports}}</ref><ref>{{cite news |last=De Menezes |first=Jack |url=https://www.independent.co.uk/sport/football/transfers/luke-shaw-to-manchester-united-confirmed-england-defender-completes-30m-move-from-southampton-9568357.html |archive-url=https://web.archive.org/web/20140627150559/http://www.independent.co.uk/sport/football/transfers/luke-shaw-to-manchester-united-confirmed-england-defender-completes-30m-move-from-southampton-9568357.html |url-status=dead |archive-date=27 June 2014 |title=Luke Shaw joins Manchester United: England defender completes £30m move from Southampton |date=27 June 2014 |access-date=3 September 2014 |work=The Independent |location=London}}</ref> On 20 August, Argentine defender [[Marcos Rojo]] was bought for €20&nbsp;million from [[Sporting Clube de Portugal|Sporting CP]]<ref>{{cite news|url=http://www.manutd.com/en/News-And-Features/Football-News/2014/Aug/Manchester-United-confirm-transfer-of-Marcos-Rojo-from-Sporting-Lisbon.aspx|title=United sign Marcos Rojo from Sporting Lisbon|date=20 August 2014|website=ManUtd.com|publisher=Manchester United|access-date=13 December 2015}}</ref> and, on 26 August, United signed Argentine winger [[Ángel Di María]] from [[Real Madrid C.F.|Real Madrid]] on a five-year contract. Di María's £59.7&nbsp;million fee set a new record for a signing by an English club, and took the club's summer spending to a reported £130&nbsp;million.<ref>{{cite news |last=Jackson |first=Jamie |url=https://www.theguardian.com/football/2014/aug/26/angel-di-maria-completes-move-to-manchester-united |title=Ángel di María completes record £59.7m move to Manchester United |date=26 August 2014 |access-date=26 August 2014 |work=The Guardian |location=London}}</ref> On transfer deadline day, Van Gaal signed [[Daley Blind]] from Ajax for a fee of £14&nbsp;million<ref>{{cite news |url=https://www.theguardian.com/football/2014/sep/01/ajax-transfer-daley-blind-manchester-unted |title=Ajax confirm the transfer of £14m Daley Blind to Manchester United |date=1 September 2014 |access-date=14 September 2014 |work=The Guardian |location=London}}</ref> and was granted an extension to sign [[Radamel Falcao]] on loan from [[AS Monaco FC|Monaco]] for a reported £6&nbsp;million.<ref>{{cite news |url=https://www.bbc.co.uk/sport/0/football/29011493 |title=Man Utd sign Falcao on loan for £6m |date=2 September 2014 |access-date=14 September 2014 |work=BBC Sport}}</ref>
+
+On 24 July, Van Gaal managed United for the first time as they beat the [[LA Galaxy]] 7–0 in a pre-season friendly,<ref>{{cite news |last=Jackson |first=Jamie |url=https://www.theguardian.com/football/2014/jul/24/manchester-united-hammer-la-galaxy-as-van-gaals-reign-starts-with-bang |title=Manchester United hammer LA Galaxy as Van Gaal's reign starts with bang |date=24 July 2014 |access-date=2 August 2014 |newspaper=The Guardian |location=London}}</ref><ref>{{cite news |last=Ogden |first=Mark |url=https://www.telegraph.co.uk/sport/football/teams/manchester-united/10987528/Manchester-United-thrash-LA-Galaxy-7-0-as-Ander-Herrera-stars-to-give-Louis-van-Gaal-victory-in-first-match.html |archive-url=https://ghostarchive.org/archive/20220112/https://www.telegraph.co.uk/sport/football/teams/manchester-united/10987528/Manchester-United-thrash-LA-Galaxy-7-0-as-Ander-Herrera-stars-to-give-Louis-van-Gaal-victory-in-first-match.html |archive-date=12 January 2022 |url-access=subscription |url-status=live |title=Manchester United thrash LA Galaxy 7–0 as Ander Herrera stars to give Louis van Gaal victory in first match |date=24 July 2014 |access-date=2 August 2014 |newspaper=The Daily Telegraph |location=London}}{{cbignore}}</ref> using a 3–5–2 formation.<ref>{{cite news |last=Bate |first=Adam |url=http://www1.skysports.com/football/news/15115/9392807/manchester-united-boss-louis-van-gaal-has-found-early-success-with-3-5-2-and-might-be-tempted-to-stick-with-it |title=Manchester United boss Louis van Gaal has found early success with 3–5–2 and might be tempted to stick with it |date=25 July 2014 |access-date=2 August 2014 |work=Sky Sports}}</ref> Manchester United won the [[2014 International Champions Cup]] under Van Gaal, winning the final 3–1 against [[Liverpool F.C.–Manchester United F.C. rivalry|rivals]] [[Liverpool F.C.|Liverpool]] on 4 August.<ref>{{cite news |last=Hirst |first=Paul |url=https://www.independent.co.uk/sport/football/premier-league/manchester-united-vs-liverpool-match-report-united-earn-early-bragging-rights-and-lift-trophy-in-us-final-after-beating-premier-league-rivals-9648223.html |title=Manchester United vs Liverpool match report: United earn early bragging rights and lift trophy in US final after beating Premier League rivals |date=5 August 2014 |access-date=16 August 2014 |work=The Independent |location=London}}</ref>
+
+Van Gaal lost his first official game in charge, a 2–1 home defeat to [[Swansea City A.F.C.|Swansea City]] in the opening match of the [[2014–15 Premier League|2014–15 Premier League season]].<ref>{{cite news |last=Taylor |first=Daniel |url=https://www.theguardian.com/football/2014/aug/16/manchester-united-swansea-city-premier-league-match-report |title=Swansea upstage Manchester United in Louis van Gaal's Premier League bow |date=16 August 2014 |access-date=16 August 2014 |work=The Guardian |location=London}}</ref> On 26 August, United lost 4–0 to [[EFL League One|League One]] side [[Milton Keynes Dons F.C.|Milton Keynes Dons]] in the second round of the [[2014–15 Football League Cup|League Cup]]; it was United's earliest League Cup exit.<ref>{{cite news |url=https://www.bbc.co.uk/sport/0/football/28847955 |title=Louis van Gaal's miserable start to life as Manchester United boss continued with a massive cup shock at the hands of League One MK Dons |date=26 August 2014 |access-date=27 August 2014|work=BBC Sport}}</ref> He won his first competitive game in United's fourth match of the league season, a 4–0 home victory over [[Queens Park Rangers F.C.|Queens Park Rangers]], with goals from Di María, Herrera, [[Wayne Rooney]] and [[Juan Mata]].<ref>{{cite news |last=Wallace |first=Sam |url=https://www.independent.co.uk/sport/football/premier-league/manchester-united-vs-qpr-match-report-angel-di-maria-inspires-first-win-for-louis-van-gaal-as-radamel-falcao-makes-debut-9732274.html |title=Angel Di Maria inspires first win for Louis van Gaal as Radamel Falcao makes debut |date=14 September 2014 |access-date=14 September 2014 |work=The Independent |location=London}}</ref>
+
+After 10 league matches, United were in ninth place with 13 points and three victories, their worst start to the season since [[1986–87 Manchester United F.C. season|1986–87]] under [[Ron Atkinson]].<ref name=worst>{{cite news |last=McNulty |first=Phil |title=Man Utd: Ten talking points after Louis van Gaal's first 10 games |url=https://www.bbc.co.uk/sport/0/football/29873988|work=BBC Sport |publisher=British Broadcasting Corporation |date=2 November 2014 |access-date=3 November 2014}}</ref> Their poor run included a 5–3 defeat to newly promoted [[Leicester City F.C.|Leicester City]]. The squad was suffering from injuries, including to new signings Herrera, Rojo and Falcao.<ref name=worst/> Van Gaal reacted to the poor form by saying that it would take three years to take his United team to their full potential.<ref>{{cite news|title=Louis van Gaal: Man Utd in a process that could last 'three years'|url=https://www.bbc.co.uk/sport/0/football/29949390|access-date=7 November 2014|work=BBC Sport|date=7 November 2014}}</ref>
+
+On 4 February 2015, Van Gaal was charged by [[The Football Association]] (FA) over comments he made about the referee [[Chris Foy (referee)|Chris Foy]], saying, "Every aspect of a match is against us – the pitch, the referee" during United's goalless draw in an FA Cup fourth-round match against [[Cambridge United F.C.|Cambridge United]].<ref>{{cite news|url=https://www.bbc.co.uk/sport/0/football/31138539 |title=Louis van Gaal: Man Utd manager charged by FA over comments |date=4 February 2015 |work=BBC Sport |publisher=British Broadcasting Corporation |access-date=5 February 2015}}</ref> After a requested hearing with the FA, Van Gaal was cleared of his charges, but was warned of future conduct.<ref>{{cite news |url=http://www1.skysports.com/football/news/11095/9720536/fa-cup-van-gaal-warned-by-fa |title=Manchester United manager Louis van Gaal warned by FA over future conduct |work=[[Sky Sports]] |date=18 February 2015 |access-date=20 February 2015}}</ref> On 8 February, Van Gaal was criticised by [[West Ham United F.C.|West Ham United]] manager [[Sam Allardyce]] for his [[long ball]] tactics after the Hammers conceded a late equaliser to United. Van Gaal responded to the criticism with statistics which seemed to show that West Ham played more long balls than his side.<ref>{{cite news |url=https://www.bbc.co.uk/sport/0/football/31262492 |title=Sam Allardyce: 'We couldn't cope with long-ball Man Utd' |work=BBC Sport |publisher=British Broadcasting Corporation |date=8 February 2015 |access-date=11 February 2015}}</ref><ref>{{cite news |url=http://www.espnfc.com/barclays-premier-league/story/2291593/man-united-boss-louis-van-gaal-hits-back-at-sam-allardyce-with-tactics-dossier |title=Man United boss Louis Van Gaal hits back at Sam Allardyce over tactics |work=ESPN FC |publisher=Entertainment and Sports Programming Network |date=10 February 2015 |access-date=11 February 2015 |first=Richard |last=Jolly}}</ref> His tactics were defended by fellow managers [[Arsène Wenger]] and [[Garry Monk]].<ref>{{Cite news |url=http://www.espn.co.uk/football/sport/story/402639.html |title=Arsene Wenger defends Van Gaal tactics |publisher=ESPN FC |date=15 February 2015 |access-date=20 February 2015}}</ref><ref>{{Cite news |url=https://www.bbc.co.uk/sport/0/football/31538870 |title=Swansea boss Garry Monk backs Louis van Gaal in long-ball row |publisher=BBC Sport |date=19 February 2015 |access-date=20 February 2015}}</ref>
+
+United's form improved as the season progressed. A run of seven consecutive Premier League wins was part of a ten-match unbeaten run that started with a 1–0 home win over [[Crystal Palace F.C.|Crystal Palace]] on 8 November 2014 and was ended by [[Southampton F.C.|Southampton]], who won 1–0 at Old Trafford on 11 January 2015.<ref>{{cite news|url=https://www.bbc.com/sport/0/football/30670763|title=Man Utd 0–1 Southampton|date=11 January 2015|publisher=BBC Sport |access-date=13 December 2015 |first=Marc |last=Higginson }}</ref> United completed another sequence of seven league wins in a row between 28 February and 12 April, concluding with an impressive 4–2 defeat of champions and [[Manchester derby|local rivals]] [[Manchester City F.C.|Manchester City]]. This was followed by three consecutive losses to [[Chelsea F.C.|Chelsea]], [[Everton F.C.|Everton]] and [[West Bromwich Albion]].<ref>{{cite news|url=https://www.bbc.com/sport/0/football/32460284|title=Man Utd 0–1 West Brom|date=2 May 2015|publisher=BBC Sport|access-date=13 December 2015 |first=Chris |last=Osborne}}</ref> United were also knocked out at the quarter-final stage of the [[2014–15 FA Cup]] by holders and eventual winners [[Arsenal F.C.|Arsenal]], who inflicted a 2–1 home defeat on Van Gaal's team on 9 March.<ref>{{cite news |first=Phil |last=McNulty |title=Man Utd 1–2 Arsenal |url=https://www.bbc.com/sport/0/football/31689011 |date=9 March 2015 |publisher=BBC Sport |access-date=13 December 2015 }}</ref>
+
+In his [[2014–15 Manchester United F.C. season|first season]], Van Gaal led Manchester United to a fourth-place finish, three places and six points higher than the previous season.<ref>{{cite news |url=https://www.bbc.co.uk/sport/0/football/32770866 |title=Hull City 0–0 Manchester United |publisher=BBC Sport |date=24 May 2015 |access-date=25 May 2015}}</ref>
+
+====2015–16 season====
+{{further|2015–16 Manchester United F.C. season}}
+During the summer transfer window, Van Gaal strengthened his squad by bringing in [[Memphis Depay]] from PSV, [[Matteo Darmian]] from [[Torino F.C.|Torino]], [[Sergio Romero]] from [[U.C. Sampdoria|Sampdoria]], [[Morgan Schneiderlin]] from Southampton, [[Bastian Schweinsteiger]] from Bayern Munich and [[Anthony Martial]] from Monaco.
+
+United comfortably defeated [[Club Brugge KV|Club Brugge]] in the qualifying round of the [[2015–16 UEFA Champions League|2015–16 Champions League]] to earn a place in the group stage. Domestically, United were solid in defence and went top of the [[2015–16 Premier League|Premier League]] at the end of September; however, mixed results followed, leaving them in fourth position going into November. They were eliminated from the [[2015–16 Football League Cup|League Cup]] by [[Football League Championship|Championship]] club [[Middlesbrough F.C.|Middlesbrough]] and were eliminated from the Champions League at the [[2015–16 UEFA Champions League group stage|group stage]] on 8 December after a 3–2 loss away to [[VfL Wolfsburg]]. They finished third in their group and subsequently dropped down to the [[2015–16 UEFA Europa League|UEFA Europa League]].<ref>{{cite web|url=https://www.theguardian.com/football/2015/dec/08/wolfsburg-manchester-united-champions-league-match-report|title=Manchester United crash out after Naldo double for Wolfsburg|date=8 December 2015|work=Guardianl|access-date=9 December 2015}}</ref> Fifteen days later, Van Gaal walked out of a press conference after being questioned about his future, amid speculations of dismissal following a six-game run without a win. He concluded, "I wish you a merry Christmas and maybe also a happy new year when I see you."<ref>{{cite news|title=Louis van Gaal: Manchester United boss walks out of news conference|url=https://www.bbc.co.uk/sport/0/football/35166770|access-date=26 December 2015|publisher=BBC Sport|date=23 December 2015}}</ref>
+
+The new year began well for the Dutchman with wins against Swansea City, [[Sheffield United F.C.|Sheffield United]] and Liverpool, and a draw against [[Newcastle United F.C.|Newcastle United]]. Manchester United, however, lost to Southampton on 23 January, rekindling rumors about Van Gaal offering to resign, but having his resignation rejected by United executive [[Ed Woodward]].<ref>{{Cite web |title=Glazers will trust Ed Woodward to make call on Louis van Gaal's Manchester United future|url=https://www.telegraph.co.uk/sport/football/teams/manchester-united/12128562/Glazers-will-trust-Ed-Woodward-to-make-call-on-Louis-van-Gaals-Manchester-United-future.html |archive-url=https://ghostarchive.org/archive/20220112/https://www.telegraph.co.uk/sport/football/teams/manchester-united/12128562/Glazers-will-trust-Ed-Woodward-to-make-call-on-Louis-van-Gaals-Manchester-United-future.html |archive-date=12 January 2022 |url-access=subscription |url-status=live|website=Telegraph.co.uk |date=28 January 2016 |access-date=28 January 2016 |first=Paul |last=Hayward}}{{cbignore}}</ref>
+
+{{wikinews|Manchester United sacks van Gaal after winning FA Cup}}
+
+After a 3–0 defeat away to [[Tottenham Hotspur F.C.|Tottenham Hotspur]] on 10 April, several United players reportedly turned on Van Gaal in the dressing room, calling him "clueless" and questioning his tactics after he openly criticized young striker [[Marcus Rashford]] and several other players and made several questionable decisions during the match, a result which left United four points off fourth-placed Manchester City.<ref>{{Cite web|url=https://www.independent.co.uk/sport/football/premier-league/manchester-united-news-players-turn-on-louis-van-gaal-after-dressing-room-criticism-of-marcus-a6980171.html|title=Manchester United players have had enough of Louis van Gaal|website=The Independent|date=12 April 2016|access-date=13 April 2016}}</ref>
+
+On 21 May 2016, Van Gaal won his only trophy with Manchester United, the [[FA Cup]], when his side defeated Crystal Palace [[2016 FA Cup Final|2–1]] after extra time; [[Jesse Lingard]]'s winning goal made United match Arsenal's then-record of 12 FA Cups.<ref>{{cite news |first=Daniel |last=Taylor |title=Manchester United win FA Cup as Jesse Lingard sinks Crystal Palace |url=https://www.theguardian.com/football/2016/may/21/crystal-palace-manchester-united-fa-cup-final-match-report |website=The Guardian |date=21 May 2016 |access-date=23 May 2016}}</ref> Two days later, Van Gaal and the Dutch members of his staff were sacked by the club.<ref>{{cite news |first=Mark |last=Critchley |title=Louis van Gaal sacked: Manchester United manager dismissed from Old Trafford post |url=https://www.independent.co.uk/sport/football/premier-league/louis-van-gaal-sacked-jose-mourinho-manchester-united-live-latest-news-a7043071.html |website=The Independent |date=23 May 2016 |access-date=23 May 2016}}</ref>
+
+===Hiatus from managing (2016–2021)===
+On 17 January 2017, it was announced that Van Gaal had retired "for family reasons".<ref>{{cite web |url=http://www.skysports.com/football/news/11667/10731798/former-man-utd-boss-louis-van-gaal-retires-for-family-reasons |title=Former Man Utd boss Louis van Gaal retires for family reasons |website=Sky Sports |date=17 January 2017 |access-date=17 January 2017}}</ref> He later said that it was only a [[sabbatical]].<ref>{{cite web |url=http://www.skysports.com/football/news/11095/10733051/former-manchester-united-manager-louis-van-gaal-denies-retirement |title=Former Manchester United manager Louis van Gaal denies retirement |website=Sky Sports |date=18 January 2017 |access-date=27 February 2017 |first=Patrick |last=Surlis}}</ref> He announced his official retirement from football on 12 March 2019.<ref>{{cite news |first=Charlotte |last=Duncker |title=Former Manchester United manager Louis van Gaal announces retirement |url=https://www.manchestereveningnews.co.uk/sport/football/man-utd-louis-van-gaal-15957434 |work=Manchester Evening News |publisher=MEN Media |date=11 March 2019 |access-date=11 March 2019 }}</ref><ref>{{cite web|url=https://www.bbc.co.uk/sport/football/47538051|title=Louis van Gaal: Former Manchester United, Barcelona and Bayern Munich boss retires at 67|date=12 March 2019|publisher=BBC}}</ref> [[SC Telstar|Telstar]] announced that during the [[2021–22 Eerste Divisie]], van Gaal would be managing the Telstar squad for one single match as a charity event.<ref>{{cite web|url=https://sctelstar.nl/nieuws/van-gaal-keert-terug|title=LOUIS VAN GAAL KEERT TERUG OP SPORTPARK SCHOONENBERG!|trans-title=LOUIS VAN GAAL RETURNS TO SPORTSPARK SCHOONENBERG!|date=15 June 2021|publisher=SC Telstar|website=sctelstar.nl|language=nl}}</ref>
+
+===Third stint at the Netherlands national team (2021−2022)===
+On 4 August 2021, Van Gaal came out of retirement to take charge of the [[Netherlands national football team|Netherlands national team]] for a third time. He replaced [[Frank de Boer]], who left the position in June following the team's disappointing [[UEFA Euro 2020|Euro 2020]] campaign.<ref>{{cite web|title=Louis van Gaal named Netherlands coach for third time|url=https://www.bbc.com/sport/football/58086688|publisher=British Broadcasting Corporation|work=BBC Sport|access-date=4 August 2021|date=4 August 2021}}</ref>
+
+Van Gaal's first match in his third stint at the Netherlands national team was a 1–1 draw against Norway on 1 September 2021.<ref>{{Cite news |date=1 September 2021 |title=Norway 1-1 Netherlands |work=BBC Sport |url=https://www.bbc.co.uk/sport/football/58378704 |access-date=31 March 2022}}</ref>
+
+In the [[2022 FIFA World Cup]], the Netherlands finished top of Group A, then they defeated the [[United States men's national soccer team|United States]] 3–1 in the round of 16.<ref>{{Cite news |title=Netherlands 3–1 USA |work=BBC Sport |url=https://www.bbc.com/sport/football/63765128 |date=3 December 2022}}</ref> On 9 December, Van Gaal and his Netherlands side lost again to Argentina on penalties, this time in the quarter-finals.<ref>{{Cite news |title=Argentina reaches Qatar 2022 semifinals with penalty shootout win over Netherlands in World Cup thriller |work=CNN |url=https://edition.cnn.com/2022/12/09/football/argentina-netherlands-world-cup-lionel-messi-spt-intl/index.html |date=9 December 2022}}</ref> Following their exit from the World Cup, Van Gaal resigned as head coach of the Netherlands national team, after 20 matches without defeat in his third stint.<ref>{{Cite news |author=Simon Collings |title=Louis van Gaal bids emotional farewell to the Netherlands job after World Cup exit |work=yahoo.com |url=https://uk.sports.yahoo.com/news/louis-van-gaal-bids-emotional-233528381.html |date=10 December 2022}}</ref>
+
+==Personal life==
+The youngest of nine brothers and sisters, Van Gaal was brought up as a Catholic. His father, a salesman, died when Van Gaal was 11. At the age of 18, Van Gaal met Fernanda Obbes at a Catholic youth group. They married three years later, and had two daughters, Brenda and Renate. In 1994, Obbes died of [[Liver cancer|liver]] and [[pancreatic cancer]]. Van Gaal was mocked by fans of Ajax's opponents for her illness.<ref>{{cite news |url=https://www.trouw.nl/nieuws/ajax-dreigt-feyenoord-fans-te-weren-na-beledigingen~ba190193 |title=Ajax dreigt Feyenoord-fans te weren na beledigingen |newspaper=Trouw (NL) |date=13 March 1995 |access-date=9 August 2021}}</ref> In 2008, Van Gaal married his current wife, Truus, with whom he shares a holiday home near [[Albufeira]], [[Algarve]], Portugal.<ref>{{cite news |url=https://www.telegraph.co.uk/sport/football/managers/louis-van-gaal/10832164/Manchester-Uniteds-Louis-van-Gaal-Arrogant-dominant-and-innovative.html |archive-url=https://ghostarchive.org/archive/20220112/https://www.telegraph.co.uk/sport/football/managers/louis-van-gaal/10832164/Manchester-Uniteds-Louis-van-Gaal-Arrogant-dominant-and-innovative.html |archive-date=12 January 2022 |url-access=subscription |url-status=live |first=Ian |last=Chadband |title=Manchester United's Louis van Gaal: Arrogant, dominant and innovative (and that's what he says about himself) |newspaper=The Daily Telegraph |location=London |date=19 May 2014 |access-date=20 May 2014}}{{cbignore}}</ref>
+
+According to ''[[The Daily Telegraph]]'', it emerged in 2009 that Van Gaal had lost millions of [[pound sterling|pounds]] investing in fraudster [[Bernie Madoff]]'s [[Ponzi scheme]].<ref>{{cite news |last=Liew |first=Jonathan |title=The Van Gaal Dossier |url=http://s.telegraph.co.uk/graphics/projects/the-van-gaal-dossier/index.html |access-date=8 January 2015 |work=The Daily Telegraph |location=London |date=15 August 2014}}</ref>
+
+On 3 April 2022, Van Gaal said that he was receiving treatment for prostate cancer.<ref>{{Cite web |last=McVitie |first=Peter |date=3 April 2022 |title=Netherlands boss Van Gaal reveals he has prostate cancer |url=https://www.goal.com/en-gh/news/netherlands-boss-van-gaal-reveals-he-has-prostate-cancer/blt33be936880e75cea |access-date=3 April 2022 |website=Goal}}</ref><ref>{{Cite web |date=3 April 2022 |title=Louis van Gaal: Netherlands boss reveals he has prostate cancer |url=https://www.skysports.com/football/news/12021/12581938/louis-van-gaal-netherlands-boss-reveals-he-has-prostate-cancer |access-date=3 April 2022 |website=Sky Sports }}</ref> On 12 April 2022, he said that his treatment was successful.<ref>{{Cite web |last=Whitehead |first=Jacob |title=Louis van Gaal says prostate cancer treatment has been successful |url=https://theathletic.com/news/louis-van-gaal-says-prostate-cancer-treatment-has-been-successful/TEzq7JFLq8u2/ |access-date=6 August 2022 |website=The Athletic }}</ref>
+
+==In media==
+In 2000, Van Gaal appeared in [[Nike, Inc.|Nike]]'s "The Mission" campaign advertising their [[Nike Total 90|Total 90]] range of football equipment. In the advert, Van Gaal sends a team of Nike-sponsored players to retrieve a Nike Geo Merlin ball being held in a secure facility by robot ninjas. [[Oliver Bierhoff]] protests, "It's just a ball", to which Van Gaal responds, "No! It's rounder!" After the players retrieve the ball, Van Gaal pilots the escape helicopter to safety.<ref>{{cite web |title=Nike: 'The Mission' – 20 Years On |url=https://www.soccerbible.com/news/2020/04/nike-the-mission-20-years-on/ |work=SoccerBible |date=16 April 2020 |accessdate=17 January 2023 }}</ref>
+
+In 2022, [[Geertjan Lassche]] made a two-hour documentary about Louis van Gaal, entitled ''Louis'', with the tagline "The man behind the legend". It premiered on 11 April in the Amsterdam [[Tuschinski Theatre]]. It was released on 14 April 2022.<ref>{{Cite web |date=22 March 2022 |title=First trailer revealed for documentary 'Louis' about Louis van Gaal |url= https://www.paudal.com/2022/03/22/first-trailer-revealed-for-documentary-louis-about-louis-van-gaal/ |access-date=13 April 2022 |website=Paudal}}</ref><ref>{{Cite web |date=11 March 2022 |title=In the photo Personalities on the red carpet at the premiere of the Van Gaal documentary |url=https://thenationview.com/sports/20203.html |access-date=13 April 2022|website=thenationview}}</ref>
+
+==Career statistics==
+
+===Club===
+[[File:GullitvanGaal1983.jpg|thumb|Van Gaal (right) playing for [[Sparta Rotterdam]] in 1983 against [[Feyenoord]]'s [[Ruud Gullit]]]]
+{| class="wikitable" style="text-align:center"
+|-
+!rowspan="2"|Club
+!rowspan="2"|Season
+!colspan="2"|League
+!colspan="2"|Cup
+!colspan="2"|[[UEFA|Europe]]
+!colspan="2"|Total
+|-
+!Apps
+!Goals
+!Apps
+!Goals
+!Apps
+!Goals
+!Apps
+!Goals
+|-
+|rowspan="3"|[[AFC Ajax|Ajax]]
+|[[1971–72 Eredivisie|1971–72]]
+|0||0||0||0||0||0||0||0
+|-
+|[[1972–73 Eredivisie|1972–73]]
+|0||0||0||0||0||0||0||0
+|-
+!Total
+!0!!0!!0!!0!!0!!0!!0!!0
+|-
+|rowspan="5"|[[Royal Antwerp F.C.|Royal Antwerp]]
+|[[1973–74 Belgian First Division|1973–74]]
+|9||2||3||0||colspan="2"|—||12||2
+|-
+|[[1974–75 Belgian First Division|1974–75]]
+|3||0||6||2||colspan="2"|—||9||2
+|-
+|[[1975–76 Belgian First Division|1975–76]]
+|19||4||2||2||4||0||25||6
+|-
+|[[1976–77 Belgian First Division|1976–77]]
+|10||1||1||0||colspan="2"|—||11||1
+|-
+!Total
+!41!!7!!12!!4!!4!!0!!57!!11
+|-
+|[[SC Telstar|Telstar]]
+|[[1977–78 Eredivisie|1977–78]]
+|25||1||colspan="2"|—||colspan="2"|—||25||1
+|-
+|rowspan="9"|[[Sparta Rotterdam]]
+|[[1978–79 Eredivisie|1978–79]]
+|31||5||colspan="2"|—||colspan="2"|—||31||5
+|-
+|[[1979–80 Eredivisie|1979–80]]
+|33||1||colspan="2"|—||colspan="2"|—||33||1
+|-
+|[[1980–81 Eredivisie|1980–81]]
+|33||5||colspan="2"|—||colspan="2"|—||33||5
+|-
+|[[1981–82 Eredivisie|1981–82]]
+|24||1||colspan="2"|—||colspan="2"|—||24||1
+|-
+|[[1982–83 Eredivisie|1982–83]]
+|33||5||colspan="2"|—||colspan="2"|—||33||5
+|-
+|[[1983–84 Eredivisie|1983–84]]
+|34||2||colspan="2"|—||6||0||40||2
+|-
+|[[1984–85 Eredivisie|1984–85]]
+|30||4||3||0||colspan="2"|—||33||4
+|-
+|[[1985–86 Eredivisie|1985–86]]
+|31||3||colspan="2"|—||4||0||35||3
+|-
+!Total
+!248!!26!!3!!0!!10!!0!!261!!26
+|-
+|[[AZ Alkmaar|AZ]]
+|[[1986–87 Eredivisie|1986–87]]
+|17||0||colspan="2"|—||colspan="2"|—||17||0
+|-
+!colspan="2"|Career totals
+!331!!34!!15!!4!!14!!0!!360!!38
+|}
+
+==Managerial statistics==
+{{updated|match played 9 December 2022}}
+
+{| class="wikitable" style="text-align:center"
+|-
+!rowspan="2"|Team
+!rowspan="2"|From
+!rowspan="2"|To
+!colspan="6"|Record
+|-
+!{{Tooltip|G|Games managed}}
+!{{Tooltip|W|Games won}}
+!{{Tooltip|D|Games drawn}}
+!{{Tooltip|L|Games lost}}
+!{{Tooltip|Win %|Winning percentage}}
+!{{Tooltip|Ref.|Reference}}
+|-
+|[[AFC Ajax|Ajax]]
+|28 September 1991
+|30 June 1997
+{{WDL|285|196|49|40}}
+|
+|-
+|[[FC Barcelona|Barcelona]]
+|1 July 1997
+|20 May 2000<ref>{{cite news|title=Barcas Trainer van Gaal gibt auf|url=http://www.kicker.de/228957/artikel_barcas-trainer-van-gaal-gibt-auf.html|access-date=28 January 2013|newspaper=kicker|date=20 May 2000|language=de}}</ref>
+{{WDL|171|95|32|44}}
+|
+|-
+|[[Netherlands national football team|Netherlands]]
+|7 July 2000<ref>{{cite news|title=Louis van Gaal soll auf Rijkaard folgen|url=http://www.kicker.de/230851/artikel_louis-van-gaal-soll-auf-rijkaard-folgen.html|access-date=28 January 2013|newspaper=kicker|date=3 July 2000|language=de}}</ref>
+|30 November 2001<ref>{{cite news|title=Bondscoach Van Gaal tritt zurück|url=http://www.kicker.de/news/fussball/intligen/startseite/257043/artikel_bondscoach-van-gaal-tritt-zurueck.html|access-date=28 January 2013|newspaper=kicker|date=30 November 2001|language=de}}</ref>
+{{WDL|15|9|4|2}}
+|
+|-
+|[[FC Barcelona|Barcelona]] 
+|1 July 2002<ref>{{cite news|title=Van Gaal kehrt nach Barcelona zurück|url=http://www.kicker.de/news/fussball/intligen/startseite/265637/artikel_van-gaal-kehrt-nach-barcelona-zurueck.html|access-date=28 January 2013|newspaper=kicker|date=13 May 2002|language=de}}</ref>
+|28 January 2003<ref>{{cite news|title=FC Barcelona entlässt van Gaal|url=http://www.kicker.de/news/fussball/intligen/startseite/278430/artikel_fc-barcelona-entlaesst-van-gaal.html|access-date=28 January 2013|newspaper=kicker|date=28 January 2003|language=de}}</ref>
+{{WDL|30|16|5|9}}
+|
+|-
+|[[AZ Alkmaar|AZ]]
+|1 July 2005
+|30 June 2009
+{{WDL|182|105|39|38}}
+|
+|-
+|[[FC Bayern Munich|Bayern Munich]]
+|1 July 2009<ref name=Bayerncoach/>
+|10 April 2011<ref name=Bayernsacking/>
+{{WDL|96|59|18|19}}
+|<ref>{{cite web|title=Bayern München|url=http://www.kicker.de/news/fussball/bundesliga/vereine/1-bundesliga/2013-14/bayern-muenchen-14/trainer.html|publisher=kicker|access-date=29 January 2014|language=de}}</ref>
+|-
+|[[Netherlands national football team|Netherlands]] 
+|6 July 2012<ref name=Vangaaldutchreturn/>
+|12 July 2014<ref name="World Cup 2014: Third place playoff will see Van Gaal and Scolari depart on very different notes"/>
+{{WDL|29|18|9|2}}
+|
+|-
+|[[Manchester United F.C.|Manchester United]]
+|16 July 2014<ref name="UnitedVanGaal"/>
+|23 May 2016
+{{WDL|103|54|25|24}}
+|<ref>{{Cite web |title=Louis van Gaal Profile & MUFC Managerial Record|url=https://www.mufcinfo.com/manupag/managers/mangers_pages/van_gaal_louis.html|access-date=9 December 2022 |website=www.mufcinfo.com}}</ref>
+|-
+|[[Netherlands national football team|Netherlands]] 
+|4 August 2021
+|9 December 2022
+{{WDL|20|14|6|0}}
+|
+|-
+!colspan="3"|Total
+{{WDLtot|931|566|187|178}}
+!
+|}
+
+==Honours==
+[[File:Louis-van-gaal2.jpg|thumb|Louis Van Gaal in 2010]]
+
+===Manager===
+'''Ajax'''<ref>{{cite web|url=https://www.fourfourtwo.com/features/when-ajax-ruled-world-how-louis-van-gaal-nurtured-his-glorious-mid-90s-empire%3f_format=amp|title=When Ajax ruled the world|website=Four Four Two.com}}</ref><ref name=LMA>{{cite web|url=http://www.leaguemanagers.com/managers/louis-van-gaal/|title=Louis Van Gaal|website=League Managers.com}}</ref>
+*[[Eredivisie]]: [[1993–94 Eredivisie|1993–94]], [[1994–95 Eredivisie|1994–95]], [[1995–96 Eredivisie|1995–96]]
+*[[KNVB Cup]]: [[1992–93 KNVB Cup|1992–93]]
+*[[Johan Cruyff Shield]]: [[1993 PTT Telecom Cup|1993]], [[1994 Dutch Supercup|1994]], [[1995 Dutch Supercup|1995]]
+*[[UEFA Champions League]]: [[1994–95 UEFA Champions League|1994–95]]; runner-up: [[1995–96 UEFA Champions League|1995–96]]
+*[[UEFA Europa League|UEFA Cup]]: [[1991–92 UEFA Cup|1991–92]]
+*[[UEFA Super Cup]]: [[1995 UEFA Super Cup|1995]]
+*[[Intercontinental Cup (football)|Intercontinental Cup]]: [[1995 Intercontinental Cup|1995]]
+
+'''Barcelona'''<ref name=LMA />
+*[[La Liga]]: [[1997–98 La Liga|1997–98]], [[1998–99 La Liga|1998–99]]
+*[[Copa del Rey]]: [[1997–98 Copa del Rey|1997–98]]
+*[[UEFA Super Cup]]: [[1997 UEFA Super Cup|1997]]
+
+'''AZ'''<ref name=LMA />
+*[[Eredivisie]]: [[2008–09 Eredivisie|2008–09]]
+
+'''Bayern Munich'''<ref name=LMA />
+*[[Bundesliga]]: [[2009–10 Bundesliga|2009–10]]
+*[[DFB-Pokal]]: [[2009–10 DFB-Pokal|2009–10]]
+*[[DFL-Supercup]]: [[2010 DFL-Supercup|2010]]
+*[[UEFA Champions League]] runner-up: [[2009–10 UEFA Champions League|2009–10]]<ref>{{cite news |url=http://news.bbc.co.uk/sport1/hi/football/europe/8697017.stm |title=Bayern Munich 0–2 Inter Milan |first=Sam |last=Lyon |website=BBC Sport |date=22 May 2010 |access-date=31 May 2021}}</ref>
+
+'''Manchester United'''<ref name=LMA />
+*[[FA Cup]]: [[2015–16 FA Cup|2015–16]]
+
+'''Netherlands'''<ref name=LMA />
+*[[FIFA World Cup]] third place: [[2014 FIFA World Cup|2014]]
+
+===Awards and achievements===
+*[[World Soccer (magazine)|World Soccer Manager of the Year]]: 1995<ref>{{cite web |url=http://www.worldsoccer.com/features/world-soccer-awards-previous-winners-2 |title=World Soccer Awards – previous winners |publisher=World Soccer |date=14 December 2012 |access-date=25 April 2014}}</ref>
+*[[Onze d'Or|Onze d'Or Coach of the Year]]: 1995<ref>{{cite web |url=https://www.rsssf.org/miscellaneous/onze-awards.html |title="Onze Mondial" Awards |date=6 March 2012 |website=[[RSSSF]] |access-date=25 April 2014}}</ref>
+*[[European Football Coach of the Year|European Coach of the Year—Sepp Herberger Award]]: 1995
+*[[El País King of European Soccer|El País Manager of the Year]]: 1995
+*[[European Coach of the Season (association football)|European Coach of the Season]]: 1994–95
+*[[Rinus Michels Award]]: 2007, 2009<ref>{{cite web |url=http://www.aefca.eu/en/node/242 |title=Van Gaal honoured with 'Rinus Michels Award' |publisher=AEFCA |date=10 June 2009 |access-date=9 May 2010 |archive-url=https://web.archive.org/web/20090629100546/http://www.aefca.eu/en/node/242 |archive-date=29 June 2009 |url-status=dead }}</ref>
+*[[:nl:Coach van het jaar (Nederland)|Dutch Sports Coach of the Year]]: 2009, 2014<ref>{{cite web |url=http://www.nu.nl/sport/2144935/louis-van-gaal-coach-van-jaar.html |title=Louis van Gaal coach van het jaar |trans-title=Louis van Gaal coach of the year |publisher=NU.nl |date=15 December 2009 |access-date=10 May 2010 |language=nl}}</ref><ref>{{cite web |title=Van Gaal becomes Coach of the Year|date=16 December 2014|access-date=16 December 2014|url=http://nos.nl/artikel/2009335-van-gaal-is-coach-van-het-jaar.html|publisher=NOS}}</ref>
+*Die Sprachwahrer des Jahres (3rd place): 2009<ref>{{cite web |url=http://www.augsburger-allgemeine.de/Home/Nachrichten/Aus-aller-Welt/Artikel,-Van-Gaal-zaehlt-zu-den-Sprachwahrern-des-Jahres-_arid,2098254_regid,2_puid,2_pageid,4293.html |title=Van Gaal zählt zu den Sprachwahrern des Jahres |trans-title=Van Gaal among the keepers of the language of the year |publisher=Augsburger Allgemeine |date=17 March 2010 |access-date=8 May 2010 |language=de |archive-url=https://web.archive.org/web/20100322215202/http://www.augsburger-allgemeine.de/Home/Nachrichten/Aus-aller-Welt/Artikel,-Van-Gaal-zaehlt-zu-den-Sprachwahrern-des-Jahres-_arid,2098254_regid,2_puid,2_pageid,4293.html |archive-date=22 March 2010 |url-status=dead}}</ref>
+*[[Football Manager of the Year (Germany)]]: 2010<ref>{{cite web |title=Trainer des Jahres: Das Wahlergebnis |date=8 August 2010 |access-date=8 August 2010 |url=http://www.kicker.de/news/fussball/bundesliga/startseite/540831/artikel_Trainer-des-Jahres_Das-Wahlergebnis.html |publisher=kicker}}</ref>
+*Anton Geesink Award: 2015<ref>{{cite web|url=http://www.jbn.nl/nieuws/DU17171_Anton+Geesink+Award+voor+Louis+van+Gaal.aspx|title=Anton Geesink Award voor Louis van Gaal|language=nl|website=JBN.nl|access-date=1 May 2018|archive-url=https://web.archive.org/web/20180502140044/http://www.jbn.nl/nieuws/DU17171_Anton+Geesink+Award+voor+Louis+van+Gaal.aspx|archive-date=2 May 2018|url-status=dead}}</ref>
+*Dutch Lifetime Achievement Award: 2017<ref>{{cite web|url=https://www.ad.nl/nederlands-voetbal/louis-van-gaal-krijgt-oeuvre-award~abb19da9/|title=Louis van Gaal krijgt oeuvre-award|language=nl|website=AD.nl}}</ref>
+*[[France Football]] 18th Greatest Manager of All Time: 2019<ref name="Top6FF">{{cite web |url=https://www.francefootball.fr/magazine/?prov=W-HP-LBMU|title=Top 50 des coaches de l'histoire|publisher=France Football |date=19 March 2019 |access-date=19 March 2019}}</ref>
+
+===Orders===
+*Knight of the [[Order of Orange-Nassau]]: 1997<ref>{{cite web |url=http://www.straitstimes.com/news/sport/football/story/five-things-you-should-know-about-louis-van-gaal-manchester-uniteds-new-ma |title=Five things you should know about Louis van Gaal, Manchester United's new manager |publisher=Straitstimes |date=2 May 2014 |access-date=10 May 2014}}</ref>
+
+==Publications==
+* ''De trainer en de totale mens'', Leipzig, Leibniz-Blätter-Verlag, 2021.
+
+==See also==
+* [[List of European Cup and UEFA Champions League winning managers]]
+* [[List of UEFA Cup winning managers]]
+*[[List of investors in Bernard L. Madoff Securities]]
+
+==References==
+{{Reflist}}
+
+==External links==
+{{commons category|Louis van Gaal}}
+{{wikiquote}}
+* {{Official website|http://www.louisvangaal.nl}} {{in lang|nl}}
+* [http://www.vi.nl/Spelers/Speler/Louis-Van-Gaal.htm Profile and stats] at [[Voetbal International]] {{in lang|nl}}
+* [https://web.archive.org/web/20150923183311/http://www.beijen.net/frank/cvs/gaal-l-van.htm CV Louis van Gaal] {{in lang|nl}}
+* [https://web.archive.org/web/20080108050250/http://www.fifa.com/worldfootball/clubfootball/news/newsid=667683.html Van Gaal: My football philosophy], from FIFA.com
+* [http://www.rafcmuseum.be/spelersarchief/spelersfiche.php?id=238 Profile and stats] on RAFC History {{in lang|nl}}
+
+{{Navboxes
+| title = Awards
+| bg = gold
+| fg = navy
+| list1 = 
+{{Intercontinental Cup winning managers}}
+{{European Cup / Champions League winning managers}}
+{{UEFA Cup / Europa League winning managers}}
+{{UEFA Super Cup winning managers}}
+{{La Liga winning managers}}
+{{Bundesliga winning managers}}
+{{Eredivisie winning managers}}
+{{FA Cup winning managers}}
+{{Copa del Rey winning managers}}
+{{DFB-Pokal winning managers}}
+{{Onze Mondial European Coach of the Year}}
+{{European Coach of the Year}}
+{{Football Manager of the Year (Germany)}}
+{{Eredivisie Coach of the Year}}
+}}
+{{Navboxes
+| title = Netherlands squads
+| bg = #F1771D
+| fg = white
+| bordercolor = #21468B
+| list1 =
+{{Netherlands squad 2014 FIFA World Cup}}
+{{Netherlands squad 2022 FIFA World Cup}}
+}}
+{{Navboxes
+| title = Managerial positions
+| list1 = 
+{{AFC Ajax managers}}
+{{FC Barcelona managers}}
+{{Netherlands national football team managers}}
+{{AZ managers}}
+{{FC Bayern Munich managers}}
+{{Manchester United F.C. managers}}
+}}
+{{Portal bar|Association football|Netherlands}}
+{{Authority control}}
+
+{{DEFAULTSORT:Gaal, Louis van}}
+[[Category:1951 births]]
+[[Category:Living people]]
+[[Category:Footballers from Amsterdam]]
+[[Category:Dutch men's footballers]]
+[[Category:Men's association football midfielders]]
+[[Category:AFC Ajax players]]
+[[Category:Royal Antwerp F.C. players]]
+[[Category:SC Telstar players]]
+[[Category:Sparta Rotterdam players]]
+[[Category:AZ Alkmaar players]]
+[[Category:Belgian Pro League players]]
+[[Category:Eredivisie players]]
+[[Category:Dutch expatriate men's footballers]]
+[[Category:Dutch expatriate sportspeople in Belgium]]
+[[Category:Expatriate men's footballers in Belgium]]
+[[Category:Dutch football managers]]
+[[Category:AFC Ajax managers]]
+[[Category:FC Barcelona managers]]
+[[Category:Netherlands national football team managers]]
+[[Category:Directors of football clubs in the Netherlands]]
+[[Category:AFC Ajax non-playing staff]]
+[[Category:AZ Alkmaar managers]]
+[[Category:FC Bayern Munich managers]]
+[[Category:Manchester United F.C. managers]]
+[[Category:UEFA Cup winning managers]]
+[[Category:UEFA Champions League winning managers]]
+[[Category:2014 FIFA World Cup managers]]
+[[Category:Eredivisie managers]]
+[[Category:La Liga managers]]
+[[Category:Bundesliga managers]]
+[[Category:Premier League managers]]
+[[Category:Rinus Michels Award winners]]
+[[Category:Dutch expatriate football managers]]
+[[Category:Dutch expatriate sportspeople in Spain]]
+[[Category:Dutch expatriate sportspeople in Germany]]
+[[Category:Dutch expatriate sportspeople in England]]
+[[Category:Expatriate football managers in Spain]]
+[[Category:Expatriate football managers in Germany]]
+[[Category:Expatriate football managers in England]]
+[[Category:Officers of the Order of Orange-Nassau]]
+[[Category:AZ Alkmaar non-playing staff]]
+[[Category:2022 FIFA World Cup managers]]
+[[Category:Knights of the Order of Orange-Nassau]]
+[[Category:Association football people awarded knighthoods]]

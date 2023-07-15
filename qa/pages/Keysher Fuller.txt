@@ -1,0 +1,108 @@
+{{short description|Costa Rican football player (born 1994)}}
+{{Use dmy dates|date=November 2022}}
+{{family name hatnote|Fuller|Spence|lang=Spanish}}
+{{Infobox football biography
+| name = Keysher Fuller
+| fullname = Keysher Fuller Spence<ref name="FIFA 2022">{{cite web |url=https://fdp.fifa.org/assetspublic/ce44/pdf/SquadLists-English.pdf |title=FIFA World Cup Qatar 2022 – Squad list: Costa Rica (CRC) |publisher=[[FIFA]] |page=7 |date=15 November 2022 |access-date=15 November 2022}}</ref>
+| image = Keysher Fuller (2020).jpg
+| caption = Fuller in 2020
+| birth_date = {{Birth date and age|1994|07|12|df=y}}<ref name="FIFA 2022"/>
+| birth_place = [[Limón]], Costa Rica<ref name=sw>{{Soccerway|keysher-fuller-spence/493777|access-date=29 May 2021}}</ref>
+| height = 1.83 m<ref name="FIFA 2022"/>
+| position = [[Defender (Association football)#Full-back|Right-back]]
+| currentclub = [[C.S. Herediano|Herediano]]
+| clubnumber = 37
+| youthyears1 = 
+| youthclubs1 = 
+| years1 = 2013–2016
+| clubs1 = Generación Saprissa Tibas
+| years2 = 2016–2017
+| clubs2 = [[C.S. Uruguay de Coronado|Uruguay de Coronado]]
+| years3 = 2017–2018
+| clubs3 = [[Municipal Grecia]]
+| caps3  = 38
+| goals3 = 4
+| years4 = 2018–
+| clubs4 = [[C.S. Herediano|Herediano]]
+| caps4  = 166
+| goals4 = 1
+| nationalyears1 = 2019–
+| nationalteam1 = [[Costa Rica national football team|Costa Rica]]
+| nationalcaps1 = 33
+| nationalgoals1 = 3
+| club-update = 12:41, 26 November 2022 (UTC)
+| ntupdate = 14:00, 27 November 2022 (UTC)
+}}
+
+'''Keysher Fuller Spence''' (born 12 July 1994) is a Costa Rican professional [[association football|footballer]] who plays as a [[Defender (Association football)#Full-back|right-back]] for [[Liga FPD]] Club Sport [[C.S. Herediano|Herediano]] and the [[Costa Rica national football team|Costa Rica national team]].<ref name=sw/><ref>{{NFT player|73502}}</ref>
+
+Fuller made his debut for the senior [[Costa Rica national football team|Costa Rica national team]] at [[Avaya Stadium]] on 2 February 2019 against the [[United States men's national soccer team|United States]].<ref>{{cite web|url=https://us.soccerway.com/matches/2019/02/02/world/friendlies/united-states-of-america/costa-rica/2937422/|title=United States vs. Costa Rica - 2 February 2019 - Soccerway|website=us.soccerway.com}}</ref>
+
+==Club career==
+From [[Limón]], Fuller was in the Deportivo Saprissa youth academy. Fuller made his debut in the Second Division reserve team in January 2012. In 2016 he went to [[C.S. Uruguay de Coronado]] and a season later to [[Municipal Grecia]] where he become one a first team regular during the 2017-18 season.<ref>{{Cite web|url=https://www.diarioextra.com/Noticia/detalle/334436/grecia-se-carga--de-veteranos|title=Greece is loaded with veterans|website=diorioextra.com}}</ref> His form for Municipal Grecia led to [[C.S. Herediano]] acquiring his services in March 2018.<ref>{{Cite web|url=https://everardoherrera.com/index.php/futbol-costa-rica/76-futbol-nacional/39838-herediano-ataca-el-mercado-y-ficha-a-keysher-fuller-de-grecia|title=Herediano attacks the market and signs Keysher Fuller from Greece|website=Evaradoherrera.com}}</ref> In his first season with Herediano he won the [[CONCACAF League]].<ref>{{Cite web|url=https://www.nacion.com/puro-deporte/futbol-nacional/herediano-sufre-en-honduras-pero-es-campeon-de/N5WHU25BFJG2PLZ32EJNOGKF34/story/|title=Herediano suffers in Honduras, but is the Concacaf League champion|website=nacion.com}}</ref>
+
+==International career==
+Born in Costa Rica, Fuller is of Jamaican descent.<ref>{{Cite web|url=https://www.youtube.com/watch?v=rsqNSuRu2rQ|title=How many players of Jamaican Heritage will be at the World Cup?|via=www.youtube.com}}</ref> He made his senior debut for [[Costa Rica national football team|Costa Rica]] in a friendly against the [[United States men's national soccer team|United States]] on February 2, 2019. The next month on March 27 he scored his first international goal in a 1-0 win over [[Jamaica national football team|Jamaica]].<ref>{{Cite web|url=https://everardoherrera.com/index.php/futbol-costa-rica-seleccion-nacional/67-seleccion/51845-una-costa-rica-sin-mucha-mejoria-vence-1-0-a-jamaica|title= Una Costa Rica sin mucha mejoría vence 1-0 a Jamaica|website=Everadoherrera.com}}</ref> Fuller also represented Costa Rica at the [[2021 CONCACAF Gold Cup]].<ref>{{cite web|url=https://soccer.nbcsports.com/2021/07/18/2021-gold-cup-squads-for-every-team/|date=July 17, 2021|title=2021 Gold Cup squads for every team|first=Andy|last=Edwards}}</ref>
+
+In November 2022, Fuller was named to the Costa Rican squad for the [[2022 FIFA World Cup]].<ref>{{Cite web|url=https://www.fifa.com/fifaplus/en/articles/costa-rica-squad-list-fifa-world-cup-qatar-2022|title=Suarez names Costa Rica squad for Qatar 2022}}</ref> In Costa Rica's second group stage match on November 27, he scored the only goal of the game in a 1-0 victory over [[Japan national football team|Japan]].<ref>{{Cite news|url=https://www.bbc.co.uk/sport/football/63692163|title=World Cup 2022: Japan 0-1 Costa Rica - Keysher Fuller earns shock win|work=BBC Sport }}</ref>
+
+===International goals===
+{| class="wikitable"
+|+ List of international goals scored by Keysher Fuller
+|-
+!scope="col"|No.
+!scope="col"|Date
+!scope="col"|Venue
+!scope="col"|Opponent
+!scope="col"|Score
+!scope="col"|Result
+!scope="col"|Competition
+|-
+| align="center"|1 || 27 March 2019 || [[Estadio Nacional de Costa Rica (2011)|Estadio Nacional de Costa Rica]], [[San José, Costa Rica|San José]], Costa Rica || {{fb|JAM}} || align="center"|1–0 || align="center"|1–0 ||[[Friendly (association football)|Friendly]]
+|-
+| align="center"|2 || 13 October 2021 || [[Lower.com Field]], [[Columbus, Ohio|Columbus]], United States || {{fb|USA}} || align="center"|1–0 || align="center"|1–2 ||[[2022 FIFA World Cup qualification – CONCACAF third round|2022 FIFA World Cup qualification]]
+|-
+| align="center"|3 || 27 November 2022 || [[Ahmed bin Ali Stadium]], [[Al-Rayyan]], Qatar || {{fb|JAP}} || align="center"|1–0 || align="center"|1–0 ||[[2022 FIFA World Cup Group E|2022 FIFA World Cup]]
+|}
+
+==Honours==
+'''Herediano'''
+*[[Liga FPD]]: [[2018–19 Liga FPD|Apertura 2018]], [[2019–20 Liga FPD|Apertura 2019]]
+*[[CONCACAF League]]: [[2018 CONCACAF League|2018]]
+
+==References==
+{{Reflist}}
+
+==External links==
+* {{Soccerway|493777}}
+
+{{Navboxes
+| title       = Costa Rica squads
+| bg          = #ce1126
+| fg          = white
+| bordercolor = blue
+| list1       = 
+{{Costa Rica squad 2019 CONCACAF Gold Cup}}
+{{Costa Rica squad 2021 CONCACAF Gold Cup}}
+{{Costa Rica squad 2022 FIFA World Cup}}
+{{Costa Rica squad 2023 CONCACAF Gold Cup}}
+}}
+
+{{DEFAULTSORT:Fuller, Keysher}}
+[[Category:1994 births]]
+[[Category:Living people]]
+[[Category:Costa Rican men's footballers]]
+[[Category:Costa Rica men's international footballers]]
+[[Category:Costa Rican people of Jamaican descent]]
+[[Category:Sportspeople from Limón Province]]
+[[Category:Men's association football defenders]]
+[[Category:C.S. Uruguay de Coronado players]]
+[[Category:Municipal Grecia players]]
+[[Category:C.S. Herediano footballers]]
+[[Category:Liga FPD players]]
+[[Category:2019 CONCACAF Gold Cup players]]
+[[Category:2021 CONCACAF Gold Cup players]]
+[[Category:2022 FIFA World Cup players]]
+[[Category:2023 CONCACAF Gold Cup players]]
+
+{{CostaRica-footy-bio-stub}}

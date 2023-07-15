@@ -1,0 +1,41 @@
+{{National squad
+ | name        = Switzerland squad 2022 FIFA World Cup
+ | bg          = #E00000
+ | fg          = white
+ | bordercolor = #CC0000
+ | country     = Switzerland
+ | comp link   = 2022 FIFA World Cup
+ | comp        = 2022 FIFA World Cup
+ | p1          = [[Yann Sommer|Sommer]]
+ | p2          = [[Edimilson Fernandes|Fernandes]]
+ | p3          = [[Silvan Widmer|Widmer]]
+ | p4          = [[Nico Elvedi|Elvedi]]
+ | p5          = [[Manuel Akanji|Akanji]]
+ | p6          = [[Denis Zakaria|Zakaria]]
+ | p7          = [[Breel Embolo|Embolo]]
+ | p8          = [[Remo Freuler|Freuler]]
+ | p9          = [[Haris Seferovic|Seferovic]]
+ | p10         = [[Granit Xhaka|Xhaka]]&nbsp;([[Captain (association football)|c]])
+ | p11         = [[Renato Steffen|Steffen]]
+ | p12         = [[Jonas Omlin|Omlin]]
+ | p13         = [[Ricardo Rodriguez (footballer)|Rodriguez]]
+ | p14         = [[Michel Aebischer|Aebischer]]
+ | p15         = [[Djibril Sow|Sow]]
+ | p16         = [[Christian Fassnacht|Fassnacht]]
+ | p17         = [[Ruben Vargas|Vargas]]
+ | p18         = [[Eray Cömert|Cömert]]
+ | p19         = [[Noah Okafor|Okafor]]
+ | p20         = [[Fabian Frei|Frei]]
+ | p21         = [[Gregor Kobel|Kobel]]
+ | p22         = [[Fabian Schär|Schär]]
+ | p23         = [[Xherdan Shaqiri|Shaqiri]]
+ | p24         = [[Philipp Köhn|Köhn]]
+ | p25         = [[Fabian Rieder|Rieder]]
+ | p26         = [[Ardon Jashari|Jashari]]
+ | coach       = [[Murat Yakin|Yakin]]
+}}<noinclude>
+{{Squad maintenance}}
+[[Category:2022 FIFA World Cup squad navigational boxes|Switzerland]]
+[[Category:Switzerland FIFA World Cup squad navigational boxes|2022]]
+[[Category:Switzerland at the 2022 FIFA World Cup|squad]]
+</noinclude>

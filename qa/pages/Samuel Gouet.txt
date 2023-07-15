@@ -1,0 +1,74 @@
+{{short description|Cameroonian footballer}}
+{{Use dmy dates|date=January 2022}}
+{{Infobox football biography
+| name        = Samuel Gouet
+| fullname    = Samuel Yves Oum Gwet
+| image       = Gouet Equipe du Cameroun (cropped).jpg
+| caption     = Gouet with [[Cameroon national football team|Cameroon]] in 2022
+| birth_date  = {{birth date and age|df=yes|1997|12|14}}
+| birth_place = [[Ayos]], Cameroon
+| height      = 1.85 m
+| position    = [[Midfielder]]
+| currentclub = [[K.V. Mechelen|Mechelen]]
+| clubnumber  = 17
+| years1      = 2016–2017 | clubs1 = [[APEJES Academy]]                       | caps1 =    | goals1 = 
+| years2      = 2017–2021 | clubs2 = [[SC Rheindorf Altach|Rheindorf Altach]] | caps2 = 99 | goals2 = 5
+| years3      = 2021–     | clubs3 = [[K.V. Mechelen|Mechelen]]               | caps3 = 40 | goals3 = 0
+| nationalyears1 = 2016–
+| nationalteam1  = [[Cameroon national football team|Cameroon]]
+| nationalcaps1  = 24
+| nationalgoals1 = 0
+| club-update = 8 June 2023
+| nationalteam-update = 00:45, 7 December 2022 (UTC)
+| medaltemplates = {{MedalSport|Men's [[association football|football]]}}
+{{MedalCountry|{{fb|CMR}}}}
+{{MedalCompetition|[[Africa Cup of Nations]]}}
+{{Medal|3rd|[[2021 Africa Cup of Nations|2021 Cameroon]]|}}
+}}
+'''Samuel Yves Oum Gwet''' (born 14 December 1997), known as '''Samuel Gouet''', is a Cameroonian professional [[Association football|footballer]] who plays as a [[midfielder]] for Belgian club [[K.V. Mechelen|Mechelen]].
+
+==Club career==
+On 23 June 2021, Gouet signed a three-year contract with [[K.V. Mechelen|Mechelen]] in Belgium.<ref>{{cite web|publisher=[[K.V. Mechelen|Mechelen]]|url=https://www.kvmechelen.be/nieuws/2021-2022/a-kern/oum-gouet-vierde-zomertransfer/|title=OUM GOUET VIERDE ZOMERTRANSFER|date=23 June 2021|accessdate=13 September 2021|language=nl|archive-date=9 January 2022|archive-url=https://web.archive.org/web/20220109102912/https://www.kvmechelen.be/nieuws/2021-2022/a-kern/oum-gouet-vierde-zomertransfer/|url-status=dead}}</ref>
+
+==International career==
+On 9 October 2020, Gouet made his international debut for [[Cameroon national football team|Cameroon]] in a friendly match against [[Japan national football team|Japan]].<ref>{{cite web|url=https://int.soccerway.com/matches/2020/10/09/world/friendlies/japan/cameroon/3375543/|title=JAPAN VS. CAMEROON 0 - 0|website=Soccerway|date=9 October 2020|accessdate=9 October 2020}}</ref> Gouet was one of the [[2022 FIFA World Cup squads#Cameroon|26 players]] that are called up for the [[2022 FIFA World Cup]].<ref>{{cite tweet |author=Cameroon national football team |author-link=Cameroon national football team |user=LIndomptables |number=1590446431575638016 |date=9 November 2022 |title=Liste des 26 Lions Indomptables qui iront défendre les couleurs du Cameroun à la Coupe du Monde FIFA Qatar 2022. |trans-title=List of the 26 Indomitable Lions who will defend the colours of Cameroon at the FIFA World Cup Qatar 2022. |language=fr |access-date=12 November 2022}}</ref>
+
+==References==
+{{reflist}}
+
+==External links==
+*{{soccerway|samuel-oum-gwet/431311}}
+
+{{KV Mechelen squad}}
+{{Navboxes
+| title = Cameroon squads
+| bg = #007A5E
+| fg = #FCD116
+| bordercolor = #D01124
+| list1 = 
+{{Cameroon squad 2021 Africa Cup of Nations}}
+{{Cameroon squad 2022 FIFA World Cup}}
+}}
+
+{{DEFAULTSORT:Gouet, Samuel}}
+[[Category:1997 births]]
+[[Category:Living people]]
+[[Category:Cameroonian men's footballers]]
+[[Category:Men's association football midfielders]]
+[[Category:Cameroon men's international footballers]]
+[[Category:2021 Africa Cup of Nations players]]
+[[Category:2022 FIFA World Cup players]]
+[[Category:SC Rheindorf Altach players]]
+[[Category:K.V. Mechelen players]]
+[[Category:Austrian Football Bundesliga players]]
+[[Category:Belgian Pro League players]]
+[[Category:Cameroonian expatriate men's footballers]]
+[[Category:Cameroonian expatriate sportspeople in Austria]]
+[[Category:Expatriate men's footballers in Austria]]
+[[Category:Cameroonian expatriate sportspeople in Belgium]]
+[[Category:Expatriate men's footballers in Belgium]]
+[[Category:People from Centre Region (Cameroon)]]
+[[Category:Cameroon men's A' international footballers]]
+[[Category:2016 African Nations Championship players]]
+
+{{Cameroon-footy-midfielder-stub}}

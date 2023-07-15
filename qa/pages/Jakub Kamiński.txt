@@ -1,0 +1,212 @@
+{{Use dmy dates|date=November 2022}}
+{{short description|Polish footballer}}
+{{Infobox football biography
+| name = Jakub Kamiński
+| full_name = Jakub Kamiński<ref name="FIFA 2022">{{cite web |url=https://fdp.fifa.org/assetspublic/ce44/pdf/SquadLists-English.pdf |title=FIFA World Cup Qatar 2022 – Squad list: Poland (POL) |publisher=[[FIFA]] |page=21 |date=15 November 2022 |access-date=15 November 2022}}</ref>
+| image = 
+| birth_date = {{birth date and age|df=yes|2002|6|5}}<ref>{{cite web|url=https://www.bundesliga.com/en/bundesliga/player/jakub-kaminski|title=Jakub Kamiński – Player Profile|publisher=Bundesliga|access-date=8 July 2022}}</ref>
+| birth_place = [[Ruda Śląska]], [[Poland]]
+| height = 1.79 m<ref>{{cite web|url=https://www.vfl-wolfsburg.de/en/teams/first-team/players-and-staff/spieler-profil/jakub-kaminski|title=Jakub Kamiński|publisher=VfL Wolfsburg|access-date=8 July 2022}}</ref>
+| position = [[Forward (association football)#Winger|Left winger]]
+| currentclub = [[VfL Wolfsburg]]
+| clubnumber = 16
+| youthyears1 = 2010–2015
+| youthclubs1 = [[Szombierki Bytom]]
+| youthyears2 = 2015–2019
+| youthclubs2 = [[Lech Poznań]]
+| years1 = 2019
+| clubs1 = [[Lech Poznań II]]
+| caps1 = 17
+| goals1 = 5
+| years2 = 2019–2022
+| clubs2 = [[Lech Poznań]]
+| caps2 = 85
+| goals2 = 14
+| years3 = 2022–
+| clubs3 = [[VfL Wolfsburg]]
+| caps3 = 31
+| goals3 = 4
+| nationalyears1 = 2017–2018
+| nationalteam1 = [[Poland national under-16 football team|Poland U16]]
+| nationalcaps1 = 13
+| nationalgoals1 = 4
+| nationalyears2 = 2018–2019
+| nationalteam2 = [[Poland national under-17 football team|Poland U17]]
+| nationalcaps2 = 8
+| nationalgoals2 = 0
+| nationalyears3 = 2019
+| nationalteam3 = [[Poland national under-19 football team|Poland U19]]
+| nationalcaps3 = 7
+| nationalgoals3 = 0
+| nationalyears4 = 2020–
+| nationalteam4 = [[Poland national under-21 football team|Poland U21]]
+| nationalcaps4 = 12
+| nationalgoals4 = 3
+| nationalyears5 = 2021–
+| nationalteam5 = [[Poland national football team|Poland]]
+| nationalcaps5 = 11
+| nationalgoals5 = 1
+| pcupdate = 27 May 2023
+| nationalteam-update = 20 June 2023
+| caption = 
+| image_size = 
+}}
+
+'''Jakub Kamiński''' (born 5 June 2002) is a Polish professional [[Association football|footballer]] who plays for [[Bundesliga]] club [[VfL Wolfsburg]] and the [[Poland national football team|Poland national team]] as a [[Forward (association football)#Winger|left winger]].<ref>[https://weszlo.com/2020/03/03/pilkarski-akrobata-lecha-poznan-chcial-rzucic-pilke-talent-rozblysnal/ Piłkarski akrobata z Lecha Poznań. Chciał rzucić piłkę, ale jego talent rozbłysnął] weszlo.com</ref><ref>{{soccerway|jakub-kamiski/574689}}</ref>
+
+==Club career==
+===Lech Poznań===
+As a junior, he started his career in [[Szombierki Bytom]], before joining [[Lech Poznań]]'s academy in 2015.<ref>{{cite web |title=Lech Poznań pierwsza drużyna - Jakub Kamiński |url=https://www.lechpoznan.pl/lech-poznan-pierwsza-druzyna,11,jakub-kaminski,133,zawodnik.html |publisher=[[Lech Poznań]] |access-date=1 July 2022 |language=pl}}</ref> Climbing through the ranks with junior squads and the [[Lech Poznań II|reserve team]], he was first included in the first team roster in early 2019 by [[Adam Nawałka]].<ref>{{cite web |title=Debiutanci w Belek: Jakub Kamiński |url=https://www.lechpoznan.pl/aktualnosci,2,debiutanci-w-belek-jakub-kaminski,32390.html |publisher=Lech Poznań |access-date=1 July 2022 |language=pl |date=27 January 2019}}</ref>
+
+He made his [[Ekstraklasa]] debut on 20 September 2019 in a 1–1 home draw against [[Jagiellonia Białystok]], in the starting line-up.<ref>{{cite web |title=Lech Poznań. Jakub Kamiński o debiucie: Wyszło OK |url=https://sport.interia.pl/klub-lech-poznan/news-lech-poznan-jakub-kaminski-o-debiucie-wyszlo-ok,nId,3215568 |website=interia.pl |access-date=1 July 2022 |language=pl |date=21 September 2019}}</ref> His first league goal came in a 3–3 away draw against [[Zagłębie Lubin]] on 6 June 2020. On 16 September 2020, he scored his first goal in European competitions against [[Hammarby Fotboll|Hammarby IF]] in a 0–3 [[2020–21 UEFA Europa League qualifying phase and play-off round|Europa League qualifying round]] away win. Following a successful [[2021–22 Lech Poznań season|2021–22 campaign]], which saw Lech win the championship on the club's 100th anniversary, he was voted Ekstraklasa's Young Player of the Season.<ref name=Awards>{{cite web |url=https://www.ekstraklasa.org/aktualnosci/3492 |title=Nagrodzono gwiazdy sezonu w PKO Bank Polski Ekstraklasie |publisher=Ekstraklasa |date=23 May 2022 |access-date=29 May 2022 |language=pl |archive-date=1 June 2022 |archive-url=https://web.archive.org/web/20220601074930/https://www.ekstraklasa.org/aktualnosci/3492/ |url-status=dead }}</ref>
+
+===Wolfsburg===
+On 10 January 2022, Kamiński signed a five-year contract with [[Bundesliga]] club [[VfL Wolfsburg]], effective from 1 July 2022.<ref>{{cite web |title=Wolves sign Kaminski |url=https://www.vfl-wolfsburg.de/en/newsdetails/news-detail/detail/news/wolves-sign-kaminski |publisher=[[VfL Wolfsburg]] |access-date=1 July 2022 |language=en |date=10 January 2022}}</ref>
+
+==International career==
+He made his debut for the [[Poland national football team]] on 5 September 2021 in a [[2022 FIFA World Cup qualification – UEFA Group I|World Cup qualifier]] against [[San Marino national football team|San Marino]], a 7–1 away victory. He started and played the whole match.<ref>{{cite web|publisher=[[FIFA]]|url=https://www.fifa.com/tournaments/mens/worldcup/qatar2022/qualifiers/uefa/match-center/400155539|title=San Marino v Poland game report|date=5 September 2021}}</ref>
+
+==Career statistics==
+===Club===
+{{updated|match played 27 May 2023}}
+{| class="wikitable" style="text-align: center;"
+|+ Appearances and goals by club, season and competition
+|-
+!rowspan="2"|Club
+!rowspan="2"|Season
+!colspan="3"|League
+!colspan="2"|Cup
+!colspan="2"|Europe
+!colspan="2"|Other
+!colspan="2"|Total
+|-
+!Division
+!Apps
+!Goals
+!Apps
+!Goals
+!Apps
+!Goals
+!Apps
+!Goals
+!Apps
+!Goals
+|-
+|rowspan="3"|[[Lech Poznań II]]
+|2018–19<ref name="Sezon 2018/19">{{cite web |url=http://www.90minut.pl/wystepy.php?id=33264&id_sezon=93 |title=Sezon 2018/19 |publisher=90minut |accessdate=3 October 2020}}</ref>
+|[[III liga]]
+|11||3||colspan="2"|—||colspan="2"|—||colspan="2"|—||11||3
+|-
+|[[2019–20 II liga|2019–20]]<ref name="Sezon 2019/20">{{cite web|url=http://www.90minut.pl/wystepy.php?id=33264&id_sezon=95|title=Sezon 2019/20|publisher=90minut|access-date=3 October 2020}}</ref>
+|[[II liga]]
+|6||2||colspan="2"|—||colspan="2"|—||colspan="2"|—||6||2
+|-
+!colspan="2"|Total
+!17!!5!!colspan="2"|—!!colspan="2"|—!!colspan="2"|—!!17!!5
+|-
+|rowspan="4"|[[Lech Poznań]]
+|[[2019–20 Lech Poznań season|2019–20]]<ref name="Sezon 2019/20"/>
+|[[Ekstraklasa]]
+|24||4||4||0||colspan="2"|—||colspan="2"|—||28||4
+|-
+|[[2020–21 Lech Poznań season|2020–21]]<ref name="Sezon 2020/21">{{cite web|url=http://www.90minut.pl/wystepy.php?id=33264&id_sezon=97|title=Sezon 2020/21|publisher=90minut|access-date=3 October 2020}}</ref>
+|Ekstraklasa
+|28||1||3||0||7||2||colspan="2"|—||38||3
+|-
+|[[2021–22 Lech Poznań season|2021–22]]<ref name="Sezon 2021/22">{{cite web|url=http://www.90minut.pl/wystepy.php?id=33264&id_sezon=99|title=Sezon 2021/22|publisher=90minut|access-date=1 September 2021}}</ref>
+|Ekstraklasa
+|33||9||3||0||colspan="2"|—||colspan="2"|—||36||9
+|-
+!colspan="2"|Total
+!85!!14!!10!!0!!7!!2!!colspan="2"|—!!102!!16
+|-
+|[[VfL Wolfsburg]]
+|[[2022–23 VfL Wolfsburg season|2022–23]]
+|[[Bundesliga]]
+|31||4||2||1||colspan="2"|—||colspan="2"|—||33||5
+|-
+!colspan="3"|Career total
+!133!!23!!12!!1!!7!!2!!0!!0!!152!!26
+|}
+
+===International===
+{{updated|match played 20 June 2023}}<ref name="Sezon 2021/22"/>
+
+{| class="wikitable" style="text-align:center"
+|-
+!National team!!Year!!Apps!!Goals
+|-
+|rowspan="4"|[[Poland national football team|Poland]]
+|-
+|2021||1||0
+|-
+|2022||7||1
+|-
+|2023||3||0
+|-
+!colspan="2"|Total!!11!!1
+|}
+
+''Scores and results list Poland's goal tally first.''
+{| class="wikitable sortable"
+|+ List of international goals scored by Jakub Kamiński
+|-
+!scope="col"|No.
+!scope="col"|Date
+!scope="col"|Venue
+!scope="col"|Cap
+!scope="col"|Opponent
+!scope="col"|Score
+!scope="col"|Result
+!scope="col"|Competition
+|-
+
+| align="center"|1 || 1 June 2022 || [[Stadion Wrocław]], [[Wrocław]], Poland || align="center" |2 || {{fb|WAL}} || align="center"|'''1'''–1 || align=center|2–1 || [[2022–23 UEFA Nations League A]]
+|}
+
+==Honours==
+===Club===
+'''Lech Poznań'''
+* [[Ekstraklasa]]: [[2021–22 Ekstraklasa|2021–22]]
+
+===Individual===
+*Ekstraklasa [[Piłka nożna magazine plebiscite|Best Player]]: 2021
+*Ekstraklasa Young Player of the Season: [[2021–22 Ekstraklasa#Awards|2021–22]]<ref name=Awards/>
+*Ekstraklasa Player of the Month: [[2021–22_Ekstraklasa#Player_of_the_Month|October 2021]]<ref>{{cite web |url=https://www.ekstraklasa.org/aktualnosci/2711 |title=Piłkarz Października PKO Banku Polskiego 2021: Jakub Kamiński |publisher=Ekstraklasa |date=12 November 2021 |access-date=12 November 2021 |language=pl |archive-date=13 November 2021 |archive-url=https://web.archive.org/web/20211113142914/https://www.ekstraklasa.org/aktualnosci/2711/ |url-status=dead }}</ref>
+*Ekstraklasa Young Player of the Month: [[2021–22_Ekstraklasa#Young_Player_of_the_Month|July 2021]],<ref>{{cite web |url=https://ekstraklasa.org/aktualnosci/mlodziezowiec-lipca-pko-banku-polskiego-2021-jakub-kaminski-15730 |title=Młodzieżowiec Lipca PKO Banku Polskiego 2021: Jakub Kamiński |publisher=Ekstraklasa |date=6 August 2021 |access-date=6 August 2021 |language=pl |archive-date=6 August 2021 |archive-url=https://web.archive.org/web/20210806090826/https://ekstraklasa.org/aktualnosci/mlodziezowiec-lipca-pko-banku-polskiego-2021-jakub-kaminski-15730 |url-status=dead }}</ref> [[2021–22_Ekstraklasa#Young_Player_of_the_Month|October 2021]]<ref>{{cite web |url=https://www.ekstraklasa.org/aktualnosci/2701 |title=Młodzieżowiec Października PKO Banku Polskiego 2021: Jakub Kamiński |publisher=Ekstraklasa |date=8 November 2021 |access-date=12 November 2021 |language=pl }}{{Dead link|date=February 2023 |bot=InternetArchiveBot |fix-attempted=yes }}</ref>
+
+==References==
+{{reflist}}
+
+==External links==
+* {{90minut|33264}}
+* {{Soccerway|jakub-kamiski/574689}}
+
+{{VfL Wolfsburg squad}}
+{{Ekstraklasa Best Player}}
+{{Poland squad 2022 FIFA World Cup}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Kaminski, Jakub}}
+[[Category:Polish men's footballers]]
+[[Category:2002 births]]
+[[Category:Living people]]
+[[Category:Footballers from Ruda Śląska]]
+[[Category:Poland men's youth international footballers]]
+[[Category:Poland men's under-21 international footballers]]
+[[Category:Poland men's international footballers]]
+[[Category:Men's association football wingers]]
+[[Category:Lech Poznań II players]]
+[[Category:Lech Poznań players]]
+[[Category:VfL Wolfsburg players]]
+[[Category:Ekstraklasa players]]
+[[Category:II liga players]]
+[[Category:III liga players]]
+[[Category:Bundesliga players]]
+[[Category:2022 FIFA World Cup players]]
+[[Category:Polish expatriate men's footballers]]
+[[Category:Expatriate men's footballers in Germany]]
+[[Category:Polish expatriate sportspeople in Germany]]
+
+{{Poland-footy-forward-stub}}
