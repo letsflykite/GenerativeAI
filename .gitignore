@@ -347,3 +347,7 @@ artifacts
 *.pb
 *.graph
 *.tf
+
+## Gradio
+/flagged
+
