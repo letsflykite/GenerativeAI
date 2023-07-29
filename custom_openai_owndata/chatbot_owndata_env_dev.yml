@@ -1,0 +1,19 @@
+name: chatbot_owndata_env_dev
+channels:
+  - pkgs/main
+  - conda-forge
+  - huggingface
+  - defaults
+dependencies:
+  - pip=23.2.1
+  - python=3.11.3
+  - pip:
+      - openai==0.27.8
+      - gradio==3.9
+      #- gradio==3.38.0 
+
+      - llama-index==0.6.5
+      - pypdf2==3.0.1
+      - datasets==2.13.1
+      #- langchain==0.0.148 pip show langchain uninstalled langchain. (which had been 0.0.181)
+      #langchain Required-by: llama-index

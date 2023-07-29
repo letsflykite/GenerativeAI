@@ -6,13 +6,13 @@ Service to generate json from text
 ### Environment
 
 ##### Venv + Pip
-`conda update -n base -c defaults conda`
+
 `conda deactivate`
 `conda remove --name openaiutils_env_dev --all`
-
+`conda update -n base -c defaults conda`
 Create a virtual env with conda
 
-`conda env create -f openaiutils_env_dev.yml python=3.9`
+`sudo conda env create -f openaiutils_env_dev.yml python=3.9`
 
 `conda activate openaiutils_env_dev`
 
@@ -24,7 +24,8 @@ Make sure OPENAI_API_KEY is set in your environment variables
 
 
 ### Run standalone 
-        python simple_json_gen.py
+        `bash`
+        `python simple_json_gen.py`
 
 ### Sample output
 
@@ -61,8 +62,7 @@ Sample turn 2 output:
 ```
 
 Sample turn 3 input:
-Please generate a json of schema version 2 for Jane Smith of age 2 and her social security number is
-987-65-4321
+Please generate a json of schema version 2 for Jane Smith of age 2 and her social security number is 987-65-4321
 
 Sample turn 3 output:
 
